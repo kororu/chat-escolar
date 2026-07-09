@@ -1,4 +1,4 @@
-import { useState } from 'react'
+import { useEffect, useState } from 'react'
 import './App.css'
 
 const courses = ['1° básico', '5° básico', '6° básico']
@@ -31,6 +31,12 @@ const videoCards = [
   },
 ]
 
+const backendLabels = {
+  checking: 'Comprobando backend...',
+  connected: 'Backend conectado',
+  unavailable: 'Backend no disponible',
+}
+
 function SelectionGroup({ title, options, selected, onSelect }) {
   return (
     <section className="control-group" aria-label={title}>
@@ -52,6 +58,7 @@ function SelectionGroup({ title, options, selected, onSelect }) {
 }
 
 function App() {
+  const [backendStatus, setBackendStatus] = useState('checking')
   const [course, setCourse] = useState('5° básico')
   const [mode, setMode] = useState('Estudiar para el colegio')
   const [subject, setSubject] = useState('Ciencias Naturales')
@@ -69,6 +76,29 @@ function App() {
         'No te preocupes. Vamos paso a paso.\n\nExplicación corta:\nUn hábitat es el lugar donde vive un ser vivo.\n\nEjemplo:\nUn pez vive en el agua. Un cactus vive en el desierto.\n\nMini resumen:\nEl hábitat es el hogar natural de un ser vivo.\n\nPregunta:\n¿Dónde vive un pez?',
     },
   ])
+
+  useEffect(() => {
+    const controller = new AbortController()
+
+    const checkBackend = async () => {
+      try {
+        const response = await fetch('http://127.0.0.1:8000/health', {
+          signal: controller.signal,
+        })
+        const data = await response.json()
+
+        setBackendStatus(response.ok && data.status === 'ok' ? 'connected' : 'unavailable')
+      } catch (error) {
+        if (error.name !== 'AbortError') {
+          setBackendStatus('unavailable')
+        }
+      }
+    }
+
+    checkBackend()
+
+    return () => controller.abort()
+  }, [])
 
   const sendQuestion = () => {
     const cleanQuestion = question.trim()
@@ -118,6 +148,9 @@ function App() {
           <p className="subtitle">Aprende paso a paso</p>
         </div>
         <div className="student-card" aria-label="Perfil actual">
+          <span className={`backend-status ${backendStatus}`}>
+            {backendLabels[backendStatus]}
+          </span>
           <span>Perfil de prueba</span>
           <strong>{course}</strong>
           <small>Tutor paciente · lectura clara</small>

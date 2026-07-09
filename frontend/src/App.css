@@ -54,6 +54,52 @@
   font-size: 1.25rem;
 }
 
+.backend-status {
+  align-items: center;
+  border-radius: 999px;
+  display: inline-flex;
+  font-size: 0.82rem;
+  font-weight: 700;
+  gap: 6px;
+  margin-bottom: 6px;
+  padding: 5px 10px;
+  width: fit-content;
+}
+
+.backend-status::before {
+  border-radius: 50%;
+  content: '';
+  height: 8px;
+  width: 8px;
+}
+
+.backend-status.checking {
+  background: #eef4f7;
+  color: #46606a;
+}
+
+.backend-status.checking::before {
+  background: #7c96a1;
+}
+
+.backend-status.connected {
+  background: #dcf8ea;
+  color: #12603e;
+}
+
+.backend-status.connected::before {
+  background: #178f59;
+}
+
+.backend-status.unavailable {
+  background: #ffe9e6;
+  color: #9b2d20;
+}
+
+.backend-status.unavailable::before {
+  background: #d44734;
+}
+
 .workspace {
   display: grid;
   gap: 18px;
