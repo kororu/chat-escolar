@@ -1,5 +1,7 @@
-import { useEffect, useState } from 'react'
+import { useCallback, useEffect, useState } from 'react'
 import './App.css'
+
+const API_BASE_URL = 'http://127.0.0.1:8000'
 
 const courses = ['1° básico', '5° básico', '6° básico']
 const modes = [
@@ -64,8 +66,8 @@ function App() {
   const [subject, setSubject] = useState('Ciencias Naturales')
   const [question, setQuestion] = useState('')
   const [isSending, setIsSending] = useState(false)
-  const [lastQuestion, setLastQuestion] = useState('¿Qué es un hábitat?')
-  const [status, setStatus] = useState('pendiente')
+  const [historyItems, setHistoryItems] = useState([])
+  const [historyError, setHistoryError] = useState('')
   const [messages, setMessages] = useState([
     {
       from: 'student',
@@ -77,13 +79,32 @@ function App() {
         'No te preocupes. Vamos paso a paso.\n\nExplicación corta:\nUn hábitat es el lugar donde vive un ser vivo.\n\nEjemplo:\nUn pez vive en el agua. Un cactus vive en el desierto.\n\nMini resumen:\nEl hábitat es el hogar natural de un ser vivo.\n\nPregunta:\n¿Dónde vive un pez?',
     },
   ])
+  const latestHistory = historyItems[0]
+
+  const loadHistory = useCallback(async () => {
+    try {
+      const response = await fetch(`${API_BASE_URL}/history`)
+
+      if (!response.ok) {
+        throw new Error('History request failed')
+      }
+
+      const data = await response.json()
+      setHistoryItems(data.items ?? [])
+      setHistoryError('')
+      setBackendStatus('connected')
+    } catch {
+      setHistoryError('No pude cargar el historial')
+      setBackendStatus('unavailable')
+    }
+  }, [])
 
   useEffect(() => {
     const controller = new AbortController()
 
     const checkBackend = async () => {
       try {
-        const response = await fetch('http://127.0.0.1:8000/health', {
+        const response = await fetch(`${API_BASE_URL}/health`, {
           signal: controller.signal,
         })
         const data = await response.json()
@@ -101,8 +122,14 @@ function App() {
     return () => controller.abort()
   }, [])
 
+  useEffect(() => {
+    const timer = window.setTimeout(loadHistory, 0)
+
+    return () => window.clearTimeout(timer)
+  }, [loadHistory])
+
   const fetchDemoAnswer = async (cleanQuestion) => {
-    const response = await fetch('http://127.0.0.1:8000/chat/demo', {
+    const response = await fetch(`${API_BASE_URL}/chat/demo`, {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json',
@@ -135,8 +162,6 @@ function App() {
       ...currentMessages,
       { from: 'student', text: cleanQuestion },
     ])
-    setLastQuestion(cleanQuestion)
-    setStatus('pendiente')
 
     try {
       const data = await fetchDemoAnswer(cleanQuestion)
@@ -150,6 +175,7 @@ function App() {
         },
       ])
       setBackendStatus(data.status === 'ok' ? 'connected' : 'unavailable')
+      loadHistory()
     } catch {
       setMessages((currentMessages) => [
         ...currentMessages,
@@ -178,8 +204,94 @@ function App() {
               : 'No te preocupes. Lo vemos más fácil.\n\nUn hábitat es la casa natural de un ser vivo.\n\nPregunta:\n¿El agua puede ser el hábitat de un pez?',
       },
     ])
-    setLastQuestion(action)
-    setStatus('pendiente')
+  }
+
+  const updateLatestStatus = async () => {
+    if (!latestHistory) {
+      return
+    }
+
+    const nextStatus = latestHistory.status === 'pendiente' ? 'leido' : 'pendiente'
+
+    try {
+      const response = await fetch(`${API_BASE_URL}/history/${latestHistory.id}/status`, {
+        method: 'PATCH',
+        headers: {
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify({ status: nextStatus }),
+      })
+
+      if (!response.ok) {
+        throw new Error('Status update failed')
+      }
+
+      await loadHistory()
+    } catch {
+      setHistoryError('No pude actualizar el estado')
+      setBackendStatus('unavailable')
+    }
+  }
+
+  const toggleLatestFavorite = async () => {
+    if (!latestHistory) {
+      return
+    }
+
+    try {
+      const response = await fetch(`${API_BASE_URL}/history/${latestHistory.id}/favorite`, {
+        method: 'PATCH',
+        headers: {
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify({ is_favorite: !latestHistory.is_favorite }),
+      })
+
+      if (!response.ok) {
+        throw new Error('Favorite update failed')
+      }
+
+      await loadHistory()
+    } catch {
+      setHistoryError('No pude actualizar el favorito')
+      setBackendStatus('unavailable')
+    }
+  }
+
+  const continueLatestHistory = async () => {
+    try {
+      const response = await fetch(`${API_BASE_URL}/history/continue`)
+
+      if (!response.ok) {
+        throw new Error('Continue request failed')
+      }
+
+      const data = await response.json()
+
+      if (!data.item) {
+        setHistoryError('Todavía no hay historial para continuar')
+        return
+      }
+
+      setCourse(data.item.course)
+      setMode(data.item.mode)
+      setSubject(data.item.subject)
+      setMessages((currentMessages) => [
+        ...currentMessages,
+        { from: 'student', text: data.item.question },
+        {
+          from: 'assistant',
+          text: data.item.answer_full,
+          summary: data.item.answer_summary,
+        },
+      ])
+      setHistoryError('')
+      setBackendStatus('connected')
+      await loadHistory()
+    } catch {
+      setHistoryError('No pude continuar el historial')
+      setBackendStatus('unavailable')
+    }
   }
 
   return (
@@ -278,26 +390,44 @@ function App() {
           <section className="history-card" aria-label="Historial simple">
             <div className="section-title">
               <h2>Historial</h2>
-              <button
-                type="button"
-                onClick={() => setStatus(status === 'pendiente' ? 'leído' : 'pendiente')}
-              >
-                Marcar {status === 'pendiente' ? 'leído' : 'pendiente'}
-              </button>
+              <div className="history-actions">
+                <button type="button" disabled={!latestHistory} onClick={updateLatestStatus}>
+                  Marcar {latestHistory?.status === 'pendiente' ? 'leído' : 'pendiente'}
+                </button>
+                <button type="button" disabled={!latestHistory} onClick={toggleLatestFavorite}>
+                  {latestHistory?.is_favorite ? 'Quitar favorito' : 'Favorito'}
+                </button>
+              </div>
             </div>
             <dl>
               <div>
                 <dt>Última pregunta</dt>
-                <dd>{lastQuestion}</dd>
+                <dd>{latestHistory?.question ?? 'Sin preguntas guardadas todavía'}</dd>
+              </div>
+              <div>
+                <dt>Resumen</dt>
+                <dd>{latestHistory?.answer_summary ?? 'El resumen aparecerá al usar el tutor demo.'}</dd>
               </div>
               <div>
                 <dt>Estado</dt>
                 <dd>
-                  <span className={`status ${status}`}>{status}</span>
+                  <span className={`status ${latestHistory?.status ?? 'pendiente'}`}>
+                    {latestHistory?.status ?? 'pendiente'}
+                  </span>
                 </dd>
               </div>
+              <div>
+                <dt>Favorito</dt>
+                <dd>{latestHistory?.is_favorite ? 'Sí' : 'No'}</dd>
+              </div>
             </dl>
-            <button className="continue-button" type="button">
+            {historyError && <p className="history-error">{historyError}</p>}
+            <button
+              className="continue-button"
+              type="button"
+              disabled={!latestHistory}
+              onClick={continueLatestHistory}
+            >
               Continuar donde quedé
             </button>
           </section>

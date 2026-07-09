@@ -1,8 +1,13 @@
+import sqlite3
+from datetime import datetime, timezone
+from pathlib import Path
 from unicodedata import normalize
 
-from fastapi import FastAPI
+from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
+
+DB_PATH = Path(__file__).with_name("chat_escolar.db")
 
 app = FastAPI(
     title="Chat Escolar API",
@@ -26,9 +31,114 @@ class ChatDemoRequest(BaseModel):
     question: str
 
 
+class HistoryStatusUpdate(BaseModel):
+    status: str
+
+
+class HistoryFavoriteUpdate(BaseModel):
+    is_favorite: bool | None = None
+
+
+def get_connection():
+    connection = sqlite3.connect(DB_PATH)
+    connection.row_factory = sqlite3.Row
+    return connection
+
+
+def init_db():
+    with get_connection() as connection:
+        connection.execute(
+            """
+            CREATE TABLE IF NOT EXISTS chat_history (
+                id INTEGER PRIMARY KEY AUTOINCREMENT,
+                course TEXT NOT NULL,
+                mode TEXT NOT NULL,
+                subject TEXT,
+                topic TEXT,
+                question TEXT NOT NULL,
+                answer_summary TEXT,
+                answer_full TEXT,
+                status TEXT NOT NULL DEFAULT 'pendiente',
+                is_favorite INTEGER NOT NULL DEFAULT 0,
+                created_at TEXT NOT NULL
+            )
+            """
+        )
+
+
+def row_to_history_item(row: sqlite3.Row) -> dict:
+    item = dict(row)
+    item["is_favorite"] = bool(item["is_favorite"])
+    return item
+
+
 def normalize_text(text: str) -> str:
     without_accents = normalize("NFKD", text).encode("ascii", "ignore").decode("ascii")
     return without_accents.lower()
+
+
+def detect_topic(question: str) -> str:
+    clean_question = normalize_text(question)
+
+    if "habitat" in clean_question:
+        return "Habitat"
+    if "fraccion" in clean_question or "fracciones" in clean_question:
+        return "Fracciones"
+    if "agujero negro" in clean_question:
+        return "Agujero negro"
+    if "segunda guerra" in clean_question:
+        return "Segunda Guerra Mundial"
+    if "tanque" in clean_question:
+        return "Tanques"
+
+    return "Tema demo"
+
+
+def save_history(payload: ChatDemoRequest, demo_answer: dict[str, str]) -> int:
+    created_at = datetime.now(timezone.utc).isoformat()
+
+    with get_connection() as connection:
+        cursor = connection.execute(
+            """
+            INSERT INTO chat_history (
+                course,
+                mode,
+                subject,
+                topic,
+                question,
+                answer_summary,
+                answer_full,
+                status,
+                is_favorite,
+                created_at
+            )
+            VALUES (?, ?, ?, ?, ?, ?, ?, 'pendiente', 0, ?)
+            """,
+            (
+                payload.course,
+                payload.mode,
+                payload.subject,
+                detect_topic(payload.question),
+                payload.question,
+                demo_answer["summary"],
+                demo_answer["answer"],
+                created_at,
+            ),
+        )
+        return cursor.lastrowid
+
+
+def get_history_item(history_id: int) -> dict:
+    with get_connection() as connection:
+        row = connection.execute(
+            "SELECT * FROM chat_history WHERE id = ?",
+            (history_id,),
+        ).fetchone()
+
+    if row is None:
+        raise HTTPException(status_code=404, detail="Historial no encontrado")
+
+    return row_to_history_item(row)
 
 
 def make_demo_answer(payload: ChatDemoRequest) -> dict[str, str]:
@@ -114,6 +224,9 @@ def make_demo_answer(payload: ChatDemoRequest) -> dict[str, str]:
     }
 
 
+init_db()
+
+
 @app.get("/")
 def home():
     return {
@@ -132,4 +245,91 @@ def health():
 
 @app.post("/chat/demo")
 def chat_demo(payload: ChatDemoRequest):
-    return make_demo_answer(payload)
+    demo_answer = make_demo_answer(payload)
+    history_id = save_history(payload, demo_answer)
+
+    return {
+        **demo_answer,
+        "history_id": history_id,
+    }
+
+
+@app.get("/history")
+def list_history():
+    with get_connection() as connection:
+        rows = connection.execute(
+            "SELECT * FROM chat_history ORDER BY created_at DESC, id DESC"
+        ).fetchall()
+
+    return {
+        "status": "ok",
+        "items": [row_to_history_item(row) for row in rows],
+    }
+
+
+@app.get("/history/continue")
+def continue_history():
+    with get_connection() as connection:
+        row = connection.execute(
+            """
+            SELECT * FROM chat_history
+            WHERE status = 'pendiente'
+            ORDER BY created_at DESC, id DESC
+            LIMIT 1
+            """
+        ).fetchone()
+
+        if row is None:
+            row = connection.execute(
+                """
+                SELECT * FROM chat_history
+                ORDER BY created_at DESC, id DESC
+                LIMIT 1
+                """
+            ).fetchone()
+
+    return {
+        "status": "ok",
+        "item": row_to_history_item(row) if row else None,
+    }
+
+
+@app.patch("/history/{history_id}/status")
+def update_history_status(history_id: int, payload: HistoryStatusUpdate):
+    if payload.status not in {"leido", "pendiente"}:
+        raise HTTPException(status_code=400, detail="Estado invalido")
+
+    with get_connection() as connection:
+        cursor = connection.execute(
+            "UPDATE chat_history SET status = ? WHERE id = ?",
+            (payload.status, history_id),
+        )
+
+    if cursor.rowcount == 0:
+        raise HTTPException(status_code=404, detail="Historial no encontrado")
+
+    return {
+        "status": "ok",
+        "item": get_history_item(history_id),
+    }
+
+
+@app.patch("/history/{history_id}/favorite")
+def update_history_favorite(history_id: int, payload: HistoryFavoriteUpdate):
+    current_item = get_history_item(history_id)
+    next_favorite = (
+        not current_item["is_favorite"]
+        if payload.is_favorite is None
+        else payload.is_favorite
+    )
+
+    with get_connection() as connection:
+        connection.execute(
+            "UPDATE chat_history SET is_favorite = ? WHERE id = ?",
+            (1 if next_favorite else 0, history_id),
+        )
+
+    return {
+        "status": "ok",
+        "item": get_history_item(history_id),
+    }

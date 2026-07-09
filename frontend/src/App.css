@@ -161,7 +161,8 @@ input:focus-visible {
 
 .option,
 .quick-actions button,
-.section-title button {
+.section-title button,
+.history-actions button {
   background: var(--soft);
   border: 1px solid transparent;
   border-radius: 8px;
@@ -173,7 +174,8 @@ input:focus-visible {
 
 .option:hover,
 .quick-actions button:hover,
-.section-title button:hover {
+.section-title button:hover,
+.history-actions button:hover {
   border-color: var(--accent);
 }
 
@@ -342,6 +344,13 @@ input:focus-visible {
   margin: 0;
 }
 
+.history-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  justify-content: flex-end;
+}
+
 .section-title button {
   font-size: 0.84rem;
   min-height: 36px;
@@ -378,9 +387,19 @@ dd {
   color: #8a5a00;
 }
 
-.status.leído {
+.status.leido {
   background: #dcf8ea;
   color: #12603e;
+}
+
+.history-error {
+  background: #ffe9e6;
+  border-radius: 8px;
+  color: #9b2d20;
+  font-size: 0.9rem;
+  font-weight: 700;
+  margin: 0 0 12px;
+  padding: 10px;
 }
 
 .continue-button {
