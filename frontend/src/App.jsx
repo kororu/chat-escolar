@@ -63,6 +63,7 @@ function App() {
   const [mode, setMode] = useState('Estudiar para el colegio')
   const [subject, setSubject] = useState('Ciencias Naturales')
   const [question, setQuestion] = useState('')
+  const [isSending, setIsSending] = useState(false)
   const [lastQuestion, setLastQuestion] = useState('¿Qué es un hábitat?')
   const [status, setStatus] = useState('pendiente')
   const [messages, setMessages] = useState([
@@ -100,25 +101,67 @@ function App() {
     return () => controller.abort()
   }, [])
 
-  const sendQuestion = () => {
+  const fetchDemoAnswer = async (cleanQuestion) => {
+    const response = await fetch('http://127.0.0.1:8000/chat/demo', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+      },
+      body: JSON.stringify({
+        course,
+        mode,
+        subject,
+        question: cleanQuestion,
+      }),
+    })
+
+    if (!response.ok) {
+      throw new Error('Demo tutor request failed')
+    }
+
+    return response.json()
+  }
+
+  const sendQuestion = async () => {
     const cleanQuestion = question.trim()
 
-    if (!cleanQuestion) {
+    if (!cleanQuestion || isSending) {
       return
     }
 
+    setQuestion('')
+    setIsSending(true)
     setMessages((currentMessages) => [
       ...currentMessages,
       { from: 'student', text: cleanQuestion },
-      {
-        from: 'assistant',
-        text:
-          'Buena pregunta. La vamos a trabajar con calma.\n\nExplicación corta:\nPrimero miramos la idea principal.\n\nEjemplo:\nSi el tema parece difícil, lo dividimos en partes pequeñas.\n\nMini resumen:\nAprender paso a paso ayuda a entender mejor.\n\nPregunta:\n¿Qué parte quieres revisar primero?',
-      },
     ])
     setLastQuestion(cleanQuestion)
     setStatus('pendiente')
-    setQuestion('')
+
+    try {
+      const data = await fetchDemoAnswer(cleanQuestion)
+
+      setMessages((currentMessages) => [
+        ...currentMessages,
+        {
+          from: 'assistant',
+          text: data.answer,
+          summary: data.summary,
+        },
+      ])
+      setBackendStatus(data.status === 'ok' ? 'connected' : 'unavailable')
+    } catch {
+      setMessages((currentMessages) => [
+        ...currentMessages,
+        {
+          from: 'assistant',
+          text: 'No pude conectar con el tutor demo',
+        },
+      ])
+      setBackendStatus('unavailable')
+    } finally {
+      setIsSending(false)
+    }
   }
 
   const handleQuickAction = (action) => {
@@ -193,6 +236,9 @@ function App() {
               <article className={`message ${message.from}`} key={`${message.from}-${index}`}>
                 <span>{message.from === 'assistant' ? 'Chat Escolar' : 'Estudiante'}</span>
                 <p>{message.text}</p>
+                {message.summary && (
+                  <small className="message-summary">Resumen: {message.summary}</small>
+                )}
               </article>
             ))}
           </div>
@@ -221,7 +267,9 @@ function App() {
                 placeholder="Ej: ¿Qué es una cadena alimentaria?"
                 onChange={(event) => setQuestion(event.target.value)}
               />
-              <button type="submit">Enviar</button>
+              <button type="submit" disabled={isSending}>
+                {isSending ? 'Enviando...' : 'Enviar'}
+              </button>
             </div>
           </form>
         </section>
