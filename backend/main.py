@@ -4,7 +4,7 @@ from datetime import datetime, timezone
 from pathlib import Path
 from unicodedata import normalize
 
-from fastapi import FastAPI, HTTPException
+from fastapi import FastAPI, HTTPException, Query
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel, Field
 
@@ -412,21 +412,43 @@ def chat_demo(payload: ChatDemoRequest):
 
 
 @app.get("/history")
-def list_history(profile_id: int | None = None):
+def list_history(
+    profile_id: int | None = None,
+    status: str | None = None,
+    favorite: bool | None = None,
+    limit: int | None = Query(default=None, ge=1, le=100),
+):
+    if status is not None and status not in {"leido", "pendiente"}:
+        raise HTTPException(status_code=400, detail="Estado invalido")
+
+    conditions = []
+    parameters: list[object] = []
+
+    if profile_id is not None:
+        conditions.append("profile_id = ?")
+        parameters.append(profile_id)
+    if status is not None:
+        conditions.append("status = ?")
+        parameters.append(status)
+    if favorite is not None:
+        conditions.append("is_favorite = ?")
+        parameters.append(1 if favorite else 0)
+
+    where_clause = f"WHERE {' AND '.join(conditions)}" if conditions else ""
+    limit_clause = "LIMIT ?" if limit is not None else ""
+    if limit is not None:
+        parameters.append(limit)
+
     with get_connection() as connection:
-        if profile_id is None:
-            rows = connection.execute(
-                "SELECT * FROM chat_history ORDER BY created_at DESC, id DESC"
-            ).fetchall()
-        else:
-            rows = connection.execute(
-                """
-                SELECT * FROM chat_history
-                WHERE profile_id = ?
-                ORDER BY created_at DESC, id DESC
-                """,
-                (profile_id,),
-            ).fetchall()
+        rows = connection.execute(
+            f"""
+            SELECT * FROM chat_history
+            {where_clause}
+            ORDER BY created_at DESC, id DESC
+            {limit_clause}
+            """,
+            parameters,
+        ).fetchall()
 
     return {
         "status": "ok",

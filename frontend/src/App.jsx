@@ -60,6 +60,22 @@ function responsePrefix(profile) {
   return `Claro, ${profile.name}. Vamos paso a paso.`
 }
 
+function historyTitleFor(role) {
+  if (role === 'Apoderado') return 'Temas consultados'
+  if (role === 'Docente') return 'Temas trabajados'
+  return 'Tus últimas preguntas'
+}
+
+function formatHistoryDate(value) {
+  const date = new Date(value)
+  if (Number.isNaN(date.getTime())) return 'Fecha no disponible'
+  return new Intl.DateTimeFormat('es-CL', {
+    day: '2-digit',
+    month: 'short',
+    year: 'numeric',
+  }).format(date)
+}
+
 function SelectionGroup({ title, options, selected, onSelect }) {
   return (
     <section className="control-group" aria-label={title}>
@@ -170,11 +186,19 @@ function App() {
   const [isSending, setIsSending] = useState(false)
   const [historyItems, setHistoryItems] = useState([])
   const [historyError, setHistoryError] = useState('')
+  const [historyView, setHistoryView] = useState('recent')
   const [messages, setMessages] = useState([])
   const [videos, setVideos] = useState([])
   const [videoTopic, setVideoTopic] = useState(null)
   const [videoLoadError, setVideoLoadError] = useState(false)
   const latestHistory = historyItems[0]
+  const pendingHistory = historyItems.filter((item) => item.status === 'pendiente')
+  const favoriteHistory = historyItems.filter((item) => item.is_favorite)
+  const visibleHistoryItems = historyView === 'pending'
+    ? pendingHistory
+    : historyView === 'favorites'
+      ? favoriteHistory
+      : historyItems.slice(0, 5)
   const topicVideos = videoTopic
     ? videos.filter((video) => normalizeSearchText(video.topic) === videoTopic)
     : []
@@ -185,6 +209,9 @@ function App() {
     setActiveProfile(profile)
     setCourse(profile.course)
     setMessages([{ from: 'assistant', text: greetingFor(profile) }])
+    setHistoryView('recent')
+    setHistoryItems([])
+    setHistoryError('')
     setShowProfileScreen(false)
     try {
       await fetch(`${API_BASE_URL}/profiles/${profile.id}/last-used`, { method: 'PATCH' })
@@ -241,7 +268,7 @@ function App() {
   const loadHistory = useCallback(async () => {
     if (!activeProfile) return
     try {
-      const response = await fetch(`${API_BASE_URL}/history?profile_id=${activeProfile.id}`)
+      const response = await fetch(`${API_BASE_URL}/history?profile_id=${activeProfile.id}&limit=50`)
       if (!response.ok) throw new Error('History request failed')
       const data = await response.json()
       setHistoryItems(data.items ?? [])
@@ -330,11 +357,10 @@ function App() {
     ])
   }
 
-  const updateLatestStatus = async () => {
-    if (!latestHistory) return
-    const nextStatus = latestHistory.status === 'pendiente' ? 'leido' : 'pendiente'
+  const updateHistoryStatus = async (item) => {
+    const nextStatus = item.status === 'pendiente' ? 'leido' : 'pendiente'
     try {
-      const response = await fetch(`${API_BASE_URL}/history/${latestHistory.id}/status`, {
+      const response = await fetch(`${API_BASE_URL}/history/${item.id}/status`, {
         method: 'PATCH',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ status: nextStatus }),
@@ -346,19 +372,31 @@ function App() {
     }
   }
 
-  const toggleLatestFavorite = async () => {
-    if (!latestHistory) return
+  const toggleHistoryFavorite = async (item) => {
     try {
-      const response = await fetch(`${API_BASE_URL}/history/${latestHistory.id}/favorite`, {
+      const response = await fetch(`${API_BASE_URL}/history/${item.id}/favorite`, {
         method: 'PATCH',
         headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ is_favorite: !latestHistory.is_favorite }),
+        body: JSON.stringify({ is_favorite: !item.is_favorite }),
       })
       if (!response.ok) throw new Error('Favorite update failed')
       await loadHistory()
     } catch {
       setHistoryError('No pude actualizar el favorito')
     }
+  }
+
+  const studyHistoryItem = (item) => {
+    setCourse(item.course)
+    setMode(item.mode)
+    setSubject(item.subject)
+    setQuestion(item.question)
+    setVideoTopic(detectVideoTopic(item.question))
+    setMessages((current) => [
+      ...current,
+      { from: 'assistant', text: `Retomemos este tema, ${activeProfile.name}. Dejé la pregunta lista para enviarla nuevamente.` },
+    ])
+    window.setTimeout(() => document.getElementById('question')?.focus(), 0)
   }
 
   const continueLatestHistory = async () => {
@@ -463,22 +501,67 @@ function App() {
         <aside className="side-panel">
           <section className="history-card" aria-label="Historial simple">
             <div className="section-title">
-              <h2>Historial de {activeProfile.name}</h2>
-              <div className="history-actions">
-                <button type="button" disabled={!latestHistory} onClick={updateLatestStatus}>
-                  Marcar {latestHistory?.status === 'pendiente' ? 'leído' : 'pendiente'}
-                </button>
-                <button type="button" disabled={!latestHistory} onClick={toggleLatestFavorite}>
-                  {latestHistory?.is_favorite ? 'Quitar favorito' : 'Favorito'}
-                </button>
+              <div>
+                <h2>{historyTitleFor(activeProfile.role)}</h2>
+                <small>Historial de {activeProfile.name}</small>
               </div>
             </div>
-            <dl>
-              <div><dt>Última pregunta</dt><dd>{latestHistory?.question ?? 'Sin preguntas guardadas todavía'}</dd></div>
-              <div><dt>Resumen</dt><dd>{latestHistory?.answer_summary ?? 'El resumen aparecerá al usar el tutor demo.'}</dd></div>
-              <div><dt>Estado</dt><dd><span className={`status ${latestHistory?.status ?? 'pendiente'}`}>{latestHistory?.status ?? 'pendiente'}</span></dd></div>
-              <div><dt>Favorito</dt><dd>{latestHistory?.is_favorite ? 'Sí' : 'No'}</dd></div>
-            </dl>
+            {latestHistory ? (
+              <div className="latest-question">
+                <span>Última pregunta</span>
+                <strong>{latestHistory.question}</strong>
+              </div>
+            ) : (
+              <p className="empty-history">Aún no hay preguntas guardadas para este perfil.</p>
+            )}
+            {latestHistory && (
+              <>
+                <div className="history-tabs" aria-label="Filtros de historial">
+                  <button className={historyView === 'recent' ? 'active' : ''} type="button" onClick={() => setHistoryView('recent')}>
+                    Últimas 5
+                  </button>
+                  <button className={historyView === 'pending' ? 'active' : ''} type="button" onClick={() => setHistoryView('pending')}>
+                    Pendientes <span>{pendingHistory.length}</span>
+                  </button>
+                  <button className={historyView === 'favorites' ? 'active' : ''} type="button" onClick={() => setHistoryView('favorites')}>
+                    Favoritas <span>{favoriteHistory.length}</span>
+                  </button>
+                </div>
+                <div className="history-list">
+                  {visibleHistoryItems.length > 0 ? visibleHistoryItems.map((item) => (
+                    <article className="history-item" key={item.id}>
+                      <div className="history-item-heading">
+                        <strong>{item.question}</strong>
+                        {item.is_favorite && <span className="favorite-mark" title="Favorita">★</span>}
+                      </div>
+                      <p>{item.answer_summary || 'Sin resumen disponible.'}</p>
+                      <div className="history-meta">
+                        <span>{item.course}</span>
+                        <span>{item.subject || 'Sin materia'}</span>
+                        <span>{item.mode}</span>
+                        <span>{formatHistoryDate(item.created_at)}</span>
+                      </div>
+                      <span className={`status ${item.status}`}>{item.status}</span>
+                      <div className="history-item-actions">
+                        <button type="button" onClick={() => updateHistoryStatus(item)}>
+                          Marcar {item.status === 'pendiente' ? 'leído' : 'pendiente'}
+                        </button>
+                        <button type="button" onClick={() => toggleHistoryFavorite(item)}>
+                          {item.is_favorite ? 'Quitar favorito' : 'Favorito'}
+                        </button>
+                        <button className="study-again" type="button" onClick={() => studyHistoryItem(item)}>
+                          Volver a estudiar
+                        </button>
+                      </div>
+                    </article>
+                  )) : (
+                    <p className="empty-history-list">
+                      {historyView === 'pending' ? 'No hay preguntas pendientes.' : 'No hay preguntas favoritas.'}
+                    </p>
+                  )}
+                </div>
+              </>
+            )}
             {historyError && <p className="history-error">{historyError}</p>}
             <button className="continue-button" type="button" disabled={!latestHistory} onClick={continueLatestHistory}>Continuar donde quedé</button>
           </section>
