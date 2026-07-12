@@ -45,6 +45,10 @@ Cada respuesta nueva también muestra debajo el tiempo total de procesamiento, p
 
 Cuando existe una fuente Markdown verificada pero Ollama no responde o llega al timeout, Chat Escolar usa `local_content_fallback`. Construye una explicación desde secciones educativas del material local (respuesta breve, explicación, ejemplo, resumen y práctica), mantiene la fuente visible y evita reemplazarla por una respuesta demo genérica. `demo_fallback` queda reservado para preguntas sin contenido local útil. La duración mostrada incluye el intento de Ollama y este respaldo, sin revelar razonamiento interno.
 
+## Adaptación por curso y lectura fácil
+
+`backend/educational_level.py` centraliza el curso, edad aproximada, nivel lector, cantidad de ideas, límite de palabras y una sola pregunta de práctica. El fallback local y los prompts de Ollama usan estas reglas: 1°–2° básico recibe frases muy cortas; 3°–4° explicaciones simples; 5°–6° conceptos escolares aclarados; y 7°–8° mayor precisión y relaciones entre ideas. La estructura mantiene bloques predecibles, ejemplos concretos y lenguaje claro sin infantilizar.
+
 ## Perfiles locales
 
 Los perfiles se pueden crear, cambiar y eliminar desde la pantalla de selección. Eliminar un perfil requiere confirmación y borra únicamente su historial, favoritos, pendientes y contexto conversacional local. Consulta [docs/README_PERFILES_LOCALES.md](docs/README_PERFILES_LOCALES.md).

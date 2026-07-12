@@ -36,7 +36,7 @@ class ChatProvenanceTests(unittest.TestCase):
         self.assertTrue(response["used_local_content"])
         self.assertEqual(len(response["content_sources"]), 1)
         self.assertIn("hábitat", response["content_sources"][0]["title"].lower())
-        self.assertIn("hábitat", response["answer"].lower())
+        self.assertIn("ambientes", response["answer"].lower())
         self.assertNotIn("Todavia no tengo una explicacion completa", response["answer"])
         self.assertEqual(response["source_course"], "1° básico")
 

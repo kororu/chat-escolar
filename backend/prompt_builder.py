@@ -2,6 +2,11 @@
 
 import re
 
+try:
+    from .educational_level import get_educational_level
+except ImportError:
+    from educational_level import get_educational_level
+
 
 MAX_LOCAL_CONTEXT_CHARACTERS = 3200
 
@@ -22,10 +27,14 @@ def _local_context(sources: list[dict]) -> str:
 def build_ollama_prompt(payload, educational_context: dict, *, use_local_source: bool) -> str:
     contextual_question = educational_context["conversation_context"].get("contextual_question") or payload.question
     student_name = (payload.user_name or "Estudiante").strip()
+    level = get_educational_level(educational_context.get("active_course") or payload.course)
     common = f"""Eres Chat Escolar, un tutor educativo local.
 Responde solo en español de Chile, claro, amable y apropiado para el curso.
 No muestres razonamiento interno, análisis, pasos internos, ni escribas 'Thinking'.
-No inventes fuentes. Usa frases cortas si el curso es bajo. Máximo 180 palabras.
+No inventes fuentes. Estudiante de {level['course']}, edad aproximada {level['approx_age']}.
+Nivel de lectura: {level['reading_level']}. Usa {level['sentence_style']}.
+Si usas una palabra difícil, explíquela. Una idea principal por bloque y solo una pregunta de práctica.
+Máximo {level['max_words']} palabras. Mantén lectura fácil y evita ambigüedades.
 Estudiante: {student_name}.
 Curso: {educational_context.get('active_course') or payload.course}.
 Materia: {payload.subject}.
@@ -45,7 +54,7 @@ Responde con:
 1. Explicación corta.
 2. Ejemplo.
 3. Mini resumen.
-4. Pregunta de práctica.
+4. Una sola pregunta de práctica.
 """
     return f"""{common}
 No hay fuente local verificada para esta pregunta. Entrega una explicación general segura y educativa, e indica brevemente que no usaste una fuente local verificada. Evita detalles violentos o gráficos.
@@ -54,7 +63,7 @@ Responde con:
 1. Explicación corta.
 2. Ejemplo.
 3. Dato interesante.
-4. Pregunta para seguir explorando.
+4. Una sola pregunta para seguir explorando.
 """
 
 

@@ -55,6 +55,10 @@ class OllamaIntegrationTests(unittest.TestCase):
         self.assertTrue(response["content_sources"])
         self.assertIn("nutrientes", response["answer"].lower())
         self.assertIn("Ejemplo:", response["answer"])
+        self.assertEqual(response["answer"].count("Pregunta de práctica:"), 1)
+        practice = response["answer"].split("Pregunta de práctica:", 1)[1]
+        self.assertEqual(practice.count("¿"), 1)
+        self.assertNotIn("CN05 OA", response["answer"])
         self.assertNotIn("Encontré una fuente local verificada", response["answer"])
 
     @patch.object(main, "save_history", return_value=1)

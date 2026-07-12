@@ -1,5 +1,8 @@
+import re
+
 try:
     from .content_reader import CONTENT_ROOT, normalize_question, strip_front_matter
+    from .educational_level import get_educational_level
     from .response_states import (
         CLARIFICATION_REQUIRED,
         LOCAL_LOW_CONFIDENCE,
@@ -10,6 +13,7 @@ try:
     from .text_utils import normalize_text
 except ImportError:
     from content_reader import CONTENT_ROOT, normalize_question, strip_front_matter
+    from educational_level import get_educational_level
     from response_states import (
         CLARIFICATION_REQUIRED,
         LOCAL_LOW_CONFIDENCE,
@@ -84,6 +88,36 @@ def _first_section(sections: dict[str, str], *priorities: str) -> str:
     return ""
 
 
+def _limit_sentences(text: str, maximum: int) -> str:
+    sentences = [sentence.strip() for sentence in re.split(r"(?<=[.!?])\s+", text) if sentence.strip()]
+    return " ".join(sentences[:maximum]) if sentences else text
+
+
+def _simplify_for_level(text: str, level: dict) -> str:
+    """Aclara expresiones frecuentes sin ocultar el concepto escolar."""
+    grade = int(next((number for number in range(1, 9) if str(number) in normalize_text(level["course"])), 5))
+    if grade >= 7:
+        return text
+    replacements = {
+        "Nutrientes cumplen funciones energéticas, estructurales y reguladoras.": "Los nutrientes ayudan al cuerpo a tener energía, crecer y funcionar bien.",
+        "nutriente usado principalmente como fuente de energía.": "Un nutriente es una parte del alimento que ayuda al cuerpo. Los carbohidratos dan energía.",
+        "nutriente relacionado con formación y reparación.": "Las proteínas ayudan al cuerpo a crecer y reparar partes que lo necesitan.",
+        "nutriente energético y estructural.": "Los lípidos también dan energía y ayudan a formar partes del cuerpo.",
+        "La variedad ayuda a cubrir necesidades.": "Comer alimentos variados ayuda al cuerpo a recibir lo que necesita.",
+        "porciones y frecuencia dependen del contexto.": "La cantidad y frecuencia pueden cambiar según cada persona y situación.",
+        "salud no se evalúa por apariencia corporal.": "La salud no se puede saber solo por la apariencia de una persona.",
+    }
+    simplified = text
+    for original, replacement in replacements.items():
+        simplified = re.sub(re.escape(original), replacement, simplified, flags=re.IGNORECASE)
+    return simplified
+
+
+def _single_practice_question(text: str) -> str:
+    question = re.search(r"¿[^?]+\?", text)
+    return question.group(0) if question else "¿Cómo explicarías esta idea con tus propias palabras?"
+
+
 def _student_introduction(payload) -> str:
     name = (payload.user_name or "").strip()
     role = normalize_text(payload.user_role or "")
@@ -97,6 +131,7 @@ def _student_introduction(payload) -> str:
 def build_local_content_fallback(payload, local_content: dict) -> dict[str, str]:
     """Construye una explicación útil desde un Markdown local verificado."""
     sections = _markdown_sections(local_content)
+    level = get_educational_level(payload.course)
     explanation = _first_section(
         sections,
         "respuesta breve",
@@ -107,10 +142,17 @@ def build_local_content_fallback(payload, local_content: dict) -> dict[str, str]
     summary = _first_section(sections, "mini resumen", "ideas fundamentales") or explanation
     practice = _first_section(sections, "preguntas de practica", "pregunta de practica")
 
+    explanation = _simplify_for_level(explanation, level)
+    example = _simplify_for_level(example, level)
+    summary = _simplify_for_level(summary, level)
+
     if not example:
         example = "Piensa en una situación cotidiana relacionada con esta idea y explica cómo se aplica."
-    if not practice:
-        practice = "¿Cómo explicarías esta idea con tus propias palabras?"
+    practice = _single_practice_question(practice)
+    main_ideas = level["max_main_ideas"]
+    explanation = _limit_sentences(explanation, main_ideas)
+    example = _limit_sentences(example, 2 if main_ideas >= 3 else 1)
+    summary = _limit_sentences(summary, min(2, main_ideas))
 
     answer = (
         f"{_student_introduction(payload)}\n\n"

@@ -18,6 +18,8 @@ Las respuestas de `POST /chat/demo` incluyen el metadato entero `processing_time
 
 Si una búsqueda devuelve `local_verified`, el sistema prepara un fallback educativo desde el Markdown antes de intentar Ollama. Si la IA local falla o no está disponible, la respuesta final usa `local_content_fallback` y `provider: local_content`: conserva `used_local_content`, las fuentes y una explicación real basada en secciones como Respuesta breve, Explicación completa, Ejemplo explicado, Mini resumen y Preguntas de práctica. Se excluyen metadatos, OA, notas editoriales y referencias normativas. `demo_fallback` queda solo para casos sin fuente local útil.
 
+La adaptación educativa se centraliza en `backend/educational_level.py`. Cada nivel define edad aproximada, nivel lector, estilo de oración, máximo de ideas, una pregunta de práctica y límite de palabras para Ollama. El fallback local simplifica expresiones técnicas frecuentes en 1° a 6° básico, conserva conceptos importantes con una explicación clara y toma solo la primera pregunta de práctica del Markdown. La interfaz conserva los bloques Explicación, Ejemplo, Mini resumen y Pregunta de práctica separados de fuente, estado y tiempo.
+
 ## 1. Ruta local del proyecto
 
 El proyecto está ubicado en:
