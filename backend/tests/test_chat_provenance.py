@@ -20,6 +20,8 @@ class ChatProvenanceTests(unittest.TestCase):
     def test_verified_local_source_is_presented(self):
         response = self.ask("q es habitat", course="1° básico")
         self.assertEqual(response["provenance_status"], "local_verified")
+        self.assertEqual(response["provider"], "local_content")
+        self.assertFalse(response["ai_context"]["ollama_enabled"])
         self.assertTrue(response["used_local_content"])
         self.assertEqual(len(response["content_sources"]), 1)
         self.assertIn("hábitat", response["content_sources"][0]["title"].lower())
@@ -64,6 +66,7 @@ class ChatProvenanceTests(unittest.TestCase):
             response = self.ask("que es un habitat", course="1° básico")
 
         self.assertEqual(response["provenance_status"], "local_related")
+        self.assertEqual(response["provider"], "demo")
         self.assertFalse(response["used_local_content"])
         self.assertEqual(response["content_sources"], [])
         self.assertTrue(response["related_sources"])

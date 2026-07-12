@@ -11,31 +11,22 @@ Los archivos se guardan en la carpeta `contenidos/` de la raíz del proyecto.
 ```text
 contenidos/
 ├── primero_basico/
-│   ├── lenguaje/
-│   ├── matematica/
-│   ├── ciencias_naturales/
-│   └── historia_geografia/
+├── segundo_basico/
+├── tercero_basico/
+├── cuarto_basico/
 ├── quinto_basico/
-│   ├── lenguaje/
-│   ├── matematica/
-│   ├── ciencias_naturales/
-│   └── historia_geografia/
-└── sexto_basico/
-    ├── lenguaje/
-    ├── matematica/
-    ├── ciencias_naturales/
-    └── historia_geografia/
+├── sexto_basico/
+├── septimo_basico/
+└── octavo_basico/
 ```
+
+Cada curso sigue la convención de materias `lenguaje/`, `matematica/`, `ciencias_naturales/` e `historia_geografia/` cuando la colección está disponible.
 
 ## Cursos disponibles
 
-Actualmente la base local contiene materiales curriculares para:
+El backend reconoce mapeos para 1° a 8° básico, incluyendo variantes sin tilde y nombres de carpeta como `quinto_basico`.
 
-- 1° básico, en `contenidos/primero_basico/`.
-- 5° básico, en `contenidos/quinto_basico/`.
-- 6° básico, en `contenidos/sexto_basico/`.
-
-Los cursos 2°, 3°, 4°, 7° y 8° básico están en preparación y todavía no deben considerarse completamente integrados ni disponibles.
+Los mapeos se centralizan en `backend/educational_config.py`. Crear o completar una carpeta nueva no exige cambiar el endpoint, pero sí revisar calidad, cobertura y pertinencia pedagógica de los archivos.
 
 ## Materias reconocidas
 
@@ -45,7 +36,7 @@ Los cursos 2°, 3°, 4°, 7° y 8° básico están en preparación y todavía no
 - `historia_geografia`
 - `modo_explorador`
 
-El backend convierte automáticamente nombres visibles como “Matemática”, “Ciencias Naturales” o “Historia” a estas carpetas.
+El backend convierte automáticamente nombres visibles como “Matemática”, “Ciencias Naturales”, “Historia” o “Historia, Geografía y Ciencias Sociales” a estas carpetas.
 
 ## Cómo nombrar los archivos
 
@@ -89,7 +80,7 @@ La puntuación da mayor peso a:
 
 Las apariciones en el cuerpo tienen un peso bajo. Una coincidencia solo corporal no puede convertirse en fuente verificada. El umbral mínimo predeterminado es `24` y está centralizado en `MIN_RELEVANCE_SCORE` dentro de `backend/content_reader.py`.
 
-Después de puntuar, el lector exige coherencia temática, elimina títulos duplicados, ordena por relevancia y devuelve fragmentos completos siempre que el límite lo permite.
+Después de puntuar, el lector exige coherencia temática, elimina títulos duplicados, ordena por relevancia y devuelve fragmentos completos siempre que el límite lo permite. Para respuestas explicativas, evita usar como fuente principal archivos de índice, documentación, bancos, compendios o evaluaciones.
 
 ### Modo Escolar y Modo Explorador
 
@@ -243,3 +234,9 @@ Antes de publicar una colección, revisa su claridad, exactitud, nivel educativo
 - No se usa OpenAI API.
 
 El contrato deja preparado este orden futuro: contenido curricular local confiable, contenido exploratorio local, IA local mediante Ollama y respuesta segura de respaldo.
+
+## Preparación para Ollama
+
+`POST /chat/demo` devuelve un campo `provider` y un objeto `ai_context` con la pregunta, curso, materia, estado de procedencia, fuentes verificadas, temas relacionados y contexto conversacional. Ese contrato permite alimentar una IA local en el futuro sin cambiar el flujo principal del frontend.
+
+En esta etapa `ollama_enabled` es `false`, `future_provider` queda reservado como `ollama` y no se realiza ninguna llamada a `localhost:11434`.

@@ -1,40 +1,35 @@
 import re
 from difflib import SequenceMatcher
 from pathlib import Path
-from unicodedata import normalize
+
+try:
+    from .educational_config import course_to_folder, is_explorer_mode, subject_to_folder
+    from .response_states import (
+        CLARIFICATION_REQUIRED,
+        DEMO_FALLBACK,
+        LOCAL_LOW_CONFIDENCE,
+        LOCAL_RELATED,
+        LOCAL_VERIFIED,
+        NO_LOCAL_CONTENT,
+    )
+    from .text_utils import normalize_text
+except ImportError:
+    from educational_config import course_to_folder, is_explorer_mode, subject_to_folder
+    from response_states import (
+        CLARIFICATION_REQUIRED,
+        DEMO_FALLBACK,
+        LOCAL_LOW_CONFIDENCE,
+        LOCAL_RELATED,
+        LOCAL_VERIFIED,
+        NO_LOCAL_CONTENT,
+    )
+    from text_utils import normalize_text
 
 CONTENT_ROOT = Path(__file__).resolve().parent.parent / "contenidos"
 MIN_RELEVANCE_SCORE = 24
 MAX_RESULTS = 3
-LOCAL_PROVENANCE_STATUSES = {
-    "local_verified",
-    "local_related",
-    "local_low_confidence",
-    "no_local_content",
-}
-
-COURSE_FOLDERS = {
-    "1 basico": "primero_basico",
-    "1o basico": "primero_basico",
-    "primero basico": "primero_basico",
-    "5 basico": "quinto_basico",
-    "5o basico": "quinto_basico",
-    "quinto basico": "quinto_basico",
-    "6 basico": "sexto_basico",
-    "6o basico": "sexto_basico",
-    "sexto basico": "sexto_basico",
-}
-
-SUBJECT_FOLDERS = {
-    "lenguaje": "lenguaje",
-    "lenguaje y comunicacion": "lenguaje",
-    "matematica": "matematica",
-    "ciencias naturales": "ciencias_naturales",
-    "historia": "historia_geografia",
-    "historia geografia y ciencias sociales": "historia_geografia",
-    "modo explorador": "modo_explorador",
-    "explorador": "modo_explorador",
-}
+NON_PRIMARY_SOURCE_PARTS = {"00_documentacion", "bancos", "compendios", "evaluaciones"}
+NON_PRIMARY_FILE_PREFIXES = ("00_indice",)
 
 STOP_WORDS = {
     "al", "algo", "como", "con", "cual", "cuando", "de", "del", "desde",
@@ -125,24 +120,6 @@ RELATED_SECTION_HINTS = {
     "temas relacionados",
     "glosario",
 }
-
-
-def normalize_text(value: str) -> str:
-    without_accents = normalize("NFKD", value).encode("ascii", "ignore").decode("ascii")
-    clean_value = re.sub(r"[^a-z0-9]+", " ", without_accents.lower())
-    return " ".join(clean_value.split())
-
-
-def course_to_folder(course: str) -> str | None:
-    return COURSE_FOLDERS.get(normalize_text(course))
-
-
-def subject_to_folder(subject: str) -> str | None:
-    return SUBJECT_FOLDERS.get(normalize_text(subject))
-
-
-def is_explorer_mode(mode: str | None) -> bool:
-    return "explor" in normalize_text(mode or "")
 
 
 def _single_word_aliases() -> dict[str, str]:
@@ -294,6 +271,13 @@ def extract_headings(content: str) -> list[str]:
 def _is_related_section(heading: str) -> bool:
     normalized_heading = normalize_text(heading)
     return any(hint in normalized_heading for hint in RELATED_SECTION_HINTS)
+
+
+def is_primary_content_file(file_path: Path) -> bool:
+    parts = {normalize_text(part) for part in file_path.parts}
+    if parts.intersection(NON_PRIMARY_SOURCE_PARTS):
+        return False
+    return not file_path.stem.startswith(NON_PRIMARY_FILE_PREFIXES)
 
 
 def extract_sections(content: str) -> list[dict]:
@@ -459,7 +443,7 @@ def retrieve_local_content(
     topic_config = EDUCATIONAL_CONCEPTS.get(possible_topic or "", {})
 
     base_result = {
-        "provenance_status": "demo_fallback",
+        "provenance_status": DEMO_FALLBACK,
         "results": [],
         "related_results": [],
         "query_analysis": analysis,
@@ -468,27 +452,29 @@ def retrieve_local_content(
     }
 
     if not course_folder or not selected_subject:
-        return {**base_result, "provenance_status": "no_local_content"}
+        return {**base_result, "provenance_status": NO_LOCAL_CONTENT}
     if not analysis["keywords"]:
-        return {**base_result, "provenance_status": "clarification_required"}
+        return {**base_result, "provenance_status": CLARIFICATION_REQUIRED}
 
     if explorer_mode:
         search_folder = CONTENT_ROOT / course_folder / "modo_explorador"
         if not search_folder.is_dir():
-            return {**base_result, "provenance_status": "no_local_content"}
+            return {**base_result, "provenance_status": NO_LOCAL_CONTENT}
     else:
         if topic_config.get("external"):
-            return {**base_result, "provenance_status": "no_local_content"}
+            return {**base_result, "provenance_status": NO_LOCAL_CONTENT}
         possible_subject = analysis["possible_subject"]
         if possible_subject and possible_subject != selected_subject:
-            return {**base_result, "provenance_status": "clarification_required"}
+            return {**base_result, "provenance_status": CLARIFICATION_REQUIRED}
         search_folder = CONTENT_ROOT / course_folder / selected_subject
 
     if not search_folder.is_dir():
-        return {**base_result, "provenance_status": "no_local_content"}
+        return {**base_result, "provenance_status": NO_LOCAL_CONTENT}
 
     candidates = []
     for file_path in sorted(search_folder.rglob("*.md")):
+        if not is_primary_content_file(file_path.relative_to(CONTENT_ROOT)):
+            continue
         try:
             raw_content = file_path.read_text(encoding="utf-8")
         except (OSError, UnicodeError):
@@ -534,7 +520,7 @@ def retrieve_local_content(
     if verified:
         return {
             **base_result,
-            "provenance_status": "local_verified",
+            "provenance_status": LOCAL_VERIFIED,
             "results": verified,
             "best_score": best_score,
         }
@@ -554,16 +540,16 @@ def retrieve_local_content(
         if possible_topic and not topic_config.get("external") and related_candidates:
             return {
                 **base_result,
-                "provenance_status": "local_related",
+                "provenance_status": LOCAL_RELATED,
                 "related_results": related_candidates[: max(1, min(limit, MAX_RESULTS))],
                 "best_score": best_score,
             }
         return {
             **base_result,
-            "provenance_status": "local_low_confidence",
+            "provenance_status": LOCAL_LOW_CONFIDENCE,
             "best_score": best_score,
         }
-    return {**base_result, "provenance_status": "no_local_content"}
+    return {**base_result, "provenance_status": NO_LOCAL_CONTENT}
 
 
 def search_local_content(

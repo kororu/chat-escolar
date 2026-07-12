@@ -101,8 +101,15 @@ Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy RemoteSigned
 chat-escolar/
 ├── backend/
 │   ├── .venv/
+│   ├── ai_contract.py
+│   ├── content_reader.py
+│   ├── conversation_context.py
+│   ├── demo_tutor.py
+│   ├── educational_config.py
 │   ├── main.py
+│   ├── response_states.py
 │   ├── requirements.txt
+│   ├── text_utils.py
 │   └── chat_escolar.db  // local, no subir
 ├── frontend/
 │   ├── src/
@@ -359,15 +366,11 @@ Para un PC con 12 GB RAM se recomienda probar después modelos pequeños:
 
 ### 14.4. Base de conocimiento local
 
-Ya están integrados archivos Markdown locales para:
-
-- 1° básico;
-- 5° básico;
-- 6° básico.
+El backend reconoce mapeos de carpetas para 1° a 8° básico y materias principales. Estos mapeos están centralizados en `backend/educational_config.py`.
 
 El lector Markdown y `GET /content/search` están funcionando. El tutor demo puede usar estos archivos como apoyo y señalar la fuente local en el frontend.
 
-La búsqueda incluye normalización tolerante para conceptos educativos conocidos, puntuación ponderada, umbral mínimo y validación temática. Solo el estado `local_verified` permite mostrar una fuente. Los temas externos no se mezclan con carpetas curriculares y las preguntas ambiguas devuelven `clarification_required`.
+La búsqueda incluye normalización tolerante para conceptos educativos conocidos, puntuación ponderada, umbral mínimo y validación temática. Solo el estado `local_verified` permite mostrar una fuente. `local_related` puede informar una conexión secundaria sin tratarla como respaldo principal. Los temas externos no se mezclan con carpetas curriculares y las preguntas ambiguas devuelven `clarification_required`.
 
 Estados actuales de procedencia:
 
@@ -379,6 +382,8 @@ Estados actuales de procedencia:
 - `no_local_content`.
 
 `ollama_generated` queda reservado para una integración futura y no está implementado.
+
+`POST /chat/demo` también devuelve `provider` y `ai_context`. Hoy los proveedores reales son `demo` y `local_content`; `ollama` queda reservado como `future_provider` con `ollama_enabled: false`. No hay cliente Ollama ni llamadas a `localhost:11434`.
 
 ### 14.5. Contexto conversacional por perfil
 
@@ -429,25 +434,22 @@ Después de videos curados, los siguientes pasos recomendados son:
 
 ---
 
-## 16. Prompt pendiente para Codex: perfiles locales
+## 16. Perfiles locales
 
-El usuario quiere agregar perfiles locales con nombre y tipo de usuario.
+La app ya permite crear, seleccionar y eliminar perfiles locales con nombre, tipo de usuario y curso asociado.
 
 No debe ser login con contraseña todavía.
 
-Debe pedir:
+El perfil pide:
 
 - nombre;
 - tipo de usuario:
   - estudiante;
   - apoderado;
   - docente;
-- curso asociado:
-  - 1° básico;
-  - 5° básico;
-  - 6° básico.
+- curso asociado de 1° a 8° básico.
 
-Debe guardar perfil local y personalizar saludos/respuestas.
+El perfil se guarda localmente y personaliza saludos/respuestas. La eliminación segura usa `DELETE /profiles/{id}` y no borra datos de otros perfiles.
 
 También se quiere preparar un espacio para una mascota futura, con placeholder y globo tipo cómic.
 

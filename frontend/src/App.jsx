@@ -14,7 +14,7 @@ function createConversationId() {
   return `conversation-${Date.now()}-${Math.random().toString(16).slice(2)}`
 }
 
-const courses = ['1° básico', '5° básico', '6° básico']
+const courses = ['1° básico', '2° básico', '3° básico', '4° básico', '5° básico', '6° básico', '7° básico', '8° básico']
 const roles = ['Estudiante', 'Apoderado', 'Docente']
 const modes = ['Estudiar para el colegio', 'Explorar mis intereses', 'Practicar', 'Ver videos']
 const subjects = ['Ciencias Naturales', 'Matemática', 'Lenguaje', 'Historia']
@@ -39,7 +39,7 @@ const backendLabels = {
 const provenanceLabels = {
   local_related: 'Tema relacionado encontrado: no es una fuente principal.',
   local_low_confidence: 'Coincidencia local de baja confianza: no se usó como fuente.',
-  demo_fallback: 'Respuesta demo del tutor',
+  demo_fallback: 'No se usó una fuente local verificada.',
   clarification_required: 'Necesito una aclaración para buscar el tema correcto.',
   no_local_content: 'Contenido local verificado no disponible para este tema.',
 }
@@ -111,6 +111,39 @@ function SelectionGroup({ title, options, selected, onSelect }) {
         ))}
       </div>
     </section>
+  )
+}
+
+function SourceNotice({ message }) {
+  if (message.usedLocalContent) {
+    return (
+      <div className="local-content-note">
+        <strong>Respuesta apoyada en contenidos locales</strong>
+        {message.contentSources.length > 0 && (
+          <div>
+            <span>{message.contentSources.length === 1 ? 'Fuente local usada' : 'Fuentes locales usadas'}</span>
+            <ul>
+              {message.contentSources.map((source) => (
+                <li key={`${source.path}-${source.title}`}>{source.title}</li>
+              ))}
+            </ul>
+          </div>
+        )}
+      </div>
+    )
+  }
+
+  if (!message.provenanceStatus || message.provenanceStatus === 'local_verified') return null
+
+  return (
+    <div className={`provenance-note ${message.provenanceStatus}`}>
+      {provenanceLabels[message.provenanceStatus] ?? 'No se usó una fuente local verificada.'}
+      {message.provenanceStatus === 'local_related' && message.relatedSources?.length > 0 && (
+        <small>
+          Relacionado: {message.relatedSources[0].title} ({message.relatedSources[0].section})
+        </small>
+      )}
+    </div>
   )
 }
 
@@ -641,31 +674,7 @@ function App() {
               <article className={`message ${message.from}`} key={`${message.from}-${index}`}>
                 <span>{message.from === 'assistant' ? 'Chat Escolar' : activeProfile.name}</span>
                 <p>{message.text}</p>
-                {message.usedLocalContent && (
-                  <div className="local-content-note">
-                    <strong>Respuesta apoyada en contenidos locales</strong>
-                    {message.contentSources.length > 0 && (
-                      <div>
-                        <span>{message.contentSources.length === 1 ? 'Fuente local usada' : 'Fuentes locales usadas'}</span>
-                        <ul>
-                          {message.contentSources.map((source) => (
-                            <li key={`${source.path}-${source.title}`}>{source.title}</li>
-                          ))}
-                        </ul>
-                      </div>
-                    )}
-                  </div>
-                )}
-                {message.provenanceStatus && message.provenanceStatus !== 'local_verified' && (
-                  <div className={`provenance-note ${message.provenanceStatus}`}>
-                    {provenanceLabels[message.provenanceStatus] ?? 'Respuesta demo del tutor'}
-                    {message.provenanceStatus === 'local_related' && message.relatedSources?.length > 0 && (
-                      <small>
-                        Relacionado: {message.relatedSources[0].title} ({message.relatedSources[0].section})
-                      </small>
-                    )}
-                  </div>
-                )}
+                <SourceNotice message={message} />
                 {message.conversationContext?.used_context && (
                   <small className="conversation-context-note">
                     Continuamos el tema: {message.conversationContext.active_topic}.
