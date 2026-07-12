@@ -1,0 +1,242 @@
+[
+  {
+    "id": "6b_mat_01_factores_multiplos_numeros_primos_y_compuestos",
+    "path": "matematica/01_factores_multiplos_numeros_primos_y_compuestos.md",
+    "title": "Factores, múltiplos, números primos y compuestos",
+    "axis": "Números y operaciones",
+    "oa": [
+      "MA06 OA 01"
+    ],
+    "subject": "Matemática"
+  },
+  {
+    "id": "6b_mat_02_cuatro_operaciones_y_resolucion_de_problemas",
+    "path": "matematica/02_cuatro_operaciones_y_resolucion_de_problemas.md",
+    "title": "Cuatro operaciones y resolución de problemas",
+    "axis": "Números y operaciones",
+    "oa": [
+      "MA06 OA 02"
+    ],
+    "subject": "Matemática"
+  },
+  {
+    "id": "6b_mat_03_razones_y_razones_equivalentes",
+    "path": "matematica/03_razones_y_razones_equivalentes.md",
+    "title": "Razones y razones equivalentes",
+    "axis": "Números y operaciones",
+    "oa": [
+      "MA06 OA 03"
+    ],
+    "subject": "Matemática"
+  },
+  {
+    "id": "6b_mat_04_porcentajes_como_parte_de_cien",
+    "path": "matematica/04_porcentajes_como_parte_de_cien.md",
+    "title": "Porcentajes como parte de cien",
+    "axis": "Números y operaciones",
+    "oa": [
+      "MA06 OA 04"
+    ],
+    "subject": "Matemática"
+  },
+  {
+    "id": "6b_mat_05_fracciones_impropias_y_numeros_mixtos",
+    "path": "matematica/05_fracciones_impropias_y_numeros_mixtos.md",
+    "title": "Fracciones impropias y números mixtos",
+    "axis": "Números y operaciones",
+    "oa": [
+      "MA06 OA 05"
+    ],
+    "subject": "Matemática"
+  },
+  {
+    "id": "6b_mat_06_adicion_y_sustraccion_de_fracciones_y_numeros_mixtos",
+    "path": "matematica/06_adicion_y_sustraccion_de_fracciones_y_numeros_mixtos.md",
+    "title": "Adición y sustracción de fracciones y números mixtos",
+    "axis": "Números y operaciones",
+    "oa": [
+      "MA06 OA 06"
+    ],
+    "subject": "Matemática"
+  },
+  {
+    "id": "6b_mat_07_multiplicacion_y_division_de_decimales",
+    "path": "matematica/07_multiplicacion_y_division_de_decimales.md",
+    "title": "Multiplicación y división de decimales",
+    "axis": "Números y operaciones",
+    "oa": [
+      "MA06 OA 07"
+    ],
+    "subject": "Matemática"
+  },
+  {
+    "id": "6b_mat_08_problemas_con_fracciones_mixtos_y_decimales",
+    "path": "matematica/08_problemas_con_fracciones_mixtos_y_decimales.md",
+    "title": "Problemas con fracciones, mixtos y decimales",
+    "axis": "Números y operaciones",
+    "oa": [
+      "MA06 OA 08"
+    ],
+    "subject": "Matemática"
+  },
+  {
+    "id": "6b_mat_09_patrones_en_tablas_y_reglas_de_formacion",
+    "path": "matematica/09_patrones_en_tablas_y_reglas_de_formacion.md",
+    "title": "Patrones en tablas y reglas de formación",
+    "axis": "Patrones y álgebra",
+    "oa": [
+      "MA06 OA 09"
+    ],
+    "subject": "Matemática"
+  },
+  {
+    "id": "6b_mat_10_generalizaciones_con_letras_y_ecuaciones",
+    "path": "matematica/10_generalizaciones_con_letras_y_ecuaciones.md",
+    "title": "Generalizaciones con letras y ecuaciones",
+    "axis": "Patrones y álgebra",
+    "oa": [
+      "MA06 OA 10"
+    ],
+    "subject": "Matemática"
+  },
+  {
+    "id": "6b_mat_11_ecuaciones_de_primer_grado_con_una_incognita",
+    "path": "matematica/11_ecuaciones_de_primer_grado_con_una_incognita.md",
+    "title": "Ecuaciones de primer grado con una incógnita",
+    "axis": "Patrones y álgebra",
+    "oa": [
+      "MA06 OA 11"
+    ],
+    "subject": "Matemática"
+  },
+  {
+    "id": "6b_mat_12_construccion_y_clasificacion_de_triangulos",
+    "path": "matematica/12_construccion_y_clasificacion_de_triangulos.md",
+    "title": "Construcción y clasificación de triángulos",
+    "axis": "Geometría",
+    "oa": [
+      "MA06 OA 12"
+    ],
+    "subject": "Matemática"
+  },
+  {
+    "id": "6b_mat_13_redes_y_area_de_cubos_y_paralelepipedos",
+    "path": "matematica/13_redes_y_area_de_cubos_y_paralelepipedos.md",
+    "title": "Redes y área de cubos y paralelepípedos",
+    "axis": "Geometría",
+    "oa": [
+      "MA06 OA 13"
+    ],
+    "subject": "Matemática"
+  },
+  {
+    "id": "6b_mat_14_teselados_con_transformaciones",
+    "path": "matematica/14_teselados_con_transformaciones.md",
+    "title": "Teselados con transformaciones",
+    "axis": "Geometría",
+    "oa": [
+      "MA06 OA 14"
+    ],
+    "subject": "Matemática"
+  },
+  {
+    "id": "6b_mat_15_tipos_y_construccion_de_angulos",
+    "path": "matematica/15_tipos_y_construccion_de_angulos.md",
+    "title": "Tipos y construcción de ángulos",
+    "axis": "Geometría",
+    "oa": [
+      "MA06 OA 15"
+    ],
+    "subject": "Matemática"
+  },
+  {
+    "id": "6b_mat_16_angulos_opuestos_por_el_vertice_y_complementarios",
+    "path": "matematica/16_angulos_opuestos_por_el_vertice_y_complementarios.md",
+    "title": "Ángulos opuestos por el vértice y complementarios",
+    "axis": "Geometría",
+    "oa": [
+      "MA06 OA 16"
+    ],
+    "subject": "Matemática"
+  },
+  {
+    "id": "6b_mat_17_suma_de_angulos_interiores",
+    "path": "matematica/17_suma_de_angulos_interiores.md",
+    "title": "Suma de ángulos interiores",
+    "axis": "Geometría",
+    "oa": [
+      "MA06 OA 17"
+    ],
+    "subject": "Matemática"
+  },
+  {
+    "id": "6b_mat_18_superficie_de_cubos_y_paralelepipedos",
+    "path": "matematica/18_superficie_de_cubos_y_paralelepipedos.md",
+    "title": "Superficie de cubos y paralelepípedos",
+    "axis": "Medición",
+    "oa": [
+      "MA06 OA 18"
+    ],
+    "subject": "Matemática"
+  },
+  {
+    "id": "6b_mat_19_volumen_de_cubos_y_paralelepipedos",
+    "path": "matematica/19_volumen_de_cubos_y_paralelepipedos.md",
+    "title": "Volumen de cubos y paralelepípedos",
+    "axis": "Medición",
+    "oa": [
+      "MA06 OA 19"
+    ],
+    "subject": "Matemática"
+  },
+  {
+    "id": "6b_mat_20_estimacion_y_medicion_de_angulos_con_transportador",
+    "path": "matematica/20_estimacion_y_medicion_de_angulos_con_transportador.md",
+    "title": "Estimación y medición de ángulos con transportador",
+    "axis": "Medición",
+    "oa": [
+      "MA06 OA 20"
+    ],
+    "subject": "Matemática"
+  },
+  {
+    "id": "6b_mat_21_angulos_en_paralelas_con_transversal_y_triangulos",
+    "path": "matematica/21_angulos_en_paralelas_con_transversal_y_triangulos.md",
+    "title": "Ángulos en paralelas con transversal y triángulos",
+    "axis": "Medición",
+    "oa": [
+      "MA06 OA 21"
+    ],
+    "subject": "Matemática"
+  },
+  {
+    "id": "6b_mat_22_comparacion_de_distribuciones_con_diagramas",
+    "path": "matematica/22_comparacion_de_distribuciones_con_diagramas.md",
+    "title": "Comparación de distribuciones con diagramas",
+    "axis": "Datos y probabilidades",
+    "oa": [
+      "MA06 OA 22"
+    ],
+    "subject": "Matemática"
+  },
+  {
+    "id": "6b_mat_23_probabilidad_experimental_y_tendencia",
+    "path": "matematica/23_probabilidad_experimental_y_tendencia.md",
+    "title": "Probabilidad experimental y tendencia",
+    "axis": "Datos y probabilidades",
+    "oa": [
+      "MA06 OA 23"
+    ],
+    "subject": "Matemática"
+  },
+  {
+    "id": "6b_mat_24_graficos_de_barra_doble_y_circulares",
+    "path": "matematica/24_graficos_de_barra_doble_y_circulares.md",
+    "title": "Gráficos de barra doble y circulares",
+    "axis": "Datos y probabilidades",
+    "oa": [
+      "MA06 OA 24"
+    ],
+    "subject": "Matemática"
+  }
+]

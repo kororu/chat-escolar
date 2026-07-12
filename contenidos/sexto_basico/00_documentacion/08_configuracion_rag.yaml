@@ -1,0 +1,34 @@
+version: 1
+course: sexto_basico
+include:
+  - lenguaje/**/*.md
+  - matematica/**/*.md
+  - ciencias_naturales/**/*.md
+  - historia_geografia/**/*.md
+exclude:
+  - "**/00_indice_*.md"
+  - compendios/**
+  - evaluaciones/**
+  - bancos/**
+chunking:
+  strategy: markdown_headings
+  target_characters: 1200
+  max_characters: 2200
+  overlap_characters: 180
+retrieval:
+  top_k: 6
+  lexical_candidates: 20
+  semantic_candidates: 20
+  deduplicate_by: source_path
+filters:
+  required:
+    curso: sexto_basico
+metadata_fields:
+  - id
+  - curso
+  - asignatura
+  - eje
+  - tema
+  - tipo
+  - oa_relacionados
+  - version

@@ -1,0 +1,265 @@
+[
+  {
+    "id": "6b_len_01_fluidez_precision_y_prosodia",
+    "path": "lenguaje/01_fluidez_precision_y_prosodia.md",
+    "title": "Fluidez, precisión y prosodia",
+    "axis": "Lectura - Comprensión",
+    "oa": [
+      "LE06 OA 01"
+    ],
+    "subject": "Lenguaje y Comunicación"
+  },
+  {
+    "id": "6b_len_02_estrategias_de_comprension_y_monitoreo_lector",
+    "path": "lenguaje/02_estrategias_de_comprension_y_monitoreo_lector.md",
+    "title": "Estrategias de comprensión y monitoreo lector",
+    "axis": "Lectura - Comprensión",
+    "oa": [
+      "LE06 OA 02"
+    ],
+    "subject": "Lenguaje y Comunicación"
+  },
+  {
+    "id": "6b_len_03_repertorio_literario_habito_lector_y_biblioteca",
+    "path": "lenguaje/03_repertorio_literario_habito_lector_y_biblioteca.md",
+    "title": "Repertorio literario, hábito lector y biblioteca",
+    "axis": "Lectura - Comprensión",
+    "oa": [
+      "LE06 OA 03",
+      "LE06 OA 09",
+      "LE06 OA 10"
+    ],
+    "subject": "Lenguaje y Comunicación"
+  },
+  {
+    "id": "6b_len_04_acciones_motivaciones_y_conflicto_en_una_narracion",
+    "path": "lenguaje/04_acciones_motivaciones_y_conflicto_en_una_narracion.md",
+    "title": "Acciones, motivaciones y conflicto en una narración",
+    "axis": "Lectura - Comprensión",
+    "oa": [
+      "LE06 OA 04"
+    ],
+    "subject": "Lenguaje y Comunicación"
+  },
+  {
+    "id": "6b_len_05_ambiente_costumbres_epoca_y_lugar_en_la_narracion",
+    "path": "lenguaje/05_ambiente_costumbres_epoca_y_lugar_en_la_narracion.md",
+    "title": "Ambiente, costumbres, época y lugar en la narración",
+    "axis": "Lectura - Comprensión",
+    "oa": [
+      "LE06 OA 04"
+    ],
+    "subject": "Lenguaje y Comunicación"
+  },
+  {
+    "id": "6b_len_06_lenguaje_figurado_en_narraciones",
+    "path": "lenguaje/06_lenguaje_figurado_en_narraciones.md",
+    "title": "Lenguaje figurado en narraciones",
+    "axis": "Lectura - Comprensión",
+    "oa": [
+      "LE06 OA 04"
+    ],
+    "subject": "Lenguaje y Comunicación"
+  },
+  {
+    "id": "6b_len_07_conclusiones_opiniones_y_comparacion_de_narraciones",
+    "path": "lenguaje/07_conclusiones_opiniones_y_comparacion_de_narraciones.md",
+    "title": "Conclusiones, opiniones y comparación de narraciones",
+    "axis": "Lectura - Comprensión",
+    "oa": [
+      "LE06 OA 04"
+    ],
+    "subject": "Lenguaje y Comunicación"
+  },
+  {
+    "id": "6b_len_08_imagenes_sensoriales_y_estados_de_animo_en_poesia",
+    "path": "lenguaje/08_imagenes_sensoriales_y_estados_de_animo_en_poesia.md",
+    "title": "Imágenes sensoriales y estados de ánimo en poesía",
+    "axis": "Lectura - Comprensión",
+    "oa": [
+      "LE06 OA 05"
+    ],
+    "subject": "Lenguaje y Comunicación"
+  },
+  {
+    "id": "6b_len_09_personificacion_comparacion_e_hiperbole",
+    "path": "lenguaje/09_personificacion_comparacion_e_hiperbole.md",
+    "title": "Personificación, comparación e hipérbole",
+    "axis": "Lectura - Comprensión",
+    "oa": [
+      "LE06 OA 05"
+    ],
+    "subject": "Lenguaje y Comunicación"
+  },
+  {
+    "id": "6b_len_10_aliteracion_y_onomatopeya",
+    "path": "lenguaje/10_aliteracion_y_onomatopeya.md",
+    "title": "Aliteración y onomatopeya",
+    "axis": "Lectura - Comprensión",
+    "oa": [
+      "LE06 OA 05"
+    ],
+    "subject": "Lenguaje y Comunicación"
+  },
+  {
+    "id": "6b_len_11_informacion_explicita_implicita_e_inferencias_en_textos_no_literarios",
+    "path": "lenguaje/11_informacion_explicita_implicita_e_inferencias_en_textos_no_literarios.md",
+    "title": "Información explícita, implícita e inferencias en textos no literarios",
+    "axis": "Lectura - Comprensión",
+    "oa": [
+      "LE06 OA 06"
+    ],
+    "subject": "Lenguaje y Comunicación"
+  },
+  {
+    "id": "6b_len_12_imagenes_graficos_tablas_mapas_y_diagramas",
+    "path": "lenguaje/12_imagenes_graficos_tablas_mapas_y_diagramas.md",
+    "title": "Imágenes, gráficos, tablas, mapas y diagramas",
+    "axis": "Lectura - Comprensión",
+    "oa": [
+      "LE06 OA 06"
+    ],
+    "subject": "Lenguaje y Comunicación"
+  },
+  {
+    "id": "6b_len_13_comparacion_de_textos_y_formacion_de_una_opinion",
+    "path": "lenguaje/13_comparacion_de_textos_y_formacion_de_una_opinion.md",
+    "title": "Comparación de textos y formación de una opinión",
+    "axis": "Lectura - Comprensión",
+    "oa": [
+      "LE06 OA 06"
+    ],
+    "subject": "Lenguaje y Comunicación"
+  },
+  {
+    "id": "6b_len_14_evaluacion_critica_de_fuentes_y_noticias",
+    "path": "lenguaje/14_evaluacion_critica_de_fuentes_y_noticias.md",
+    "title": "Evaluación crítica de fuentes y noticias",
+    "axis": "Lectura - Comprensión",
+    "oa": [
+      "LE06 OA 07"
+    ],
+    "subject": "Lenguaje y Comunicación"
+  },
+  {
+    "id": "6b_len_15_sintesis_registro_y_organizacion_de_ideas",
+    "path": "lenguaje/15_sintesis_registro_y_organizacion_de_ideas.md",
+    "title": "Síntesis, registro y organización de ideas",
+    "axis": "Lectura - Comprensión",
+    "oa": [
+      "LE06 OA 08"
+    ],
+    "subject": "Lenguaje y Comunicación"
+  },
+  {
+    "id": "6b_len_16_busqueda_seleccion_y_contraste_de_informacion",
+    "path": "lenguaje/16_busqueda_seleccion_y_contraste_de_informacion.md",
+    "title": "Búsqueda, selección y contraste de información",
+    "axis": "Lectura - Comprensión",
+    "oa": [
+      "LE06 OA 11"
+    ],
+    "subject": "Lenguaje y Comunicación"
+  },
+  {
+    "id": "6b_len_17_significado_de_palabras_nuevas",
+    "path": "lenguaje/17_significado_de_palabras_nuevas.md",
+    "title": "Significado de palabras nuevas",
+    "axis": "Lectura - Comprensión",
+    "oa": [
+      "LE06 OA 12"
+    ],
+    "subject": "Lenguaje y Comunicación"
+  },
+  {
+    "id": "6b_len_18_escritura_creativa_y_narraciones_coherentes",
+    "path": "lenguaje/18_escritura_creativa_y_narraciones_coherentes.md",
+    "title": "Escritura creativa y narraciones coherentes",
+    "axis": "Escritura - Producción",
+    "oa": [
+      "LE06 OA 13",
+      "LE06 OA 14"
+    ],
+    "subject": "Lenguaje y Comunicación"
+  },
+  {
+    "id": "6b_len_19_articulos_informativos_y_uso_de_fuentes",
+    "path": "lenguaje/19_articulos_informativos_y_uso_de_fuentes.md",
+    "title": "Artículos informativos y uso de fuentes",
+    "axis": "Escritura - Producción",
+    "oa": [
+      "LE06 OA 15"
+    ],
+    "subject": "Lenguaje y Comunicación"
+  },
+  {
+    "id": "6b_len_20_comentarios_de_lectura_fundamentados",
+    "path": "lenguaje/20_comentarios_de_lectura_fundamentados.md",
+    "title": "Comentarios de lectura fundamentados",
+    "axis": "Escritura - Producción",
+    "oa": [
+      "LE06 OA 16"
+    ],
+    "subject": "Lenguaje y Comunicación"
+  },
+  {
+    "id": "6b_len_21_planificacion_revision_y_edicion_de_textos",
+    "path": "lenguaje/21_planificacion_revision_y_edicion_de_textos.md",
+    "title": "Planificación, revisión y edición de textos",
+    "axis": "Escritura - Producción",
+    "oa": [
+      "LE06 OA 17",
+      "LE06 OA 18"
+    ],
+    "subject": "Lenguaje y Comunicación"
+  },
+  {
+    "id": "6b_len_22_vocabulario_preciso_y_recursos_expresivos",
+    "path": "lenguaje/22_vocabulario_preciso_y_recursos_expresivos.md",
+    "title": "Vocabulario preciso y recursos expresivos",
+    "axis": "Escritura - Producción",
+    "oa": [
+      "LE06 OA 19",
+      "LE06 OA 20"
+    ],
+    "subject": "Lenguaje y Comunicación"
+  },
+  {
+    "id": "6b_len_23_participios_irregulares_y_ortografia_de_sexto_basico",
+    "path": "lenguaje/23_participios_irregulares_y_ortografia_de_sexto_basico.md",
+    "title": "Participios irregulares y ortografía de sexto básico",
+    "axis": "Escritura - Producción",
+    "oa": [
+      "LE06 OA 21",
+      "LE06 OA 22"
+    ],
+    "subject": "Lenguaje y Comunicación"
+  },
+  {
+    "id": "6b_len_24_comprension_oral_publicidad_y_mensajes_audiovisuales",
+    "path": "lenguaje/24_comprension_oral_publicidad_y_mensajes_audiovisuales.md",
+    "title": "Comprensión oral, publicidad y mensajes audiovisuales",
+    "axis": "Comunicación oral",
+    "oa": [
+      "LE06 OA 23",
+      "LE06 OA 24",
+      "LE06 OA 25",
+      "LE06 OA 26"
+    ],
+    "subject": "Lenguaje y Comunicación"
+  },
+  {
+    "id": "6b_len_25_dialogo_convenciones_sociales_exposicion_y_produccion_oral",
+    "path": "lenguaje/25_dialogo_convenciones_sociales_exposicion_y_produccion_oral.md",
+    "title": "Diálogo, convenciones sociales, exposición y producción oral",
+    "axis": "Comunicación oral",
+    "oa": [
+      "LE06 OA 27",
+      "LE06 OA 28",
+      "LE06 OA 29",
+      "LE06 OA 30",
+      "LE06 OA 31"
+    ],
+    "subject": "Lenguaje y Comunicación"
+  }
+]

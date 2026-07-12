@@ -1,0 +1,228 @@
+[
+  {
+    "id": "6b_csn_01_fotosintesis_requerimientos_productos_y_evidencia_experimental",
+    "path": "ciencias_naturales/01_fotosintesis_requerimientos_productos_y_evidencia_experimental.md",
+    "title": "Fotosíntesis: requerimientos, productos y evidencia experimental",
+    "axis": "Ciencias de la Vida",
+    "oa": [
+      "CN06 OA 01"
+    ],
+    "subject": "Ciencias Naturales"
+  },
+  {
+    "id": "6b_csn_02_aportes_cientificos_al_estudio_de_la_fotosintesis",
+    "path": "ciencias_naturales/02_aportes_cientificos_al_estudio_de_la_fotosintesis.md",
+    "title": "Aportes científicos al estudio de la fotosíntesis",
+    "axis": "Ciencias de la Vida",
+    "oa": [
+      "CN06 OA 01"
+    ],
+    "subject": "Ciencias Naturales"
+  },
+  {
+    "id": "6b_csn_03_cadenas_alimentarias_y_niveles_troficos",
+    "path": "ciencias_naturales/03_cadenas_alimentarias_y_niveles_troficos.md",
+    "title": "Cadenas alimentarias y niveles tróficos",
+    "axis": "Ciencias de la Vida",
+    "oa": [
+      "CN06 OA 02"
+    ],
+    "subject": "Ciencias Naturales"
+  },
+  {
+    "id": "6b_csn_04_redes_alimentarias_y_transferencia_de_materia_y_energia",
+    "path": "ciencias_naturales/04_redes_alimentarias_y_transferencia_de_materia_y_energia.md",
+    "title": "Redes alimentarias y transferencia de materia y energía",
+    "axis": "Ciencias de la Vida",
+    "oa": [
+      "CN06 OA 02"
+    ],
+    "subject": "Ciencias Naturales"
+  },
+  {
+    "id": "6b_csn_05_efectos_de_la_actividad_humana_sobre_redes_alimentarias",
+    "path": "ciencias_naturales/05_efectos_de_la_actividad_humana_sobre_redes_alimentarias.md",
+    "title": "Efectos de la actividad humana sobre redes alimentarias",
+    "axis": "Ciencias de la Vida",
+    "oa": [
+      "CN06 OA 03"
+    ],
+    "subject": "Ciencias Naturales"
+  },
+  {
+    "id": "6b_csn_06_sistema_reproductor_humano_femenino",
+    "path": "ciencias_naturales/06_sistema_reproductor_humano_femenino.md",
+    "title": "Sistema reproductor humano femenino",
+    "axis": "Ciencias de la Vida",
+    "oa": [
+      "CN06 OA 04"
+    ],
+    "subject": "Ciencias Naturales"
+  },
+  {
+    "id": "6b_csn_07_sistema_reproductor_humano_masculino",
+    "path": "ciencias_naturales/07_sistema_reproductor_humano_masculino.md",
+    "title": "Sistema reproductor humano masculino",
+    "axis": "Ciencias de la Vida",
+    "oa": [
+      "CN06 OA 04"
+    ],
+    "subject": "Ciencias Naturales"
+  },
+  {
+    "id": "6b_csn_08_cambios_fisicos_emocionales_y_sociales_de_la_pubertad",
+    "path": "ciencias_naturales/08_cambios_fisicos_emocionales_y_sociales_de_la_pubertad.md",
+    "title": "Cambios físicos, emocionales y sociales de la pubertad",
+    "axis": "Ciencias de la Vida",
+    "oa": [
+      "CN06 OA 05"
+    ],
+    "subject": "Ciencias Naturales"
+  },
+  {
+    "id": "6b_csn_09_actividad_fisica_higiene_y_autocuidado_en_la_pubertad",
+    "path": "ciencias_naturales/09_actividad_fisica_higiene_y_autocuidado_en_la_pubertad.md",
+    "title": "Actividad física, higiene y autocuidado en la pubertad",
+    "axis": "Ciencias de la Vida",
+    "oa": [
+      "CN06 OA 06"
+    ],
+    "subject": "Ciencias Naturales"
+  },
+  {
+    "id": "6b_csn_10_drogas_salud_y_conductas_de_proteccion",
+    "path": "ciencias_naturales/10_drogas_salud_y_conductas_de_proteccion.md",
+    "title": "Drogas, salud y conductas de protección",
+    "axis": "Ciencias de la Vida",
+    "oa": [
+      "CN06 OA 07"
+    ],
+    "subject": "Ciencias Naturales"
+  },
+  {
+    "id": "6b_csn_11_energia_cambios_y_origen_solar",
+    "path": "ciencias_naturales/11_energia_cambios_y_origen_solar.md",
+    "title": "Energía, cambios y origen solar",
+    "axis": "Ciencias Físicas y Químicas",
+    "oa": [
+      "CN06 OA 08"
+    ],
+    "subject": "Ciencias Naturales"
+  },
+  {
+    "id": "6b_csn_12_transformaciones_de_la_energia",
+    "path": "ciencias_naturales/12_transformaciones_de_la_energia.md",
+    "title": "Transformaciones de la energía",
+    "axis": "Ciencias Físicas y Químicas",
+    "oa": [
+      "CN06 OA 09"
+    ],
+    "subject": "Ciencias Naturales"
+  },
+  {
+    "id": "6b_csn_13_transferencia_de_calor_y_equilibrio_termico",
+    "path": "ciencias_naturales/13_transferencia_de_calor_y_equilibrio_termico.md",
+    "title": "Transferencia de calor y equilibrio térmico",
+    "axis": "Ciencias Físicas y Químicas",
+    "oa": [
+      "CN06 OA 10"
+    ],
+    "subject": "Ciencias Naturales"
+  },
+  {
+    "id": "6b_csn_14_recursos_energeticos_renovables_y_no_renovables",
+    "path": "ciencias_naturales/14_recursos_energeticos_renovables_y_no_renovables.md",
+    "title": "Recursos energéticos renovables y no renovables",
+    "axis": "Ciencias Físicas y Químicas",
+    "oa": [
+      "CN06 OA 11"
+    ],
+    "subject": "Ciencias Naturales"
+  },
+  {
+    "id": "6b_csn_15_modelo_de_particulas_y_estados_de_la_materia",
+    "path": "ciencias_naturales/15_modelo_de_particulas_y_estados_de_la_materia.md",
+    "title": "Modelo de partículas y estados de la materia",
+    "axis": "Ciencias Físicas y Químicas",
+    "oa": [
+      "CN06 OA 12"
+    ],
+    "subject": "Ciencias Naturales"
+  },
+  {
+    "id": "6b_csn_16_cambios_de_estado_de_la_materia",
+    "path": "ciencias_naturales/16_cambios_de_estado_de_la_materia.md",
+    "title": "Cambios de estado de la materia",
+    "axis": "Ciencias Físicas y Químicas",
+    "oa": [
+      "CN06 OA 13"
+    ],
+    "subject": "Ciencias Naturales"
+  },
+  {
+    "id": "6b_csn_17_calor_y_temperatura",
+    "path": "ciencias_naturales/17_calor_y_temperatura.md",
+    "title": "Calor y temperatura",
+    "axis": "Ciencias Físicas y Químicas",
+    "oa": [
+      "CN06 OA 14"
+    ],
+    "subject": "Ciencias Naturales"
+  },
+  {
+    "id": "6b_csn_18_calentamiento_y_enfriamiento_del_agua",
+    "path": "ciencias_naturales/18_calentamiento_y_enfriamiento_del_agua.md",
+    "title": "Calentamiento y enfriamiento del agua",
+    "axis": "Ciencias Físicas y Químicas",
+    "oa": [
+      "CN06 OA 15"
+    ],
+    "subject": "Ciencias Naturales"
+  },
+  {
+    "id": "6b_csn_19_atmosfera_litosfera_e_hidrosfera",
+    "path": "ciencias_naturales/19_atmosfera_litosfera_e_hidrosfera.md",
+    "title": "Atmósfera, litósfera e hidrósfera",
+    "axis": "Ciencias de la Tierra y el Universo",
+    "oa": [
+      "CN06 OA 16"
+    ],
+    "subject": "Ciencias Naturales"
+  },
+  {
+    "id": "6b_csn_20_formacion_propiedades_e_importancia_del_suelo",
+    "path": "ciencias_naturales/20_formacion_propiedades_e_importancia_del_suelo.md",
+    "title": "Formación, propiedades e importancia del suelo",
+    "axis": "Ciencias de la Tierra y el Universo",
+    "oa": [
+      "CN06 OA 17"
+    ],
+    "subject": "Ciencias Naturales"
+  },
+  {
+    "id": "6b_csn_21_erosion_agentes_consecuencias_y_prevencion",
+    "path": "ciencias_naturales/21_erosion_agentes_consecuencias_y_prevencion.md",
+    "title": "Erosión: agentes, consecuencias y prevención",
+    "axis": "Ciencias de la Tierra y el Universo",
+    "oa": [
+      "CN06 OA 18"
+    ],
+    "subject": "Ciencias Naturales"
+  },
+  {
+    "id": "6b_csn_22_habilidades_de_investigacion_cientifica_en_sexto_basico",
+    "path": "ciencias_naturales/22_habilidades_de_investigacion_cientifica_en_sexto_basico.md",
+    "title": "Habilidades de investigación científica en sexto básico",
+    "axis": "Habilidades científicas",
+    "oa": [
+      "CN06 OAH a",
+      "CN06 OAH b",
+      "CN06 OAH c",
+      "CN06 OAH d",
+      "CN06 OAH e",
+      "CN06 OAH f",
+      "CN06 OAH g"
+    ],
+    "subject": "Ciencias Naturales"
+  }
+]
