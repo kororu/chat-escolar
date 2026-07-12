@@ -3,6 +3,126 @@
   padding: 32px;
 }
 
+.welcome-shell {
+  display: grid;
+  min-height: 100svh;
+  padding: 32px;
+  place-items: center;
+}
+
+.welcome-card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 16px;
+  box-shadow: var(--shadow);
+  display: grid;
+  gap: 32px;
+  grid-template-columns: minmax(0, 1fr) minmax(320px, 420px);
+  max-width: 980px;
+  padding: clamp(28px, 5vw, 56px);
+  width: 100%;
+}
+
+.welcome-copy h1 {
+  color: var(--ink);
+  font-size: clamp(2.5rem, 6vw, 4.8rem);
+  line-height: 1;
+  margin: 0;
+}
+
+.welcome-subtitle {
+  color: var(--accent-strong);
+  font-size: 1.45rem;
+  font-weight: 700;
+  margin: 16px 0 0;
+}
+
+.welcome-note {
+  color: var(--text);
+  margin: 24px 0;
+  max-width: 48ch;
+}
+
+.profile-form {
+  background: var(--soft);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  display: grid;
+  gap: 10px;
+  padding: 24px;
+}
+
+.profile-form h2,
+.saved-profiles h2 {
+  color: var(--ink);
+  margin: 0 0 8px;
+}
+
+.profile-form label {
+  color: var(--ink);
+  font-size: 0.88rem;
+  font-weight: 700;
+  margin-top: 4px;
+}
+
+.profile-form input,
+.profile-form select {
+  background: #fff;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  color: var(--ink);
+  font: inherit;
+  min-height: 46px;
+  padding: 10px 12px;
+}
+
+.primary-button {
+  background: var(--accent);
+  border-radius: 8px;
+  color: #fff;
+  font-weight: 700;
+  margin-top: 8px;
+  min-height: 48px;
+}
+
+.form-error {
+  color: #9b2d20;
+  font-size: 0.9rem;
+  margin: 4px 0 0;
+}
+
+.saved-profiles {
+  border-top: 1px solid var(--border);
+  grid-column: 1 / -1;
+  padding-top: 24px;
+}
+
+.profile-list {
+  display: grid;
+  gap: 10px;
+  grid-template-columns: repeat(auto-fit, minmax(190px, 1fr));
+}
+
+.profile-list button {
+  background: var(--soft);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  color: var(--ink);
+  display: grid;
+  gap: 4px;
+  padding: 14px;
+  text-align: left;
+}
+
+.profile-list button:hover {
+  border-color: var(--accent);
+}
+
+.profile-list span {
+  color: var(--muted);
+  font-size: 0.88rem;
+}
+
 .intro {
   align-items: end;
   display: flex;
@@ -52,6 +172,76 @@
 .student-card strong {
   color: var(--ink);
   font-size: 1.25rem;
+}
+
+.profile-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-top: 8px;
+}
+
+.profile-actions button {
+  background: var(--accent-soft);
+  border-radius: 6px;
+  color: var(--accent-strong);
+  font-size: 0.82rem;
+  font-weight: 700;
+  padding: 7px 9px;
+}
+
+.profile-actions .danger-link {
+  background: #ffe9e6;
+  color: #9b2d20;
+}
+
+.mascot-placeholder {
+  align-items: center;
+  background: var(--surface);
+  border: 1px dashed var(--accent);
+  border-radius: 8px;
+  display: flex;
+  gap: 14px;
+  margin: 0 auto 18px;
+  max-width: 1240px;
+  padding: 14px 18px;
+}
+
+.mascot-avatar {
+  align-items: center;
+  aspect-ratio: 1;
+  background: var(--accent-soft);
+  border: 2px solid var(--accent);
+  border-radius: 50%;
+  color: var(--accent-strong);
+  display: flex;
+  flex: 0 0 52px;
+  font-size: 0.84rem;
+  font-weight: 800;
+  justify-content: center;
+}
+
+.mascot-placeholder strong {
+  color: var(--ink);
+}
+
+.mascot-placeholder p {
+  background: var(--soft);
+  border-radius: 8px;
+  color: var(--text);
+  margin: 4px 0 0;
+  padding: 7px 10px;
+  position: relative;
+}
+
+.mascot-placeholder p::before {
+  border-bottom: 7px solid transparent;
+  border-right: 9px solid var(--soft);
+  border-top: 7px solid transparent;
+  content: '';
+  left: -9px;
+  position: absolute;
+  top: 10px;
 }
 
 .backend-status {
@@ -139,7 +329,8 @@
 }
 
 button,
-input {
+input,
+select {
   font: inherit;
 }
 
@@ -154,7 +345,8 @@ button:disabled {
 }
 
 button:focus-visible,
-input:focus-visible {
+input:focus-visible,
+select:focus-visible {
   outline: 3px solid rgba(31, 125, 112, 0.25);
   outline-offset: 2px;
 }
@@ -474,6 +666,16 @@ dd {
 
   .intro {
     gap: 18px;
+  }
+
+  .welcome-shell {
+    padding: 18px;
+  }
+
+  .welcome-card {
+    gap: 24px;
+    grid-template-columns: 1fr;
+    padding: 24px;
   }
 
   .student-card {

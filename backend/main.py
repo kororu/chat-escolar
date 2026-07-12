@@ -5,7 +5,7 @@ from unicodedata import normalize
 
 from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
-from pydantic import BaseModel
+from pydantic import BaseModel, Field
 
 DB_PATH = Path(__file__).with_name("chat_escolar.db")
 
@@ -29,6 +29,15 @@ class ChatDemoRequest(BaseModel):
     mode: str
     subject: str
     question: str
+    profile_id: int | None = None
+    user_name: str | None = None
+    user_role: str | None = None
+
+
+class ProfileCreate(BaseModel):
+    name: str = Field(min_length=1, max_length=80)
+    role: str
+    course: str
 
 
 class HistoryStatusUpdate(BaseModel):
@@ -64,6 +73,27 @@ def init_db():
             )
             """
         )
+        connection.execute(
+            """
+            CREATE TABLE IF NOT EXISTS profiles (
+                id INTEGER PRIMARY KEY AUTOINCREMENT,
+                name TEXT NOT NULL,
+                role TEXT NOT NULL,
+                course TEXT NOT NULL,
+                created_at TEXT NOT NULL,
+                last_used_at TEXT NOT NULL
+            )
+            """
+        )
+
+        history_columns = {
+            row["name"]
+            for row in connection.execute("PRAGMA table_info(chat_history)").fetchall()
+        }
+        if "profile_id" not in history_columns:
+            connection.execute(
+                "ALTER TABLE chat_history ADD COLUMN profile_id INTEGER REFERENCES profiles(id)"
+            )
 
 
 def row_to_history_item(row: sqlite3.Row) -> dict:
@@ -110,9 +140,10 @@ def save_history(payload: ChatDemoRequest, demo_answer: dict[str, str]) -> int:
                 answer_full,
                 status,
                 is_favorite,
-                created_at
+                created_at,
+                profile_id
             )
-            VALUES (?, ?, ?, ?, ?, ?, ?, 'pendiente', 0, ?)
+            VALUES (?, ?, ?, ?, ?, ?, ?, 'pendiente', 0, ?, ?)
             """,
             (
                 payload.course,
@@ -123,6 +154,7 @@ def save_history(payload: ChatDemoRequest, demo_answer: dict[str, str]) -> int:
                 demo_answer["summary"],
                 demo_answer["answer"],
                 created_at,
+                payload.profile_id,
             ),
         )
         return cursor.lastrowid
@@ -217,14 +249,47 @@ def make_demo_answer(payload: ChatDemoRequest) -> dict[str, str]:
         )
         summary = "Respuesta demo general para estudiar el tema paso a paso."
 
+    name = (payload.user_name or "").strip()
+    role = normalize_text(payload.user_role or "")
+    display_name = name or ""
+
+    if role == "apoderado":
+        introduction = (
+            f"Claro{', ' + display_name if display_name else ''}. "
+            "Te explico una forma simple para enseñárselo al estudiante."
+        )
+    elif role == "docente":
+        introduction = (
+            f"Claro{', ' + display_name if display_name else ''}. "
+            "Puedes trabajarlo con una explicación breve y una actividad simple."
+        )
+    elif role == "estudiante":
+        introduction = (
+            f"Claro{', ' + display_name if display_name else ''}. Vamos paso a paso."
+        )
+    else:
+        introduction = "Vamos paso a paso."
+
     return {
-        "answer": answer,
+        "answer": f"{introduction}\n\n{answer}",
         "summary": summary,
         "status": "ok",
     }
 
 
 init_db()
+
+
+def get_profile_or_404(profile_id: int) -> dict:
+    with get_connection() as connection:
+        row = connection.execute(
+            "SELECT * FROM profiles WHERE id = ?", (profile_id,)
+        ).fetchone()
+
+    if row is None:
+        raise HTTPException(status_code=404, detail="Perfil no encontrado")
+
+    return dict(row)
 
 
 @app.get("/")
@@ -243,8 +308,67 @@ def health():
     }
 
 
+@app.post("/profiles", status_code=201)
+def create_profile(payload: ProfileCreate):
+    valid_roles = {"Estudiante", "Apoderado", "Docente"}
+    valid_courses = {"1° básico", "5° básico", "6° básico"}
+    name = payload.name.strip()
+
+    if not name:
+        raise HTTPException(status_code=400, detail="El nombre es obligatorio")
+    if payload.role not in valid_roles:
+        raise HTTPException(status_code=400, detail="Tipo de usuario inválido")
+    if payload.course not in valid_courses:
+        raise HTTPException(status_code=400, detail="Curso inválido")
+
+    now = datetime.now(timezone.utc).isoformat()
+    with get_connection() as connection:
+        cursor = connection.execute(
+            """
+            INSERT INTO profiles (name, role, course, created_at, last_used_at)
+            VALUES (?, ?, ?, ?, ?)
+            """,
+            (name, payload.role, payload.course, now, now),
+        )
+
+    return {"status": "ok", "profile": get_profile_or_404(cursor.lastrowid)}
+
+
+@app.get("/profiles")
+def list_profiles():
+    with get_connection() as connection:
+        rows = connection.execute(
+            "SELECT * FROM profiles ORDER BY last_used_at DESC, id DESC"
+        ).fetchall()
+
+    return {"status": "ok", "items": [dict(row) for row in rows]}
+
+
+@app.get("/profiles/{profile_id}")
+def get_profile(profile_id: int):
+    return {"status": "ok", "profile": get_profile_or_404(profile_id)}
+
+
+@app.patch("/profiles/{profile_id}/last-used")
+def update_profile_last_used(profile_id: int):
+    get_profile_or_404(profile_id)
+    now = datetime.now(timezone.utc).isoformat()
+    with get_connection() as connection:
+        connection.execute(
+            "UPDATE profiles SET last_used_at = ? WHERE id = ?", (now, profile_id)
+        )
+
+    return {"status": "ok", "profile": get_profile_or_404(profile_id)}
+
+
 @app.post("/chat/demo")
 def chat_demo(payload: ChatDemoRequest):
+    if payload.profile_id is not None:
+        profile = get_profile_or_404(payload.profile_id)
+        payload.user_name = profile["name"]
+        payload.user_role = profile["role"]
+        payload.course = profile["course"]
+
     demo_answer = make_demo_answer(payload)
     history_id = save_history(payload, demo_answer)
 
@@ -255,11 +379,21 @@ def chat_demo(payload: ChatDemoRequest):
 
 
 @app.get("/history")
-def list_history():
+def list_history(profile_id: int | None = None):
     with get_connection() as connection:
-        rows = connection.execute(
-            "SELECT * FROM chat_history ORDER BY created_at DESC, id DESC"
-        ).fetchall()
+        if profile_id is None:
+            rows = connection.execute(
+                "SELECT * FROM chat_history ORDER BY created_at DESC, id DESC"
+            ).fetchall()
+        else:
+            rows = connection.execute(
+                """
+                SELECT * FROM chat_history
+                WHERE profile_id = ?
+                ORDER BY created_at DESC, id DESC
+                """,
+                (profile_id,),
+            ).fetchall()
 
     return {
         "status": "ok",
@@ -268,24 +402,30 @@ def list_history():
 
 
 @app.get("/history/continue")
-def continue_history():
+def continue_history(profile_id: int | None = None):
     with get_connection() as connection:
+        profile_filter = "AND profile_id = ?" if profile_id is not None else ""
+        params = (profile_id,) if profile_id is not None else ()
         row = connection.execute(
-            """
+            f"""
             SELECT * FROM chat_history
             WHERE status = 'pendiente'
+            {profile_filter}
             ORDER BY created_at DESC, id DESC
             LIMIT 1
-            """
+            """,
+            params,
         ).fetchone()
 
         if row is None:
             row = connection.execute(
-                """
+                f"""
                 SELECT * FROM chat_history
+                {"WHERE profile_id = ?" if profile_id is not None else ""}
                 ORDER BY created_at DESC, id DESC
                 LIMIT 1
-                """
+                """,
+                params,
             ).fetchone()
 
     return {
