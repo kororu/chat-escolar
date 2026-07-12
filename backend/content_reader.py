@@ -1,8 +1,11 @@
 import re
+from difflib import SequenceMatcher
 from pathlib import Path
 from unicodedata import normalize
 
 CONTENT_ROOT = Path(__file__).resolve().parent.parent / "contenidos"
+MIN_RELEVANCE_SCORE = 24
+MAX_RESULTS = 3
 
 COURSE_FOLDERS = {
     "1 basico": "primero_basico",
@@ -29,9 +32,70 @@ SUBJECT_FOLDERS = {
 
 STOP_WORDS = {
     "al", "algo", "como", "con", "cual", "cuando", "de", "del", "desde",
-    "donde", "el", "ella", "en", "es", "esta", "este", "esto", "hay", "la",
-    "las", "lo", "los", "mas", "me", "mi", "para", "por", "que", "se", "sin",
-    "son", "su", "sus", "un", "una", "unas", "unos", "y",
+    "donde", "el", "ella", "en", "es", "esta", "este", "esto", "fue",
+    "gustaria", "hay", "la", "las", "lo", "los", "mas", "me", "mi", "para",
+    "por", "que", "saber", "se", "sin", "son", "su", "sus", "un", "una",
+    "unas", "unos", "usado", "usada", "y",
+}
+
+# Diccionario pequeño y explícito: solo corrige conceptos educativos conocidos.
+# Se puede ampliar sin incorporar un corrector ortográfico agresivo.
+EDUCATIONAL_CONCEPTS = {
+    "habitat": {
+        "aliases": {"habitat", "habitats"},
+        "subject": "ciencias_naturales",
+        "external": False,
+    },
+    "fracciones": {
+        "aliases": {"fraccion", "fracciones"},
+        "subject": "matematica",
+        "external": False,
+    },
+    "promedio aritmetico": {
+        "aliases": {"promedio aritmetico", "promedio"},
+        "subject": "matematica",
+        "external": False,
+    },
+    "ecosistemas": {
+        "aliases": {"ecosistema", "ecosistemas"},
+        "subject": "ciencias_naturales",
+        "external": False,
+    },
+    "tanques": {
+        "aliases": {"tanque", "tanques"},
+        "subject": "modo_explorador",
+        "external": True,
+    },
+    "segunda guerra mundial": {
+        "aliases": {"segunda guerra", "segunda guerra mundial"},
+        "subject": "modo_explorador",
+        "external": True,
+    },
+    "aviones": {
+        "aliases": {"avion", "aviones"},
+        "subject": "modo_explorador",
+        "external": True,
+    },
+    "espacio": {
+        "aliases": {"espacio", "espacial"},
+        "subject": "modo_explorador",
+        "external": True,
+    },
+    "dinosaurios": {
+        "aliases": {"dinosaurio", "dinosaurios"},
+        "subject": "modo_explorador",
+        "external": True,
+    },
+    "robots": {
+        "aliases": {"robot", "robots"},
+        "subject": "modo_explorador",
+        "external": True,
+    },
+    "inventos": {
+        "aliases": {"invento", "inventos"},
+        "subject": "modo_explorador",
+        "external": True,
+    },
 }
 
 
@@ -42,34 +106,146 @@ def normalize_text(value: str) -> str:
 
 
 def course_to_folder(course: str) -> str | None:
-    normalized_course = normalize_text(course).replace("°", "")
-    return COURSE_FOLDERS.get(normalized_course)
+    return COURSE_FOLDERS.get(normalize_text(course))
 
 
 def subject_to_folder(subject: str) -> str | None:
     return SUBJECT_FOLDERS.get(normalize_text(subject))
 
 
-def question_keywords(question: str) -> list[str]:
-    keywords = []
-    for word in normalize_text(question).split():
-        if len(word) < 3 or word in STOP_WORDS:
+def is_explorer_mode(mode: str | None) -> bool:
+    return "explor" in normalize_text(mode or "")
+
+
+def _single_word_aliases() -> dict[str, str]:
+    aliases = {}
+    for canonical, concept in EDUCATIONAL_CONCEPTS.items():
+        for alias in concept["aliases"]:
+            if " " not in alias:
+                aliases[alias] = canonical
+    return aliases
+
+
+def _correct_known_token(token: str) -> tuple[str, float]:
+    aliases = _single_word_aliases()
+    if token in aliases:
+        canonical = aliases[token]
+        return canonical if " " not in canonical else token, 1.0
+    if len(token) < 5:
+        return token, 1.0
+
+    best_alias = None
+    best_ratio = 0.0
+    for alias in aliases:
+        if abs(len(alias) - len(token)) > 2:
             continue
-        keywords.append(word)
-        if word.startswith("sum"):
+        ratio = SequenceMatcher(None, token, alias).ratio()
+        if ratio > best_ratio:
+            best_alias = alias
+            best_ratio = ratio
+
+    if best_alias and best_ratio >= 0.72:
+        canonical = aliases[best_alias]
+        return canonical if " " not in canonical else best_alias, best_ratio
+    return token, 1.0
+
+
+def _detect_topic(normalized_question: str) -> str | None:
+    for canonical, concept in EDUCATIONAL_CONCEPTS.items():
+        if any(alias in normalized_question for alias in sorted(concept["aliases"], key=len, reverse=True)):
+            return canonical
+    return None
+
+
+def normalize_question(question: str) -> dict:
+    original_text = question
+    analysis_text = normalize_text(question)
+    raw_tokens = analysis_text.split()
+    correction_confidences = []
+    corrected_tokens = []
+
+    for index, token in enumerate(raw_tokens):
+        if token in {"q", "k", "ke"} and (index == 0 or (index + 1 < len(raw_tokens) and raw_tokens[index + 1] == "es")):
+            corrected_tokens.append("que")
+            correction_confidences.append(0.95)
+            continue
+        corrected, confidence = _correct_known_token(token)
+        corrected_tokens.append(corrected)
+        if corrected != token:
+            correction_confidences.append(confidence)
+
+    normalized_question = " ".join(corrected_tokens)
+    possible_topic = _detect_topic(normalized_question)
+    intent = "definition" if normalized_question.startswith(("que es ", "que son ")) else None
+    if intent is None and any(word in corrected_tokens for word in ("saber", "conocer", "explicar")):
+        intent = "exploration"
+
+    # Todas las variantes conocidas de la pregunta de hábitat convergen al mismo análisis.
+    if intent == "definition" and possible_topic == "habitat":
+        normalized_question = "que es un habitat"
+
+    keywords = []
+    for token in normalized_question.split():
+        if len(token) < 3 or token in STOP_WORDS:
+            continue
+        keywords.append(token)
+        if token.startswith("sum"):
             keywords.append("adicion")
-        elif word.startswith("rest"):
+        elif token.startswith("rest"):
             keywords.append("sustraccion")
 
-    return list(dict.fromkeys(keywords))
+    if possible_topic:
+        keywords.extend(possible_topic.split())
+
+    possible_subject = (
+        EDUCATIONAL_CONCEPTS[possible_topic]["subject"] if possible_topic else None
+    )
+    confidence = min(correction_confidences, default=1.0)
+
+    return {
+        "original_text": original_text,
+        "normalized_text": normalized_question,
+        "intent": intent,
+        "keywords": list(dict.fromkeys(keywords)),
+        "possible_subject": possible_subject,
+        "possible_topic": possible_topic,
+        "confidence": round(confidence, 2),
+    }
+
+
+def question_keywords(question: str) -> list[str]:
+    return normalize_question(question)["keywords"]
 
 
 def strip_front_matter(content: str) -> str:
     if not content.startswith("---"):
         return content
-
     parts = content.split("---", 2)
     return parts[2].lstrip() if len(parts) == 3 else content
+
+
+def parse_front_matter(content: str) -> dict:
+    if not content.startswith("---"):
+        return {"topic": "", "subject": "", "keywords": []}
+    parts = content.split("---", 2)
+    if len(parts) != 3:
+        return {"topic": "", "subject": "", "keywords": []}
+
+    metadata = parts[1]
+    topic_match = re.search(r'(?m)^tema:\s*["\']?([^"\'\n]+)', metadata)
+    subject_match = re.search(r'(?m)^asignatura:\s*["\']?([^"\'\n]+)', metadata)
+    keyword_block = re.search(r"(?ms)^palabras_clave:\s*\n((?:\s+-[^\n]*\n?)*)", metadata)
+    keywords = []
+    if keyword_block:
+        keywords = [
+            item.strip().strip('"\'')
+            for item in re.findall(r"(?m)^\s+-\s*(.+)$", keyword_block.group(1))
+        ]
+    return {
+        "topic": topic_match.group(1).strip() if topic_match else "",
+        "subject": subject_match.group(1).strip() if subject_match else "",
+        "keywords": keywords,
+    }
 
 
 def extract_title(content: str, fallback: str) -> str:
@@ -80,6 +256,13 @@ def extract_title(content: str, fallback: str) -> str:
     return fallback.replace("_", " ").strip().title()
 
 
+def extract_headings(content: str) -> list[str]:
+    return [
+        match.group(1).strip()
+        for match in re.finditer(r"(?m)^#{1,6}\s+(.+)$", content)
+    ]
+
+
 def clean_excerpt(value: str) -> str:
     value = re.sub(r"(?m)^#{1,6}\s*", "", value)
     value = re.sub(r"(?m)^[-*>]+\s*", "", value)
@@ -88,92 +271,185 @@ def clean_excerpt(value: str) -> str:
 
 
 def make_excerpt(content: str, keywords: list[str], max_length: int = 800) -> str:
-    normalized_content = normalize_text(content)
-    match_positions = [
-        normalized_content.find(keyword)
-        for keyword in keywords
-        if normalized_content.find(keyword) >= 0
-    ]
-    normalized_position = min(match_positions) if match_positions else 0
+    plain_content = clean_excerpt(content)
+    sentences = [item.strip() for item in re.split(r"(?<=[.!?])\s+", plain_content) if item.strip()]
+    if not sentences:
+        return ""
 
-    if normalized_position == 0:
-        fragment = content[: max_length + 200]
-    else:
-        ratio = normalized_position / max(len(normalized_content), 1)
-        source_position = int(ratio * len(content))
-        start = max(0, source_position - 160)
-        fragment = content[start : start + max_length + 200]
+    best_index = max(
+        range(len(sentences)),
+        key=lambda index: sum(normalize_text(sentences[index]).count(keyword) for keyword in keywords),
+    )
+    selected = []
+    for sentence in sentences[best_index:]:
+        candidate = " ".join([*selected, sentence])
+        if len(candidate) > max_length:
+            break
+        selected.append(sentence)
+        if len(candidate) >= max_length * 0.65:
+            break
 
-    excerpt = clean_excerpt(fragment)
-    if len(excerpt) <= max_length:
+    excerpt = " ".join(selected)
+    if excerpt:
         return excerpt
 
-    shortened = excerpt[:max_length].rsplit(" ", 1)[0].rstrip(".,;:")
-    return f"{shortened}…"
+    shortened = sentences[best_index][:max_length]
+    boundary = max(shortened.rfind(". "), shortened.rfind("; "), shortened.rfind(": "))
+    if boundary >= max_length // 3:
+        shortened = shortened[: boundary + 1]
+    else:
+        shortened = shortened.rsplit(" ", 1)[0]
+    return f"{shortened.rstrip()}…"
 
 
-def score_content(file_path: Path, content: str, title: str, keywords: list[str]) -> int:
-    normalized_name = normalize_text(file_path.stem)
-    normalized_title = normalize_text(title)
-    normalized_content = normalize_text(content)
+def _score_document(file_path: Path, raw_content: str, keywords: list[str]) -> dict:
+    content = strip_front_matter(raw_content)
+    metadata = parse_front_matter(raw_content)
+    title = extract_title(content, file_path.stem)
+    headings = extract_headings(content)
+    fields = {
+        "filename": normalize_text(file_path.stem),
+        "title": normalize_text(title),
+        "topic": normalize_text(metadata["topic"]),
+        "headings": normalize_text(" ".join(headings)),
+        "explicit_keywords": normalize_text(" ".join(metadata["keywords"])),
+        "body": normalize_text(content),
+    }
+    weights = {
+        "filename": 14,
+        "title": 14,
+        "topic": 12,
+        "headings": 8,
+        "explicit_keywords": 10,
+    }
     score = 0
-
+    high_signal_matches = set()
     for keyword in keywords:
-        if keyword in normalized_name:
-            score += 8
-        if keyword in normalized_title:
-            score += 6
-        score += min(normalized_content.count(keyword), 5)
+        for field, weight in weights.items():
+            if keyword in fields[field]:
+                score += weight
+                high_signal_matches.add(keyword)
+        score += min(fields["body"].count(keyword), 2)
 
-    if keywords and all(keyword in f"{normalized_name} {normalized_title}" for keyword in keywords):
-        score += 6
+    if high_signal_matches:
+        score += 4  # La carpeta de materia ya fue validada antes de puntuar.
 
-    return score
+    return {
+        "title": title,
+        "content": content,
+        "score": score,
+        "high_signal_matches": high_signal_matches,
+    }
 
 
-def search_local_content(
+def retrieve_local_content(
     course: str,
     subject: str,
     question: str,
-    limit: int = 3,
-) -> list[dict]:
+    mode: str | None = None,
+    limit: int = MAX_RESULTS,
+    minimum_score: int = MIN_RELEVANCE_SCORE,
+) -> dict:
+    analysis = normalize_question(question)
     course_folder = course_to_folder(course)
-    subject_folder = subject_to_folder(subject)
-    keywords = question_keywords(question)
+    selected_subject = subject_to_folder(subject)
+    explorer_mode = is_explorer_mode(mode)
+    possible_topic = analysis["possible_topic"]
+    topic_config = EDUCATIONAL_CONCEPTS.get(possible_topic or "", {})
 
-    if not course_folder or not subject_folder or not keywords:
-        return []
+    base_result = {
+        "provenance_status": "demo_fallback",
+        "results": [],
+        "query_analysis": analysis,
+        "minimum_score": minimum_score,
+        "best_score": 0,
+    }
 
-    search_folder = CONTENT_ROOT / course_folder / subject_folder
+    if not course_folder or not selected_subject:
+        return {**base_result, "provenance_status": "no_local_content"}
+    if not analysis["keywords"]:
+        return {**base_result, "provenance_status": "clarification_required"}
+
+    if explorer_mode:
+        search_folder = CONTENT_ROOT / course_folder / "modo_explorador"
+        if not search_folder.is_dir():
+            return {**base_result, "provenance_status": "no_local_content"}
+    else:
+        if topic_config.get("external"):
+            return {**base_result, "provenance_status": "no_local_content"}
+        possible_subject = analysis["possible_subject"]
+        if possible_subject and possible_subject != selected_subject:
+            return {**base_result, "provenance_status": "clarification_required"}
+        search_folder = CONTENT_ROOT / course_folder / selected_subject
+
     if not search_folder.is_dir():
-        return []
+        return {**base_result, "provenance_status": "no_local_content"}
 
-    results = []
+    candidates = []
     for file_path in sorted(search_folder.rglob("*.md")):
         try:
             raw_content = file_path.read_text(encoding="utf-8")
         except (OSError, UnicodeError):
             continue
 
-        content = strip_front_matter(raw_content)
-        title = extract_title(content, file_path.stem)
-        score = score_content(file_path, content, title, keywords)
-        if score <= 0:
+        scored = _score_document(file_path, raw_content, analysis["keywords"])
+        if scored["score"] <= 0:
             continue
-
         try:
             relative_path = file_path.relative_to(CONTENT_ROOT).as_posix()
         except ValueError:
             continue
 
-        results.append(
+        coherent = bool(scored["high_signal_matches"])
+        candidates.append(
             {
-                "title": title,
+                "title": scored["title"],
                 "path": relative_path,
-                "score": score,
-                "excerpt": make_excerpt(content, keywords),
+                "score": scored["score"],
+                "excerpt": make_excerpt(scored["content"], analysis["keywords"]),
+                "coherent": coherent,
             }
         )
 
-    results.sort(key=lambda item: (-item["score"], item["path"]))
-    return results[: max(0, min(limit, 3))]
+    candidates.sort(key=lambda item: (-item["score"], item["path"]))
+    best_score = candidates[0]["score"] if candidates else 0
+    verified = []
+    seen_titles = set()
+    for candidate in candidates:
+        normalized_title = normalize_text(candidate["title"])
+        if (
+            not candidate["coherent"]
+            or candidate["score"] < minimum_score
+            or normalized_title in seen_titles
+        ):
+            continue
+        seen_titles.add(normalized_title)
+        verified.append({key: candidate[key] for key in ("title", "path", "score", "excerpt")})
+        if len(verified) >= max(1, min(limit, MAX_RESULTS)):
+            break
+
+    if verified:
+        return {
+            **base_result,
+            "provenance_status": "local_verified",
+            "results": verified,
+            "best_score": best_score,
+        }
+    if candidates:
+        return {
+            **base_result,
+            "provenance_status": "local_low_confidence",
+            "best_score": best_score,
+        }
+    return base_result
+
+
+def search_local_content(
+    course: str,
+    subject: str,
+    question: str,
+    limit: int = MAX_RESULTS,
+    mode: str | None = None,
+) -> list[dict]:
+    """Compatibilidad con el contrato anterior: solo retorna fuentes verificadas."""
+    return retrieve_local_content(course, subject, question, mode=mode, limit=limit)["results"]

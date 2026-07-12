@@ -5,6 +5,15 @@ import { APP_INFO } from './config/appInfo'
 const API_BASE_URL = 'http://127.0.0.1:8000'
 const ACTIVE_PROFILE_KEY = 'chat-escolar-active-profile-id'
 
+function conversationStorageKey(profileId) {
+  return `chat-escolar-conversation-${profileId}`
+}
+
+function createConversationId() {
+  if (window.crypto?.randomUUID) return window.crypto.randomUUID()
+  return `conversation-${Date.now()}-${Math.random().toString(16).slice(2)}`
+}
+
 const courses = ['1° básico', '5° básico', '6° básico']
 const roles = ['Estudiante', 'Apoderado', 'Docente']
 const modes = ['Estudiar para el colegio', 'Explorar mis intereses', 'Practicar', 'Ver videos']
@@ -25,6 +34,13 @@ const backendLabels = {
   checking: 'Comprobando backend...',
   connected: 'Backend conectado',
   unavailable: 'Backend no disponible',
+}
+
+const provenanceLabels = {
+  local_low_confidence: 'Coincidencia local de baja confianza: no se usó como fuente.',
+  demo_fallback: 'Respuesta demo del tutor',
+  clarification_required: 'Necesito una aclaración para buscar el tema correcto.',
+  no_local_content: 'Contenido local verificado no disponible para este tema.',
 }
 
 function normalizeSearchText(text) {
@@ -97,12 +113,16 @@ function SelectionGroup({ title, options, selected, onSelect }) {
   )
 }
 
-function ProfileScreen({ profiles, onCreate, onSelect, backendStatus, activeProfile }) {
+function ProfileScreen({ profiles, onCreate, onSelect, onDelete, backendStatus, activeProfile }) {
   const [name, setName] = useState('')
   const [role, setRole] = useState('Estudiante')
   const [course, setCourse] = useState('5° básico')
   const [isSaving, setIsSaving] = useState(false)
   const [error, setError] = useState('')
+  const [profileToDelete, setProfileToDelete] = useState(null)
+  const [deleteError, setDeleteError] = useState('')
+  const [isDeleting, setIsDeleting] = useState(false)
+  const [successMessage, setSuccessMessage] = useState('')
 
   const submitProfile = async (event) => {
     event.preventDefault()
@@ -116,6 +136,21 @@ function ProfileScreen({ profiles, onCreate, onSelect, backendStatus, activeProf
       setError('No pude guardar el perfil. Revisa que el backend esté conectado.')
     } finally {
       setIsSaving(false)
+    }
+  }
+
+  const confirmDelete = async () => {
+    if (!profileToDelete || isDeleting) return
+    setIsDeleting(true)
+    setDeleteError('')
+    try {
+      const deletedProfile = await onDelete(profileToDelete.id)
+      setSuccessMessage(`El perfil ${deletedProfile.name} fue eliminado.`)
+      setProfileToDelete(null)
+    } catch {
+      setDeleteError('No pude eliminar el perfil. Inténtalo nuevamente.')
+    } finally {
+      setIsDeleting(false)
     }
   }
 
@@ -157,20 +192,51 @@ function ProfileScreen({ profiles, onCreate, onSelect, backendStatus, activeProf
           </button>
         </form>
 
+        {successMessage && <p className="profile-success" role="status">{successMessage}</p>}
         {profiles.length > 0 && (
           <section className="saved-profiles" aria-label="Perfiles guardados">
             <h2>O usa un perfil guardado</h2>
             <div className="profile-list">
               {profiles.map((profile) => (
-                <button key={profile.id} type="button" onClick={() => onSelect(profile)}>
-                  <strong>{profile.name}</strong>
-                  <span>{profile.role} · {profile.course}</span>
-                </button>
+                <article className="profile-entry" key={profile.id}>
+                  <button className="profile-select" type="button" onClick={() => onSelect(profile)}>
+                    <strong>{profile.name}</strong>
+                    <span>{profile.role} · {profile.course}</span>
+                  </button>
+                  <button
+                    aria-label={`Eliminar perfil ${profile.name}`}
+                    className="delete-profile-button"
+                    type="button"
+                    onClick={(event) => {
+                      event.stopPropagation()
+                      setDeleteError('')
+                      setSuccessMessage('')
+                      setProfileToDelete(profile)
+                    }}
+                  >
+                    Eliminar
+                  </button>
+                </article>
               ))}
             </div>
           </section>
         )}
       </section>
+      {profileToDelete && (
+        <div className="profile-modal-backdrop" role="presentation">
+          <section aria-labelledby="delete-profile-title" aria-modal="true" className="profile-modal" role="dialog">
+            <h2 id="delete-profile-title">¿Seguro que quieres eliminar el perfil {profileToDelete.name}?</h2>
+            <p>También se eliminarán sus preguntas guardadas, favoritos, pendientes y contexto de conversación local.</p>
+            {deleteError && <p className="form-error">{deleteError}</p>}
+            <div className="profile-modal-actions">
+              <button type="button" disabled={isDeleting} onClick={() => setProfileToDelete(null)}>Cancelar</button>
+              <button className="delete-confirm-button" type="button" disabled={isDeleting} onClick={confirmDelete}>
+                {isDeleting ? 'Eliminando...' : 'Eliminar perfil'}
+              </button>
+            </div>
+          </section>
+        </div>
+      )}
     </main>
   )
 }
@@ -220,6 +286,7 @@ function App() {
   const [backendStatus, setBackendStatus] = useState('checking')
   const [profiles, setProfiles] = useState([])
   const [activeProfile, setActiveProfile] = useState(null)
+  const [conversationId, setConversationId] = useState(null)
   const [showProfileScreen, setShowProfileScreen] = useState(true)
   const [course, setCourse] = useState('5° básico')
   const [mode, setMode] = useState('Estudiar para el colegio')
@@ -248,8 +315,12 @@ function App() {
   const recommendedVideos = (topicVideos.length > 0 ? topicVideos : videos).slice(0, 4)
 
   const activateProfile = useCallback(async (profile) => {
+    const storageKey = conversationStorageKey(profile.id)
+    const savedConversationId = localStorage.getItem(storageKey) || createConversationId()
+    localStorage.setItem(storageKey, savedConversationId)
     localStorage.setItem(ACTIVE_PROFILE_KEY, String(profile.id))
     setActiveProfile(profile)
+    setConversationId(savedConversationId)
     setCourse(profile.course)
     setMessages([{ from: 'assistant', text: greetingFor(profile) }])
     setHistoryView('recent')
@@ -351,9 +422,31 @@ function App() {
     await activateProfile(data.profile)
   }
 
+  const deleteProfile = async (profileId) => {
+    const response = await fetch(`${API_BASE_URL}/profiles/${profileId}`, { method: 'DELETE' })
+    if (!response.ok) throw new Error('Profile deletion failed')
+    const data = await response.json()
+    setProfiles((current) => current.filter((profile) => profile.id !== profileId))
+    localStorage.removeItem(conversationStorageKey(profileId))
+
+    if (activeProfile?.id === profileId) {
+      localStorage.removeItem(ACTIVE_PROFILE_KEY)
+      setActiveProfile(null)
+      setConversationId(null)
+      setMessages([])
+      setHistoryItems([])
+      setQuestion('')
+      setVideoTopic(null)
+      setShowProfileScreen(true)
+    }
+
+    return data.deleted_profile
+  }
+
   const resetLocalProfile = () => {
     localStorage.removeItem(ACTIVE_PROFILE_KEY)
     setActiveProfile(null)
+    setConversationId(null)
     setMessages([])
     setHistoryItems([])
     setShowProfileScreen(true)
@@ -371,6 +464,7 @@ function App() {
         profile_id: activeProfile.id,
         user_name: activeProfile.name,
         user_role: activeProfile.role,
+        conversation_id: conversationId,
       }),
     })
     if (!response.ok) throw new Error('Demo tutor request failed')
@@ -394,7 +488,8 @@ function App() {
           summary: data.summary,
           usedLocalContent: data.used_local_content,
           contentSources: data.content_sources ?? [],
-          isDemoResponse: !data.used_local_content,
+          provenanceStatus: data.provenance_status ?? 'demo_fallback',
+          conversationContext: data.conversation_context,
         },
       ])
       setBackendStatus(data.status === 'ok' ? 'connected' : 'unavailable')
@@ -492,6 +587,7 @@ function App() {
         activeProfile={activeProfile}
         backendStatus={backendStatus}
         onCreate={createProfile}
+        onDelete={deleteProfile}
         onSelect={activateProfile}
         profiles={profiles}
       />
@@ -558,8 +654,15 @@ function App() {
                     )}
                   </div>
                 )}
-                {message.isDemoResponse && (
-                  <small className="demo-response-note">Respuesta demo del tutor</small>
+                {message.provenanceStatus && message.provenanceStatus !== 'local_verified' && (
+                  <div className={`provenance-note ${message.provenanceStatus}`}>
+                    {provenanceLabels[message.provenanceStatus] ?? 'Respuesta demo del tutor'}
+                  </div>
+                )}
+                {message.conversationContext?.used_context && (
+                  <small className="conversation-context-note">
+                    Continuamos el tema: {message.conversationContext.active_topic}.
+                  </small>
                 )}
                 {message.summary && <small className="message-summary">Resumen: {message.summary}</small>}
               </article>

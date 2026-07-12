@@ -125,3 +125,5 @@ Chat Escolar funciona localmente y de forma gratuita. Por ahora no se conecta a 
 La aplicación también puede apoyar sus respuestas con archivos Markdown guardados en `contenidos/`. El backend busca automáticamente material relacionado con el curso, la materia y la pregunta, sin enviar información a servicios externos.
 
 Consulta [README_CONTENIDOS_LOCALES.md](README_CONTENIDOS_LOCALES.md) para conocer la estructura, agregar nuevos contenidos y probar el buscador.
+
+La conversación también mantiene un contexto local breve para el perfil activo. Se usa solo para preguntas de seguimiento dentro de la misma conversación y no se comparte entre perfiles.

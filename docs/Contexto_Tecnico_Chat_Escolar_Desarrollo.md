@@ -367,7 +367,35 @@ Ya están integrados archivos Markdown locales para:
 
 El lector Markdown y `GET /content/search` están funcionando. El tutor demo puede usar estos archivos como apoyo y señalar la fuente local en el frontend.
 
+La búsqueda incluye normalización tolerante para conceptos educativos conocidos, puntuación ponderada, umbral mínimo y validación temática. Solo el estado `local_verified` permite mostrar una fuente. Los temas externos no se mezclan con carpetas curriculares y las preguntas ambiguas devuelven `clarification_required`.
+
+Estados actuales de procedencia:
+
+- `local_verified`;
+- `local_low_confidence`;
+- `demo_fallback`;
+- `clarification_required`;
+- `no_local_content`.
+
+`ollama_generated` queda reservado para una integración futura y no está implementado.
+
+### 14.5. Contexto conversacional por perfil
+
+El tutor conserva una memoria local ligera por `profile_id` y `conversation_id`. Consulta como máximo seis interacciones de la misma conversación, con prioridad para el turno más reciente. Guarda por separado la pregunta original, la pregunta normalizada, la consulta contextual, el tema activo y la confianza de reconstrucción.
+
+Las preguntas de seguimiento se reconstruyen solo cuando existe un tema activo confiable. Los cambios claros de tema descartan el contexto y las preguntas ambiguas sin antecedentes devuelven `clarification_required`. Esta memoria no mezcla perfiles y no reemplaza el texto visible del historial.
+
+Ollama sigue reservado para una etapa futura. El orden previsto es: contenido local confiable, contenido exploratorio local, IA local mediante Ollama y respuesta segura de respaldo.
+
+### 14.6. Eliminación segura de perfiles locales
+
+`DELETE /profiles/{id}` elimina el perfil por su ID interno y borra en la misma transacción solo el historial asociado a ese `profile_id`. Como favoritos, pendientes y contexto conversacional están en `chat_history`, también se eliminan junto con esas filas. No existe una tabla separada de preferencias en esta versión.
+
+La pantalla de selección solicita confirmación con el nombre exacto. Al eliminar el perfil activo, React limpia `localStorage` para el perfil activo y su conversación, borra el estado visual y vuelve al selector. Si no quedan perfiles, se muestra el formulario de creación.
+
 Los cursos 2°, 3°, 4°, 7° y 8° básico están en preparación y no deben marcarse como disponibles hasta que sus contenidos se incorporen y verifiquen en el repositorio.
+
+El Modo Escolar consulta exclusivamente contenido curricular del curso y materia. El Modo Explorador queda separado y, mientras no exista una colección local específica, informa que el contenido no está disponible y usa un respaldo demo transparente.
 
 ---
 

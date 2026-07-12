@@ -10,6 +10,14 @@ Actualmente la base puede consultar contenidos curriculares Markdown de 1°, 5°
 
 La guía para organizar, agregar y probar estos materiales está en [docs/README_CONTENIDOS_LOCALES.md](docs/README_CONTENIDOS_LOCALES.md).
 
+El buscador valida relevancia antes de mostrar una fuente: pondera títulos, temas, palabras clave y encabezados, y separa el contenido curricular del futuro Modo Explorador. Las coincidencias débiles no se presentan como respaldo verificado.
+
+Las preguntas de seguimiento usan una memoria local breve aislada por perfil y conversación. El historial conserva siempre el texto original del estudiante; las reconstrucciones se usan solo internamente para buscar contenido o pedir una aclaración segura.
+
+## Perfiles locales
+
+Los perfiles se pueden crear, cambiar y eliminar desde la pantalla de selección. Eliminar un perfil requiere confirmación y borra únicamente su historial, favoritos, pendientes y contexto conversacional local. Consulta [docs/README_PERFILES_LOCALES.md](docs/README_PERFILES_LOCALES.md).
+
 ## Autoría
 
 Chat Escolar es un proyecto desarrollado por **Ariel Ponce**.

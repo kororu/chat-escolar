@@ -1,5 +1,6 @@
 import json
 import sqlite3
+from contextlib import contextmanager
 from datetime import datetime, timezone
 from pathlib import Path
 from unicodedata import normalize
@@ -9,9 +10,14 @@ from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel, Field
 
 try:
-    from .content_reader import search_local_content
+    from .content_reader import normalize_question, retrieve_local_content
 except ImportError:
-    from content_reader import search_local_content
+    from content_reader import normalize_question, retrieve_local_content
+
+try:
+    from .conversation_context import build_conversation_context
+except ImportError:
+    from conversation_context import build_conversation_context
 
 DB_PATH = Path(__file__).with_name("chat_escolar.db")
 VIDEOS_PATH = Path(__file__).with_name("data") / "videos_curados.json"
@@ -39,6 +45,7 @@ class ChatDemoRequest(BaseModel):
     profile_id: int | None = None
     user_name: str | None = None
     user_role: str | None = None
+    conversation_id: str | None = Field(default=None, max_length=120)
 
 
 class ProfileCreate(BaseModel):
@@ -55,10 +62,18 @@ class HistoryFavoriteUpdate(BaseModel):
     is_favorite: bool | None = None
 
 
+@contextmanager
 def get_connection():
     connection = sqlite3.connect(DB_PATH)
     connection.row_factory = sqlite3.Row
-    return connection
+    try:
+        yield connection
+        connection.commit()
+    except Exception:
+        connection.rollback()
+        raise
+    finally:
+        connection.close()
 
 
 def init_db():
@@ -97,10 +112,17 @@ def init_db():
             row["name"]
             for row in connection.execute("PRAGMA table_info(chat_history)").fetchall()
         }
-        if "profile_id" not in history_columns:
-            connection.execute(
-                "ALTER TABLE chat_history ADD COLUMN profile_id INTEGER REFERENCES profiles(id)"
-            )
+        missing_columns = {
+            "profile_id": "INTEGER REFERENCES profiles(id)",
+            "conversation_id": "TEXT",
+            "normalized_question": "TEXT",
+            "contextual_question": "TEXT",
+            "active_topic": "TEXT",
+            "context_confidence": "REAL",
+        }
+        for column, definition in missing_columns.items():
+            if column not in history_columns:
+                connection.execute(f"ALTER TABLE chat_history ADD COLUMN {column} {definition}")
 
 
 def row_to_history_item(row: sqlite3.Row) -> dict:
@@ -125,7 +147,8 @@ def load_curated_videos() -> list[dict]:
 
 
 def detect_topic(question: str) -> str:
-    clean_question = normalize_text(question)
+    analysis = normalize_question(question)
+    clean_question = analysis["normalized_text"]
 
     if "habitat" in clean_question:
         return "Habitat"
@@ -141,8 +164,13 @@ def detect_topic(question: str) -> str:
     return "Tema demo"
 
 
-def save_history(payload: ChatDemoRequest, demo_answer: dict[str, str]) -> int:
+def save_history(
+    payload: ChatDemoRequest,
+    demo_answer: dict[str, str],
+    conversation_context: dict | None = None,
+) -> int:
     created_at = datetime.now(timezone.utc).isoformat()
+    conversation_context = conversation_context or {}
 
     with get_connection() as connection:
         cursor = connection.execute(
@@ -158,23 +186,53 @@ def save_history(payload: ChatDemoRequest, demo_answer: dict[str, str]) -> int:
                 status,
                 is_favorite,
                 created_at,
-                profile_id
+                profile_id,
+                conversation_id,
+                normalized_question,
+                contextual_question,
+                active_topic,
+                context_confidence
             )
-            VALUES (?, ?, ?, ?, ?, ?, ?, 'pendiente', 0, ?, ?)
+            VALUES (?, ?, ?, ?, ?, ?, ?, 'pendiente', 0, ?, ?, ?, ?, ?, ?, ?)
             """,
             (
                 payload.course,
                 payload.mode,
                 payload.subject,
-                detect_topic(payload.question),
+                conversation_context.get("active_topic") or detect_topic(payload.question),
                 payload.question,
                 demo_answer["summary"],
                 demo_answer["answer"],
                 created_at,
                 payload.profile_id,
+                payload.conversation_id,
+                conversation_context.get("normalized_question"),
+                conversation_context.get("contextual_question"),
+                conversation_context.get("active_topic"),
+                conversation_context.get("confidence"),
             ),
         )
         return cursor.lastrowid
+
+
+def get_recent_conversation_items(profile_id: int | None, conversation_id: str | None) -> list[dict]:
+    if profile_id is None or not conversation_id:
+        return []
+
+    with get_connection() as connection:
+        rows = connection.execute(
+            """
+            SELECT question, normalized_question, contextual_question, active_topic,
+                   context_confidence, created_at
+            FROM chat_history
+            WHERE profile_id = ? AND conversation_id = ?
+            ORDER BY created_at DESC, id DESC
+            LIMIT 6
+            """,
+            (profile_id, conversation_id),
+        ).fetchall()
+
+    return [dict(row) for row in rows]
 
 
 def get_history_item(history_id: int) -> dict:
@@ -193,8 +251,11 @@ def get_history_item(history_id: int) -> dict:
 def make_demo_answer(
     payload: ChatDemoRequest,
     local_content: dict | None = None,
+    query_analysis: dict | None = None,
+    provenance_status: str = "demo_fallback",
 ) -> dict[str, str]:
-    question = normalize_text(payload.question)
+    query_analysis = query_analysis or normalize_question(payload.question)
+    question = query_analysis["normalized_text"]
 
     if "habitat" in question:
         answer = (
@@ -291,12 +352,35 @@ def make_demo_answer(
         introduction = "Vamos paso a paso."
 
     local_support = ""
-    if local_content:
+    if local_content and provenance_status == "local_verified":
         local_support = (
             f"Revisé la base local de {payload.course} para ayudarte.\n\n"
             f"Información de apoyo:\n{local_content['excerpt']}\n\n"
         )
         summary = f"{summary} Apoyada en el contenido local: {local_content['title']}."
+
+    if provenance_status == "clarification_required":
+        answer = (
+            "No quiero adivinar el tema y darte una respuesta equivocada. "
+            "¿Puedes decirme a qué tema o elemento te refieres?"
+        )
+        summary = "La pregunta necesita una aclaración antes de buscar contenido."
+    elif provenance_status == "local_low_confidence":
+        local_support = (
+            "Encontré una coincidencia local débil, pero no la usaré como fuente "
+            "porque podría no corresponder a tu pregunta.\n\n"
+        )
+    elif provenance_status == "no_local_content":
+        if "explor" in normalize_text(payload.mode):
+            local_support = (
+                "Todavía no tengo una colección exploratoria local verificada para este tema. "
+                "Te comparto una orientación demo con enfoque educativo y seguro.\n\n"
+            )
+        else:
+            local_support = (
+                "Este tema no tiene contenido curricular local verificado para la selección actual. "
+                "Te comparto una orientación demo, sin presentarla como fuente curricular.\n\n"
+            )
 
     return {
         "answer": f"{introduction}\n\n{local_support}{answer}",
@@ -360,11 +444,14 @@ def list_videos(
 
 
 @app.get("/content/search")
-def search_content(course: str, subject: str, q: str):
-    return {
-        "status": "ok",
-        "results": search_local_content(course, subject, q),
-    }
+def search_content(
+    course: str,
+    subject: str,
+    q: str,
+    mode: str = "Estudiar para el colegio",
+):
+    result = retrieve_local_content(course, subject, q, mode=mode)
+    return {"status": "ok", **result}
 
 
 @app.post("/profiles", status_code=201)
@@ -389,8 +476,9 @@ def create_profile(payload: ProfileCreate):
             """,
             (name, payload.role, payload.course, now, now),
         )
+        profile_id = cursor.lastrowid
 
-    return {"status": "ok", "profile": get_profile_or_404(cursor.lastrowid)}
+    return {"status": "ok", "profile": get_profile_or_404(profile_id)}
 
 
 @app.get("/profiles")
@@ -420,6 +508,27 @@ def update_profile_last_used(profile_id: int):
     return {"status": "ok", "profile": get_profile_or_404(profile_id)}
 
 
+@app.delete("/profiles/{profile_id}")
+def delete_profile(profile_id: int):
+    with get_connection() as connection:
+        profile = connection.execute(
+            "SELECT id, name FROM profiles WHERE id = ?", (profile_id,)
+        ).fetchone()
+        if profile is None:
+            raise HTTPException(status_code=404, detail="Perfil no encontrado")
+
+        deleted_history = connection.execute(
+            "DELETE FROM chat_history WHERE profile_id = ?", (profile_id,)
+        ).rowcount
+        connection.execute("DELETE FROM profiles WHERE id = ?", (profile_id,))
+
+    return {
+        "status": "ok",
+        "deleted_profile": {"id": profile["id"], "name": profile["name"]},
+        "deleted_history_count": deleted_history,
+    }
+
+
 @app.post("/chat/demo")
 def chat_demo(payload: ChatDemoRequest):
     if payload.profile_id is not None:
@@ -428,25 +537,62 @@ def chat_demo(payload: ChatDemoRequest):
         payload.user_role = profile["role"]
         payload.course = profile["course"]
 
-    local_results = search_local_content(
-        payload.course,
-        payload.subject,
-        payload.question,
+    if payload.profile_id is not None and not payload.conversation_id:
+        payload.conversation_id = f"profile-{payload.profile_id}-default"
+
+    recent_items = get_recent_conversation_items(
+        payload.profile_id,
+        payload.conversation_id,
     )
+    conversation_context = build_conversation_context(payload.question, recent_items)
+
+    if conversation_context["requires_clarification"]:
+        retrieval = {
+            "provenance_status": "clarification_required",
+            "results": [],
+            "query_analysis": conversation_context["query_analysis"],
+            "minimum_score": None,
+            "best_score": 0,
+        }
+    else:
+        retrieval = retrieve_local_content(
+            payload.course,
+            payload.subject,
+            conversation_context["contextual_question"],
+            mode=payload.mode,
+        )
+
+    local_results = retrieval["results"]
     demo_answer = make_demo_answer(
         payload,
         local_content=local_results[0] if local_results else None,
+        query_analysis=retrieval["query_analysis"],
+        provenance_status=retrieval["provenance_status"],
     )
-    history_id = save_history(payload, demo_answer)
+    history_id = save_history(payload, demo_answer, conversation_context)
 
     return {
         **demo_answer,
         "history_id": history_id,
-        "used_local_content": bool(local_results),
+        "provenance_status": retrieval["provenance_status"],
+        "used_local_content": retrieval["provenance_status"] == "local_verified",
+        "query_analysis": conversation_context["query_analysis"],
+        "retrieval_query_analysis": retrieval["query_analysis"],
+        "conversation_context": {
+            "conversation_id": payload.conversation_id,
+            "normalized_question": conversation_context["normalized_question"],
+            "contextual_question": conversation_context["contextual_question"],
+            "active_topic": conversation_context["active_topic"],
+            "confidence": conversation_context["confidence"],
+            "used_context": conversation_context["used_context"],
+        },
         "content_sources": [
-            {"title": result["title"], "path": result["path"]}
-            for result in local_results
-        ],
+            {"title": local_results[0]["title"], "path": local_results[0]["path"]}
+        ] if local_results else [],
+        "retrieval": {
+            "minimum_score": retrieval["minimum_score"],
+            "best_score": retrieval["best_score"],
+        },
     }
 
 

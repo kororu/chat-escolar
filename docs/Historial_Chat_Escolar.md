@@ -34,6 +34,11 @@ Esta funcion debe existir desde la Version 1.
 | Respuesta completa | Explicacion del tutor |
 | Estado | Leido o pendiente |
 | Favorito | Si o no |
+| ID de conversación | Agrupa turnos del mismo perfil sin mezclar otras conversaciones |
+| Pregunta normalizada | Versión interna para reconocer errores leves y abreviaturas |
+| Pregunta contextual | Consulta interna reconstruida para buscar contenido; no reemplaza el texto visible |
+| Tema activo | Tema reciente usado solo dentro de la misma conversación y perfil |
+| Confianza de contexto | Seguridad de la reconstrucción antes de usarla |
 
 ## 4. Funciones Version 1
 
@@ -146,4 +151,14 @@ CREATE TABLE chat_history (
 Prioridad: **Alta para Version 1**.
 
 Debe ser simple, pero debe existir desde el inicio.
+
+## 12. Memoria conversacional local
+
+Chat Escolar conserva el mensaje original en el historial y guarda datos internos de contexto de forma separada. Para cada perfil y conversación utiliza una ventana máxima de seis interacciones recientes, dando prioridad al turno inmediatamente anterior.
+
+Una pregunta breve puede reconstruirse solo cuando hay un tema activo confiable. Por ejemplo, después de “me gustaría saber de tanques de la Segunda Guerra”, “¿cuál fue el más usado?” se busca internamente como una pregunta sobre tanques de ese período.
+
+Si cambia claramente el tema, por ejemplo a “¿qué es un hábitat?”, no se hereda el tema anterior. Si no hay un antecedente suficiente, el tutor solicita una aclaración en lugar de inventar una relación.
+
+La memoria está aislada por `profile_id` y `conversation_id`; nunca se consulta el historial de otro perfil. Actualmente no existe contexto conversacional avanzado ni integración con Ollama.
 
