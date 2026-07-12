@@ -477,4 +477,10 @@ Este chat debe mantenerse enfocado en:
 - scripts;
 - pruebas locales.
 
+---
+
+## 19. Autoría y versión
+
+Se incorporó autoría centralizada y versión `0.1.0`. La configuración visible del frontend se mantiene en `frontend/src/config/appInfo.js`; los criterios de actualización están documentados en `docs/AUTORIA_Y_VERSIONADO.md`.
+
 Las ideas generales, mejoras, contenidos educativos y preguntas estratégicas se manejarán en otro chat.

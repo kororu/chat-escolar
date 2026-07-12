@@ -9,3 +9,14 @@ Chat Escolar puede leer archivos Markdown desde `contenidos/` y utilizarlos como
 Actualmente la base incluye contenidos curriculares de 5° y 6° básico. Los materiales de 1° básico están pendientes o en preparación.
 
 La guía para organizar, agregar y probar estos materiales está en [docs/README_CONTENIDOS_LOCALES.md](docs/README_CONTENIDOS_LOCALES.md).
+
+## Autoría
+
+Chat Escolar es un proyecto desarrollado por **Ariel Ponce**.
+
+Versión actual: `0.1.0`
+Año: `2026`
+
+La marca de autoría no debe eliminarse de las versiones de prueba distribuidas por el autor.
+
+Consulta [docs/AUTORIA_Y_VERSIONADO.md](docs/AUTORIA_Y_VERSIONADO.md) para conocer dónde se centraliza esta información y cómo actualizar la versión.

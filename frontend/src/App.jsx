@@ -1,5 +1,6 @@
 import { useCallback, useEffect, useState } from 'react'
 import './App.css'
+import { APP_INFO } from './config/appInfo'
 
 const API_BASE_URL = 'http://127.0.0.1:8000'
 const ACTIVE_PROFILE_KEY = 'chat-escolar-active-profile-id'
@@ -123,7 +124,7 @@ function ProfileScreen({ profiles, onCreate, onSelect, backendStatus, activeProf
       <section className="welcome-card">
         <div className="welcome-copy">
           <p className="eyebrow">Tutor educativo local</p>
-          <h1>{activeProfile ? 'Cambiar perfil' : 'Bienvenido a Chat Escolar'}</h1>
+          <h1>{activeProfile ? 'Cambiar perfil' : `Bienvenido a ${APP_INFO.name}`}</h1>
           <p className="welcome-subtitle">Aprende paso a paso</p>
           <p className="welcome-note">
             Crea un perfil local para adaptar el saludo y la forma de explicar. No necesitas contraseña.
@@ -174,6 +175,47 @@ function ProfileScreen({ profiles, onCreate, onSelect, backendStatus, activeProf
   )
 }
 
+function AboutPanel({ onClose }) {
+  return (
+    <div
+      className="about-backdrop"
+      role="presentation"
+      onMouseDown={(event) => {
+        if (event.target === event.currentTarget) onClose()
+      }}
+    >
+      <section
+        aria-labelledby="about-title"
+        aria-modal="true"
+        className="about-panel"
+        role="dialog"
+      >
+        <button
+          aria-label="Cerrar Acerca de"
+          autoFocus
+          className="about-close"
+          type="button"
+          onClick={onClose}
+        >
+          ×
+        </button>
+        <p className="eyebrow">Acerca del proyecto</p>
+        <h2 id="about-title">{APP_INFO.name}</h2>
+        <p>{APP_INFO.description}</p>
+        <dl className="about-details">
+          <div><dt>Autor</dt><dd>Desarrollado por {APP_INFO.author}</dd></div>
+          <div><dt>Versión</dt><dd>{APP_INFO.version}</dd></div>
+          <div><dt>Año</dt><dd>{APP_INFO.year}</dd></div>
+        </dl>
+        <p className="about-local-note">
+          Esta versión funciona localmente y no utiliza servicios de IA pagados.
+        </p>
+        <small>© {APP_INFO.year} — Proyecto {APP_INFO.name}</small>
+      </section>
+    </div>
+  )
+}
+
 function App() {
   const [backendStatus, setBackendStatus] = useState('checking')
   const [profiles, setProfiles] = useState([])
@@ -191,6 +233,7 @@ function App() {
   const [videos, setVideos] = useState([])
   const [videoTopic, setVideoTopic] = useState(null)
   const [videoLoadError, setVideoLoadError] = useState(false)
+  const [isAboutOpen, setIsAboutOpen] = useState(false)
   const latestHistory = historyItems[0]
   const pendingHistory = historyItems.filter((item) => item.status === 'pendiente')
   const favoriteHistory = historyItems.filter((item) => item.is_favorite)
@@ -264,6 +307,16 @@ function App() {
     loadVideos()
     return () => controller.abort()
   }, [])
+
+  useEffect(() => {
+    if (!isAboutOpen) return undefined
+
+    const closeWithEscape = (event) => {
+      if (event.key === 'Escape') setIsAboutOpen(false)
+    }
+    document.addEventListener('keydown', closeWithEscape)
+    return () => document.removeEventListener('keydown', closeWithEscape)
+  }, [isAboutOpen])
 
   const loadHistory = useCallback(async () => {
     if (!activeProfile) return
@@ -450,7 +503,7 @@ function App() {
       <section className="intro">
         <div>
           <p className="eyebrow">Tutor educativo inclusivo</p>
-          <h1>Chat Escolar</h1>
+          <h1>{APP_INFO.name}</h1>
           <p className="subtitle">{greetingFor(activeProfile)}</p>
         </div>
         <div className="student-card" aria-label="Perfil actual">
@@ -623,6 +676,13 @@ function App() {
           </section>
         </aside>
       </section>
+      <footer className="app-footer">
+        <p>
+          {APP_INFO.name} · Desarrollado por {APP_INFO.author} · © {APP_INFO.year}
+        </p>
+        <button type="button" onClick={() => setIsAboutOpen(true)}>Acerca de</button>
+      </footer>
+      {isAboutOpen && <AboutPanel onClose={() => setIsAboutOpen(false)} />}
     </main>
   )
 }

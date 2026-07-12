@@ -18,7 +18,7 @@ VIDEOS_PATH = Path(__file__).with_name("data") / "videos_curados.json"
 
 app = FastAPI(
     title="Chat Escolar API",
-    description="Backend inicial para Chat Escolar",
+    description="Backend local del proyecto educativo Chat Escolar",
     version="0.1.0",
 )
 
@@ -324,6 +324,8 @@ def get_profile_or_404(profile_id: int) -> dict:
 def home():
     return {
         "message": "Chat Escolar API funcionando",
+        "project": "Chat Escolar",
+        "author": "Ariel Ponce",
         "version": "0.1.0",
     }
 
