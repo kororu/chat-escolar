@@ -1,3 +1,4 @@
+import json
 import sqlite3
 from datetime import datetime, timezone
 from pathlib import Path
@@ -8,6 +9,7 @@ from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel, Field
 
 DB_PATH = Path(__file__).with_name("chat_escolar.db")
+VIDEOS_PATH = Path(__file__).with_name("data") / "videos_curados.json"
 
 app = FastAPI(
     title="Chat Escolar API",
@@ -105,6 +107,16 @@ def row_to_history_item(row: sqlite3.Row) -> dict:
 def normalize_text(text: str) -> str:
     without_accents = normalize("NFKD", text).encode("ascii", "ignore").decode("ascii")
     return without_accents.lower()
+
+
+def load_curated_videos() -> list[dict]:
+    try:
+        with VIDEOS_PATH.open(encoding="utf-8") as videos_file:
+            videos = json.load(videos_file)
+    except (OSError, json.JSONDecodeError, UnicodeError):
+        return []
+
+    return videos if isinstance(videos, list) else []
 
 
 def detect_topic(question: str) -> str:
@@ -306,6 +318,27 @@ def health():
         "status": "ok",
         "service": "chat-escolar-backend",
     }
+
+
+@app.get("/videos")
+def list_videos(
+    topic: str | None = None,
+    mode: str | None = None,
+    subject: str | None = None,
+):
+    videos = load_curated_videos()
+    filters = {"topic": topic, "mode": mode, "subject": subject}
+
+    for field, value in filters.items():
+        if value:
+            normalized_value = normalize_text(value.strip())
+            videos = [
+                video
+                for video in videos
+                if normalized_value in normalize_text(str(video.get(field, "")))
+            ]
+
+    return videos
 
 
 @app.post("/profiles", status_code=201)

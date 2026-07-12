@@ -1,0 +1,90 @@
+[
+  {
+    "id": "video-001",
+    "title": "¿Qué es un hábitat?",
+    "topic": "habitat",
+    "subject": "ciencias",
+    "mode": "estudio",
+    "url": "https://www.youtube.com/results?search_query=habitat+para+ni%C3%B1os+video+educativo",
+    "channel": "Fuente educativa por revisar",
+    "duration": "5-8 min",
+    "reviewed": false
+  },
+  {
+    "id": "video-002",
+    "title": "Ecosistemas y seres vivos",
+    "topic": "ecosistemas",
+    "subject": "ciencias",
+    "mode": "estudio",
+    "url": "https://www.youtube.com/results?search_query=ecosistemas+para+ni%C3%B1os+video+educativo",
+    "channel": "Fuente educativa por revisar",
+    "duration": "6-10 min",
+    "reviewed": false
+  },
+  {
+    "id": "video-003",
+    "title": "Fracciones paso a paso",
+    "topic": "fracciones",
+    "subject": "matematica",
+    "mode": "estudio",
+    "url": "https://www.youtube.com/results?search_query=fracciones+para+ni%C3%B1os+paso+a+paso",
+    "channel": "Fuente educativa por revisar",
+    "duration": "7-10 min",
+    "reviewed": false
+  },
+  {
+    "id": "video-004",
+    "title": "Comprensión lectora: idea principal",
+    "topic": "comprension lectora",
+    "subject": "lenguaje",
+    "mode": "estudio",
+    "url": "https://www.youtube.com/results?search_query=comprension+lectora+idea+principal+para+ni%C3%B1os",
+    "channel": "Fuente educativa por revisar",
+    "duration": "5-9 min",
+    "reviewed": false
+  },
+  {
+    "id": "video-005",
+    "title": "Segunda Guerra Mundial: contexto histórico escolar",
+    "topic": "segunda guerra mundial",
+    "subject": "historia",
+    "mode": "explorador",
+    "url": "https://www.youtube.com/results?search_query=segunda+guerra+mundial+explicacion+educativa+para+estudiantes+sin+violencia",
+    "channel": "Fuente histórica por revisar con un adulto",
+    "duration": "8-12 min",
+    "reviewed": false
+  },
+  {
+    "id": "video-006",
+    "title": "Tanques: historia, tecnología e ingeniería",
+    "topic": "tanques",
+    "subject": "historia",
+    "mode": "explorador",
+    "url": "https://www.youtube.com/results?search_query=tanques+historia+tecnologia+ingenieria+video+educativo",
+    "channel": "Fuente histórica por revisar con un adulto",
+    "duration": "6-10 min",
+    "reviewed": false
+  },
+  {
+    "id": "video-007",
+    "title": "Agujeros negros explicados de forma simple",
+    "topic": "agujeros negros",
+    "subject": "ciencias",
+    "mode": "explorador",
+    "url": "https://www.youtube.com/results?search_query=agujeros+negros+para+ni%C3%B1os+video+educativo",
+    "channel": "Fuente educativa por revisar",
+    "duration": "6-9 min",
+    "reviewed": false
+  },
+  {
+    "id": "video-008",
+    "title": "Naves espaciales y exploración del espacio",
+    "topic": "naves espaciales",
+    "subject": "ciencias",
+    "mode": "explorador",
+    "url": "https://www.youtube.com/results?search_query=naves+espaciales+exploracion+espacial+para+ni%C3%B1os",
+    "channel": "Fuente educativa por revisar",
+    "duration": "7-11 min",
+    "reviewed": false
+  }
+]

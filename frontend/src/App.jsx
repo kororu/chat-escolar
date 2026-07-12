@@ -9,11 +9,35 @@ const roles = ['Estudiante', 'Apoderado', 'Docente']
 const modes = ['Estudiar para el colegio', 'Explorar mis intereses', 'Practicar', 'Ver videos']
 const subjects = ['Ciencias Naturales', 'Matemática', 'Lenguaje', 'Historia']
 const quickActions = ['No entendí', 'Explícalo más fácil', 'Dame un ejemplo', 'Hazme una pregunta']
+const videoTopics = [
+  { topic: 'segunda guerra mundial', aliases: ['segunda guerra mundial', 'segunda guerra'] },
+  { topic: 'comprension lectora', aliases: ['comprension lectora', 'comprender un texto'] },
+  { topic: 'agujeros negros', aliases: ['agujeros negros', 'agujero negro'] },
+  { topic: 'naves espaciales', aliases: ['naves espaciales', 'nave espacial'] },
+  { topic: 'ecosistemas', aliases: ['ecosistemas', 'ecosistema'] },
+  { topic: 'fracciones', aliases: ['fracciones', 'fraccion'] },
+  { topic: 'habitat', aliases: ['habitat'] },
+  { topic: 'tanques', aliases: ['tanques', 'tanque'] },
+]
 
 const backendLabels = {
   checking: 'Comprobando backend...',
   connected: 'Backend conectado',
   unavailable: 'Backend no disponible',
+}
+
+function normalizeSearchText(text) {
+  return text
+    .normalize('NFD')
+    .replace(/[\u0300-\u036f]/g, '')
+    .toLowerCase()
+}
+
+function detectVideoTopic(question) {
+  const normalizedQuestion = normalizeSearchText(question)
+  return videoTopics.find(({ aliases }) => (
+    aliases.some((alias) => normalizedQuestion.includes(alias))
+  ))?.topic ?? null
 }
 
 function greetingFor(profile) {
@@ -147,7 +171,14 @@ function App() {
   const [historyItems, setHistoryItems] = useState([])
   const [historyError, setHistoryError] = useState('')
   const [messages, setMessages] = useState([])
+  const [videos, setVideos] = useState([])
+  const [videoTopic, setVideoTopic] = useState(null)
+  const [videoLoadError, setVideoLoadError] = useState(false)
   const latestHistory = historyItems[0]
+  const topicVideos = videoTopic
+    ? videos.filter((video) => normalizeSearchText(video.topic) === videoTopic)
+    : []
+  const recommendedVideos = (topicVideos.length > 0 ? topicVideos : videos).slice(0, 4)
 
   const activateProfile = useCallback(async (profile) => {
     localStorage.setItem(ACTIVE_PROFILE_KEY, String(profile.id))
@@ -186,6 +217,26 @@ function App() {
     initialize()
     return () => controller.abort()
   }, [activateProfile])
+
+  useEffect(() => {
+    const controller = new AbortController()
+    const loadVideos = async () => {
+      try {
+        const response = await fetch(`${API_BASE_URL}/videos`, { signal: controller.signal })
+        if (!response.ok) throw new Error('Videos request failed')
+        const data = await response.json()
+        setVideos(Array.isArray(data) ? data : [])
+        setVideoLoadError(false)
+      } catch (error) {
+        if (error.name !== 'AbortError') {
+          setVideos([])
+          setVideoLoadError(true)
+        }
+      }
+    }
+    loadVideos()
+    return () => controller.abort()
+  }, [])
 
   const loadHistory = useCallback(async () => {
     if (!activeProfile) return
@@ -250,6 +301,7 @@ function App() {
     const cleanQuestion = question.trim()
     if (!cleanQuestion || isSending) return
     setQuestion('')
+    setVideoTopic(detectVideoTopic(cleanQuestion))
     setIsSending(true)
     setMessages((current) => [...current, { from: 'student', text: cleanQuestion }])
     try {
@@ -321,6 +373,7 @@ function App() {
       setCourse(data.item.course)
       setMode(data.item.mode)
       setSubject(data.item.subject)
+      setVideoTopic(detectVideoTopic(data.item.question))
       setMessages((current) => [
         ...current,
         { from: 'student', text: data.item.question },
@@ -431,11 +484,31 @@ function App() {
           </section>
 
           <section className="videos" aria-label="Videos recomendados">
-            <h2>Videos recomendados</h2>
-            <div className="video-card">
-              <div className="video-thumb" aria-hidden="true">▶</div>
-              <div><h3>Hábitats y ecosistemas</h3><p>Canal educativo sugerido</p><small>6 min · Ideas clave con ejemplos.</small></div>
-            </div>
+            <h2>{videoTopic && topicVideos.length > 0 ? `Videos sobre ${videoTopic}` : 'Videos recomendados'}</h2>
+            {recommendedVideos.length > 0 ? (
+              <div className="video-list">
+                {recommendedVideos.map((video) => (
+                  <article className="video-card" key={video.id}>
+                    <div className="video-thumb" aria-hidden="true">▶</div>
+                    <div className="video-card-content">
+                      <h3>{video.title}</h3>
+                      <p><strong>Tema:</strong> {video.topic}</p>
+                      <p>{video.channel}</p>
+                      <small>{video.duration}</small>
+                      <span className={`review-status ${video.reviewed ? 'reviewed' : 'pending'}`}>
+                        {video.reviewed ? 'Revisado' : 'Pendiente de revisión'}
+                      </span>
+                      <a href={video.url} target="_blank" rel="noreferrer">Abrir video</a>
+                    </div>
+                  </article>
+                ))}
+              </div>
+            ) : (
+              <p className="empty-videos">
+                {videoLoadError ? 'No pude cargar los videos disponibles.' : 'No hay videos disponibles.'}
+              </p>
+            )}
+            <p className="video-safety-note">Este material es un apoyo educativo. Revisa con un adulto los temas sensibles.</p>
           </section>
         </aside>
       </section>
