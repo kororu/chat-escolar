@@ -60,6 +60,19 @@ scripts\iniciar_backend.bat
 scripts\iniciar_frontend.bat
 ```
 
+## IA local opcional (Ollama)
+
+La aplicación funciona sin Ollama mediante el tutor demo. Para activar IA local, instala Ollama y descarga el modelo recomendado:
+
+```powershell
+ollama pull qwen3.5:2b
+ollama list
+```
+
+Después inicia el backend y visita `http://127.0.0.1:8000/ai/status`. Si el modelo aparece instalado, Chat Escolar usa IA local automáticamente para explicar fuentes locales verificadas y para consultas generales de Modo Explorador sin fuente local. Si Ollama está apagado, falta el modelo o ocurre un error, no se interrumpe la aplicación: vuelve al modo básico.
+
+Configuración opcional: `OLLAMA_BASE_URL` (por defecto `http://localhost:11434`), `OLLAMA_MODEL` (por defecto `qwen3.5:2b`), `OLLAMA_TIMEOUT_SECONDS` (por defecto `60`) y `OLLAMA_ENABLED` (por defecto `true`). Para preparar `qwen3.5:4b`, define `OLLAMA_MODEL=qwen3.5:4b` después de instalarlo manualmente.
+
 ## Direcciones locales
 
 - Frontend: http://localhost:5173

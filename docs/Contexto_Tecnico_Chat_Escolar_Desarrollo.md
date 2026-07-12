@@ -6,6 +6,18 @@ Este chat debe enfocarse en instalación, configuración, desarrollo, backend, f
 
 ---
 
+## IA local opcional con Ollama
+
+La integración local usa `backend/ollama_client.py` para consultar `GET /api/tags` y generar con `POST /api/generate` (`stream: false`). No usa OpenAI API ni servicios externos. El modelo por defecto es `qwen3.5:2b`; se puede cambiar con `OLLAMA_MODEL` y `qwen3.5:4b` queda disponible para una instalación manual futura.
+
+`GET /ai/status` informa si Ollama y el modelo están disponibles sin devolver 500 cuando están apagados. `POST /ai/test` permite verificar una respuesta local. En el chat, `ollama_with_local_content` solo se usa cuando existe fuente Markdown `local_verified`; el prompt limita el contexto a tres fuentes y unos 3200 caracteres. `ollama_generated` solo puede usarse para una explicación general en Modo Explorador o Todos los cursos, siempre marcada como no basada en fuente local verificada. El modo escolar sin fuente mantiene una respuesta transparente de respaldo.
+
+La interfaz muestra una burbuja temporal de procesamiento al enviar una pregunta. El botón Enviar se deshabilita para impedir duplicados y el aviso cambia a los 10 y 30 segundos para explicar que Ollama puede tardar en equipos modestos. Este mensaje no se persiste en historial y no expone razonamiento interno. Streaming, cancelación, progreso real por etapas y cola de solicitudes quedan pendientes para una versión futura.
+
+Las respuestas de `POST /chat/demo` incluyen el metadato entero `processing_time_ms`, calculado con `time.perf_counter()` desde la recepción hasta antes de devolver la respuesta. React lo muestra de forma discreta bajo la respuesta final; si supera 30 segundos, agrega el aviso `respuesta lenta`. Esta duración incluye intentos de Ollama y fallback, no se inserta en el texto educativo ni expone razonamiento interno.
+
+Si una búsqueda devuelve `local_verified`, el sistema prepara un fallback educativo desde el Markdown antes de intentar Ollama. Si la IA local falla o no está disponible, la respuesta final usa `local_content_fallback` y `provider: local_content`: conserva `used_local_content`, las fuentes y una explicación real basada en secciones como Respuesta breve, Explicación completa, Ejemplo explicado, Mini resumen y Preguntas de práctica. Se excluyen metadatos, OA, notas editoriales y referencias normativas. `demo_fallback` queda solo para casos sin fuente local útil.
+
 ## 1. Ruta local del proyecto
 
 El proyecto está ubicado en:

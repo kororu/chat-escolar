@@ -1,8 +1,10 @@
 import json
+import logging
 import sqlite3
 from contextlib import contextmanager
 from datetime import datetime, timezone
 from pathlib import Path
+from time import perf_counter
 
 from fastapi import FastAPI, HTTPException, Query
 from fastapi.middleware.cors import CORSMiddleware
@@ -24,9 +26,9 @@ except ImportError:
     from conversation_context import build_conversation_context
 
 try:
-    from .demo_tutor import detect_topic, make_demo_answer
+    from .demo_tutor import build_local_content_fallback, detect_topic, make_demo_answer
 except ImportError:
-    from demo_tutor import detect_topic, make_demo_answer
+    from demo_tutor import build_local_content_fallback, detect_topic, make_demo_answer
 
 try:
     from .educational_config import ALL_COURSES_LABEL, PROFILE_COURSES, is_all_courses
@@ -36,15 +38,38 @@ except ImportError:
 try:
     from .response_states import (
         CLARIFICATION_REQUIRED,
+        DEMO_FALLBACK,
+        LOCAL_CONTENT_FALLBACK,
         LOCAL_VERIFIED,
+        OLLAMA_GENERATED,
+        OLLAMA_UNAVAILABLE,
+        OLLAMA_WITH_LOCAL_CONTENT,
+        PROVIDER_OLLAMA,
+        PROVIDER_OLLAMA_WITH_LOCAL_CONTENT,
+        PROVIDER_LOCAL_CONTENT,
         uses_verified_local_content,
     )
 except ImportError:
     from response_states import (
         CLARIFICATION_REQUIRED,
+        DEMO_FALLBACK,
+        LOCAL_CONTENT_FALLBACK,
         LOCAL_VERIFIED,
+        OLLAMA_GENERATED,
+        OLLAMA_UNAVAILABLE,
+        OLLAMA_WITH_LOCAL_CONTENT,
+        PROVIDER_OLLAMA,
+        PROVIDER_OLLAMA_WITH_LOCAL_CONTENT,
+        PROVIDER_LOCAL_CONTENT,
         uses_verified_local_content,
     )
+
+try:
+    from .ollama_client import OllamaError, generate as generate_with_ollama, get_status as get_ollama_status
+    from .prompt_builder import build_ollama_prompt, clean_ollama_response
+except ImportError:
+    from ollama_client import OllamaError, generate as generate_with_ollama, get_status as get_ollama_status
+    from prompt_builder import build_ollama_prompt, clean_ollama_response
 
 try:
     from .text_utils import normalize_text
@@ -53,6 +78,9 @@ except ImportError:
 
 DB_PATH = Path(__file__).with_name("chat_escolar.db")
 VIDEOS_PATH = Path(__file__).with_name("data") / "videos_curados.json"
+_ollama_status_cache: dict | None = None
+_ollama_status_checked_at: datetime | None = None
+logger = logging.getLogger(__name__)
 
 app = FastAPI(
     title="Chat Escolar API",
@@ -84,6 +112,10 @@ class ProfileCreate(BaseModel):
     name: str = Field(min_length=1, max_length=80)
     role: str
     course: str
+
+
+class AiTestRequest(BaseModel):
+    prompt: str = Field(min_length=1, max_length=6000)
 
 
 class HistoryStatusUpdate(BaseModel):
@@ -151,6 +183,9 @@ def init_db():
             "contextual_question": "TEXT",
             "active_topic": "TEXT",
             "context_confidence": "REAL",
+            "provider": "TEXT NOT NULL DEFAULT 'demo'",
+            "provenance_status": "TEXT",
+            "content_sources": "TEXT",
         }
         for column, definition in missing_columns.items():
             if column not in history_columns:
@@ -173,10 +208,24 @@ def load_curated_videos() -> list[dict]:
     return videos if isinstance(videos, list) else []
 
 
+def get_cached_ollama_status() -> dict:
+    global _ollama_status_cache, _ollama_status_checked_at
+    now = datetime.now(timezone.utc)
+    if _ollama_status_cache is not None and _ollama_status_checked_at is not None:
+        if (now - _ollama_status_checked_at).total_seconds() < 10:
+            return _ollama_status_cache
+    _ollama_status_cache = get_ollama_status()
+    _ollama_status_checked_at = now
+    return _ollama_status_cache
+
+
 def save_history(
     payload: ChatDemoRequest,
     demo_answer: dict[str, str],
     conversation_context: dict | None = None,
+    provider: str = "demo",
+    provenance_status: str | None = None,
+    content_sources: list[dict] | None = None,
 ) -> int:
     created_at = datetime.now(timezone.utc).isoformat()
     conversation_context = conversation_context or {}
@@ -200,9 +249,12 @@ def save_history(
                 normalized_question,
                 contextual_question,
                 active_topic,
-                context_confidence
+                context_confidence,
+                provider,
+                provenance_status,
+                content_sources
             )
-            VALUES (?, ?, ?, ?, ?, ?, ?, 'pendiente', 0, ?, ?, ?, ?, ?, ?, ?)
+            VALUES (?, ?, ?, ?, ?, ?, ?, 'pendiente', 0, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
             """,
             (
                 payload.course,
@@ -219,6 +271,9 @@ def save_history(
                 conversation_context.get("contextual_question"),
                 conversation_context.get("active_topic"),
                 conversation_context.get("confidence"),
+                provider,
+                provenance_status,
+                json.dumps(content_sources or [], ensure_ascii=False),
             ),
         )
         return cursor.lastrowid
@@ -288,6 +343,28 @@ def health():
         "status": "ok",
         "service": "chat-escolar-backend",
     }
+
+
+@app.get("/ai/status")
+def ai_status():
+    return get_ollama_status()
+
+
+@app.post("/ai/test")
+def ai_test(payload: AiTestRequest):
+    status = get_ollama_status()
+    if not status["available"] or not status["model_installed"]:
+        return {
+            "status": "unavailable",
+            "provider": "demo",
+            "message": status["message"],
+            "answer": None,
+        }
+    try:
+        answer = clean_ollama_response(generate_with_ollama(payload.prompt))
+    except OllamaError as error:
+        return {"status": "unavailable", "provider": "demo", "message": str(error), "answer": None}
+    return {"status": "ok", "provider": PROVIDER_OLLAMA, "answer": answer}
 
 
 @app.get("/videos")
@@ -399,6 +476,7 @@ def delete_profile(profile_id: int):
 
 @app.post("/chat/demo")
 def chat_demo(payload: ChatDemoRequest):
+    started_at = perf_counter()
     profile_course = None
     if payload.profile_id is not None:
         profile = get_profile_or_404(payload.profile_id)
@@ -472,14 +550,83 @@ def chat_demo(payload: ChatDemoRequest):
         source_course=retrieval.get("source_course"),
         found_in_other_course=retrieval.get("found_in_other_course", False),
     )
-    history_id = save_history(payload, demo_answer, conversation_context)
+    content_sources = [
+        {
+            "title": local_results[0]["title"],
+            "path": local_results[0]["path"],
+            "course": local_results[0].get("course"),
+            "subject": local_results[0].get("subject"),
+        }
+    ] if local_results else []
+    response_provenance = retrieval["provenance_status"]
+    provider = educational_context["provider"]
+    ollama_status = get_cached_ollama_status()
+    educational_context["ollama_enabled"] = (
+        ollama_status["enabled"]
+        and ollama_status["available"]
+        and ollama_status["model_installed"]
+    )
+    educational_context["ollama_available"] = ollama_status["available"]
+    has_verified_source = retrieval["provenance_status"] == LOCAL_VERIFIED and bool(local_results)
+    can_use_general_ollama = (
+        not has_verified_source
+        and ("explor" in normalize_text(payload.mode or "") or is_all_courses(payload.course))
+    )
+
+    if has_verified_source:
+        demo_answer = build_local_content_fallback(payload, local_results[0])
+        response_provenance = LOCAL_CONTENT_FALLBACK
+        provider = PROVIDER_LOCAL_CONTENT
+
+    if has_verified_source or can_use_general_ollama:
+        if ollama_status["available"] and ollama_status["model_installed"]:
+            try:
+                prompt = build_ollama_prompt(
+                    payload,
+                    educational_context,
+                    use_local_source=has_verified_source,
+                )
+                answer = clean_ollama_response(generate_with_ollama(prompt))
+                if not answer:
+                    raise OllamaError("Ollama devolvió una respuesta vacía después de la limpieza.")
+                demo_answer = {
+                    "answer": answer,
+                    "summary": "Explicación generada con IA local" + (" usando contenido local verificado." if has_verified_source else " sin fuente local verificada."),
+                    "status": "ok",
+                }
+                response_provenance = OLLAMA_WITH_LOCAL_CONTENT if has_verified_source else OLLAMA_GENERATED
+                provider = PROVIDER_OLLAMA_WITH_LOCAL_CONTENT if has_verified_source else PROVIDER_OLLAMA
+            except OllamaError as error:
+                logger.warning("Ollama falló; se usará el fallback local: %s", error)
+                response_provenance = LOCAL_CONTENT_FALLBACK if has_verified_source else DEMO_FALLBACK
+                provider = PROVIDER_LOCAL_CONTENT if has_verified_source else "demo"
+        else:
+            provider = educational_context["provider"]
+
+    history_id = save_history(
+        payload,
+        demo_answer,
+        conversation_context,
+        provider=provider,
+        provenance_status=response_provenance,
+        content_sources=content_sources,
+    )
+    processing_time_ms = round((perf_counter() - started_at) * 1000)
 
     return {
         **demo_answer,
         "history_id": history_id,
-        "provenance_status": retrieval["provenance_status"],
-        "provider": educational_context["provider"],
-        "used_local_content": uses_verified_local_content(retrieval["provenance_status"]),
+        "provenance_status": response_provenance,
+        "retrieval_provenance_status": retrieval["provenance_status"],
+        "provider": provider,
+        "processing_time_ms": processing_time_ms,
+        "used_local_content": has_verified_source,
+        "ollama": {
+            "enabled": ollama_status["enabled"],
+            "available": ollama_status["available"],
+            "model": ollama_status["model"],
+            "model_installed": ollama_status["model_installed"],
+        },
         "active_course": payload.course,
         "profile_course": profile_course,
         "effective_course": retrieval.get("effective_course"),
@@ -496,14 +643,7 @@ def chat_demo(payload: ChatDemoRequest):
             "confidence": conversation_context["confidence"],
             "used_context": conversation_context["used_context"],
         },
-        "content_sources": [
-            {
-                "title": local_results[0]["title"],
-                "path": local_results[0]["path"],
-                "course": local_results[0].get("course"),
-                "subject": local_results[0].get("subject"),
-            }
-        ] if local_results else [],
+        "content_sources": content_sources,
         "related_sources": [
             {
                 "title": item["title"],

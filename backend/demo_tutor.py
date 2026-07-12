@@ -1,5 +1,5 @@
 try:
-    from .content_reader import normalize_question
+    from .content_reader import CONTENT_ROOT, normalize_question, strip_front_matter
     from .response_states import (
         CLARIFICATION_REQUIRED,
         LOCAL_LOW_CONFIDENCE,
@@ -9,7 +9,7 @@ try:
     )
     from .text_utils import normalize_text
 except ImportError:
-    from content_reader import normalize_question
+    from content_reader import CONTENT_ROOT, normalize_question, strip_front_matter
     from response_states import (
         CLARIFICATION_REQUIRED,
         LOCAL_LOW_CONFIDENCE,
@@ -18,6 +18,112 @@ except ImportError:
         NO_LOCAL_CONTENT,
     )
     from text_utils import normalize_text
+
+
+EXCLUDED_FALLBACK_SECTIONS = {
+    "objetivos de aprendizaje",
+    "fuente curricular de referencia",
+    "para apoderados",
+    "para docentes",
+    "como deberia responder chat escolar",
+    "notas editoriales",
+}
+
+
+def _clean_local_text(value: str, limit: int = 620) -> str:
+    lines = []
+    for line in value.splitlines():
+        line = line.strip()
+        if not line or line.startswith("#") or line.startswith(">"):
+            continue
+        line = line.lstrip("- ").strip()
+        line = line.replace("**", "").replace("`", "")
+        if line:
+            lines.append(line)
+    text = " ".join(lines)
+    text = " ".join(text.split())
+    if len(text) <= limit:
+        return text
+    shortened = text[:limit].rsplit(" ", 1)[0]
+    return f"{shortened}."
+
+
+def _markdown_sections(local_content: dict) -> dict[str, str]:
+    relative_path = local_content.get("path")
+    if not relative_path:
+        return {}
+    try:
+        file_path = (CONTENT_ROOT / relative_path).resolve()
+        if CONTENT_ROOT.resolve() not in file_path.parents:
+            return {}
+        content = strip_front_matter(file_path.read_text(encoding="utf-8"))
+    except (OSError, UnicodeError):
+        return {}
+
+    sections: dict[str, list[str]] = {}
+    current_heading = ""
+    for line in content.splitlines():
+        if line.startswith("## "):
+            current_heading = normalize_text(line[3:])
+            sections.setdefault(current_heading, [])
+        elif current_heading:
+            sections[current_heading].append(line)
+    return {
+        heading: _clean_local_text("\n".join(lines))
+        for heading, lines in sections.items()
+        if heading not in EXCLUDED_FALLBACK_SECTIONS and _clean_local_text("\n".join(lines))
+    }
+
+
+def _first_section(sections: dict[str, str], *priorities: str) -> str:
+    for priority in priorities:
+        target = normalize_text(priority)
+        for heading, text in sections.items():
+            if target in heading:
+                return text
+    return ""
+
+
+def _student_introduction(payload) -> str:
+    name = (payload.user_name or "").strip()
+    role = normalize_text(payload.user_role or "")
+    if role == "apoderado":
+        return f"Claro{', ' + name if name else ''}. Te explico una forma simple para enseñárselo al estudiante."
+    if role == "docente":
+        return f"Claro{', ' + name if name else ''}. Puedes trabajarlo con una explicación breve y una actividad simple."
+    return f"Claro{', ' + name if name else ''}. Vamos paso a paso." if name else "Vamos paso a paso."
+
+
+def build_local_content_fallback(payload, local_content: dict) -> dict[str, str]:
+    """Construye una explicación útil desde un Markdown local verificado."""
+    sections = _markdown_sections(local_content)
+    explanation = _first_section(
+        sections,
+        "respuesta breve",
+        "explicacion completa para estudiante",
+        "como explicarlo si todavia no se entiende",
+    ) or _clean_local_text(local_content.get("excerpt", ""))
+    example = _first_section(sections, "ejemplo explicado", "ejemplo")
+    summary = _first_section(sections, "mini resumen", "ideas fundamentales") or explanation
+    practice = _first_section(sections, "preguntas de practica", "pregunta de practica")
+
+    if not example:
+        example = "Piensa en una situación cotidiana relacionada con esta idea y explica cómo se aplica."
+    if not practice:
+        practice = "¿Cómo explicarías esta idea con tus propias palabras?"
+
+    answer = (
+        f"{_student_introduction(payload)}\n\n"
+        f"Explicación corta:\n{explanation}\n\n"
+        f"Ejemplo:\n{example}\n\n"
+        f"Mini resumen:\n{summary}\n\n"
+        f"Pregunta de práctica:\n{practice}"
+    )
+    return {
+        "answer": answer,
+        "summary": summary[:220],
+        "status": "ok",
+    }
 
 
 def detect_topic(question: str) -> str:

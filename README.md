@@ -22,6 +22,29 @@ Las preguntas de seguimiento usan una memoria local breve aislada por perfil y c
 
 El backend deja preparado un contrato `provider`/`ai_context` para una futura integración con Ollama, pero esta versión no llama Ollama ni OpenAI API.
 
+## IA local opcional con Ollama
+
+Chat Escolar puede usar Ollama de forma opcional, local y gratuita. El modelo predeterminado es `qwen3.5:2b`; `qwen3.5:4b` queda soportado cambiando la variable local `OLLAMA_MODEL`, sin descargarlo automáticamente. No se usa OpenAI API ni servicios externos.
+
+```powershell
+ollama pull qwen3.5:2b
+ollama list
+```
+
+Con el backend iniciado, revisa `http://127.0.0.1:8000/ai/status`. Si Ollama o el modelo no están disponibles, la aplicación continúa con el tutor demo. Las respuestas pueden indicar `ollama_with_local_content` cuando la IA explica una fuente Markdown verificada, u `ollama_generated` cuando Modo Explorador ofrece una explicación general sin fuente local verificada. No se guardan prompts completos: el historial guarda proveedor, procedencia y fuentes utilizadas.
+
+## Indicador de procesamiento
+
+Al enviar una pregunta, el chat muestra una burbuja temporal de procesamiento con un indicador visual. El botón Enviar queda deshabilitado para evitar duplicados y, después de 10 y 30 segundos, el aviso informa que un equipo modesto puede tardar más. La burbuja no se guarda en el historial y desaparece al recibir la respuesta o un error.
+
+Cuando Ollama está disponible, la interfaz avisa que la IA local está trabajando, pero nunca muestra razonamiento interno ni texto `Thinking`. Streaming, cancelación, progreso real por etapas y cola de solicitudes quedan como mejoras futuras.
+
+Cada respuesta nueva también muestra debajo el tiempo total de procesamiento, por ejemplo `Procesado en 3,2 s`. El dato incluye búsqueda local, generación opcional con Ollama y cualquier respaldo demo; sirve para reconocer respuestas lentas sin exponer métricas internas ni razonamiento.
+
+## Fallback educativo local
+
+Cuando existe una fuente Markdown verificada pero Ollama no responde o llega al timeout, Chat Escolar usa `local_content_fallback`. Construye una explicación desde secciones educativas del material local (respuesta breve, explicación, ejemplo, resumen y práctica), mantiene la fuente visible y evita reemplazarla por una respuesta demo genérica. `demo_fallback` queda reservado para preguntas sin contenido local útil. La duración mostrada incluye el intento de Ollama y este respaldo, sin revelar razonamiento interno.
+
 ## Perfiles locales
 
 Los perfiles se pueden crear, cambiar y eliminar desde la pantalla de selección. Eliminar un perfil requiere confirmación y borra únicamente su historial, favoritos, pendientes y contexto conversacional local. Consulta [docs/README_PERFILES_LOCALES.md](docs/README_PERFILES_LOCALES.md).

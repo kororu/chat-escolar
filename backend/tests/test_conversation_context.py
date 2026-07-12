@@ -2,6 +2,7 @@ import sqlite3
 import tempfile
 import unittest
 from pathlib import Path
+from unittest.mock import patch
 
 from fastapi.testclient import TestClient
 
@@ -15,10 +16,17 @@ class ConversationContextIntegrationTests(unittest.TestCase):
         main.DB_PATH = Path(self.temporary_directory.name) / "chat_escolar_test.db"
         main.init_db()
         self.client = TestClient(main.app)
+        self.ollama_status = patch.object(
+            main,
+            "get_cached_ollama_status",
+            return_value={"enabled": True, "available": False, "model": "qwen3.5:2b", "model_installed": False},
+        )
+        self.ollama_status.start()
         self.erik = self.create_profile("Erik")
         self.ariel = self.create_profile("Ariel")
 
     def tearDown(self):
+        self.ollama_status.stop()
         main.DB_PATH = self.original_db_path
         self.temporary_directory.cleanup()
 
@@ -129,7 +137,7 @@ class ConversationContextIntegrationTests(unittest.TestCase):
         self.assertEqual(response["profile_course"], "5° básico")
         self.assertEqual(response["effective_course"], "6° básico")
         self.assertEqual(response["source_course"], "6° básico")
-        self.assertEqual(response["provenance_status"], "local_verified")
+        self.assertEqual(response["provenance_status"], "local_content_fallback")
         self.assertFalse(response["found_in_other_course"])
 
 

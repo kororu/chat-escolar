@@ -30,7 +30,6 @@ def build_educational_context(
     return {
         "provider": provider,
         "future_provider": PROVIDER_OLLAMA,
-        "ollama_enabled": False,
         "course": payload.course,
         "active_course": payload.course,
         "profile_course": profile_course,

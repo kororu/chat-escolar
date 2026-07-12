@@ -39,9 +39,13 @@ const backendLabels = {
 }
 
 const provenanceLabels = {
+  ollama_with_local_content: 'Explicado con IA local usando contenido local verificado.',
+  ollama_generated: 'Explicación general de IA local, sin fuente local verificada.',
+  ollama_unavailable: 'IA local no disponible: se usó el modo básico.',
+  local_content_fallback: 'Se utilizó el contenido local porque la IA local no respondió.',
   local_related: 'Tema relacionado encontrado: no es una fuente principal.',
   local_low_confidence: 'Coincidencia local de baja confianza: no se usó como fuente.',
-  demo_fallback: 'No se usó una fuente local verificada.',
+  demo_fallback: 'Usé el modo básico porque la IA local no respondió.',
   clarification_required: 'Necesito una aclaración para buscar el tema correcto.',
   no_local_content: 'Contenido local verificado no disponible para este tema.',
 }
@@ -96,6 +100,17 @@ function formatHistoryDate(value) {
   }).format(date)
 }
 
+function formatProcessingTime(milliseconds) {
+  if (!Number.isFinite(milliseconds) || milliseconds < 0) return null
+  const seconds = (milliseconds / 1000).toLocaleString('es-CL', {
+    minimumFractionDigits: 1,
+    maximumFractionDigits: 1,
+  })
+  return milliseconds >= 30000
+    ? `Procesado en ${seconds} s · respuesta lenta`
+    : `Procesado en ${seconds} s`
+}
+
 function SelectionGroup({ title, options, selected, onSelect }) {
   return (
     <section className="control-group" aria-label={title}>
@@ -120,13 +135,18 @@ function SourceNotice({ message }) {
   if (message.usedLocalContent) {
     return (
       <div className="local-content-note">
-        <strong>Respuesta apoyada en contenidos locales</strong>
+        <strong>{message.provenanceStatus === 'ollama_with_local_content'
+          ? 'Explicado con IA local usando contenido local'
+          : 'Contenido local verificado'}</strong>
         {message.foundInOtherCourse && message.sourceCourse && (
           <small>Encontrado en otro curso: {message.sourceCourse}.</small>
         )}
+        {message.provenanceStatus === 'local_content_fallback' && (
+          <small>Se utilizó el contenido local porque la IA local no respondió.</small>
+        )}
         {message.contentSources.length > 0 && (
           <div>
-            <span>{message.contentSources.length === 1 ? 'Fuente local usada' : 'Fuentes locales usadas'}</span>
+            <span>{message.contentSources.length === 1 ? 'Fuente local' : 'Fuentes locales'}</span>
             <ul>
               {message.contentSources.map((source) => (
                 <li key={`${source.path}-${source.title}`}>
@@ -153,6 +173,36 @@ function SourceNotice({ message }) {
         </small>
       )}
     </div>
+  )
+}
+
+function AiLocalCard({ status, onTest, isTesting, testMessage }) {
+  const available = status?.available && status?.model_installed
+  return (
+    <section className="ai-local-card" aria-label="Estado de IA local">
+      <h2>IA local</h2>
+      <p className={available ? 'ai-status available' : 'ai-status unavailable'}>
+        {available ? 'Conectada' : 'No disponible'}
+      </p>
+      <small>Modelo: {status?.model ?? 'qwen3.5:2b'}</small>
+      <button type="button" onClick={onTest} disabled={isTesting}>
+        {isTesting ? 'Probando...' : 'Probar IA local'}
+      </button>
+      {testMessage && <p className="ai-test-message">{testMessage}</p>}
+    </section>
+  )
+}
+
+function ProcessingIndicator({ message }) {
+  return (
+    <article className="message assistant processing-message" aria-busy="true" role="status">
+      <span>Chat Escolar · Procesando</span>
+      <div className="processing-content">
+        <i className="processing-spinner" aria-hidden="true" />
+        <p>{message}</p>
+        <span className="processing-dots" aria-hidden="true"><i /> <i /> <i /></span>
+      </div>
+    </article>
   )
 }
 
@@ -336,6 +386,7 @@ function App() {
   const [subject, setSubject] = useState('Ciencias Naturales')
   const [question, setQuestion] = useState('')
   const [isSending, setIsSending] = useState(false)
+  const [processingMessage, setProcessingMessage] = useState('')
   const [historyItems, setHistoryItems] = useState([])
   const [historyError, setHistoryError] = useState('')
   const [historyView, setHistoryView] = useState('recent')
@@ -344,6 +395,9 @@ function App() {
   const [videoTopic, setVideoTopic] = useState(null)
   const [videoLoadError, setVideoLoadError] = useState(false)
   const [isAboutOpen, setIsAboutOpen] = useState(false)
+  const [aiStatus, setAiStatus] = useState(null)
+  const [isAiTesting, setIsAiTesting] = useState(false)
+  const [aiTestMessage, setAiTestMessage] = useState('')
   const latestHistory = historyItems[0]
   const pendingHistory = historyItems.filter((item) => item.status === 'pendiente')
   const favoriteHistory = historyItems.filter((item) => item.is_favorite)
@@ -427,6 +481,18 @@ function App() {
     return () => controller.abort()
   }, [])
 
+  const loadAiStatus = useCallback(async () => {
+    try {
+      const response = await fetch(`${API_BASE_URL}/ai/status`)
+      if (!response.ok) throw new Error('AI status request failed')
+      setAiStatus(await response.json())
+    } catch {
+      setAiStatus({ available: false, model_installed: false, model: 'qwen3.5:2b' })
+    }
+  }, [])
+
+  useEffect(() => { loadAiStatus() }, [loadAiStatus])
+
   useEffect(() => {
     if (!isAboutOpen) return undefined
 
@@ -436,6 +502,31 @@ function App() {
     document.addEventListener('keydown', closeWithEscape)
     return () => document.removeEventListener('keydown', closeWithEscape)
   }, [isAboutOpen])
+
+  useEffect(() => {
+    if (!isSending) {
+      setProcessingMessage('')
+      return undefined
+    }
+
+    const usingLocalAi = aiStatus?.available && aiStatus?.model_installed
+    setProcessingMessage(usingLocalAi
+      ? 'IA local trabajando. Puede tardar unos segundos.'
+      : 'Preparando respuesta... Esto puede tardar unos segundos.')
+    const sourceTimer = window.setTimeout(() => setProcessingMessage('Buscando contenidos locales y revisando fuentes disponibles...'), 1600)
+    const clarityTimer = window.setTimeout(() => setProcessingMessage(usingLocalAi
+      ? 'Consultando IA local y preparando una explicación clara...'
+      : 'Preparando una explicación clara...'), 3600)
+    const slowTimer = window.setTimeout(() => setProcessingMessage('La IA local está tardando un poco más de lo normal. El computador sigue procesando.'), 10000)
+    const verySlowTimer = window.setTimeout(() => setProcessingMessage('Sigue procesando. En equipos modestos, algunas respuestas pueden tardar más.'), 30000)
+
+    return () => {
+      window.clearTimeout(sourceTimer)
+      window.clearTimeout(clarityTimer)
+      window.clearTimeout(slowTimer)
+      window.clearTimeout(verySlowTimer)
+    }
+  }, [aiStatus, isSending])
 
   const loadHistory = useCallback(async () => {
     if (!activeProfile) return
@@ -519,6 +610,25 @@ function App() {
     return response.json()
   }
 
+  const testAiLocal = async () => {
+    setIsAiTesting(true)
+    setAiTestMessage('')
+    try {
+      const response = await fetch(`${API_BASE_URL}/ai/test`, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ prompt: 'Explica qué es una fracción para quinto básico en una frase.' }),
+      })
+      const data = await response.json()
+      setAiTestMessage(data.status === 'ok' ? 'IA local respondió correctamente.' : (data.message || 'IA local no disponible.'))
+      await loadAiStatus()
+    } catch {
+      setAiTestMessage('No pude conectar con la IA local.')
+    } finally {
+      setIsAiTesting(false)
+    }
+  }
+
   const sendQuestion = async () => {
     const cleanQuestion = question.trim()
     if (!cleanQuestion || isSending) return
@@ -534,6 +644,7 @@ function App() {
           from: 'assistant',
           text: data.answer,
           summary: data.summary,
+          processingTimeMs: data.processing_time_ms,
           usedLocalContent: data.used_local_content,
           contentSources: data.content_sources ?? [],
           relatedSources: data.related_sources ?? [],
@@ -547,7 +658,7 @@ function App() {
       setBackendStatus(data.status === 'ok' ? 'connected' : 'unavailable')
       await loadHistory()
     } catch {
-      setMessages((current) => [...current, { from: 'assistant', text: 'No pude conectar con el tutor demo.' }])
+      setMessages((current) => [...current, { from: 'assistant', text: 'No pude generar la respuesta en este momento. Puedes intentar nuevamente.' }])
       setBackendStatus('unavailable')
     } finally {
       setIsSending(false)
@@ -702,8 +813,12 @@ function App() {
                   </small>
                 )}
                 {message.summary && <small className="message-summary">Resumen: {message.summary}</small>}
+                {formatProcessingTime(message.processingTimeMs) && (
+                  <small className="processing-time">{formatProcessingTime(message.processingTimeMs)}</small>
+                )}
               </article>
             ))}
+            {isSending && <ProcessingIndicator message={processingMessage} />}
           </div>
           <div className="quick-actions" aria-label="Botones rápidos">
             {quickActions.map((action) => (
@@ -714,12 +829,20 @@ function App() {
             <label htmlFor="question">Escribe una pregunta</label>
             <div>
               <input id="question" value={question} placeholder="Ej: ¿Qué es un hábitat?" onChange={(event) => setQuestion(event.target.value)} />
-              <button type="submit" disabled={isSending}>{isSending ? 'Enviando...' : 'Enviar'}</button>
+              <button type="submit" disabled={isSending} aria-busy={isSending}>
+                {isSending ? 'Procesando...' : 'Enviar'}
+              </button>
             </div>
           </form>
         </section>
 
         <aside className="side-panel">
+          <AiLocalCard
+            status={aiStatus}
+            onTest={testAiLocal}
+            isTesting={isAiTesting}
+            testMessage={aiTestMessage}
+          />
           <section className="history-card" aria-label="Historial simple">
             <div className="section-title">
               <div>
