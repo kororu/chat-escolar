@@ -10,19 +10,27 @@ Los archivos se guardan en la carpeta `contenidos/` de la raíz del proyecto.
 
 ```text
 contenidos/
-├── primero_basico/
+├── quinto_basico/
 │   ├── lenguaje/
 │   ├── matematica/
 │   ├── ciencias_naturales/
-│   ├── historia_geografia/
-│   └── modo_explorador/
-├── quinto_basico/
-│   └── ...
-└── sexto_basico/
-    └── ...
+│   └── historia_geografia/
+├── sexto_basico/
+│   ├── lenguaje/
+│   ├── matematica/
+│   ├── ciencias_naturales/
+│   └── historia_geografia/
+└── primero_basico/          (pendiente)
 ```
 
-Actualmente la colección principal corresponde a 5° básico. El lector ya reconoce las carpetas de 1°, 5° y 6° básico para permitir agregar contenido gradualmente.
+## Cursos disponibles
+
+Actualmente la base local contiene materiales curriculares para:
+
+- 5° básico, en `contenidos/quinto_basico/`.
+- 6° básico, en `contenidos/sexto_basico/`.
+
+Los contenidos de 1° básico están pendientes o en preparación. El lector ya reconoce `contenidos/primero_basico/`, por lo que podrán agregarse más adelante sin cambiar el código.
 
 ## Materias reconocidas
 
@@ -53,7 +61,7 @@ Las rutas son relativas a `contenidos/`; nunca se expone una ruta personal del e
 
 ## Probar el endpoint
 
-Con el backend iniciado, abre:
+Con el backend iniciado, puedes probar contenidos de 5° básico:
 
 ```text
 http://127.0.0.1:8000/content/search?course=5%C2%B0%20b%C3%A1sico&subject=Matem%C3%A1tica&q=fracciones
@@ -67,9 +75,46 @@ http://127.0.0.1:8000/content/search?course=5%C2%B0%20b%C3%A1sico&subject=Matem%
 
 La respuesta incluye `title`, `path`, `score` y `excerpt`.
 
-## Agregar contenidos de 1° y 6° básico
+### Pruebas para 6° básico
 
-1. Crea `contenidos/primero_basico/` o `contenidos/sexto_basico/`.
+Matemática y fracciones:
+
+```text
+http://127.0.0.1:8000/content/search?course=6%C2%B0%20b%C3%A1sico&subject=Matem%C3%A1tica&q=fracciones
+```
+
+Ciencias Naturales y energía:
+
+```text
+http://127.0.0.1:8000/content/search?course=6%C2%B0%20b%C3%A1sico&subject=Ciencias%20Naturales&q=energia
+```
+
+Lenguaje y comprensión:
+
+```text
+http://127.0.0.1:8000/content/search?course=6%C2%B0%20b%C3%A1sico&subject=Lenguaje&q=comprension
+```
+
+Historia y Chile:
+
+```text
+http://127.0.0.1:8000/content/search?course=6%C2%B0%20b%C3%A1sico&subject=Historia&q=chile
+```
+
+### Preguntas sugeridas para probar en el frontend
+
+Selecciona `6° básico`, elige la materia correspondiente y prueba:
+
+- Matemática: “¿Cómo se suman fracciones y números mixtos?”
+- Ciencias Naturales: “¿Qué formas de energía existen y cómo se transforman?”
+- Lenguaje: “¿Qué estrategias ayudan a comprender mejor un texto?”
+- Historia: “¿Cómo se organiza Chile en regiones?”
+
+Cuando haya una coincidencia, el chat debe mostrar el indicador **Respuesta apoyada en contenidos locales** y el título de la fuente utilizada.
+
+## Agregar contenidos de 1° básico
+
+1. Crea `contenidos/primero_basico/` cuando los materiales estén listos.
 2. Crea dentro las carpetas de materias necesarias.
 3. Agrega archivos `.md` originales siguiendo la convención de nombres.
 4. Prueba `/content/search` con el curso y materia correspondientes.
