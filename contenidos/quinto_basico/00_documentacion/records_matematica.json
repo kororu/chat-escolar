@@ -1,0 +1,245 @@
+[
+  {
+    "id": "5b_mat_01_numeros_naturales_hasta_menos_de_mil_millones",
+    "path": "matematica/01_numeros_naturales_hasta_menos_de_mil_millones.md",
+    "title": "Números naturales hasta menos de mil millones",
+    "axis": "Números y operaciones",
+    "oa": [
+      "MA05 OA 01"
+    ],
+    "subject": "Matemática"
+  },
+  {
+    "id": "5b_mat_02_calculo_mental_de_multiplicaciones",
+    "path": "matematica/02_calculo_mental_de_multiplicaciones.md",
+    "title": "Cálculo mental de multiplicaciones",
+    "axis": "Números y operaciones",
+    "oa": [
+      "MA05 OA 02"
+    ],
+    "subject": "Matemática"
+  },
+  {
+    "id": "5b_mat_03_multiplicacion_de_dos_cifras_por_dos_cifras",
+    "path": "matematica/03_multiplicacion_de_dos_cifras_por_dos_cifras.md",
+    "title": "Multiplicación de dos cifras por dos cifras",
+    "axis": "Números y operaciones",
+    "oa": [
+      "MA05 OA 03"
+    ],
+    "subject": "Matemática"
+  },
+  {
+    "id": "5b_mat_04_division_de_tres_cifras_por_una_cifra_e_interpretacion_del_resto",
+    "path": "matematica/04_division_de_tres_cifras_por_una_cifra_e_interpretacion_del_resto.md",
+    "title": "División de tres cifras por una cifra e interpretación del resto",
+    "axis": "Números y operaciones",
+    "oa": [
+      "MA05 OA 04"
+    ],
+    "subject": "Matemática"
+  },
+  {
+    "id": "5b_mat_05_operaciones_combinadas_y_uso_de_parentesis",
+    "path": "matematica/05_operaciones_combinadas_y_uso_de_parentesis.md",
+    "title": "Operaciones combinadas y uso de paréntesis",
+    "axis": "Números y operaciones",
+    "oa": [
+      "MA05 OA 05"
+    ],
+    "subject": "Matemática"
+  },
+  {
+    "id": "5b_mat_06_resolucion_de_problemas_y_dinero",
+    "path": "matematica/06_resolucion_de_problemas_y_dinero.md",
+    "title": "Resolución de problemas y dinero",
+    "axis": "Números y operaciones",
+    "oa": [
+      "MA05 OA 06"
+    ],
+    "subject": "Matemática"
+  },
+  {
+    "id": "5b_mat_07_fracciones_propias_representacion_equivalencia_y_comparacion",
+    "path": "matematica/07_fracciones_propias_representacion_equivalencia_y_comparacion.md",
+    "title": "Fracciones propias: representación, equivalencia y comparación",
+    "axis": "Números y operaciones",
+    "oa": [
+      "MA05 OA 07"
+    ],
+    "subject": "Matemática"
+  },
+  {
+    "id": "5b_mat_08_fracciones_impropias_y_numeros_mixtos",
+    "path": "matematica/08_fracciones_impropias_y_numeros_mixtos.md",
+    "title": "Fracciones impropias y números mixtos",
+    "axis": "Números y operaciones",
+    "oa": [
+      "MA05 OA 08"
+    ],
+    "subject": "Matemática"
+  },
+  {
+    "id": "5b_mat_09_adicion_y_sustraccion_de_fracciones",
+    "path": "matematica/09_adicion_y_sustraccion_de_fracciones.md",
+    "title": "Adición y sustracción de fracciones",
+    "axis": "Números y operaciones",
+    "oa": [
+      "MA05 OA 09"
+    ],
+    "subject": "Matemática"
+  },
+  {
+    "id": "5b_mat_10_relacion_entre_fracciones_y_decimales",
+    "path": "matematica/10_relacion_entre_fracciones_y_decimales.md",
+    "title": "Relación entre fracciones y decimales",
+    "axis": "Números y operaciones",
+    "oa": [
+      "MA05 OA 10"
+    ],
+    "subject": "Matemática"
+  },
+  {
+    "id": "5b_mat_11_comparacion_y_orden_de_numeros_decimales",
+    "path": "matematica/11_comparacion_y_orden_de_numeros_decimales.md",
+    "title": "Comparación y orden de números decimales",
+    "axis": "Números y operaciones",
+    "oa": [
+      "MA05 OA 11"
+    ],
+    "subject": "Matemática"
+  },
+  {
+    "id": "5b_mat_12_adicion_y_sustraccion_de_decimales",
+    "path": "matematica/12_adicion_y_sustraccion_de_decimales.md",
+    "title": "Adición y sustracción de decimales",
+    "axis": "Números y operaciones",
+    "oa": [
+      "MA05 OA 12",
+      "MA05 OA 13"
+    ],
+    "subject": "Matemática"
+  },
+  {
+    "id": "5b_mat_13_sucesiones_y_reglas_de_formacion",
+    "path": "matematica/13_sucesiones_y_reglas_de_formacion.md",
+    "title": "Sucesiones y reglas de formación",
+    "axis": "Patrones y álgebra",
+    "oa": [
+      "MA05 OA 14"
+    ],
+    "subject": "Matemática"
+  },
+  {
+    "id": "5b_mat_14_ecuaciones_e_inecuaciones_de_un_paso",
+    "path": "matematica/14_ecuaciones_e_inecuaciones_de_un_paso.md",
+    "title": "Ecuaciones e inecuaciones de un paso",
+    "axis": "Patrones y álgebra",
+    "oa": [
+      "MA05 OA 15"
+    ],
+    "subject": "Matemática"
+  },
+  {
+    "id": "5b_mat_15_plano_cartesiano_en_el_primer_cuadrante",
+    "path": "matematica/15_plano_cartesiano_en_el_primer_cuadrante.md",
+    "title": "Plano cartesiano en el primer cuadrante",
+    "axis": "Geometría",
+    "oa": [
+      "MA05 OA 16"
+    ],
+    "subject": "Matemática"
+  },
+  {
+    "id": "5b_mat_16_rectas_paralelas_perpendiculares_e_intersecciones",
+    "path": "matematica/16_rectas_paralelas_perpendiculares_e_intersecciones.md",
+    "title": "Rectas paralelas, perpendiculares e intersecciones",
+    "axis": "Geometría",
+    "oa": [
+      "MA05 OA 17"
+    ],
+    "subject": "Matemática"
+  },
+  {
+    "id": "5b_mat_17_congruencia_traslacion_reflexion_y_rotacion",
+    "path": "matematica/17_congruencia_traslacion_reflexion_y_rotacion.md",
+    "title": "Congruencia: traslación, reflexión y rotación",
+    "axis": "Geometría",
+    "oa": [
+      "MA05 OA 18"
+    ],
+    "subject": "Matemática"
+  },
+  {
+    "id": "5b_mat_18_unidades_y_conversiones_de_longitud",
+    "path": "matematica/18_unidades_y_conversiones_de_longitud.md",
+    "title": "Unidades y conversiones de longitud",
+    "axis": "Medición",
+    "oa": [
+      "MA05 OA 19",
+      "MA05 OA 20"
+    ],
+    "subject": "Matemática"
+  },
+  {
+    "id": "5b_mat_19_perimetro_y_area_de_rectangulos",
+    "path": "matematica/19_perimetro_y_area_de_rectangulos.md",
+    "title": "Perímetro y área de rectángulos",
+    "axis": "Medición",
+    "oa": [
+      "MA05 OA 21"
+    ],
+    "subject": "Matemática"
+  },
+  {
+    "id": "5b_mat_20_area_de_triangulos_paralelogramos_trapecios_y_figuras_irregulares",
+    "path": "matematica/20_area_de_triangulos_paralelogramos_trapecios_y_figuras_irregulares.md",
+    "title": "Área de triángulos, paralelogramos, trapecios y figuras irregulares",
+    "axis": "Medición",
+    "oa": [
+      "MA05 OA 22"
+    ],
+    "subject": "Matemática"
+  },
+  {
+    "id": "5b_mat_21_promedio_aritmetico",
+    "path": "matematica/21_promedio_aritmetico.md",
+    "title": "Promedio aritmético",
+    "axis": "Datos y probabilidades",
+    "oa": [
+      "MA05 OA 23"
+    ],
+    "subject": "Matemática"
+  },
+  {
+    "id": "5b_mat_22_probabilidad_cualitativa_y_comparacion_de_posibilidades",
+    "path": "matematica/22_probabilidad_cualitativa_y_comparacion_de_posibilidades.md",
+    "title": "Probabilidad cualitativa y comparación de posibilidades",
+    "axis": "Datos y probabilidades",
+    "oa": [
+      "MA05 OA 24",
+      "MA05 OA 25"
+    ],
+    "subject": "Matemática"
+  },
+  {
+    "id": "5b_mat_23_tablas_graficos_de_barras_y_graficos_de_linea",
+    "path": "matematica/23_tablas_graficos_de_barras_y_graficos_de_linea.md",
+    "title": "Tablas, gráficos de barras y gráficos de línea",
+    "axis": "Datos y probabilidades",
+    "oa": [
+      "MA05 OA 26"
+    ],
+    "subject": "Matemática"
+  },
+  {
+    "id": "5b_mat_24_diagramas_de_tallo_y_hojas",
+    "path": "matematica/24_diagramas_de_tallo_y_hojas.md",
+    "title": "Diagramas de tallo y hojas",
+    "axis": "Datos y probabilidades",
+    "oa": [
+      "MA05 OA 27"
+    ],
+    "subject": "Matemática"
+  }
+]

@@ -1,0 +1,226 @@
+[
+  {
+    "id": "5b_his_01_viajes_de_exploracion_europeos_contexto_objetivos_y_rutas",
+    "path": "historia_geografia/01_viajes_de_exploracion_europeos_contexto_objetivos_y_rutas.md",
+    "title": "Viajes de exploración europeos: contexto, objetivos y rutas",
+    "axis": "Historia",
+    "oa": [
+      "HI05 OA 01"
+    ],
+    "subject": "Historia, Geografía y Ciencias Sociales"
+  },
+  {
+    "id": "5b_his_02_conquista_de_america_y_de_chile_actores_y_proceso",
+    "path": "historia_geografia/02_conquista_de_america_y_de_chile_actores_y_proceso.md",
+    "title": "Conquista de América y de Chile: actores y proceso",
+    "axis": "Historia",
+    "oa": [
+      "HI05 OA 02"
+    ],
+    "subject": "Historia, Geografía y Ciencias Sociales"
+  },
+  {
+    "id": "5b_his_03_consecuencias_de_la_conquista_para_distintos_pueblos",
+    "path": "historia_geografia/03_consecuencias_de_la_conquista_para_distintos_pueblos.md",
+    "title": "Consecuencias de la conquista para distintos pueblos",
+    "axis": "Historia",
+    "oa": [
+      "HI05 OA 03"
+    ],
+    "subject": "Historia, Geografía y Ciencias Sociales"
+  },
+  {
+    "id": "5b_his_04_fuentes_historicas_sobre_la_conquista",
+    "path": "historia_geografia/04_fuentes_historicas_sobre_la_conquista.md",
+    "title": "Fuentes históricas sobre la conquista",
+    "axis": "Historia y habilidades",
+    "oa": [
+      "HI05 OA 04",
+      "HI05 OAH e-f"
+    ],
+    "subject": "Historia, Geografía y Ciencias Sociales"
+  },
+  {
+    "id": "5b_his_05_sociedad_colonial_grupos_jerarquias_y_vida_cotidiana",
+    "path": "historia_geografia/05_sociedad_colonial_grupos_jerarquias_y_vida_cotidiana.md",
+    "title": "Sociedad colonial: grupos, jerarquías y vida cotidiana",
+    "axis": "Historia",
+    "oa": [
+      "HI05 OA 05"
+    ],
+    "subject": "Historia, Geografía y Ciencias Sociales"
+  },
+  {
+    "id": "5b_his_06_administracion_economia_iglesia_y_mestizaje_colonial",
+    "path": "historia_geografia/06_administracion_economia_iglesia_y_mestizaje_colonial.md",
+    "title": "Administración, economía, Iglesia y mestizaje colonial",
+    "axis": "Historia",
+    "oa": [
+      "HI05 OA 06"
+    ],
+    "subject": "Historia, Geografía y Ciencias Sociales"
+  },
+  {
+    "id": "5b_his_07_relaciones_entre_espanoles_y_mapuche_guerra_frontera_e_intercambio",
+    "path": "historia_geografia/07_relaciones_entre_espanoles_y_mapuche_guerra_frontera_e_intercambio.md",
+    "title": "Relaciones entre españoles y mapuche: guerra, frontera e intercambio",
+    "axis": "Historia",
+    "oa": [
+      "HI05 OA 07"
+    ],
+    "subject": "Historia, Geografía y Ciencias Sociales"
+  },
+  {
+    "id": "5b_his_08_patrimonio_colonial_material_e_inmaterial",
+    "path": "historia_geografia/08_patrimonio_colonial_material_e_inmaterial.md",
+    "title": "Patrimonio colonial material e inmaterial",
+    "axis": "Historia",
+    "oa": [
+      "HI05 OA 08"
+    ],
+    "subject": "Historia, Geografía y Ciencias Sociales"
+  },
+  {
+    "id": "5b_his_09_zonas_naturales_de_chile",
+    "path": "historia_geografia/09_zonas_naturales_de_chile.md",
+    "title": "Zonas naturales de Chile",
+    "axis": "Geografía",
+    "oa": [
+      "HI05 OA 09"
+    ],
+    "subject": "Historia, Geografía y Ciencias Sociales"
+  },
+  {
+    "id": "5b_his_10_recursos_naturales_renovables_y_no_renovables",
+    "path": "historia_geografia/10_recursos_naturales_renovables_y_no_renovables.md",
+    "title": "Recursos naturales renovables y no renovables",
+    "axis": "Geografía",
+    "oa": [
+      "HI05 OA 10"
+    ],
+    "subject": "Historia, Geografía y Ciencias Sociales"
+  },
+  {
+    "id": "5b_his_11_trabajo_tecnologia_y_valor_agregado",
+    "path": "historia_geografia/11_trabajo_tecnologia_y_valor_agregado.md",
+    "title": "Trabajo, tecnología y valor agregado",
+    "axis": "Geografía y economía",
+    "oa": [
+      "HI05 OA 11"
+    ],
+    "subject": "Historia, Geografía y Ciencias Sociales"
+  },
+  {
+    "id": "5b_his_12_desarrollo_sostenible_y_decisiones_territoriales",
+    "path": "historia_geografia/12_desarrollo_sostenible_y_decisiones_territoriales.md",
+    "title": "Desarrollo sostenible y decisiones territoriales",
+    "axis": "Geografía",
+    "oa": [
+      "HI05 OA 10",
+      "HI05 OA 11"
+    ],
+    "subject": "Historia, Geografía y Ciencias Sociales"
+  },
+  {
+    "id": "5b_his_13_riesgos_naturales_vulnerabilidad_y_prevencion",
+    "path": "historia_geografia/13_riesgos_naturales_vulnerabilidad_y_prevencion.md",
+    "title": "Riesgos naturales, vulnerabilidad y prevención",
+    "axis": "Geografía",
+    "oa": [
+      "HI05 OA 12"
+    ],
+    "subject": "Historia, Geografía y Ciencias Sociales"
+  },
+  {
+    "id": "5b_his_14_derechos_humanos_y_derechos_de_ninos_y_ninas",
+    "path": "historia_geografia/14_derechos_humanos_y_derechos_de_ninos_y_ninas.md",
+    "title": "Derechos humanos y derechos de niños y niñas",
+    "axis": "Formación ciudadana",
+    "oa": [
+      "HI05 OA 13"
+    ],
+    "subject": "Historia, Geografía y Ciencias Sociales"
+  },
+  {
+    "id": "5b_his_15_deberes_responsabilidades_leyes_y_rol_del_estado",
+    "path": "historia_geografia/15_deberes_responsabilidades_leyes_y_rol_del_estado.md",
+    "title": "Deberes, responsabilidades, leyes y rol del Estado",
+    "axis": "Formación ciudadana",
+    "oa": [
+      "HI05 OA 14"
+    ],
+    "subject": "Historia, Geografía y Ciencias Sociales"
+  },
+  {
+    "id": "5b_his_16_esfuerzo_merito_oportunidades_y_apoyo",
+    "path": "historia_geografia/16_esfuerzo_merito_oportunidades_y_apoyo.md",
+    "title": "Esfuerzo, mérito, oportunidades y apoyo",
+    "axis": "Formación ciudadana",
+    "oa": [
+      "HI05 OA 15"
+    ],
+    "subject": "Historia, Geografía y Ciencias Sociales"
+  },
+  {
+    "id": "5b_his_17_actitudes_civicas_y_convivencia_cotidiana",
+    "path": "historia_geografia/17_actitudes_civicas_y_convivencia_cotidiana.md",
+    "title": "Actitudes cívicas y convivencia cotidiana",
+    "axis": "Formación ciudadana",
+    "oa": [
+      "HI05 OA 16"
+    ],
+    "subject": "Historia, Geografía y Ciencias Sociales"
+  },
+  {
+    "id": "5b_his_18_elecciones_representacion_y_directiva_de_curso",
+    "path": "historia_geografia/18_elecciones_representacion_y_directiva_de_curso.md",
+    "title": "Elecciones, representación y directiva de curso",
+    "axis": "Formación ciudadana",
+    "oa": [
+      "HI05 OA 17"
+    ],
+    "subject": "Historia, Geografía y Ciencias Sociales"
+  },
+  {
+    "id": "5b_his_19_diseno_de_proyectos_para_la_comunidad_escolar",
+    "path": "historia_geografia/19_diseno_de_proyectos_para_la_comunidad_escolar.md",
+    "title": "Diseño de proyectos para la comunidad escolar",
+    "axis": "Formación ciudadana",
+    "oa": [
+      "HI05 OA 18",
+      "HI05 OA 21"
+    ],
+    "subject": "Historia, Geografía y Ciencias Sociales"
+  },
+  {
+    "id": "5b_his_20_organizaciones_sociales_comunitarias_y_de_proteccion",
+    "path": "historia_geografia/20_organizaciones_sociales_comunitarias_y_de_proteccion.md",
+    "title": "Organizaciones sociales, comunitarias y de protección",
+    "axis": "Formación ciudadana",
+    "oa": [
+      "HI05 OA 19"
+    ],
+    "subject": "Historia, Geografía y Ciencias Sociales"
+  },
+  {
+    "id": "5b_his_21_opinion_informada_y_participacion_en_temas_de_interes_publico",
+    "path": "historia_geografia/21_opinion_informada_y_participacion_en_temas_de_interes_publico.md",
+    "title": "Opinión informada y participación en temas de interés público",
+    "axis": "Formación ciudadana y habilidades",
+    "oa": [
+      "HI05 OA 20",
+      "HI05 OA 22"
+    ],
+    "subject": "Historia, Geografía y Ciencias Sociales"
+  },
+  {
+    "id": "5b_his_22_habilidades_historicas_y_geograficas_integradas",
+    "path": "historia_geografia/22_habilidades_historicas_y_geograficas_integradas.md",
+    "title": "Habilidades históricas y geográficas integradas",
+    "axis": "Habilidades transversales",
+    "oa": [
+      "HI05 OAH a-m"
+    ],
+    "subject": "Historia, Geografía y Ciencias Sociales"
+  }
+]

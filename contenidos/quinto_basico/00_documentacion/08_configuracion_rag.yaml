@@ -1,0 +1,40 @@
+project: chat_escolar
+corpus: enciclopedia_5_basico
+version: "1.0"
+language: es-CL
+index:
+  include:
+    - lenguaje/*.md
+    - matematica/*.md
+    - ciencias_naturales/*.md
+    - historia_geografia/*.md
+    - apoyo_inclusivo/*.md
+  exclude:
+    - "*/00_indice_*.md"
+    - compendios/**
+    - evaluaciones/**/respuestas_*.md
+chunking:
+  strategy: markdown_headers
+  target_words: 450
+  min_words: 120
+  max_words: 750
+  overlap_words: 60
+metadata:
+  required:
+    - id
+    - curso
+    - asignatura
+    - eje
+    - tema
+    - tipo
+    - version
+retrieval:
+  course_filter: quinto_basico
+  initial_top_k: 8
+  final_top_k: 4
+  hybrid_search: true
+  deduplicate_by: [id, section]
+generation:
+  temperature: 0.2
+  cite_internal_sources: true
+  refuse_unsupported_claims: true

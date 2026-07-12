@@ -1,0 +1,243 @@
+[
+  {
+    "id": "5b_len_01_fluidez_lectora_y_prosodia",
+    "path": "lenguaje/01_fluidez_lectora_y_prosodia.md",
+    "title": "Fluidez lectora y prosodia",
+    "axis": "Lectura",
+    "oa": [
+      "LE05 OA 01"
+    ],
+    "subject": "Lenguaje y Comunicación"
+  },
+  {
+    "id": "5b_len_02_estrategias_para_comprender_antes_durante_y_despues_de_leer",
+    "path": "lenguaje/02_estrategias_para_comprender_antes_durante_y_despues_de_leer.md",
+    "title": "Estrategias para comprender antes, durante y después de leer",
+    "axis": "Lectura",
+    "oa": [
+      "LE05 OA 02"
+    ],
+    "subject": "Lenguaje y Comunicación"
+  },
+  {
+    "id": "5b_len_03_narraciones_personajes_ambiente_acciones_y_consecuencias",
+    "path": "lenguaje/03_narraciones_personajes_ambiente_acciones_y_consecuencias.md",
+    "title": "Narraciones: personajes, ambiente, acciones y consecuencias",
+    "axis": "Lectura",
+    "oa": [
+      "LE05 OA 03",
+      "LE05 OA 04"
+    ],
+    "subject": "Lenguaje y Comunicación"
+  },
+  {
+    "id": "5b_len_04_mitos_leyendas_fabulas_cuentos_y_novelas",
+    "path": "lenguaje/04_mitos_leyendas_fabulas_cuentos_y_novelas.md",
+    "title": "Mitos, leyendas, fábulas, cuentos y novelas",
+    "axis": "Lectura",
+    "oa": [
+      "LE05 OA 03",
+      "LE05 OA 09"
+    ],
+    "subject": "Lenguaje y Comunicación"
+  },
+  {
+    "id": "5b_len_05_poesia_imagenes_y_lenguaje_figurado",
+    "path": "lenguaje/05_poesia_imagenes_y_lenguaje_figurado.md",
+    "title": "Poesía, imágenes y lenguaje figurado",
+    "axis": "Lectura",
+    "oa": [
+      "LE05 OA 05"
+    ],
+    "subject": "Lenguaje y Comunicación"
+  },
+  {
+    "id": "5b_len_06_textos_no_literarios_e_informacion_explicita_e_implicita",
+    "path": "lenguaje/06_textos_no_literarios_e_informacion_explicita_e_implicita.md",
+    "title": "Textos no literarios e información explícita e implícita",
+    "axis": "Lectura",
+    "oa": [
+      "LE05 OA 06"
+    ],
+    "subject": "Lenguaje y Comunicación"
+  },
+  {
+    "id": "5b_len_07_evaluacion_critica_de_textos_y_suficiencia_de_la_informacion",
+    "path": "lenguaje/07_evaluacion_critica_de_textos_y_suficiencia_de_la_informacion.md",
+    "title": "Evaluación crítica de textos y suficiencia de la información",
+    "axis": "Lectura",
+    "oa": [
+      "LE05 OA 07"
+    ],
+    "subject": "Lenguaje y Comunicación"
+  },
+  {
+    "id": "5b_len_08_sintesis_y_resumen",
+    "path": "lenguaje/08_sintesis_y_resumen.md",
+    "title": "Síntesis y resumen",
+    "axis": "Lectura",
+    "oa": [
+      "LE05 OA 08"
+    ],
+    "subject": "Lenguaje y Comunicación"
+  },
+  {
+    "id": "5b_len_09_habitos_lectores_biblioteca_y_seleccion_de_obras",
+    "path": "lenguaje/09_habitos_lectores_biblioteca_y_seleccion_de_obras.md",
+    "title": "Hábitos lectores, biblioteca y selección de obras",
+    "axis": "Lectura",
+    "oa": [
+      "LE05 OA 09",
+      "LE05 OA 10"
+    ],
+    "subject": "Lenguaje y Comunicación"
+  },
+  {
+    "id": "5b_len_10_investigacion_escolar_y_seleccion_de_fuentes",
+    "path": "lenguaje/10_investigacion_escolar_y_seleccion_de_fuentes.md",
+    "title": "Investigación escolar y selección de fuentes",
+    "axis": "Lectura",
+    "oa": [
+      "LE05 OA 11"
+    ],
+    "subject": "Lenguaje y Comunicación"
+  },
+  {
+    "id": "5b_len_11_vocabulario_por_contexto_raices_y_afijos",
+    "path": "lenguaje/11_vocabulario_por_contexto_raices_y_afijos.md",
+    "title": "Vocabulario por contexto, raíces y afijos",
+    "axis": "Lectura y comunicación oral",
+    "oa": [
+      "LE05 OA 12",
+      "LE05 OA 19",
+      "LE05 OA 20",
+      "LE05 OA 29"
+    ],
+    "subject": "Lenguaje y Comunicación"
+  },
+  {
+    "id": "5b_len_12_escritura_creativa_y_expresion_personal",
+    "path": "lenguaje/12_escritura_creativa_y_expresion_personal.md",
+    "title": "Escritura creativa y expresión personal",
+    "axis": "Escritura",
+    "oa": [
+      "LE05 OA 13"
+    ],
+    "subject": "Lenguaje y Comunicación"
+  },
+  {
+    "id": "5b_len_13_escritura_de_narraciones",
+    "path": "lenguaje/13_escritura_de_narraciones.md",
+    "title": "Escritura de narraciones",
+    "axis": "Escritura",
+    "oa": [
+      "LE05 OA 14"
+    ],
+    "subject": "Lenguaje y Comunicación"
+  },
+  {
+    "id": "5b_len_14_articulos_informativos",
+    "path": "lenguaje/14_articulos_informativos.md",
+    "title": "Artículos informativos",
+    "axis": "Escritura",
+    "oa": [
+      "LE05 OA 15"
+    ],
+    "subject": "Lenguaje y Comunicación"
+  },
+  {
+    "id": "5b_len_15_comentario_de_lectura_fundamentado",
+    "path": "lenguaje/15_comentario_de_lectura_fundamentado.md",
+    "title": "Comentario de lectura fundamentado",
+    "axis": "Escritura",
+    "oa": [
+      "LE05 OA 16"
+    ],
+    "subject": "Lenguaje y Comunicación"
+  },
+  {
+    "id": "5b_len_16_planificacion_revision_y_edicion_de_textos",
+    "path": "lenguaje/16_planificacion_revision_y_edicion_de_textos.md",
+    "title": "Planificación, revisión y edición de textos",
+    "axis": "Escritura",
+    "oa": [
+      "LE05 OA 17",
+      "LE05 OA 18"
+    ],
+    "subject": "Lenguaje y Comunicación"
+  },
+  {
+    "id": "5b_len_17_coherencia_conectores_y_organizacion_de_parrafos",
+    "path": "lenguaje/17_coherencia_conectores_y_organizacion_de_parrafos.md",
+    "title": "Coherencia, conectores y organización de párrafos",
+    "axis": "Escritura",
+    "oa": [
+      "LE05 OA 18"
+    ],
+    "subject": "Lenguaje y Comunicación"
+  },
+  {
+    "id": "5b_len_18_verbos_y_concordancia",
+    "path": "lenguaje/18_verbos_y_concordancia.md",
+    "title": "Verbos y concordancia",
+    "axis": "Escritura",
+    "oa": [
+      "LE05 OA 21"
+    ],
+    "subject": "Lenguaje y Comunicación"
+  },
+  {
+    "id": "5b_len_19_ortografia_tildes_puntuacion_y_dialogo",
+    "path": "lenguaje/19_ortografia_tildes_puntuacion_y_dialogo.md",
+    "title": "Ortografía, tildes, puntuación y diálogo",
+    "axis": "Escritura",
+    "oa": [
+      "LE05 OA 22"
+    ],
+    "subject": "Lenguaje y Comunicación"
+  },
+  {
+    "id": "5b_len_20_comprension_de_mensajes_orales_y_audiovisuales",
+    "path": "lenguaje/20_comprension_de_mensajes_orales_y_audiovisuales.md",
+    "title": "Comprensión de mensajes orales y audiovisuales",
+    "axis": "Comunicación oral",
+    "oa": [
+      "LE05 OA 23",
+      "LE05 OA 24",
+      "LE05 OA 25"
+    ],
+    "subject": "Lenguaje y Comunicación"
+  },
+  {
+    "id": "5b_len_21_dialogo_turnos_y_construccion_de_acuerdos",
+    "path": "lenguaje/21_dialogo_turnos_y_construccion_de_acuerdos.md",
+    "title": "Diálogo, turnos y construcción de acuerdos",
+    "axis": "Comunicación oral",
+    "oa": [
+      "LE05 OA 26",
+      "LE05 OA 27"
+    ],
+    "subject": "Lenguaje y Comunicación"
+  },
+  {
+    "id": "5b_len_22_exposicion_oral_organizada",
+    "path": "lenguaje/22_exposicion_oral_organizada.md",
+    "title": "Exposición oral organizada",
+    "axis": "Comunicación oral",
+    "oa": [
+      "LE05 OA 28"
+    ],
+    "subject": "Lenguaje y Comunicación"
+  },
+  {
+    "id": "5b_len_23_textos_orales_relatos_poemas_y_representaciones",
+    "path": "lenguaje/23_textos_orales_relatos_poemas_y_representaciones.md",
+    "title": "Textos orales: relatos, poemas y representaciones",
+    "axis": "Comunicación oral",
+    "oa": [
+      "LE05 OA 29",
+      "LE05 OA 30"
+    ],
+    "subject": "Lenguaje y Comunicación"
+  }
+]

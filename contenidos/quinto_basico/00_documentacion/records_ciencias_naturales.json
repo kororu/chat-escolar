@@ -1,0 +1,174 @@
+[
+  {
+    "id": "5b_cie_01_celulas_y_niveles_de_organizacion_de_los_seres_vivos",
+    "path": "ciencias_naturales/01_celulas_y_niveles_de_organizacion_de_los_seres_vivos.md",
+    "title": "Células y niveles de organización de los seres vivos",
+    "axis": "Ciencias de la Vida",
+    "oa": [
+      "CN05 OA 01"
+    ],
+    "subject": "Ciencias Naturales"
+  },
+  {
+    "id": "5b_cie_02_sistema_digestivo_y_transformacion_de_los_alimentos",
+    "path": "ciencias_naturales/02_sistema_digestivo_y_transformacion_de_los_alimentos.md",
+    "title": "Sistema digestivo y transformación de los alimentos",
+    "axis": "Ciencias de la Vida",
+    "oa": [
+      "CN05 OA 02"
+    ],
+    "subject": "Ciencias Naturales"
+  },
+  {
+    "id": "5b_cie_03_sistema_respiratorio_e_intercambio_gaseoso",
+    "path": "ciencias_naturales/03_sistema_respiratorio_e_intercambio_gaseoso.md",
+    "title": "Sistema respiratorio e intercambio gaseoso",
+    "axis": "Ciencias de la Vida",
+    "oa": [
+      "CN05 OA 03"
+    ],
+    "subject": "Ciencias Naturales"
+  },
+  {
+    "id": "5b_cie_04_sistema_circulatorio_y_transporte_de_sustancias",
+    "path": "ciencias_naturales/04_sistema_circulatorio_y_transporte_de_sustancias.md",
+    "title": "Sistema circulatorio y transporte de sustancias",
+    "axis": "Ciencias de la Vida",
+    "oa": [
+      "CN05 OA 04"
+    ],
+    "subject": "Ciencias Naturales"
+  },
+  {
+    "id": "5b_cie_05_relacion_entre_sistemas_digestivo_respiratorio_y_circulatorio",
+    "path": "ciencias_naturales/05_relacion_entre_sistemas_digestivo_respiratorio_y_circulatorio.md",
+    "title": "Relación entre sistemas digestivo, respiratorio y circulatorio",
+    "axis": "Ciencias de la Vida",
+    "oa": [
+      "CN05 OA 02",
+      "CN05 OA 03",
+      "CN05 OA 04"
+    ],
+    "subject": "Ciencias Naturales"
+  },
+  {
+    "id": "5b_cie_06_alimentacion_nutrientes_y_habitos_saludables",
+    "path": "ciencias_naturales/06_alimentacion_nutrientes_y_habitos_saludables.md",
+    "title": "Alimentación, nutrientes y hábitos saludables",
+    "axis": "Ciencias de la Vida",
+    "oa": [
+      "CN05 OA 05"
+    ],
+    "subject": "Ciencias Naturales"
+  },
+  {
+    "id": "5b_cie_07_tabaco_humo_y_salud",
+    "path": "ciencias_naturales/07_tabaco_humo_y_salud.md",
+    "title": "Tabaco, humo y salud",
+    "axis": "Ciencias de la Vida",
+    "oa": [
+      "CN05 OA 06"
+    ],
+    "subject": "Ciencias Naturales"
+  },
+  {
+    "id": "5b_cie_08_microorganismos_beneficiosos_y_perjudiciales",
+    "path": "ciencias_naturales/08_microorganismos_beneficiosos_y_perjudiciales.md",
+    "title": "Microorganismos beneficiosos y perjudiciales",
+    "axis": "Ciencias de la Vida",
+    "oa": [
+      "CN05 OA 07"
+    ],
+    "subject": "Ciencias Naturales"
+  },
+  {
+    "id": "5b_cie_09_energia_electrica_y_transformaciones",
+    "path": "ciencias_naturales/09_energia_electrica_y_transformaciones.md",
+    "title": "Energía eléctrica y transformaciones",
+    "axis": "Ciencias Físicas y Químicas",
+    "oa": [
+      "CN05 OA 08"
+    ],
+    "subject": "Ciencias Naturales"
+  },
+  {
+    "id": "5b_cie_10_circuitos_electricos_simples",
+    "path": "ciencias_naturales/10_circuitos_electricos_simples.md",
+    "title": "Circuitos eléctricos simples",
+    "axis": "Ciencias Físicas y Químicas",
+    "oa": [
+      "CN05 OA 09"
+    ],
+    "subject": "Ciencias Naturales"
+  },
+  {
+    "id": "5b_cie_11_conductores_y_aisladores_electricos",
+    "path": "ciencias_naturales/11_conductores_y_aisladores_electricos.md",
+    "title": "Conductores y aisladores eléctricos",
+    "axis": "Ciencias Físicas y Químicas",
+    "oa": [
+      "CN05 OA 10"
+    ],
+    "subject": "Ciencias Naturales"
+  },
+  {
+    "id": "5b_cie_12_importancia_seguridad_y_ahorro_de_electricidad",
+    "path": "ciencias_naturales/12_importancia_seguridad_y_ahorro_de_electricidad.md",
+    "title": "Importancia, seguridad y ahorro de electricidad",
+    "axis": "Ciencias Físicas y Químicas",
+    "oa": [
+      "CN05 OA 11"
+    ],
+    "subject": "Ciencias Naturales"
+  },
+  {
+    "id": "5b_cie_13_distribucion_de_agua_dulce_y_salada_en_la_tierra",
+    "path": "ciencias_naturales/13_distribucion_de_agua_dulce_y_salada_en_la_tierra.md",
+    "title": "Distribución de agua dulce y salada en la Tierra",
+    "axis": "Ciencias de la Tierra y el Universo",
+    "oa": [
+      "CN05 OA 12"
+    ],
+    "subject": "Ciencias Naturales"
+  },
+  {
+    "id": "5b_cie_14_oceanos_y_lagos_luz_temperatura_presion_y_vida",
+    "path": "ciencias_naturales/14_oceanos_y_lagos_luz_temperatura_presion_y_vida.md",
+    "title": "Océanos y lagos: luz, temperatura, presión y vida",
+    "axis": "Ciencias de la Tierra y el Universo",
+    "oa": [
+      "CN05 OA 13"
+    ],
+    "subject": "Ciencias Naturales"
+  },
+  {
+    "id": "5b_cie_15_olas_mareas_y_corrientes_marinas",
+    "path": "ciencias_naturales/15_olas_mareas_y_corrientes_marinas.md",
+    "title": "Olas, mareas y corrientes marinas",
+    "axis": "Ciencias de la Tierra y el Universo",
+    "oa": [
+      "CN05 OA 13"
+    ],
+    "subject": "Ciencias Naturales"
+  },
+  {
+    "id": "5b_cie_16_impactos_humanos_y_proteccion_de_aguas",
+    "path": "ciencias_naturales/16_impactos_humanos_y_proteccion_de_aguas.md",
+    "title": "Impactos humanos y protección de aguas",
+    "axis": "Ciencias de la Tierra y el Universo",
+    "oa": [
+      "CN05 OA 14"
+    ],
+    "subject": "Ciencias Naturales"
+  },
+  {
+    "id": "5b_cie_17_habilidades_de_investigacion_cientifica_escolar",
+    "path": "ciencias_naturales/17_habilidades_de_investigacion_cientifica_escolar.md",
+    "title": "Habilidades de investigación científica escolar",
+    "axis": "Habilidades científicas transversales",
+    "oa": [
+      "CN05 OAH a-j"
+    ],
+    "subject": "Ciencias Naturales"
+  }
+]
