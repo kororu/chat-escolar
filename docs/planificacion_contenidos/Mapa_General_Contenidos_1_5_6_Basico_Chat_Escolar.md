@@ -290,6 +290,8 @@ Comprueba:
 
 ## 10. Orden recomendado de creación
 
+> **Estado de integración local:** los contenidos Markdown de 1°, 5° y 6° básico ya están incorporados y pueden consultarse con el lector local. Los cursos 2°, 3°, 4°, 7° y 8° básico están en preparación y no forman parte todavía de la cobertura disponible.
+
 ### Fase 1 — Fundamentos de alto uso
 
 1. 1° básico: alfabetización inicial y números hasta 20.

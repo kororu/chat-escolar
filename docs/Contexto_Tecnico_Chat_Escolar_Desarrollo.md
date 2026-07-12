@@ -357,17 +357,17 @@ Para un PC con 12 GB RAM se recomienda probar después modelos pequeños:
 - qwen2.5:3b;
 - gemma 3B/4B.
 
-### 14.4. Base de conocimiento local futura
+### 14.4. Base de conocimiento local
 
-Se crearán en otro chat archivos Markdown completos para:
+Ya están integrados archivos Markdown locales para:
 
 - 1° básico;
 - 5° básico;
 - 6° básico.
 
-Luego se integrarán en el proyecto.
+El lector Markdown y `GET /content/search` están funcionando. El tutor demo puede usar estos archivos como apoyo y señalar la fuente local en el frontend.
 
-Por ahora todavía no está implementado el lector de `.md`.
+Los cursos 2°, 3°, 4°, 7° y 8° básico están en preparación y no deben marcarse como disponibles hasta que sus contenidos se incorporen y verifiquen en el repositorio.
 
 ---
 
@@ -396,7 +396,7 @@ Después de videos curados, los siguientes pasos recomendados son:
 6. Probar instalación en otro PC.
 7. Crear primer ZIP local de prueba.
 8. Más adelante, integrar Ollama.
-9. Más adelante, integrar base de conocimiento `.md`.
+9. Ampliar la base Markdown a otros cursos cuando sus contenidos estén incorporados y verificados.
 
 ---
 

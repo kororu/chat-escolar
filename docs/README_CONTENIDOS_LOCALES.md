@@ -10,27 +10,32 @@ Los archivos se guardan en la carpeta `contenidos/` de la raíz del proyecto.
 
 ```text
 contenidos/
+├── primero_basico/
+│   ├── lenguaje/
+│   ├── matematica/
+│   ├── ciencias_naturales/
+│   └── historia_geografia/
 ├── quinto_basico/
 │   ├── lenguaje/
 │   ├── matematica/
 │   ├── ciencias_naturales/
 │   └── historia_geografia/
-├── sexto_basico/
-│   ├── lenguaje/
-│   ├── matematica/
-│   ├── ciencias_naturales/
-│   └── historia_geografia/
-└── primero_basico/          (pendiente)
+└── sexto_basico/
+    ├── lenguaje/
+    ├── matematica/
+    ├── ciencias_naturales/
+    └── historia_geografia/
 ```
 
 ## Cursos disponibles
 
 Actualmente la base local contiene materiales curriculares para:
 
+- 1° básico, en `contenidos/primero_basico/`.
 - 5° básico, en `contenidos/quinto_basico/`.
 - 6° básico, en `contenidos/sexto_basico/`.
 
-Los contenidos de 1° básico están pendientes o en preparación. El lector ya reconoce `contenidos/primero_basico/`, por lo que podrán agregarse más adelante sin cambiar el código.
+Los cursos 2°, 3°, 4°, 7° y 8° básico están en preparación y todavía no deben considerarse completamente integrados ni disponibles.
 
 ## Materias reconocidas
 
@@ -60,6 +65,36 @@ El backend convierte curso y materia a carpetas locales, elimina conectores y pa
 Las rutas son relativas a `contenidos/`; nunca se expone una ruta personal del equipo.
 
 ## Probar el endpoint
+
+### Pruebas para 1° básico
+
+Matemática y números:
+
+```text
+http://127.0.0.1:8000/content/search?course=1%C2%B0%20b%C3%A1sico&subject=Matem%C3%A1tica&q=numeros
+```
+
+Lenguaje y lectura:
+
+```text
+http://127.0.0.1:8000/content/search?course=1%C2%B0%20b%C3%A1sico&subject=Lenguaje&q=lectura
+```
+
+Ciencias Naturales y seres vivos:
+
+```text
+http://127.0.0.1:8000/content/search?course=1%C2%B0%20b%C3%A1sico&subject=Ciencias%20Naturales&q=seres%20vivos
+```
+
+Historia y comunidad:
+
+```text
+http://127.0.0.1:8000/content/search?course=1%C2%B0%20b%C3%A1sico&subject=Historia&q=comunidad
+```
+
+Estos cuatro ejemplos corresponden a temas presentes actualmente en las carpetas de 1° básico.
+
+### Pruebas para 5° básico
 
 Con el backend iniciado, puedes probar contenidos de 5° básico:
 
@@ -101,7 +136,18 @@ Historia y Chile:
 http://127.0.0.1:8000/content/search?course=6%C2%B0%20b%C3%A1sico&subject=Historia&q=chile
 ```
 
-### Preguntas sugeridas para probar en el frontend
+### Preguntas sugeridas para probar 1° básico en el frontend
+
+Selecciona un perfil de estudiante de `1° básico`, elige la materia correspondiente y prueba:
+
+- Matemática: “¿Qué son los números?”
+- Lenguaje: “¿Cómo reconozco una vocal?”
+- Ciencias Naturales: “¿Qué necesitan los seres vivos?”
+- Historia: “¿Qué es una comunidad?”
+
+La respuesta debe usar el contenido local cuando exista una coincidencia, mostrar el indicador **Respuesta apoyada en contenidos locales** y guardar la pregunta en el historial del perfil. La interfaz muestra solamente el título de la fuente, no su ruta técnica.
+
+### Preguntas sugeridas para probar 6° básico en el frontend
 
 Selecciona `6° básico`, elige la materia correspondiente y prueba:
 
@@ -112,14 +158,17 @@ Selecciona `6° básico`, elige la materia correspondiente y prueba:
 
 Cuando haya una coincidencia, el chat debe mostrar el indicador **Respuesta apoyada en contenidos locales** y el título de la fuente utilizada.
 
-## Agregar contenidos de 1° básico
+## Convención para cursos futuros
 
-1. Crea `contenidos/primero_basico/` cuando los materiales estén listos.
-2. Crea dentro las carpetas de materias necesarias.
-3. Agrega archivos `.md` originales siguiendo la convención de nombres.
-4. Prueba `/content/search` con el curso y materia correspondientes.
+Cuando los contenidos estén terminados e incorporados, las carpetas futuras podrán seguir esta convención:
 
-No es necesario cambiar código ni reiniciar el backend para agregar archivos dentro de las carpetas soportadas; cada búsqueda lee el contenido disponible en ese momento.
+- `contenidos/segundo_basico/`
+- `contenidos/tercero_basico/`
+- `contenidos/cuarto_basico/`
+- `contenidos/septimo_basico/`
+- `contenidos/octavo_basico/`
+
+Crear una carpeta no basta para declarar un curso disponible: primero debe contener materiales revisados y el lector debe reconocer su nombre. No es necesario reiniciar el backend al agregar archivos dentro de una carpeta ya soportada; cada búsqueda lee el contenido disponible en ese momento.
 
 ## Derechos de autor y calidad
 
