@@ -372,6 +372,7 @@ La búsqueda incluye normalización tolerante para conceptos educativos conocido
 Estados actuales de procedencia:
 
 - `local_verified`;
+- `local_related`;
 - `local_low_confidence`;
 - `demo_fallback`;
 - `clarification_required`;

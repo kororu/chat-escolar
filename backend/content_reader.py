@@ -6,6 +6,12 @@ from unicodedata import normalize
 CONTENT_ROOT = Path(__file__).resolve().parent.parent / "contenidos"
 MIN_RELEVANCE_SCORE = 24
 MAX_RESULTS = 3
+LOCAL_PROVENANCE_STATUSES = {
+    "local_verified",
+    "local_related",
+    "local_low_confidence",
+    "no_local_content",
+}
 
 COURSE_FOLDERS = {
     "1 basico": "primero_basico",
@@ -49,6 +55,16 @@ EDUCATIONAL_CONCEPTS = {
     "fracciones": {
         "aliases": {"fraccion", "fracciones"},
         "subject": "matematica",
+        "external": False,
+    },
+    "fotosintesis": {
+        "aliases": {"fotosintesis", "fotosintetico", "fotosintetica"},
+        "subject": "ciencias_naturales",
+        "external": False,
+    },
+    "sistema respiratorio": {
+        "aliases": {"sistema respiratorio", "respiratorio"},
+        "subject": "ciencias_naturales",
         "external": False,
     },
     "promedio aritmetico": {
@@ -96,6 +112,18 @@ EDUCATIONAL_CONCEPTS = {
         "subject": "modo_explorador",
         "external": True,
     },
+}
+
+RELATED_SECTION_HINTS = {
+    "conexion",
+    "conexiones",
+    "relacion",
+    "relaciones",
+    "relacionado",
+    "relacionados",
+    "tema relacionado",
+    "temas relacionados",
+    "glosario",
 }
 
 
@@ -263,6 +291,75 @@ def extract_headings(content: str) -> list[str]:
     ]
 
 
+def _is_related_section(heading: str) -> bool:
+    normalized_heading = normalize_text(heading)
+    return any(hint in normalized_heading for hint in RELATED_SECTION_HINTS)
+
+
+def extract_sections(content: str) -> list[dict]:
+    sections = []
+    current_heading = "Contenido principal"
+    current_lines = []
+
+    for line in content.splitlines():
+        heading_match = re.match(r"^#{1,6}\s+(.+)$", line)
+        if heading_match:
+            if current_lines:
+                sections.append(
+                    {"heading": current_heading, "text": "\n".join(current_lines)}
+                )
+            current_heading = heading_match.group(1).strip()
+            current_lines = []
+            continue
+        current_lines.append(line)
+
+    if current_lines:
+        sections.append({"heading": current_heading, "text": "\n".join(current_lines)})
+    return sections
+
+
+def find_related_section(content: str, keywords: list[str]) -> dict | None:
+    matches = []
+    for section in extract_sections(content):
+        normalized_heading = normalize_text(section["heading"])
+        normalized_text = normalize_text(section["text"])
+        if not any(keyword in normalized_text or keyword in normalized_heading for keyword in keywords):
+            continue
+        heading_match = any(keyword in normalized_heading for keyword in keywords)
+        matches.append(
+            {
+                "heading": section["heading"],
+                "text": section["text"],
+                "heading_match": heading_match,
+                "explicit_related_section": _is_related_section(section["heading"]),
+            }
+        )
+
+    if not matches:
+        return None
+
+    matches.sort(
+        key=lambda item: (
+            not item["explicit_related_section"],
+            item["heading_match"],
+        )
+    )
+    selected = matches[0]
+    heading = selected["heading"]
+    if selected["explicit_related_section"]:
+        reason = f"El tema aparece en la sección \"{heading}\" como conexión o relación con otro contenido."
+    elif selected["heading_match"]:
+        reason = f"El tema aparece como subtítulo en \"{heading}\", pero no alcanzó la confianza para usarlo como fuente principal."
+    else:
+        reason = f"El tema se menciona dentro de \"{heading}\", pero no es el foco principal del archivo."
+
+    return {
+        "section": heading,
+        "summary": reason,
+        "excerpt": make_excerpt(selected["text"], keywords, max_length=360),
+    }
+
+
 def clean_excerpt(value: str) -> str:
     value = re.sub(r"(?m)^#{1,6}\s*", "", value)
     value = re.sub(r"(?m)^[-*>]+\s*", "", value)
@@ -307,11 +404,14 @@ def _score_document(file_path: Path, raw_content: str, keywords: list[str]) -> d
     metadata = parse_front_matter(raw_content)
     title = extract_title(content, file_path.stem)
     headings = extract_headings(content)
+    direct_headings = [
+        heading for heading in headings if not _is_related_section(heading)
+    ]
     fields = {
         "filename": normalize_text(file_path.stem),
         "title": normalize_text(title),
         "topic": normalize_text(metadata["topic"]),
-        "headings": normalize_text(" ".join(headings)),
+        "headings": normalize_text(" ".join(direct_headings)),
         "explicit_keywords": normalize_text(" ".join(metadata["keywords"])),
         "body": normalize_text(content),
     }
@@ -339,6 +439,7 @@ def _score_document(file_path: Path, raw_content: str, keywords: list[str]) -> d
         "content": content,
         "score": score,
         "high_signal_matches": high_signal_matches,
+        "related_section": find_related_section(content, keywords),
     }
 
 
@@ -360,6 +461,7 @@ def retrieve_local_content(
     base_result = {
         "provenance_status": "demo_fallback",
         "results": [],
+        "related_results": [],
         "query_analysis": analysis,
         "minimum_score": minimum_score,
         "best_score": 0,
@@ -408,6 +510,7 @@ def retrieve_local_content(
                 "score": scored["score"],
                 "excerpt": make_excerpt(scored["content"], analysis["keywords"]),
                 "coherent": coherent,
+                "related_section": scored["related_section"],
             }
         )
 
@@ -436,12 +539,31 @@ def retrieve_local_content(
             "best_score": best_score,
         }
     if candidates:
+        related_candidates = [
+            {
+                "title": candidate["title"],
+                "path": candidate["path"],
+                "score": candidate["score"],
+                "section": candidate["related_section"]["section"],
+                "summary": candidate["related_section"]["summary"],
+                "excerpt": candidate["related_section"]["excerpt"],
+            }
+            for candidate in candidates
+            if candidate["related_section"]
+        ]
+        if possible_topic and not topic_config.get("external") and related_candidates:
+            return {
+                **base_result,
+                "provenance_status": "local_related",
+                "related_results": related_candidates[: max(1, min(limit, MAX_RESULTS))],
+                "best_score": best_score,
+            }
         return {
             **base_result,
             "provenance_status": "local_low_confidence",
             "best_score": best_score,
         }
-    return base_result
+    return {**base_result, "provenance_status": "no_local_content"}
 
 
 def search_local_content(

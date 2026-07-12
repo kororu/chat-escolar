@@ -71,8 +71,70 @@ class ContentRelevanceTests(unittest.TestCase):
             mode="Estudiar para el colegio",
             minimum_score=999,
         )
+        self.assertEqual(result["provenance_status"], "local_related")
+        self.assertEqual(result["results"], [])
+        self.assertEqual(result["query_analysis"]["possible_topic"], "habitat")
+
+    def test_low_confidence_is_separate_from_related_topic(self):
+        result = retrieve_local_content(
+            "5° básico",
+            "Ciencias Naturales",
+            "energia",
+            mode="Estudiar para el colegio",
+            minimum_score=999,
+        )
         self.assertEqual(result["provenance_status"], "local_low_confidence")
         self.assertEqual(result["results"], [])
+        self.assertIsNone(result["query_analysis"]["possible_topic"])
+
+    def test_without_candidates_reports_no_local_content(self):
+        result = retrieve_local_content(
+            "1° básico",
+            "Ciencias Naturales",
+            "casa",
+            mode="Estudiar para el colegio",
+        )
+        self.assertEqual(result["provenance_status"], "no_local_content")
+        self.assertEqual(result["best_score"], 0)
+        self.assertEqual(result["results"], [])
+
+    def test_fifth_grade_photosynthesis_is_related_not_verified(self):
+        result = retrieve_local_content(
+            "5° básico",
+            "Ciencias Naturales",
+            "que es la fotosintesis?",
+            mode="Estudiar para el colegio",
+        )
+        self.assertEqual(result["provenance_status"], "local_related")
+        self.assertEqual(result["results"], [])
+        self.assertTrue(result["related_results"])
+        related_title = normalize_text(result["related_results"][0]["title"])
+        self.assertIn("oceanos", related_title)
+        self.assertNotIn("respiratorio", related_title)
+        self.assertTrue(result["related_results"][0]["section"])
+        self.assertTrue(result["related_results"][0]["summary"])
+
+    def test_sixth_grade_photosynthesis_can_use_direct_source(self):
+        result = retrieve_local_content(
+            "6° básico",
+            "Ciencias Naturales",
+            "fotosíntesis de 6°",
+            mode="Estudiar para el colegio",
+        )
+        self.assertEqual(result["provenance_status"], "local_verified")
+        self.assertTrue(result["results"])
+        self.assertIn("fotosintesis", normalize_text(result["results"][0]["title"]))
+
+    def test_respiratory_system_still_uses_direct_source(self):
+        result = retrieve_local_content(
+            "5° básico",
+            "Ciencias Naturales",
+            "que es sistema respiratorio",
+            mode="Estudiar para el colegio",
+        )
+        self.assertEqual(result["provenance_status"], "local_verified")
+        self.assertTrue(result["results"])
+        self.assertIn("sistema respiratorio", normalize_text(result["results"][0]["title"]))
 
     def test_explorer_without_collection_does_not_search_curriculum(self):
         result = retrieve_local_content(
@@ -87,4 +149,3 @@ class ContentRelevanceTests(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
-

@@ -37,6 +37,7 @@ const backendLabels = {
 }
 
 const provenanceLabels = {
+  local_related: 'Tema relacionado encontrado: no es una fuente principal.',
   local_low_confidence: 'Coincidencia local de baja confianza: no se usó como fuente.',
   demo_fallback: 'Respuesta demo del tutor',
   clarification_required: 'Necesito una aclaración para buscar el tema correcto.',
@@ -488,6 +489,7 @@ function App() {
           summary: data.summary,
           usedLocalContent: data.used_local_content,
           contentSources: data.content_sources ?? [],
+          relatedSources: data.related_sources ?? [],
           provenanceStatus: data.provenance_status ?? 'demo_fallback',
           conversationContext: data.conversation_context,
         },
@@ -657,6 +659,11 @@ function App() {
                 {message.provenanceStatus && message.provenanceStatus !== 'local_verified' && (
                   <div className={`provenance-note ${message.provenanceStatus}`}>
                     {provenanceLabels[message.provenanceStatus] ?? 'Respuesta demo del tutor'}
+                    {message.provenanceStatus === 'local_related' && message.relatedSources?.length > 0 && (
+                      <small>
+                        Relacionado: {message.relatedSources[0].title} ({message.relatedSources[0].section})
+                      </small>
+                    )}
                   </div>
                 )}
                 {message.conversationContext?.used_context && (

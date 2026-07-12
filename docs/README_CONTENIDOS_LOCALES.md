@@ -100,14 +100,19 @@ No se buscan temas exploratorios indiscriminadamente dentro de contenidos curric
 
 ### Estados de procedencia
 
-- `local_verified`: fuente coherente que supera el umbral y se usa realmente.
-- `local_low_confidence`: hubo una coincidencia débil, pero no se usa como fuente.
-- `demo_fallback`: respuesta demo sin fuente local válida.
+El buscador separa explícitamente la relación con la base Markdown local:
+
+- `local_verified`: fuente local coherente que supera el umbral y se usa realmente.
+- `local_related`: existe un tema local reconocido y relacionado, pero aparece como conexión, mención secundaria o referencia sin explicación suficiente para usarlo como fuente principal.
+- `local_low_confidence`: hubo coincidencias débiles en la colección, pero sin un tema local reconocido con suficiente seguridad.
+- `no_local_content`: no existe una colección local aplicable o no hubo candidatos locales para la consulta.
 - `clarification_required`: la pregunta es demasiado ambigua y se pide precisar el tema.
-- `no_local_content`: no existe una colección local adecuada para el tema o modo.
+- `demo_fallback`: respuesta demo genérica sin búsqueda local válida.
 - `ollama_generated`: reservado para el futuro; todavía no está implementado.
 
-Solo `local_verified` permite mostrar **Respuesta apoyada en contenidos locales** y una fuente.
+Solo `local_verified` permite mostrar **Respuesta apoyada en contenidos locales** y una fuente. `local_related` puede devolver `related_results` con título, ruta relativa, sección y motivo de relación, pero esos datos no se tratan como fuente principal. `local_low_confidence` y `no_local_content` no exponen fuentes.
+
+Ejemplo: si en 5° básico se pregunta por fotosíntesis y solo aparece como “Fotosíntesis de 6°” en **Conexiones con otros temas**, el estado correcto es `local_related`, no `local_verified`. Si se pregunta por fotosíntesis en 6° básico y existe una unidad directa, puede ser `local_verified`.
 
 ## Probar el endpoint
 

@@ -42,6 +42,33 @@ class ChatProvenanceTests(unittest.TestCase):
         self.assertEqual(response["content_sources"], [])
         self.assertIn("colección exploratoria local", response["answer"])
 
+    def test_related_local_topic_is_not_presented_as_verified_source(self):
+        retrieval = {
+            "provenance_status": "local_related",
+            "results": [],
+            "related_results": [
+                {
+                    "title": "Océanos y lagos: luz, temperatura, presión y vida",
+                    "path": "quinto_basico/ciencias_naturales/14_oceanos_y_lagos_luz_temperatura_presion_y_vida.md",
+                    "section": "Conexiones con otros temas",
+                    "summary": "El tema aparece como conexión con otro contenido.",
+                    "excerpt": "Fotosíntesis de 6°.",
+                    "score": 2,
+                }
+            ],
+            "query_analysis": main.normalize_question("que es un habitat"),
+            "minimum_score": 24,
+            "best_score": 12,
+        }
+        with patch.object(main, "retrieve_local_content", return_value=retrieval):
+            response = self.ask("que es un habitat", course="1° básico")
+
+        self.assertEqual(response["provenance_status"], "local_related")
+        self.assertFalse(response["used_local_content"])
+        self.assertEqual(response["content_sources"], [])
+        self.assertTrue(response["related_sources"])
+        self.assertIn("relación cercana", response["answer"])
+
     def test_ambiguous_follow_up_requests_clarification(self):
         response = self.ask("cual fue el mas usado?")
         self.assertEqual(response["provenance_status"], "clarification_required")

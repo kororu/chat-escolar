@@ -678,11 +678,25 @@ select:focus-visible {
   background: var(--soft);
 }
 
-.provenance-note.local_low_confidence,
+.provenance-note.local_related,
 .provenance-note.clarification_required {
   background: #fff3d9;
   border-color: #efd38c;
   color: #765006;
+}
+
+.provenance-note small {
+  color: inherit;
+  display: block;
+  font-size: 0.74rem;
+  font-weight: 600;
+  margin-top: 5px;
+}
+
+.provenance-note.local_low_confidence {
+  background: #fff7ec;
+  border-color: #edcaa3;
+  color: #77511f;
 }
 
 .provenance-note.no_local_content {

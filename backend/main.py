@@ -251,6 +251,7 @@ def get_history_item(history_id: int) -> dict:
 def make_demo_answer(
     payload: ChatDemoRequest,
     local_content: dict | None = None,
+    related_content: dict | None = None,
     query_analysis: dict | None = None,
     provenance_status: str = "demo_fallback",
 ) -> dict[str, str]:
@@ -320,9 +321,9 @@ def make_demo_answer(
     else:
         answer = (
             "Explicacion corta:\n"
-            f"Esta es una respuesta demo para {payload.course}, en el modo {payload.mode}.\n\n"
+            "Todavia no tengo una explicacion completa sobre ese tema en los contenidos locales seleccionados.\n\n"
             "Ejemplo:\n"
-            f"Si estas estudiando {payload.subject}, podemos dividir el tema en partes pequenas.\n\n"
+            f"Si estas estudiando {payload.subject}, podemos partir por las palabras clave y revisar un paso a la vez.\n\n"
             "Mini resumen:\n"
             "Cuando un tema parece dificil, lo revisamos paso a paso.\n\n"
             "Pregunta de practica:\n"
@@ -369,6 +370,17 @@ def make_demo_answer(
         local_support = (
             "Encontré una coincidencia local débil, pero no la usaré como fuente "
             "porque podría no corresponder a tu pregunta.\n\n"
+        )
+    elif provenance_status == "local_related":
+        related_detail = ""
+        if related_content:
+            related_detail = (
+                f" Encontré una relación cercana en \"{related_content['title']}\" "
+                f"({related_content['section']}), pero no una fuente principal."
+            )
+        local_support = (
+            f"Todavía no tengo una explicación completa sobre ese tema en los contenidos locales de {payload.course}."
+            f"{related_detail} Podemos continuar con contenidos curriculares relacionados sin tratar esa mención como fuente verificada.\n\n"
         )
     elif provenance_status == "no_local_content":
         if "explor" in normalize_text(payload.mode):
@@ -550,6 +562,7 @@ def chat_demo(payload: ChatDemoRequest):
         retrieval = {
             "provenance_status": "clarification_required",
             "results": [],
+            "related_results": [],
             "query_analysis": conversation_context["query_analysis"],
             "minimum_score": None,
             "best_score": 0,
@@ -563,9 +576,11 @@ def chat_demo(payload: ChatDemoRequest):
         )
 
     local_results = retrieval["results"]
+    related_results = retrieval.get("related_results", [])
     demo_answer = make_demo_answer(
         payload,
         local_content=local_results[0] if local_results else None,
+        related_content=related_results[0] if related_results else None,
         query_analysis=retrieval["query_analysis"],
         provenance_status=retrieval["provenance_status"],
     )
@@ -589,6 +604,15 @@ def chat_demo(payload: ChatDemoRequest):
         "content_sources": [
             {"title": local_results[0]["title"], "path": local_results[0]["path"]}
         ] if local_results else [],
+        "related_sources": [
+            {
+                "title": item["title"],
+                "path": item["path"],
+                "section": item["section"],
+                "summary": item["summary"],
+            }
+            for item in related_results
+        ],
         "retrieval": {
             "minimum_score": retrieval["minimum_score"],
             "best_score": retrieval["best_score"],
