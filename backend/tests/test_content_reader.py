@@ -124,6 +124,34 @@ class ContentRelevanceTests(unittest.TestCase):
         self.assertEqual(result["provenance_status"], "local_verified")
         self.assertTrue(result["results"])
         self.assertIn("fotosintesis", normalize_text(result["results"][0]["title"]))
+        self.assertEqual(result["source_course"], "6° básico")
+        self.assertFalse(result["found_in_other_course"])
+
+    def test_global_search_can_find_photosynthesis_source(self):
+        result = retrieve_local_content(
+            "Todos los cursos",
+            "Ciencias Naturales",
+            "que es la fotosintesis?",
+            mode="Estudiar para el colegio",
+        )
+        self.assertEqual(result["provenance_status"], "local_verified")
+        self.assertEqual(result["effective_course"], "Todos los cursos")
+        self.assertEqual(result["source_course"], "6° básico")
+        self.assertFalse(result["found_in_other_course"])
+        self.assertIn("fotosintesis", normalize_text(result["results"][0]["title"]))
+
+    def test_explorer_mode_searches_global_local_content_before_fallback(self):
+        result = retrieve_local_content(
+            "5° básico",
+            "Ciencias Naturales",
+            "que es la fotosintesis?",
+            mode="Explorar mis intereses",
+        )
+        self.assertEqual(result["provenance_status"], "local_verified")
+        self.assertEqual(result["effective_course"], "5° básico")
+        self.assertEqual(result["source_course"], "6° básico")
+        self.assertTrue(result["found_in_other_course"])
+        self.assertIn("fotosintesis", normalize_text(result["results"][0]["title"]))
 
     def test_respiratory_system_still_uses_direct_source(self):
         result = retrieve_local_content(
@@ -135,6 +163,17 @@ class ContentRelevanceTests(unittest.TestCase):
         self.assertEqual(result["provenance_status"], "local_verified")
         self.assertTrue(result["results"])
         self.assertIn("sistema respiratorio", normalize_text(result["results"][0]["title"]))
+
+    def test_eighth_grade_linear_equations_use_direct_math_source(self):
+        result = retrieve_local_content(
+            "8° básico",
+            "Matemática",
+            "que es una ecuacion lineal",
+            mode="Estudiar para el colegio",
+        )
+        self.assertEqual(result["provenance_status"], "local_verified")
+        self.assertEqual(result["source_course"], "8° básico")
+        self.assertIn("ecuaciones lineales", normalize_text(result["results"][0]["title"]))
 
     def test_explorer_without_collection_does_not_search_curriculum(self):
         result = retrieve_local_content(

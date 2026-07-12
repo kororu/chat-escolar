@@ -501,6 +501,12 @@ select:focus-visible {
   font-size: 1.15rem;
 }
 
+.active-course-note {
+  color: var(--accent-strong);
+  font-size: 0.78rem;
+  font-weight: 700;
+}
+
 .messages {
   background:
     linear-gradient(rgba(255, 255, 255, 0.72), rgba(255, 255, 255, 0.72)),

@@ -30,15 +30,22 @@ class ConversationContextIntegrationTests(unittest.TestCase):
         self.assertEqual(response.status_code, 201)
         return response.json()["profile"]
 
-    def ask(self, profile, question, conversation_id="conversation-test"):
+    def ask(
+        self,
+        profile,
+        question,
+        conversation_id="conversation-test",
+        course=None,
+        mode="Explorar mis intereses",
+    ):
         response = self.client.post(
             "/chat/demo",
             json={
                 "profile_id": profile["id"],
                 "conversation_id": conversation_id,
-                "course": profile["course"],
+                "course": course or profile["course"],
                 "subject": "Ciencias Naturales",
-                "mode": "Explorar mis intereses",
+                "mode": mode,
                 "question": question,
             },
         )
@@ -109,6 +116,21 @@ class ConversationContextIntegrationTests(unittest.TestCase):
         self.assertEqual(response["provenance_status"], "clarification_required")
         self.assertFalse(response["conversation_context"]["used_context"])
         self.assertIn("¿Puedes decirme a qué tema", response["answer"])
+
+    def test_active_course_from_frontend_overrides_profile_course_for_search(self):
+        response = self.ask(
+            self.erik,
+            "que es la fotosintesis?",
+            course="6° básico",
+            mode="Estudiar para el colegio",
+        )
+        self.assertEqual(self.erik["course"], "5° básico")
+        self.assertEqual(response["active_course"], "6° básico")
+        self.assertEqual(response["profile_course"], "5° básico")
+        self.assertEqual(response["effective_course"], "6° básico")
+        self.assertEqual(response["source_course"], "6° básico")
+        self.assertEqual(response["provenance_status"], "local_verified")
+        self.assertFalse(response["found_in_other_course"])
 
 
 if __name__ == "__main__":

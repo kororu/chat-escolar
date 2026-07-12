@@ -3,7 +3,14 @@ from difflib import SequenceMatcher
 from pathlib import Path
 
 try:
-    from .educational_config import course_to_folder, is_explorer_mode, subject_to_folder
+    from .educational_config import (
+        COURSE_LABELS,
+        course_to_folder,
+        folder_to_course_label,
+        is_all_courses,
+        is_explorer_mode,
+        subject_to_folder,
+    )
     from .response_states import (
         CLARIFICATION_REQUIRED,
         DEMO_FALLBACK,
@@ -14,7 +21,14 @@ try:
     )
     from .text_utils import normalize_text
 except ImportError:
-    from educational_config import course_to_folder, is_explorer_mode, subject_to_folder
+    from educational_config import (
+        COURSE_LABELS,
+        course_to_folder,
+        folder_to_course_label,
+        is_all_courses,
+        is_explorer_mode,
+        subject_to_folder,
+    )
     from response_states import (
         CLARIFICATION_REQUIRED,
         DEMO_FALLBACK,
@@ -427,6 +441,172 @@ def _score_document(file_path: Path, raw_content: str, keywords: list[str]) -> d
     }
 
 
+def _make_base_result(analysis: dict, minimum_score: int) -> dict:
+    return {
+        "provenance_status": DEMO_FALLBACK,
+        "results": [],
+        "related_results": [],
+        "query_analysis": analysis,
+        "minimum_score": minimum_score,
+        "best_score": 0,
+        "effective_course": None,
+        "source_course": None,
+        "source_subject": None,
+        "found_in_other_course": False,
+        "searched_courses": [],
+    }
+
+
+def _candidate_from_file(
+    file_path: Path,
+    course_folder: str,
+    subject_folder: str,
+    keywords: list[str],
+) -> dict | None:
+    if not is_primary_content_file(file_path.relative_to(CONTENT_ROOT)):
+        return None
+    try:
+        raw_content = file_path.read_text(encoding="utf-8")
+    except (OSError, UnicodeError):
+        return None
+
+    scored = _score_document(file_path, raw_content, keywords)
+    if scored["score"] <= 0:
+        return None
+    try:
+        relative_path = file_path.relative_to(CONTENT_ROOT).as_posix()
+    except ValueError:
+        return None
+
+    return {
+        "title": scored["title"],
+        "path": relative_path,
+        "score": scored["score"],
+        "excerpt": make_excerpt(scored["content"], keywords),
+        "coherent": bool(scored["high_signal_matches"]),
+        "related_section": scored["related_section"],
+        "course": folder_to_course_label(course_folder),
+        "course_folder": course_folder,
+        "subject": subject_folder,
+    }
+
+
+def _collect_candidates(search_scopes: list[tuple[str, str]], keywords: list[str]) -> list[dict]:
+    candidates = []
+    for course_folder, subject_folder in search_scopes:
+        search_folder = CONTENT_ROOT / course_folder / subject_folder
+        if not search_folder.is_dir():
+            continue
+        for file_path in sorted(search_folder.rglob("*.md")):
+            candidate = _candidate_from_file(file_path, course_folder, subject_folder, keywords)
+            if candidate:
+                candidates.append(candidate)
+    return candidates
+
+
+def _rank_candidates(candidates: list[dict], preferred_course_folder: str | None = None) -> list[dict]:
+    return sorted(
+        candidates,
+        key=lambda item: (
+            -item["score"],
+            item["course_folder"] != preferred_course_folder if preferred_course_folder else False,
+            item["path"],
+        ),
+    )
+
+
+def _format_retrieval_result(
+    base_result: dict,
+    candidates: list[dict],
+    possible_topic: str | None,
+    topic_config: dict,
+    effective_course: str,
+    preferred_course_folder: str | None,
+    selected_subject: str,
+    limit: int,
+    minimum_score: int,
+) -> dict:
+    candidates = _rank_candidates(candidates, preferred_course_folder)
+    best_score = candidates[0]["score"] if candidates else 0
+    searched_courses = list(dict.fromkeys(candidate["course"] for candidate in candidates))
+    common_metadata = {
+        "best_score": best_score,
+        "effective_course": effective_course,
+        "searched_courses": searched_courses,
+    }
+
+    verified = []
+    seen_titles = set()
+    for candidate in candidates:
+        normalized_title = normalize_text(f"{candidate['course']} {candidate['title']}")
+        if (
+            not candidate["coherent"]
+            or candidate["score"] < minimum_score
+            or normalized_title in seen_titles
+        ):
+            continue
+        seen_titles.add(normalized_title)
+        verified.append({
+            key: candidate[key]
+            for key in ("title", "path", "score", "excerpt", "course", "subject")
+        })
+        if len(verified) >= max(1, min(limit, MAX_RESULTS)):
+            break
+
+    if verified:
+        source_course = verified[0]["course"]
+        found_in_other_course = effective_course != "Todos los cursos" and effective_course != source_course
+        return {
+            **base_result,
+            **common_metadata,
+            "provenance_status": LOCAL_VERIFIED,
+            "results": verified,
+            "source_course": source_course,
+            "source_subject": selected_subject,
+            "found_in_other_course": found_in_other_course,
+        }
+
+    if candidates:
+        related_candidates = [
+            {
+                "title": candidate["title"],
+                "path": candidate["path"],
+                "score": candidate["score"],
+                "section": candidate["related_section"]["section"],
+                "summary": candidate["related_section"]["summary"],
+                "excerpt": candidate["related_section"]["excerpt"],
+                "course": candidate["course"],
+                "subject": candidate["subject"],
+            }
+            for candidate in candidates
+            if candidate["related_section"]
+        ]
+        if possible_topic and not topic_config.get("external") and related_candidates:
+            source_course = related_candidates[0]["course"]
+            found_in_other_course = effective_course != "Todos los cursos" and effective_course != source_course
+            return {
+                **base_result,
+                **common_metadata,
+                "provenance_status": LOCAL_RELATED,
+                "related_results": related_candidates[: max(1, min(limit, MAX_RESULTS))],
+                "source_course": source_course,
+                "source_subject": selected_subject,
+                "found_in_other_course": found_in_other_course,
+            }
+        return {
+            **base_result,
+            **common_metadata,
+            "provenance_status": LOCAL_LOW_CONFIDENCE,
+        }
+
+    return {
+        **base_result,
+        "provenance_status": NO_LOCAL_CONTENT,
+        "effective_course": effective_course,
+        "source_subject": selected_subject,
+    }
+
+
 def retrieve_local_content(
     course: str,
     subject: str,
@@ -439,117 +619,61 @@ def retrieve_local_content(
     course_folder = course_to_folder(course)
     selected_subject = subject_to_folder(subject)
     explorer_mode = is_explorer_mode(mode)
+    global_search = is_all_courses(course)
     possible_topic = analysis["possible_topic"]
     topic_config = EDUCATIONAL_CONCEPTS.get(possible_topic or "", {})
 
-    base_result = {
-        "provenance_status": DEMO_FALLBACK,
-        "results": [],
-        "related_results": [],
-        "query_analysis": analysis,
-        "minimum_score": minimum_score,
-        "best_score": 0,
-    }
+    base_result = _make_base_result(analysis, minimum_score)
+    effective_course = "Todos los cursos" if global_search else folder_to_course_label(course_folder or "")
 
-    if not course_folder or not selected_subject:
-        return {**base_result, "provenance_status": NO_LOCAL_CONTENT}
+    if (not course_folder and not global_search) or not selected_subject:
+        return {
+            **base_result,
+            "provenance_status": NO_LOCAL_CONTENT,
+            "effective_course": effective_course,
+        }
     if not analysis["keywords"]:
-        return {**base_result, "provenance_status": CLARIFICATION_REQUIRED}
-
-    if explorer_mode:
-        search_folder = CONTENT_ROOT / course_folder / "modo_explorador"
-        if not search_folder.is_dir():
-            return {**base_result, "provenance_status": NO_LOCAL_CONTENT}
-    else:
-        if topic_config.get("external"):
-            return {**base_result, "provenance_status": NO_LOCAL_CONTENT}
-        possible_subject = analysis["possible_subject"]
-        if possible_subject and possible_subject != selected_subject:
-            return {**base_result, "provenance_status": CLARIFICATION_REQUIRED}
-        search_folder = CONTENT_ROOT / course_folder / selected_subject
-
-    if not search_folder.is_dir():
-        return {**base_result, "provenance_status": NO_LOCAL_CONTENT}
-
-    candidates = []
-    for file_path in sorted(search_folder.rglob("*.md")):
-        if not is_primary_content_file(file_path.relative_to(CONTENT_ROOT)):
-            continue
-        try:
-            raw_content = file_path.read_text(encoding="utf-8")
-        except (OSError, UnicodeError):
-            continue
-
-        scored = _score_document(file_path, raw_content, analysis["keywords"])
-        if scored["score"] <= 0:
-            continue
-        try:
-            relative_path = file_path.relative_to(CONTENT_ROOT).as_posix()
-        except ValueError:
-            continue
-
-        coherent = bool(scored["high_signal_matches"])
-        candidates.append(
-            {
-                "title": scored["title"],
-                "path": relative_path,
-                "score": scored["score"],
-                "excerpt": make_excerpt(scored["content"], analysis["keywords"]),
-                "coherent": coherent,
-                "related_section": scored["related_section"],
-            }
-        )
-
-    candidates.sort(key=lambda item: (-item["score"], item["path"]))
-    best_score = candidates[0]["score"] if candidates else 0
-    verified = []
-    seen_titles = set()
-    for candidate in candidates:
-        normalized_title = normalize_text(candidate["title"])
-        if (
-            not candidate["coherent"]
-            or candidate["score"] < minimum_score
-            or normalized_title in seen_titles
-        ):
-            continue
-        seen_titles.add(normalized_title)
-        verified.append({key: candidate[key] for key in ("title", "path", "score", "excerpt")})
-        if len(verified) >= max(1, min(limit, MAX_RESULTS)):
-            break
-
-    if verified:
         return {
             **base_result,
-            "provenance_status": LOCAL_VERIFIED,
-            "results": verified,
-            "best_score": best_score,
+            "provenance_status": CLARIFICATION_REQUIRED,
+            "effective_course": effective_course,
         }
-    if candidates:
-        related_candidates = [
-            {
-                "title": candidate["title"],
-                "path": candidate["path"],
-                "score": candidate["score"],
-                "section": candidate["related_section"]["section"],
-                "summary": candidate["related_section"]["summary"],
-                "excerpt": candidate["related_section"]["excerpt"],
-            }
-            for candidate in candidates
-            if candidate["related_section"]
+
+    if topic_config.get("external"):
+        return {
+            **base_result,
+            "provenance_status": NO_LOCAL_CONTENT,
+            "effective_course": effective_course,
+        }
+
+    possible_subject = analysis["possible_subject"]
+    if possible_subject and possible_subject != selected_subject:
+        return {
+            **base_result,
+            "provenance_status": CLARIFICATION_REQUIRED,
+            "effective_course": effective_course,
+        }
+
+    if global_search or explorer_mode:
+        search_scopes = [
+            (course_name, selected_subject)
+            for course_name in COURSE_LABELS
         ]
-        if possible_topic and not topic_config.get("external") and related_candidates:
-            return {
-                **base_result,
-                "provenance_status": LOCAL_RELATED,
-                "related_results": related_candidates[: max(1, min(limit, MAX_RESULTS))],
-                "best_score": best_score,
-            }
-        return {
-            **base_result,
-            "provenance_status": LOCAL_LOW_CONFIDENCE,
-            "best_score": best_score,
-        }
-    return {**base_result, "provenance_status": NO_LOCAL_CONTENT}
+    else:
+        search_scopes = [(course_folder, selected_subject)]
+
+    candidates = _collect_candidates(search_scopes, analysis["keywords"])
+    return _format_retrieval_result(
+        base_result,
+        candidates,
+        possible_topic,
+        topic_config,
+        effective_course,
+        course_folder,
+        selected_subject,
+        limit,
+        minimum_score,
+    )
 
 
 def search_local_content(

@@ -29,18 +29,20 @@ except ImportError:
     from demo_tutor import detect_topic, make_demo_answer
 
 try:
-    from .educational_config import PROFILE_COURSES
+    from .educational_config import ALL_COURSES_LABEL, PROFILE_COURSES, is_all_courses
 except ImportError:
-    from educational_config import PROFILE_COURSES
+    from educational_config import ALL_COURSES_LABEL, PROFILE_COURSES, is_all_courses
 
 try:
     from .response_states import (
         CLARIFICATION_REQUIRED,
+        LOCAL_VERIFIED,
         uses_verified_local_content,
     )
 except ImportError:
     from response_states import (
         CLARIFICATION_REQUIRED,
+        LOCAL_VERIFIED,
         uses_verified_local_content,
     )
 
@@ -397,11 +399,14 @@ def delete_profile(profile_id: int):
 
 @app.post("/chat/demo")
 def chat_demo(payload: ChatDemoRequest):
+    profile_course = None
     if payload.profile_id is not None:
         profile = get_profile_or_404(payload.profile_id)
         payload.user_name = profile["name"]
         payload.user_role = profile["role"]
-        payload.course = profile["course"]
+        profile_course = profile["course"]
+        if not (payload.course or "").strip():
+            payload.course = profile_course
 
     if payload.profile_id is not None and not payload.conversation_id:
         payload.conversation_id = f"profile-{payload.profile_id}-default"
@@ -428,6 +433,27 @@ def chat_demo(payload: ChatDemoRequest):
             conversation_context["contextual_question"],
             mode=payload.mode,
         )
+        if (
+            retrieval["provenance_status"] != LOCAL_VERIFIED
+            and not is_all_courses(payload.course)
+            and "explor" not in normalize_text(payload.mode or "")
+        ):
+            global_retrieval = retrieve_local_content(
+                ALL_COURSES_LABEL,
+                payload.subject,
+                conversation_context["contextual_question"],
+                mode=payload.mode,
+            )
+            if global_retrieval["provenance_status"] == LOCAL_VERIFIED:
+                retrieval = {
+                    **global_retrieval,
+                    "effective_course": payload.course,
+                    "global_fallback": True,
+                    "found_in_other_course": global_retrieval.get("source_course") != payload.course,
+                }
+
+    retrieval.setdefault("active_course", payload.course)
+    retrieval.setdefault("profile_course", profile_course)
 
     local_results = retrieval["results"]
     related_results = retrieval.get("related_results", [])
@@ -435,6 +461,7 @@ def chat_demo(payload: ChatDemoRequest):
         payload,
         retrieval,
         conversation_context,
+        profile_course=profile_course,
     )
     demo_answer = make_demo_answer(
         payload,
@@ -442,6 +469,8 @@ def chat_demo(payload: ChatDemoRequest):
         related_content=related_results[0] if related_results else None,
         query_analysis=retrieval["query_analysis"],
         provenance_status=retrieval["provenance_status"],
+        source_course=retrieval.get("source_course"),
+        found_in_other_course=retrieval.get("found_in_other_course", False),
     )
     history_id = save_history(payload, demo_answer, conversation_context)
 
@@ -451,6 +480,12 @@ def chat_demo(payload: ChatDemoRequest):
         "provenance_status": retrieval["provenance_status"],
         "provider": educational_context["provider"],
         "used_local_content": uses_verified_local_content(retrieval["provenance_status"]),
+        "active_course": payload.course,
+        "profile_course": profile_course,
+        "effective_course": retrieval.get("effective_course"),
+        "source_course": retrieval.get("source_course"),
+        "source_subject": retrieval.get("source_subject"),
+        "found_in_other_course": retrieval.get("found_in_other_course", False),
         "query_analysis": conversation_context["query_analysis"],
         "retrieval_query_analysis": retrieval["query_analysis"],
         "conversation_context": {
@@ -462,7 +497,12 @@ def chat_demo(payload: ChatDemoRequest):
             "used_context": conversation_context["used_context"],
         },
         "content_sources": [
-            {"title": local_results[0]["title"], "path": local_results[0]["path"]}
+            {
+                "title": local_results[0]["title"],
+                "path": local_results[0]["path"],
+                "course": local_results[0].get("course"),
+                "subject": local_results[0].get("subject"),
+            }
         ] if local_results else [],
         "related_sources": [
             {
@@ -470,12 +510,16 @@ def chat_demo(payload: ChatDemoRequest):
                 "path": item["path"],
                 "section": item["section"],
                 "summary": item["summary"],
+                "course": item.get("course"),
+                "subject": item.get("subject"),
             }
             for item in related_results
         ],
         "retrieval": {
             "minimum_score": retrieval["minimum_score"],
             "best_score": retrieval["best_score"],
+            "searched_courses": retrieval.get("searched_courses", []),
+            "global_fallback": retrieval.get("global_fallback", False),
         },
         "ai_context": educational_context,
     }

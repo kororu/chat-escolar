@@ -14,7 +14,9 @@ function createConversationId() {
   return `conversation-${Date.now()}-${Math.random().toString(16).slice(2)}`
 }
 
-const courses = ['1° básico', '2° básico', '3° básico', '4° básico', '5° básico', '6° básico', '7° básico', '8° básico']
+const profileCourses = ['1° básico', '2° básico', '3° básico', '4° básico', '5° básico', '6° básico', '7° básico', '8° básico']
+const ALL_COURSES = 'Todos los cursos'
+const studyCourses = [...profileCourses, ALL_COURSES]
 const roles = ['Estudiante', 'Apoderado', 'Docente']
 const modes = ['Estudiar para el colegio', 'Explorar mis intereses', 'Practicar', 'Ver videos']
 const subjects = ['Ciencias Naturales', 'Matemática', 'Lenguaje', 'Historia']
@@ -119,12 +121,18 @@ function SourceNotice({ message }) {
     return (
       <div className="local-content-note">
         <strong>Respuesta apoyada en contenidos locales</strong>
+        {message.foundInOtherCourse && message.sourceCourse && (
+          <small>Encontrado en otro curso: {message.sourceCourse}.</small>
+        )}
         {message.contentSources.length > 0 && (
           <div>
             <span>{message.contentSources.length === 1 ? 'Fuente local usada' : 'Fuentes locales usadas'}</span>
             <ul>
               {message.contentSources.map((source) => (
-                <li key={`${source.path}-${source.title}`}>{source.title}</li>
+                <li key={`${source.path}-${source.title}`}>
+                  {source.title}
+                  {source.course ? ` · ${source.course}` : ''}
+                </li>
               ))}
             </ul>
           </div>
@@ -141,6 +149,7 @@ function SourceNotice({ message }) {
       {message.provenanceStatus === 'local_related' && message.relatedSources?.length > 0 && (
         <small>
           Relacionado: {message.relatedSources[0].title} ({message.relatedSources[0].section})
+          {message.relatedSources[0].course ? ` · ${message.relatedSources[0].course}` : ''}
         </small>
       )}
     </div>
@@ -218,7 +227,7 @@ function ProfileScreen({ profiles, onCreate, onSelect, onDelete, backendStatus, 
           </select>
           <label htmlFor="profile-course">Curso asociado</label>
           <select id="profile-course" value={course} onChange={(event) => setCourse(event.target.value)}>
-            {courses.map((item) => <option key={item}>{item}</option>)}
+            {profileCourses.map((item) => <option key={item}>{item}</option>)}
           </select>
           {error && <p className="form-error">{error}</p>}
           <button className="primary-button" disabled={isSaving} type="submit">
@@ -347,6 +356,11 @@ function App() {
     ? videos.filter((video) => normalizeSearchText(video.topic) === videoTopic)
     : []
   const recommendedVideos = (topicVideos.length > 0 ? topicVideos : videos).slice(0, 4)
+  const courseStatusMessage = course === ALL_COURSES
+    ? 'Buscando en toda la base local.'
+    : activeProfile && course !== activeProfile.course
+      ? `Consultando ${course} para esta pregunta.`
+      : ''
 
   const activateProfile = useCallback(async (profile) => {
     const storageKey = conversationStorageKey(profile.id)
@@ -524,6 +538,9 @@ function App() {
           contentSources: data.content_sources ?? [],
           relatedSources: data.related_sources ?? [],
           provenanceStatus: data.provenance_status ?? 'demo_fallback',
+          effectiveCourse: data.effective_course,
+          sourceCourse: data.source_course,
+          foundInOtherCourse: data.found_in_other_course,
           conversationContext: data.conversation_context,
         },
       ])
@@ -659,14 +676,18 @@ function App() {
 
       <section className="workspace">
         <aside className="selectors" aria-label="Configuración del estudio">
-          <SelectionGroup title="Curso" options={courses} selected={course} onSelect={setCourse} />
+          <SelectionGroup title="Curso" options={studyCourses} selected={course} onSelect={setCourse} />
           <SelectionGroup title="Modo" options={modes} selected={mode} onSelect={setMode} />
           <SelectionGroup title="Materia" options={subjects} selected={subject} onSelect={setSubject} />
         </aside>
 
         <section className="chat-panel" aria-label="Chat simulado">
           <header className="chat-header">
-            <div><span>{course}</span><strong>{subject}</strong></div>
+            <div>
+              <span>{course}</span>
+              <strong>{subject}</strong>
+              {courseStatusMessage && <small className="active-course-note">{courseStatusMessage}</small>}
+            </div>
             <p>{mode}</p>
           </header>
           <div className="messages">

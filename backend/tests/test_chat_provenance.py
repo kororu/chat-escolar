@@ -26,6 +26,26 @@ class ChatProvenanceTests(unittest.TestCase):
         self.assertEqual(len(response["content_sources"]), 1)
         self.assertIn("hábitat", response["content_sources"][0]["title"].lower())
         self.assertIn("Un habitat es el lugar", response["answer"])
+        self.assertNotIn("Todavia no tengo una explicacion completa", response["answer"])
+        self.assertEqual(response["source_course"], "1° básico")
+
+    def test_global_verified_source_does_not_use_demo_contradiction(self):
+        response = self.ask("que es la fotosintesis?", course="Todos los cursos")
+        self.assertEqual(response["provenance_status"], "local_verified")
+        self.assertTrue(response["used_local_content"])
+        self.assertEqual(response["effective_course"], "Todos los cursos")
+        self.assertEqual(response["source_course"], "6° básico")
+        self.assertFalse(response["found_in_other_course"])
+        self.assertNotIn("Todavia no tengo una explicacion completa", response["answer"])
+
+    def test_school_mode_falls_back_to_verified_source_in_other_course(self):
+        response = self.ask("que es la fotosintesis?", course="5° básico")
+        self.assertEqual(response["provenance_status"], "local_verified")
+        self.assertEqual(response["effective_course"], "5° básico")
+        self.assertEqual(response["source_course"], "6° básico")
+        self.assertTrue(response["found_in_other_course"])
+        self.assertIn("fuente local verificada en 6° básico", response["answer"])
+        self.assertNotIn("Todavia no tengo una explicacion completa", response["answer"])
 
     def test_external_school_topic_is_transparent_fallback(self):
         response = self.ask("me gustaria saber de tanques de la segunda guerra")

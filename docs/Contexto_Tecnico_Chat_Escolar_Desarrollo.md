@@ -385,6 +385,12 @@ Estados actuales de procedencia:
 
 `POST /chat/demo` también devuelve `provider` y `ai_context`. Hoy los proveedores reales son `demo` y `local_content`; `ollama` queda reservado como `future_provider` con `ollama_enabled: false`. No hay cliente Ollama ni llamadas a `localhost:11434`.
 
+El curso asociado al perfil no debe sobrescribir el curso activo del selector. El perfil funciona como preferencia inicial o respaldo si el frontend no envía curso; después, `payload.course` representa la decisión activa del usuario. Esto permite que un perfil de 5° básico consulte 6° básico sin que `/chat/demo` vuelva silenciosamente al curso del perfil.
+
+El selector de estudio incorpora **Todos los cursos**. Cuando se usa esa opción, el buscador recorre la base Markdown curricular local por curso y materia, devuelve `effective_course: "Todos los cursos"` y marca el curso real de la fuente en `source_course`. Si en Modo Escolar no aparece una fuente verificada en el curso activo, el backend puede hacer una búsqueda global de respaldo y marcar `found_in_other_course` cuando la fuente pertenece a otro curso. En Modo Explorador se permite buscar globalmente en la base local antes de caer en una respuesta demo.
+
+Los metadatos relevantes para una futura capa Ollama son: `active_course`, `profile_course`, `effective_course`, `source_course`, `source_subject`, `provenance_status`, `used_local_content`, `content_sources`, `related_sources` y `retrieval.searched_courses`. Ollama sigue apagado; cuando se integre, deberá consumir primero estas fuentes locales y no inventar procedencia.
+
 ### 14.5. Contexto conversacional por perfil
 
 El tutor conserva una memoria local ligera por `profile_id` y `conversation_id`. Consulta como máximo seis interacciones de la misma conversación, con prioridad para el turno más reciente. Guarda por separado la pregunta original, la pregunta normalizada, la consulta contextual, el tema activo y la confianza de reconstrucción.
@@ -399,9 +405,9 @@ Ollama sigue reservado para una etapa futura. El orden previsto es: contenido lo
 
 La pantalla de selección solicita confirmación con el nombre exacto. Al eliminar el perfil activo, React limpia `localStorage` para el perfil activo y su conversación, borra el estado visual y vuelve al selector. Si no quedan perfiles, se muestra el formulario de creación.
 
-Los cursos 2°, 3°, 4°, 7° y 8° básico están en preparación y no deben marcarse como disponibles hasta que sus contenidos se incorporen y verifiquen en el repositorio.
+Los cursos sin contenidos verificados no deben presentarse como cubiertos para todos los temas. Si el selector activo no tiene fuente directa, la app puede mostrar una fuente verificada de otro curso, pero debe marcarla como tal.
 
-El Modo Escolar consulta exclusivamente contenido curricular del curso y materia. El Modo Explorador queda separado y, mientras no exista una colección local específica, informa que el contenido no está disponible y usa un respaldo demo transparente.
+El Modo Escolar consulta primero contenido curricular del curso y materia activos. El Modo Explorador usa la base local global antes de informar que no hay contenido local y entregar un respaldo demo transparente.
 
 ---
 
