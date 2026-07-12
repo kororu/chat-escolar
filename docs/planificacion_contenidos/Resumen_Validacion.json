@@ -1,0 +1,57 @@
+[
+  {
+    "curso": "2° básico",
+    "carpeta": "segundo_basico",
+    "capitulos": 98,
+    "archivos": 191,
+    "markdown": 186,
+    "fragmentos_rag": 1960,
+    "palabras_markdown": 293808,
+    "zip_individual": "Enciclopedia_2_Basico_Chat_Escolar_v1.zip",
+    "validacion_sin_errores": true
+  },
+  {
+    "curso": "3° básico",
+    "carpeta": "tercero_basico",
+    "capitulos": 98,
+    "archivos": 191,
+    "markdown": 186,
+    "fragmentos_rag": 1960,
+    "palabras_markdown": 292225,
+    "zip_individual": "Enciclopedia_3_Basico_Chat_Escolar_v1.zip",
+    "validacion_sin_errores": true
+  },
+  {
+    "curso": "4° básico",
+    "carpeta": "cuarto_basico",
+    "capitulos": 107,
+    "archivos": 200,
+    "markdown": 195,
+    "fragmentos_rag": 2140,
+    "palabras_markdown": 318153,
+    "zip_individual": "Enciclopedia_4_Basico_Chat_Escolar_v1.zip",
+    "validacion_sin_errores": true
+  },
+  {
+    "curso": "7° básico",
+    "carpeta": "septimo_basico",
+    "capitulos": 100,
+    "archivos": 193,
+    "markdown": 188,
+    "fragmentos_rag": 2002,
+    "palabras_markdown": 299571,
+    "zip_individual": "Enciclopedia_7_Basico_Chat_Escolar_v1.zip",
+    "validacion_sin_errores": true
+  },
+  {
+    "curso": "8° básico",
+    "carpeta": "octavo_basico",
+    "capitulos": 102,
+    "archivos": 195,
+    "markdown": 190,
+    "fragmentos_rag": 2046,
+    "palabras_markdown": 308555,
+    "zip_individual": "Enciclopedia_8_Basico_Chat_Escolar_v1.zip",
+    "validacion_sin_errores": true
+  }
+]

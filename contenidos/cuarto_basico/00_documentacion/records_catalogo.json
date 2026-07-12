@@ -1,0 +1,1072 @@
+[
+  {
+    "id": "4b_len_01_fluidez_en_textos_variados",
+    "curso": "cuarto_basico",
+    "asignatura": "Lenguaje y Comunicación",
+    "eje": "Lectura",
+    "tema": "Fluidez en textos variados",
+    "ruta": "lenguaje/4b_len_01_fluidez_en_textos_variados.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "4b_len_02_proposito_y_monitoreo_de_comprension",
+    "curso": "cuarto_basico",
+    "asignatura": "Lenguaje y Comunicación",
+    "eje": "Lectura",
+    "tema": "Propósito y monitoreo de comprensión",
+    "ruta": "lenguaje/4b_len_02_proposito_y_monitoreo_de_comprension.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "4b_len_03_idea_principal_detalles_y_resumen",
+    "curso": "cuarto_basico",
+    "asignatura": "Lenguaje y Comunicación",
+    "eje": "Lectura",
+    "tema": "Idea principal detalles y resumen",
+    "ruta": "lenguaje/4b_len_03_idea_principal_detalles_y_resumen.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "4b_len_04_estructura_de_narraciones",
+    "curso": "cuarto_basico",
+    "asignatura": "Lenguaje y Comunicación",
+    "eje": "Lectura",
+    "tema": "Estructura de narraciones",
+    "ruta": "lenguaje/4b_len_04_estructura_de_narraciones.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "4b_len_05_motivaciones_y_evolucion_de_personajes",
+    "curso": "cuarto_basico",
+    "asignatura": "Lenguaje y Comunicación",
+    "eje": "Lectura",
+    "tema": "Motivaciones y evolución de personajes",
+    "ruta": "lenguaje/4b_len_05_motivaciones_y_evolucion_de_personajes.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "4b_len_06_causa_consecuencia_y_secuencia",
+    "curso": "cuarto_basico",
+    "asignatura": "Lenguaje y Comunicación",
+    "eje": "Lectura",
+    "tema": "Causa consecuencia y secuencia",
+    "ruta": "lenguaje/4b_len_06_causa_consecuencia_y_secuencia.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "4b_len_07_inferencias_con_evidencia",
+    "curso": "cuarto_basico",
+    "asignatura": "Lenguaje y Comunicación",
+    "eje": "Lectura",
+    "tema": "Inferencias con evidencia",
+    "ruta": "lenguaje/4b_len_07_inferencias_con_evidencia.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "4b_len_08_comparacion_de_narraciones",
+    "curso": "cuarto_basico",
+    "asignatura": "Lenguaje y Comunicación",
+    "eje": "Lectura",
+    "tema": "Comparación de narraciones",
+    "ruta": "lenguaje/4b_len_08_comparacion_de_narraciones.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "4b_len_09_mitos_leyendas_y_tradiciones",
+    "curso": "cuarto_basico",
+    "asignatura": "Lenguaje y Comunicación",
+    "eje": "Lectura",
+    "tema": "Mitos leyendas y tradiciones",
+    "ruta": "lenguaje/4b_len_09_mitos_leyendas_y_tradiciones.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "4b_len_10_poesia_y_lenguaje_figurado",
+    "curso": "cuarto_basico",
+    "asignatura": "Lenguaje y Comunicación",
+    "eje": "Lectura",
+    "tema": "Poesía y lenguaje figurado",
+    "ruta": "lenguaje/4b_len_10_poesia_y_lenguaje_figurado.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "4b_len_11_ritmo_verso_estrofa_y_rima",
+    "curso": "cuarto_basico",
+    "asignatura": "Lenguaje y Comunicación",
+    "eje": "Lectura",
+    "tema": "Ritmo verso estrofa y rima",
+    "ruta": "lenguaje/4b_len_11_ritmo_verso_estrofa_y_rima.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "4b_len_12_textos_informativos_y_organizacion",
+    "curso": "cuarto_basico",
+    "asignatura": "Lenguaje y Comunicación",
+    "eje": "Lectura",
+    "tema": "Textos informativos y organización",
+    "ruta": "lenguaje/4b_len_12_textos_informativos_y_organizacion.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "4b_len_13_noticias_y_fuentes",
+    "curso": "cuarto_basico",
+    "asignatura": "Lenguaje y Comunicación",
+    "eje": "Lectura",
+    "tema": "Noticias y fuentes",
+    "ruta": "lenguaje/4b_len_13_noticias_y_fuentes.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "4b_len_14_biografias",
+    "curso": "cuarto_basico",
+    "asignatura": "Lenguaje y Comunicación",
+    "eje": "Lectura",
+    "tema": "Biografías",
+    "ruta": "lenguaje/4b_len_14_biografias.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "4b_len_15_instrucciones_y_precision",
+    "curso": "cuarto_basico",
+    "asignatura": "Lenguaje y Comunicación",
+    "eje": "Lectura",
+    "tema": "Instrucciones y precisión",
+    "ruta": "lenguaje/4b_len_15_instrucciones_y_precision.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "4b_len_16_recursos_graficos_y_multimodales",
+    "curso": "cuarto_basico",
+    "asignatura": "Lenguaje y Comunicación",
+    "eje": "Lectura",
+    "tema": "Recursos gráficos y multimodales",
+    "ruta": "lenguaje/4b_len_16_recursos_graficos_y_multimodales.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "4b_len_17_comparacion_y_evaluacion_de_fuentes",
+    "curso": "cuarto_basico",
+    "asignatura": "Lenguaje y Comunicación",
+    "eje": "Lectura",
+    "tema": "Comparación y evaluación de fuentes",
+    "ruta": "lenguaje/4b_len_17_comparacion_y_evaluacion_de_fuentes.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "4b_len_18_vocabulario_morfologico",
+    "curso": "cuarto_basico",
+    "asignatura": "Lenguaje y Comunicación",
+    "eje": "Lectura",
+    "tema": "Vocabulario morfológico",
+    "ruta": "lenguaje/4b_len_18_vocabulario_morfologico.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "4b_len_19_lectura_autonoma_y_comunidad_lectora",
+    "curso": "cuarto_basico",
+    "asignatura": "Lenguaje y Comunicación",
+    "eje": "Lectura",
+    "tema": "Lectura autónoma y comunidad lectora",
+    "ruta": "lenguaje/4b_len_19_lectura_autonoma_y_comunidad_lectora.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "4b_len_20_narracion_desarrollada",
+    "curso": "cuarto_basico",
+    "asignatura": "Lenguaje y Comunicación",
+    "eje": "Escritura",
+    "tema": "Narración desarrollada",
+    "ruta": "lenguaje/4b_len_20_narracion_desarrollada.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "4b_len_21_descripcion_y_seleccion_lexica",
+    "curso": "cuarto_basico",
+    "asignatura": "Lenguaje y Comunicación",
+    "eje": "Escritura",
+    "tema": "Descripción y selección léxica",
+    "ruta": "lenguaje/4b_len_21_descripcion_y_seleccion_lexica.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "4b_len_22_articulo_informativo_con_fuentes",
+    "curso": "cuarto_basico",
+    "asignatura": "Lenguaje y Comunicación",
+    "eje": "Escritura",
+    "tema": "Artículo informativo con fuentes",
+    "ruta": "lenguaje/4b_len_22_articulo_informativo_con_fuentes.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "4b_len_23_noticias_y_entrevistas",
+    "curso": "cuarto_basico",
+    "asignatura": "Lenguaje y Comunicación",
+    "eje": "Escritura",
+    "tema": "Noticias y entrevistas",
+    "ruta": "lenguaje/4b_len_23_noticias_y_entrevistas.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "4b_len_24_cartas_solicitudes_y_correos",
+    "curso": "cuarto_basico",
+    "asignatura": "Lenguaje y Comunicación",
+    "eje": "Escritura",
+    "tema": "Cartas solicitudes y correos",
+    "ruta": "lenguaje/4b_len_24_cartas_solicitudes_y_correos.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "4b_len_25_planificacion_segun_genero",
+    "curso": "cuarto_basico",
+    "asignatura": "Lenguaje y Comunicación",
+    "eje": "Escritura",
+    "tema": "Planificación según género",
+    "ruta": "lenguaje/4b_len_25_planificacion_segun_genero.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "4b_len_26_revision_de_coherencia_y_cohesion",
+    "curso": "cuarto_basico",
+    "asignatura": "Lenguaje y Comunicación",
+    "eje": "Escritura",
+    "tema": "Revisión de coherencia y cohesión",
+    "ruta": "lenguaje/4b_len_26_revision_de_coherencia_y_cohesion.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "4b_len_27_parrafos_y_conectores",
+    "curso": "cuarto_basico",
+    "asignatura": "Lenguaje y Comunicación",
+    "eje": "Escritura",
+    "tema": "Párrafos y conectores",
+    "ruta": "lenguaje/4b_len_27_parrafos_y_conectores.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "4b_len_28_verbos_y_tiempos",
+    "curso": "cuarto_basico",
+    "asignatura": "Lenguaje y Comunicación",
+    "eje": "Escritura",
+    "tema": "Verbos y tiempos",
+    "ruta": "lenguaje/4b_len_28_verbos_y_tiempos.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "4b_len_29_pronombres_y_correferencia",
+    "curso": "cuarto_basico",
+    "asignatura": "Lenguaje y Comunicación",
+    "eje": "Escritura",
+    "tema": "Pronombres y correferencia",
+    "ruta": "lenguaje/4b_len_29_pronombres_y_correferencia.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "4b_len_30_acentuacion_general",
+    "curso": "cuarto_basico",
+    "asignatura": "Lenguaje y Comunicación",
+    "eje": "Escritura",
+    "tema": "Acentuación general",
+    "ruta": "lenguaje/4b_len_30_acentuacion_general.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "4b_len_31_puntuacion_de_dialogos_y_explicaciones",
+    "curso": "cuarto_basico",
+    "asignatura": "Lenguaje y Comunicación",
+    "eje": "Escritura",
+    "tema": "Puntuación de diálogos y explicaciones",
+    "ruta": "lenguaje/4b_len_31_puntuacion_de_dialogos_y_explicaciones.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "4b_len_32_escucha_critica_inicial",
+    "curso": "cuarto_basico",
+    "asignatura": "Lenguaje y Comunicación",
+    "eje": "Comunicación oral",
+    "tema": "Escucha crítica inicial",
+    "ruta": "lenguaje/4b_len_32_escucha_critica_inicial.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "4b_len_33_conversacion_y_construccion_colectiva",
+    "curso": "cuarto_basico",
+    "asignatura": "Lenguaje y Comunicación",
+    "eje": "Comunicación oral",
+    "tema": "Conversación y construcción colectiva",
+    "ruta": "lenguaje/4b_len_33_conversacion_y_construccion_colectiva.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "4b_len_34_exposicion_con_apoyo_visual",
+    "curso": "cuarto_basico",
+    "asignatura": "Lenguaje y Comunicación",
+    "eje": "Comunicación oral",
+    "tema": "Exposición con apoyo visual",
+    "ruta": "lenguaje/4b_len_34_exposicion_con_apoyo_visual.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "4b_len_35_argumentacion_con_razones_y_ejemplos",
+    "curso": "cuarto_basico",
+    "asignatura": "Lenguaje y Comunicación",
+    "eje": "Comunicación oral",
+    "tema": "Argumentación con razones y ejemplos",
+    "ruta": "lenguaje/4b_len_35_argumentacion_con_razones_y_ejemplos.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "4b_len_36_dramatizacion_e_interpretacion",
+    "curso": "cuarto_basico",
+    "asignatura": "Lenguaje y Comunicación",
+    "eje": "Comunicación oral",
+    "tema": "Dramatización e interpretación",
+    "ruta": "lenguaje/4b_len_36_dramatizacion_e_interpretacion.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "4b_mat_01_numeros_hasta_100000",
+    "curso": "cuarto_basico",
+    "asignatura": "Matemática",
+    "eje": "Números y operaciones",
+    "tema": "Números hasta 100000",
+    "ruta": "matematica/4b_mat_01_numeros_hasta_100000.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "4b_mat_02_comparar_ordenar_y_aproximar",
+    "curso": "cuarto_basico",
+    "asignatura": "Matemática",
+    "eje": "Números y operaciones",
+    "tema": "Comparar ordenar y aproximar",
+    "ruta": "matematica/4b_mat_02_comparar_ordenar_y_aproximar.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "4b_mat_03_adicion_y_sustraccion_de_numeros_naturales",
+    "curso": "cuarto_basico",
+    "asignatura": "Matemática",
+    "eje": "Números y operaciones",
+    "tema": "Adición y sustracción de números naturales",
+    "ruta": "matematica/4b_mat_03_adicion_y_sustraccion_de_numeros_naturales.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "4b_mat_04_multiplicacion_por_una_y_dos_cifras",
+    "curso": "cuarto_basico",
+    "asignatura": "Matemática",
+    "eje": "Números y operaciones",
+    "tema": "Multiplicación por una y dos cifras",
+    "ruta": "matematica/4b_mat_04_multiplicacion_por_una_y_dos_cifras.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "4b_mat_05_division_con_dividendos_de_varias_cifras",
+    "curso": "cuarto_basico",
+    "asignatura": "Matemática",
+    "eje": "Números y operaciones",
+    "tema": "División con dividendos de varias cifras",
+    "ruta": "matematica/4b_mat_05_division_con_dividendos_de_varias_cifras.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "4b_mat_06_operaciones_combinadas_y_parentesis",
+    "curso": "cuarto_basico",
+    "asignatura": "Matemática",
+    "eje": "Números y operaciones",
+    "tema": "Operaciones combinadas y paréntesis",
+    "ruta": "matematica/4b_mat_06_operaciones_combinadas_y_parentesis.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "4b_mat_07_problemas_de_varios_pasos",
+    "curso": "cuarto_basico",
+    "asignatura": "Matemática",
+    "eje": "Números y operaciones",
+    "tema": "Problemas de varios pasos",
+    "ruta": "matematica/4b_mat_07_problemas_de_varios_pasos.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "4b_mat_08_factores_y_multiplos_iniciales",
+    "curso": "cuarto_basico",
+    "asignatura": "Matemática",
+    "eje": "Números y operaciones",
+    "tema": "Factores y múltiplos iniciales",
+    "ruta": "matematica/4b_mat_08_factores_y_multiplos_iniciales.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "4b_mat_09_fracciones_propias_y_equivalentes",
+    "curso": "cuarto_basico",
+    "asignatura": "Matemática",
+    "eje": "Números y operaciones",
+    "tema": "Fracciones propias y equivalentes",
+    "ruta": "matematica/4b_mat_09_fracciones_propias_y_equivalentes.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "4b_mat_10_comparacion_de_fracciones",
+    "curso": "cuarto_basico",
+    "asignatura": "Matemática",
+    "eje": "Números y operaciones",
+    "tema": "Comparación de fracciones",
+    "ruta": "matematica/4b_mat_10_comparacion_de_fracciones.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "4b_mat_11_adicion_y_sustraccion_de_fracciones_simples",
+    "curso": "cuarto_basico",
+    "asignatura": "Matemática",
+    "eje": "Números y operaciones",
+    "tema": "Adición y sustracción de fracciones simples",
+    "ruta": "matematica/4b_mat_11_adicion_y_sustraccion_de_fracciones_simples.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "4b_mat_12_numeros_decimales_hasta_centesimos",
+    "curso": "cuarto_basico",
+    "asignatura": "Matemática",
+    "eje": "Números y operaciones",
+    "tema": "Números decimales hasta centésimos",
+    "ruta": "matematica/4b_mat_12_numeros_decimales_hasta_centesimos.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "4b_mat_13_relacion_fraccion_decimal",
+    "curso": "cuarto_basico",
+    "asignatura": "Matemática",
+    "eje": "Números y operaciones",
+    "tema": "Relación fracción decimal",
+    "ruta": "matematica/4b_mat_13_relacion_fraccion_decimal.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "4b_mat_14_suma_y_resta_de_decimales",
+    "curso": "cuarto_basico",
+    "asignatura": "Matemática",
+    "eje": "Números y operaciones",
+    "tema": "Suma y resta de decimales",
+    "ruta": "matematica/4b_mat_14_suma_y_resta_de_decimales.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "4b_mat_15_secuencias_y_reglas",
+    "curso": "cuarto_basico",
+    "asignatura": "Matemática",
+    "eje": "Patrones y álgebra",
+    "tema": "Secuencias y reglas",
+    "ruta": "matematica/4b_mat_15_secuencias_y_reglas.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "4b_mat_16_ecuaciones_de_un_paso",
+    "curso": "cuarto_basico",
+    "asignatura": "Matemática",
+    "eje": "Patrones y álgebra",
+    "tema": "Ecuaciones de un paso",
+    "ruta": "matematica/4b_mat_16_ecuaciones_de_un_paso.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "4b_mat_17_inecuaciones_iniciales",
+    "curso": "cuarto_basico",
+    "asignatura": "Matemática",
+    "eje": "Patrones y álgebra",
+    "tema": "Inecuaciones iniciales",
+    "ruta": "matematica/4b_mat_17_inecuaciones_iniciales.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "4b_mat_18_angulos_y_transportador",
+    "curso": "cuarto_basico",
+    "asignatura": "Matemática",
+    "eje": "Geometría",
+    "tema": "Ángulos y transportador",
+    "ruta": "matematica/4b_mat_18_angulos_y_transportador.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "4b_mat_19_clasificacion_de_triangulos",
+    "curso": "cuarto_basico",
+    "asignatura": "Matemática",
+    "eje": "Geometría",
+    "tema": "Clasificación de triángulos",
+    "ruta": "matematica/4b_mat_19_clasificacion_de_triangulos.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "4b_mat_20_cuadrilateros_y_paralelismo",
+    "curso": "cuarto_basico",
+    "asignatura": "Matemática",
+    "eje": "Geometría",
+    "tema": "Cuadriláteros y paralelismo",
+    "ruta": "matematica/4b_mat_20_cuadrilateros_y_paralelismo.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "4b_mat_21_simetria_traslacion_reflexion_y_rotacion",
+    "curso": "cuarto_basico",
+    "asignatura": "Matemática",
+    "eje": "Geometría",
+    "tema": "Simetría traslación reflexión y rotación",
+    "ruta": "matematica/4b_mat_21_simetria_traslacion_reflexion_y_rotacion.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "4b_mat_22_coordenadas_en_primer_cuadrante",
+    "curso": "cuarto_basico",
+    "asignatura": "Matemática",
+    "eje": "Geometría",
+    "tema": "Coordenadas en primer cuadrante",
+    "ruta": "matematica/4b_mat_22_coordenadas_en_primer_cuadrante.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "4b_mat_23_perimetro_y_area_de_rectangulos",
+    "curso": "cuarto_basico",
+    "asignatura": "Matemática",
+    "eje": "Medición",
+    "tema": "Perímetro y área de rectángulos",
+    "ruta": "matematica/4b_mat_23_perimetro_y_area_de_rectangulos.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "4b_mat_24_area_con_unidades_cuadradas",
+    "curso": "cuarto_basico",
+    "asignatura": "Matemática",
+    "eje": "Medición",
+    "tema": "Área con unidades cuadradas",
+    "ruta": "matematica/4b_mat_24_area_con_unidades_cuadradas.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "4b_mat_25_volumen_inicial_con_cubos",
+    "curso": "cuarto_basico",
+    "asignatura": "Matemática",
+    "eje": "Medición",
+    "tema": "Volumen inicial con cubos",
+    "ruta": "matematica/4b_mat_25_volumen_inicial_con_cubos.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "4b_mat_26_tiempo_y_conversiones",
+    "curso": "cuarto_basico",
+    "asignatura": "Matemática",
+    "eje": "Medición",
+    "tema": "Tiempo y conversiones",
+    "ruta": "matematica/4b_mat_26_tiempo_y_conversiones.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "4b_mat_27_encuestas_tablas_y_graficos",
+    "curso": "cuarto_basico",
+    "asignatura": "Matemática",
+    "eje": "Datos y probabilidades",
+    "tema": "Encuestas tablas y gráficos",
+    "ruta": "matematica/4b_mat_27_encuestas_tablas_y_graficos.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "4b_mat_28_graficos_de_linea",
+    "curso": "cuarto_basico",
+    "asignatura": "Matemática",
+    "eje": "Datos y probabilidades",
+    "tema": "Gráficos de línea",
+    "ruta": "matematica/4b_mat_28_graficos_de_linea.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "4b_mat_29_promedio_inicial",
+    "curso": "cuarto_basico",
+    "asignatura": "Matemática",
+    "eje": "Datos y probabilidades",
+    "tema": "Promedio inicial",
+    "ruta": "matematica/4b_mat_29_promedio_inicial.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "4b_mat_30_probabilidad_cualitativa_y_experimental",
+    "curso": "cuarto_basico",
+    "asignatura": "Matemática",
+    "eje": "Datos y probabilidades",
+    "tema": "Probabilidad cualitativa y experimental",
+    "ruta": "matematica/4b_mat_30_probabilidad_cualitativa_y_experimental.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "4b_csn_01_ecosistemas_y_componentes",
+    "curso": "cuarto_basico",
+    "asignatura": "Ciencias Naturales",
+    "eje": "Ciencias de la Vida",
+    "tema": "Ecosistemas y componentes",
+    "ruta": "ciencias_naturales/4b_csn_01_ecosistemas_y_componentes.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "4b_csn_02_cadenas_alimentarias",
+    "curso": "cuarto_basico",
+    "asignatura": "Ciencias Naturales",
+    "eje": "Ciencias de la Vida",
+    "tema": "Cadenas alimentarias",
+    "ruta": "ciencias_naturales/4b_csn_02_cadenas_alimentarias.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "4b_csn_03_adaptaciones_de_seres_vivos",
+    "curso": "cuarto_basico",
+    "asignatura": "Ciencias Naturales",
+    "eje": "Ciencias de la Vida",
+    "tema": "Adaptaciones de seres vivos",
+    "ruta": "ciencias_naturales/4b_csn_03_adaptaciones_de_seres_vivos.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "4b_csn_04_impacto_humano_en_ecosistemas",
+    "curso": "cuarto_basico",
+    "asignatura": "Ciencias Naturales",
+    "eje": "Ciencias de la Vida",
+    "tema": "Impacto humano en ecosistemas",
+    "ruta": "ciencias_naturales/4b_csn_04_impacto_humano_en_ecosistemas.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "4b_csn_05_sistema_locomotor",
+    "curso": "cuarto_basico",
+    "asignatura": "Ciencias Naturales",
+    "eje": "Ciencias de la Vida",
+    "tema": "Sistema locomotor",
+    "ruta": "ciencias_naturales/4b_csn_05_sistema_locomotor.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "4b_csn_06_sistema_nervioso_y_sentidos",
+    "curso": "cuarto_basico",
+    "asignatura": "Ciencias Naturales",
+    "eje": "Ciencias de la Vida",
+    "tema": "Sistema nervioso y sentidos",
+    "ruta": "ciencias_naturales/4b_csn_06_sistema_nervioso_y_sentidos.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "4b_csn_07_habitos_y_salud_corporal",
+    "curso": "cuarto_basico",
+    "asignatura": "Ciencias Naturales",
+    "eje": "Ciencias de la Vida",
+    "tema": "Hábitos y salud corporal",
+    "ruta": "ciencias_naturales/4b_csn_07_habitos_y_salud_corporal.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "4b_csn_08_materia_y_propiedades",
+    "curso": "cuarto_basico",
+    "asignatura": "Ciencias Naturales",
+    "eje": "Ciencias Físicas y Químicas",
+    "tema": "Materia y propiedades",
+    "ruta": "ciencias_naturales/4b_csn_08_materia_y_propiedades.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "4b_csn_09_masa_volumen_y_temperatura",
+    "curso": "cuarto_basico",
+    "asignatura": "Ciencias Naturales",
+    "eje": "Ciencias Físicas y Químicas",
+    "tema": "Masa volumen y temperatura",
+    "ruta": "ciencias_naturales/4b_csn_09_masa_volumen_y_temperatura.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "4b_csn_10_estados_de_la_materia",
+    "curso": "cuarto_basico",
+    "asignatura": "Ciencias Naturales",
+    "eje": "Ciencias Físicas y Químicas",
+    "tema": "Estados de la materia",
+    "ruta": "ciencias_naturales/4b_csn_10_estados_de_la_materia.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "4b_csn_11_cambios_reversibles_e_irreversibles",
+    "curso": "cuarto_basico",
+    "asignatura": "Ciencias Naturales",
+    "eje": "Ciencias Físicas y Químicas",
+    "tema": "Cambios reversibles e irreversibles",
+    "ruta": "ciencias_naturales/4b_csn_11_cambios_reversibles_e_irreversibles.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "4b_csn_12_fuerzas_por_contacto_y_a_distancia",
+    "curso": "cuarto_basico",
+    "asignatura": "Ciencias Naturales",
+    "eje": "Ciencias Físicas y Químicas",
+    "tema": "Fuerzas por contacto y a distancia",
+    "ruta": "ciencias_naturales/4b_csn_12_fuerzas_por_contacto_y_a_distancia.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "4b_csn_13_friccion",
+    "curso": "cuarto_basico",
+    "asignatura": "Ciencias Naturales",
+    "eje": "Ciencias Físicas y Químicas",
+    "tema": "Fricción",
+    "ruta": "ciencias_naturales/4b_csn_13_friccion.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "4b_csn_14_capas_internas_y_externas_de_la_tierra",
+    "curso": "cuarto_basico",
+    "asignatura": "Ciencias Naturales",
+    "eje": "Ciencias de la Tierra y el Universo",
+    "tema": "Capas internas y externas de la Tierra",
+    "ruta": "ciencias_naturales/4b_csn_14_capas_internas_y_externas_de_la_tierra.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "4b_csn_15_rocas_minerales_y_suelo",
+    "curso": "cuarto_basico",
+    "asignatura": "Ciencias Naturales",
+    "eje": "Ciencias de la Tierra y el Universo",
+    "tema": "Rocas minerales y suelo",
+    "ruta": "ciencias_naturales/4b_csn_15_rocas_minerales_y_suelo.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "4b_csn_16_cambios_de_la_superficie_terrestre",
+    "curso": "cuarto_basico",
+    "asignatura": "Ciencias Naturales",
+    "eje": "Ciencias de la Tierra y el Universo",
+    "tema": "Cambios de la superficie terrestre",
+    "ruta": "ciencias_naturales/4b_csn_16_cambios_de_la_superficie_terrestre.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "4b_csn_17_sismos_volcanes_y_prevencion",
+    "curso": "cuarto_basico",
+    "asignatura": "Ciencias Naturales",
+    "eje": "Ciencias de la Tierra y el Universo",
+    "tema": "Sismos volcanes y prevención",
+    "ruta": "ciencias_naturales/4b_csn_17_sismos_volcanes_y_prevencion.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "4b_csn_18_investigacion_con_variables",
+    "curso": "cuarto_basico",
+    "asignatura": "Ciencias Naturales",
+    "eje": "Habilidades científicas",
+    "tema": "Investigación con variables",
+    "ruta": "ciencias_naturales/4b_csn_18_investigacion_con_variables.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "4b_csn_19_tablas_graficos_y_conclusiones",
+    "curso": "cuarto_basico",
+    "asignatura": "Ciencias Naturales",
+    "eje": "Habilidades científicas",
+    "tema": "Tablas gráficos y conclusiones",
+    "ruta": "ciencias_naturales/4b_csn_19_tablas_graficos_y_conclusiones.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "4b_his_01_civilizacion_maya_y_territorio",
+    "curso": "cuarto_basico",
+    "asignatura": "Historia, Geografía y Ciencias Sociales",
+    "eje": "Historia",
+    "tema": "Civilización maya y territorio",
+    "ruta": "historia_geografia/4b_his_01_civilizacion_maya_y_territorio.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "4b_his_02_sociedad_y_vida_maya",
+    "curso": "cuarto_basico",
+    "asignatura": "Historia, Geografía y Ciencias Sociales",
+    "eje": "Historia",
+    "tema": "Sociedad y vida maya",
+    "ruta": "historia_geografia/4b_his_02_sociedad_y_vida_maya.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "4b_his_03_conocimientos_y_legado_maya",
+    "curso": "cuarto_basico",
+    "asignatura": "Historia, Geografía y Ciencias Sociales",
+    "eje": "Historia",
+    "tema": "Conocimientos y legado maya",
+    "ruta": "historia_geografia/4b_his_03_conocimientos_y_legado_maya.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "4b_his_04_civilizacion_azteca_y_territorio",
+    "curso": "cuarto_basico",
+    "asignatura": "Historia, Geografía y Ciencias Sociales",
+    "eje": "Historia",
+    "tema": "Civilización azteca y territorio",
+    "ruta": "historia_geografia/4b_his_04_civilizacion_azteca_y_territorio.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "4b_his_05_organizacion_politica_y_economica_azteca",
+    "curso": "cuarto_basico",
+    "asignatura": "Historia, Geografía y Ciencias Sociales",
+    "eje": "Historia",
+    "tema": "Organización política y económica azteca",
+    "ruta": "historia_geografia/4b_his_05_organizacion_politica_y_economica_azteca.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "4b_his_06_cultura_y_legado_azteca",
+    "curso": "cuarto_basico",
+    "asignatura": "Historia, Geografía y Ciencias Sociales",
+    "eje": "Historia",
+    "tema": "Cultura y legado azteca",
+    "ruta": "historia_geografia/4b_his_06_cultura_y_legado_azteca.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "4b_his_07_civilizacion_inca_y_territorio",
+    "curso": "cuarto_basico",
+    "asignatura": "Historia, Geografía y Ciencias Sociales",
+    "eje": "Historia",
+    "tema": "Civilización inca y territorio",
+    "ruta": "historia_geografia/4b_his_07_civilizacion_inca_y_territorio.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "4b_his_08_organizacion_del_tawantinsuyu",
+    "curso": "cuarto_basico",
+    "asignatura": "Historia, Geografía y Ciencias Sociales",
+    "eje": "Historia",
+    "tema": "Organización del Tawantinsuyu",
+    "ruta": "historia_geografia/4b_his_08_organizacion_del_tawantinsuyu.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "4b_his_09_agricultura_ingenieria_y_caminos_incas",
+    "curso": "cuarto_basico",
+    "asignatura": "Historia, Geografía y Ciencias Sociales",
+    "eje": "Historia",
+    "tema": "Agricultura ingeniería y caminos incas",
+    "ruta": "historia_geografia/4b_his_09_agricultura_ingenieria_y_caminos_incas.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "4b_his_10_pueblos_originarios_en_chile_y_herencias",
+    "curso": "cuarto_basico",
+    "asignatura": "Historia, Geografía y Ciencias Sociales",
+    "eje": "Historia",
+    "tema": "Pueblos originarios en Chile y herencias",
+    "ruta": "historia_geografia/4b_his_10_pueblos_originarios_en_chile_y_herencias.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "4b_his_11_comparacion_mayas_aztecas_e_incas",
+    "curso": "cuarto_basico",
+    "asignatura": "Historia, Geografía y Ciencias Sociales",
+    "eje": "Historia",
+    "tema": "Comparación mayas aztecas e incas",
+    "ruta": "historia_geografia/4b_his_11_comparacion_mayas_aztecas_e_incas.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "4b_his_12_coordenadas_geograficas_iniciales",
+    "curso": "cuarto_basico",
+    "asignatura": "Historia, Geografía y Ciencias Sociales",
+    "eje": "Geografía",
+    "tema": "Coordenadas geográficas iniciales",
+    "ruta": "historia_geografia/4b_his_12_coordenadas_geograficas_iniciales.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "4b_his_13_regiones_naturales_de_america",
+    "curso": "cuarto_basico",
+    "asignatura": "Historia, Geografía y Ciencias Sociales",
+    "eje": "Geografía",
+    "tema": "Regiones naturales de América",
+    "ruta": "historia_geografia/4b_his_13_regiones_naturales_de_america.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "4b_his_14_recursos_y_actividades_economicas",
+    "curso": "cuarto_basico",
+    "asignatura": "Historia, Geografía y Ciencias Sociales",
+    "eje": "Geografía",
+    "tema": "Recursos y actividades económicas",
+    "ruta": "historia_geografia/4b_his_14_recursos_y_actividades_economicas.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "4b_his_15_riesgos_naturales_de_america",
+    "curso": "cuarto_basico",
+    "asignatura": "Historia, Geografía y Ciencias Sociales",
+    "eje": "Geografía",
+    "tema": "Riesgos naturales de América",
+    "ruta": "historia_geografia/4b_his_15_riesgos_naturales_de_america.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "4b_his_16_democracia_y_participacion",
+    "curso": "cuarto_basico",
+    "asignatura": "Historia, Geografía y Ciencias Sociales",
+    "eje": "Formación ciudadana",
+    "tema": "Democracia y participación",
+    "ruta": "historia_geografia/4b_his_16_democracia_y_participacion.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "4b_his_17_autoridades_e_instituciones_locales",
+    "curso": "cuarto_basico",
+    "asignatura": "Historia, Geografía y Ciencias Sociales",
+    "eje": "Formación ciudadana",
+    "tema": "Autoridades e instituciones locales",
+    "ruta": "historia_geografia/4b_his_17_autoridades_e_instituciones_locales.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "4b_his_18_derechos_de_ninos_y_ninas",
+    "curso": "cuarto_basico",
+    "asignatura": "Historia, Geografía y Ciencias Sociales",
+    "eje": "Formación ciudadana",
+    "tema": "Derechos de niños y niñas",
+    "ruta": "historia_geografia/4b_his_18_derechos_de_ninos_y_ninas.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "4b_his_19_deberes_y_actitudes_civicas",
+    "curso": "cuarto_basico",
+    "asignatura": "Historia, Geografía y Ciencias Sociales",
+    "eje": "Formación ciudadana",
+    "tema": "Deberes y actitudes cívicas",
+    "ruta": "historia_geografia/4b_his_19_deberes_y_actitudes_civicas.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "4b_his_20_diseno_de_proyectos_comunitarios",
+    "curso": "cuarto_basico",
+    "asignatura": "Historia, Geografía y Ciencias Sociales",
+    "eje": "Formación ciudadana",
+    "tema": "Diseño de proyectos comunitarios",
+    "ruta": "historia_geografia/4b_his_20_diseno_de_proyectos_comunitarios.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "4b_his_21_fuentes_y_perspectivas",
+    "curso": "cuarto_basico",
+    "asignatura": "Historia, Geografía y Ciencias Sociales",
+    "eje": "Habilidades históricas y geográficas",
+    "tema": "Fuentes y perspectivas",
+    "ruta": "historia_geografia/4b_his_21_fuentes_y_perspectivas.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "4b_his_22_causas_consecuencias_continuidad_y_cambio",
+    "curso": "cuarto_basico",
+    "asignatura": "Historia, Geografía y Ciencias Sociales",
+    "eje": "Habilidades históricas y geográficas",
+    "tema": "Causas consecuencias continuidad y cambio",
+    "ruta": "historia_geografia/4b_his_22_causas_consecuencias_continuidad_y_cambio.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  }
+]

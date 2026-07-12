@@ -1,0 +1,982 @@
+[
+  {
+    "id": "2b_len_01_conciencia_fonologica_avanzada",
+    "curso": "segundo_basico",
+    "asignatura": "Lenguaje y Comunicación",
+    "eje": "Lectura",
+    "tema": "Conciencia fonológica avanzada",
+    "ruta": "lenguaje/2b_len_01_conciencia_fonologica_avanzada.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "2b_len_02_diptongos_e_hiatos_iniciales",
+    "curso": "segundo_basico",
+    "asignatura": "Lenguaje y Comunicación",
+    "eje": "Lectura",
+    "tema": "Diptongos e hiatos iniciales",
+    "ruta": "lenguaje/2b_len_02_diptongos_e_hiatos_iniciales.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "2b_len_03_grupos_consonanticos",
+    "curso": "segundo_basico",
+    "asignatura": "Lenguaje y Comunicación",
+    "eje": "Lectura",
+    "tema": "Grupos consonánticos",
+    "ruta": "lenguaje/2b_len_03_grupos_consonanticos.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "2b_len_04_uso_de_ce_ci_y_que_qui",
+    "curso": "segundo_basico",
+    "asignatura": "Lenguaje y Comunicación",
+    "eje": "Lectura",
+    "tema": "Uso de ce ci y que qui",
+    "ruta": "lenguaje/2b_len_04_uso_de_ce_ci_y_que_qui.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "2b_len_05_uso_de_ge_gi_y_gue_gui",
+    "curso": "segundo_basico",
+    "asignatura": "Lenguaje y Comunicación",
+    "eje": "Lectura",
+    "tema": "Uso de ge gi y gue gui",
+    "ruta": "lenguaje/2b_len_05_uso_de_ge_gi_y_gue_gui.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "2b_len_06_uso_de_gue_y_gui",
+    "curso": "segundo_basico",
+    "asignatura": "Lenguaje y Comunicación",
+    "eje": "Lectura",
+    "tema": "Uso de güe y güi",
+    "ruta": "lenguaje/2b_len_06_uso_de_gue_y_gui.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "2b_len_07_fluidez_y_lectura_expresiva",
+    "curso": "segundo_basico",
+    "asignatura": "Lenguaje y Comunicación",
+    "eje": "Lectura",
+    "tema": "Fluidez y lectura expresiva",
+    "ruta": "lenguaje/2b_len_07_fluidez_y_lectura_expresiva.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "2b_len_08_activar_conocimientos_previos",
+    "curso": "segundo_basico",
+    "asignatura": "Lenguaje y Comunicación",
+    "eje": "Lectura",
+    "tema": "Activar conocimientos previos",
+    "ruta": "lenguaje/2b_len_08_activar_conocimientos_previos.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "2b_len_09_visualizar_mientras_se_lee",
+    "curso": "segundo_basico",
+    "asignatura": "Lenguaje y Comunicación",
+    "eje": "Lectura",
+    "tema": "Visualizar mientras se lee",
+    "ruta": "lenguaje/2b_len_09_visualizar_mientras_se_lee.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "2b_len_10_hacer_preguntas_al_texto",
+    "curso": "segundo_basico",
+    "asignatura": "Lenguaje y Comunicación",
+    "eje": "Lectura",
+    "tema": "Hacer preguntas al texto",
+    "ruta": "lenguaje/2b_len_10_hacer_preguntas_al_texto.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "2b_len_11_secuencia_de_acontecimientos",
+    "curso": "segundo_basico",
+    "asignatura": "Lenguaje y Comunicación",
+    "eje": "Lectura",
+    "tema": "Secuencia de acontecimientos",
+    "ruta": "lenguaje/2b_len_11_secuencia_de_acontecimientos.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "2b_len_12_personajes_y_acciones",
+    "curso": "segundo_basico",
+    "asignatura": "Lenguaje y Comunicación",
+    "eje": "Lectura",
+    "tema": "Personajes y acciones",
+    "ruta": "lenguaje/2b_len_12_personajes_y_acciones.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "2b_len_13_ambiente_de_una_narracion",
+    "curso": "segundo_basico",
+    "asignatura": "Lenguaje y Comunicación",
+    "eje": "Lectura",
+    "tema": "Ambiente de una narración",
+    "ruta": "lenguaje/2b_len_13_ambiente_de_una_narracion.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "2b_len_14_informacion_explicita",
+    "curso": "segundo_basico",
+    "asignatura": "Lenguaje y Comunicación",
+    "eje": "Lectura",
+    "tema": "Información explícita",
+    "ruta": "lenguaje/2b_len_14_informacion_explicita.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "2b_len_15_inferencias_sencillas",
+    "curso": "segundo_basico",
+    "asignatura": "Lenguaje y Comunicación",
+    "eje": "Lectura",
+    "tema": "Inferencias sencillas",
+    "ruta": "lenguaje/2b_len_15_inferencias_sencillas.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "2b_len_16_poemas_rimas_y_ritmo",
+    "curso": "segundo_basico",
+    "asignatura": "Lenguaje y Comunicación",
+    "eje": "Lectura",
+    "tema": "Poemas rimas y ritmo",
+    "ruta": "lenguaje/2b_len_16_poemas_rimas_y_ritmo.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "2b_len_17_fabulas_y_ensenanza",
+    "curso": "segundo_basico",
+    "asignatura": "Lenguaje y Comunicación",
+    "eje": "Lectura",
+    "tema": "Fábulas y enseñanza",
+    "ruta": "lenguaje/2b_len_17_fabulas_y_ensenanza.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "2b_len_18_textos_informativos_breves",
+    "curso": "segundo_basico",
+    "asignatura": "Lenguaje y Comunicación",
+    "eje": "Lectura",
+    "tema": "Textos informativos breves",
+    "ruta": "lenguaje/2b_len_18_textos_informativos_breves.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "2b_len_19_instrucciones_y_secuencias",
+    "curso": "segundo_basico",
+    "asignatura": "Lenguaje y Comunicación",
+    "eje": "Lectura",
+    "tema": "Instrucciones y secuencias",
+    "ruta": "lenguaje/2b_len_19_instrucciones_y_secuencias.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "2b_len_20_relacion_entre_texto_e_imagen",
+    "curso": "segundo_basico",
+    "asignatura": "Lenguaje y Comunicación",
+    "eje": "Lectura",
+    "tema": "Relación entre texto e imagen",
+    "ruta": "lenguaje/2b_len_20_relacion_entre_texto_e_imagen.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "2b_len_21_habito_lector_y_eleccion_de_libros",
+    "curso": "segundo_basico",
+    "asignatura": "Lenguaje y Comunicación",
+    "eje": "Lectura",
+    "tema": "Hábito lector y elección de libros",
+    "ruta": "lenguaje/2b_len_21_habito_lector_y_eleccion_de_libros.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "2b_len_22_busqueda_guiada_de_informacion",
+    "curso": "segundo_basico",
+    "asignatura": "Lenguaje y Comunicación",
+    "eje": "Lectura",
+    "tema": "Búsqueda guiada de información",
+    "ruta": "lenguaje/2b_len_22_busqueda_guiada_de_informacion.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "2b_len_23_vocabulario_por_contexto",
+    "curso": "segundo_basico",
+    "asignatura": "Lenguaje y Comunicación",
+    "eje": "Lectura",
+    "tema": "Vocabulario por contexto",
+    "ruta": "lenguaje/2b_len_23_vocabulario_por_contexto.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "2b_len_24_escritura_frecuente_con_proposito",
+    "curso": "segundo_basico",
+    "asignatura": "Lenguaje y Comunicación",
+    "eje": "Escritura",
+    "tema": "Escritura frecuente con propósito",
+    "ruta": "lenguaje/2b_len_24_escritura_frecuente_con_proposito.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "2b_len_25_narracion_con_inicio_desarrollo_y_final",
+    "curso": "segundo_basico",
+    "asignatura": "Lenguaje y Comunicación",
+    "eje": "Escritura",
+    "tema": "Narración con inicio desarrollo y final",
+    "ruta": "lenguaje/2b_len_25_narracion_con_inicio_desarrollo_y_final.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "2b_len_26_articulo_informativo_sencillo",
+    "curso": "segundo_basico",
+    "asignatura": "Lenguaje y Comunicación",
+    "eje": "Escritura",
+    "tema": "Artículo informativo sencillo",
+    "ruta": "lenguaje/2b_len_26_articulo_informativo_sencillo.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "2b_len_27_planificacion_antes_de_escribir",
+    "curso": "segundo_basico",
+    "asignatura": "Lenguaje y Comunicación",
+    "eje": "Escritura",
+    "tema": "Planificación antes de escribir",
+    "ruta": "lenguaje/2b_len_27_planificacion_antes_de_escribir.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "2b_len_28_revision_y_edicion_inicial",
+    "curso": "segundo_basico",
+    "asignatura": "Lenguaje y Comunicación",
+    "eje": "Escritura",
+    "tema": "Revisión y edición inicial",
+    "ruta": "lenguaje/2b_len_28_revision_y_edicion_inicial.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "2b_len_29_sustantivos_adjetivos_y_concordancia",
+    "curso": "segundo_basico",
+    "asignatura": "Lenguaje y Comunicación",
+    "eje": "Escritura",
+    "tema": "Sustantivos adjetivos y concordancia",
+    "ruta": "lenguaje/2b_len_29_sustantivos_adjetivos_y_concordancia.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "2b_len_30_articulos_y_genero_gramatical",
+    "curso": "segundo_basico",
+    "asignatura": "Lenguaje y Comunicación",
+    "eje": "Escritura",
+    "tema": "Artículos y género gramatical",
+    "ruta": "lenguaje/2b_len_30_articulos_y_genero_gramatical.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "2b_len_31_mayuscula_punto_y_signos",
+    "curso": "segundo_basico",
+    "asignatura": "Lenguaje y Comunicación",
+    "eje": "Escritura",
+    "tema": "Mayúscula punto y signos",
+    "ruta": "lenguaje/2b_len_31_mayuscula_punto_y_signos.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "2b_len_32_escucha_comprensiva",
+    "curso": "segundo_basico",
+    "asignatura": "Lenguaje y Comunicación",
+    "eje": "Comunicación oral",
+    "tema": "Escucha comprensiva",
+    "ruta": "lenguaje/2b_len_32_escucha_comprensiva.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "2b_len_33_conversacion_y_turnos",
+    "curso": "segundo_basico",
+    "asignatura": "Lenguaje y Comunicación",
+    "eje": "Comunicación oral",
+    "tema": "Conversación y turnos",
+    "ruta": "lenguaje/2b_len_33_conversacion_y_turnos.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "2b_len_34_relatar_experiencias_en_orden",
+    "curso": "segundo_basico",
+    "asignatura": "Lenguaje y Comunicación",
+    "eje": "Comunicación oral",
+    "tema": "Relatar experiencias en orden",
+    "ruta": "lenguaje/2b_len_34_relatar_experiencias_en_orden.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "2b_len_35_exposicion_breve",
+    "curso": "segundo_basico",
+    "asignatura": "Lenguaje y Comunicación",
+    "eje": "Comunicación oral",
+    "tema": "Exposición breve",
+    "ruta": "lenguaje/2b_len_35_exposicion_breve.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "2b_len_36_dramatizacion_y_roles",
+    "curso": "segundo_basico",
+    "asignatura": "Lenguaje y Comunicación",
+    "eje": "Comunicación oral",
+    "tema": "Dramatización y roles",
+    "ruta": "lenguaje/2b_len_36_dramatizacion_y_roles.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "2b_len_37_recitacion_y_expresion",
+    "curso": "segundo_basico",
+    "asignatura": "Lenguaje y Comunicación",
+    "eje": "Comunicación oral",
+    "tema": "Recitación y expresión",
+    "ruta": "lenguaje/2b_len_37_recitacion_y_expresion.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "2b_mat_01_conteo_hasta_1000",
+    "curso": "segundo_basico",
+    "asignatura": "Matemática",
+    "eje": "Números y operaciones",
+    "tema": "Conteo hasta 1000",
+    "ruta": "matematica/2b_mat_01_conteo_hasta_1000.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "2b_mat_02_lectura_y_representacion_hasta_100",
+    "curso": "segundo_basico",
+    "asignatura": "Matemática",
+    "eje": "Números y operaciones",
+    "tema": "Lectura y representación hasta 100",
+    "ruta": "matematica/2b_mat_02_lectura_y_representacion_hasta_100.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "2b_mat_03_comparacion_y_orden",
+    "curso": "segundo_basico",
+    "asignatura": "Matemática",
+    "eje": "Números y operaciones",
+    "tema": "Comparación y orden",
+    "ruta": "matematica/2b_mat_03_comparacion_y_orden.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "2b_mat_04_estimacion_de_cantidades",
+    "curso": "segundo_basico",
+    "asignatura": "Matemática",
+    "eje": "Números y operaciones",
+    "tema": "Estimación de cantidades",
+    "ruta": "matematica/2b_mat_04_estimacion_de_cantidades.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "2b_mat_05_composicion_y_descomposicion",
+    "curso": "segundo_basico",
+    "asignatura": "Matemática",
+    "eje": "Números y operaciones",
+    "tema": "Composición y descomposición",
+    "ruta": "matematica/2b_mat_05_composicion_y_descomposicion.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "2b_mat_06_unidades_decenas_y_centenas_iniciales",
+    "curso": "segundo_basico",
+    "asignatura": "Matemática",
+    "eje": "Números y operaciones",
+    "tema": "Unidades decenas y centenas iniciales",
+    "ruta": "matematica/2b_mat_06_unidades_decenas_y_centenas_iniciales.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "2b_mat_07_calculo_mental_aditivo",
+    "curso": "segundo_basico",
+    "asignatura": "Matemática",
+    "eje": "Números y operaciones",
+    "tema": "Cálculo mental aditivo",
+    "ruta": "matematica/2b_mat_07_calculo_mental_aditivo.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "2b_mat_08_adicion_hasta_100",
+    "curso": "segundo_basico",
+    "asignatura": "Matemática",
+    "eje": "Números y operaciones",
+    "tema": "Adición hasta 100",
+    "ruta": "matematica/2b_mat_08_adicion_hasta_100.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "2b_mat_09_sustraccion_hasta_100",
+    "curso": "segundo_basico",
+    "asignatura": "Matemática",
+    "eje": "Números y operaciones",
+    "tema": "Sustracción hasta 100",
+    "ruta": "matematica/2b_mat_09_sustraccion_hasta_100.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "2b_mat_10_familias_de_operaciones",
+    "curso": "segundo_basico",
+    "asignatura": "Matemática",
+    "eje": "Números y operaciones",
+    "tema": "Familias de operaciones",
+    "ruta": "matematica/2b_mat_10_familias_de_operaciones.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "2b_mat_11_problemas_aditivos",
+    "curso": "segundo_basico",
+    "asignatura": "Matemática",
+    "eje": "Números y operaciones",
+    "tema": "Problemas aditivos",
+    "ruta": "matematica/2b_mat_11_problemas_aditivos.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "2b_mat_12_multiplicacion_como_grupos_iguales",
+    "curso": "segundo_basico",
+    "asignatura": "Matemática",
+    "eje": "Números y operaciones",
+    "tema": "Multiplicación como grupos iguales",
+    "ruta": "matematica/2b_mat_12_multiplicacion_como_grupos_iguales.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "2b_mat_13_division_como_reparto_y_agrupacion",
+    "curso": "segundo_basico",
+    "asignatura": "Matemática",
+    "eje": "Números y operaciones",
+    "tema": "División como reparto y agrupación",
+    "ruta": "matematica/2b_mat_13_division_como_reparto_y_agrupacion.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "2b_mat_14_tablas_del_2_5_y_10",
+    "curso": "segundo_basico",
+    "asignatura": "Matemática",
+    "eje": "Números y operaciones",
+    "tema": "Tablas del 2 5 y 10",
+    "ruta": "matematica/2b_mat_14_tablas_del_2_5_y_10.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "2b_mat_15_patrones_numericos",
+    "curso": "segundo_basico",
+    "asignatura": "Matemática",
+    "eje": "Patrones y álgebra",
+    "tema": "Patrones numéricos",
+    "ruta": "matematica/2b_mat_15_patrones_numericos.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "2b_mat_16_igualdad_y_equilibrio",
+    "curso": "segundo_basico",
+    "asignatura": "Matemática",
+    "eje": "Patrones y álgebra",
+    "tema": "Igualdad y equilibrio",
+    "ruta": "matematica/2b_mat_16_igualdad_y_equilibrio.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "2b_mat_17_posicion_direccion_y_planos",
+    "curso": "segundo_basico",
+    "asignatura": "Matemática",
+    "eje": "Geometría",
+    "tema": "Posición dirección y planos",
+    "ruta": "matematica/2b_mat_17_posicion_direccion_y_planos.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "2b_mat_18_figuras_2d",
+    "curso": "segundo_basico",
+    "asignatura": "Matemática",
+    "eje": "Geometría",
+    "tema": "Figuras 2D",
+    "ruta": "matematica/2b_mat_18_figuras_2d.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "2b_mat_19_cuerpos_3d",
+    "curso": "segundo_basico",
+    "asignatura": "Matemática",
+    "eje": "Geometría",
+    "tema": "Cuerpos 3D",
+    "ruta": "matematica/2b_mat_19_cuerpos_3d.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "2b_mat_20_relacion_entre_figuras_y_cuerpos",
+    "curso": "segundo_basico",
+    "asignatura": "Matemática",
+    "eje": "Geometría",
+    "tema": "Relación entre figuras y cuerpos",
+    "ruta": "matematica/2b_mat_20_relacion_entre_figuras_y_cuerpos.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "2b_mat_21_calendario_y_duracion",
+    "curso": "segundo_basico",
+    "asignatura": "Matemática",
+    "eje": "Medición",
+    "tema": "Calendario y duración",
+    "ruta": "matematica/2b_mat_21_calendario_y_duracion.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "2b_mat_22_horas_y_medias_horas",
+    "curso": "segundo_basico",
+    "asignatura": "Matemática",
+    "eje": "Medición",
+    "tema": "Horas y medias horas",
+    "ruta": "matematica/2b_mat_22_horas_y_medias_horas.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "2b_mat_23_longitud_con_unidades_no_estandarizadas",
+    "curso": "segundo_basico",
+    "asignatura": "Matemática",
+    "eje": "Medición",
+    "tema": "Longitud con unidades no estandarizadas",
+    "ruta": "matematica/2b_mat_23_longitud_con_unidades_no_estandarizadas.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "2b_mat_24_pictogramas_con_escala_uno",
+    "curso": "segundo_basico",
+    "asignatura": "Matemática",
+    "eje": "Datos y probabilidades",
+    "tema": "Pictogramas con escala uno",
+    "ruta": "matematica/2b_mat_24_pictogramas_con_escala_uno.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "2b_mat_25_graficos_de_barras_simples",
+    "curso": "segundo_basico",
+    "asignatura": "Matemática",
+    "eje": "Datos y probabilidades",
+    "tema": "Gráficos de barras simples",
+    "ruta": "matematica/2b_mat_25_graficos_de_barras_simples.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "2b_mat_26_encuestas_y_tablas_de_conteo",
+    "curso": "segundo_basico",
+    "asignatura": "Matemática",
+    "eje": "Datos y probabilidades",
+    "tema": "Encuestas y tablas de conteo",
+    "ruta": "matematica/2b_mat_26_encuestas_y_tablas_de_conteo.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "2b_csn_01_animales_vertebrados_e_invertebrados",
+    "curso": "segundo_basico",
+    "asignatura": "Ciencias Naturales",
+    "eje": "Ciencias de la Vida",
+    "tema": "Animales vertebrados e invertebrados",
+    "ruta": "ciencias_naturales/2b_csn_01_animales_vertebrados_e_invertebrados.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "2b_csn_02_mamiferos_aves_reptiles_anfibios_y_peces",
+    "curso": "segundo_basico",
+    "asignatura": "Ciencias Naturales",
+    "eje": "Ciencias de la Vida",
+    "tema": "Mamíferos aves reptiles anfibios y peces",
+    "ruta": "ciencias_naturales/2b_csn_02_mamiferos_aves_reptiles_anfibios_y_peces.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "2b_csn_03_ciclos_de_vida",
+    "curso": "segundo_basico",
+    "asignatura": "Ciencias Naturales",
+    "eje": "Ciencias de la Vida",
+    "tema": "Ciclos de vida",
+    "ruta": "ciencias_naturales/2b_csn_03_ciclos_de_vida.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "2b_csn_04_habitats_y_necesidades",
+    "curso": "segundo_basico",
+    "asignatura": "Ciencias Naturales",
+    "eje": "Ciencias de la Vida",
+    "tema": "Hábitats y necesidades",
+    "ruta": "ciencias_naturales/2b_csn_04_habitats_y_necesidades.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "2b_csn_05_animales_nativos_y_conservacion",
+    "curso": "segundo_basico",
+    "asignatura": "Ciencias Naturales",
+    "eje": "Ciencias de la Vida",
+    "tema": "Animales nativos y conservación",
+    "ruta": "ciencias_naturales/2b_csn_05_animales_nativos_y_conservacion.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "2b_csn_06_organos_internos_principales",
+    "curso": "segundo_basico",
+    "asignatura": "Ciencias Naturales",
+    "eje": "Ciencias de la Vida",
+    "tema": "Órganos internos principales",
+    "ruta": "ciencias_naturales/2b_csn_06_organos_internos_principales.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "2b_csn_07_esqueleto_musculos_y_movimiento",
+    "curso": "segundo_basico",
+    "asignatura": "Ciencias Naturales",
+    "eje": "Ciencias de la Vida",
+    "tema": "Esqueleto músculos y movimiento",
+    "ruta": "ciencias_naturales/2b_csn_07_esqueleto_musculos_y_movimiento.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "2b_csn_08_actividad_fisica_y_salud",
+    "curso": "segundo_basico",
+    "asignatura": "Ciencias Naturales",
+    "eje": "Ciencias de la Vida",
+    "tema": "Actividad física y salud",
+    "ruta": "ciencias_naturales/2b_csn_08_actividad_fisica_y_salud.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "2b_csn_09_propiedades_del_agua",
+    "curso": "segundo_basico",
+    "asignatura": "Ciencias Naturales",
+    "eje": "Ciencias Físicas y Químicas",
+    "tema": "Propiedades del agua",
+    "ruta": "ciencias_naturales/2b_csn_09_propiedades_del_agua.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "2b_csn_10_estados_del_agua",
+    "curso": "segundo_basico",
+    "asignatura": "Ciencias Naturales",
+    "eje": "Ciencias Físicas y Químicas",
+    "tema": "Estados del agua",
+    "ruta": "ciencias_naturales/2b_csn_10_estados_del_agua.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "2b_csn_11_cambios_de_estado_del_agua",
+    "curso": "segundo_basico",
+    "asignatura": "Ciencias Naturales",
+    "eje": "Ciencias Físicas y Químicas",
+    "tema": "Cambios de estado del agua",
+    "ruta": "ciencias_naturales/2b_csn_11_cambios_de_estado_del_agua.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "2b_csn_12_ciclo_del_agua",
+    "curso": "segundo_basico",
+    "asignatura": "Ciencias Naturales",
+    "eje": "Ciencias de la Tierra y el Universo",
+    "tema": "Ciclo del agua",
+    "ruta": "ciencias_naturales/2b_csn_12_ciclo_del_agua.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "2b_csn_13_tiempo_atmosferico",
+    "curso": "segundo_basico",
+    "asignatura": "Ciencias Naturales",
+    "eje": "Ciencias de la Tierra y el Universo",
+    "tema": "Tiempo atmosférico",
+    "ruta": "ciencias_naturales/2b_csn_13_tiempo_atmosferico.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "2b_csn_14_instrumentos_meteorologicos",
+    "curso": "segundo_basico",
+    "asignatura": "Ciencias Naturales",
+    "eje": "Ciencias de la Tierra y el Universo",
+    "tema": "Instrumentos meteorológicos",
+    "ruta": "ciencias_naturales/2b_csn_14_instrumentos_meteorologicos.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "2b_csn_15_estaciones_y_cambios_del_entorno",
+    "curso": "segundo_basico",
+    "asignatura": "Ciencias Naturales",
+    "eje": "Ciencias de la Tierra y el Universo",
+    "tema": "Estaciones y cambios del entorno",
+    "ruta": "ciencias_naturales/2b_csn_15_estaciones_y_cambios_del_entorno.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "2b_csn_16_observar_comparar_y_comunicar",
+    "curso": "segundo_basico",
+    "asignatura": "Ciencias Naturales",
+    "eje": "Habilidades científicas",
+    "tema": "Observar comparar y comunicar",
+    "ruta": "ciencias_naturales/2b_csn_16_observar_comparar_y_comunicar.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "2b_his_01_mapas_planos_y_simbolos",
+    "curso": "segundo_basico",
+    "asignatura": "Historia, Geografía y Ciencias Sociales",
+    "eje": "Geografía",
+    "tema": "Mapas planos y símbolos",
+    "ruta": "historia_geografia/2b_his_01_mapas_planos_y_simbolos.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "2b_his_02_chile_en_america_del_sur",
+    "curso": "segundo_basico",
+    "asignatura": "Historia, Geografía y Ciencias Sociales",
+    "eje": "Geografía",
+    "tema": "Chile en América del Sur",
+    "ruta": "historia_geografia/2b_his_02_chile_en_america_del_sur.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "2b_his_03_oceano_cordillera_y_paises_vecinos",
+    "curso": "segundo_basico",
+    "asignatura": "Historia, Geografía y Ciencias Sociales",
+    "eje": "Geografía",
+    "tema": "Océano cordillera y países vecinos",
+    "ruta": "historia_geografia/2b_his_03_oceano_cordillera_y_paises_vecinos.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "2b_his_04_regiones_capital_y_localidad",
+    "curso": "segundo_basico",
+    "asignatura": "Historia, Geografía y Ciencias Sociales",
+    "eje": "Geografía",
+    "tema": "Regiones capital y localidad",
+    "ruta": "historia_geografia/2b_his_04_regiones_capital_y_localidad.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "2b_his_05_pueblos_originarios_de_chile",
+    "curso": "segundo_basico",
+    "asignatura": "Historia, Geografía y Ciencias Sociales",
+    "eje": "Historia",
+    "tema": "Pueblos originarios de Chile",
+    "ruta": "historia_geografia/2b_his_05_pueblos_originarios_de_chile.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "2b_his_06_pueblos_nomadas_y_sedentarios",
+    "curso": "segundo_basico",
+    "asignatura": "Historia, Geografía y Ciencias Sociales",
+    "eje": "Historia",
+    "tema": "Pueblos nómadas y sedentarios",
+    "ruta": "historia_geografia/2b_his_06_pueblos_nomadas_y_sedentarios.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "2b_his_07_vivienda_alimentacion_y_actividades",
+    "curso": "segundo_basico",
+    "asignatura": "Historia, Geografía y Ciencias Sociales",
+    "eje": "Historia",
+    "tema": "Vivienda alimentación y actividades",
+    "ruta": "historia_geografia/2b_his_07_vivienda_alimentacion_y_actividades.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "2b_his_08_lenguas_costumbres_y_tradiciones",
+    "curso": "segundo_basico",
+    "asignatura": "Historia, Geografía y Ciencias Sociales",
+    "eje": "Historia",
+    "tema": "Lenguas costumbres y tradiciones",
+    "ruta": "historia_geografia/2b_his_08_lenguas_costumbres_y_tradiciones.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "2b_his_09_aportes_de_inmigrantes",
+    "curso": "segundo_basico",
+    "asignatura": "Historia, Geografía y Ciencias Sociales",
+    "eje": "Historia",
+    "tema": "Aportes de inmigrantes",
+    "ruta": "historia_geografia/2b_his_09_aportes_de_inmigrantes.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "2b_his_10_mestizaje_e_identidad_cultural",
+    "curso": "segundo_basico",
+    "asignatura": "Historia, Geografía y Ciencias Sociales",
+    "eje": "Historia",
+    "tema": "Mestizaje e identidad cultural",
+    "ruta": "historia_geografia/2b_his_10_mestizaje_e_identidad_cultural.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "2b_his_11_patrimonio_natural_y_cultural",
+    "curso": "segundo_basico",
+    "asignatura": "Historia, Geografía y Ciencias Sociales",
+    "eje": "Historia",
+    "tema": "Patrimonio natural y cultural",
+    "ruta": "historia_geografia/2b_his_11_patrimonio_natural_y_cultural.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "2b_his_12_instituciones_de_la_comunidad",
+    "curso": "segundo_basico",
+    "asignatura": "Historia, Geografía y Ciencias Sociales",
+    "eje": "Formación ciudadana",
+    "tema": "Instituciones de la comunidad",
+    "ruta": "historia_geografia/2b_his_12_instituciones_de_la_comunidad.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "2b_his_13_trabajos_y_aportes",
+    "curso": "segundo_basico",
+    "asignatura": "Historia, Geografía y Ciencias Sociales",
+    "eje": "Formación ciudadana",
+    "tema": "Trabajos y aportes",
+    "ruta": "historia_geografia/2b_his_13_trabajos_y_aportes.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "2b_his_14_normas_y_convivencia",
+    "curso": "segundo_basico",
+    "asignatura": "Historia, Geografía y Ciencias Sociales",
+    "eje": "Formación ciudadana",
+    "tema": "Normas y convivencia",
+    "ruta": "historia_geografia/2b_his_14_normas_y_convivencia.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "2b_his_15_derechos_de_ninos_y_ninas",
+    "curso": "segundo_basico",
+    "asignatura": "Historia, Geografía y Ciencias Sociales",
+    "eje": "Formación ciudadana",
+    "tema": "Derechos de niños y niñas",
+    "ruta": "historia_geografia/2b_his_15_derechos_de_ninos_y_ninas.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "2b_his_16_responsabilidades_cotidianas",
+    "curso": "segundo_basico",
+    "asignatura": "Historia, Geografía y Ciencias Sociales",
+    "eje": "Formación ciudadana",
+    "tema": "Responsabilidades cotidianas",
+    "ruta": "historia_geografia/2b_his_16_responsabilidades_cotidianas.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "2b_his_17_seguridad_y_autocuidado",
+    "curso": "segundo_basico",
+    "asignatura": "Historia, Geografía y Ciencias Sociales",
+    "eje": "Formación ciudadana",
+    "tema": "Seguridad y autocuidado",
+    "ruta": "historia_geografia/2b_his_17_seguridad_y_autocuidado.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "2b_his_18_resolver_conflictos_de_manera_pacifica",
+    "curso": "segundo_basico",
+    "asignatura": "Historia, Geografía y Ciencias Sociales",
+    "eje": "Formación ciudadana",
+    "tema": "Resolver conflictos de manera pacífica",
+    "ruta": "historia_geografia/2b_his_18_resolver_conflictos_de_manera_pacifica.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  },
+  {
+    "id": "2b_his_19_fuentes_y_secuencia_temporal",
+    "curso": "segundo_basico",
+    "asignatura": "Historia, Geografía y Ciencias Sociales",
+    "eje": "Habilidades históricas y geográficas",
+    "tema": "Fuentes y secuencia temporal",
+    "ruta": "historia_geografia/2b_his_19_fuentes_y_secuencia_temporal.md",
+    "tipo": "contenido_curricular_original",
+    "fecha_verificacion": "2026-07-12"
+  }
+]

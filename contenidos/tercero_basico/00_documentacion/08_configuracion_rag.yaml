@@ -1,0 +1,20 @@
+version: 1
+curso: tercero_basico
+incluir:
+  - lenguaje/**/*.md
+  - matematica/**/*.md
+  - ciencias_naturales/**/*.md
+  - historia_geografia/**/*.md
+excluir:
+  - "**/00_indice_*.md"
+  - compendios/**
+  - evaluaciones/**
+  - bancos/**
+  - apoyo_inclusivo/**
+chunking:
+  objetivo_caracteres: 1100
+  solapamiento_caracteres: 150
+recuperacion:
+  top_k: 5
+  filtro_curso_obligatorio: true
+  reranking: true

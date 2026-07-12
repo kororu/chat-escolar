@@ -1,0 +1,972 @@
+[
+  {
+    "ruta": "00_documentacion/00_indice_maestro.md",
+    "bytes": 1105,
+    "sha256": "e011ef6dc3f13c23adf6ad0b632c10c99b6dd8e2ac79badd5d40c4b6ff6401db"
+  },
+  {
+    "ruta": "00_documentacion/01_estado_curricular_y_fuentes.md",
+    "bytes": 1484,
+    "sha256": "3bb77caa83b36e36154a638379351b9b08d8f98f3821b8785343887f52c81f31"
+  },
+  {
+    "ruta": "00_documentacion/02_mapa_oa_y_cobertura.md",
+    "bytes": 4337,
+    "sha256": "30f892cf95309ddef4c86caa3a5c90afdf55d4780c120c93881250fa6983a7f0"
+  },
+  {
+    "ruta": "00_documentacion/03_rutas_de_aprendizaje.md",
+    "bytes": 4011,
+    "sha256": "9abb679115da0cb6accfb4212ced746c9d456ebfbab18b0ebf327bfa395d09b1"
+  },
+  {
+    "ruta": "00_documentacion/04_guia_editorial_y_lectura_facil.md",
+    "bytes": 1034,
+    "sha256": "fb57e320219513096a117ae4718691afb719d49786d18823035d76fdec57b1a8"
+  },
+  {
+    "ruta": "00_documentacion/05_arquitectura_de_contenidos.md",
+    "bytes": 534,
+    "sha256": "fdf71c191336f086f853893977a82b9e77b3d331521a77bde8ba400bd2a7e03a"
+  },
+  {
+    "ruta": "00_documentacion/06_integracion_ollama_rag.md",
+    "bytes": 747,
+    "sha256": "4c75ec0c908ac84daf377fe68342d65cdb1d202cd7ae7d4cb542cb816502640c"
+  },
+  {
+    "ruta": "00_documentacion/07_prompt_sistema_ollama.md",
+    "bytes": 567,
+    "sha256": "a3c430a35dbe82494213b0b9e5038b07613c9895b535c278fffd99cdd2317e32"
+  },
+  {
+    "ruta": "00_documentacion/08_configuracion_rag.yaml",
+    "bytes": 400,
+    "sha256": "4ad6a6b2d540b7fbb08dbd662f3042ae76c998dc6299819989f4362d1feacce8"
+  },
+  {
+    "ruta": "00_documentacion/09_pruebas_de_recuperacion.md",
+    "bytes": 3806,
+    "sha256": "ef3a55eb396ea5ae0c0d2769dc10bd282febff787cddfa1c2b8de9be707cc155"
+  },
+  {
+    "ruta": "00_documentacion/10_control_de_calidad.md",
+    "bytes": 455,
+    "sha256": "ad3eee8593f54e41e53abfe91b69d32f2c3d8b05fc01553628bfe377d69e668b"
+  },
+  {
+    "ruta": "00_documentacion/11_plantilla_nuevo_tema.md",
+    "bytes": 793,
+    "sha256": "beb728f71c974af0a04bb45de5ad3ab563eedd87df078691a17bfcae59173ef9"
+  },
+  {
+    "ruta": "00_documentacion/12_integridad_y_mantenimiento.md",
+    "bytes": 463,
+    "sha256": "157559527cdd1dd563addd75bbe47401ad9a0e3a204d2085e892886463a08487"
+  },
+  {
+    "ruta": "00_documentacion/chunks_rag.jsonl",
+    "bytes": 1343520,
+    "sha256": "01517965e19e57a86727a6498fc2e5bd19f30320eb6be2437db60f8ad7f21bcf"
+  },
+  {
+    "ruta": "00_documentacion/indice_catalogo.jsonl",
+    "bytes": 34265,
+    "sha256": "957cbc854120bf2ca14f44482249b9465334ad0672aa3309bbea52828557f4d4"
+  },
+  {
+    "ruta": "00_documentacion/records_catalogo.json",
+    "bytes": 38246,
+    "sha256": "c5d750a5ca975eebee185edb6998f9003ccc83371b241afafb02e56b85649729"
+  },
+  {
+    "ruta": "CHANGELOG.md",
+    "bytes": 302,
+    "sha256": "4e1d2c35ebccfe2abe0380960cb48b4d2e8c4d76bd8ba1fac420512288be5ca3"
+  },
+  {
+    "ruta": "README.md",
+    "bytes": 2125,
+    "sha256": "41c6646fc580831285e82c389faa126dddc368acb31d19954a02d2cd1d6dd6ff"
+  },
+  {
+    "ruta": "apoyo_inclusivo/00_indice_apoyo.md",
+    "bytes": 426,
+    "sha256": "f4733b6c6cde206d69a72cf9576d2ff1ac5d9b897cb1dbbd01fe643c08093737"
+  },
+  {
+    "ruta": "apoyo_inclusivo/01_adaptaciones_tea.md",
+    "bytes": 569,
+    "sha256": "72299f4ae1e920b84134914c6eedaf12e14265c8ca30e856d876425dc7286e90"
+  },
+  {
+    "ruta": "apoyo_inclusivo/02_lectura_facil.md",
+    "bytes": 396,
+    "sha256": "f0be1626c6b879d65540e66e2edb9f7d0323188d3c7d3116d6112ec831a182f0"
+  },
+  {
+    "ruta": "apoyo_inclusivo/03_si_el_estudiante_se_bloquea.md",
+    "bytes": 366,
+    "sha256": "0c444cb379ca18bcea3950664336a698c2a98604b26200050b4c1cb40f9d7650"
+  },
+  {
+    "ruta": "apoyo_inclusivo/04_organizadores_visuales.md",
+    "bytes": 450,
+    "sha256": "73d495268736e548f32889760a3c5ec0fcccc57346a894f24606344832a05608"
+  },
+  {
+    "ruta": "apoyo_inclusivo/05_evaluacion_accesible.md",
+    "bytes": 468,
+    "sha256": "72821ba1bfcf8bb8b35dbc6e593e746393dbe20d1ae6139fc4c53219421318aa"
+  },
+  {
+    "ruta": "apoyo_inclusivo/06_privacidad_y_temas_sensibles.md",
+    "bytes": 437,
+    "sha256": "9629cd03a222f100af1c091db5e1081ab87ce8d2fce4c1a05fa8ef84758d20ed"
+  },
+  {
+    "ruta": "apoyo_inclusivo/07_guia_para_familias.md",
+    "bytes": 419,
+    "sha256": "efa582e1ab71f2756a77b07d44f25d74e9919c3a22ff5717d9198c2524a0714c"
+  },
+  {
+    "ruta": "bancos/00_indice_bancos.md",
+    "bytes": 1080,
+    "sha256": "714165b237fbc850056e30225c2b0f223f2f3a2a842a445ee5661d27874dc7b5"
+  },
+  {
+    "ruta": "bancos/banco_preguntas_ciencias_naturales.md",
+    "bytes": 13326,
+    "sha256": "500dfb2c171d82b85c144f2bd4995b297e1fbda61d7ba88b259eebde63b95bf6"
+  },
+  {
+    "ruta": "bancos/banco_preguntas_historia_geografia.md",
+    "bytes": 14319,
+    "sha256": "19347f72dc628b7721f39f0af1097c7fb9243a7136f22609e1521684e006ebf7"
+  },
+  {
+    "ruta": "bancos/banco_preguntas_lenguaje.md",
+    "bytes": 20632,
+    "sha256": "666f2e585ee6cfe1cd5b20191001022378c5d1a698ae8010b336347b5fdacca0"
+  },
+  {
+    "ruta": "bancos/banco_preguntas_matematica.md",
+    "bytes": 12391,
+    "sha256": "02eb22dfe842da620b12d3db4701c5932b12403fd8105299093b4a99bdca8236"
+  },
+  {
+    "ruta": "bancos/glosario_ciencias_naturales.md",
+    "bytes": 7170,
+    "sha256": "6ea851ed387d207254705ceb689238df9a10a7ac4e49aaae2562eb9814cfcbb5"
+  },
+  {
+    "ruta": "bancos/glosario_historia_geografia.md",
+    "bytes": 7910,
+    "sha256": "8b221e89ecda6b41d52d07a332133c76564446d8e9723ff78bc015b1e66657e6"
+  },
+  {
+    "ruta": "bancos/glosario_lenguaje.md",
+    "bytes": 10892,
+    "sha256": "4e58a48c38093b88000ece3ab8b96e7c37bac56f417e4eef67217eea4279520a"
+  },
+  {
+    "ruta": "bancos/glosario_matematica.md",
+    "bytes": 7390,
+    "sha256": "4d68af31d691cc8e8b8fef65ef9151fbbc656e83c3901f8595492897153a6b9e"
+  },
+  {
+    "ruta": "bancos/proyectos_interdisciplinarios.md",
+    "bytes": 739,
+    "sha256": "15cf46776669dd4211dc017cc150e76f137e7cf9f9455c9d2d3fef60ffce6d8e"
+  },
+  {
+    "ruta": "bancos/rubricas_reutilizables.md",
+    "bytes": 607,
+    "sha256": "89595822a4b0fee20b4d44ff1436c7745e1e56725db794fe18afb8fe6329ff48"
+  },
+  {
+    "ruta": "bancos/tarjetas_repaso_ciencias_naturales.md",
+    "bytes": 3705,
+    "sha256": "e71be295b809831508742e128ef8dc60295da8293929259a303e3667d980d7fb"
+  },
+  {
+    "ruta": "bancos/tarjetas_repaso_historia_geografia.md",
+    "bytes": 4230,
+    "sha256": "c2d421fb880a8fbe644b1acaf0864dddc5bb4bf3e17d90680806229865171d58"
+  },
+  {
+    "ruta": "bancos/tarjetas_repaso_lenguaje.md",
+    "bytes": 5832,
+    "sha256": "3ea7e9aa2ed00ef3e3ea11e5400c3339462926943aa06901d563f8d6142b92d0"
+  },
+  {
+    "ruta": "bancos/tarjetas_repaso_matematica.md",
+    "bytes": 3644,
+    "sha256": "2b65098efc4370cfcb7fc8de806cf344ca709eaa45b359cd027c916bd238eb80"
+  },
+  {
+    "ruta": "ciencias_naturales/00_indice_ciencias_naturales.md",
+    "bytes": 4149,
+    "sha256": "0785971260541e88e4a11686f0f3dea42860117426d0b67dbc50ef8b04c5353e"
+  },
+  {
+    "ruta": "ciencias_naturales/8b_csn_01_teoria_celular_y_diversidad_celular.md",
+    "bytes": 6789,
+    "sha256": "1efdbe7187a139ff41f5dbdbd18aabc150c57d76e3cd4b677478caf5b8c6b967"
+  },
+  {
+    "ruta": "ciencias_naturales/8b_csn_02_membrana_y_transporte_celular_inicial.md",
+    "bytes": 6696,
+    "sha256": "8871b202ffbb8331facd41eb31433454f3fdaf1b629b407c1913c4ce25edc1a4"
+  },
+  {
+    "ruta": "ciencias_naturales/8b_csn_03_nutricion_y_sistema_digestivo.md",
+    "bytes": 6694,
+    "sha256": "d21c69b882e5f10498936829397cf23af60621fe4cd50bd937dd7cf110a8da7f"
+  },
+  {
+    "ruta": "ciencias_naturales/8b_csn_04_sistema_circulatorio_y_respiratorio.md",
+    "bytes": 6635,
+    "sha256": "fd2bd7353b1a2ce6da9fe8adfad91cc3f82f6d5c9b6a5205a4ca183500f3cc75"
+  },
+  {
+    "ruta": "ciencias_naturales/8b_csn_05_sistema_excretor_y_equilibrio_interno.md",
+    "bytes": 6659,
+    "sha256": "ba10bcf603c83c455df778253d8be361615adc05d2277ff5f9496bd48479a1ff"
+  },
+  {
+    "ruta": "ciencias_naturales/8b_csn_06_habitos_y_enfermedades_no_transmisibles.md",
+    "bytes": 7117,
+    "sha256": "1602d7f2aa1bd71a04133a204cf609c75ca310de038c0828ccc2c393a5f1bb01"
+  },
+  {
+    "ruta": "ciencias_naturales/8b_csn_07_reproduccion_humana_y_desarrollo.md",
+    "bytes": 7055,
+    "sha256": "90b4550228730946263279c9f32750a09b73ce1da773896e5756d54f519b9391"
+  },
+  {
+    "ruta": "ciencias_naturales/8b_csn_08_afectividad_consentimiento_y_cuidado.md",
+    "bytes": 7086,
+    "sha256": "4a16490d3a4a15fdbb19c04d4e7400d78a4728248c15dbb8a2b00f490b1c9a01"
+  },
+  {
+    "ruta": "ciencias_naturales/8b_csn_09_evolucion_y_seleccion_natural_inicial.md",
+    "bytes": 6832,
+    "sha256": "bf83fc2e791012b12b43ff8869add5c6e299748ec4c35dfd784917bf39c9a728"
+  },
+  {
+    "ruta": "ciencias_naturales/8b_csn_10_biodiversidad_y_clasificacion.md",
+    "bytes": 6639,
+    "sha256": "ca8444e4a4c4ac94ac12a80719d9c627e5815e900fc130cdf3bb8b0d1e78b838"
+  },
+  {
+    "ruta": "ciencias_naturales/8b_csn_11_electricidad_carga_y_corriente.md",
+    "bytes": 6577,
+    "sha256": "4da49b78b351bd649c70b17d8a809e5fa6461d585bd9af77d8be27726ae19e70"
+  },
+  {
+    "ruta": "ciencias_naturales/8b_csn_12_circuitos_en_serie_y_paralelo.md",
+    "bytes": 6619,
+    "sha256": "34b3f51e0fcd462928ee0bdbafc399f3e2e88a34c5837c860415e08e127a3c4c"
+  },
+  {
+    "ruta": "ciencias_naturales/8b_csn_13_voltaje_resistencia_y_ley_de_ohm_cualitativa.md",
+    "bytes": 6632,
+    "sha256": "ccfdb14adb95531a04f40866dd9ea96cb52051fb5a3b0c4c18969514abd15862"
+  },
+  {
+    "ruta": "ciencias_naturales/8b_csn_14_potencia_y_consumo_electrico.md",
+    "bytes": 6458,
+    "sha256": "2f9ff1b73958495012b182c3d58c74bbc9574f68d40285445969de45a84eeedd"
+  },
+  {
+    "ruta": "ciencias_naturales/8b_csn_15_calor_y_cambios_termicos.md",
+    "bytes": 6452,
+    "sha256": "3ec15863e9b990b825ef05363fda85258eb6d612c285f4b4f4c81e904da908e3"
+  },
+  {
+    "ruta": "ciencias_naturales/8b_csn_16_ondas_electromagneticas_y_comunicacion.md",
+    "bytes": 6704,
+    "sha256": "269e8164f989c130de7893735a70bcf01be1aa0c19de762dc156172ae80e063a"
+  },
+  {
+    "ruta": "ciencias_naturales/8b_csn_17_atomo_elementos_y_tabla_periodica_inicial.md",
+    "bytes": 6727,
+    "sha256": "5fbc5197f4fd6145b3d1bc96e7b62c1b124b77809bf05a6758da1ad39f5f8906"
+  },
+  {
+    "ruta": "ciencias_naturales/8b_csn_18_moleculas_compuestos_y_formulas.md",
+    "bytes": 6712,
+    "sha256": "5dcbdf3a0f72a8c9a837bfec571ae933c0039e77de67486a278cefa595fbb6ca"
+  },
+  {
+    "ruta": "ciencias_naturales/8b_csn_19_cambios_fisicos_y_quimicos.md",
+    "bytes": 6699,
+    "sha256": "a36f577c1f1df2586ce87f28f0e5059bc85d1b09b4956e8271f083422aaaaf8e"
+  },
+  {
+    "ruta": "ciencias_naturales/8b_csn_20_reacciones_y_conservacion_de_la_masa.md",
+    "bytes": 6554,
+    "sha256": "7854399f7f88538d0c42795b44a3466506ec49e00186410574bba5f9eb9fd55c"
+  },
+  {
+    "ruta": "ciencias_naturales/8b_csn_21_acidos_bases_y_ph_inicial.md",
+    "bytes": 6478,
+    "sha256": "ff5801b24f3df2b331cd6718a48adc3ae5c2cd07b6211287a59c411b04709149"
+  },
+  {
+    "ruta": "ciencias_naturales/8b_csn_22_investigacion_analisis_y_comunicacion.md",
+    "bytes": 6916,
+    "sha256": "ccbf27cb71077d905e060ebaa019106afa6fc881c53c7b5ca7ab90c96626a52f"
+  },
+  {
+    "ruta": "compendios/00_indice_compendios.md",
+    "bytes": 308,
+    "sha256": "e0a884fbe4a4c7930d19802a79ca261087e733cf42b56129182aeea978df68ab"
+  },
+  {
+    "ruta": "compendios/compendio_ciencias_naturales.md",
+    "bytes": 147982,
+    "sha256": "fd8271f77326c10dc3e55655e7817508df53b23b57113b7e88d8588ab54cc437"
+  },
+  {
+    "ruta": "compendios/compendio_historia_geografia.md",
+    "bytes": 164436,
+    "sha256": "19fabe542b3b871e370e88250c04c20243e906a9fe53f8084d531f0abb11e638"
+  },
+  {
+    "ruta": "compendios/compendio_lenguaje.md",
+    "bytes": 232478,
+    "sha256": "61c2b947b2d558d657aa0afe6a17828a589b71af110904eba18d4971a9aa1593"
+  },
+  {
+    "ruta": "compendios/compendio_matematica.md",
+    "bytes": 146394,
+    "sha256": "44b6ce41d8eea5fc2980d37a1312fde24ce793fd77fee23f9595b9e95a188d2a"
+  },
+  {
+    "ruta": "compendios/enciclopedia_completa_8_basico.md",
+    "bytes": 691114,
+    "sha256": "1efed3c350678b1f57abaf0176e99720e3a4ab024954d16f5dd2dbb8ebe55c6e"
+  },
+  {
+    "ruta": "evaluaciones/00_indice_evaluaciones.md",
+    "bytes": 3051,
+    "sha256": "189a1b4fdf08a1f51260f336333e2dcb3585f854c626341b1e13a76278833c96"
+  },
+  {
+    "ruta": "evaluaciones/diagnostico_ciencias_naturales.md",
+    "bytes": 1384,
+    "sha256": "c6108cf4bd5251dbb7585e2d5c687b4d94675b0198f509352afcd2decb8df7c3"
+  },
+  {
+    "ruta": "evaluaciones/diagnostico_ciencias_naturales_respuestas.md",
+    "bytes": 1633,
+    "sha256": "4ecb7118b212d936024af73444d6f7a69a9b3c0b8797c4a6888c404594a9525c"
+  },
+  {
+    "ruta": "evaluaciones/diagnostico_historia_geografia.md",
+    "bytes": 1350,
+    "sha256": "dd3f11cd7dda23d4faa53c9c95b8fee908b2e51f4c1093702509f268b9c44761"
+  },
+  {
+    "ruta": "evaluaciones/diagnostico_historia_geografia_respuestas.md",
+    "bytes": 1675,
+    "sha256": "970daa5b78a3380f446e1d6b60ee333d398d3fc64a42747b81451f4cfb377022"
+  },
+  {
+    "ruta": "evaluaciones/diagnostico_lenguaje.md",
+    "bytes": 1307,
+    "sha256": "7831df8efff3e10223bf2894e6d3c0b90ded6d7b049d8722145141a8673e9698"
+  },
+  {
+    "ruta": "evaluaciones/diagnostico_lenguaje_respuestas.md",
+    "bytes": 1626,
+    "sha256": "8232449c049ffff4e5ce3c3ba28dac7e761aca611edfaa50e006d49aeffaeee8"
+  },
+  {
+    "ruta": "evaluaciones/diagnostico_matematica.md",
+    "bytes": 1383,
+    "sha256": "2d3fef4a432161a159bb7ae4f2c46b2f5b4dd0ee3bd0c174ab3ea16d8b86f2b3"
+  },
+  {
+    "ruta": "evaluaciones/diagnostico_matematica_respuestas.md",
+    "bytes": 1544,
+    "sha256": "adcf34bd15f300f0137005847010f98af2b91e0599275c9f2fdbc3980fb5785f"
+  },
+  {
+    "ruta": "evaluaciones/repaso_1_ciencias_naturales.md",
+    "bytes": 660,
+    "sha256": "87934339df7fd3ed0e233a4f2c089321ece2a1373864f0a4e84eec7970da2209"
+  },
+  {
+    "ruta": "evaluaciones/repaso_1_ciencias_naturales_respuestas.md",
+    "bytes": 819,
+    "sha256": "6a74b1a7f21726691c7e98efae1279aeb6810d3c36aa1895c46aaa774287ca0b"
+  },
+  {
+    "ruta": "evaluaciones/repaso_1_historia_geografia.md",
+    "bytes": 532,
+    "sha256": "b7e7f9fe0632bb4421fa4da78fccd5b2a63e74ca297d94f228e3f70ceca6e262"
+  },
+  {
+    "ruta": "evaluaciones/repaso_1_historia_geografia_respuestas.md",
+    "bytes": 823,
+    "sha256": "9578322b907610fd3de57cdd2f0f4be262b6d6455a3293e431f82fb1a0f566b0"
+  },
+  {
+    "ruta": "evaluaciones/repaso_1_lenguaje.md",
+    "bytes": 657,
+    "sha256": "dab833f68ada0124858b81c9a010791188cfb6629e61a7db63393fd757a83738"
+  },
+  {
+    "ruta": "evaluaciones/repaso_1_lenguaje_respuestas.md",
+    "bytes": 1072,
+    "sha256": "16bee70466656c573c109db9c5bf2ec693a3fa70fc9192a750b63a2c450699c9"
+  },
+  {
+    "ruta": "evaluaciones/repaso_1_matematica.md",
+    "bytes": 440,
+    "sha256": "7ffd1d676aeecd878c77c0c5b17feaafbd3b04965710bbde617908b3d351806c"
+  },
+  {
+    "ruta": "evaluaciones/repaso_1_matematica_respuestas.md",
+    "bytes": 785,
+    "sha256": "bb8211ee8bfe5352c5c0a3797cedd6c6f0f4f312d82912bd5a433c539aeca90a"
+  },
+  {
+    "ruta": "evaluaciones/repaso_2_ciencias_naturales.md",
+    "bytes": 644,
+    "sha256": "1542faa55022b143219aec61a44bd6d4ab57085961e9c23ddcdec3fa96066c0b"
+  },
+  {
+    "ruta": "evaluaciones/repaso_2_ciencias_naturales_respuestas.md",
+    "bytes": 803,
+    "sha256": "050ea3c62ad8ae5648b5fdf1dc166ab3a033bcfc21b6c7698df7dd31c31f468d"
+  },
+  {
+    "ruta": "evaluaciones/repaso_2_historia_geografia.md",
+    "bytes": 532,
+    "sha256": "e1c5dbb37e6d453ab2b1bda0c0b75f810e2599c5c96c5d398939ace8edb2c89a"
+  },
+  {
+    "ruta": "evaluaciones/repaso_2_historia_geografia_respuestas.md",
+    "bytes": 823,
+    "sha256": "3a540b5f5f5677480563f8f7b2f897e69655193903fd161d913cbf2e67da1396"
+  },
+  {
+    "ruta": "evaluaciones/repaso_2_lenguaje.md",
+    "bytes": 686,
+    "sha256": "5688f8b1bede34c373d55edc249266c3b7786602fa1a6350414570889b0f369a"
+  },
+  {
+    "ruta": "evaluaciones/repaso_2_lenguaje_respuestas.md",
+    "bytes": 1101,
+    "sha256": "c3b11efa91b1266b4a93d8e5e7959d0a2b842b41eea74e9e12d2b1d60f8eddd7"
+  },
+  {
+    "ruta": "evaluaciones/repaso_2_matematica.md",
+    "bytes": 492,
+    "sha256": "8fc88613575a218634eafc1d37cee1b1a5656072e72f543d6e92733651f686c9"
+  },
+  {
+    "ruta": "evaluaciones/repaso_2_matematica_respuestas.md",
+    "bytes": 837,
+    "sha256": "5ba9968ed0f59a2b26e7e16d65ebe7b524375e1a97978ce6a068f06c73529234"
+  },
+  {
+    "ruta": "evaluaciones/repaso_3_ciencias_naturales.md",
+    "bytes": 514,
+    "sha256": "9b9a834efb31c53707acd8e4c854dd3a56a527858643e3fe8f2d094fc0da2dd5"
+  },
+  {
+    "ruta": "evaluaciones/repaso_3_ciencias_naturales_respuestas.md",
+    "bytes": 649,
+    "sha256": "f97622687b3a09dc9a4faba4185fe57669e3a805484155859417c47e45cebae1"
+  },
+  {
+    "ruta": "evaluaciones/repaso_3_historia_geografia.md",
+    "bytes": 562,
+    "sha256": "9c0c172ea42ccfea9839c01ce7485a03ecb01177856287b408e12e63ca45434a"
+  },
+  {
+    "ruta": "evaluaciones/repaso_3_historia_geografia_respuestas.md",
+    "bytes": 853,
+    "sha256": "819b850114308baf9563efd5894b377da28938550144a3dcb564a08766bbfb6f"
+  },
+  {
+    "ruta": "evaluaciones/repaso_3_lenguaje.md",
+    "bytes": 673,
+    "sha256": "64b2f1a89950adf35c877b7ca0928bdcc636d9bf97798c0e70ffb52ef4d152a7"
+  },
+  {
+    "ruta": "evaluaciones/repaso_3_lenguaje_respuestas.md",
+    "bytes": 1088,
+    "sha256": "79e4cd13471b1ce7dee483531598960b1b87670107b9ca9842095a7107061b22"
+  },
+  {
+    "ruta": "evaluaciones/repaso_3_matematica.md",
+    "bytes": 389,
+    "sha256": "f7fc55562fc3277db80e4696a36976462a3ca63e823146624b1da02aa55261eb"
+  },
+  {
+    "ruta": "evaluaciones/repaso_3_matematica_respuestas.md",
+    "bytes": 679,
+    "sha256": "d52b85679e6b911e8fdaeaa71c7818a8b31d0162a9629d4871ace987561a2c8b"
+  },
+  {
+    "ruta": "evaluaciones/repaso_4_ciencias_naturales.md",
+    "bytes": 545,
+    "sha256": "ac36715fd2e8ef6a224402e1255575f84be5a0100e7fb31b4d0b0005df9987c2"
+  },
+  {
+    "ruta": "evaluaciones/repaso_4_ciencias_naturales_respuestas.md",
+    "bytes": 680,
+    "sha256": "8a464142d82da6790fd49816f23c63fb783f9b435dbc6810841418ba05a9b1eb"
+  },
+  {
+    "ruta": "evaluaciones/repaso_4_historia_geografia.md",
+    "bytes": 530,
+    "sha256": "e5e79fe557d525f655b3a2dfef3dd5493195d5afdd011a6511537274eaa76d0d"
+  },
+  {
+    "ruta": "evaluaciones/repaso_4_historia_geografia_respuestas.md",
+    "bytes": 821,
+    "sha256": "2cfb151245d2c7afa05b91b4b013fbeeab54da4710594be2089ec74600d308c2"
+  },
+  {
+    "ruta": "evaluaciones/repaso_4_lenguaje.md",
+    "bytes": 664,
+    "sha256": "6b2dd73797d2bbd38fb5d6bc45e36d48ff4a9289ad71779fdfa42c48a2afea2a"
+  },
+  {
+    "ruta": "evaluaciones/repaso_4_lenguaje_respuestas.md",
+    "bytes": 1079,
+    "sha256": "3f9cb8d51d0251ff1ab6dab32a30493ed23e783220a91c1b94051761c2bf7c08"
+  },
+  {
+    "ruta": "evaluaciones/repaso_4_matematica.md",
+    "bytes": 395,
+    "sha256": "33a68658752d65a765bb3ada87598194f068ceedeb8147a1174542673aa0b166"
+  },
+  {
+    "ruta": "evaluaciones/repaso_4_matematica_respuestas.md",
+    "bytes": 685,
+    "sha256": "4f4807992c818ec9d0c3bac2e8732a8c64ee4a9a5de04420cc28c782947fd683"
+  },
+  {
+    "ruta": "historia_geografia/00_indice_historia_geografia.md",
+    "bytes": 4698,
+    "sha256": "8558ebab9ef3ba1348348b16ac95769a5108bb4fa602d2fae8748f639b8b6880"
+  },
+  {
+    "ruta": "historia_geografia/8b_his_01_humanismo_y_renacimiento.md",
+    "bytes": 6705,
+    "sha256": "9c76f26119560eab62a28e3892a90e039ec7d16430c64742d0e7c608b7453e89"
+  },
+  {
+    "ruta": "historia_geografia/8b_his_02_imprenta_circulacion_de_ideas_y_reforma.md",
+    "bytes": 6819,
+    "sha256": "5eda1fb6a62d4f532b98e55c45cc5e7f7130d9eedf755bddcad82c240fe6b4bd"
+  },
+  {
+    "ruta": "historia_geografia/8b_his_03_reforma_protestante_y_reforma_catolica.md",
+    "bytes": 6807,
+    "sha256": "8b9ff3c3205dc669ee2db8c8be03e2f2045328402c6c69fdc1e126682475e9b4"
+  },
+  {
+    "ruta": "historia_geografia/8b_his_04_estado_moderno_y_monarquias.md",
+    "bytes": 6646,
+    "sha256": "9a66ad9220d29c1c5646b239a882a2d07bcf620650ed419ec1417762bc57459a"
+  },
+  {
+    "ruta": "historia_geografia/8b_his_05_expansion_europea_y_navegacion.md",
+    "bytes": 6751,
+    "sha256": "82ffca72cf12c399a447379ca7d62c3415694dd203da24696dd403c004d3e436"
+  },
+  {
+    "ruta": "historia_geografia/8b_his_06_conquista_de_america_y_perspectivas.md",
+    "bytes": 7127,
+    "sha256": "88d36b40860acd369f84a4c843f962898031afd622954f09e6769b8c0d30f4ea"
+  },
+  {
+    "ruta": "historia_geografia/8b_his_07_colonizacion_y_orden_colonial.md",
+    "bytes": 6682,
+    "sha256": "01896dfaefa3c2830021e9fee9eea170da974e7cd56fc58c4984f3307861cd5b"
+  },
+  {
+    "ruta": "historia_geografia/8b_his_08_pueblos_indigenas_resistencia_y_adaptacion.md",
+    "bytes": 6904,
+    "sha256": "37be3a961cdbbd1d948b86c703eb489214c2d9c6e766d7ebbfb9ce97f9f6f6af"
+  },
+  {
+    "ruta": "historia_geografia/8b_his_09_mestizaje_castas_y_diversidad_colonial.md",
+    "bytes": 7099,
+    "sha256": "49618ee85d6c138af1d1324e6d708249259305d2c4ceed24d42fc50fbd4411ff"
+  },
+  {
+    "ruta": "historia_geografia/8b_his_10_esclavitud_africana_y_diaspora.md",
+    "bytes": 7114,
+    "sha256": "b7a5eaf5a6be151856799822e2817b50d267f82fcbe10dc753e291e935e41215"
+  },
+  {
+    "ruta": "historia_geografia/8b_his_11_economia_colonial_y_mercantilismo.md",
+    "bytes": 6792,
+    "sha256": "09f50d4a080bdd6b4eeb8172c5a58a52df40c2bbb1a9dc393c56c2f6b75ca609"
+  },
+  {
+    "ruta": "historia_geografia/8b_his_12_sociedad_colonial_en_chile.md",
+    "bytes": 6691,
+    "sha256": "a63f2f88ebef4e5d2df6eb2f9e9163c484cb6457905828835ad750e7481f3dc5"
+  },
+  {
+    "ruta": "historia_geografia/8b_his_13_ilustracion_y_nuevas_ideas_politicas.md",
+    "bytes": 6823,
+    "sha256": "72bb5ef0b79c54715d43ea82e288cf2afdf9e31f918ee806a8af8c212f3232c4"
+  },
+  {
+    "ruta": "historia_geografia/8b_his_14_revolucion_industrial.md",
+    "bytes": 6670,
+    "sha256": "6d70d04e3d30f3c9b89bc9135d4a353892cb42e6cf33b8ad99fb7215f11fd088"
+  },
+  {
+    "ruta": "historia_geografia/8b_his_15_capitalismo_industrial_y_cuestion_social_inicial.md",
+    "bytes": 6965,
+    "sha256": "41d53e62177955126f2dd4ade02fd101236aaba34ffb1da2fe8e2f68e8cb8e24"
+  },
+  {
+    "ruta": "historia_geografia/8b_his_16_revoluciones_atlanticas.md",
+    "bytes": 6769,
+    "sha256": "d8adcec448381b528a83fed9d7740adb83d1e58bb650f94fe470c77b0759a5e4"
+  },
+  {
+    "ruta": "historia_geografia/8b_his_17_independencias_latinoamericanas.md",
+    "bytes": 6824,
+    "sha256": "45f8965e48f57d5ee3d0983cc42a81e144a8cca5b989659e1ce898cf9b299156"
+  },
+  {
+    "ruta": "historia_geografia/8b_his_18_economia_global_y_territorio.md",
+    "bytes": 6713,
+    "sha256": "e4bb9584b7006cfdbbd04904eaf812443f771b00e04e8d78cbdb71ed157fcfb7"
+  },
+  {
+    "ruta": "historia_geografia/8b_his_19_urbanizacion_y_problemas_socioambientales.md",
+    "bytes": 6802,
+    "sha256": "d4a96599c4100a313c89cb64dbfbaf7e0865a65a2fe575e50e907a54ddd901a3"
+  },
+  {
+    "ruta": "historia_geografia/8b_his_20_desarrollo_sustentable_y_conflictos_ambientales.md",
+    "bytes": 6914,
+    "sha256": "75454cd6f66a31d1e051c17f3956d75b7caed284cb4b10a3a4c682d3dc621ac7"
+  },
+  {
+    "ruta": "historia_geografia/8b_his_21_derechos_humanos_y_ciudadania_moderna.md",
+    "bytes": 6921,
+    "sha256": "2acfa45e852c73bbf6e2e7d46a0ce5d2f83ee2463f2b692865c11dea2e28585f"
+  },
+  {
+    "ruta": "historia_geografia/8b_his_22_democracia_representacion_y_participacion.md",
+    "bytes": 7021,
+    "sha256": "6eba2d720b9a453e7a067f147e59878ed3292d3b328b359d8d0a60b398e84bb5"
+  },
+  {
+    "ruta": "historia_geografia/8b_his_23_fuentes_perspectivas_y_corroboracion.md",
+    "bytes": 6747,
+    "sha256": "4d287a71d103f8530e734b319d98bbf2fadda54b38a02059678e06d1a1e96c46"
+  },
+  {
+    "ruta": "historia_geografia/8b_his_24_causalidad_y_procesos_globales.md",
+    "bytes": 6842,
+    "sha256": "a5c8f262422f3e1b32c9a2520ab6558be23cb337174e5c354991d3585a81ba3f"
+  },
+  {
+    "ruta": "lenguaje/00_indice_lenguaje.md",
+    "bytes": 6311,
+    "sha256": "1ee7c311064bfa8587f58a5bceaf1c9e05d12c169accd5a318f7cf7e18f86148"
+  },
+  {
+    "ruta": "lenguaje/8b_len_01_experiencia_humana_y_conflictos_literarios.md",
+    "bytes": 6953,
+    "sha256": "1a75e6ffb817a64b81f8a61b88a95894d2a111c7f324eb2bd18fe182c62d1c2d"
+  },
+  {
+    "ruta": "lenguaje/8b_len_02_epopeya_y_construccion_del_heroe.md",
+    "bytes": 6774,
+    "sha256": "fcc44faa4816ccac4cc2cad86fbde25ee428d5e1101d3e989d17d05de8df5b70"
+  },
+  {
+    "ruta": "lenguaje/8b_len_03_utopias_distopias_y_sociedad.md",
+    "bytes": 6791,
+    "sha256": "5c5480b86d84c27f6a796414e47d2d11dd9dd35bc9e010d1ffcdb6749789e25b"
+  },
+  {
+    "ruta": "lenguaje/8b_len_04_relatos_de_terror_y_lo_extrano.md",
+    "bytes": 6752,
+    "sha256": "d0e2d81db5f92ed92e3f53197894192a15247d84d7033c1870e4446c97647bf1"
+  },
+  {
+    "ruta": "lenguaje/8b_len_05_amor_relaciones_y_estereotipos.md",
+    "bytes": 6807,
+    "sha256": "e38ce60c7d0812570b3f029a843da9d29a171201c1eece097a8086c296ecb2d1"
+  },
+  {
+    "ruta": "lenguaje/8b_len_06_naturaleza_y_cultura_en_la_literatura.md",
+    "bytes": 6799,
+    "sha256": "e633ba8d1affb1f9e50155f15c4c6e3c32290032062956d59fdbc5b00d51a78c"
+  },
+  {
+    "ruta": "lenguaje/8b_len_07_narrador_tiempo_y_montaje.md",
+    "bytes": 6663,
+    "sha256": "0c4fe33668f93ef89f89deea055c1b315da2ab4be1724da929473e55cde3adb6"
+  },
+  {
+    "ruta": "lenguaje/8b_len_08_personajes_complejos_y_ambiguedad.md",
+    "bytes": 6809,
+    "sha256": "a7e730a1c9aeb165167510ce9b3d4377b4254fc2fee90660ec5947596c52972d"
+  },
+  {
+    "ruta": "lenguaje/8b_len_09_intertextualidad_y_reescritura.md",
+    "bytes": 6832,
+    "sha256": "d2cb45ebff40eb40b7de9a91c3de33bd745bfd838886510e2850318e05d5cdf6"
+  },
+  {
+    "ruta": "lenguaje/8b_len_10_poesia_voz_imagen_y_simbolo.md",
+    "bytes": 6775,
+    "sha256": "77d9404b1fea0550749674f6f2a96757697c1ee8d363622ed617f7d80e0ff19d"
+  },
+  {
+    "ruta": "lenguaje/8b_len_11_recursos_sonoros_y_visuales_del_poema.md",
+    "bytes": 6810,
+    "sha256": "86b250acc76169ef905b48ad4c19fca4636f28038707ea6fe846c8e8d6b62c71"
+  },
+  {
+    "ruta": "lenguaje/8b_len_12_teatro_accion_dramatica_y_puesta_en_escena.md",
+    "bytes": 6951,
+    "sha256": "d416c7224af97fabc286c6e82539c2d96853ce3dfaf2f77deaf765293c2fd48b"
+  },
+  {
+    "ruta": "lenguaje/8b_len_13_ensayo_y_reflexion.md",
+    "bytes": 6732,
+    "sha256": "ebc9d918a2d1af732e49154acd0f764806216c9ed9d01d6fdae823355cba6478"
+  },
+  {
+    "ruta": "lenguaje/8b_len_14_argumentacion_y_falacias_iniciales.md",
+    "bytes": 6926,
+    "sha256": "3068b2588e7dad12068fa3c1101cd409e5826394941e566ed82e0320a87a2887"
+  },
+  {
+    "ruta": "lenguaje/8b_len_15_textos_de_divulgacion_cientifica.md",
+    "bytes": 6874,
+    "sha256": "411fcb8084e0fabca4c06cde25295e30c58c88338058db7478989ccbad551423"
+  },
+  {
+    "ruta": "lenguaje/8b_len_16_noticias_reportajes_y_encuadre.md",
+    "bytes": 6775,
+    "sha256": "ee762c4f634f54b6ca74df3d0ae9650a4850e286e7895923ba598ff9dcb2405f"
+  },
+  {
+    "ruta": "lenguaje/8b_len_17_publicidad_propaganda_y_persuasion.md",
+    "bytes": 6733,
+    "sha256": "5c8245fe4d12aece30028d840694aad3a6f20afc13f55949cb99cd32af848c5b"
+  },
+  {
+    "ruta": "lenguaje/8b_len_18_desinformacion_y_verificacion.md",
+    "bytes": 6846,
+    "sha256": "9bfb7c80a62ab7fdcd447e3e0dd48244dbc6decbb692736ef2bc24f170fc8c4b"
+  },
+  {
+    "ruta": "lenguaje/8b_len_19_sesgo_representacion_y_discurso.md",
+    "bytes": 6877,
+    "sha256": "ea0bf0552e2d25e0c95e408831cf80cb1b35369fd61dd8cccfff1f651f4a26e2"
+  },
+  {
+    "ruta": "lenguaje/8b_len_20_narracion_compleja.md",
+    "bytes": 6644,
+    "sha256": "62061da2432b8e5c2d83c480ef2b55de72703615f24985efedc35b71a081b472"
+  },
+  {
+    "ruta": "lenguaje/8b_len_21_escritura_poetica_y_reescritura.md",
+    "bytes": 6798,
+    "sha256": "cee2d6374c3b3f9174bdffcad7b506d46639f27063182ff51c26dfe75895d026"
+  },
+  {
+    "ruta": "lenguaje/8b_len_22_texto_expositivo_con_integracion_de_fuentes.md",
+    "bytes": 6902,
+    "sha256": "1ed723607f5186854003a86848a180d2d51ed9bf8915c71f345b0ae87954f3f1"
+  },
+  {
+    "ruta": "lenguaje/8b_len_23_texto_argumentativo_y_contraargumento.md",
+    "bytes": 6888,
+    "sha256": "6aeb7b61b5499b869bd90039d904e0f27fc52a1963527758f5b8f7aa754e4b91"
+  },
+  {
+    "ruta": "lenguaje/8b_len_24_ensayo_breve.md",
+    "bytes": 6662,
+    "sha256": "9ff6334a1cf1f8d1e2bae952f38b9dfb0ea8e6406c71f8d05e942f0c88c3d403"
+  },
+  {
+    "ruta": "lenguaje/8b_len_25_planificacion_documentacion_y_citas.md",
+    "bytes": 6886,
+    "sha256": "f41cc6a4ca6b678331bf7cd4a0f51ce2c989b77062c739623d3c294ebf475faa"
+  },
+  {
+    "ruta": "lenguaje/8b_len_26_coherencia_cohesion_y_progresion_tematica.md",
+    "bytes": 6888,
+    "sha256": "56f219e456b2272baa4b39aed10159056fe0ba171dc08650919e2e2687bf0680"
+  },
+  {
+    "ruta": "lenguaje/8b_len_27_estilo_vocabulario_y_registro.md",
+    "bytes": 6715,
+    "sha256": "3da6d0cc697176243acac25ed11354995003d0a0c8877051d647ff956241bd41"
+  },
+  {
+    "ruta": "lenguaje/8b_len_28_ortografia_y_puntuacion_avanzada_inicial.md",
+    "bytes": 6905,
+    "sha256": "8ee404492311943b9b75c7855c93e947e6342bb98c7071d9ba937c8a53a4dfea"
+  },
+  {
+    "ruta": "lenguaje/8b_len_29_debate_y_deliberacion.md",
+    "bytes": 6843,
+    "sha256": "ba4f327b8c3f571a61d6b69ab1892f6328832497acaaf52355c7f409bcdbacba"
+  },
+  {
+    "ruta": "lenguaje/8b_len_30_exposicion_multimodal.md",
+    "bytes": 6798,
+    "sha256": "6a900adbf5d5a971556e64efbbccdc668370fec78ca81a1e736d11571f0b8bc6"
+  },
+  {
+    "ruta": "lenguaje/8b_len_31_interpretacion_escenica_y_audiovisual.md",
+    "bytes": 6929,
+    "sha256": "3c77bf18b5ada9189e784af8c45e1d736bb78bc8ec40881612e47de2c6b7b6f5"
+  },
+  {
+    "ruta": "lenguaje/8b_len_32_problema_pregunta_y_plan_de_investigacion.md",
+    "bytes": 6926,
+    "sha256": "e50cf37c26bcb758c4178debff9328ea648fc99667052d5e0134ccf31540da8e"
+  },
+  {
+    "ruta": "lenguaje/8b_len_33_evaluacion_y_triangulacion_de_fuentes.md",
+    "bytes": 6897,
+    "sha256": "3cf779dd007fdad6386f0e368f5003e5b4ee4411ee95722f229e445435fb9d52"
+  },
+  {
+    "ruta": "lenguaje/8b_len_34_sintesis_citacion_y_comunicacion_etica.md",
+    "bytes": 6981,
+    "sha256": "c5d7456b6d0532e066bf29b4a70a70e23978d40d23ec47db61d73a572bc2c9fd"
+  },
+  {
+    "ruta": "matematica/00_indice_matematica.md",
+    "bytes": 4088,
+    "sha256": "2dcab354675661f6f5b892f53b738f2f443c9a346ce08eb8c30763a716364d6c"
+  },
+  {
+    "ruta": "matematica/8b_mat_01_operaciones_con_numeros_enteros.md",
+    "bytes": 6546,
+    "sha256": "c243c8325885f2f33a87b836220f6b1fb0d2b9c0294be79cb81955d1e745069b"
+  },
+  {
+    "ruta": "matematica/8b_mat_02_numeros_racionales_y_representaciones.md",
+    "bytes": 6631,
+    "sha256": "0e5f39d7c94b5ec56b8fd42f1fe94a65bbf9d4a06eb0522c3c6cc5720d87d3bc"
+  },
+  {
+    "ruta": "matematica/8b_mat_03_operaciones_con_racionales.md",
+    "bytes": 6490,
+    "sha256": "fda1fe14abdd6ac1f292527c5ec6be301919b4e658c607fa749c696f1e9b8a4d"
+  },
+  {
+    "ruta": "matematica/8b_mat_04_potencias_con_base_racional_y_exponente_entero.md",
+    "bytes": 6731,
+    "sha256": "bcb9e39a5b03783c8660a8e9089259b6d112ee97729b2c15cbc115229d83eba9"
+  },
+  {
+    "ruta": "matematica/8b_mat_05_raices_cuadradas_y_estimacion.md",
+    "bytes": 6504,
+    "sha256": "d8be2621913e7c8510b3f8e2b82c0e53aacf3f9fea9114d2eba2fd81079e072f"
+  },
+  {
+    "ruta": "matematica/8b_mat_06_porcentajes_sucesivos_y_variacion_porcentual.md",
+    "bytes": 6717,
+    "sha256": "4c89704f7f6327561c6b89ba50e249a25ab8788f36be22ba61a1d5ca4bad8338"
+  },
+  {
+    "ruta": "matematica/8b_mat_07_expresiones_algebraicas_y_productos.md",
+    "bytes": 6684,
+    "sha256": "7c53059dd14e8c8ddcb4dbda9011be3764e7b96589787d8c49e4f41a15118232"
+  },
+  {
+    "ruta": "matematica/8b_mat_08_ecuaciones_lineales_con_racionales.md",
+    "bytes": 6644,
+    "sha256": "c32a093907c9ec91435ab87123b7cbe62f20819339bdff6ba30f091fd42d249c"
+  },
+  {
+    "ruta": "matematica/8b_mat_09_sistemas_de_ecuaciones_iniciales.md",
+    "bytes": 6702,
+    "sha256": "c17d5ef2a7a3fca520cc3133f48612479d4dbd7caf7f74ce247df2c3acbbcb17"
+  },
+  {
+    "ruta": "matematica/8b_mat_10_funcion_lineal_y_afin.md",
+    "bytes": 6520,
+    "sha256": "8909988a5673c33f3d6c880f4db1eaf393cd4954bef2fd464e166e38ce7b8562"
+  },
+  {
+    "ruta": "matematica/8b_mat_11_pendiente_y_tasa_de_cambio_inicial.md",
+    "bytes": 6681,
+    "sha256": "2fdfcfc6c1d7d16aa72b98dac5658fc9e610857399c8be2121e958137f69d13c"
+  },
+  {
+    "ruta": "matematica/8b_mat_12_modelamiento_de_situaciones.md",
+    "bytes": 6601,
+    "sha256": "b07cb2a49e432a26e781c5a07b35ce8d72e087386658a2a92c17cbf4247e0957"
+  },
+  {
+    "ruta": "matematica/8b_mat_13_teorema_de_pitagoras.md",
+    "bytes": 6603,
+    "sha256": "2a9579f515c239a845d5fed6ec6bc4a4d0838221b800f6be987ef8715d44cfc6"
+  },
+  {
+    "ruta": "matematica/8b_mat_14_transformaciones_en_el_plano_cartesiano.md",
+    "bytes": 6617,
+    "sha256": "c4b711263caf750c64c029b0cad5ed054d09b4f229c9e2d4bf3e86f327200371"
+  },
+  {
+    "ruta": "matematica/8b_mat_15_homotecia_y_semejanza_inicial.md",
+    "bytes": 6546,
+    "sha256": "ba6d63140ad788d2dd97e9025d3861d8c7af290f297888473dd5e12560043c59"
+  },
+  {
+    "ruta": "matematica/8b_mat_16_area_de_superficies_y_volumen.md",
+    "bytes": 6602,
+    "sha256": "13bdfd0246af20590e56189307a7d555b554c7e603cf9eef3869d77e1567e2b6"
+  },
+  {
+    "ruta": "matematica/8b_mat_17_angulos_y_propiedades_de_poligonos.md",
+    "bytes": 6485,
+    "sha256": "1d723c1c94e9388b6e0b04ec902d7321a6026927aa56293348c85f6d87f8b85e"
+  },
+  {
+    "ruta": "matematica/8b_mat_18_muestreo_y_representatividad.md",
+    "bytes": 6707,
+    "sha256": "6b9e131288ad67e40793c61f2c625bcf8de253585924565f9013e8ea1c05c647"
+  },
+  {
+    "ruta": "matematica/8b_mat_19_diagramas_de_caja_y_dispersion_inicial.md",
+    "bytes": 6778,
+    "sha256": "77cbce2089b2188778ba9e418372cfdf4467ffc20ed4073647d877bcf5f535d9"
+  },
+  {
+    "ruta": "matematica/8b_mat_20_medidas_de_tendencia_y_posicion.md",
+    "bytes": 6697,
+    "sha256": "abe91c270940dd6b04b97f0153427867bd55b619fef784c226bc7bd4bf8e5ee0"
+  },
+  {
+    "ruta": "matematica/8b_mat_21_probabilidad_compuesta.md",
+    "bytes": 6621,
+    "sha256": "233bc2e4a3b5bb254e5a953e03790e3b076c5c46060acdf41401cbee8de2f848"
+  },
+  {
+    "ruta": "matematica/8b_mat_22_frecuencia_relativa_y_ley_de_grandes_numeros_inicial.md",
+    "bytes": 7042,
+    "sha256": "c14533a5966e8566c0bb744a23c21ba11cadbbf12928de19620b6fccaa2329d9"
+  }
+]
