@@ -1,0 +1,332 @@
+[
+  {
+    "id": "1b_his_01_dias_de_la_semana_meses_y_ano_en_curso",
+    "course": "primero_basico",
+    "subject": "Historia, Geografía y Ciencias Sociales",
+    "subject_key": "historia_geografia",
+    "axis": "Historia",
+    "title": "Días de la semana, meses y año en curso",
+    "oa": [
+      "HI01 OA 01"
+    ],
+    "path": "historia_geografia/01_dias_de_la_semana_meses_y_ano_en_curso.md",
+    "summary": "El calendario organiza días, semanas, meses y años para ubicar actividades y acontecimientos.",
+    "version": "1.0"
+  },
+  {
+    "id": "1b_his_02_antes_despues_ayer_hoy_y_manana",
+    "course": "primero_basico",
+    "subject": "Historia, Geografía y Ciencias Sociales",
+    "subject_key": "historia_geografia",
+    "axis": "Historia",
+    "title": "Antes, después, ayer, hoy y mañana",
+    "oa": [
+      "HI01 OA 02"
+    ],
+    "path": "historia_geografia/02_antes_despues_ayer_hoy_y_manana.md",
+    "summary": "Las palabras temporales ayudan a ordenar acontecimientos de la vida cotidiana.",
+    "version": "1.0"
+  },
+  {
+    "id": "1b_his_03_dia_noche_este_ano_ano_pasado_y_ano_proximo",
+    "course": "primero_basico",
+    "subject": "Historia, Geografía y Ciencias Sociales",
+    "subject_key": "historia_geografia",
+    "axis": "Historia",
+    "title": "Día, noche, este año, año pasado y año próximo",
+    "oa": [
+      "HI01 OA 02"
+    ],
+    "path": "historia_geografia/03_dia_noche_este_ano_ano_pasado_y_ano_proximo.md",
+    "summary": "Las categorías temporales permiten ubicar acciones en períodos cercanos y comparar cambios.",
+    "version": "1.0"
+  },
+  {
+    "id": "1b_his_04_elementos_de_la_identidad_personal",
+    "course": "primero_basico",
+    "subject": "Historia, Geografía y Ciencias Sociales",
+    "subject_key": "historia_geografia",
+    "axis": "Historia",
+    "title": "Elementos de la identidad personal",
+    "oa": [
+      "HI01 OA 03"
+    ],
+    "path": "historia_geografia/04_elementos_de_la_identidad_personal.md",
+    "summary": "La identidad incluye características, historia, gustos, intereses y vínculos que ayudan a reconocer a cada persona.",
+    "version": "1.0"
+  },
+  {
+    "id": "1b_his_05_diversidad_privacidad_y_respeto_en_la_identidad",
+    "course": "primero_basico",
+    "subject": "Historia, Geografía y Ciencias Sociales",
+    "subject_key": "historia_geografia",
+    "axis": "Historia",
+    "title": "Diversidad, privacidad y respeto en la identidad",
+    "oa": [
+      "HI01 OA 03",
+      "HI01 OA 13"
+    ],
+    "path": "historia_geografia/05_diversidad_privacidad_y_respeto_en_la_identidad.md",
+    "summary": "Las personas tienen identidades diversas y merecen respeto; algunos datos personales deben cuidarse.",
+    "version": "1.0"
+  },
+  {
+    "id": "1b_his_06_obtener_informacion_sobre_la_historia_familiar",
+    "course": "primero_basico",
+    "subject": "Historia, Geografía y Ciencias Sociales",
+    "subject_key": "historia_geografia",
+    "axis": "Historia",
+    "title": "Obtener información sobre la historia familiar",
+    "oa": [
+      "HI01 OA 04"
+    ],
+    "path": "historia_geografia/06_obtener_informacion_sobre_la_historia_familiar.md",
+    "summary": "Las preguntas y relatos de personas cercanas pueden ayudar a conocer costumbres, recuerdos y cambios familiares.",
+    "version": "1.0"
+  },
+  {
+    "id": "1b_his_07_familias_diversas_costumbres_y_roles",
+    "course": "primero_basico",
+    "subject": "Historia, Geografía y Ciencias Sociales",
+    "subject_key": "historia_geografia",
+    "axis": "Historia",
+    "title": "Familias diversas, costumbres y roles",
+    "oa": [
+      "HI01 OA 04",
+      "HI01 OA 13"
+    ],
+    "path": "historia_geografia/07_familias_diversas_costumbres_y_roles.md",
+    "summary": "Las familias pueden tener composiciones, costumbres y roles diversos y todas las personas merecen respeto.",
+    "version": "1.0"
+  },
+  {
+    "id": "1b_his_08_simbolos_representativos_de_chile",
+    "course": "primero_basico",
+    "subject": "Historia, Geografía y Ciencias Sociales",
+    "subject_key": "historia_geografia",
+    "axis": "Historia",
+    "title": "Símbolos representativos de Chile",
+    "oa": [
+      "HI01 OA 05"
+    ],
+    "path": "historia_geografia/08_simbolos_representativos_de_chile.md",
+    "summary": "La bandera, el escudo y el himno son símbolos que representan a Chile en contextos oficiales y comunitarios.",
+    "version": "1.0"
+  },
+  {
+    "id": "1b_his_09_conmemoraciones_y_memoria_colectiva",
+    "course": "primero_basico",
+    "subject": "Historia, Geografía y Ciencias Sociales",
+    "subject_key": "historia_geografia",
+    "axis": "Historia",
+    "title": "Conmemoraciones y memoria colectiva",
+    "oa": [
+      "HI01 OA 05"
+    ],
+    "path": "historia_geografia/09_conmemoraciones_y_memoria_colectiva.md",
+    "summary": "Las conmemoraciones recuerdan acontecimientos o personas y pueden tener significados distintos para grupos de la sociedad.",
+    "version": "1.0"
+  },
+  {
+    "id": "1b_his_10_expresiones_culturales_locales_y_nacionales",
+    "course": "primero_basico",
+    "subject": "Historia, Geografía y Ciencias Sociales",
+    "subject_key": "historia_geografia",
+    "axis": "Historia",
+    "title": "Expresiones culturales locales y nacionales",
+    "oa": [
+      "HI01 OA 06"
+    ],
+    "path": "historia_geografia/10_expresiones_culturales_locales_y_nacionales.md",
+    "summary": "Comidas, música, juegos, artesanías, relatos, plantas y animales pueden formar parte de expresiones culturales.",
+    "version": "1.0"
+  },
+  {
+    "id": "1b_his_11_fiestas_y_tradiciones_con_respeto_a_la_diversidad",
+    "course": "primero_basico",
+    "subject": "Historia, Geografía y Ciencias Sociales",
+    "subject_key": "historia_geografia",
+    "axis": "Historia",
+    "title": "Fiestas y tradiciones con respeto a la diversidad",
+    "oa": [
+      "HI01 OA 06"
+    ],
+    "path": "historia_geografia/11_fiestas_y_tradiciones_con_respeto_a_la_diversidad.md",
+    "summary": "Las fiestas y tradiciones reúnen prácticas, recuerdos y significados que pueden variar entre comunidades.",
+    "version": "1.0"
+  },
+  {
+    "id": "1b_his_12_personas_que_han_contribuido_a_la_sociedad_chilena",
+    "course": "primero_basico",
+    "subject": "Historia, Geografía y Ciencias Sociales",
+    "subject_key": "historia_geografia",
+    "axis": "Historia",
+    "title": "Personas que han contribuido a la sociedad chilena",
+    "oa": [
+      "HI01 OA 07"
+    ],
+    "path": "historia_geografia/12_personas_que_han_contribuido_a_la_sociedad_chilena.md",
+    "summary": "Mujeres y hombres han contribuido a la sociedad desde ciencias, artes, deportes, educación, solidaridad, instituciones y otros ámbitos.",
+    "version": "1.0"
+  },
+  {
+    "id": "1b_his_13_mapas_y_planos_representan_lugares",
+    "course": "primero_basico",
+    "subject": "Historia, Geografía y Ciencias Sociales",
+    "subject_key": "historia_geografia",
+    "axis": "Geografía",
+    "title": "Mapas y planos representan lugares",
+    "oa": [
+      "HI01 OA 08"
+    ],
+    "path": "historia_geografia/13_mapas_y_planos_representan_lugares.md",
+    "summary": "Los mapas y planos son representaciones reducidas y organizadas de lugares.",
+    "version": "1.0"
+  },
+  {
+    "id": "1b_his_14_ubicar_chile_cordillera_oceano_region_y_localidad",
+    "course": "primero_basico",
+    "subject": "Historia, Geografía y Ciencias Sociales",
+    "subject_key": "historia_geografia",
+    "axis": "Geografía",
+    "title": "Ubicar Chile, cordillera, océano, región y localidad",
+    "oa": [
+      "HI01 OA 09"
+    ],
+    "path": "historia_geografia/14_ubicar_chile_cordillera_oceano_region_y_localidad.md",
+    "summary": "Chile puede localizarse en mapas de Sudamérica y se relaciona con el océano Pacífico y la cordillera de los Andes.",
+    "version": "1.0"
+  },
+  {
+    "id": "1b_his_15_observar_y_describir_paisajes_locales",
+    "course": "primero_basico",
+    "subject": "Historia, Geografía y Ciencias Sociales",
+    "subject_key": "historia_geografia",
+    "axis": "Geografía",
+    "title": "Observar y describir paisajes locales",
+    "oa": [
+      "HI01 OA 10"
+    ],
+    "path": "historia_geografia/15_observar_y_describir_paisajes_locales.md",
+    "summary": "Un paisaje reúne elementos naturales y construidos que pueden observarse y describirse.",
+    "version": "1.0"
+  },
+  {
+    "id": "1b_his_16_vocabulario_geografico_y_ubicacion_relativa",
+    "course": "primero_basico",
+    "subject": "Historia, Geografía y Ciencias Sociales",
+    "subject_key": "historia_geografia",
+    "axis": "Geografía",
+    "title": "Vocabulario geográfico y ubicación relativa",
+    "oa": [
+      "HI01 OA 10"
+    ],
+    "path": "historia_geografia/16_vocabulario_geografico_y_ubicacion_relativa.md",
+    "summary": "Palabras como país, ciudad, pueblo, camino, cordillera, mar y desierto ayudan a describir lugares; derecha, izquierda, delante y detrás ayudan a ubicarlos.",
+    "version": "1.0"
+  },
+  {
+    "id": "1b_his_17_trabajos_productos_y_servicios_de_la_localidad",
+    "course": "primero_basico",
+    "subject": "Historia, Geografía y Ciencias Sociales",
+    "subject_key": "historia_geografia",
+    "axis": "Geografía",
+    "title": "Trabajos, productos y servicios de la localidad",
+    "oa": [
+      "HI01 OA 11"
+    ],
+    "path": "historia_geografia/17_trabajos_productos_y_servicios_de_la_localidad.md",
+    "summary": "Los trabajos producen bienes, entregan servicios y sostienen la vida cotidiana de una comunidad.",
+    "version": "1.0"
+  },
+  {
+    "id": "1b_his_18_como_viven_ninos_y_ninas_en_distintas_partes_del_mundo",
+    "course": "primero_basico",
+    "subject": "Historia, Geografía y Ciencias Sociales",
+    "subject_key": "historia_geografia",
+    "axis": "Geografía",
+    "title": "Cómo viven niños y niñas en distintas partes del mundo",
+    "oa": [
+      "HI01 OA 12"
+    ],
+    "path": "historia_geografia/18_como_viven_ninos_y_ninas_en_distintas_partes_del_mundo.md",
+    "summary": "Niños y niñas del mundo comparten necesidades y derechos, y viven en contextos culturales y geográficos diversos.",
+    "version": "1.0"
+  },
+  {
+    "id": "1b_his_19_respeto_empatia_y_responsabilidad",
+    "course": "primero_basico",
+    "subject": "Historia, Geografía y Ciencias Sociales",
+    "subject_key": "historia_geografia",
+    "axis": "Formación ciudadana",
+    "title": "Respeto, empatía y responsabilidad",
+    "oa": [
+      "HI01 OA 13"
+    ],
+    "path": "historia_geografia/19_respeto_empatia_y_responsabilidad.md",
+    "summary": "El respeto reconoce dignidad; la empatía considera cómo puede sentirse otra persona; la responsabilidad implica cumplir compromisos y cuidar.",
+    "version": "1.0"
+  },
+  {
+    "id": "1b_his_20_normas_para_la_buena_convivencia",
+    "course": "primero_basico",
+    "subject": "Historia, Geografía y Ciencias Sociales",
+    "subject_key": "historia_geografia",
+    "axis": "Formación ciudadana",
+    "title": "Normas para la buena convivencia",
+    "oa": [
+      "HI01 OA 14"
+    ],
+    "path": "historia_geografia/20_normas_para_la_buena_convivencia.md",
+    "summary": "Las normas organizan acciones para proteger derechos, seguridad y convivencia.",
+    "version": "1.0"
+  },
+  {
+    "id": "1b_his_21_seguridad_y_autocuidado_en_casa_escuela_y_via_publica",
+    "course": "primero_basico",
+    "subject": "Historia, Geografía y Ciencias Sociales",
+    "subject_key": "historia_geografia",
+    "axis": "Formación ciudadana",
+    "title": "Seguridad y autocuidado en casa, escuela y vía pública",
+    "oa": [
+      "HI01 OA 14"
+    ],
+    "path": "historia_geografia/21_seguridad_y_autocuidado_en_casa_escuela_y_via_publica.md",
+    "summary": "El autocuidado incluye reconocer riesgos, seguir indicaciones y pedir ayuda a una persona responsable.",
+    "version": "1.0"
+  },
+  {
+    "id": "1b_his_22_instituciones_y_personas_que_ayudan_a_la_comunidad",
+    "course": "primero_basico",
+    "subject": "Historia, Geografía y Ciencias Sociales",
+    "subject_key": "historia_geografia",
+    "axis": "Formación ciudadana",
+    "title": "Instituciones y personas que ayudan a la comunidad",
+    "oa": [
+      "HI01 OA 15"
+    ],
+    "path": "historia_geografia/22_instituciones_y_personas_que_ayudan_a_la_comunidad.md",
+    "summary": "Escuela, municipalidad, centros de salud, servicios de emergencia y otras instituciones cumplen funciones para la comunidad.",
+    "version": "1.0"
+  },
+  {
+    "id": "1b_his_23_usar_fuentes_formular_opiniones_y_comunicar_informacion",
+    "course": "primero_basico",
+    "subject": "Historia, Geografía y Ciencias Sociales",
+    "subject_key": "historia_geografia",
+    "axis": "Habilidades de Historia y Geografía",
+    "title": "Usar fuentes, formular opiniones y comunicar información",
+    "oa": [
+      "HI01 OAH a",
+      "HI01 OAH b",
+      "HI01 OAH c",
+      "HI01 OAH d",
+      "HI01 OAH e",
+      "HI01 OAH f",
+      "HI01 OAH g"
+    ],
+    "path": "historia_geografia/23_usar_fuentes_formular_opiniones_y_comunicar_informacion.md",
+    "summary": "En primero básico se aprende a ordenar hechos, observar fuentes, ubicar lugares y comunicar ideas de manera clara.",
+    "version": "1.0"
+  }
+]

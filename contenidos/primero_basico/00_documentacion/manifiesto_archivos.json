@@ -1,0 +1,1052 @@
+[
+  {
+    "path": "00_documentacion/00_indice_maestro.md",
+    "size_bytes": 1894,
+    "sha256": "ba577094b7fdaf1ba71dc97a72fe24d89f3daf5af36378c77bdc1dfa400300ad"
+  },
+  {
+    "path": "00_documentacion/01_estado_curricular_y_fuentes.md",
+    "size_bytes": 2102,
+    "sha256": "67d994749e3ea52eb5dd4ab61f6e2d1d6b22cf97c3a0cb59a9fb8dcffa4aca7c"
+  },
+  {
+    "path": "00_documentacion/02_mapa_oa_y_cobertura.md",
+    "size_bytes": 15877,
+    "sha256": "c75be867437b6a3d2a303d1eb8b20e780e9d9605c6594fd2f76c3be0b87dd489"
+  },
+  {
+    "path": "00_documentacion/03_rutas_de_aprendizaje.md",
+    "size_bytes": 2105,
+    "sha256": "6bf07ae070a8520bbb35ae1a5d9def5551fb2a27d27d17daf6c5cdb3f8e56148"
+  },
+  {
+    "path": "00_documentacion/04_guia_editorial_y_lectura_facil.md",
+    "size_bytes": 1802,
+    "sha256": "296ceafed3ef7cd4fb001cb27443314610ffde51c83b70de18cab4879a0618eb"
+  },
+  {
+    "path": "00_documentacion/05_arquitectura_de_contenidos.md",
+    "size_bytes": 902,
+    "sha256": "96e891375526ddabe4f0fc1ed5af70489e884951fb46ab9b9a36a82915026ee7"
+  },
+  {
+    "path": "00_documentacion/06_integracion_ollama_rag.md",
+    "size_bytes": 1819,
+    "sha256": "0a6fa59f4b3a3dbf75bdad9f9da4ef117830fe52a2b5d1a584c899262e563c48"
+  },
+  {
+    "path": "00_documentacion/07_prompt_sistema_ollama.md",
+    "size_bytes": 1297,
+    "sha256": "6e0182d798358ac1b723aa8ee7b9a76589048daa5706129eca164cd699d0b01a"
+  },
+  {
+    "path": "00_documentacion/08_configuracion_rag.yaml",
+    "size_bytes": 716,
+    "sha256": "3d4cd0d225bcda65d96bafaf221b2efdb73a56ff928f00981e5973e459248ab1"
+  },
+  {
+    "path": "00_documentacion/09_pruebas_de_recuperacion.md",
+    "size_bytes": 1207,
+    "sha256": "c25acb639a39595b02e4cc10100420194cde61b7fa450b8556ceb1d3dc0c4da3"
+  },
+  {
+    "path": "00_documentacion/10_control_de_calidad.md",
+    "size_bytes": 673,
+    "sha256": "5a20d2b0d8ceffc855e5b1ff21c06af3168430dc789656458c05d24561daf50f"
+  },
+  {
+    "path": "00_documentacion/11_plantilla_nuevo_tema.md",
+    "size_bytes": 833,
+    "sha256": "c06212b6ee633faf73213aacf2b32dede0b66bb5fcc4c17dc5c6d485673b12bf"
+  },
+  {
+    "path": "00_documentacion/12_integridad_y_mantenimiento.md",
+    "size_bytes": 634,
+    "sha256": "60ffe73153129c61abc7c43206c0b1b31db6e9cf9d0f6a73e8bcee68386b949d"
+  },
+  {
+    "path": "00_documentacion/chunks_rag.jsonl",
+    "size_bytes": 1635007,
+    "sha256": "21fe5878b3be872822a429e4c5971a8f6dd719a15163284c3bf1c28f64e2c6db"
+  },
+  {
+    "path": "00_documentacion/indice_catalogo.jsonl",
+    "size_bytes": 51759,
+    "sha256": "ab6ec856a71b6883569c84f20444c6b9a0d4feefb5efc560398310c157228d43"
+  },
+  {
+    "path": "00_documentacion/records_ciencias_naturales.json",
+    "size_bytes": 11077,
+    "sha256": "c0b8f61bb42b84a41a55d598373ee6472db958621be395429b25da1722cec7ac"
+  },
+  {
+    "path": "00_documentacion/records_historia_geografia.json",
+    "size_bytes": 13176,
+    "sha256": "026accb85c928f89c4848d712537f9823835c6ec962d4a422619236473abec4c"
+  },
+  {
+    "path": "00_documentacion/records_lenguaje.json",
+    "size_bytes": 19544,
+    "sha256": "6b21f2a7b76a039aad58fdeea77a562c7345d0e1e746bb9277061fa2b3c5ec6d"
+  },
+  {
+    "path": "00_documentacion/records_matematica.json",
+    "size_bytes": 14680,
+    "sha256": "17983271209233324526dec0cfff014a92de405e2589da5a1574b5600eac52f1"
+  },
+  {
+    "path": "CHANGELOG.md",
+    "size_bytes": 424,
+    "sha256": "2705a3572c4d958cd41b10cede1aa73acc6613ffba13488a1cc7563a52cdc4f7"
+  },
+  {
+    "path": "README.md",
+    "size_bytes": 2341,
+    "sha256": "d13f9e5f32af6b7b0a0dbb6aa14e5aad1aa18e825ad8d9da5249136e79b61e73"
+  },
+  {
+    "path": "apoyo_inclusivo/00_indice_apoyo_inclusivo.md",
+    "size_bytes": 568,
+    "sha256": "2dfcee5dd2a114317e4f3b8cd55326ebb2e671ae20e1433b64ca9b5c27450388"
+  },
+  {
+    "path": "apoyo_inclusivo/01_modos_de_respuesta.md",
+    "size_bytes": 573,
+    "sha256": "7fc570c8d0984d66fcbd2767ab69106c2f4f07618c3193479e8eb877add0f851"
+  },
+  {
+    "path": "apoyo_inclusivo/02_organizadores_visuales_textuales.md",
+    "size_bytes": 524,
+    "sha256": "5ea34e7f0d8742031b8ec6a4b0c02fb892753430e4e311b03451505b145565c5"
+  },
+  {
+    "path": "apoyo_inclusivo/03_estrategias_ante_bloqueo.md",
+    "size_bytes": 490,
+    "sha256": "ff9870775a7f1ccfcfafaee47a450f28c33ec4ff17a769b4faa4d0f283d5f093"
+  },
+  {
+    "path": "apoyo_inclusivo/04_evaluacion_accesible.md",
+    "size_bytes": 615,
+    "sha256": "817dab20d209fc47ee42c1dd7d7a1fa9d26e10dc5ba5c0a7bcff91a313c18c1b"
+  },
+  {
+    "path": "apoyo_inclusivo/05_privacidad_seguridad_y_temas_sensibles.md",
+    "size_bytes": 813,
+    "sha256": "49dba45c39733d97715a0ae66b469b90409711d433e6e721cb615e1912584f23"
+  },
+  {
+    "path": "apoyo_inclusivo/06_guia_para_familias.md",
+    "size_bytes": 578,
+    "sha256": "79b55785a667200b55391dcde177fe2d476e8a747644eca25d6d3364d0a3cf8e"
+  },
+  {
+    "path": "apoyo_inclusivo/07_apoyo_alfabetizacion_inicial.md",
+    "size_bytes": 629,
+    "sha256": "14cada279f16b835344d03f62ce21979438528be4c76827b543782fc4facd59c"
+  },
+  {
+    "path": "apoyo_inclusivo/08_apoyo_matematico_concreto.md",
+    "size_bytes": 558,
+    "sha256": "bb66f47aaeb11b362e8f269e86f6513be1eee0b3604ca47c88f75a60db168f63"
+  },
+  {
+    "path": "bancos/00_indice_bancos.md",
+    "size_bytes": 1119,
+    "sha256": "3442a8e6c8e50dff0b000fe10d39eb7b91bf778b64e5378e5b2669fed646d1d3"
+  },
+  {
+    "path": "bancos/banco_preguntas_ciencias_naturales.md",
+    "size_bytes": 8345,
+    "sha256": "0b7dad93d838decdfc4c6baf713f7ffb568c0ae147fac4732a35a10b72070bed"
+  },
+  {
+    "path": "bancos/banco_preguntas_historia_geografia.md",
+    "size_bytes": 9271,
+    "sha256": "8cfb69d287285ab632cec9558b5d46a87969d6c6ebb166aefd39b37563d21cdd"
+  },
+  {
+    "path": "bancos/banco_preguntas_lenguaje.md",
+    "size_bytes": 16217,
+    "sha256": "c489ba89e542e57964d2857311f820e0f8d7da4325d67500122821dc32676fb0"
+  },
+  {
+    "path": "bancos/banco_preguntas_matematica.md",
+    "size_bytes": 11426,
+    "sha256": "0c2dc7e920f826fefdda543e6aaed3c6db3ea52003a5d81a08a95e7063a13125"
+  },
+  {
+    "path": "bancos/glosario_ciencias_naturales.md",
+    "size_bytes": 4959,
+    "sha256": "c338cf248797f17271f458d610180d8eb2b36f66245425a3cba6df192f2fcbe5"
+  },
+  {
+    "path": "bancos/glosario_historia_geografia.md",
+    "size_bytes": 5379,
+    "sha256": "a199018882b62363ed3c00b2308bac2653f2974aa0329e15bd17fe3e07493408"
+  },
+  {
+    "path": "bancos/glosario_lenguaje.md",
+    "size_bytes": 8046,
+    "sha256": "7295f6ef0ce3fa44afc7087f223b3a3bfc93e2131e99065e046534e9bc129ab6"
+  },
+  {
+    "path": "bancos/glosario_matematica.md",
+    "size_bytes": 5712,
+    "sha256": "d8396c0ae5bc10d46d3c0be398d5844f8f963529f693262c7731cfa3007de704"
+  },
+  {
+    "path": "bancos/preguntas_frecuentes.md",
+    "size_bytes": 863,
+    "sha256": "810b47a683891940016ab4d69faa1892fc6f42b6d65856dcd3608a585c2a8240"
+  },
+  {
+    "path": "bancos/proyectos_interdisciplinarios.md",
+    "size_bytes": 1195,
+    "sha256": "9331a661912af42af26943467636710a61b26e792ace6726e3e6d39a72024f18"
+  },
+  {
+    "path": "bancos/rubricas.md",
+    "size_bytes": 934,
+    "sha256": "a0c6a2e30993e5e8d431a8f4d24fb8c539c3d742b99e4becd171b779fbe1f90f"
+  },
+  {
+    "path": "bancos/tarjetas_repaso_ciencias_naturales.md",
+    "size_bytes": 2835,
+    "sha256": "bb21aef24cade6c76886124a30398f061b3a68d76613f3197609b95409077187"
+  },
+  {
+    "path": "bancos/tarjetas_repaso_historia_geografia.md",
+    "size_bytes": 3346,
+    "sha256": "ceeb8749b1777694b9c6ee2a696db416482408b06bb6784d07a5b5c40cb0afd7"
+  },
+  {
+    "path": "bancos/tarjetas_repaso_lenguaje.md",
+    "size_bytes": 5362,
+    "sha256": "c9a3b846b9794c63a755df2664a46ac9af422fb3c2f2da8b0de3c02ee311cebe"
+  },
+  {
+    "path": "bancos/tarjetas_repaso_matematica.md",
+    "size_bytes": 3831,
+    "sha256": "0cf76c9533f70099984b193bc10a36faa9b2571a1f784fb4878cef1616664577"
+  },
+  {
+    "path": "ciencias_naturales/00_indice_ciencias_naturales.md",
+    "size_bytes": 2495,
+    "sha256": "ee85e0a01736d7b3eb93a63e006967f1d3dc14686328659f6002cf355a72dcc5"
+  },
+  {
+    "path": "ciencias_naturales/01_seres_vivos_y_cosas_no_vivas.md",
+    "size_bytes": 7050,
+    "sha256": "6ee50191d1e2555c3a02a0778656d1b30e739c0adc63cc61fde4b22347a610a8"
+  },
+  {
+    "path": "ciencias_naturales/02_necesidades_de_los_seres_vivos.md",
+    "size_bytes": 6839,
+    "sha256": "a418a276019e2d56efb2440d44c60a772208db133da2ebf1a72fcfacde6d5fb7"
+  },
+  {
+    "path": "ciencias_naturales/03_crecimiento_respuesta_y_reproduccion.md",
+    "size_bytes": 6854,
+    "sha256": "2a606215d5c64a20d943e1f80b2404dae56d3f19bad91f91cf01468a4ef7c619"
+  },
+  {
+    "path": "ciencias_naturales/04_comparar_animales_por_tamano_y_cubierta_corporal.md",
+    "size_bytes": 6966,
+    "sha256": "93bf677153c98f30416a4062712c1635f6789e956e539a80ff3f4d87b8bf768a"
+  },
+  {
+    "path": "ciencias_naturales/05_estructuras_de_desplazamiento_y_habitat_de_animales.md",
+    "size_bytes": 6932,
+    "sha256": "9c1ed2854caabb6aaf3ecac5559a021d09ff72468e4d74d2122d3007a151a81a"
+  },
+  {
+    "path": "ciencias_naturales/06_partes_principales_de_las_plantas.md",
+    "size_bytes": 6850,
+    "sha256": "48d32baa715d76a0f229181ad434198979e484a02287ccc136bfc8b35352f851"
+  },
+  {
+    "path": "ciencias_naturales/07_clasificar_semillas_frutos_flores_y_tallos.md",
+    "size_bytes": 6940,
+    "sha256": "bfa6b337d24f0d027b3c6dfe01d1b64c2b9db9d4eff3a1a48d6a3872e6fec93b"
+  },
+  {
+    "path": "ciencias_naturales/08_plantas_y_animales_de_chile.md",
+    "size_bytes": 6711,
+    "sha256": "07e2057d6ecb2b2788b37affb002189ac134a1e05692e32a527a17738bc76e4a"
+  },
+  {
+    "path": "ciencias_naturales/09_cuidar_plantas_animales_y_sus_ambientes.md",
+    "size_bytes": 6851,
+    "sha256": "db9a8813a4744e9598c07fd87962657c25c9e6d6026532fb7ca2bb9ccba35858"
+  },
+  {
+    "path": "ciencias_naturales/10_los_cinco_sentidos_ubicacion_y_funcion.md",
+    "size_bytes": 6842,
+    "sha256": "466219d416b153c596e8056e1e6125f06b5f113138b9d5d1355fdbf2c83157e9"
+  },
+  {
+    "path": "ciencias_naturales/11_proteger_los_sentidos_y_prevenir_riesgos.md",
+    "size_bytes": 6841,
+    "sha256": "e93acad0552137f59cbdc5eee100dbeabd8311f1dc7568294ff4556823403f57"
+  },
+  {
+    "path": "ciencias_naturales/12_habitos_de_vida_saludable.md",
+    "size_bytes": 6731,
+    "sha256": "cf0749c2c08d28dd296cffadb88a8366a89d57c4b196e414d25e050668d12c7c"
+  },
+  {
+    "path": "ciencias_naturales/13_materiales_de_objetos_cotidianos.md",
+    "size_bytes": 6802,
+    "sha256": "e95f4285ba56b77c6dc425c3ca34902e56cd0853c6612258019fec6a2d274f04"
+  },
+  {
+    "path": "ciencias_naturales/14_propiedades_de_los_materiales.md",
+    "size_bytes": 7021,
+    "sha256": "8a33be8992683ea15d02441bbb8a8248899a5ef90dd25fa8b45a8453d2f7bdaf"
+  },
+  {
+    "path": "ciencias_naturales/15_cambios_producidos_por_fuerza_y_agua.md",
+    "size_bytes": 6815,
+    "sha256": "25631a1bb5ebece03379166fc53de05330157354b23ffd05cd390a2a6ba49b55"
+  },
+  {
+    "path": "ciencias_naturales/16_cambios_producidos_por_luz_y_calor.md",
+    "size_bytes": 6792,
+    "sha256": "c6b76739596cc853bc6e35049110c61ec108197baaaf5a966f06bbfca10e41da"
+  },
+  {
+    "path": "ciencias_naturales/17_disenar_un_objeto_tecnologico_simple.md",
+    "size_bytes": 6762,
+    "sha256": "2ce7370da59d624500ef87b6cb7524368426daf27e04163b62ece78d433e79f3"
+  },
+  {
+    "path": "ciencias_naturales/18_el_ciclo_diario_dia_y_noche.md",
+    "size_bytes": 6818,
+    "sha256": "8a160b4ac71399cc4b56909f501c0914e2c86f0236f7d90f593244e4c833f537"
+  },
+  {
+    "path": "ciencias_naturales/19_efectos_del_dia_y_la_noche_en_seres_vivos_y_ambiente.md",
+    "size_bytes": 6903,
+    "sha256": "f502c486ab234ce1864a8337ef1a40fec4a013c9861dc4387d65481b2dc60397"
+  },
+  {
+    "path": "ciencias_naturales/20_las_estaciones_del_ano_y_sus_cambios.md",
+    "size_bytes": 6922,
+    "sha256": "4fc00192969090d2bd25556c38e397bf066f6d06849c7404bcd3e9dafc0418b6"
+  },
+  {
+    "path": "ciencias_naturales/21_observar_experimentar_y_comunicar_de_forma_segura.md",
+    "size_bytes": 7269,
+    "sha256": "94a67320634125cee855addfe418857be60d4204801acb68b3c2667f9c3cdfb2"
+  },
+  {
+    "path": "compendios/README_compendios.md",
+    "size_bytes": 275,
+    "sha256": "4c77831310573a023610509e1fcf99c49a813afdfa8a16631424bc81e12eac0d"
+  },
+  {
+    "path": "compendios/compendio_ciencias_naturales.md",
+    "size_bytes": 134092,
+    "sha256": "f1414548d7590ca83842b86c01092ab89a002509fce5bac9710857097f668a53"
+  },
+  {
+    "path": "compendios/compendio_historia_geografia.md",
+    "size_bytes": 153836,
+    "sha256": "90f9909a70d85a78490a6193f1f589633d293d49a13a86f50f0ba507164800c0"
+  },
+  {
+    "path": "compendios/compendio_lenguaje.md",
+    "size_bytes": 251292,
+    "sha256": "666051db25836c6810615a24d081ab9af46c3cae2a776f82413621635ddc437f"
+  },
+  {
+    "path": "compendios/compendio_matematica.md",
+    "size_bytes": 187886,
+    "sha256": "03fcaf40de395c1ba1c1e505fdc3cb4ec4351740713206d75c121d1adc245760"
+  },
+  {
+    "path": "compendios/enciclopedia_completa_1_basico.md",
+    "size_bytes": 726854,
+    "sha256": "ea91e29ffe61d68e6233d06718f7fd8d3c7fa0dccfc13c9fe2bc2b6f7bbf3786"
+  },
+  {
+    "path": "evaluaciones/00_indice_evaluaciones.md",
+    "size_bytes": 3286,
+    "sha256": "9621ec0664280b6eb7a95220485f3da18b8b4b5f7124c1761860bfa7fd8af37d"
+  },
+  {
+    "path": "evaluaciones/diagnostico_ciencias_naturales.md",
+    "size_bytes": 2020,
+    "sha256": "857998b239d59a665934523039eed23b81a41be2956f0d07870974fe01fbaded"
+  },
+  {
+    "path": "evaluaciones/diagnostico_historia_geografia.md",
+    "size_bytes": 2097,
+    "sha256": "24ddb5639567bd4fb42628cdc3c6abb9621330364ec791d1731a51528f64830e"
+  },
+  {
+    "path": "evaluaciones/diagnostico_lenguaje.md",
+    "size_bytes": 2017,
+    "sha256": "df49d2d6b3b478e42ff8fb2d15ef2b5e9d606953f3f72805336b3bad4b590fa0"
+  },
+  {
+    "path": "evaluaciones/diagnostico_matematica.md",
+    "size_bytes": 1998,
+    "sha256": "e3f29c466106254ed7d67d512970b273890a216b6eb603740a3d1fe86e324046"
+  },
+  {
+    "path": "evaluaciones/guia_aplicacion_accesible.md",
+    "size_bytes": 665,
+    "sha256": "f0dd8e4b76c66a615d1548534b65f211e586e6f8bc96a0beb3d3ac254ea539cf"
+  },
+  {
+    "path": "evaluaciones/repaso_1_ciencias_naturales.md",
+    "size_bytes": 1104,
+    "sha256": "580c4f5144938d8de7ffbe29fc60732edcb39c0656e4a9e2dc1a68bc55ab9001"
+  },
+  {
+    "path": "evaluaciones/repaso_1_historia_geografia.md",
+    "size_bytes": 1181,
+    "sha256": "becadc77bbdd934bc23942799cefee813f4bd32513fcbb93baa5a96097b1394d"
+  },
+  {
+    "path": "evaluaciones/repaso_1_lenguaje.md",
+    "size_bytes": 1738,
+    "sha256": "8423ef622929de2164e5e7bb501d679f0fde307fa5ed7c9ee2f7270b8d43bff1"
+  },
+  {
+    "path": "evaluaciones/repaso_1_matematica.md",
+    "size_bytes": 1568,
+    "sha256": "7fa7825654bd48c5bea4a1a148271e224ad7793e7a811b51fc9e5476f157da1e"
+  },
+  {
+    "path": "evaluaciones/repaso_2_ciencias_naturales.md",
+    "size_bytes": 1187,
+    "sha256": "b1a43235b105a13be3d76d390a3c4b8577cdcf1878bd98fd4c4a60885b50f1ef"
+  },
+  {
+    "path": "evaluaciones/repaso_2_historia_geografia.md",
+    "size_bytes": 1188,
+    "sha256": "de9fbdfb7e3163fd66ce9b5c405adab8ebaf89260ed82103cb6a6fe2b00380c1"
+  },
+  {
+    "path": "evaluaciones/repaso_2_lenguaje.md",
+    "size_bytes": 1918,
+    "sha256": "481530d6223ef1314890573561669170c4fb1c8be262c43efa954736de5ed425"
+  },
+  {
+    "path": "evaluaciones/repaso_2_matematica.md",
+    "size_bytes": 1263,
+    "sha256": "62621eb34b5cba0531fdfe01ad12a337446665012ed8ae76b3cdf84cd4248148"
+  },
+  {
+    "path": "evaluaciones/repaso_3_ciencias_naturales.md",
+    "size_bytes": 1070,
+    "sha256": "42da69057c59f0344c71ce4502a67c42e49c78f069927b66794a09a222513059"
+  },
+  {
+    "path": "evaluaciones/repaso_3_historia_geografia.md",
+    "size_bytes": 1240,
+    "sha256": "cb75a378d313ced731bd3f99d16161aa4de2c37d8a6af5a485610b3e1461b8c5"
+  },
+  {
+    "path": "evaluaciones/repaso_3_lenguaje.md",
+    "size_bytes": 1798,
+    "sha256": "70361d0a53f86c25b8643ab7adbe63584b7fa9c668e12e8f8a49e63a15884dd7"
+  },
+  {
+    "path": "evaluaciones/repaso_3_matematica.md",
+    "size_bytes": 1527,
+    "sha256": "d4510e855143c6a49653e13933ff899d7e5036b6efa5c2f855cd0081c8488916"
+  },
+  {
+    "path": "evaluaciones/repaso_4_ciencias_naturales.md",
+    "size_bytes": 684,
+    "sha256": "f2458444066cbdd3105cecd282fb94a96866996a00be736d61061439ed514de3"
+  },
+  {
+    "path": "evaluaciones/repaso_4_historia_geografia.md",
+    "size_bytes": 1042,
+    "sha256": "573c09fa7178dc81832489a9eafcf460b9eba4bb44f22609aa2f7a91eaad50df"
+  },
+  {
+    "path": "evaluaciones/repaso_4_lenguaje.md",
+    "size_bytes": 1575,
+    "sha256": "3292881e7a924ee5df0ed7fc626892d241dcd8caec625e0ab2f957815e8cc6d7"
+  },
+  {
+    "path": "evaluaciones/repaso_4_matematica.md",
+    "size_bytes": 1164,
+    "sha256": "a23e8e533ab1afbb65757a312657ad0834f0c2f7ef06d55dcf6735829faea6cb"
+  },
+  {
+    "path": "evaluaciones/respuestas_diagnostico_ciencias_naturales.md",
+    "size_bytes": 1472,
+    "sha256": "f93524b1dcd39b63b494ced3f881ffc9b9a1a62c7ac275f9f8bf00d2611d179b"
+  },
+  {
+    "path": "evaluaciones/respuestas_diagnostico_historia_geografia.md",
+    "size_bytes": 1685,
+    "sha256": "c34ac100def9848d1a560a358cf1d227da1a8468d87aff428903116cb2b5ffb2"
+  },
+  {
+    "path": "evaluaciones/respuestas_diagnostico_lenguaje.md",
+    "size_bytes": 1566,
+    "sha256": "09cb2a9c9e886f10c416413b1d2579b2b66799ae3a860b4919b59c542b7b7045"
+  },
+  {
+    "path": "evaluaciones/respuestas_diagnostico_matematica.md",
+    "size_bytes": 1300,
+    "sha256": "910484cd72b676f1e926d93a2215b769c833cb7063d3463c13d6f60aca6bde05"
+  },
+  {
+    "path": "evaluaciones/respuestas_repaso_1_ciencias_naturales.md",
+    "size_bytes": 466,
+    "sha256": "3c1f609c20acd19b39fe2a7bc77565dc9f2a1dd7b513d177b9857f91d9f1300e"
+  },
+  {
+    "path": "evaluaciones/respuestas_repaso_1_historia_geografia.md",
+    "size_bytes": 579,
+    "sha256": "cb2c630776c085eec98bed5da641d6e4b39b0cc4ac9f7e838b4a59765770b724"
+  },
+  {
+    "path": "evaluaciones/respuestas_repaso_1_lenguaje.md",
+    "size_bytes": 888,
+    "sha256": "ee8f044bd42981697ca3a0c4a8b0b8c6cb7074b1356b8770dd601f0bf0ffb3f3"
+  },
+  {
+    "path": "evaluaciones/respuestas_repaso_1_matematica.md",
+    "size_bytes": 500,
+    "sha256": "a59002a14ac6783e776a21eacfc7537e761e34cb4909925ffc0987645ff8caea"
+  },
+  {
+    "path": "evaluaciones/respuestas_repaso_2_ciencias_naturales.md",
+    "size_bytes": 533,
+    "sha256": "3cc3422c2922b31f3c5cea0d3df111031b6c97aff696d7795f40512bc7c35942"
+  },
+  {
+    "path": "evaluaciones/respuestas_repaso_2_historia_geografia.md",
+    "size_bytes": 496,
+    "sha256": "56876a9bbdcf29df32608a4432913c8e4eb1be4757ed027bf3e085c24504bd8f"
+  },
+  {
+    "path": "evaluaciones/respuestas_repaso_2_lenguaje.md",
+    "size_bytes": 865,
+    "sha256": "571492dab82dfec67129451b796f91e35c48bf3ecea96639c91901aa688764f2"
+  },
+  {
+    "path": "evaluaciones/respuestas_repaso_2_matematica.md",
+    "size_bytes": 502,
+    "sha256": "20ecd29f809bbba4ff61cad9f29e4c39b7baf6ba46d9f9753bff1f8e65551988"
+  },
+  {
+    "path": "evaluaciones/respuestas_repaso_3_ciencias_naturales.md",
+    "size_bytes": 502,
+    "sha256": "949ecd189ae81b53d78119a930cb1ab7ce9e8308bc598f473fe5b3caf824da8c"
+  },
+  {
+    "path": "evaluaciones/respuestas_repaso_3_historia_geografia.md",
+    "size_bytes": 578,
+    "sha256": "cef11adeef2a893e82033fa90b06c17f01b7d2d3b50fbaac95e166b287ca0950"
+  },
+  {
+    "path": "evaluaciones/respuestas_repaso_3_lenguaje.md",
+    "size_bytes": 967,
+    "sha256": "e5b623c9e7cc7add3cd11a4ca20def63f9937f1e192a4e57325906d93d2ff389"
+  },
+  {
+    "path": "evaluaciones/respuestas_repaso_3_matematica.md",
+    "size_bytes": 667,
+    "sha256": "98d1768b78d413458a87ffad37aa529f86cda39c540c1e6ec1019368a839c6ad"
+  },
+  {
+    "path": "evaluaciones/respuestas_repaso_4_ciencias_naturales.md",
+    "size_bytes": 282,
+    "sha256": "4570b5baab5d3dd33bfc636819ca3c1a51707b2b72dcd9d5229cf70aea3fa704"
+  },
+  {
+    "path": "evaluaciones/respuestas_repaso_4_historia_geografia.md",
+    "size_bytes": 545,
+    "sha256": "fba7d87e136e276bb1bef7a7d8bb49f79f81beae2eab47be3d531013c00eedd9"
+  },
+  {
+    "path": "evaluaciones/respuestas_repaso_4_lenguaje.md",
+    "size_bytes": 785,
+    "sha256": "f1a7622004bd9c3ccf9580e7ff04d848cfa4567c2b467a7e5051d5d9865ee1a6"
+  },
+  {
+    "path": "evaluaciones/respuestas_repaso_4_matematica.md",
+    "size_bytes": 476,
+    "sha256": "fd0831f655b3a7903c220d40e37a8eb6ae9e7b4037306d935a0e3a31e3f5cfb1"
+  },
+  {
+    "path": "historia_geografia/00_indice_historia_geografia.md",
+    "size_bytes": 3009,
+    "sha256": "b47fce10f28998fa484ec44c5787f54e33c9ef67bcd3dc9ba933ec36c26577b4"
+  },
+  {
+    "path": "historia_geografia/01_dias_de_la_semana_meses_y_ano_en_curso.md",
+    "size_bytes": 6870,
+    "sha256": "d763a9ef3c4cccc4bb3085a2936c42fed8440f36f49ebd4471a858974afeb27a"
+  },
+  {
+    "path": "historia_geografia/02_antes_despues_ayer_hoy_y_manana.md",
+    "size_bytes": 6769,
+    "sha256": "db834415f09c45f6a3aba99aaa55334eba751ea8f8f52203e32e34627c674ce0"
+  },
+  {
+    "path": "historia_geografia/03_dia_noche_este_ano_ano_pasado_y_ano_proximo.md",
+    "size_bytes": 7019,
+    "sha256": "e242e199287e99da33b177f820a9cf69d2b261f9912ac6c0ed17b087e2d35052"
+  },
+  {
+    "path": "historia_geografia/04_elementos_de_la_identidad_personal.md",
+    "size_bytes": 7306,
+    "sha256": "e4c5b924cab128840e293f94682c68e25f9331f57d568f610316bba3bf1ea80a"
+  },
+  {
+    "path": "historia_geografia/05_diversidad_privacidad_y_respeto_en_la_identidad.md",
+    "size_bytes": 7387,
+    "sha256": "9bacf6577ea56b8a1f690adc9b969878eecd9f73a304db6f71fe547260328ac5"
+  },
+  {
+    "path": "historia_geografia/06_obtener_informacion_sobre_la_historia_familiar.md",
+    "size_bytes": 7461,
+    "sha256": "5911d59915b856ec8a32b7740f3ba584d0f45cc535f8d6c78bbd6ed86ef2c92f"
+  },
+  {
+    "path": "historia_geografia/07_familias_diversas_costumbres_y_roles.md",
+    "size_bytes": 7309,
+    "sha256": "af32fb512a3da91a960fdcbd1317393d6fb343f3b16a220a088f25c882fed6b0"
+  },
+  {
+    "path": "historia_geografia/08_simbolos_representativos_de_chile.md",
+    "size_bytes": 7065,
+    "sha256": "2c502d8a53d1edb25125c9424ad4e582275b39c3236257fba650decb4ced97a2"
+  },
+  {
+    "path": "historia_geografia/09_conmemoraciones_y_memoria_colectiva.md",
+    "size_bytes": 7275,
+    "sha256": "832effb04be83789b59a573d84b273073c4a0178dea727e368cf151ea7cca136"
+  },
+  {
+    "path": "historia_geografia/10_expresiones_culturales_locales_y_nacionales.md",
+    "size_bytes": 7224,
+    "sha256": "1e5e0511e485842f39792173618620fbdc3634735bcbd0773854ec6d2b17240c"
+  },
+  {
+    "path": "historia_geografia/11_fiestas_y_tradiciones_con_respeto_a_la_diversidad.md",
+    "size_bytes": 7388,
+    "sha256": "ad8c9a4f5ea4c508762190f4208f34f66dd2aa8e69cc5a101085fe515125142a"
+  },
+  {
+    "path": "historia_geografia/12_personas_que_han_contribuido_a_la_sociedad_chilena.md",
+    "size_bytes": 7329,
+    "sha256": "a17501e3c711f148fdb601d53a87fe94f051031da68962b93c59f7f7620bc1e6"
+  },
+  {
+    "path": "historia_geografia/13_mapas_y_planos_representan_lugares.md",
+    "size_bytes": 6862,
+    "sha256": "8c1fcc96e0a1887780b60f2d5116d008e67b80cf5ded8ba25f4a322a8d12dd34"
+  },
+  {
+    "path": "historia_geografia/14_ubicar_chile_cordillera_oceano_region_y_localidad.md",
+    "size_bytes": 7332,
+    "sha256": "f26e3f0ce064df2077098aee7b15d8350d38d23d7cdf37e52e5df9593a39cbb2"
+  },
+  {
+    "path": "historia_geografia/15_observar_y_describir_paisajes_locales.md",
+    "size_bytes": 6890,
+    "sha256": "ab5b560106dd3a1d02337870d3ce99ee3a2f878e167b2461d7c084316272fe2e"
+  },
+  {
+    "path": "historia_geografia/16_vocabulario_geografico_y_ubicacion_relativa.md",
+    "size_bytes": 7335,
+    "sha256": "cf45625095f40e80aacf991706231a614a38ce75dc6a9143cc5e88ef4a5ebe7d"
+  },
+  {
+    "path": "historia_geografia/17_trabajos_productos_y_servicios_de_la_localidad.md",
+    "size_bytes": 7073,
+    "sha256": "4bc61fe613329183fffc87c9bbf96b766f1c58d46c12a577f88ba247618d6546"
+  },
+  {
+    "path": "historia_geografia/18_como_viven_ninos_y_ninas_en_distintas_partes_del_mundo.md",
+    "size_bytes": 7178,
+    "sha256": "d893890d63b23ff4674a60f24a73b3290e7a7a6f0760b9a7ec720c151712d1f4"
+  },
+  {
+    "path": "historia_geografia/19_respeto_empatia_y_responsabilidad.md",
+    "size_bytes": 7592,
+    "sha256": "c64c0db7caf59c0e5dd49ca255efeabbf5c2119a820eff8bd728a6578e5001db"
+  },
+  {
+    "path": "historia_geografia/20_normas_para_la_buena_convivencia.md",
+    "size_bytes": 6770,
+    "sha256": "454b0647ed94848b1a356dd50433365408f402f1fda8de221d92498fbcf67db1"
+  },
+  {
+    "path": "historia_geografia/21_seguridad_y_autocuidado_en_casa_escuela_y_via_publica.md",
+    "size_bytes": 7457,
+    "sha256": "a9c7216e71435eaa6e57082482cc21368f49b3218e472d98dff8b7b69cb3bc92"
+  },
+  {
+    "path": "historia_geografia/22_instituciones_y_personas_que_ayudan_a_la_comunidad.md",
+    "size_bytes": 7466,
+    "sha256": "70bf949461db0e6324c49c17c95fe8454a8ce167665f476f4205c891d920f7c8"
+  },
+  {
+    "path": "historia_geografia/23_usar_fuentes_formular_opiniones_y_comunicar_informacion.md",
+    "size_bytes": 7465,
+    "sha256": "8226f3fe2122009867e4b758389f3525df66d4b6b22f6be4f52b6e1c83b7af63"
+  },
+  {
+    "path": "lenguaje/00_indice_lenguaje.md",
+    "size_bytes": 4374,
+    "sha256": "63748b2f1dd3116eeb8d040d6dfa0ca62cfe301d121c47a5a8b2083b3f4c81dd"
+  },
+  {
+    "path": "lenguaje/01_los_textos_transmiten_mensajes_y_tienen_proposito.md",
+    "size_bytes": 7249,
+    "sha256": "e6fe6b364d4350807d9def4ca7bcd9ee52aba360c764bd8d2167457a98c5fd8f"
+  },
+  {
+    "path": "lenguaje/02_las_palabras_estan_separadas_por_espacios.md",
+    "size_bytes": 7097,
+    "sha256": "f62fef35e48c8058e85c6bb4ba5fa017f0e3d99b03b9db379765881f9ccb3fa9"
+  },
+  {
+    "path": "lenguaje/03_separar_y_combinar_silabas.md",
+    "size_bytes": 7154,
+    "sha256": "99bf9832a9f0a58da119240c1d6f6efe169118a4c93c9119d71c41b69c0f19e2"
+  },
+  {
+    "path": "lenguaje/04_reconocer_sonidos_dentro_de_las_palabras.md",
+    "size_bytes": 7146,
+    "sha256": "5eeebecd2114eb5257f31288182261f2c447a9a60520e9959033d9fb495682f3"
+  },
+  {
+    "path": "lenguaje/05_relacionar_letras_y_sonidos.md",
+    "size_bytes": 7030,
+    "sha256": "c8acf3301f9950432db43bbd2fc31ebc7ea12a1b1c0e9ba620d1eeb3e16d420f"
+  },
+  {
+    "path": "lenguaje/06_leer_silabas_directas.md",
+    "size_bytes": 7005,
+    "sha256": "434de4a01209a075cba965b71ce346ee5804486cdd350b73085cfdc360dd7d95"
+  },
+  {
+    "path": "lenguaje/07_leer_silabas_indirectas_y_complejas.md",
+    "size_bytes": 7176,
+    "sha256": "fe4021e0b3ae1153c2813336c5e2a2d48f0e2c2f832e491d295c1d2c034db439"
+  },
+  {
+    "path": "lenguaje/08_leer_digrafos_rr_ll_ch_y_qu.md",
+    "size_bytes": 7010,
+    "sha256": "6359bfb22ba8b7e9e9c867eed7ccdc228b16b6da918ab15ef4666aee2f4e3177"
+  },
+  {
+    "path": "lenguaje/09_leer_palabras_aisladas_y_en_oraciones.md",
+    "size_bytes": 7350,
+    "sha256": "5e02cfb1a3151ae89ae6ede9e1828334e841ced7b386f75ca90af704d5853983"
+  },
+  {
+    "path": "lenguaje/10_leer_en_voz_alta_con_precision.md",
+    "size_bytes": 7225,
+    "sha256": "819f2d5e82f3440dbf8651027e9a695ffb47c69b9f71d9d15e691380d47d795a"
+  },
+  {
+    "path": "lenguaje/11_respetar_puntos_y_pausas_al_leer.md",
+    "size_bytes": 6880,
+    "sha256": "d94c4af298aef279cb030b6f175d85de1df5ed8499abe968faa3a674aaf5077d"
+  },
+  {
+    "path": "lenguaje/12_relacionar_el_texto_con_experiencias_y_conocimientos.md",
+    "size_bytes": 7235,
+    "sha256": "a44bdb111df82d6987082da0f4283423af4f8e062eb4ebe90a59e1cad4e7d7c7"
+  },
+  {
+    "path": "lenguaje/13_visualizar_lo_que_describe_un_texto.md",
+    "size_bytes": 6994,
+    "sha256": "8f5133e61696b8129b88e5a3694164165b3951be2a495a351c3875473a4b66e1"
+  },
+  {
+    "path": "lenguaje/14_conocer_cuentos_poemas_y_textos_predecibles.md",
+    "size_bytes": 7123,
+    "sha256": "1328a26c48b2df83d33381f971df570a854b7591c009368e12735176d5961b6c"
+  },
+  {
+    "path": "lenguaje/15_encontrar_informacion_explicita_en_narraciones.md",
+    "size_bytes": 7127,
+    "sha256": "64e07589297e41211fcdce6e0ee908d335cfa625f7c80ddbe48b7addf5fd93d8"
+  },
+  {
+    "path": "lenguaje/16_comprender_informacion_implicita_sencilla.md",
+    "size_bytes": 7051,
+    "sha256": "45e7053b25d55643feca1a8499e19a9587fc55052acbecd0948763e6946a90ce"
+  },
+  {
+    "path": "lenguaje/17_responder_que_quien_donde_cuando_y_por_que.md",
+    "size_bytes": 7065,
+    "sha256": "e9a71158168c23a2cf305c6d222ea97db0bdce89a90cb351c92ba83527ec19cf"
+  },
+  {
+    "path": "lenguaje/18_ordenar_acciones_y_reconocer_personajes_y_lugares.md",
+    "size_bytes": 7117,
+    "sha256": "c78b6ec894812bc2b72b4cc45992864c0372dd1b37982b0c23c6e5db065e7d3d"
+  },
+  {
+    "path": "lenguaje/19_relacionar_ilustraciones_con_la_historia.md",
+    "size_bytes": 7221,
+    "sha256": "f048dcf8b2ab5520680e0e62b9153475474d4ecfcd705789a417f30213905f31"
+  },
+  {
+    "path": "lenguaje/20_dar_una_opinion_sobre_una_lectura.md",
+    "size_bytes": 7100,
+    "sha256": "32d430817e649bab7572a7792d245c57b985cb0526a0defc120b4da6674e9d97"
+  },
+  {
+    "path": "lenguaje/21_poemas_rimas_y_tradicion_oral.md",
+    "size_bytes": 7033,
+    "sha256": "db3be7edb291cf2b4704200f079c94cd5b66705798374f0d9714ae5bf847bcd5"
+  },
+  {
+    "path": "lenguaje/22_comprender_cartas_y_notas.md",
+    "size_bytes": 6735,
+    "sha256": "b90c9ae0f8c5678532881ccb26abaf48cf085a171bdd85e4b907471c3ccc3f1b"
+  },
+  {
+    "path": "lenguaje/23_comprender_y_seguir_instrucciones.md",
+    "size_bytes": 7011,
+    "sha256": "560a80b4443693fcf0df9068433ec54d8106501d8e4d6bcf877cbc14551e165b"
+  },
+  {
+    "path": "lenguaje/24_comprender_articulos_informativos_simples.md",
+    "size_bytes": 6874,
+    "sha256": "e3a427fc3e6b49bba27dfe9560b4159c3d725e2e2b998cc9b0d25dcbb669bda5"
+  },
+  {
+    "path": "lenguaje/25_explorar_libros_y_usar_la_biblioteca.md",
+    "size_bytes": 7266,
+    "sha256": "2a6ca691dbb8fda1671b9e6911b1a09a87d5129862cdf964d73e69a059b963fb"
+  },
+  {
+    "path": "lenguaje/26_escribir_para_comunicar_ideas_hechos_y_sentimientos.md",
+    "size_bytes": 7300,
+    "sha256": "bd515a50f2d907d8eaebd3509f231fd1d06afcaa2e5f6e578d1b1bc5be041baf"
+  },
+  {
+    "path": "lenguaje/27_escribir_oraciones_completas.md",
+    "size_bytes": 6983,
+    "sha256": "72da1e4aa5ce8295ce60a55ed59049fd81710b1eb4ddf271dab271a428d740f9"
+  },
+  {
+    "path": "lenguaje/28_escribir_con_letra_clara_y_separar_palabras.md",
+    "size_bytes": 7025,
+    "sha256": "b220c7779387fc6293388df7e2f35304be82767a4a29e3e98a2a0f369016f003"
+  },
+  {
+    "path": "lenguaje/29_usar_vocabulario_nuevo_al_escribir.md",
+    "size_bytes": 7133,
+    "sha256": "51f9ec58554595d5c4619b24f00bf28e5246334cf92b07e17d383d4d40ed578f"
+  },
+  {
+    "path": "lenguaje/30_disfrutar_cuentos_poemas_fabulas_y_leyendas_escuchados.md",
+    "size_bytes": 7336,
+    "sha256": "6ef936afac641b56b119169827a90e907a233a2eaca330bdb7dd56aaccb61eaf"
+  },
+  {
+    "path": "lenguaje/31_comprender_explicaciones_relatos_e_instrucciones_orales.md",
+    "size_bytes": 7389,
+    "sha256": "62fcad5ffe88239d7f513118ed90970f90fcb51837c2077dd70eb9a3c8aef965"
+  },
+  {
+    "path": "lenguaje/32_averiguar_palabras_y_expresiones_desconocidas.md",
+    "size_bytes": 7285,
+    "sha256": "512127d7b3f924821c1b3603e28b379b900508fa3bd8d660ce6313d840e1197b"
+  },
+  {
+    "path": "lenguaje/33_teatro_infantil_y_expresion_creativa.md",
+    "size_bytes": 7091,
+    "sha256": "674a76e817a93893551d0d342d4f1c1a504a8ebc40b85c04948107a84f984fa2"
+  },
+  {
+    "path": "lenguaje/34_conversar_escuchar_y_respetar_turnos.md",
+    "size_bytes": 7114,
+    "sha256": "04e3072e33fbd5520f3c326bf678b4f3f77cb5ecbae25960656087c70c75db5a"
+  },
+  {
+    "path": "lenguaje/35_saludos_cortesia_y_expresion_de_necesidades.md",
+    "size_bytes": 7355,
+    "sha256": "7696b44a987374814f3df152ea0da82983766bcc4eb866676f38b5b7d25339ab"
+  },
+  {
+    "path": "lenguaje/36_hablar_de_un_tema_con_orden_descripcion_y_volumen_adecuado.md",
+    "size_bytes": 7185,
+    "sha256": "d01ee028ced67433daf89dc37bc1f2790c3a9f67fcc9da3882083062fb0c2c8f"
+  },
+  {
+    "path": "lenguaje/37_trabajar_en_equipo_y_desempenar_roles.md",
+    "size_bytes": 6858,
+    "sha256": "a0a33ef75e8569ac5ac21891a94303a7e135e3403f85b1c266279029ee9b0179"
+  },
+  {
+    "path": "lenguaje/38_recitar_con_ritmo_entonacion_y_expresion.md",
+    "size_bytes": 7110,
+    "sha256": "26af6e46badab5cfaa017c9a145da1879cb9dcab89eb73ee8453bf540525abef"
+  },
+  {
+    "path": "matematica/00_indice_matematica.md",
+    "size_bytes": 3358,
+    "sha256": "38b01356f2d5d9c05eb495b60d0dcebd8f2991837f36f8cd4901e88276392bb7"
+  },
+  {
+    "path": "matematica/01_contar_de_uno_en_uno_hasta_100.md",
+    "size_bytes": 6815,
+    "sha256": "f44b5740f8e971e9773714cc7edb59b49972b6f4416662c561a9162d14f69442"
+  },
+  {
+    "path": "matematica/02_contar_de_dos_en_dos.md",
+    "size_bytes": 6467,
+    "sha256": "45956b86116d9cc6f49e9af40018803e42917e276d7ed52d5062655ca9087fce"
+  },
+  {
+    "path": "matematica/03_contar_de_cinco_en_cinco_y_de_diez_en_diez.md",
+    "size_bytes": 6912,
+    "sha256": "58bcab9fcf8f42bdf0c9398a72cfe2c9826038fcc475213103a3bff67cc02f51"
+  },
+  {
+    "path": "matematica/04_contar_hacia_adelante_y_atras_desde_distintos_numeros.md",
+    "size_bytes": 6728,
+    "sha256": "e5c151ffd07c887ad31fba72bc96ce80e41b621fe333314b8785478ce210b63d"
+  },
+  {
+    "path": "matematica/05_usar_numeros_ordinales_del_primero_al_decimo.md",
+    "size_bytes": 6708,
+    "sha256": "fa0ad94f1030e23aa9cc3232fe3eba394192e0650f18ab4fcd50b70fd85960ba"
+  },
+  {
+    "path": "matematica/06_leer_y_escribir_numeros_del_0_al_20.md",
+    "size_bytes": 6686,
+    "sha256": "953705ceb26bf67351a725911e258027afd876824e6a8a5eb911e2438f499f5c"
+  },
+  {
+    "path": "matematica/07_representar_numeros_de_forma_concreta_pictorica_y_simbolica.md",
+    "size_bytes": 6758,
+    "sha256": "befc5a471da7bdf5b6e0d52ea268b2c8d1a2b8ff4a6913d8ffb820a6768f5bc7"
+  },
+  {
+    "path": "matematica/08_comparar_y_ordenar_numeros_hasta_20.md",
+    "size_bytes": 6860,
+    "sha256": "de8713f7232d9f9ad8eff98313d4c2dc7af9f135ba4b4347b06c344529e73ed0"
+  },
+  {
+    "path": "matematica/09_estimar_cantidades_hasta_20.md",
+    "size_bytes": 6698,
+    "sha256": "22f0ec4dfb7fadc7ffd009a4f507a093d6dd93b08ac881c8246a83e3ee05e9e6"
+  },
+  {
+    "path": "matematica/10_componer_y_descomponer_numeros_hasta_20.md",
+    "size_bytes": 6797,
+    "sha256": "d5ce0768cab9e31170144664e45227a079b7702cf7afda500c35f5539a6446fc"
+  },
+  {
+    "path": "matematica/11_calcular_contando_hacia_adelante_o_atras.md",
+    "size_bytes": 6657,
+    "sha256": "dcd506bc0997bcff7e15d284a3110ac776fac3516876e43d2ff48e0183c223b8"
+  },
+  {
+    "path": "matematica/12_completar_10.md",
+    "size_bytes": 6506,
+    "sha256": "c0e4c8445f1ba1bb6eaada6c64bbd78fdd0fc17ceca31e1a3d8f93ac3a26795e"
+  },
+  {
+    "path": "matematica/13_usar_dobles.md",
+    "size_bytes": 6336,
+    "sha256": "9417a53198cbc22659342ba15e2d658991f02e311dc59aa9b2d6763419b528ed"
+  },
+  {
+    "path": "matematica/14_unidades_y_decenas_hasta_20.md",
+    "size_bytes": 6693,
+    "sha256": "0ef374384db0dca9f2186f7f482fa9978fbf6bea557ecb041ab390c7803926ea"
+  },
+  {
+    "path": "matematica/15_comprender_la_adicion_hasta_20.md",
+    "size_bytes": 6618,
+    "sha256": "b95eadd57a641f178fe485be805ea6839c99ade9f9961ffde91dc7a6ad0d61e2"
+  },
+  {
+    "path": "matematica/16_comprender_la_sustraccion_hasta_20.md",
+    "size_bytes": 6905,
+    "sha256": "15faee45b500826afe0654a5c9e0194010af6d86128a8e358254ccbda06673ec"
+  },
+  {
+    "path": "matematica/17_resolver_problemas_de_suma_y_resta.md",
+    "size_bytes": 6938,
+    "sha256": "50db087774fcbed56e479deeabf62e78e9759cfd6701860262691833b214cd01"
+  },
+  {
+    "path": "matematica/18_crear_problemas_matematicos_sencillos.md",
+    "size_bytes": 6943,
+    "sha256": "9ffd097befe9e4a247b3e4e8940ff4c17618ddac71c3cc06bcb5c27e91c30a5b"
+  },
+  {
+    "path": "matematica/19_adicion_y_sustraccion_como_operaciones_inversas.md",
+    "size_bytes": 6770,
+    "sha256": "c950dbebfc1e94b00bf79e38ccb1c7adc72338fcacb2bf3250b49309cf36b64f"
+  },
+  {
+    "path": "matematica/20_reconocer_y_continuar_patrones_repetitivos.md",
+    "size_bytes": 6719,
+    "sha256": "73e848b50fa32f186288f24b39a178073617c25a09edad248e7be7cbbc30e708"
+  },
+  {
+    "path": "matematica/21_patrones_numericos_crecientes_y_decrecientes.md",
+    "size_bytes": 6588,
+    "sha256": "5ae9c9134ae3deb1b1ee4940ea76f97897f84470fb7b2740143444e59d157db9"
+  },
+  {
+    "path": "matematica/22_igualdad_y_desigualdad_como_equilibrio.md",
+    "size_bytes": 6866,
+    "sha256": "a6d6645bd83e9fe7f44bca4962754b0dd214e51576e63dcd5b8dbfc70cb4f32b"
+  },
+  {
+    "path": "matematica/23_describir_posiciones_derecha_izquierda_y_otras_relaciones.md",
+    "size_bytes": 6809,
+    "sha256": "bd9b19255ea76a8ee3e26e913e03a9e411aee6415246148421f2ce307eb22d4a"
+  },
+  {
+    "path": "matematica/24_relacionar_figuras_2d_y_cuerpos_3d.md",
+    "size_bytes": 6773,
+    "sha256": "2a0f77db188f19534cacc4c8f37274206c0bfb417810ca930f45d681fa556881"
+  },
+  {
+    "path": "matematica/25_identificar_y_dibujar_lineas_rectas_y_curvas.md",
+    "size_bytes": 6828,
+    "sha256": "a9e9b9a8a88708a0bb4f7e58750a2abed400b1c0678920c2c0b1690fb8ff919e"
+  },
+  {
+    "path": "matematica/26_comparar_duracion_con_unidades_no_estandarizadas.md",
+    "size_bytes": 6923,
+    "sha256": "dd837edd31ef077037e2517d84a19e4a21b0e87ac63741a38324a9390f4110a2"
+  },
+  {
+    "path": "matematica/27_secuenciar_dias_meses_y_fechas_significativas.md",
+    "size_bytes": 6658,
+    "sha256": "2790d558ae5629422c89cb9be5d7c44c44c1b8089ab38d861fedbe8130e0afd9"
+  },
+  {
+    "path": "matematica/28_comparar_longitudes_largo_y_corto.md",
+    "size_bytes": 6773,
+    "sha256": "b8188e0dd7fe4a0311f2dfe078a2a0de7bd0c3a98922a2c0a0aef1ac78d67536"
+  },
+  {
+    "path": "matematica/29_recolectar_y_registrar_datos.md",
+    "size_bytes": 6821,
+    "sha256": "23b510e373912e43cc3b77338f0078d62e9cf72c2b322e34b857bbc1c6ad1a04"
+  },
+  {
+    "path": "matematica/30_construir_leer_e_interpretar_pictogramas.md",
+    "size_bytes": 6793,
+    "sha256": "1cdb41ca343e9882c790615d8d476ae97bdafb8447074247580d2bf322d57efd"
+  }
+]

@@ -1,0 +1,299 @@
+[
+  {
+    "id": "1b_csn_01_seres_vivos_y_cosas_no_vivas",
+    "course": "primero_basico",
+    "subject": "Ciencias Naturales",
+    "subject_key": "ciencias_naturales",
+    "axis": "Ciencias de la Vida",
+    "title": "Seres vivos y cosas no vivas",
+    "oa": [
+      "CN01 OA 01"
+    ],
+    "path": "ciencias_naturales/01_seres_vivos_y_cosas_no_vivas.md",
+    "summary": "Los seres vivos realizan procesos de vida; las cosas no vivas no crecen, se reproducen ni necesitan alimento como un ser vivo.",
+    "version": "1.0"
+  },
+  {
+    "id": "1b_csn_02_necesidades_de_los_seres_vivos",
+    "course": "primero_basico",
+    "subject": "Ciencias Naturales",
+    "subject_key": "ciencias_naturales",
+    "axis": "Ciencias de la Vida",
+    "title": "Necesidades de los seres vivos",
+    "oa": [
+      "CN01 OA 01"
+    ],
+    "path": "ciencias_naturales/02_necesidades_de_los_seres_vivos.md",
+    "summary": "Los seres vivos necesitan condiciones y recursos para mantenerse con vida.",
+    "version": "1.0"
+  },
+  {
+    "id": "1b_csn_03_crecimiento_respuesta_y_reproduccion",
+    "course": "primero_basico",
+    "subject": "Ciencias Naturales",
+    "subject_key": "ciencias_naturales",
+    "axis": "Ciencias de la Vida",
+    "title": "Crecimiento, respuesta y reproducción",
+    "oa": [
+      "CN01 OA 01"
+    ],
+    "path": "ciencias_naturales/03_crecimiento_respuesta_y_reproduccion.md",
+    "summary": "Los seres vivos crecen, responden al ambiente y producen nuevos seres vivos de su tipo.",
+    "version": "1.0"
+  },
+  {
+    "id": "1b_csn_04_comparar_animales_por_tamano_y_cubierta_corporal",
+    "course": "primero_basico",
+    "subject": "Ciencias Naturales",
+    "subject_key": "ciencias_naturales",
+    "axis": "Ciencias de la Vida",
+    "title": "Comparar animales por tamaño y cubierta corporal",
+    "oa": [
+      "CN01 OA 02"
+    ],
+    "path": "ciencias_naturales/04_comparar_animales_por_tamano_y_cubierta_corporal.md",
+    "summary": "Los animales pueden compararse por características observables como tamaño, plumas, pelo, escamas o piel.",
+    "version": "1.0"
+  },
+  {
+    "id": "1b_csn_05_estructuras_de_desplazamiento_y_habitat_de_animales",
+    "course": "primero_basico",
+    "subject": "Ciencias Naturales",
+    "subject_key": "ciencias_naturales",
+    "axis": "Ciencias de la Vida",
+    "title": "Estructuras de desplazamiento y hábitat de animales",
+    "oa": [
+      "CN01 OA 02"
+    ],
+    "path": "ciencias_naturales/05_estructuras_de_desplazamiento_y_habitat_de_animales.md",
+    "summary": "Los animales se desplazan de distintas formas y viven en ambientes que satisfacen sus necesidades.",
+    "version": "1.0"
+  },
+  {
+    "id": "1b_csn_06_partes_principales_de_las_plantas",
+    "course": "primero_basico",
+    "subject": "Ciencias Naturales",
+    "subject_key": "ciencias_naturales",
+    "axis": "Ciencias de la Vida",
+    "title": "Partes principales de las plantas",
+    "oa": [
+      "CN01 OA 03"
+    ],
+    "path": "ciencias_naturales/06_partes_principales_de_las_plantas.md",
+    "summary": "Las plantas tienen estructuras como raíz, tallo, hojas y, en muchas especies, flores.",
+    "version": "1.0"
+  },
+  {
+    "id": "1b_csn_07_clasificar_semillas_frutos_flores_y_tallos",
+    "course": "primero_basico",
+    "subject": "Ciencias Naturales",
+    "subject_key": "ciencias_naturales",
+    "axis": "Ciencias de la Vida",
+    "title": "Clasificar semillas, frutos, flores y tallos",
+    "oa": [
+      "CN01 OA 04"
+    ],
+    "path": "ciencias_naturales/07_clasificar_semillas_frutos_flores_y_tallos.md",
+    "summary": "Las partes de plantas pueden clasificarse por tamaño, forma, textura, color u otro criterio observable.",
+    "version": "1.0"
+  },
+  {
+    "id": "1b_csn_08_plantas_y_animales_de_chile",
+    "course": "primero_basico",
+    "subject": "Ciencias Naturales",
+    "subject_key": "ciencias_naturales",
+    "axis": "Ciencias de la Vida",
+    "title": "Plantas y animales de Chile",
+    "oa": [
+      "CN01 OA 05"
+    ],
+    "path": "ciencias_naturales/08_plantas_y_animales_de_chile.md",
+    "summary": "Chile posee plantas y animales diversos adaptados a distintos ambientes.",
+    "version": "1.0"
+  },
+  {
+    "id": "1b_csn_09_cuidar_plantas_animales_y_sus_ambientes",
+    "course": "primero_basico",
+    "subject": "Ciencias Naturales",
+    "subject_key": "ciencias_naturales",
+    "axis": "Ciencias de la Vida",
+    "title": "Cuidar plantas, animales y sus ambientes",
+    "oa": [
+      "CN01 OA 05"
+    ],
+    "path": "ciencias_naturales/09_cuidar_plantas_animales_y_sus_ambientes.md",
+    "summary": "Cuidar la biodiversidad implica proteger seres vivos y los lugares donde viven.",
+    "version": "1.0"
+  },
+  {
+    "id": "1b_csn_10_los_cinco_sentidos_ubicacion_y_funcion",
+    "course": "primero_basico",
+    "subject": "Ciencias Naturales",
+    "subject_key": "ciencias_naturales",
+    "axis": "Ciencias de la Vida",
+    "title": "Los cinco sentidos: ubicación y función",
+    "oa": [
+      "CN01 OA 06"
+    ],
+    "path": "ciencias_naturales/10_los_cinco_sentidos_ubicacion_y_funcion.md",
+    "summary": "Los sentidos permiten recibir información del ambiente mediante órganos y estructuras del cuerpo.",
+    "version": "1.0"
+  },
+  {
+    "id": "1b_csn_11_proteger_los_sentidos_y_prevenir_riesgos",
+    "course": "primero_basico",
+    "subject": "Ciencias Naturales",
+    "subject_key": "ciencias_naturales",
+    "axis": "Ciencias de la Vida",
+    "title": "Proteger los sentidos y prevenir riesgos",
+    "oa": [
+      "CN01 OA 06"
+    ],
+    "path": "ciencias_naturales/11_proteger_los_sentidos_y_prevenir_riesgos.md",
+    "summary": "Los sentidos se protegen evitando acciones y exposiciones que puedan dañarlos.",
+    "version": "1.0"
+  },
+  {
+    "id": "1b_csn_12_habitos_de_vida_saludable",
+    "course": "primero_basico",
+    "subject": "Ciencias Naturales",
+    "subject_key": "ciencias_naturales",
+    "axis": "Ciencias de la Vida",
+    "title": "Hábitos de vida saludable",
+    "oa": [
+      "CN01 OA 07"
+    ],
+    "path": "ciencias_naturales/12_habitos_de_vida_saludable.md",
+    "summary": "Los hábitos saludables ayudan a cuidar el cuerpo y prevenir enfermedades.",
+    "version": "1.0"
+  },
+  {
+    "id": "1b_csn_13_materiales_de_objetos_cotidianos",
+    "course": "primero_basico",
+    "subject": "Ciencias Naturales",
+    "subject_key": "ciencias_naturales",
+    "axis": "Ciencias Físicas y Químicas",
+    "title": "Materiales de objetos cotidianos",
+    "oa": [
+      "CN01 OA 08"
+    ],
+    "path": "ciencias_naturales/13_materiales_de_objetos_cotidianos.md",
+    "summary": "Los objetos están hechos de uno o más materiales elegidos por sus características.",
+    "version": "1.0"
+  },
+  {
+    "id": "1b_csn_14_propiedades_de_los_materiales",
+    "course": "primero_basico",
+    "subject": "Ciencias Naturales",
+    "subject_key": "ciencias_naturales",
+    "axis": "Ciencias Físicas y Químicas",
+    "title": "Propiedades de los materiales",
+    "oa": [
+      "CN01 OA 08"
+    ],
+    "path": "ciencias_naturales/14_propiedades_de_los_materiales.md",
+    "summary": "Los materiales pueden describirse como flexibles, rígidos, impermeables, permeables, duros o blandos, según la propiedad observada.",
+    "version": "1.0"
+  },
+  {
+    "id": "1b_csn_15_cambios_producidos_por_fuerza_y_agua",
+    "course": "primero_basico",
+    "subject": "Ciencias Naturales",
+    "subject_key": "ciencias_naturales",
+    "axis": "Ciencias Físicas y Químicas",
+    "title": "Cambios producidos por fuerza y agua",
+    "oa": [
+      "CN01 OA 09"
+    ],
+    "path": "ciencias_naturales/15_cambios_producidos_por_fuerza_y_agua.md",
+    "summary": "Una fuerza o el contacto con agua puede cambiar la forma, posición o estado observable de algunos materiales.",
+    "version": "1.0"
+  },
+  {
+    "id": "1b_csn_16_cambios_producidos_por_luz_y_calor",
+    "course": "primero_basico",
+    "subject": "Ciencias Naturales",
+    "subject_key": "ciencias_naturales",
+    "axis": "Ciencias Físicas y Químicas",
+    "title": "Cambios producidos por luz y calor",
+    "oa": [
+      "CN01 OA 09"
+    ],
+    "path": "ciencias_naturales/16_cambios_producidos_por_luz_y_calor.md",
+    "summary": "La luz y el calor pueden producir cambios observables en algunos materiales.",
+    "version": "1.0"
+  },
+  {
+    "id": "1b_csn_17_disenar_un_objeto_tecnologico_simple",
+    "course": "primero_basico",
+    "subject": "Ciencias Naturales",
+    "subject_key": "ciencias_naturales",
+    "axis": "Ciencias Físicas y Químicas",
+    "title": "Diseñar un objeto tecnológico simple",
+    "oa": [
+      "CN01 OA 10"
+    ],
+    "path": "ciencias_naturales/17_disenar_un_objeto_tecnologico_simple.md",
+    "summary": "Diseñar es elegir una solución, forma y materiales para resolver un problema cotidiano.",
+    "version": "1.0"
+  },
+  {
+    "id": "1b_csn_18_el_ciclo_diario_dia_y_noche",
+    "course": "primero_basico",
+    "subject": "Ciencias Naturales",
+    "subject_key": "ciencias_naturales",
+    "axis": "Ciencias de la Tierra y el Universo",
+    "title": "El ciclo diario: día y noche",
+    "oa": [
+      "CN01 OA 11"
+    ],
+    "path": "ciencias_naturales/18_el_ciclo_diario_dia_y_noche.md",
+    "summary": "Durante un ciclo diario cambia la luminosidad del cielo y se observan distintos astros.",
+    "version": "1.0"
+  },
+  {
+    "id": "1b_csn_19_efectos_del_dia_y_la_noche_en_seres_vivos_y_ambiente",
+    "course": "primero_basico",
+    "subject": "Ciencias Naturales",
+    "subject_key": "ciencias_naturales",
+    "axis": "Ciencias de la Tierra y el Universo",
+    "title": "Efectos del día y la noche en seres vivos y ambiente",
+    "oa": [
+      "CN01 OA 11"
+    ],
+    "path": "ciencias_naturales/19_efectos_del_dia_y_la_noche_en_seres_vivos_y_ambiente.md",
+    "summary": "Los cambios de luz y temperatura del ciclo diario influyen en actividades de personas, animales y plantas.",
+    "version": "1.0"
+  },
+  {
+    "id": "1b_csn_20_las_estaciones_del_ano_y_sus_cambios",
+    "course": "primero_basico",
+    "subject": "Ciencias Naturales",
+    "subject_key": "ciencias_naturales",
+    "axis": "Ciencias de la Tierra y el Universo",
+    "title": "Las estaciones del año y sus cambios",
+    "oa": [
+      "CN01 OA 12"
+    ],
+    "path": "ciencias_naturales/20_las_estaciones_del_ano_y_sus_cambios.md",
+    "summary": "Las estaciones son períodos del año asociados a cambios en temperatura, luz, clima y seres vivos.",
+    "version": "1.0"
+  },
+  {
+    "id": "1b_csn_21_observar_experimentar_y_comunicar_de_forma_segura",
+    "course": "primero_basico",
+    "subject": "Ciencias Naturales",
+    "subject_key": "ciencias_naturales",
+    "axis": "Habilidades de investigación científica",
+    "title": "Observar, experimentar y comunicar de forma segura",
+    "oa": [
+      "CN01 OAH a",
+      "CN01 OAH b",
+      "CN01 OAH c",
+      "CN01 OAH d"
+    ],
+    "path": "ciencias_naturales/21_observar_experimentar_y_comunicar_de_forma_segura.md",
+    "summary": "Investigar en primero básico significa observar, explorar con guía, seguir normas y comunicar lo aprendido.",
+    "version": "1.0"
+  }
+]

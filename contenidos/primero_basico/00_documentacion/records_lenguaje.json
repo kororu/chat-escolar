@@ -1,0 +1,540 @@
+[
+  {
+    "id": "1b_len_01_los_textos_transmiten_mensajes_y_tienen_proposito",
+    "course": "primero_basico",
+    "subject": "Lenguaje y Comunicación",
+    "subject_key": "lenguaje",
+    "axis": "Lectura - Comprensión",
+    "title": "Los textos transmiten mensajes y tienen propósito",
+    "oa": [
+      "LE01 OA 01"
+    ],
+    "path": "lenguaje/01_los_textos_transmiten_mensajes_y_tienen_proposito.md",
+    "summary": "Un texto escrito comunica un mensaje y fue creado por alguien con una intención.",
+    "version": "1.0"
+  },
+  {
+    "id": "1b_len_02_las_palabras_estan_separadas_por_espacios",
+    "course": "primero_basico",
+    "subject": "Lenguaje y Comunicación",
+    "subject_key": "lenguaje",
+    "axis": "Lectura - Comprensión",
+    "title": "Las palabras están separadas por espacios",
+    "oa": [
+      "LE01 OA 02"
+    ],
+    "path": "lenguaje/02_las_palabras_estan_separadas_por_espacios.md",
+    "summary": "En la escritura, los espacios ayudan a reconocer dónde comienza y termina cada palabra.",
+    "version": "1.0"
+  },
+  {
+    "id": "1b_len_03_separar_y_combinar_silabas",
+    "course": "primero_basico",
+    "subject": "Lenguaje y Comunicación",
+    "subject_key": "lenguaje",
+    "axis": "Lectura - Comprensión",
+    "title": "Separar y combinar sílabas",
+    "oa": [
+      "LE01 OA 03"
+    ],
+    "path": "lenguaje/03_separar_y_combinar_silabas.md",
+    "summary": "Las palabras pueden dividirse en partes sonoras llamadas sílabas y también pueden formarse al unirlas.",
+    "version": "1.0"
+  },
+  {
+    "id": "1b_len_04_reconocer_sonidos_dentro_de_las_palabras",
+    "course": "primero_basico",
+    "subject": "Lenguaje y Comunicación",
+    "subject_key": "lenguaje",
+    "axis": "Lectura - Comprensión",
+    "title": "Reconocer sonidos dentro de las palabras",
+    "oa": [
+      "LE01 OA 03"
+    ],
+    "path": "lenguaje/04_reconocer_sonidos_dentro_de_las_palabras.md",
+    "summary": "Las palabras están formadas por sonidos pequeños que pueden reconocerse, separarse y combinarse.",
+    "version": "1.0"
+  },
+  {
+    "id": "1b_len_05_relacionar_letras_y_sonidos",
+    "course": "primero_basico",
+    "subject": "Lenguaje y Comunicación",
+    "subject_key": "lenguaje",
+    "axis": "Lectura - Comprensión",
+    "title": "Relacionar letras y sonidos",
+    "oa": [
+      "LE01 OA 04"
+    ],
+    "path": "lenguaje/05_relacionar_letras_y_sonidos.md",
+    "summary": "Las letras representan sonidos y permiten leer y escribir palabras.",
+    "version": "1.0"
+  },
+  {
+    "id": "1b_len_06_leer_silabas_directas",
+    "course": "primero_basico",
+    "subject": "Lenguaje y Comunicación",
+    "subject_key": "lenguaje",
+    "axis": "Lectura - Comprensión",
+    "title": "Leer sílabas directas",
+    "oa": [
+      "LE01 OA 04"
+    ],
+    "path": "lenguaje/06_leer_silabas_directas.md",
+    "summary": "Una sílaba directa suele formarse con una consonante seguida de una vocal, como ma, pe o tu.",
+    "version": "1.0"
+  },
+  {
+    "id": "1b_len_07_leer_silabas_indirectas_y_complejas",
+    "course": "primero_basico",
+    "subject": "Lenguaje y Comunicación",
+    "subject_key": "lenguaje",
+    "axis": "Lectura - Comprensión",
+    "title": "Leer sílabas indirectas y complejas",
+    "oa": [
+      "LE01 OA 04"
+    ],
+    "path": "lenguaje/07_leer_silabas_indirectas_y_complejas.md",
+    "summary": "Algunas sílabas terminan en consonante o incluyen dos consonantes, como ar, pla o tren.",
+    "version": "1.0"
+  },
+  {
+    "id": "1b_len_08_leer_digrafos_rr_ll_ch_y_qu",
+    "course": "primero_basico",
+    "subject": "Lenguaje y Comunicación",
+    "subject_key": "lenguaje",
+    "axis": "Lectura - Comprensión",
+    "title": "Leer dígrafos rr, ll, ch y qu",
+    "oa": [
+      "LE01 OA 04"
+    ],
+    "path": "lenguaje/08_leer_digrafos_rr_ll_ch_y_qu.md",
+    "summary": "Algunas parejas de letras trabajan juntas para representar un sonido.",
+    "version": "1.0"
+  },
+  {
+    "id": "1b_len_09_leer_palabras_aisladas_y_en_oraciones",
+    "course": "primero_basico",
+    "subject": "Lenguaje y Comunicación",
+    "subject_key": "lenguaje",
+    "axis": "Lectura - Comprensión",
+    "title": "Leer palabras aisladas y en oraciones",
+    "oa": [
+      "LE01 OA 04"
+    ],
+    "path": "lenguaje/09_leer_palabras_aisladas_y_en_oraciones.md",
+    "summary": "Leer una palabra implica reconocer sus letras y sonidos; leerla en una oración también exige comprender el contexto.",
+    "version": "1.0"
+  },
+  {
+    "id": "1b_len_10_leer_en_voz_alta_con_precision",
+    "course": "primero_basico",
+    "subject": "Lenguaje y Comunicación",
+    "subject_key": "lenguaje",
+    "axis": "Lectura - Comprensión",
+    "title": "Leer en voz alta con precisión",
+    "oa": [
+      "LE01 OA 05"
+    ],
+    "path": "lenguaje/10_leer_en_voz_alta_con_precision.md",
+    "summary": "Leer con precisión es pronunciar las palabras de acuerdo con lo escrito y corregirse cuando es necesario.",
+    "version": "1.0"
+  },
+  {
+    "id": "1b_len_11_respetar_puntos_y_pausas_al_leer",
+    "course": "primero_basico",
+    "subject": "Lenguaje y Comunicación",
+    "subject_key": "lenguaje",
+    "axis": "Lectura - Comprensión",
+    "title": "Respetar puntos y pausas al leer",
+    "oa": [
+      "LE01 OA 05"
+    ],
+    "path": "lenguaje/11_respetar_puntos_y_pausas_al_leer.md",
+    "summary": "Los puntos ayudan a saber dónde termina una idea y dónde hacer una pausa.",
+    "version": "1.0"
+  },
+  {
+    "id": "1b_len_12_relacionar_el_texto_con_experiencias_y_conocimientos",
+    "course": "primero_basico",
+    "subject": "Lenguaje y Comunicación",
+    "subject_key": "lenguaje",
+    "axis": "Lectura - Comprensión",
+    "title": "Relacionar el texto con experiencias y conocimientos",
+    "oa": [
+      "LE01 OA 06"
+    ],
+    "path": "lenguaje/12_relacionar_el_texto_con_experiencias_y_conocimientos.md",
+    "summary": "Recordar experiencias o conocimientos ayuda a comprender, siempre que se vuelva al texto.",
+    "version": "1.0"
+  },
+  {
+    "id": "1b_len_13_visualizar_lo_que_describe_un_texto",
+    "course": "primero_basico",
+    "subject": "Lenguaje y Comunicación",
+    "subject_key": "lenguaje",
+    "axis": "Lectura - Comprensión",
+    "title": "Visualizar lo que describe un texto",
+    "oa": [
+      "LE01 OA 06"
+    ],
+    "path": "lenguaje/13_visualizar_lo_que_describe_un_texto.md",
+    "summary": "Visualizar es formar una imagen mental usando las palabras del texto.",
+    "version": "1.0"
+  },
+  {
+    "id": "1b_len_14_conocer_cuentos_poemas_y_textos_predecibles",
+    "course": "primero_basico",
+    "subject": "Lenguaje y Comunicación",
+    "subject_key": "lenguaje",
+    "axis": "Lectura - Comprensión",
+    "title": "Conocer cuentos, poemas y textos predecibles",
+    "oa": [
+      "LE01 OA 07"
+    ],
+    "path": "lenguaje/14_conocer_cuentos_poemas_y_textos_predecibles.md",
+    "summary": "Leer distintos textos amplía la imaginación, el vocabulario y el conocimiento del mundo.",
+    "version": "1.0"
+  },
+  {
+    "id": "1b_len_15_encontrar_informacion_explicita_en_narraciones",
+    "course": "primero_basico",
+    "subject": "Lenguaje y Comunicación",
+    "subject_key": "lenguaje",
+    "axis": "Lectura - Comprensión",
+    "title": "Encontrar información explícita en narraciones",
+    "oa": [
+      "LE01 OA 08"
+    ],
+    "path": "lenguaje/15_encontrar_informacion_explicita_en_narraciones.md",
+    "summary": "La información explícita aparece dicha directamente en el texto o mostrada claramente por la narración.",
+    "version": "1.0"
+  },
+  {
+    "id": "1b_len_16_comprender_informacion_implicita_sencilla",
+    "course": "primero_basico",
+    "subject": "Lenguaje y Comunicación",
+    "subject_key": "lenguaje",
+    "axis": "Lectura - Comprensión",
+    "title": "Comprender información implícita sencilla",
+    "oa": [
+      "LE01 OA 08"
+    ],
+    "path": "lenguaje/16_comprender_informacion_implicita_sencilla.md",
+    "summary": "Una inferencia sencilla se obtiene al unir pistas del texto con conocimientos básicos.",
+    "version": "1.0"
+  },
+  {
+    "id": "1b_len_17_responder_que_quien_donde_cuando_y_por_que",
+    "course": "primero_basico",
+    "subject": "Lenguaje y Comunicación",
+    "subject_key": "lenguaje",
+    "axis": "Lectura - Comprensión",
+    "title": "Responder qué, quién, dónde, cuándo y por qué",
+    "oa": [
+      "LE01 OA 08"
+    ],
+    "path": "lenguaje/17_responder_que_quien_donde_cuando_y_por_que.md",
+    "summary": "Las palabras interrogativas indican qué tipo de información busca una pregunta.",
+    "version": "1.0"
+  },
+  {
+    "id": "1b_len_18_ordenar_acciones_y_reconocer_personajes_y_lugares",
+    "course": "primero_basico",
+    "subject": "Lenguaje y Comunicación",
+    "subject_key": "lenguaje",
+    "axis": "Lectura - Comprensión",
+    "title": "Ordenar acciones y reconocer personajes y lugares",
+    "oa": [
+      "LE01 OA 08"
+    ],
+    "path": "lenguaje/18_ordenar_acciones_y_reconocer_personajes_y_lugares.md",
+    "summary": "Una narración tiene acciones que ocurren en un orden, personajes que participan y lugares donde sucede.",
+    "version": "1.0"
+  },
+  {
+    "id": "1b_len_19_relacionar_ilustraciones_con_la_historia",
+    "course": "primero_basico",
+    "subject": "Lenguaje y Comunicación",
+    "subject_key": "lenguaje",
+    "axis": "Lectura - Comprensión",
+    "title": "Relacionar ilustraciones con la historia",
+    "oa": [
+      "LE01 OA 08"
+    ],
+    "path": "lenguaje/19_relacionar_ilustraciones_con_la_historia.md",
+    "summary": "Las ilustraciones pueden mostrar personajes, lugares, acciones o detalles que complementan el texto.",
+    "version": "1.0"
+  },
+  {
+    "id": "1b_len_20_dar_una_opinion_sobre_una_lectura",
+    "course": "primero_basico",
+    "subject": "Lenguaje y Comunicación",
+    "subject_key": "lenguaje",
+    "axis": "Lectura - Comprensión",
+    "title": "Dar una opinión sobre una lectura",
+    "oa": [
+      "LE01 OA 08",
+      "LE01 OA 10"
+    ],
+    "path": "lenguaje/20_dar_una_opinion_sobre_una_lectura.md",
+    "summary": "Una opinión dice lo que una persona piensa y puede acompañarse de una razón relacionada con el texto.",
+    "version": "1.0"
+  },
+  {
+    "id": "1b_len_21_poemas_rimas_y_tradicion_oral",
+    "course": "primero_basico",
+    "subject": "Lenguaje y Comunicación",
+    "subject_key": "lenguaje",
+    "axis": "Lectura - Comprensión",
+    "title": "Poemas, rimas y tradición oral",
+    "oa": [
+      "LE01 OA 09",
+      "LE01 OA 26"
+    ],
+    "path": "lenguaje/21_poemas_rimas_y_tradicion_oral.md",
+    "summary": "Los poemas, canciones, rimas y adivinanzas juegan con sonidos, ritmo e imágenes.",
+    "version": "1.0"
+  },
+  {
+    "id": "1b_len_22_comprender_cartas_y_notas",
+    "course": "primero_basico",
+    "subject": "Lenguaje y Comunicación",
+    "subject_key": "lenguaje",
+    "axis": "Lectura - Comprensión",
+    "title": "Comprender cartas y notas",
+    "oa": [
+      "LE01 OA 10"
+    ],
+    "path": "lenguaje/22_comprender_cartas_y_notas.md",
+    "summary": "Las cartas y notas comunican mensajes a una persona o grupo.",
+    "version": "1.0"
+  },
+  {
+    "id": "1b_len_23_comprender_y_seguir_instrucciones",
+    "course": "primero_basico",
+    "subject": "Lenguaje y Comunicación",
+    "subject_key": "lenguaje",
+    "axis": "Lectura - Comprensión",
+    "title": "Comprender y seguir instrucciones",
+    "oa": [
+      "LE01 OA 10",
+      "LE01 OA 18"
+    ],
+    "path": "lenguaje/23_comprender_y_seguir_instrucciones.md",
+    "summary": "Una instrucción indica una acción que debe realizarse y puede tener un orden.",
+    "version": "1.0"
+  },
+  {
+    "id": "1b_len_24_comprender_articulos_informativos_simples",
+    "course": "primero_basico",
+    "subject": "Lenguaje y Comunicación",
+    "subject_key": "lenguaje",
+    "axis": "Lectura - Comprensión",
+    "title": "Comprender artículos informativos simples",
+    "oa": [
+      "LE01 OA 10"
+    ],
+    "path": "lenguaje/24_comprender_articulos_informativos_simples.md",
+    "summary": "Un artículo informativo entrega datos y explicaciones sobre un tema.",
+    "version": "1.0"
+  },
+  {
+    "id": "1b_len_25_explorar_libros_y_usar_la_biblioteca",
+    "course": "primero_basico",
+    "subject": "Lenguaje y Comunicación",
+    "subject_key": "lenguaje",
+    "axis": "Lectura - Comprensión",
+    "title": "Explorar libros y usar la biblioteca",
+    "oa": [
+      "LE01 OA 11",
+      "LE01 OA 12"
+    ],
+    "path": "lenguaje/25_explorar_libros_y_usar_la_biblioteca.md",
+    "summary": "Explorar libros y visitar la biblioteca ayuda a elegir lecturas, cuidar materiales y desarrollar gusto por leer.",
+    "version": "1.0"
+  },
+  {
+    "id": "1b_len_26_escribir_para_comunicar_ideas_hechos_y_sentimientos",
+    "course": "primero_basico",
+    "subject": "Lenguaje y Comunicación",
+    "subject_key": "lenguaje",
+    "axis": "Escritura - Producción",
+    "title": "Escribir para comunicar ideas, hechos y sentimientos",
+    "oa": [
+      "LE01 OA 13"
+    ],
+    "path": "lenguaje/26_escribir_para_comunicar_ideas_hechos_y_sentimientos.md",
+    "summary": "Escribir permite contar algo que ocurrió, expresar una idea o comunicar cómo se siente una persona.",
+    "version": "1.0"
+  },
+  {
+    "id": "1b_len_27_escribir_oraciones_completas",
+    "course": "primero_basico",
+    "subject": "Lenguaje y Comunicación",
+    "subject_key": "lenguaje",
+    "axis": "Escritura - Producción",
+    "title": "Escribir oraciones completas",
+    "oa": [
+      "LE01 OA 14"
+    ],
+    "path": "lenguaje/27_escribir_oraciones_completas.md",
+    "summary": "Una oración completa comunica una idea que otra persona puede comprender.",
+    "version": "1.0"
+  },
+  {
+    "id": "1b_len_28_escribir_con_letra_clara_y_separar_palabras",
+    "course": "primero_basico",
+    "subject": "Lenguaje y Comunicación",
+    "subject_key": "lenguaje",
+    "axis": "Escritura - Producción",
+    "title": "Escribir con letra clara y separar palabras",
+    "oa": [
+      "LE01 OA 15"
+    ],
+    "path": "lenguaje/28_escribir_con_letra_clara_y_separar_palabras.md",
+    "summary": "La escritura legible permite que otras personas comprendan el mensaje.",
+    "version": "1.0"
+  },
+  {
+    "id": "1b_len_29_usar_vocabulario_nuevo_al_escribir",
+    "course": "primero_basico",
+    "subject": "Lenguaje y Comunicación",
+    "subject_key": "lenguaje",
+    "axis": "Escritura - Producción",
+    "title": "Usar vocabulario nuevo al escribir",
+    "oa": [
+      "LE01 OA 16"
+    ],
+    "path": "lenguaje/29_usar_vocabulario_nuevo_al_escribir.md",
+    "summary": "Las palabras nuevas aprendidas al leer o escuchar pueden usarse para comunicar con mayor precisión.",
+    "version": "1.0"
+  },
+  {
+    "id": "1b_len_30_disfrutar_cuentos_poemas_fabulas_y_leyendas_escuchados",
+    "course": "primero_basico",
+    "subject": "Lenguaje y Comunicación",
+    "subject_key": "lenguaje",
+    "axis": "Comunicación oral",
+    "title": "Disfrutar cuentos, poemas, fábulas y leyendas escuchados",
+    "oa": [
+      "LE01 OA 17"
+    ],
+    "path": "lenguaje/30_disfrutar_cuentos_poemas_fabulas_y_leyendas_escuchados.md",
+    "summary": "Escuchar literatura completa permite imaginar, comprender y disfrutar historias y poemas.",
+    "version": "1.0"
+  },
+  {
+    "id": "1b_len_31_comprender_explicaciones_relatos_e_instrucciones_orales",
+    "course": "primero_basico",
+    "subject": "Lenguaje y Comunicación",
+    "subject_key": "lenguaje",
+    "axis": "Comunicación oral",
+    "title": "Comprender explicaciones, relatos e instrucciones orales",
+    "oa": [
+      "LE01 OA 18"
+    ],
+    "path": "lenguaje/31_comprender_explicaciones_relatos_e_instrucciones_orales.md",
+    "summary": "Comprender un texto oral implica escuchar la idea principal, seguir información y formular preguntas cuando algo no está claro.",
+    "version": "1.0"
+  },
+  {
+    "id": "1b_len_32_averiguar_palabras_y_expresiones_desconocidas",
+    "course": "primero_basico",
+    "subject": "Lenguaje y Comunicación",
+    "subject_key": "lenguaje",
+    "axis": "Comunicación oral",
+    "title": "Averiguar palabras y expresiones desconocidas",
+    "oa": [
+      "LE01 OA 19"
+    ],
+    "path": "lenguaje/32_averiguar_palabras_y_expresiones_desconocidas.md",
+    "summary": "Cuando una palabra no se comprende, se puede preguntar, mirar el contexto, observar una imagen o consultar una fuente.",
+    "version": "1.0"
+  },
+  {
+    "id": "1b_len_33_teatro_infantil_y_expresion_creativa",
+    "course": "primero_basico",
+    "subject": "Lenguaje y Comunicación",
+    "subject_key": "lenguaje",
+    "axis": "Comunicación oral",
+    "title": "Teatro infantil y expresión creativa",
+    "oa": [
+      "LE01 OA 20",
+      "LE01 OA 25"
+    ],
+    "path": "lenguaje/33_teatro_infantil_y_expresion_creativa.md",
+    "summary": "El teatro y los juegos de roles permiten comprender personajes, situaciones y formas de expresión.",
+    "version": "1.0"
+  },
+  {
+    "id": "1b_len_34_conversar_escuchar_y_respetar_turnos",
+    "course": "primero_basico",
+    "subject": "Lenguaje y Comunicación",
+    "subject_key": "lenguaje",
+    "axis": "Comunicación oral",
+    "title": "Conversar, escuchar y respetar turnos",
+    "oa": [
+      "LE01 OA 21"
+    ],
+    "path": "lenguaje/34_conversar_escuchar_y_respetar_turnos.md",
+    "summary": "Una conversación permite compartir ideas cuando las personas escuchan, esperan turnos y mantienen el tema.",
+    "version": "1.0"
+  },
+  {
+    "id": "1b_len_35_saludos_cortesia_y_expresion_de_necesidades",
+    "course": "primero_basico",
+    "subject": "Lenguaje y Comunicación",
+    "subject_key": "lenguaje",
+    "axis": "Comunicación oral",
+    "title": "Saludos, cortesía y expresión de necesidades",
+    "oa": [
+      "LE01 OA 22"
+    ],
+    "path": "lenguaje/35_saludos_cortesia_y_expresion_de_necesidades.md",
+    "summary": "Las convenciones sociales ayudan a saludar, pedir, agradecer, disculparse y expresar ideas o sentimientos de manera comprensible.",
+    "version": "1.0"
+  },
+  {
+    "id": "1b_len_36_hablar_de_un_tema_con_orden_descripcion_y_volumen_adecuado",
+    "course": "primero_basico",
+    "subject": "Lenguaje y Comunicación",
+    "subject_key": "lenguaje",
+    "axis": "Comunicación oral",
+    "title": "Hablar de un tema con orden, descripción y volumen adecuado",
+    "oa": [
+      "LE01 OA 23",
+      "LE01 OA 24"
+    ],
+    "path": "lenguaje/36_hablar_de_un_tema_con_orden_descripcion_y_volumen_adecuado.md",
+    "summary": "Una presentación oral breve comunica un tema con inicio, información principal y cierre.",
+    "version": "1.0"
+  },
+  {
+    "id": "1b_len_37_trabajar_en_equipo_y_desempenar_roles",
+    "course": "primero_basico",
+    "subject": "Lenguaje y Comunicación",
+    "subject_key": "lenguaje",
+    "axis": "Comunicación oral",
+    "title": "Trabajar en equipo y desempeñar roles",
+    "oa": [
+      "LE01 OA 25"
+    ],
+    "path": "lenguaje/37_trabajar_en_equipo_y_desempenar_roles.md",
+    "summary": "Un rol indica una responsabilidad dentro de una actividad compartida.",
+    "version": "1.0"
+  },
+  {
+    "id": "1b_len_38_recitar_con_ritmo_entonacion_y_expresion",
+    "course": "primero_basico",
+    "subject": "Lenguaje y Comunicación",
+    "subject_key": "lenguaje",
+    "axis": "Comunicación oral",
+    "title": "Recitar con ritmo, entonación y expresión",
+    "oa": [
+      "LE01 OA 26"
+    ],
+    "path": "lenguaje/38_recitar_con_ritmo_entonacion_y_expresion.md",
+    "summary": "Recitar es decir un poema, rima, canción, trabalenguas o adivinanza usando ritmo y expresión.",
+    "version": "1.0"
+  }
+]

@@ -1,0 +1,39 @@
+version: 1
+course: primero_basico
+include:
+  - lenguaje/**/*.md
+  - matematica/**/*.md
+  - ciencias_naturales/**/*.md
+  - historia_geografia/**/*.md
+exclude:
+  - "**/00_indice_*.md"
+  - compendios/**
+  - evaluaciones/**
+  - bancos/**
+chunking:
+  strategy: markdown_headings
+  target_characters: 900
+  max_characters: 1500
+  overlap_characters: 120
+retrieval:
+  top_k: 4
+  lexical_candidates: 16
+  semantic_candidates: 16
+  deduplicate_by: source_path
+filters:
+  required:
+    curso: primero_basico
+metadata_fields:
+  - id
+  - curso
+  - asignatura
+  - eje
+  - tema
+  - tipo
+  - oa_relacionados
+  - version
+response_limits:
+  default_words: 120
+  lectura_facil_words: 80
+  max_steps: 4
+  practice_questions_default: 1

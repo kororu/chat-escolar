@@ -1,0 +1,422 @@
+[
+  {
+    "id": "1b_mat_01_contar_de_uno_en_uno_hasta_100",
+    "course": "primero_basico",
+    "subject": "Matemática",
+    "subject_key": "matematica",
+    "axis": "Números y operaciones",
+    "title": "Contar de uno en uno hasta 100",
+    "oa": [
+      "MA01 OA 01"
+    ],
+    "path": "matematica/01_contar_de_uno_en_uno_hasta_100.md",
+    "summary": "Contar de uno en uno significa decir los números en orden, hacia adelante o hacia atrás.",
+    "version": "1.0"
+  },
+  {
+    "id": "1b_mat_02_contar_de_dos_en_dos",
+    "course": "primero_basico",
+    "subject": "Matemática",
+    "subject_key": "matematica",
+    "axis": "Números y operaciones",
+    "title": "Contar de dos en dos",
+    "oa": [
+      "MA01 OA 01"
+    ],
+    "path": "matematica/02_contar_de_dos_en_dos.md",
+    "summary": "Contar de dos en dos es sumar o restar dos cada vez.",
+    "version": "1.0"
+  },
+  {
+    "id": "1b_mat_03_contar_de_cinco_en_cinco_y_de_diez_en_diez",
+    "course": "primero_basico",
+    "subject": "Matemática",
+    "subject_key": "matematica",
+    "axis": "Números y operaciones",
+    "title": "Contar de cinco en cinco y de diez en diez",
+    "oa": [
+      "MA01 OA 01"
+    ],
+    "path": "matematica/03_contar_de_cinco_en_cinco_y_de_diez_en_diez.md",
+    "summary": "Contar de cinco en cinco o de diez en diez usa saltos iguales y permite organizar cantidades.",
+    "version": "1.0"
+  },
+  {
+    "id": "1b_mat_04_contar_hacia_adelante_y_atras_desde_distintos_numeros",
+    "course": "primero_basico",
+    "subject": "Matemática",
+    "subject_key": "matematica",
+    "axis": "Números y operaciones",
+    "title": "Contar hacia adelante y atrás desde distintos números",
+    "oa": [
+      "MA01 OA 01"
+    ],
+    "path": "matematica/04_contar_hacia_adelante_y_atras_desde_distintos_numeros.md",
+    "summary": "Una secuencia numérica puede comenzar en cualquier número menor que 100.",
+    "version": "1.0"
+  },
+  {
+    "id": "1b_mat_05_usar_numeros_ordinales_del_primero_al_decimo",
+    "course": "primero_basico",
+    "subject": "Matemática",
+    "subject_key": "matematica",
+    "axis": "Números y operaciones",
+    "title": "Usar números ordinales del primero al décimo",
+    "oa": [
+      "MA01 OA 02"
+    ],
+    "path": "matematica/05_usar_numeros_ordinales_del_primero_al_decimo.md",
+    "summary": "Los números ordinales indican la posición de un elemento dentro de una serie.",
+    "version": "1.0"
+  },
+  {
+    "id": "1b_mat_06_leer_y_escribir_numeros_del_0_al_20",
+    "course": "primero_basico",
+    "subject": "Matemática",
+    "subject_key": "matematica",
+    "axis": "Números y operaciones",
+    "title": "Leer y escribir números del 0 al 20",
+    "oa": [
+      "MA01 OA 03"
+    ],
+    "path": "matematica/06_leer_y_escribir_numeros_del_0_al_20.md",
+    "summary": "Cada número del 0 al 20 tiene un nombre, una cifra escrita y una cantidad que representa.",
+    "version": "1.0"
+  },
+  {
+    "id": "1b_mat_07_representar_numeros_de_forma_concreta_pictorica_y_simbolica",
+    "course": "primero_basico",
+    "subject": "Matemática",
+    "subject_key": "matematica",
+    "axis": "Números y operaciones",
+    "title": "Representar números de forma concreta, pictórica y simbólica",
+    "oa": [
+      "MA01 OA 03"
+    ],
+    "path": "matematica/07_representar_numeros_de_forma_concreta_pictorica_y_simbolica.md",
+    "summary": "Un mismo número puede mostrarse con objetos, dibujos y cifras.",
+    "version": "1.0"
+  },
+  {
+    "id": "1b_mat_08_comparar_y_ordenar_numeros_hasta_20",
+    "course": "primero_basico",
+    "subject": "Matemática",
+    "subject_key": "matematica",
+    "axis": "Números y operaciones",
+    "title": "Comparar y ordenar números hasta 20",
+    "oa": [
+      "MA01 OA 04"
+    ],
+    "path": "matematica/08_comparar_y_ordenar_numeros_hasta_20.md",
+    "summary": "Comparar es decidir qué número representa más, menos o la misma cantidad; ordenar es ubicarlos en secuencia.",
+    "version": "1.0"
+  },
+  {
+    "id": "1b_mat_09_estimar_cantidades_hasta_20",
+    "course": "primero_basico",
+    "subject": "Matemática",
+    "subject_key": "matematica",
+    "axis": "Números y operaciones",
+    "title": "Estimar cantidades hasta 20",
+    "oa": [
+      "MA01 OA 05"
+    ],
+    "path": "matematica/09_estimar_cantidades_hasta_20.md",
+    "summary": "Estimar es dar una cantidad aproximada usando un referente, antes de contar exactamente.",
+    "version": "1.0"
+  },
+  {
+    "id": "1b_mat_10_componer_y_descomponer_numeros_hasta_20",
+    "course": "primero_basico",
+    "subject": "Matemática",
+    "subject_key": "matematica",
+    "axis": "Números y operaciones",
+    "title": "Componer y descomponer números hasta 20",
+    "oa": [
+      "MA01 OA 06"
+    ],
+    "path": "matematica/10_componer_y_descomponer_numeros_hasta_20.md",
+    "summary": "Componer es formar un número con partes; descomponer es separarlo en cantidades que juntas conservan el total.",
+    "version": "1.0"
+  },
+  {
+    "id": "1b_mat_11_calcular_contando_hacia_adelante_o_atras",
+    "course": "primero_basico",
+    "subject": "Matemática",
+    "subject_key": "matematica",
+    "axis": "Números y operaciones",
+    "title": "Calcular contando hacia adelante o atrás",
+    "oa": [
+      "MA01 OA 07"
+    ],
+    "path": "matematica/11_calcular_contando_hacia_adelante_o_atras.md",
+    "summary": "Contar desde un número permite sumar o restar sin volver siempre a uno.",
+    "version": "1.0"
+  },
+  {
+    "id": "1b_mat_12_completar_10",
+    "course": "primero_basico",
+    "subject": "Matemática",
+    "subject_key": "matematica",
+    "axis": "Números y operaciones",
+    "title": "Completar 10",
+    "oa": [
+      "MA01 OA 07"
+    ],
+    "path": "matematica/12_completar_10.md",
+    "summary": "Completar 10 es reconocer cuánto falta para formar una decena.",
+    "version": "1.0"
+  },
+  {
+    "id": "1b_mat_13_usar_dobles",
+    "course": "primero_basico",
+    "subject": "Matemática",
+    "subject_key": "matematica",
+    "axis": "Números y operaciones",
+    "title": "Usar dobles",
+    "oa": [
+      "MA01 OA 07"
+    ],
+    "path": "matematica/13_usar_dobles.md",
+    "summary": "Un doble se forma al sumar una cantidad consigo misma.",
+    "version": "1.0"
+  },
+  {
+    "id": "1b_mat_14_unidades_y_decenas_hasta_20",
+    "course": "primero_basico",
+    "subject": "Matemática",
+    "subject_key": "matematica",
+    "axis": "Números y operaciones",
+    "title": "Unidades y decenas hasta 20",
+    "oa": [
+      "MA01 OA 08"
+    ],
+    "path": "matematica/14_unidades_y_decenas_hasta_20.md",
+    "summary": "Diez unidades forman una decena; los números hasta 20 pueden organizarse en decenas y unidades.",
+    "version": "1.0"
+  },
+  {
+    "id": "1b_mat_15_comprender_la_adicion_hasta_20",
+    "course": "primero_basico",
+    "subject": "Matemática",
+    "subject_key": "matematica",
+    "axis": "Números y operaciones",
+    "title": "Comprender la adición hasta 20",
+    "oa": [
+      "MA01 OA 09"
+    ],
+    "path": "matematica/15_comprender_la_adicion_hasta_20.md",
+    "summary": "Sumar puede representar juntar, agregar o avanzar para encontrar un total.",
+    "version": "1.0"
+  },
+  {
+    "id": "1b_mat_16_comprender_la_sustraccion_hasta_20",
+    "course": "primero_basico",
+    "subject": "Matemática",
+    "subject_key": "matematica",
+    "axis": "Números y operaciones",
+    "title": "Comprender la sustracción hasta 20",
+    "oa": [
+      "MA01 OA 09"
+    ],
+    "path": "matematica/16_comprender_la_sustraccion_hasta_20.md",
+    "summary": "Restar puede representar quitar, separar, comparar o retroceder para encontrar cuánto queda o la diferencia.",
+    "version": "1.0"
+  },
+  {
+    "id": "1b_mat_17_resolver_problemas_de_suma_y_resta",
+    "course": "primero_basico",
+    "subject": "Matemática",
+    "subject_key": "matematica",
+    "axis": "Números y operaciones",
+    "title": "Resolver problemas de suma y resta",
+    "oa": [
+      "MA01 OA 09"
+    ],
+    "path": "matematica/17_resolver_problemas_de_suma_y_resta.md",
+    "summary": "Un problema matemático presenta una situación, datos y una pregunta que se puede representar y resolver.",
+    "version": "1.0"
+  },
+  {
+    "id": "1b_mat_18_crear_problemas_matematicos_sencillos",
+    "course": "primero_basico",
+    "subject": "Matemática",
+    "subject_key": "matematica",
+    "axis": "Números y operaciones",
+    "title": "Crear problemas matemáticos sencillos",
+    "oa": [
+      "MA01 OA 09"
+    ],
+    "path": "matematica/18_crear_problemas_matematicos_sencillos.md",
+    "summary": "Crear un problema significa inventar una situación coherente para una operación y formular una pregunta clara.",
+    "version": "1.0"
+  },
+  {
+    "id": "1b_mat_19_adicion_y_sustraccion_como_operaciones_inversas",
+    "course": "primero_basico",
+    "subject": "Matemática",
+    "subject_key": "matematica",
+    "axis": "Números y operaciones",
+    "title": "Adición y sustracción como operaciones inversas",
+    "oa": [
+      "MA01 OA 10"
+    ],
+    "path": "matematica/19_adicion_y_sustraccion_como_operaciones_inversas.md",
+    "summary": "Sumar puede deshacer una resta y restar puede deshacer una suma.",
+    "version": "1.0"
+  },
+  {
+    "id": "1b_mat_20_reconocer_y_continuar_patrones_repetitivos",
+    "course": "primero_basico",
+    "subject": "Matemática",
+    "subject_key": "matematica",
+    "axis": "Patrones y álgebra",
+    "title": "Reconocer y continuar patrones repetitivos",
+    "oa": [
+      "MA01 OA 11"
+    ],
+    "path": "matematica/20_reconocer_y_continuar_patrones_repetitivos.md",
+    "summary": "Un patrón repetitivo tiene una unidad que vuelve a aparecer en el mismo orden.",
+    "version": "1.0"
+  },
+  {
+    "id": "1b_mat_21_patrones_numericos_crecientes_y_decrecientes",
+    "course": "primero_basico",
+    "subject": "Matemática",
+    "subject_key": "matematica",
+    "axis": "Patrones y álgebra",
+    "title": "Patrones numéricos crecientes y decrecientes",
+    "oa": [
+      "MA01 OA 11"
+    ],
+    "path": "matematica/21_patrones_numericos_crecientes_y_decrecientes.md",
+    "summary": "Un patrón numérico sigue una regla para aumentar o disminuir.",
+    "version": "1.0"
+  },
+  {
+    "id": "1b_mat_22_igualdad_y_desigualdad_como_equilibrio",
+    "course": "primero_basico",
+    "subject": "Matemática",
+    "subject_key": "matematica",
+    "axis": "Patrones y álgebra",
+    "title": "Igualdad y desigualdad como equilibrio",
+    "oa": [
+      "MA01 OA 12"
+    ],
+    "path": "matematica/22_igualdad_y_desigualdad_como_equilibrio.md",
+    "summary": "El signo igual indica que dos representaciones tienen el mismo valor; una desigualdad muestra valores diferentes.",
+    "version": "1.0"
+  },
+  {
+    "id": "1b_mat_23_describir_posiciones_derecha_izquierda_y_otras_relaciones",
+    "course": "primero_basico",
+    "subject": "Matemática",
+    "subject_key": "matematica",
+    "axis": "Geometría",
+    "title": "Describir posiciones: derecha, izquierda y otras relaciones",
+    "oa": [
+      "MA01 OA 13"
+    ],
+    "path": "matematica/23_describir_posiciones_derecha_izquierda_y_otras_relaciones.md",
+    "summary": "La posición de una persona u objeto se describe respecto de un referente.",
+    "version": "1.0"
+  },
+  {
+    "id": "1b_mat_24_relacionar_figuras_2d_y_cuerpos_3d",
+    "course": "primero_basico",
+    "subject": "Matemática",
+    "subject_key": "matematica",
+    "axis": "Geometría",
+    "title": "Relacionar figuras 2D y cuerpos 3D",
+    "oa": [
+      "MA01 OA 14"
+    ],
+    "path": "matematica/24_relacionar_figuras_2d_y_cuerpos_3d.md",
+    "summary": "Las figuras 2D son planas y los cuerpos 3D ocupan espacio; las caras de algunos cuerpos tienen formas 2D.",
+    "version": "1.0"
+  },
+  {
+    "id": "1b_mat_25_identificar_y_dibujar_lineas_rectas_y_curvas",
+    "course": "primero_basico",
+    "subject": "Matemática",
+    "subject_key": "matematica",
+    "axis": "Geometría",
+    "title": "Identificar y dibujar líneas rectas y curvas",
+    "oa": [
+      "MA01 OA 15"
+    ],
+    "path": "matematica/25_identificar_y_dibujar_lineas_rectas_y_curvas.md",
+    "summary": "Una línea recta mantiene una dirección sin doblarse; una línea curva cambia de dirección de forma continua.",
+    "version": "1.0"
+  },
+  {
+    "id": "1b_mat_26_comparar_duracion_con_unidades_no_estandarizadas",
+    "course": "primero_basico",
+    "subject": "Matemática",
+    "subject_key": "matematica",
+    "axis": "Medición",
+    "title": "Comparar duración con unidades no estandarizadas",
+    "oa": [
+      "MA01 OA 16"
+    ],
+    "path": "matematica/26_comparar_duracion_con_unidades_no_estandarizadas.md",
+    "summary": "La duración indica cuánto tiempo tarda un evento y puede compararse con referentes cotidianos.",
+    "version": "1.0"
+  },
+  {
+    "id": "1b_mat_27_secuenciar_dias_meses_y_fechas_significativas",
+    "course": "primero_basico",
+    "subject": "Matemática",
+    "subject_key": "matematica",
+    "axis": "Medición",
+    "title": "Secuenciar días, meses y fechas significativas",
+    "oa": [
+      "MA01 OA 17"
+    ],
+    "path": "matematica/27_secuenciar_dias_meses_y_fechas_significativas.md",
+    "summary": "Los días y meses permiten ordenar actividades y ubicar fechas en el tiempo.",
+    "version": "1.0"
+  },
+  {
+    "id": "1b_mat_28_comparar_longitudes_largo_y_corto",
+    "course": "primero_basico",
+    "subject": "Matemática",
+    "subject_key": "matematica",
+    "axis": "Medición",
+    "title": "Comparar longitudes: largo y corto",
+    "oa": [
+      "MA01 OA 18"
+    ],
+    "path": "matematica/28_comparar_longitudes_largo_y_corto.md",
+    "summary": "La longitud describe qué tan largo es un objeto y puede compararse directamente o con un referente.",
+    "version": "1.0"
+  },
+  {
+    "id": "1b_mat_29_recolectar_y_registrar_datos",
+    "course": "primero_basico",
+    "subject": "Matemática",
+    "subject_key": "matematica",
+    "axis": "Datos y probabilidades",
+    "title": "Recolectar y registrar datos",
+    "oa": [
+      "MA01 OA 19"
+    ],
+    "path": "matematica/29_recolectar_y_registrar_datos.md",
+    "summary": "Los datos son respuestas u observaciones que se reúnen para contestar una pregunta.",
+    "version": "1.0"
+  },
+  {
+    "id": "1b_mat_30_construir_leer_e_interpretar_pictogramas",
+    "course": "primero_basico",
+    "subject": "Matemática",
+    "subject_key": "matematica",
+    "axis": "Datos y probabilidades",
+    "title": "Construir, leer e interpretar pictogramas",
+    "oa": [
+      "MA01 OA 20"
+    ],
+    "path": "matematica/30_construir_leer_e_interpretar_pictogramas.md",
+    "summary": "Un pictograma representa datos mediante dibujos o símbolos y necesita una clave clara.",
+    "version": "1.0"
+  }
+]
