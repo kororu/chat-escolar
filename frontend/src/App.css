@@ -536,6 +536,51 @@ select:focus-visible {
   margin: 0;
 }
 
+.local-content-note {
+  background: #edf7f3;
+  border: 1px solid #b9ded3;
+  border-radius: 8px;
+  color: var(--accent-strong);
+  display: grid;
+  font-size: 0.82rem;
+  gap: 8px;
+  margin-top: 12px;
+  padding: 10px 12px;
+}
+
+.local-content-note > strong {
+  align-items: center;
+  display: flex;
+  gap: 6px;
+}
+
+.local-content-note > strong::before {
+  background: var(--accent);
+  border-radius: 50%;
+  content: '';
+  height: 8px;
+  width: 8px;
+}
+
+.local-content-note span {
+  color: var(--muted);
+  font-size: 0.75rem;
+  margin: 0;
+}
+
+.local-content-note ul {
+  color: var(--ink);
+  margin: 3px 0 0;
+  padding-left: 18px;
+}
+
+.demo-response-note {
+  color: var(--muted);
+  display: block;
+  font-size: 0.75rem;
+  margin-top: 10px;
+}
+
 .section-title small {
   color: var(--muted);
 }

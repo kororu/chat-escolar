@@ -333,7 +333,17 @@ function App() {
     setMessages((current) => [...current, { from: 'student', text: cleanQuestion }])
     try {
       const data = await fetchDemoAnswer(cleanQuestion)
-      setMessages((current) => [...current, { from: 'assistant', text: data.answer, summary: data.summary }])
+      setMessages((current) => [
+        ...current,
+        {
+          from: 'assistant',
+          text: data.answer,
+          summary: data.summary,
+          usedLocalContent: data.used_local_content,
+          contentSources: data.content_sources ?? [],
+          isDemoResponse: !data.used_local_content,
+        },
+      ])
       setBackendStatus(data.status === 'ok' ? 'connected' : 'unavailable')
       await loadHistory()
     } catch {
@@ -480,6 +490,24 @@ function App() {
               <article className={`message ${message.from}`} key={`${message.from}-${index}`}>
                 <span>{message.from === 'assistant' ? 'Chat Escolar' : activeProfile.name}</span>
                 <p>{message.text}</p>
+                {message.usedLocalContent && (
+                  <div className="local-content-note">
+                    <strong>Respuesta apoyada en contenidos locales</strong>
+                    {message.contentSources.length > 0 && (
+                      <div>
+                        <span>{message.contentSources.length === 1 ? 'Fuente local usada' : 'Fuentes locales usadas'}</span>
+                        <ul>
+                          {message.contentSources.map((source) => (
+                            <li key={`${source.path}-${source.title}`}>{source.title}</li>
+                          ))}
+                        </ul>
+                      </div>
+                    )}
+                  </div>
+                )}
+                {message.isDemoResponse && (
+                  <small className="demo-response-note">Respuesta demo del tutor</small>
+                )}
                 {message.summary && <small className="message-summary">Resumen: {message.summary}</small>}
               </article>
             ))}

@@ -8,6 +8,11 @@ from fastapi import FastAPI, HTTPException, Query
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel, Field
 
+try:
+    from .content_reader import search_local_content
+except ImportError:
+    from content_reader import search_local_content
+
 DB_PATH = Path(__file__).with_name("chat_escolar.db")
 VIDEOS_PATH = Path(__file__).with_name("data") / "videos_curados.json"
 
@@ -185,7 +190,10 @@ def get_history_item(history_id: int) -> dict:
     return row_to_history_item(row)
 
 
-def make_demo_answer(payload: ChatDemoRequest) -> dict[str, str]:
+def make_demo_answer(
+    payload: ChatDemoRequest,
+    local_content: dict | None = None,
+) -> dict[str, str]:
     question = normalize_text(payload.question)
 
     if "habitat" in question:
@@ -282,8 +290,16 @@ def make_demo_answer(payload: ChatDemoRequest) -> dict[str, str]:
     else:
         introduction = "Vamos paso a paso."
 
+    local_support = ""
+    if local_content:
+        local_support = (
+            f"Revisé la base local de {payload.course} para ayudarte.\n\n"
+            f"Información de apoyo:\n{local_content['excerpt']}\n\n"
+        )
+        summary = f"{summary} Apoyada en el contenido local: {local_content['title']}."
+
     return {
-        "answer": f"{introduction}\n\n{answer}",
+        "answer": f"{introduction}\n\n{local_support}{answer}",
         "summary": summary,
         "status": "ok",
     }
@@ -339,6 +355,14 @@ def list_videos(
             ]
 
     return videos
+
+
+@app.get("/content/search")
+def search_content(course: str, subject: str, q: str):
+    return {
+        "status": "ok",
+        "results": search_local_content(course, subject, q),
+    }
 
 
 @app.post("/profiles", status_code=201)
@@ -402,12 +426,25 @@ def chat_demo(payload: ChatDemoRequest):
         payload.user_role = profile["role"]
         payload.course = profile["course"]
 
-    demo_answer = make_demo_answer(payload)
+    local_results = search_local_content(
+        payload.course,
+        payload.subject,
+        payload.question,
+    )
+    demo_answer = make_demo_answer(
+        payload,
+        local_content=local_results[0] if local_results else None,
+    )
     history_id = save_history(payload, demo_answer)
 
     return {
         **demo_answer,
         "history_id": history_id,
+        "used_local_content": bool(local_results),
+        "content_sources": [
+            {"title": result["title"], "path": result["path"]}
+            for result in local_results
+        ],
     }
 
 

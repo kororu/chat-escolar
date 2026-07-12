@@ -119,3 +119,9 @@ Si Python ya estaba instalado, vuelve a ejecutar el instalador y habilita su int
 ## Privacidad y funcionamiento local
 
 Chat Escolar funciona localmente y de forma gratuita. Por ahora no se conecta a OpenAI API ni requiere servicios pagados. La información de perfiles e historial permanece en la base SQLite del equipo.
+
+## Contenidos educativos locales
+
+La aplicación también puede apoyar sus respuestas con archivos Markdown guardados en `contenidos/`. El backend busca automáticamente material relacionado con el curso, la materia y la pregunta, sin enviar información a servicios externos.
+
+Consulta [README_CONTENIDOS_LOCALES.md](README_CONTENIDOS_LOCALES.md) para conocer la estructura, agregar nuevos contenidos y probar el buscador.
