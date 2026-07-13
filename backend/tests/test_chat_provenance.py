@@ -108,7 +108,7 @@ class ChatProvenanceTests(unittest.TestCase):
         self.assertEqual(response["provenance_status"], "clarification_required")
         self.assertFalse(response["used_local_content"])
         self.assertEqual(response["content_sources"], [])
-        self.assertIn("¿Puedes decirme a qué tema", response["answer"])
+        self.assertIn("¿Puedes decirme qué quieres repasar?", response["answer"])
 
 
     def test_response_includes_processing_time_metadata(self):

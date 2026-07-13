@@ -45,6 +45,8 @@ Para detener cualquiera de los dos procesos, presiona `Ctrl+C` en su terminal.
 
 Chat Escolar puede leer archivos Markdown desde `contenidos/` y utilizarlos como apoyo para sus respuestas. La búsqueda funciona localmente, sin OpenAI API ni servicios pagados.
 
+Durante la ejecución, el backend carga un índice en memoria de los Markdown curriculares para evitar releerlos en cada pregunta. Al editar contenidos con el backend ya iniciado, reinícialo para reconstruir ese índice.
+
 La base local reconoce carpetas curriculares Markdown de 1° a 8° básico. El backend centraliza los mapeos de cursos y materias para que el selector, la búsqueda y la futura capa de IA local usen la misma convención de carpetas.
 
 La materia inicia en **Automática**: Chat Escolar detecta de forma local Ciencias Naturales, Matemática, Lenguaje o Historia con palabras clave normalizadas y busca primero en esa materia. La selección manual sigue disponible y se respeta. Si no hay suficiente contenido verificado, la búsqueda amplía de forma controlada a otras materias sin relajar sus umbrales de relevancia. La respuesta incluye la materia detectada como dato secundario y permite seleccionar la variante de Nexo correspondiente.
@@ -103,6 +105,8 @@ Las respuestas pedagógicas mantienen el orden **Explicación corta, Ejemplo, Mi
 ## Nexo, identidad visual del chat
 
 Nexo es el tutor visual de Chat Escolar. Las preguntas del perfil y las respuestas de Nexo usan globos distintos; durante el procesamiento se muestra la variante de Nexo pensando. La pantalla de perfiles incorpora la variante `nexo_bienvenida.png` como imagen principal. Las variantes y rutas de assets están documentadas en [docs/README_NEXO_VISUAL.md](docs/README_NEXO_VISUAL.md). Mientras no existan imágenes finales, la interfaz usa un placeholder seguro.
+
+Las 14 imágenes PNG actuales de Nexo ocupan aproximadamente 12 MB en el código fuente. Antes de empaquetar la versión 1.0 conviene evaluar variantes WebP optimizadas, conservando los PNG originales como fuente y verificando cada estado visual.
 
 ## Perfiles locales
 

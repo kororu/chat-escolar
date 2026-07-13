@@ -123,7 +123,7 @@ class ConversationContextIntegrationTests(unittest.TestCase):
         response = self.ask(self.erik, "cual fue el mas usado?")
         self.assertEqual(response["provenance_status"], "clarification_required")
         self.assertFalse(response["conversation_context"]["used_context"])
-        self.assertIn("¿Puedes decirme a qué tema", response["answer"])
+        self.assertIn("¿Puedes decirme qué quieres repasar?", response["answer"])
 
     def test_active_course_from_frontend_overrides_profile_course_for_search(self):
         response = self.ask(

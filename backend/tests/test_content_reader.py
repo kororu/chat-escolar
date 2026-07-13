@@ -1,6 +1,13 @@
 import unittest
+from unittest.mock import patch
 
-from content_reader import detect_subject_from_question, normalize_text, normalize_question, retrieve_local_content
+from content_reader import (
+    detect_subject_from_question,
+    normalize_text,
+    normalize_question,
+    reload_local_content_index,
+    retrieve_local_content,
+)
 
 
 class QuestionNormalizationTests(unittest.TestCase):
@@ -54,6 +61,19 @@ class QuestionNormalizationTests(unittest.TestCase):
 
 
 class ContentRelevanceTests(unittest.TestCase):
+    def test_retrieval_reuses_the_loaded_content_index(self):
+        self.assertGreater(reload_local_content_index(), 0)
+
+        with patch("pathlib.Path.read_text", side_effect=AssertionError("El índice no debe releer archivos")):
+            result = retrieve_local_content(
+                "6° básico",
+                "Ciencias Naturales",
+                "que es la fotosintesis",
+                mode="Estudiar para el colegio",
+            )
+
+        self.assertEqual(result["provenance_status"], "local_verified")
+
     def test_tanks_never_recover_curricular_science_sources(self):
         result = retrieve_local_content(
             "5° básico",

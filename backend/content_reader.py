@@ -1,6 +1,7 @@
 import re
 from difflib import SequenceMatcher
 from pathlib import Path
+from threading import Lock
 
 try:
     from .educational_config import (
@@ -161,6 +162,12 @@ SEARCH_EQUIVALENCES = {
     "saludable": ("nutrientes", "habitos saludables"),
     "respiratorio": ("respiracion", "pulmones", "oxigeno"),
 }
+
+# El contenido curricular cambia poco durante una sesión. Mantenerlo en memoria
+# evita recorrer y releer cientos de Markdown en cada pregunta. La recarga queda
+# explícita para conservar un comportamiento predecible al editar contenidos.
+_content_index: dict[tuple[str, str], tuple[dict, ...]] = {}
+_content_index_lock = Lock()
 
 
 def _single_word_aliases() -> dict[str, str]:
@@ -368,11 +375,11 @@ def extract_sections(content: str) -> list[dict]:
     return sections
 
 
-def find_related_section(content: str, keywords: list[str]) -> dict | None:
+def find_related_section(content: str, keywords: list[str], sections: list[dict] | None = None) -> dict | None:
     matches = []
-    for section in extract_sections(content):
-        normalized_heading = normalize_text(section["heading"])
-        normalized_text = normalize_text(section["text"])
+    for section in sections or extract_sections(content):
+        normalized_heading = section.get("normalized_heading") or normalize_text(section["heading"])
+        normalized_text = section.get("normalized_text") or normalize_text(section["text"])
         if not any(keyword in normalized_text or keyword in normalized_heading for keyword in keywords):
             continue
         heading_match = any(keyword in normalized_heading for keyword in keywords)
@@ -381,7 +388,7 @@ def find_related_section(content: str, keywords: list[str]) -> dict | None:
                 "heading": section["heading"],
                 "text": section["text"],
                 "heading_match": heading_match,
-                "explicit_related_section": _is_related_section(section["heading"]),
+                "explicit_related_section": section.get("explicit_related_section", _is_related_section(section["heading"])),
             }
         )
 
@@ -449,22 +456,9 @@ def make_excerpt(content: str, keywords: list[str], max_length: int = 800) -> st
     return f"{shortened.rstrip()}…"
 
 
-def _score_document(file_path: Path, raw_content: str, keywords: list[str]) -> dict:
-    content = strip_front_matter(raw_content)
-    metadata = parse_front_matter(raw_content)
-    title = extract_title(content, file_path.stem)
-    headings = extract_headings(content)
-    direct_headings = [
-        heading for heading in headings if not _is_related_section(heading)
-    ]
-    fields = {
-        "filename": normalize_text(file_path.stem),
-        "title": normalize_text(title),
-        "topic": normalize_text(metadata["topic"]),
-        "headings": normalize_text(" ".join(direct_headings)),
-        "explicit_keywords": normalize_text(" ".join(metadata["keywords"])),
-        "body": normalize_text(content),
-    }
+def _score_document(document: dict, keywords: list[str]) -> dict:
+    content = document["content"]
+    fields = document["fields"]
     weights = {
         "filename": 14,
         "title": 14,
@@ -489,7 +483,7 @@ def _score_document(file_path: Path, raw_content: str, keywords: list[str]) -> d
         score += 4  # La carpeta de materia ya fue validada antes de puntuar.
 
     return {
-        "title": title,
+        "title": document["title"],
         "content": content,
         "score": score,
         "high_signal_matches": high_signal_matches,
@@ -498,7 +492,7 @@ def _score_document(file_path: Path, raw_content: str, keywords: list[str]) -> d
             keyword in fields["title"] or keyword in fields["topic"]
             for keyword in keywords
         ),
-        "related_section": find_related_section(content, keywords),
+        "related_section": find_related_section(content, keywords, sections=document["sections"]),
     }
 
 
@@ -520,30 +514,104 @@ def _make_base_result(analysis: dict, minimum_score: int) -> dict:
     }
 
 
-def _candidate_from_file(
-    file_path: Path,
+def _build_content_index(search_scopes: list[tuple[str, str]] | None = None) -> dict[tuple[str, str], tuple[dict, ...]]:
+    if not CONTENT_ROOT.is_dir():
+        return {}
+
+    requested_scopes = set(search_scopes) if search_scopes is not None else None
+    documents_by_scope: dict[tuple[str, str], list[dict]] = {
+        scope: [] for scope in requested_scopes or ()
+    }
+    for file_path in sorted(CONTENT_ROOT.rglob("*.md")):
+        try:
+            relative_path = file_path.relative_to(CONTENT_ROOT)
+        except ValueError:
+            continue
+        if len(relative_path.parts) < 3 or not is_primary_content_file(relative_path):
+            continue
+        scope = (relative_path.parts[0], relative_path.parts[1])
+        if requested_scopes is not None and scope not in requested_scopes:
+            continue
+        try:
+            raw_content = file_path.read_text(encoding="utf-8")
+        except (OSError, UnicodeError):
+            continue
+
+        content = strip_front_matter(raw_content)
+        metadata = parse_front_matter(raw_content)
+        title = extract_title(content, file_path.stem)
+        direct_headings = [
+            heading for heading in extract_headings(content) if not _is_related_section(heading)
+        ]
+        sections = [
+            {
+                **section,
+                "normalized_heading": normalize_text(section["heading"]),
+                "normalized_text": normalize_text(section["text"]),
+                "explicit_related_section": _is_related_section(section["heading"]),
+            }
+            for section in extract_sections(content)
+        ]
+        documents_by_scope.setdefault(scope, []).append({
+            "file_path": file_path,
+            "relative_path": relative_path.as_posix(),
+            "course_folder": relative_path.parts[0],
+            "subject_folder": relative_path.parts[1],
+            "content": content,
+            "title": title,
+            "sections": sections,
+            "fields": {
+                "filename": normalize_text(file_path.stem),
+                "title": normalize_text(title),
+                "topic": normalize_text(metadata["topic"]),
+                "headings": normalize_text(" ".join(direct_headings)),
+                "explicit_keywords": normalize_text(" ".join(metadata["keywords"])),
+                "body": normalize_text(content),
+            },
+        })
+    return {
+        scope: tuple(documents)
+        for scope, documents in documents_by_scope.items()
+    }
+
+
+def reload_local_content_index() -> int:
+    """Recarga el índice local después de editar archivos Markdown en caliente."""
+    global _content_index
+    with _content_index_lock:
+        _content_index = _build_content_index()
+        return sum(len(documents) for documents in _content_index.values())
+
+
+def _get_content_index(search_scopes: list[tuple[str, str]]) -> tuple[dict, ...]:
+    requested_scopes = set(search_scopes)
+    missing_scopes = requested_scopes.difference(_content_index)
+    if missing_scopes:
+        with _content_index_lock:
+            missing_scopes = requested_scopes.difference(_content_index)
+            if missing_scopes:
+                _content_index.update(_build_content_index(list(missing_scopes)))
+    return tuple(
+        document
+        for scope in requested_scopes
+        for document in _content_index.get(scope, ())
+    )
+
+
+def _candidate_from_document(
+    document: dict,
     course_folder: str,
     subject_folder: str,
     keywords: list[str],
 ) -> dict | None:
-    if not is_primary_content_file(file_path.relative_to(CONTENT_ROOT)):
-        return None
-    try:
-        raw_content = file_path.read_text(encoding="utf-8")
-    except (OSError, UnicodeError):
-        return None
-
-    scored = _score_document(file_path, raw_content, keywords)
+    file_path = document["file_path"]
+    scored = _score_document(document, keywords)
     if scored["score"] <= 0:
-        return None
-    try:
-        relative_path = file_path.relative_to(CONTENT_ROOT).as_posix()
-    except ValueError:
         return None
 
     return {
         "title": scored["title"],
-        "path": relative_path,
+        "path": document["relative_path"],
         "score": scored["score"],
         "excerpt": make_excerpt(scored["content"], keywords),
         "coherent": bool(scored["high_signal_matches"]),
@@ -558,14 +626,15 @@ def _candidate_from_file(
 
 def _collect_candidates(search_scopes: list[tuple[str, str]], keywords: list[str]) -> list[dict]:
     candidates = []
-    for course_folder, subject_folder in search_scopes:
-        search_folder = CONTENT_ROOT / course_folder / subject_folder
-        if not search_folder.is_dir():
+    scope_set = set(search_scopes)
+    for document in _get_content_index(search_scopes):
+        course_folder = document["course_folder"]
+        subject_folder = document["subject_folder"]
+        if (course_folder, subject_folder) not in scope_set:
             continue
-        for file_path in sorted(search_folder.rglob("*.md")):
-            candidate = _candidate_from_file(file_path, course_folder, subject_folder, keywords)
-            if candidate:
-                candidates.append(candidate)
+        candidate = _candidate_from_document(document, course_folder, subject_folder, keywords)
+        if candidate:
+            candidates.append(candidate)
     return candidates
 
 
