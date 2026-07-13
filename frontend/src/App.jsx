@@ -134,6 +134,21 @@ function EmptyChatState({ isDemo, onSuggestedQuestionClick, showSuggestedQuestio
   )
 }
 
+function HistoryReadyState({ onContinue }) {
+  return (
+    <section className="chat-history-context" aria-label="Historial disponible">
+      <NexoAvatar variant="reposo" size="empty" />
+      <div className="empty-chat-content">
+        <strong>Tu historial está listo.</strong>
+        <p>Puedes retomar tu última pregunta o escribir una nueva para comenzar otro tema.</p>
+        <button className="history-context-button" type="button" onClick={onContinue}>
+          Continuar donde quedé
+        </button>
+      </div>
+    </section>
+  )
+}
+
 function responsePrefix(profile) {
   if (profile.role === 'Apoderado') {
     return `Claro, ${profile.name}. Te explico una forma simple para enseñárselo al estudiante.`
@@ -641,7 +656,9 @@ function App() {
       ? `Consultando ${course} para esta pregunta.`
       : ''
   const demoProfile = isDemoProfile(activeProfile)
-  const showEmptyChat = !isSending && messages.length === 0 && historyItems.length === 0
+  const hasVisibleMessages = messages.length > 0
+  const showEmptyChat = !isSending && !hasVisibleMessages && (demoProfile || historyItems.length === 0)
+  const showHistoryContext = !isSending && !hasVisibleMessages && !demoProfile && historyItems.length > 0
 
   const activateProfile = useCallback(async (profile) => {
     const storageKey = conversationStorageKey(profile.id)
@@ -1118,6 +1135,7 @@ function App() {
                 onSuggestedQuestionClick={chooseSuggestedQuestion}
               />
             )}
+            {showHistoryContext && <HistoryReadyState onContinue={continueLatestHistory} />}
             {messages.map((message, index) => (message.from === 'student' ? (
               <UserMessageBubble key={`${message.from}-${index}`} message={message} profile={activeProfile} />
             ) : (
