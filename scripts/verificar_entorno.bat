@@ -2,6 +2,8 @@
 chcp 65001 >nul
 title Verificación de entorno - Chat Escolar
 
+cd /d "%~dp0.."
+
 echo ==================================================
 echo   Verificación de entorno - Chat Escolar
 echo ==================================================
@@ -58,6 +60,31 @@ if errorlevel 1 (
 ) else (
     echo [OK] VS Code disponible:
     call code --version
+)
+
+echo.
+if exist "backend\main.py" (
+    echo [OK] backend\main.py encontrado.
+) else (
+    echo [ERROR] No se encontro backend\main.py.
+)
+if exist "frontend\package.json" (
+    echo [OK] frontend\package.json encontrado.
+) else (
+    echo [ERROR] No se encontro frontend\package.json.
+)
+if exist "backend\.venv\Scripts\activate.bat" (
+    echo [OK] Entorno virtual backend\.venv encontrado.
+) else (
+    echo [AVISO] No existe backend\.venv. Ejecuta scripts\01_instalar_dependencias.bat.
+)
+echo.
+where ollama >nul 2>&1
+if errorlevel 1 (
+    echo [AVISO] Ollama no detectado. Chat Escolar puede funcionar en modo basico.
+) else (
+    echo [OK] Ollama disponible:
+    ollama --version
 )
 
 echo.

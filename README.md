@@ -2,6 +2,15 @@
 
 Aplicación educativa local con tutor demo, perfiles, historial y recursos curados.
 
+## Cómo iniciar Chat Escolar en Windows
+
+1. Ejecuta `scripts\00_verificar_entorno.bat`.
+2. En el primer uso, ejecuta `scripts\01_instalar_dependencias.bat`.
+3. Ejecuta `iniciar_chat_escolar.bat` desde la raíz del proyecto.
+4. Abre `http://localhost:5173/` si el navegador no aparece solo.
+
+Los scripts mantienen rutas relativas y abren backend/frontend en ventanas separadas. Ollama es opcional: la aplicación funciona en modo Básico si no está disponible. Consulta la [guía de ejecución en Windows](docs/Guia_Ejecucion_Windows_Chat_Escolar.md) para uso diario, cambio de PC y solución de problemas.
+
 ## Base de conocimiento local
 
 Chat Escolar puede leer archivos Markdown desde `contenidos/` y utilizarlos como apoyo para sus respuestas. La búsqueda funciona localmente, sin OpenAI API ni servicios pagados.
