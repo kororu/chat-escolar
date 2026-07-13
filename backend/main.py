@@ -16,9 +16,9 @@ except ImportError:
     from ai_contract import build_educational_context
 
 try:
-    from .content_reader import normalize_question, retrieve_local_content
+    from .content_reader import detect_subject_from_question, normalize_question, retrieve_local_content
 except ImportError:
-    from content_reader import normalize_question, retrieve_local_content
+    from content_reader import detect_subject_from_question, normalize_question, retrieve_local_content
 
 try:
     from .conversation_context import build_conversation_context
@@ -78,6 +78,7 @@ except ImportError:
 
 DB_PATH = Path(__file__).with_name("chat_escolar.db")
 VIDEOS_PATH = Path(__file__).with_name("data") / "videos_curados.json"
+SETTINGS_PATH = Path(__file__).with_name("data") / "settings.json"
 AVATAR_DIRECTORY = Path(__file__).with_name("data") / "profile_avatars"
 MAX_AVATAR_SIZE_BYTES = 2 * 1024 * 1024
 AVATAR_CONTENT_TYPES = {
@@ -89,6 +90,15 @@ AVATAR_EXTENSIONS = {".png", ".jpg", ".jpeg", ".webp"}
 _ollama_status_cache: dict | None = None
 _ollama_status_checked_at: datetime | None = None
 logger = logging.getLogger(__name__)
+AI_MODES = {"basic", "automatic", "explore_only"}
+AUTO_SUBJECT_VALUES = {"automatic", "automatica", "auto", ""}
+CURRICULAR_SUBJECTS = ("Ciencias Naturales", "Matemática", "Lenguaje", "Historia")
+DEFAULT_SETTINGS = {
+    "ai_mode": "basic",
+    "ollama_enabled": False,
+    "ollama_model": "qwen3.5:2b",
+    "ollama_timeout_seconds": 25,
+}
 
 app = FastAPI(
     title="Chat Escolar API",
@@ -108,7 +118,7 @@ app.add_middleware(
 class ChatDemoRequest(BaseModel):
     course: str
     mode: str
-    subject: str
+    subject: str | None = "Automática"
     question: str
     profile_id: int | None = None
     user_name: str | None = None
@@ -124,6 +134,13 @@ class ProfileCreate(BaseModel):
 
 class AiTestRequest(BaseModel):
     prompt: str = Field(min_length=1, max_length=6000)
+
+
+class SettingsUpdate(BaseModel):
+    ai_mode: str | None = None
+    ollama_enabled: bool | None = None
+    ollama_model: str | None = Field(default=None, max_length=80)
+    ollama_timeout_seconds: int | None = None
 
 
 class HistoryStatusUpdate(BaseModel):
@@ -150,6 +167,9 @@ def get_connection():
 
 def init_db():
     AVATAR_DIRECTORY.mkdir(parents=True, exist_ok=True)
+    if not SETTINGS_PATH.exists():
+        SETTINGS_PATH.parent.mkdir(parents=True, exist_ok=True)
+        SETTINGS_PATH.write_text(json.dumps(DEFAULT_SETTINGS, indent=2), encoding="utf-8")
     with get_connection() as connection:
         connection.execute(
             """
@@ -224,15 +244,90 @@ def load_curated_videos() -> list[dict]:
     return videos if isinstance(videos, list) else []
 
 
-def get_cached_ollama_status() -> dict:
+def validate_settings(candidate: dict) -> dict:
+    settings = {**DEFAULT_SETTINGS, **candidate}
+    if settings["ai_mode"] not in AI_MODES:
+        raise HTTPException(status_code=400, detail="Modo de IA local inválido")
+    if not isinstance(settings["ollama_enabled"], bool):
+        raise HTTPException(status_code=400, detail="ollama_enabled debe ser verdadero o falso")
+    if not isinstance(settings["ollama_model"], str) or not settings["ollama_model"].strip():
+        raise HTTPException(status_code=400, detail="El modelo de Ollama es obligatorio")
+    if not isinstance(settings["ollama_timeout_seconds"], int) or not 5 <= settings["ollama_timeout_seconds"] <= 60:
+        raise HTTPException(status_code=400, detail="El timeout debe estar entre 5 y 60 segundos")
+    settings["ollama_model"] = settings["ollama_model"].strip()
+    return settings
+
+
+def load_settings() -> dict:
+    try:
+        with SETTINGS_PATH.open(encoding="utf-8") as settings_file:
+            saved_settings = json.load(settings_file)
+        if not isinstance(saved_settings, dict):
+            raise ValueError("La configuración no es un objeto")
+        return validate_settings(saved_settings)
+    except (OSError, ValueError, json.JSONDecodeError, HTTPException):
+        # A corrupt local preference must not prevent the educational fallback.
+        return DEFAULT_SETTINGS.copy()
+
+
+def save_settings(settings: dict) -> dict:
+    validated = validate_settings(settings)
+    SETTINGS_PATH.parent.mkdir(parents=True, exist_ok=True)
+    temporary_path = SETTINGS_PATH.with_suffix(".tmp")
+    temporary_path.write_text(json.dumps(validated, indent=2), encoding="utf-8")
+    temporary_path.replace(SETTINGS_PATH)
+    return validated
+
+
+def get_cached_ollama_status(settings: dict | None = None) -> dict:
     global _ollama_status_cache, _ollama_status_checked_at
     now = datetime.now(timezone.utc)
     if _ollama_status_cache is not None and _ollama_status_checked_at is not None:
         if (now - _ollama_status_checked_at).total_seconds() < 10:
             return _ollama_status_cache
-    _ollama_status_cache = get_ollama_status()
+    settings = settings or load_settings()
+    _ollama_status_cache = get_ollama_status(
+        model=settings["ollama_model"],
+        enabled=settings["ollama_enabled"],
+        timeout_seconds=settings["ollama_timeout_seconds"],
+    )
     _ollama_status_checked_at = now
     return _ollama_status_cache
+
+
+def is_automatic_subject(subject: str | None) -> bool:
+    return normalize_text(subject or "") in AUTO_SUBJECT_VALUES
+
+
+def select_best_retrieval(retrievals: list[tuple[str, dict]]) -> tuple[str, dict]:
+    priority = {
+        LOCAL_VERIFIED: 4,
+        "local_related": 3,
+        "local_low_confidence": 2,
+        "no_local_content": 1,
+        CLARIFICATION_REQUIRED: 0,
+    }
+    return max(
+        retrievals,
+        key=lambda item: (priority.get(item[1]["provenance_status"], 0), item[1].get("best_score", 0)),
+    )
+
+
+def retrieve_automatic_subject(course: str, question: str, mode: str, detected_subject: str | None) -> tuple[str | None, dict, bool]:
+    """Prefer a detected subject, expanding only when it has no verified source."""
+    candidates: list[tuple[str, dict]] = []
+    if detected_subject:
+        initial = retrieve_local_content(course, detected_subject, question, mode=mode)
+        candidates.append((detected_subject, initial))
+        if initial["provenance_status"] == LOCAL_VERIFIED:
+            return detected_subject, initial, False
+
+    for subject in CURRICULAR_SUBJECTS:
+        if subject == detected_subject:
+            continue
+        candidates.append((subject, retrieve_local_content(course, subject, question, mode=mode)))
+    subject_used, selected = select_best_retrieval(candidates)
+    return subject_used, selected, subject_used != detected_subject
 
 
 def save_history(
@@ -302,7 +397,7 @@ def get_recent_conversation_items(profile_id: int | None, conversation_id: str |
     with get_connection() as connection:
         rows = connection.execute(
             """
-            SELECT question, normalized_question, contextual_question, active_topic,
+            SELECT question, subject, normalized_question, contextual_question, active_topic,
                    context_confidence, created_at
             FROM chat_history
             WHERE profile_id = ? AND conversation_id = ?
@@ -397,12 +492,46 @@ def health():
 
 @app.get("/ai/status")
 def ai_status():
-    return get_ollama_status()
+    settings = load_settings()
+    status = get_cached_ollama_status(settings)
+    return {
+        **status,
+        "ai_mode": settings["ai_mode"],
+        "ollama_enabled": settings["ollama_enabled"],
+        "ollama_timeout_seconds": settings["ollama_timeout_seconds"],
+    }
+
+
+@app.get("/settings")
+def get_settings():
+    return {"status": "ok", "settings": load_settings()}
+
+
+@app.patch("/settings")
+def update_settings(payload: SettingsUpdate):
+    global _ollama_status_cache, _ollama_status_checked_at
+    updates = (
+        payload.model_dump(exclude_none=True)
+        if hasattr(payload, "model_dump")
+        else payload.dict(exclude_none=True)
+    )
+    settings = save_settings({**load_settings(), **updates})
+    _ollama_status_cache = None
+    _ollama_status_checked_at = None
+    return {"status": "ok", "settings": settings}
 
 
 @app.post("/ai/test")
 def ai_test(payload: AiTestRequest):
-    status = get_ollama_status()
+    settings = load_settings()
+    if settings["ai_mode"] == "basic" or not settings["ollama_enabled"]:
+        return {
+            "status": "disabled",
+            "provider": "demo",
+            "message": "Activa IA local automática o Solo Explorar para probar Ollama.",
+            "answer": None,
+        }
+    status = get_cached_ollama_status(settings)
     if not status["available"] or not status["model_installed"]:
         return {
             "status": "unavailable",
@@ -411,7 +540,12 @@ def ai_test(payload: AiTestRequest):
             "answer": None,
         }
     try:
-        answer = clean_ollama_response(generate_with_ollama(payload.prompt))
+        answer = clean_ollama_response(generate_with_ollama(
+            payload.prompt,
+            model=settings["ollama_model"],
+            enabled=settings["ollama_enabled"],
+            timeout_seconds=settings["ollama_timeout_seconds"],
+        ))
     except OllamaError as error:
         return {"status": "unavailable", "provider": "demo", "message": str(error), "answer": None}
     return {"status": "ok", "provider": PROVIDER_OLLAMA, "answer": answer}
@@ -640,6 +774,16 @@ def chat_demo(payload: ChatDemoRequest):
         payload.conversation_id,
     )
     conversation_context = build_conversation_context(payload.question, recent_items)
+    subject_mode = "automatic" if is_automatic_subject(payload.subject) else "manual"
+    detected_subject, subject_confidence = detect_subject_from_question(
+        conversation_context["contextual_question"]
+    )
+    if subject_mode == "automatic" and detected_subject is None and recent_items:
+        previous_subject = recent_items[0].get("subject")
+        if previous_subject in CURRICULAR_SUBJECTS:
+            detected_subject, subject_confidence = previous_subject, 0.55
+    subject_used = payload.subject
+    subject_fallback_used = False
 
     if conversation_context["requires_clarification"]:
         retrieval = {
@@ -651,24 +795,48 @@ def chat_demo(payload: ChatDemoRequest):
             "best_score": 0,
         }
     else:
-        retrieval = retrieve_local_content(
-            payload.course,
-            payload.subject,
-            conversation_context["contextual_question"],
-            mode=payload.mode,
-        )
+        if subject_mode == "automatic":
+            subject_used, retrieval, subject_fallback_used = retrieve_automatic_subject(
+                payload.course,
+                conversation_context["contextual_question"],
+                payload.mode,
+                detected_subject,
+            )
+            if subject_used:
+                payload.subject = subject_used
+        else:
+            retrieval = retrieve_local_content(
+                payload.course,
+                payload.subject,
+                conversation_context["contextual_question"],
+                mode=payload.mode,
+            )
         if (
             retrieval["provenance_status"] != LOCAL_VERIFIED
             and not is_all_courses(payload.course)
             and "explor" not in normalize_text(payload.mode or "")
         ):
-            global_retrieval = retrieve_local_content(
-                ALL_COURSES_LABEL,
-                payload.subject,
-                conversation_context["contextual_question"],
-                mode=payload.mode,
-            )
+            if subject_mode == "automatic":
+                global_subject, global_retrieval, global_fallback = retrieve_automatic_subject(
+                    ALL_COURSES_LABEL,
+                    conversation_context["contextual_question"],
+                    payload.mode,
+                    detected_subject,
+                )
+            else:
+                global_subject = payload.subject
+                global_fallback = False
+                global_retrieval = retrieve_local_content(
+                    ALL_COURSES_LABEL,
+                    payload.subject,
+                    conversation_context["contextual_question"],
+                    mode=payload.mode,
+                )
             if global_retrieval["provenance_status"] == LOCAL_VERIFIED:
+                if subject_mode == "automatic" and global_subject:
+                    subject_used = global_subject
+                    payload.subject = global_subject
+                    subject_fallback_used = subject_fallback_used or global_fallback
                 retrieval = {
                     **global_retrieval,
                     "effective_course": payload.course,
@@ -706,7 +874,25 @@ def chat_demo(payload: ChatDemoRequest):
     ] if local_results else []
     response_provenance = retrieval["provenance_status"]
     provider = educational_context["provider"]
-    ollama_status = get_cached_ollama_status()
+    settings = load_settings()
+    ai_mode = settings["ai_mode"]
+    is_exploration = "explor" in normalize_text(payload.mode or "") or is_all_courses(payload.course)
+    ollama_allowed_for_request = (
+        ai_mode == "automatic"
+        or (ai_mode == "explore_only" and is_exploration)
+    )
+    ollama_attempted = False
+    ollama_timeout = False
+    if settings["ollama_enabled"] and ollama_allowed_for_request:
+        ollama_status = get_cached_ollama_status(settings)
+    else:
+        ollama_status = {
+            "enabled": False,
+            "available": False,
+            "model": settings["ollama_model"],
+            "model_installed": False,
+            "message": "La IA local no se usa con la configuración actual.",
+        }
     educational_context["ollama_enabled"] = (
         ollama_status["enabled"]
         and ollama_status["available"]
@@ -716,7 +902,7 @@ def chat_demo(payload: ChatDemoRequest):
     has_verified_source = retrieval["provenance_status"] == LOCAL_VERIFIED and bool(local_results)
     can_use_general_ollama = (
         not has_verified_source
-        and ("explor" in normalize_text(payload.mode or "") or is_all_courses(payload.course))
+        and is_exploration
     )
 
     if has_verified_source:
@@ -724,15 +910,21 @@ def chat_demo(payload: ChatDemoRequest):
         response_provenance = LOCAL_CONTENT_FALLBACK
         provider = PROVIDER_LOCAL_CONTENT
 
-    if has_verified_source or can_use_general_ollama:
+    if ollama_allowed_for_request and (has_verified_source or can_use_general_ollama):
         if ollama_status["available"] and ollama_status["model_installed"]:
             try:
+                ollama_attempted = True
                 prompt = build_ollama_prompt(
                     payload,
                     educational_context,
                     use_local_source=has_verified_source,
                 )
-                answer = clean_ollama_response(generate_with_ollama(prompt))
+                answer = clean_ollama_response(generate_with_ollama(
+                    prompt,
+                    model=settings["ollama_model"],
+                    enabled=settings["ollama_enabled"],
+                    timeout_seconds=settings["ollama_timeout_seconds"],
+                ))
                 if not answer:
                     raise OllamaError("Ollama devolvió una respuesta vacía después de la limpieza.")
                 demo_answer = {
@@ -744,6 +936,7 @@ def chat_demo(payload: ChatDemoRequest):
                 provider = PROVIDER_OLLAMA_WITH_LOCAL_CONTENT if has_verified_source else PROVIDER_OLLAMA
             except OllamaError as error:
                 logger.warning("Ollama falló; se usará el fallback local: %s", error)
+                ollama_timeout = "timeout" in str(error).lower()
                 response_provenance = LOCAL_CONTENT_FALLBACK if has_verified_source else DEMO_FALLBACK
                 provider = PROVIDER_LOCAL_CONTENT if has_verified_source else "demo"
         else:
@@ -766,12 +959,21 @@ def chat_demo(payload: ChatDemoRequest):
         "retrieval_provenance_status": retrieval["provenance_status"],
         "provider": provider,
         "processing_time_ms": processing_time_ms,
+        "detected_subject": detected_subject,
+        "subject_mode": subject_mode,
+        "subject_used": subject_used,
+        "subject_confidence": subject_confidence,
+        "subject_fallback_used": subject_fallback_used,
+        "ai_mode_used": ai_mode,
+        "ollama_attempted": ollama_attempted,
+        "ollama_timeout": ollama_timeout,
         "used_local_content": has_verified_source,
         "ollama": {
             "enabled": ollama_status["enabled"],
             "available": ollama_status["available"],
             "model": ollama_status["model"],
             "model_installed": ollama_status["model_installed"],
+            "timeout_seconds": settings["ollama_timeout_seconds"],
         },
         "active_course": payload.course,
         "profile_course": profile_course,

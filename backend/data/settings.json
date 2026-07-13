@@ -1,0 +1,6 @@
+{
+  "ai_mode": "automatic",
+  "ollama_enabled": true,
+  "ollama_model": "qwen3.5:2b",
+  "ollama_timeout_seconds": 25
+}

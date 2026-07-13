@@ -1,6 +1,6 @@
 import unittest
 
-from content_reader import normalize_text, normalize_question, retrieve_local_content
+from content_reader import detect_subject_from_question, normalize_text, normalize_question, retrieve_local_content
 
 
 class QuestionNormalizationTests(unittest.TestCase):
@@ -33,6 +33,24 @@ class QuestionNormalizationTests(unittest.TestCase):
         )
         self.assertEqual(result["provenance_status"], "clarification_required")
         self.assertEqual(result["results"], [])
+
+    def test_detects_curricular_subjects_from_normalized_questions(self):
+        examples = {
+            "Que es la fotosintesis?": "Ciencias Naturales",
+            "explicame las fracciones": "Matemática",
+            "quien fue Arturo Prat": "Historia",
+            "que es un sustantivo": "Lenguaje",
+        }
+        for question, expected_subject in examples.items():
+            with self.subTest(question=question):
+                subject, confidence = detect_subject_from_question(question)
+                self.assertEqual(subject, expected_subject)
+                self.assertGreaterEqual(confidence, 0.6)
+
+    def test_ambiguous_question_does_not_invent_subject(self):
+        subject, confidence = detect_subject_from_question("explícame esto mejor")
+        self.assertIsNone(subject)
+        self.assertEqual(confidence, 0.0)
 
 
 class ContentRelevanceTests(unittest.TestCase):

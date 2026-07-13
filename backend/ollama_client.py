@@ -47,30 +47,35 @@ def _request(path: str, *, payload: dict | None = None, timeout: float = OLLAMA_
         raise OllamaError("Ollama devolvió una respuesta inválida.") from error
 
 
-def list_models() -> list[str]:
-    data = _request("/api/tags", timeout=STATUS_TIMEOUT_SECONDS)
+def list_models(*, timeout: float = STATUS_TIMEOUT_SECONDS) -> list[str]:
+    data = _request("/api/tags", timeout=timeout)
     return [model["name"] for model in data.get("models", []) if isinstance(model, dict) and model.get("name")]
 
 
-def get_status() -> dict:
-    if not OLLAMA_ENABLED:
+def get_status(
+    *,
+    model: str = OLLAMA_MODEL,
+    enabled: bool = OLLAMA_ENABLED,
+    timeout_seconds: float = OLLAMA_TIMEOUT_SECONDS,
+) -> dict:
+    if not enabled:
         return {
             "enabled": False,
             "available": False,
             "base_url": OLLAMA_BASE_URL,
-            "model": OLLAMA_MODEL,
+            "model": model,
             "model_installed": False,
             "models": [],
             "message": "La IA local está desactivada. Chat Escolar seguirá en modo básico.",
         }
     try:
-        models = list_models()
+        models = list_models(timeout=min(1.0, timeout_seconds))
     except OllamaUnavailableError:
         return {
             "enabled": True,
             "available": False,
             "base_url": OLLAMA_BASE_URL,
-            "model": OLLAMA_MODEL,
+            "model": model,
             "model_installed": False,
             "models": [],
             "message": "Ollama no está disponible. Chat Escolar seguirá en modo básico.",
@@ -80,29 +85,36 @@ def get_status() -> dict:
             "enabled": True,
             "available": False,
             "base_url": OLLAMA_BASE_URL,
-            "model": OLLAMA_MODEL,
+            "model": model,
             "model_installed": False,
             "models": [],
             "message": str(error),
         }
-    installed = OLLAMA_MODEL in models
+    installed = model in models
     return {
         "enabled": True,
         "available": True,
         "base_url": OLLAMA_BASE_URL,
-        "model": OLLAMA_MODEL,
+        "model": model,
         "model_installed": installed,
         "models": models,
         "message": "Ollama conectado" if installed else "Ollama conectado, pero falta el modelo configurado.",
     }
 
 
-def generate(prompt: str) -> str:
-    if not OLLAMA_ENABLED:
+def generate(
+    prompt: str,
+    *,
+    model: str = OLLAMA_MODEL,
+    enabled: bool = OLLAMA_ENABLED,
+    timeout_seconds: float = OLLAMA_TIMEOUT_SECONDS,
+) -> str:
+    if not enabled:
         raise OllamaUnavailableError("La IA local está desactivada.")
     data = _request(
         "/api/generate",
-        payload={"model": OLLAMA_MODEL, "prompt": prompt, "stream": False},
+        payload={"model": model, "prompt": prompt, "stream": False},
+        timeout=timeout_seconds,
     )
     answer = data.get("response")
     if not isinstance(answer, str) or not answer.strip():

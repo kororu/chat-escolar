@@ -33,7 +33,7 @@ const ALL_COURSES = 'Todos los cursos'
 const studyCourses = [...profileCourses, ALL_COURSES]
 const roles = ['Estudiante', 'Apoderado', 'Docente']
 const modes = ['Estudiar para el colegio', 'Explorar mis intereses', 'Practicar', 'Ver videos']
-const subjects = ['Ciencias Naturales', 'Matemática', 'Lenguaje', 'Historia']
+const subjects = ['Automática', 'Ciencias Naturales', 'Matemática', 'Lenguaje', 'Historia']
 const quickActions = ['No entendí', 'Explícalo más fácil', 'Dame un ejemplo', 'Hazme una pregunta']
 const videoTopics = [
   { topic: 'segunda guerra mundial', aliases: ['segunda guerra mundial', 'segunda guerra'] },
@@ -125,10 +125,11 @@ function formatProcessingTime(milliseconds) {
     : `Procesado en ${seconds} s`
 }
 
-function SelectionGroup({ title, options, selected, onSelect }) {
+function SelectionGroup({ title, options, selected, onSelect, help = '' }) {
   return (
     <section className="control-group" aria-label={title}>
       <h2>{title}</h2>
+      {help && <small className="selection-help">{help}</small>}
       <div className="option-grid">
         {options.map((option) => (
           <button
@@ -190,18 +191,52 @@ function SourceNotice({ message }) {
   )
 }
 
-function AiLocalCard({ status, onTest, isTesting, testMessage }) {
+function AiLocalCard({ status, onTest, onSettingsChange, isTesting, isSavingSettings, testMessage, settingsMessage }) {
   const available = status?.available && status?.model_installed
+  const aiMode = status?.ai_mode ?? 'basic'
+  const basicMode = aiMode === 'basic' || !status?.ollama_enabled
+  const modeDescriptions = {
+    basic: 'Usa solo contenidos locales. Es más rápido.',
+    automatic: 'Usa IA local cuando esté disponible.',
+    explore_only: 'Usa IA local para temas libres o fuera del curso.',
+  }
   return (
     <section className="ai-local-card" aria-label="Estado de IA local">
       <h2>IA local</h2>
-      <p className={available ? 'ai-status available' : 'ai-status unavailable'}>
-        {available ? 'Conectada' : 'No disponible'}
+      <p className={basicMode ? 'ai-status' : available ? 'ai-status available' : 'ai-status unavailable'}>
+        {basicMode ? 'Modo básico' : available ? 'Conectada' : 'No disponible'}
       </p>
       <small>Modelo: {status?.model ?? 'qwen3.5:2b'}</small>
-      <button type="button" onClick={onTest} disabled={isTesting}>
+      <label className="ai-setting-label" htmlFor="ai-mode">Modo IA</label>
+      <select
+        id="ai-mode"
+        value={aiMode}
+        disabled={isSavingSettings}
+        onChange={(event) => onSettingsChange({
+          ai_mode: event.target.value,
+          ollama_enabled: event.target.value !== 'basic',
+        })}
+      >
+        <option value="basic">Básico</option>
+        <option value="automatic">Automático</option>
+        <option value="explore_only">Solo Explorar</option>
+      </select>
+      <small className="ai-mode-note">{modeDescriptions[aiMode]}</small>
+      <label className="ai-setting-label" htmlFor="ai-timeout">Timeout de IA</label>
+      <select
+        id="ai-timeout"
+        value={status?.ollama_timeout_seconds ?? 25}
+        disabled={isSavingSettings}
+        onChange={(event) => onSettingsChange({ ollama_timeout_seconds: Number(event.target.value) })}
+      >
+        <option value={15}>15 s</option>
+        <option value={25}>25 s</option>
+        <option value={40}>40 s</option>
+      </select>
+      <button type="button" onClick={onTest} disabled={isTesting || aiMode === 'basic'}>
         {isTesting ? 'Probando...' : 'Probar IA local'}
       </button>
+      {settingsMessage && <p className="ai-test-message" role="status">{settingsMessage}</p>}
       {testMessage && <p className="ai-test-message">{testMessage}</p>}
     </section>
   )
@@ -502,7 +537,7 @@ function App() {
   const [showProfileScreen, setShowProfileScreen] = useState(true)
   const [course, setCourse] = useState('5° básico')
   const [mode, setMode] = useState('Estudiar para el colegio')
-  const [subject, setSubject] = useState('Ciencias Naturales')
+  const [subject, setSubject] = useState('Automática')
   const [question, setQuestion] = useState('')
   const [isSending, setIsSending] = useState(false)
   const [processingMessage, setProcessingMessage] = useState('')
@@ -517,6 +552,8 @@ function App() {
   const [aiStatus, setAiStatus] = useState(null)
   const [isAiTesting, setIsAiTesting] = useState(false)
   const [aiTestMessage, setAiTestMessage] = useState('')
+  const [isSavingAiSettings, setIsSavingAiSettings] = useState(false)
+  const [aiSettingsMessage, setAiSettingsMessage] = useState('')
   const latestHistory = historyItems[0]
   const pendingHistory = historyItems.filter((item) => item.status === 'pendiente')
   const favoriteHistory = historyItems.filter((item) => item.is_favorite)
@@ -610,6 +647,28 @@ function App() {
     }
   }, [])
 
+  const updateAiSettings = async (updates) => {
+    if (isSavingAiSettings) return
+    setIsSavingAiSettings(true)
+    setAiSettingsMessage('')
+    try {
+      const response = await fetch(`${API_BASE_URL}/settings`, {
+        method: 'PATCH',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify(updates),
+      })
+      const data = await response.json().catch(() => ({}))
+      if (!response.ok) throw new Error(data.detail || 'No pude guardar la configuración.')
+      setAiStatus((current) => ({ ...current, ...data.settings }))
+      setAiSettingsMessage('Configuración de IA local guardada.')
+      await loadAiStatus()
+    } catch (error) {
+      setAiSettingsMessage(error.message || 'No pude guardar la configuración de IA local.')
+    } finally {
+      setIsSavingAiSettings(false)
+    }
+  }
+
   useEffect(() => { loadAiStatus() }, [loadAiStatus])
 
   useEffect(() => {
@@ -628,14 +687,19 @@ function App() {
       return undefined
     }
 
-    const usingLocalAi = aiStatus?.available && aiStatus?.model_installed
-    setProcessingMessage(usingLocalAi
-      ? 'IA local trabajando. Puede tardar unos segundos.'
-      : 'Preparando respuesta... Esto puede tardar unos segundos.')
+    const basicMode = aiStatus?.ai_mode === 'basic' || !aiStatus?.ollama_enabled
+    const usingLocalAi = !basicMode && aiStatus?.available && aiStatus?.model_installed
+    setProcessingMessage(basicMode
+      ? 'Modo básico: usando contenido local.'
+      : usingLocalAi
+        ? 'IA local trabajando. Puede tardar unos segundos.'
+        : 'Preparando respuesta... Esto puede tardar unos segundos.')
     const sourceTimer = window.setTimeout(() => setProcessingMessage('Buscando contenidos locales y revisando fuentes disponibles...'), 1600)
     const clarityTimer = window.setTimeout(() => setProcessingMessage(usingLocalAi
       ? 'Consultando IA local y preparando una explicación clara...'
-      : 'Preparando una explicación clara...'), 3600)
+      : basicMode
+        ? 'Preparando una explicación clara con contenido local...'
+        : 'Preparando una explicación clara...'), 3600)
     const slowTimer = window.setTimeout(() => setProcessingMessage('La IA local está tardando un poco más de lo normal. El computador sigue procesando.'), 10000)
     const verySlowTimer = window.setTimeout(() => setProcessingMessage('Sigue procesando. En equipos modestos, algunas respuestas pueden tardar más.'), 30000)
 
@@ -790,7 +854,7 @@ function App() {
         {
           from: 'assistant',
           text: data.answer,
-          nexoVariant: pickNexoVariantForSubject(subject),
+          nexoVariant: pickNexoVariantForSubject(data.subject_used || data.detected_subject || subject),
           summary: data.summary,
           processingTimeMs: data.processing_time_ms,
           usedLocalContent: data.used_local_content,
@@ -800,6 +864,9 @@ function App() {
           effectiveCourse: data.effective_course,
           sourceCourse: data.source_course,
           foundInOtherCourse: data.found_in_other_course,
+          detectedSubject: data.detected_subject,
+          subjectMode: data.subject_mode,
+          subjectUsed: data.subject_used,
           conversationContext: data.conversation_context,
         },
       ])
@@ -952,14 +1019,14 @@ function App() {
         <aside className="selectors" aria-label="Configuración del estudio">
           <SelectionGroup title="Curso" options={studyCourses} selected={course} onSelect={setCourse} />
           <SelectionGroup title="Modo" options={modes} selected={mode} onSelect={setMode} />
-          <SelectionGroup title="Materia" options={subjects} selected={subject} onSelect={setSubject} />
+          <SelectionGroup title="Materia" options={subjects} selected={subject} onSelect={setSubject} help={subject === 'Automática' ? 'La app detecta la materia según tu pregunta.' : ''} />
         </aside>
 
         <section className="chat-panel" aria-label="Chat simulado">
           <header className="chat-header">
             <div>
               <span>{course}</span>
-              <strong>{subject}</strong>
+              <strong>{subject === 'Automática' ? 'Materia automática' : subject}</strong>
               {courseStatusMessage && <small className="active-course-note">{courseStatusMessage}</small>}
             </div>
             <p>{mode}</p>
@@ -968,8 +1035,11 @@ function App() {
             {messages.map((message, index) => (message.from === 'student' ? (
               <UserMessageBubble key={`${message.from}-${index}`} message={message} profile={activeProfile} />
             ) : (
-              <AssistantMessageBubble key={`${message.from}-${index}`} message={message} subject={subject}>
+              <AssistantMessageBubble key={`${message.from}-${index}`} message={message} subject={message.subjectUsed || message.detectedSubject || subject}>
                 <SourceNotice message={message} />
+                {message.subjectMode === 'automatic' && message.detectedSubject && (
+                  <small className="detected-subject">Materia detectada: {message.subjectUsed || message.detectedSubject}</small>
+                )}
                 {message.conversationContext?.used_context && (
                   <small className="conversation-context-note">
                     Continuamos el tema: {message.conversationContext.active_topic}.
@@ -1003,8 +1073,11 @@ function App() {
           <AiLocalCard
             status={aiStatus}
             onTest={testAiLocal}
+            onSettingsChange={updateAiSettings}
             isTesting={isAiTesting}
+            isSavingSettings={isSavingAiSettings}
             testMessage={aiTestMessage}
+            settingsMessage={aiSettingsMessage}
           />
           <section className="history-card" aria-label="Historial simple">
             <div className="section-title">

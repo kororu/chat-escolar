@@ -135,6 +135,13 @@ RELATED_SECTION_HINTS = {
     "glosario",
 }
 
+SUBJECT_KEYWORDS = {
+    "Matemática": ("suma", "resta", "multiplicacion", "division", "fraccion", "fracciones", "decimal", "porcentaje", "numero", "ecuacion", "geometria", "angulo", "area", "perimetro", "volumen", "grafico", "tabla", "probabilidad", "medida"),
+    "Ciencias Naturales": ("fotosintesis", "planta", "celula", "cuerpo humano", "sistema respiratorio", "sistema digestivo", "sistema circulatorio", "ecosistema", "habitat", "animales", "energia", "fuerza", "materia", "agua", "planeta", "sistema solar", "universo", "volcan", "terremoto", "alimentacion", "nutrientes", "saludable"),
+    "Historia": ("historia", "pasado", "chile", "independencia", "colonia", "pueblos originarios", "mapuche", "incas", "mayas", "aztecas", "guerra", "segunda guerra mundial", "arturo prat", "bernardo ohiggins", "civilizacion", "democracia", "derechos", "constitucion", "region", "geografia", "mapa", "territorio"),
+    "Lenguaje": ("sustantivo", "verbo", "adjetivo", "oracion", "texto", "cuento", "poema", "fabula", "leyenda", "mito", "resumen", "comprension lectora", "lectura", "escritura", "sinonimo", "antonimo", "narrador", "personaje", "parrafo", "acento", "tilde", "puntuacion"),
+}
+
 
 def _single_word_aliases() -> dict[str, str]:
     aliases = {}
@@ -230,6 +237,21 @@ def normalize_question(question: str) -> dict:
         "possible_topic": possible_topic,
         "confidence": round(confidence, 2),
     }
+
+
+def detect_subject_from_question(question: str) -> tuple[str | None, float]:
+    """Return a conservative local subject guess and its keyword confidence."""
+    normalized = normalize_question(question)["normalized_text"]
+    scores = {
+        subject: sum(1 for keyword in keywords if keyword in normalized)
+        for subject, keywords in SUBJECT_KEYWORDS.items()
+    }
+    best_subject, best_score = max(scores.items(), key=lambda item: item[1])
+    if best_score == 0:
+        return None, 0.0
+    second_score = sorted(scores.values(), reverse=True)[1]
+    confidence = 0.9 if best_score > second_score else 0.6
+    return best_subject, confidence
 
 
 def question_keywords(question: str) -> list[str]:

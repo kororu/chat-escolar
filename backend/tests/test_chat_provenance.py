@@ -116,6 +116,16 @@ class ChatProvenanceTests(unittest.TestCase):
         self.assertIsInstance(response["processing_time_ms"], int)
         self.assertGreaterEqual(response["processing_time_ms"], 0)
 
+    def test_automatic_subject_returns_detected_subject_and_preserves_manual_override(self):
+        automatic = self.ask("explicame las fracciones", subject="Automática")
+        self.assertEqual(automatic["subject_mode"], "automatic")
+        self.assertEqual(automatic["detected_subject"], "Matemática")
+        self.assertEqual(automatic["subject_used"], "Matemática")
+
+        manual = self.ask("explicame las fracciones", subject="Ciencias Naturales")
+        self.assertEqual(manual["subject_mode"], "manual")
+        self.assertEqual(manual["subject_used"], "Ciencias Naturales")
+
 
 if __name__ == "__main__":
     unittest.main()

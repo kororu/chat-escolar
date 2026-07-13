@@ -475,6 +475,18 @@ También se quiere preparar un espacio para una mascota futura, con placeholder 
 
 ---
 
+## 16.1 Control local de Ollama
+
+La IA local es opcional y su preferencia persistente se guarda en `backend/data/settings.json`. Los modos disponibles son `basic`, `automatic` y `explore_only`. El valor inicial recomendado para equipos modestos es `basic`, con Ollama desactivado y timeout de 25 segundos.
+
+- `basic`: no consulta Ollama; responde con contenido local o fallback educativo.
+- `automatic`: puede usar Ollama y vuelve al fallback si falla o supera el timeout.
+- `explore_only`: permite Ollama solo en Modo Explorador o Todos los cursos; el modo escolar conserva prioridad local.
+
+Los endpoints `GET /settings`, `PATCH /settings` y `GET /ai/status` permiten ver y ajustar esta configuración sin salir del equipo. La respuesta del chat conserva `provider`, procedencia, tiempo total, `ai_mode_used`, `ollama_attempted` y `ollama_timeout`, sin mostrar razonamiento interno al estudiante.
+
+---
+
 ## 17. Prompt pendiente para Codex: videos curados
 
 Crear videos curados locales sin YouTube API.

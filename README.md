@@ -8,6 +8,8 @@ Chat Escolar puede leer archivos Markdown desde `contenidos/` y utilizarlos como
 
 La base local reconoce carpetas curriculares Markdown de 1° a 8° básico. El backend centraliza los mapeos de cursos y materias para que el selector, la búsqueda y la futura capa de IA local usen la misma convención de carpetas.
 
+La materia inicia en **Automática**: Chat Escolar detecta de forma local Ciencias Naturales, Matemática, Lenguaje o Historia con palabras clave normalizadas y busca primero en esa materia. La selección manual sigue disponible y se respeta. Si no hay suficiente contenido verificado, la búsqueda amplía de forma controlada a otras materias sin relajar sus umbrales de relevancia. La respuesta incluye la materia detectada como dato secundario y permite seleccionar la variante de Nexo correspondiente.
+
 La guía para organizar, agregar y probar estos materiales está en [docs/README_CONTENIDOS_LOCALES.md](docs/README_CONTENIDOS_LOCALES.md).
 
 El buscador valida relevancia antes de mostrar una fuente: pondera títulos, temas, palabras clave y encabezados, evita índices o compendios como fuente principal cuando corresponde, y separa el contenido curricular del futuro Modo Explorador. Las coincidencias débiles o relacionadas no se presentan como respaldo verificado.
@@ -32,6 +34,12 @@ ollama list
 ```
 
 Con el backend iniciado, revisa `http://127.0.0.1:8000/ai/status`. Si Ollama o el modelo no están disponibles, la aplicación continúa con el tutor demo. Las respuestas pueden indicar `ollama_with_local_content` cuando la IA explica una fuente Markdown verificada, u `ollama_generated` cuando Modo Explorador ofrece una explicación general sin fuente local verificada. No se guardan prompts completos: el historial guarda proveedor, procedencia y fuentes utilizadas.
+
+### Control de IA local
+
+La configuración persistente está en `backend/data/settings.json` y se ajusta desde la tarjeta **IA local**. El modo inicial es **Básico**, que no llama a Ollama y usa contenidos locales o el fallback educativo para priorizar rapidez en equipos modestos. **Automático** permite usar Ollama con un timeout configurable (15, 25 o 40 segundos; 25 s predeterminado). **Solo Explorar** permite Ollama únicamente en *Explorar mis intereses* o al consultar *Todos los cursos*; el modo escolar sigue priorizando contenido local.
+
+`GET /settings` muestra la preferencia y `PATCH /settings` la actualiza localmente. `GET /ai/status` incluye el modo, modelo, timeout y disponibilidad. Todo funciona sin servicios externos ni API de OpenAI; si Ollama está apagado o alcanza el timeout, el chat conserva el fallback local y muestra su procedencia.
 
 ## Indicador de procesamiento
 

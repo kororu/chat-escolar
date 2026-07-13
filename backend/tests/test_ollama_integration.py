@@ -18,10 +18,20 @@ class OllamaIntegrationTests(unittest.TestCase):
             question=question,
         )
 
+    @staticmethod
+    def automatic_settings():
+        return {
+            "ai_mode": "automatic",
+            "ollama_enabled": True,
+            "ollama_model": "qwen3.5:2b",
+            "ollama_timeout_seconds": 25,
+        }
+
+    @patch.object(main, "load_settings", return_value=automatic_settings.__func__())
     @patch.object(main, "save_history", return_value=1)
     @patch.object(main, "get_ollama_status")
     @patch.object(main, "generate_with_ollama")
-    def test_verified_source_uses_ollama_with_local_content(self, generate, status, _save):
+    def test_verified_source_uses_ollama_with_local_content(self, generate, status, _save, _settings):
         status.return_value = {"enabled": True, "available": True, "model": "qwen3.5:2b", "model_installed": True}
         generate.return_value = "Explicación corta:\nLa fotosíntesis usa luz."
 
@@ -32,10 +42,11 @@ class OllamaIntegrationTests(unittest.TestCase):
         self.assertTrue(response["used_local_content"])
         self.assertTrue(generate.called)
 
+    @patch.object(main, "load_settings", return_value=automatic_settings.__func__())
     @patch.object(main, "save_history", return_value=1)
     @patch.object(main, "get_ollama_status")
     @patch.object(main, "generate_with_ollama")
-    def test_ollama_error_uses_educational_local_fallback(self, generate, status, _save):
+    def test_ollama_error_uses_educational_local_fallback(self, generate, status, _save, _settings):
         status.return_value = {"enabled": True, "available": True, "model": "qwen3.5:2b", "model_installed": True}
         generate.side_effect = main.OllamaError("timeout")
         payload = main.ChatDemoRequest(
@@ -61,9 +72,10 @@ class OllamaIntegrationTests(unittest.TestCase):
         self.assertNotIn("CN05 OA", response["answer"])
         self.assertNotIn("Encontré una fuente local verificada", response["answer"])
 
+    @patch.object(main, "load_settings", return_value=automatic_settings.__func__())
     @patch.object(main, "save_history", return_value=1)
     @patch.object(main, "get_ollama_status")
-    def test_unavailable_ollama_uses_local_fallback_without_generation(self, status, _save):
+    def test_unavailable_ollama_uses_local_fallback_without_generation(self, status, _save, _settings):
         status.return_value = {"enabled": True, "available": False, "model": "qwen3.5:2b", "model_installed": False}
 
         response = main.chat_demo(self.payload())
@@ -71,10 +83,11 @@ class OllamaIntegrationTests(unittest.TestCase):
         self.assertEqual(response["provenance_status"], "local_content_fallback")
         self.assertEqual(response["provider"], "local_content")
 
+    @patch.object(main, "load_settings", return_value=automatic_settings.__func__())
     @patch.object(main, "save_history", return_value=1)
     @patch.object(main, "get_ollama_status")
     @patch.object(main, "generate_with_ollama")
-    def test_explorer_without_source_can_use_general_ollama(self, generate, status, _save):
+    def test_explorer_without_source_can_use_general_ollama(self, generate, status, _save, _settings):
         status.return_value = {"enabled": True, "available": True, "model": "qwen3.5:2b", "model_installed": True}
         generate.return_value = "Un asteroide es una roca que viaja por el espacio."
 
@@ -83,16 +96,67 @@ class OllamaIntegrationTests(unittest.TestCase):
         self.assertEqual(response["provenance_status"], "ollama_generated")
         self.assertFalse(response["used_local_content"])
 
+    @patch.object(main, "load_settings", return_value=automatic_settings.__func__())
     @patch.object(main, "save_history", return_value=1)
     @patch.object(main, "get_ollama_status")
     @patch.object(main, "generate_with_ollama")
-    def test_school_without_source_does_not_call_ollama(self, generate, status, _save):
+    def test_school_without_source_does_not_call_ollama(self, generate, status, _save, _settings):
         status.return_value = {"enabled": True, "available": True, "model": "qwen3.5:2b", "model_installed": True}
 
         response = main.chat_demo(self.payload("que es un asteroide?"))
 
         self.assertEqual(response["provenance_status"], "no_local_content")
         generate.assert_not_called()
+
+    @patch.object(main, "load_settings", return_value={
+        "ai_mode": "basic",
+        "ollama_enabled": False,
+        "ollama_model": "qwen3.5:2b",
+        "ollama_timeout_seconds": 25,
+    })
+    @patch.object(main, "save_history", return_value=1)
+    @patch.object(main, "get_cached_ollama_status")
+    @patch.object(main, "generate_with_ollama")
+    def test_basic_mode_does_not_check_or_call_ollama(self, generate, status, _save, _settings):
+        response = main.chat_demo(self.payload())
+
+        self.assertEqual(response["ai_mode_used"], "basic")
+        self.assertFalse(response["ollama_attempted"])
+        self.assertEqual(response["provider"], "local_content")
+        status.assert_not_called()
+        generate.assert_not_called()
+
+    @patch.object(main, "save_history", return_value=1)
+    @patch.object(main, "get_ollama_status")
+    @patch.object(main, "generate_with_ollama")
+    def test_explore_only_skips_ollama_for_school_mode(self, generate, status, _save):
+        settings = {
+            "ai_mode": "explore_only",
+            "ollama_enabled": True,
+            "ollama_model": "qwen3.5:2b",
+            "ollama_timeout_seconds": 25,
+        }
+        with patch.object(main, "load_settings", return_value=settings):
+            response = main.chat_demo(self.payload())
+
+        self.assertEqual(response["ai_mode_used"], "explore_only")
+        self.assertFalse(response["ollama_attempted"])
+        status.assert_not_called()
+        generate.assert_not_called()
+
+    @patch.object(main, "save_history", return_value=1)
+    @patch.object(main, "get_ollama_status")
+    @patch.object(main, "generate_with_ollama")
+    def test_automatic_mode_passes_configured_timeout_to_ollama(self, generate, status, _save):
+        status.return_value = {"enabled": True, "available": True, "model": "qwen3.5:2b", "model_installed": True}
+        generate.return_value = "La fotosíntesis usa luz."
+        settings = {**self.automatic_settings(), "ollama_timeout_seconds": 15}
+        with patch.object(main, "load_settings", return_value=settings):
+            response = main.chat_demo(self.payload())
+
+        self.assertTrue(response["ollama_attempted"])
+        self.assertEqual(response["ollama"]["timeout_seconds"], 15)
+        self.assertEqual(generate.call_args.kwargs["timeout_seconds"], 15)
 
     @patch.object(main, "get_ollama_status")
     def test_ai_status_unavailable_is_controlled(self, status):
