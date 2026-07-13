@@ -89,6 +89,51 @@ function greetingFor(profile) {
   return `Hola, ${profile.name}. ¿Qué quieres aprender hoy?`
 }
 
+function isDemoProfile(profile) {
+  if (!profile) return false
+  if (profile.isDemo === true) return true
+  if (typeof profile.type === 'string' && profile.type.toLowerCase() === 'demo') return true
+  return profile.name?.trim().toLocaleLowerCase('es-CL') === 'estudiante demo'
+}
+
+function EmptyChatState({ isDemo, onSuggestedQuestionClick, showSuggestedQuestions, onToggleSuggestedQuestions, subject }) {
+  const showQuestions = isDemo || showSuggestedQuestions
+
+  return (
+    <section className={isDemo ? 'chat-empty-state demo-empty-state' : 'chat-empty-state'} aria-label={isDemo ? 'Bienvenida del perfil demo' : 'Bienvenida de Nexo'}>
+      <NexoAvatar variant="bienvenida" size="empty" />
+      <div className="empty-chat-content">
+        <strong>{isDemo ? 'Prueba una pregunta.' : 'Hola, soy Nexo.'}</strong>
+        <p>{isDemo
+          ? 'Puedes usar una pregunta sugerida para probar Chat Escolar.'
+          : 'Escribe una pregunta para comenzar. Puedo ayudarte con Matemática, Ciencias, Lenguaje o Historia.'}</p>
+        {!isDemo && subject === 'Automática' && (
+          <small>Materia automática está activada: detectaré la materia según tu pregunta.</small>
+        )}
+        {!isDemo && (
+          <button
+            className="suggested-question-toggle"
+            type="button"
+            aria-expanded={showSuggestedQuestions}
+            onClick={onToggleSuggestedQuestions}
+          >
+            {showSuggestedQuestions ? 'Ocultar preguntas sugeridas' : 'Ver preguntas sugeridas'}
+          </button>
+        )}
+        {showQuestions && (
+          <div className="suggested-question-list">
+            {SUGGESTED_QUESTIONS.map((item) => (
+              <button key={item.question} type="button" onClick={() => onSuggestedQuestionClick(item.question)}>
+                {item.question}
+              </button>
+            ))}
+          </div>
+        )}
+      </div>
+    </section>
+  )
+}
+
 function responsePrefix(profile) {
   if (profile.role === 'Apoderado') {
     return `Claro, ${profile.name}. Te explico una forma simple para enseñárselo al estudiante.`
@@ -568,6 +613,7 @@ function App() {
   const [historyError, setHistoryError] = useState('')
   const [historyView, setHistoryView] = useState('recent')
   const [messages, setMessages] = useState([])
+  const [showSuggestedQuestions, setShowSuggestedQuestions] = useState(false)
   const [videos, setVideos] = useState([])
   const [videoTopic, setVideoTopic] = useState(null)
   const [videoLoadError, setVideoLoadError] = useState(false)
@@ -594,6 +640,8 @@ function App() {
     : activeProfile && course !== activeProfile.course
       ? `Consultando ${course} para esta pregunta.`
       : ''
+  const demoProfile = isDemoProfile(activeProfile)
+  const showEmptyChat = !isSending && messages.length === 0 && historyItems.length === 0
 
   const activateProfile = useCallback(async (profile) => {
     const storageKey = conversationStorageKey(profile.id)
@@ -603,9 +651,10 @@ function App() {
     setActiveProfile(profile)
     setConversationId(savedConversationId)
     setCourse(profile.course)
-    setMessages([{ from: 'assistant', text: greetingFor(profile), nexoVariant: 'bienvenida' }])
+    setMessages([])
     setHistoryView('recent')
     setHistoryItems([])
+    setShowSuggestedQuestions(isDemoProfile(profile))
     setHistoryError('')
     setShowProfileScreen(false)
     try {
@@ -1059,22 +1108,16 @@ function App() {
             </div>
             <p>{mode}</p>
           </header>
-          {messages.length <= 1 && (
-            <section className="suggested-questions" aria-label="Preguntas sugeridas">
-              <div>
-                <strong>Prueba una pregunta</strong>
-                <p>Hola, soy Nexo. Puedes preguntarme sobre Matemática, Ciencias, Lenguaje o Historia.</p>
-              </div>
-              <div className="suggested-question-list">
-                {SUGGESTED_QUESTIONS.map((item) => (
-                  <button key={item.question} type="button" onClick={() => chooseSuggestedQuestion(item.question)}>
-                    {item.question}
-                  </button>
-                ))}
-              </div>
-            </section>
-          )}
           <div className="messages">
+            {showEmptyChat && (
+              <EmptyChatState
+                isDemo={demoProfile}
+                subject={subject}
+                showSuggestedQuestions={showSuggestedQuestions}
+                onToggleSuggestedQuestions={() => setShowSuggestedQuestions((current) => !current)}
+                onSuggestedQuestionClick={chooseSuggestedQuestion}
+              />
+            )}
             {messages.map((message, index) => (message.from === 'student' ? (
               <UserMessageBubble key={`${message.from}-${index}`} message={message} profile={activeProfile} />
             ) : (

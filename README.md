@@ -11,6 +11,36 @@ Aplicación educativa local con tutor demo, perfiles, historial y recursos curad
 
 Los scripts mantienen rutas relativas y abren backend/frontend en ventanas separadas. Ollama es opcional: la aplicación funciona en modo Básico si no está disponible. Consulta la [guía de ejecución en Windows](docs/Guia_Ejecucion_Windows_Chat_Escolar.md) para uso diario, cambio de PC y solución de problemas.
 
+### Scripts disponibles
+
+| Archivo | Uso |
+| --- | --- |
+| `scripts\00_verificar_entorno.bat` | Revisa Git, Node, npm, Python, las carpetas del proyecto y Ollama opcional. |
+| `scripts\01_instalar_dependencias.bat` | Crea `backend\.venv` e instala las dependencias del backend y frontend. |
+| `scripts\02_iniciar_backend.bat` | Inicia FastAPI en `http://127.0.0.1:8000`. |
+| `scripts\03_iniciar_frontend.bat` | Inicia Vite en `http://localhost:5173/`. |
+| `scripts\04_abrir_chat_escolar.bat` | Abre el frontend en el navegador. |
+| `iniciar_chat_escolar.bat` | Inicia backend y frontend en ventanas separadas y abre el navegador. |
+
+El backend está activo si `http://127.0.0.1:8000/health` responde. El frontend está activo si abre `http://localhost:5173/`. Si el puerto 8000 o 5173 está ocupado, detén la instancia anterior con `Ctrl+C` o cierra su ventana y vuelve a iniciar.
+
+### Inicio manual para desarrollo
+
+En dos terminales PowerShell separadas, desde la raíz del proyecto:
+
+```powershell
+cd backend
+.\.venv\Scripts\Activate.ps1
+python -m uvicorn main:app --reload --host 127.0.0.1 --port 8000
+```
+
+```powershell
+cd frontend
+npm run dev -- --host localhost --port 5173 --strictPort
+```
+
+Para detener cualquiera de los dos procesos, presiona `Ctrl+C` en su terminal.
+
 ## Base de conocimiento local
 
 Chat Escolar puede leer archivos Markdown desde `contenidos/` y utilizarlos como apoyo para sus respuestas. La búsqueda funciona localmente, sin OpenAI API ni servicios pagados.
