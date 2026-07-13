@@ -1,9 +1,23 @@
 import { useCallback, useEffect, useState } from 'react'
 import './App.css'
 import { APP_INFO } from './config/appInfo'
+import { getNexoVariant, pickNexoVariantForSubject } from './assets/nexo/nexoVariants'
+import { AssistantMessageBubble, UserMessageBubble } from './components/ChatBubbles'
+import { NexoAvatar } from './components/NexoAvatar'
+import { UserAvatar } from './components/UserAvatar'
 
 const API_BASE_URL = 'http://127.0.0.1:8000'
 const ACTIVE_PROFILE_KEY = 'chat-escolar-active-profile-id'
+const MAX_AVATAR_SIZE_BYTES = 2 * 1024 * 1024
+const AVATAR_TYPES = ['image/png', 'image/jpeg', 'image/webp']
+
+function profileWithAvatarUrl(profile) {
+  if (!profile) return profile
+  return {
+    ...profile,
+    avatarUrl: profile.avatar_url ? `${API_BASE_URL}${profile.avatar_url}` : null,
+  }
+}
 
 function conversationStorageKey(profileId) {
   return `chat-escolar-conversation-${profileId}`
@@ -195,18 +209,21 @@ function AiLocalCard({ status, onTest, isTesting, testMessage }) {
 
 function ProcessingIndicator({ message }) {
   return (
-    <article className="message assistant processing-message" aria-busy="true" role="status">
-      <span>Chat Escolar · Procesando</span>
-      <div className="processing-content">
-        <i className="processing-spinner" aria-hidden="true" />
-        <p>{message}</p>
-        <span className="processing-dots" aria-hidden="true"><i /> <i /> <i /></span>
-      </div>
-    </article>
+    <div className="assistant-bubble-row processing-row" aria-busy="true" role="status">
+      <NexoAvatar variant={getNexoVariant({ isProcessing: true })} size="small" />
+      <article className="chat-bubble assistant-bubble processing-message">
+        <span>Nexo · Procesando</span>
+        <div className="processing-content">
+          <i className="processing-spinner" aria-hidden="true" />
+          <p>{message}</p>
+          <span className="processing-dots" aria-hidden="true"><i /> <i /> <i /></span>
+        </div>
+      </article>
+    </div>
   )
 }
 
-function ProfileScreen({ profiles, onCreate, onSelect, onDelete, backendStatus, activeProfile }) {
+function ProfileScreen({ profiles, onCreate, onSelect, onDelete, onAvatarUpload, onAvatarDelete, backendStatus, activeProfile }) {
   const [name, setName] = useState('')
   const [role, setRole] = useState('Estudiante')
   const [course, setCourse] = useState('5° básico')
@@ -216,6 +233,68 @@ function ProfileScreen({ profiles, onCreate, onSelect, onDelete, backendStatus, 
   const [deleteError, setDeleteError] = useState('')
   const [isDeleting, setIsDeleting] = useState(false)
   const [successMessage, setSuccessMessage] = useState('')
+  const [avatarProfile, setAvatarProfile] = useState(null)
+  const [avatarFile, setAvatarFile] = useState(null)
+  const [avatarPreviewUrl, setAvatarPreviewUrl] = useState(null)
+  const [avatarError, setAvatarError] = useState('')
+  const [isSavingAvatar, setIsSavingAvatar] = useState(false)
+
+  const closeAvatarDialog = () => {
+    if (avatarPreviewUrl) URL.revokeObjectURL(avatarPreviewUrl)
+    setAvatarProfile(null)
+    setAvatarFile(null)
+    setAvatarPreviewUrl(null)
+    setAvatarError('')
+  }
+
+  const selectAvatarFile = (event) => {
+    const file = event.target.files?.[0]
+    if (!file) return
+    if (!AVATAR_TYPES.includes(file.type)) {
+      setAvatarFile(null)
+      setAvatarError('Elige una imagen PNG, JPG, JPEG o WEBP.')
+      return
+    }
+    if (file.size > MAX_AVATAR_SIZE_BYTES) {
+      setAvatarFile(null)
+      setAvatarError('La imagen no puede superar los 2 MB.')
+      return
+    }
+    if (avatarPreviewUrl) URL.revokeObjectURL(avatarPreviewUrl)
+    setAvatarFile(file)
+    setAvatarPreviewUrl(URL.createObjectURL(file))
+    setAvatarError('')
+  }
+
+  const confirmAvatar = async () => {
+    if (!avatarProfile || !avatarFile || isSavingAvatar) return
+    setIsSavingAvatar(true)
+    setAvatarError('')
+    try {
+      await onAvatarUpload(avatarProfile.id, avatarFile)
+      setSuccessMessage(`El avatar de ${avatarProfile.name} fue actualizado.`)
+      closeAvatarDialog()
+    } catch (error) {
+      setAvatarError(error.message || 'No pude guardar el avatar. Inténtalo nuevamente.')
+    } finally {
+      setIsSavingAvatar(false)
+    }
+  }
+
+  const removeAvatar = async () => {
+    if (!avatarProfile || isSavingAvatar) return
+    setIsSavingAvatar(true)
+    setAvatarError('')
+    try {
+      await onAvatarDelete(avatarProfile.id)
+      setSuccessMessage(`El avatar de ${avatarProfile.name} fue eliminado.`)
+      closeAvatarDialog()
+    } catch (error) {
+      setAvatarError(error.message || 'No pude eliminar el avatar. Inténtalo nuevamente.')
+    } finally {
+      setIsSavingAvatar(false)
+    }
+  }
 
   const submitProfile = async (event) => {
     event.preventDefault()
@@ -257,6 +336,10 @@ function ProfileScreen({ profiles, onCreate, onSelect, onDelete, backendStatus, 
           <p className="welcome-note">
             Crea un perfil local para adaptar el saludo y la forma de explicar. No necesitas contraseña.
           </p>
+          <div className="welcome-hero" aria-label="Nexo te da la bienvenida">
+            <NexoAvatar variant="bienvenida" size="hero" />
+            <p><strong>Hola, soy Nexo.</strong> Estoy aquí para aprender contigo.</p>
+          </div>
           <span className={`backend-status ${backendStatus}`}>{backendLabels[backendStatus]}</span>
         </div>
 
@@ -293,8 +376,21 @@ function ProfileScreen({ profiles, onCreate, onSelect, onDelete, backendStatus, 
               {profiles.map((profile) => (
                 <article className="profile-entry" key={profile.id}>
                   <button className="profile-select" type="button" onClick={() => onSelect(profile)}>
+                    <UserAvatar imageUrl={profile.avatarUrl} name={profile.name} />
                     <strong>{profile.name}</strong>
                     <span>{profile.role} · {profile.course}</span>
+                  </button>
+                  <button
+                    aria-label={`Cambiar avatar de ${profile.name}`}
+                    className="avatar-profile-button"
+                    type="button"
+                    onClick={(event) => {
+                      event.stopPropagation()
+                      setSuccessMessage('')
+                      setAvatarProfile(profile)
+                    }}
+                  >
+                    Avatar
                   </button>
                   <button
                     aria-label={`Eliminar perfil ${profile.name}`}
@@ -325,6 +421,29 @@ function ProfileScreen({ profiles, onCreate, onSelect, onDelete, backendStatus, 
               <button type="button" disabled={isDeleting} onClick={() => setProfileToDelete(null)}>Cancelar</button>
               <button className="delete-confirm-button" type="button" disabled={isDeleting} onClick={confirmDelete}>
                 {isDeleting ? 'Eliminando...' : 'Eliminar perfil'}
+              </button>
+            </div>
+          </section>
+        </div>
+      )}
+      {avatarProfile && (
+        <div className="profile-modal-backdrop" role="presentation">
+          <section aria-labelledby="avatar-profile-title" aria-modal="true" className="profile-modal avatar-modal" role="dialog">
+            <h2 id="avatar-profile-title">Avatar de {avatarProfile.name}</h2>
+            <p>Elige una imagen local de hasta 2 MB. No se guardará hasta confirmar.</p>
+            <div className="avatar-preview">
+              <UserAvatar imageUrl={avatarPreviewUrl || avatarProfile.avatarUrl} name={avatarProfile.name} />
+            </div>
+            <label className="avatar-file-label" htmlFor="profile-avatar-file">Seleccionar imagen</label>
+            <input accept="image/png,image/jpeg,image/webp" id="profile-avatar-file" onChange={selectAvatarFile} type="file" />
+            {avatarError && <p className="form-error">{avatarError}</p>}
+            <div className="profile-modal-actions">
+              {avatarProfile.avatarUrl && !avatarFile && (
+                <button className="delete-profile-button" disabled={isSavingAvatar} onClick={removeAvatar} type="button">Quitar avatar</button>
+              )}
+              <button disabled={isSavingAvatar} onClick={closeAvatarDialog} type="button">Cancelar</button>
+              <button className="primary-button" disabled={!avatarFile || isSavingAvatar} onClick={confirmAvatar} type="button">
+                {isSavingAvatar ? 'Guardando...' : 'Guardar avatar'}
               </button>
             </div>
           </section>
@@ -424,7 +543,7 @@ function App() {
     setActiveProfile(profile)
     setConversationId(savedConversationId)
     setCourse(profile.course)
-    setMessages([{ from: 'assistant', text: greetingFor(profile) }])
+    setMessages([{ from: 'assistant', text: greetingFor(profile), nexoVariant: 'bienvenida' }])
     setHistoryView('recent')
     setHistoryItems([])
     setHistoryError('')
@@ -446,7 +565,7 @@ function App() {
         ])
         const health = await healthResponse.json()
         const profileData = await profilesResponse.json()
-        const loadedProfiles = profileData.items ?? []
+        const loadedProfiles = (profileData.items ?? []).map(profileWithAvatarUrl)
         setProfiles(loadedProfiles)
         setBackendStatus(healthResponse.ok && health.status === 'ok' ? 'connected' : 'unavailable')
 
@@ -556,9 +675,37 @@ function App() {
     })
     if (!response.ok) throw new Error('Profile request failed')
     const data = await response.json()
-    setProfiles((current) => [data.profile, ...current])
+    const profile = profileWithAvatarUrl(data.profile)
+    setProfiles((current) => [profile, ...current])
     setBackendStatus('connected')
-    await activateProfile(data.profile)
+    await activateProfile(profile)
+  }
+
+  const updateProfileAvatar = async (profileId, file) => {
+    const response = await fetch(`${API_BASE_URL}/profiles/${profileId}/avatar`, {
+      method: 'POST',
+      headers: {
+        'Content-Type': file.type,
+        'X-Avatar-Filename': file.name,
+      },
+      body: file,
+    })
+    const data = await response.json().catch(() => ({}))
+    if (!response.ok) throw new Error(data.detail || 'No pude guardar el avatar.')
+    const profile = profileWithAvatarUrl(data.profile)
+    setProfiles((current) => current.map((item) => item.id === profileId ? profile : item))
+    if (activeProfile?.id === profileId) setActiveProfile(profile)
+    return profile
+  }
+
+  const deleteProfileAvatar = async (profileId) => {
+    const response = await fetch(`${API_BASE_URL}/profiles/${profileId}/avatar`, { method: 'DELETE' })
+    const data = await response.json().catch(() => ({}))
+    if (!response.ok) throw new Error(data.detail || 'No pude eliminar el avatar.')
+    const profile = profileWithAvatarUrl(data.profile)
+    setProfiles((current) => current.map((item) => item.id === profileId ? profile : item))
+    if (activeProfile?.id === profileId) setActiveProfile(profile)
+    return profile
   }
 
   const deleteProfile = async (profileId) => {
@@ -643,6 +790,7 @@ function App() {
         {
           from: 'assistant',
           text: data.answer,
+          nexoVariant: pickNexoVariantForSubject(subject),
           summary: data.summary,
           processingTimeMs: data.processing_time_ms,
           usedLocalContent: data.used_local_content,
@@ -658,7 +806,11 @@ function App() {
       setBackendStatus(data.status === 'ok' ? 'connected' : 'unavailable')
       await loadHistory()
     } catch {
-      setMessages((current) => [...current, { from: 'assistant', text: 'No pude generar la respuesta en este momento. Puedes intentar nuevamente.' }])
+      setMessages((current) => [...current, {
+        from: 'assistant',
+        text: 'No pude generar la respuesta en este momento. Puedes intentar nuevamente.',
+        nexoVariant: pickNexoVariantForSubject(subject),
+      }])
       setBackendStatus('unavailable')
     } finally {
       setIsSending(false)
@@ -674,7 +826,7 @@ function App() {
     setMessages((current) => [
       ...current,
       { from: 'student', text: action },
-      { from: 'assistant', text: `${responsePrefix(activeProfile)}\n\n${detail}` },
+      { from: 'assistant', text: `${responsePrefix(activeProfile)}\n\n${detail}`, nexoVariant: pickNexoVariantForSubject(subject) },
     ])
   }
 
@@ -715,7 +867,11 @@ function App() {
     setVideoTopic(detectVideoTopic(item.question))
     setMessages((current) => [
       ...current,
-      { from: 'assistant', text: `Retomemos este tema, ${activeProfile.name}. Dejé la pregunta lista para enviarla nuevamente.` },
+      {
+        from: 'assistant',
+        text: `Retomemos este tema, ${activeProfile.name}. Dejé la pregunta lista para enviarla nuevamente.`,
+        nexoVariant: pickNexoVariantForSubject(item.subject || subject),
+      },
     ])
     window.setTimeout(() => document.getElementById('question')?.focus(), 0)
   }
@@ -736,7 +892,12 @@ function App() {
       setMessages((current) => [
         ...current,
         { from: 'student', text: data.item.question },
-        { from: 'assistant', text: data.item.answer_full, summary: data.item.answer_summary },
+        {
+          from: 'assistant',
+          text: data.item.answer_full,
+          summary: data.item.answer_summary,
+          nexoVariant: pickNexoVariantForSubject(data.item.subject || subject),
+        },
       ])
       setHistoryError('')
     } catch {
@@ -751,6 +912,8 @@ function App() {
         backendStatus={backendStatus}
         onCreate={createProfile}
         onDelete={deleteProfile}
+        onAvatarUpload={updateProfileAvatar}
+        onAvatarDelete={deleteProfileAvatar}
         onSelect={activateProfile}
         profiles={profiles}
       />
@@ -778,9 +941,9 @@ function App() {
       </section>
 
       <section className="mascot-placeholder" aria-label="Espacio para futura mascota">
-        <div className="mascot-avatar" aria-hidden="true">CE</div>
+        <NexoAvatar variant={getNexoVariant({ subject, isIdle: !isSending })} size="welcome" />
         <div>
-          <strong>Mascota pendiente</strong>
+          <strong>Nexo</strong>
           <p>¡Hola, {activeProfile.name}! Estoy lista para acompañarte.</p>
         </div>
       </section>
@@ -802,10 +965,10 @@ function App() {
             <p>{mode}</p>
           </header>
           <div className="messages">
-            {messages.map((message, index) => (
-              <article className={`message ${message.from}`} key={`${message.from}-${index}`}>
-                <span>{message.from === 'assistant' ? 'Chat Escolar' : activeProfile.name}</span>
-                <p>{message.text}</p>
+            {messages.map((message, index) => (message.from === 'student' ? (
+              <UserMessageBubble key={`${message.from}-${index}`} message={message} profile={activeProfile} />
+            ) : (
+              <AssistantMessageBubble key={`${message.from}-${index}`} message={message} subject={subject}>
                 <SourceNotice message={message} />
                 {message.conversationContext?.used_context && (
                   <small className="conversation-context-note">
@@ -816,8 +979,8 @@ function App() {
                 {formatProcessingTime(message.processingTimeMs) && (
                   <small className="processing-time">{formatProcessingTime(message.processingTimeMs)}</small>
                 )}
-              </article>
-            ))}
+              </AssistantMessageBubble>
+            )))}
             {isSending && <ProcessingIndicator message={processingMessage} />}
           </div>
           <div className="quick-actions" aria-label="Botones rápidos">

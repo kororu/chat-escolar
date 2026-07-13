@@ -4,6 +4,14 @@
 
 Los perfiles se guardan en la tabla `profiles` de `backend/chat_escolar.db`. El navegador conserva únicamente el identificador del perfil activo y un identificador de conversación local por perfil en `localStorage`.
 
+## Avatares locales
+
+Cada perfil puede tener un avatar opcional. Desde la tarjeta del perfil, presiona **Avatar**, selecciona una imagen y confirma para guardarla. La vista previa no se guarda al cancelar. Si no hay avatar, se muestra la inicial del nombre, incluido en nombres con tildes, eñes u otros caracteres Unicode.
+
+Los archivos se guardan únicamente en `backend/data/profile_avatars/`; no se envían a la nube ni se guardan rutas absolutas de Windows en el navegador. Se aceptan PNG, JPG, JPEG y WEBP de hasta 2 MB. El backend sirve el archivo con la URL relativa `/profiles/{id}/avatar` y rechaza formatos no permitidos, archivos vacíos, firmas que no correspondan a una imagen o archivos demasiado grandes.
+
+Puedes usar **Quitar avatar** para volver a la inicial. Al eliminar un perfil, también se borra exclusivamente el avatar asociado a su ID interno, junto con los datos indicados a continuación.
+
 ## Eliminar un perfil
 
 1. En la pantalla inicial o en **Cambiar perfil**, ubica el perfil que deseas corregir.

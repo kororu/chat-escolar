@@ -43,6 +43,40 @@
   max-width: 48ch;
 }
 
+.welcome-hero {
+  align-items: center;
+  background: linear-gradient(135deg, #edf8f5, #d8eee8);
+  border: 1px solid #b9ded3;
+  border-radius: 14px;
+  display: flex;
+  min-height: 220px;
+  margin: 0 0 20px;
+  max-width: 520px;
+  overflow: visible;
+  padding: 22px 22px 22px 205px;
+  position: relative;
+}
+
+.welcome-hero p {
+  color: var(--text);
+  font-size: 1rem;
+  line-height: 1.45;
+  margin: 0;
+}
+
+.welcome-hero strong {
+  color: var(--ink);
+  display: block;
+  font-size: 1.1rem;
+  margin-bottom: 3px;
+}
+
+.welcome-hero .nexo-hero {
+  bottom: -8px;
+  left: -30px;
+  position: absolute;
+}
+
 .profile-form {
   background: var(--soft);
   border: 1px solid var(--border);
@@ -109,7 +143,7 @@
   border-radius: 8px;
   display: grid;
   gap: 8px;
-  grid-template-columns: minmax(0, 1fr) auto;
+  grid-template-columns: minmax(0, 1fr) auto auto;
   padding: 8px;
 }
 
@@ -120,8 +154,17 @@
   color: var(--ink);
   display: grid;
   gap: 4px;
+  grid-template-columns: 46px minmax(0, 1fr);
+  grid-template-rows: 1fr 1fr;
   padding: 8px;
   text-align: left;
+}
+
+.profile-select .user-avatar {
+  grid-row: 1 / span 2;
+  height: 46px;
+  margin-right: 4px;
+  width: 46px;
 }
 
 .profile-select:hover {
@@ -143,6 +186,22 @@
   font-weight: 700;
   min-height: 34px;
   padding: 6px 9px;
+}
+
+.avatar-profile-button {
+  align-self: center;
+  background: #fff;
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  color: var(--accent-strong);
+  font-size: 0.78rem;
+  font-weight: 700;
+  min-height: 34px;
+  padding: 6px 9px;
+}
+
+.avatar-profile-button:hover {
+  border-color: var(--accent);
 }
 
 .delete-profile-button:hover {
@@ -211,6 +270,40 @@
   background: #b83b2d;
   border-color: #b83b2d;
   color: #fff;
+}
+
+.avatar-modal {
+  max-width: 420px;
+}
+
+.avatar-preview {
+  display: flex;
+  justify-content: center;
+  margin: 18px 0;
+}
+
+.avatar-preview .user-avatar {
+  font-size: 2.2rem;
+  height: 112px;
+  width: 112px;
+}
+
+.avatar-file-label {
+  color: var(--ink);
+  display: block;
+  font-size: 0.88rem;
+  font-weight: 700;
+  margin-bottom: 7px;
+}
+
+.avatar-modal input[type='file'] {
+  color: var(--text);
+  font: inherit;
+  max-width: 100%;
+}
+
+.avatar-modal .primary-button {
+  margin-top: 0;
 }
 
 .intro {
@@ -519,6 +612,177 @@ select:focus-visible {
   padding: 20px;
 }
 
+.chat-bubble,
+.assistant-bubble-row {
+  max-width: 88%;
+}
+
+.chat-bubble {
+  border: 1px solid var(--border);
+  border-radius: 14px;
+  padding: 14px 16px;
+}
+
+.chat-bubble > span {
+  color: var(--muted);
+  display: block;
+  font-size: 0.82rem;
+  font-weight: 700;
+  margin-bottom: 6px;
+}
+
+.chat-bubble > p {
+  color: var(--ink);
+  margin: 0;
+  white-space: pre-line;
+}
+
+.chat-message-row {
+  position: relative;
+}
+
+.user-message-row {
+  align-items: flex-end;
+  align-self: end;
+  display: flex;
+  gap: 10px;
+  justify-content: flex-end;
+  max-width: 88%;
+}
+
+.user-bubble {
+  background: #e8f1ff;
+  border-color: #c5d6f0;
+  border-bottom-right-radius: 4px;
+  position: relative;
+}
+
+.user-bubble::after {
+  border-bottom: 8px solid transparent;
+  border-left: 10px solid #e8f1ff;
+  border-top: 8px solid transparent;
+  content: '';
+  position: absolute;
+  right: -10px;
+  top: 19px;
+}
+
+.user-avatar {
+  align-items: center;
+  background: var(--user-avatar-color, var(--accent-strong));
+  border: 2px solid #fff;
+  border-radius: 50%;
+  box-shadow: 0 3px 9px rgba(14, 66, 58, 0.18);
+  color: #fff;
+  display: flex;
+  flex: 0 0 38px;
+  font-size: 0.95rem;
+  font-weight: 800;
+  height: 38px;
+  justify-content: center;
+  overflow: hidden;
+  width: 38px;
+}
+
+.user-avatar img {
+  height: 100%;
+  object-fit: cover;
+  width: 100%;
+}
+
+.assistant-bubble-row {
+  align-self: start;
+  margin-left: 118px;
+  max-width: calc(100% - 126px);
+  min-height: 124px;
+  overflow: visible;
+  position: relative;
+}
+
+.assistant-bubble {
+  background: #fff;
+  border-bottom-left-radius: 4px;
+  min-height: 92px;
+  padding: 18px 20px;
+  position: relative;
+  width: 100%;
+}
+
+.assistant-bubble::before {
+  border-bottom: 10px solid transparent;
+  border-right: 12px solid #fff;
+  border-top: 10px solid transparent;
+  content: '';
+  left: -12px;
+  position: absolute;
+  top: 28px;
+}
+
+.nexo-avatar {
+  color: var(--accent-strong);
+  display: block;
+  font-weight: 800;
+  position: relative;
+}
+
+.nexo-avatar span {
+  align-items: center;
+  background: var(--accent-soft);
+  border-radius: 8px;
+  display: flex;
+  font-size: 1.05rem;
+  height: 100%;
+  justify-content: center;
+  width: 100%;
+}
+
+.nexo-avatar img {
+  height: 100%;
+  object-fit: contain;
+  width: 100%;
+}
+
+.nexo-small {
+  bottom: -2px;
+  filter: drop-shadow(0 8px 10px rgba(14, 66, 58, 0.18));
+  height: 150px;
+  left: -112px;
+  position: absolute;
+  width: 150px;
+  z-index: 2;
+}
+
+.nexo-welcome {
+  height: 52px;
+  width: 52px;
+}
+
+.nexo-hero {
+  filter: drop-shadow(0 14px 16px rgba(20, 92, 81, 0.2));
+  height: 255px;
+  width: 255px;
+}
+
+.nexo-hero span {
+  font-size: 3.2rem;
+}
+
+.nexo-pensando::after {
+  animation: nexo-thinking 1.15s ease-in-out infinite;
+  border: 2px solid var(--accent-strong);
+  border-radius: 50%;
+  content: '';
+  height: 5px;
+  position: absolute;
+  right: 18%;
+  top: 16%;
+  width: 5px;
+}
+
+@keyframes nexo-thinking {
+  50% { opacity: 0.2; transform: scale(0.7); }
+}
+
 .message {
   border: 1px solid var(--border);
   border-radius: 8px;
@@ -562,7 +826,7 @@ select:focus-visible {
 
 .processing-message {
   border-color: #a8d7cd;
-  min-width: min(100%, 320px);
+  min-width: min(100%, 280px);
 }
 
 .processing-content {
@@ -618,7 +882,8 @@ select:focus-visible {
 
 @media (prefers-reduced-motion: reduce) {
   .processing-spinner,
-  .processing-dots i {
+  .processing-dots i,
+  .nexo-pensando::after {
     animation: none;
   }
 }
@@ -976,6 +1241,7 @@ dd {
   gap: 10px;
   margin-bottom: 14px;
   max-height: 580px;
+  overflow-x: hidden;
   overflow-y: auto;
   padding-right: 3px;
 }
@@ -1323,6 +1589,42 @@ dd {
     gap: 24px;
     grid-template-columns: 1fr;
     padding: 24px;
+  }
+
+  .welcome-hero {
+    max-width: none;
+    min-height: 150px;
+    padding-left: 125px;
+  }
+
+  .nexo-hero {
+    height: 170px;
+    width: 170px;
+  }
+
+  .nexo-hero span {
+    font-size: 2.4rem;
+  }
+
+  .welcome-hero .nexo-hero {
+    bottom: -4px;
+    left: -22px;
+  }
+
+  .assistant-bubble-row {
+    margin-left: 92px;
+    max-width: calc(100% - 98px);
+    min-height: 105px;
+  }
+
+  .user-message-row {
+    max-width: 94%;
+  }
+
+  .nexo-small {
+    height: 116px;
+    left: -87px;
+    width: 116px;
   }
 
   .student-card {

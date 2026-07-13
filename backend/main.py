@@ -6,7 +6,7 @@ from datetime import datetime, timezone
 from pathlib import Path
 from time import perf_counter
 
-from fastapi import FastAPI, HTTPException, Query
+from fastapi import FastAPI, HTTPException, Query, Request, Response
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel, Field
 
@@ -78,6 +78,14 @@ except ImportError:
 
 DB_PATH = Path(__file__).with_name("chat_escolar.db")
 VIDEOS_PATH = Path(__file__).with_name("data") / "videos_curados.json"
+AVATAR_DIRECTORY = Path(__file__).with_name("data") / "profile_avatars"
+MAX_AVATAR_SIZE_BYTES = 2 * 1024 * 1024
+AVATAR_CONTENT_TYPES = {
+    "image/png": ".png",
+    "image/jpeg": ".jpg",
+    "image/webp": ".webp",
+}
+AVATAR_EXTENSIONS = {".png", ".jpg", ".jpeg", ".webp"}
 _ollama_status_cache: dict | None = None
 _ollama_status_checked_at: datetime | None = None
 logger = logging.getLogger(__name__)
@@ -141,6 +149,7 @@ def get_connection():
 
 
 def init_db():
+    AVATAR_DIRECTORY.mkdir(parents=True, exist_ok=True)
     with get_connection() as connection:
         connection.execute(
             """
@@ -190,6 +199,13 @@ def init_db():
         for column, definition in missing_columns.items():
             if column not in history_columns:
                 connection.execute(f"ALTER TABLE chat_history ADD COLUMN {column} {definition}")
+
+        profile_columns = {
+            row["name"]
+            for row in connection.execute("PRAGMA table_info(profiles)").fetchall()
+        }
+        if "avatar_filename" not in profile_columns:
+            connection.execute("ALTER TABLE profiles ADD COLUMN avatar_filename TEXT")
 
 
 def row_to_history_item(row: sqlite3.Row) -> dict:
@@ -324,7 +340,41 @@ def get_profile_or_404(profile_id: int) -> dict:
     if row is None:
         raise HTTPException(status_code=404, detail="Perfil no encontrado")
 
-    return dict(row)
+    return profile_to_response(row)
+
+
+def profile_to_response(row: sqlite3.Row | dict) -> dict:
+    profile = dict(row)
+    avatar_filename = profile.pop("avatar_filename", None)
+    profile["avatar_url"] = f"/profiles/{profile['id']}/avatar" if avatar_filename else None
+    return profile
+
+
+def avatar_path(avatar_filename: str | None) -> Path | None:
+    if not avatar_filename:
+        return None
+    filename = Path(avatar_filename).name
+    if filename != avatar_filename or Path(filename).suffix.lower() not in AVATAR_EXTENSIONS:
+        return None
+    return AVATAR_DIRECTORY / filename
+
+
+def delete_avatar_file(avatar_filename: str | None) -> None:
+    path = avatar_path(avatar_filename)
+    if path is not None:
+        try:
+            path.unlink(missing_ok=True)
+        except OSError:
+            logger.warning("No se pudo eliminar el avatar local %s", path.name)
+
+
+def has_expected_avatar_signature(content: bytes, content_type: str) -> bool:
+    signatures = {
+        "image/png": content.startswith(b"\x89PNG\r\n\x1a\n"),
+        "image/jpeg": content.startswith(b"\xff\xd8\xff"),
+        "image/webp": len(content) >= 12 and content[:4] == b"RIFF" and content[8:12] == b"WEBP",
+    }
+    return signatures.get(content_type, False)
 
 
 @app.get("/")
@@ -433,7 +483,7 @@ def list_profiles():
             "SELECT * FROM profiles ORDER BY last_used_at DESC, id DESC"
         ).fetchall()
 
-    return {"status": "ok", "items": [dict(row) for row in rows]}
+    return {"status": "ok", "items": [profile_to_response(row) for row in rows]}
 
 
 @app.get("/profiles/{profile_id}")
@@ -453,11 +503,105 @@ def update_profile_last_used(profile_id: int):
     return {"status": "ok", "profile": get_profile_or_404(profile_id)}
 
 
+@app.post("/profiles/{profile_id}/avatar")
+async def upload_profile_avatar(profile_id: int, request: Request):
+    """Store an avatar received as a raw local image body.
+
+    Raw bytes are intentionally used instead of multipart so the project remains
+    dependency-free when python-multipart is not installed.
+    """
+    get_profile_or_404(profile_id)
+    content_type = request.headers.get("content-type", "").split(";", 1)[0].strip().lower()
+    filename = request.headers.get("x-avatar-filename", "")
+    extension = Path(filename).suffix.lower()
+
+    if content_type not in AVATAR_CONTENT_TYPES or extension not in AVATAR_EXTENSIONS:
+        raise HTTPException(
+            status_code=415,
+            detail="El avatar debe ser una imagen PNG, JPG, JPEG o WEBP",
+        )
+
+    content = await request.body()
+    if not content:
+        raise HTTPException(status_code=400, detail="Selecciona una imagen para el avatar")
+    if len(content) > MAX_AVATAR_SIZE_BYTES:
+        raise HTTPException(status_code=413, detail="El avatar no puede superar los 2 MB")
+    if not has_expected_avatar_signature(content, content_type):
+        raise HTTPException(status_code=415, detail="El archivo no coincide con el formato de imagen indicado")
+
+    # The generated name is based only on the stable internal id, never on a
+    # browser-provided path or filename.
+    safe_extension = AVATAR_CONTENT_TYPES[content_type]
+    avatar_filename = f"profile_{profile_id}{safe_extension}"
+    destination = AVATAR_DIRECTORY / avatar_filename
+    temporary_destination = AVATAR_DIRECTORY / f".{avatar_filename}.tmp"
+    AVATAR_DIRECTORY.mkdir(parents=True, exist_ok=True)
+    try:
+        temporary_destination.write_bytes(content)
+        temporary_destination.replace(destination)
+    except OSError as error:
+        temporary_destination.unlink(missing_ok=True)
+        raise HTTPException(status_code=500, detail="No pude guardar el avatar local") from error
+
+    with get_connection() as connection:
+        existing_avatar = connection.execute(
+            "SELECT avatar_filename FROM profiles WHERE id = ?", (profile_id,)
+        ).fetchone()
+        connection.execute(
+            "UPDATE profiles SET avatar_filename = ? WHERE id = ?",
+            (avatar_filename, profile_id),
+        )
+    old_avatar_filename = existing_avatar["avatar_filename"] if existing_avatar else None
+    if old_avatar_filename and old_avatar_filename != avatar_filename:
+        delete_avatar_file(old_avatar_filename)
+
+    return {"status": "ok", "profile": get_profile_or_404(profile_id)}
+
+
+@app.get("/profiles/{profile_id}/avatar")
+def get_profile_avatar(profile_id: int):
+    get_profile_or_404(profile_id)
+    # Read the internal filename directly, since the public profile response
+    # deliberately exposes only a relative endpoint URL.
+    with get_connection() as connection:
+        row = connection.execute(
+            "SELECT avatar_filename FROM profiles WHERE id = ?", (profile_id,)
+        ).fetchone()
+    avatar_file = avatar_path(row["avatar_filename"] if row else None)
+    if avatar_file is None or not avatar_file.is_file():
+        raise HTTPException(status_code=404, detail="Este perfil no tiene avatar")
+
+    suffix = avatar_file.suffix.lower()
+    media_type = {".png": "image/png", ".jpg": "image/jpeg", ".jpeg": "image/jpeg", ".webp": "image/webp"}[suffix]
+    return Response(
+        content=avatar_file.read_bytes(),
+        media_type=media_type,
+        headers={"Cache-Control": "no-store"},
+    )
+
+
+@app.delete("/profiles/{profile_id}/avatar")
+def delete_profile_avatar(profile_id: int):
+    get_profile_or_404(profile_id)
+    with get_connection() as connection:
+        row = connection.execute(
+            "SELECT avatar_filename FROM profiles WHERE id = ?", (profile_id,)
+        ).fetchone()
+        if not row or not row["avatar_filename"]:
+            raise HTTPException(status_code=404, detail="Este perfil no tiene avatar")
+        avatar_filename = row["avatar_filename"]
+        connection.execute(
+            "UPDATE profiles SET avatar_filename = NULL WHERE id = ?", (profile_id,)
+        )
+    delete_avatar_file(avatar_filename)
+    return {"status": "ok", "profile": get_profile_or_404(profile_id)}
+
+
 @app.delete("/profiles/{profile_id}")
 def delete_profile(profile_id: int):
     with get_connection() as connection:
         profile = connection.execute(
-            "SELECT id, name FROM profiles WHERE id = ?", (profile_id,)
+            "SELECT id, name, avatar_filename FROM profiles WHERE id = ?", (profile_id,)
         ).fetchone()
         if profile is None:
             raise HTTPException(status_code=404, detail="Perfil no encontrado")
@@ -466,6 +610,8 @@ def delete_profile(profile_id: int):
             "DELETE FROM chat_history WHERE profile_id = ?", (profile_id,)
         ).rowcount
         connection.execute("DELETE FROM profiles WHERE id = ?", (profile_id,))
+
+    delete_avatar_file(profile["avatar_filename"])
 
     return {
         "status": "ok",

@@ -49,9 +49,13 @@ Cuando existe una fuente Markdown verificada pero Ollama no responde o llega al 
 
 `backend/educational_level.py` centraliza el curso, edad aproximada, nivel lector, cantidad de ideas, límite de palabras y una sola pregunta de práctica. El fallback local y los prompts de Ollama usan estas reglas: 1°–2° básico recibe frases muy cortas; 3°–4° explicaciones simples; 5°–6° conceptos escolares aclarados; y 7°–8° mayor precisión y relaciones entre ideas. La estructura mantiene bloques predecibles, ejemplos concretos y lenguaje claro sin infantilizar.
 
+## Nexo, identidad visual del chat
+
+Nexo es el tutor visual de Chat Escolar. Las preguntas del perfil y las respuestas de Nexo usan globos distintos; durante el procesamiento se muestra la variante de Nexo pensando. La pantalla de perfiles incorpora la variante `nexo_bienvenida.png` como imagen principal. Las variantes y rutas de assets están documentadas en [docs/README_NEXO_VISUAL.md](docs/README_NEXO_VISUAL.md). Mientras no existan imágenes finales, la interfaz usa un placeholder seguro.
+
 ## Perfiles locales
 
-Los perfiles se pueden crear, cambiar y eliminar desde la pantalla de selección. Eliminar un perfil requiere confirmación y borra únicamente su historial, favoritos, pendientes y contexto conversacional local. Consulta [docs/README_PERFILES_LOCALES.md](docs/README_PERFILES_LOCALES.md).
+Los perfiles se pueden crear, cambiar y eliminar desde la pantalla de selección. También pueden usar un avatar opcional guardado solo en el equipo; sin avatar se muestra la inicial del nombre. Eliminar un perfil requiere confirmación y borra únicamente su historial, favoritos, pendientes, contexto conversacional local y avatar asociado. Consulta [docs/README_PERFILES_LOCALES.md](docs/README_PERFILES_LOCALES.md).
 
 ## Autoría
 

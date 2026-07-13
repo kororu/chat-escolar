@@ -7,3 +7,4 @@ __pycache__/
 .env.local
 .DS_Store
 backend/chat_escolar.db
+backend/data/profile_avatars/
