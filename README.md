@@ -65,6 +65,10 @@ Nexo es el tutor visual de Chat Escolar. Las preguntas del perfil y las respuest
 
 Los perfiles se pueden crear, cambiar y eliminar desde la pantalla de selección. También pueden usar un avatar opcional guardado solo en el equipo; sin avatar se muestra la inicial del nombre. Eliminar un perfil requiere confirmación y borra únicamente su historial, favoritos, pendientes, contexto conversacional local y avatar asociado. Consulta [docs/README_PERFILES_LOCALES.md](docs/README_PERFILES_LOCALES.md).
 
+## Demo rápida
+
+La bienvenida ofrece **Usar demo rápida**. Crea o reutiliza el perfil local `Estudiante Demo` (5° básico) para mostrar la aplicación sin configurar un perfil manualmente. El chat incluye preguntas sugeridas y una guía breve; las sugerencias usan Materia automática, por lo que permiten probar distintos temas sin cambiar el selector.
+
 ## Autoría
 
 Chat Escolar es un proyecto desarrollado por **Ariel Ponce**.

@@ -5,6 +5,7 @@ import { getNexoVariant, pickNexoVariantForSubject } from './assets/nexo/nexoVar
 import { AssistantMessageBubble, UserMessageBubble } from './components/ChatBubbles'
 import { NexoAvatar } from './components/NexoAvatar'
 import { UserAvatar } from './components/UserAvatar'
+import { SUGGESTED_QUESTIONS } from './config/suggestedQuestions'
 
 const API_BASE_URL = 'http://127.0.0.1:8000'
 const ACTIVE_PROFILE_KEY = 'chat-escolar-active-profile-id'
@@ -263,6 +264,7 @@ function ProfileScreen({ profiles, onCreate, onSelect, onDelete, onAvatarUpload,
   const [role, setRole] = useState('Estudiante')
   const [course, setCourse] = useState('5° básico')
   const [isSaving, setIsSaving] = useState(false)
+  const [isStartingDemo, setIsStartingDemo] = useState(false)
   const [error, setError] = useState('')
   const [profileToDelete, setProfileToDelete] = useState(null)
   const [deleteError, setDeleteError] = useState('')
@@ -361,15 +363,33 @@ function ProfileScreen({ profiles, onCreate, onSelect, onDelete, onAvatarUpload,
     }
   }
 
+  const startDemo = async () => {
+    if (isStartingDemo) return
+    setIsStartingDemo(true)
+    setError('')
+    try {
+      const existingDemo = profiles.find((profile) => profile.name.trim() === 'Estudiante Demo')
+      if (existingDemo) {
+        await onSelect(existingDemo)
+      } else {
+        await onCreate({ name: 'Estudiante Demo', role: 'Estudiante', course: '5° básico' })
+      }
+    } catch {
+      setError('No pude iniciar el perfil demo. Revisa que el backend esté conectado.')
+    } finally {
+      setIsStartingDemo(false)
+    }
+  }
+
   return (
     <main className="welcome-shell">
       <section className="welcome-card">
         <div className="welcome-copy">
           <p className="eyebrow">Tutor educativo local</p>
-          <h1>{activeProfile ? 'Cambiar perfil' : `Bienvenido a ${APP_INFO.name}`}</h1>
-          <p className="welcome-subtitle">Aprende paso a paso</p>
+          <h1>{activeProfile ? 'Cambiar perfil' : APP_INFO.name}</h1>
+          <p className="welcome-subtitle">Un tutor local para practicar contenidos escolares.</p>
           <p className="welcome-note">
-            Crea un perfil local para adaptar el saludo y la forma de explicar. No necesitas contraseña.
+            Elige un perfil para comenzar o crea uno nuevo. La app puede detectar automáticamente la materia de tu pregunta.
           </p>
           <div className="welcome-hero" aria-label="Nexo te da la bienvenida">
             <NexoAvatar variant="bienvenida" size="hero" />
@@ -400,6 +420,9 @@ function ProfileScreen({ profiles, onCreate, onSelect, onDelete, onAvatarUpload,
           {error && <p className="form-error">{error}</p>}
           <button className="primary-button" disabled={isSaving} type="submit">
             {isSaving ? 'Guardando...' : 'Comenzar'}
+          </button>
+          <button className="demo-profile-button" disabled={isStartingDemo} onClick={startDemo} type="button">
+            {isStartingDemo ? 'Iniciando demo...' : 'Usar demo rápida'}
           </button>
         </form>
 
@@ -884,6 +907,11 @@ function App() {
     }
   }
 
+  const chooseSuggestedQuestion = (suggestedQuestion) => {
+    setQuestion(suggestedQuestion)
+    window.setTimeout(() => document.getElementById('question')?.focus(), 0)
+  }
+
   const handleQuickAction = (action) => {
     const detail = action === 'Dame un ejemplo'
       ? 'Si estudiamos fracciones, 1/2 significa una parte de dos partes iguales.'
@@ -1031,6 +1059,21 @@ function App() {
             </div>
             <p>{mode}</p>
           </header>
+          {messages.length <= 1 && (
+            <section className="suggested-questions" aria-label="Preguntas sugeridas">
+              <div>
+                <strong>Prueba una pregunta</strong>
+                <p>Hola, soy Nexo. Puedes preguntarme sobre Matemática, Ciencias, Lenguaje o Historia.</p>
+              </div>
+              <div className="suggested-question-list">
+                {SUGGESTED_QUESTIONS.map((item) => (
+                  <button key={item.question} type="button" onClick={() => chooseSuggestedQuestion(item.question)}>
+                    {item.question}
+                  </button>
+                ))}
+              </div>
+            </section>
+          )}
           <div className="messages">
             {messages.map((message, index) => (message.from === 'student' ? (
               <UserMessageBubble key={`${message.from}-${index}`} message={message} profile={activeProfile} />
@@ -1070,6 +1113,16 @@ function App() {
         </section>
 
         <aside className="side-panel">
+          <details className="quick-guide">
+            <summary>Cómo usar Chat Escolar</summary>
+            <ol>
+              <li>Elige o crea un perfil.</li>
+              <li>Escribe una pregunta o usa una sugerencia.</li>
+              <li>Con Materia automática, Nexo la detecta por ti.</li>
+              <li>Revisa la respuesta y su fuente local si aparece.</li>
+              <li>Cambia curso o modo cuando lo necesites.</li>
+            </ol>
+          </details>
           <AiLocalCard
             status={aiStatus}
             onTest={testAiLocal}
