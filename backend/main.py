@@ -575,12 +575,30 @@ def list_videos(
 @app.get("/content/search")
 def search_content(
     course: str,
-    subject: str,
     q: str,
+    subject: str = "Automática",
     mode: str = "Estudiar para el colegio",
 ):
-    result = retrieve_local_content(course, subject, q, mode=mode)
-    return {"status": "ok", **result}
+    detected_subject, subject_confidence = detect_subject_from_question(q)
+    if is_automatic_subject(subject):
+        subject_used, result, fallback_used = retrieve_automatic_subject(
+            course, q, mode, detected_subject
+        )
+        subject_mode = "automatic"
+    else:
+        subject_used = subject
+        fallback_used = False
+        result = retrieve_local_content(course, subject, q, mode=mode)
+        subject_mode = "manual"
+    return {
+        "status": "ok",
+        **result,
+        "detected_subject": detected_subject,
+        "subject_used": subject_used,
+        "subject_mode": subject_mode,
+        "subject_confidence": subject_confidence,
+        "subject_fallback_used": fallback_used,
+    }
 
 
 @app.post("/profiles", status_code=201)

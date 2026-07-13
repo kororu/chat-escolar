@@ -14,6 +14,8 @@ La guía para organizar, agregar y probar estos materiales está en [docs/README
 
 El buscador valida relevancia antes de mostrar una fuente: pondera títulos, temas, palabras clave y encabezados, evita índices o compendios como fuente principal cuando corresponde, y separa el contenido curricular del futuro Modo Explorador. Las coincidencias débiles o relacionadas no se presentan como respaldo verificado.
 
+La recuperación normaliza tildes y errores escolares frecuentes, descarta palabras de consulta poco informativas y usa equivalencias acotadas (por ejemplo, fracción/numerador/denominador o fotosíntesis/plantas/luz). Cada resultado conserva internamente términos coincidentes, coincidencia exacta, confianza y motivo. `local_verified` exige señal fuerte; una mención secundaria queda como `local_related`, las coincidencias débiles como `local_low_confidence` y la ausencia útil como `no_local_content`.
+
 El curso asociado al perfil se usa como preferencia inicial, pero la búsqueda respeta siempre el curso activo que envía el frontend. Si el estudiante cambia de 5° a 6° básico en el selector, `/chat/demo` busca en 6° básico aunque el perfil siga asociado a 5°.
 
 El selector incluye **Todos los cursos** para buscar en toda la base Markdown local. En Modo Escolar se busca primero en el curso activo; si no hay fuente local verificada, el backend puede revisar todos los cursos y marcar claramente `source_course` cuando la fuente viene de otro nivel. En Modo Explorador también se consulta la base local global antes de usar una respuesta demo de respaldo.

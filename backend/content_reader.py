@@ -142,6 +142,26 @@ SUBJECT_KEYWORDS = {
     "Lenguaje": ("sustantivo", "verbo", "adjetivo", "oracion", "texto", "cuento", "poema", "fabula", "leyenda", "mito", "resumen", "comprension lectora", "lectura", "escritura", "sinonimo", "antonimo", "narrador", "personaje", "parrafo", "acento", "tilde", "puntuacion"),
 }
 
+# Equivalencias deliberadamente pequeñas: ayudan a recuperar contenido escolar
+# sin convertir palabras genéricas en una coincidencia fuerte por sí solas.
+SEARCH_EQUIVALENCES = {
+    "fotosintesis": ("plantas", "luz", "clorofila"),
+    "habitat": ("ambiente", "ecosistema"),
+    "fraccion": ("numerador", "denominador", "entero"),
+    "fracciones": ("numerador", "denominador", "entero"),
+    "perimetro": ("contorno", "borde"),
+    "area": ("superficie",),
+    "multiplicacion": ("multiplicar", "producto"),
+    "sustantivo": ("nombre", "persona", "animal", "cosa", "lugar"),
+    "verbo": ("accion",),
+    "resumen": ("resumir", "idea principal"),
+    "arturo": ("arturo prat", "combate naval de iquique"),
+    "pueblos": ("pueblos originarios", "mapuche", "aymara", "rapa nui"),
+    "alimentacion": ("alimentos", "nutrientes", "habitos saludables"),
+    "saludable": ("nutrientes", "habitos saludables"),
+    "respiratorio": ("respiracion", "pulmones", "oxigeno"),
+}
+
 
 def _single_word_aliases() -> dict[str, str]:
     aliases = {}
@@ -223,6 +243,15 @@ def normalize_question(question: str) -> dict:
     if possible_topic:
         keywords.extend(possible_topic.split())
 
+    # Las equivalencias se conservan como contexto relacionado, pero no se
+    # mezclan con las palabras principales: así una mención de "plantas" no
+    # puede convertir una referencia secundaria a fotosíntesis en fuente exacta.
+    equivalent_keywords = [
+        equivalent
+        for keyword in keywords
+        for equivalent in SEARCH_EQUIVALENCES.get(keyword, ())
+    ]
+
     possible_subject = (
         EDUCATIONAL_CONCEPTS[possible_topic]["subject"] if possible_topic else None
     )
@@ -233,6 +262,7 @@ def normalize_question(question: str) -> dict:
         "normalized_text": normalized_question,
         "intent": intent,
         "keywords": list(dict.fromkeys(keywords)),
+        "equivalent_keywords": list(dict.fromkeys(equivalent_keywords)),
         "possible_subject": possible_subject,
         "possible_topic": possible_topic,
         "confidence": round(confidence, 2),
@@ -444,12 +474,16 @@ def _score_document(file_path: Path, raw_content: str, keywords: list[str]) -> d
     }
     score = 0
     high_signal_matches = set()
+    matched_terms = set()
     for keyword in keywords:
         for field, weight in weights.items():
             if keyword in fields[field]:
                 score += weight
                 high_signal_matches.add(keyword)
+                matched_terms.add(keyword)
         score += min(fields["body"].count(keyword), 2)
+        if keyword in fields["body"]:
+            matched_terms.add(keyword)
 
     if high_signal_matches:
         score += 4  # La carpeta de materia ya fue validada antes de puntuar.
@@ -459,6 +493,11 @@ def _score_document(file_path: Path, raw_content: str, keywords: list[str]) -> d
         "content": content,
         "score": score,
         "high_signal_matches": high_signal_matches,
+        "matched_terms": matched_terms,
+        "is_exact_match": any(
+            keyword in fields["title"] or keyword in fields["topic"]
+            for keyword in keywords
+        ),
         "related_section": find_related_section(content, keywords),
     }
 
@@ -476,6 +515,8 @@ def _make_base_result(analysis: dict, minimum_score: int) -> dict:
         "source_subject": None,
         "found_in_other_course": False,
         "searched_courses": [],
+        "confidence": "none",
+        "reason": "No se encontró una fuente local útil para esta pregunta.",
     }
 
 
@@ -506,6 +547,8 @@ def _candidate_from_file(
         "score": scored["score"],
         "excerpt": make_excerpt(scored["content"], keywords),
         "coherent": bool(scored["high_signal_matches"]),
+        "matched_terms": sorted(scored["matched_terms"]),
+        "is_exact_match": scored["is_exact_match"],
         "related_section": scored["related_section"],
         "course": folder_to_course_label(course_folder),
         "course_folder": course_folder,
@@ -570,7 +613,7 @@ def _format_retrieval_result(
         seen_titles.add(normalized_title)
         verified.append({
             key: candidate[key]
-            for key in ("title", "path", "score", "excerpt", "course", "subject")
+            for key in ("title", "path", "score", "excerpt", "course", "subject", "matched_terms", "is_exact_match")
         })
         if len(verified) >= max(1, min(limit, MAX_RESULTS)):
             break
@@ -586,6 +629,8 @@ def _format_retrieval_result(
             "source_course": source_course,
             "source_subject": selected_subject,
             "found_in_other_course": found_in_other_course,
+            "confidence": "high",
+            "reason": "Coincidencia fuerte en título, tema, encabezados o palabras clave del contenido local.",
         }
 
     if candidates:
@@ -599,6 +644,8 @@ def _format_retrieval_result(
                 "excerpt": candidate["related_section"]["excerpt"],
                 "course": candidate["course"],
                 "subject": candidate["subject"],
+                "matched_terms": candidate["matched_terms"],
+                "is_exact_match": candidate["is_exact_match"],
             }
             for candidate in candidates
             if candidate["related_section"]
@@ -614,11 +661,15 @@ def _format_retrieval_result(
                 "source_course": source_course,
                 "source_subject": selected_subject,
                 "found_in_other_course": found_in_other_course,
+                "confidence": "related",
+                "reason": "El tema aparece como relación o mención secundaria, no como fuente principal.",
             }
         return {
             **base_result,
             **common_metadata,
             "provenance_status": LOCAL_LOW_CONFIDENCE,
+            "confidence": "low",
+            "reason": "Solo hubo coincidencias débiles; no se usan como fuente educativa principal.",
         }
 
     return {

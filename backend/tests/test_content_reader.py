@@ -78,6 +78,9 @@ class ContentRelevanceTests(unittest.TestCase):
         self.assertTrue(result["results"])
         first = result["results"][0]
         self.assertIn("habitat", normalize_text(first["title"]))
+        self.assertTrue(first["matched_terms"])
+        self.assertTrue(first["is_exact_match"])
+        self.assertEqual(result["confidence"], "high")
         self.assertLessEqual(len(first["excerpt"]), 800)
         self.assertTrue(first["excerpt"].endswith((".", "?", "!", "…")))
 
@@ -126,6 +129,8 @@ class ContentRelevanceTests(unittest.TestCase):
         self.assertEqual(result["provenance_status"], "local_related")
         self.assertEqual(result["results"], [])
         self.assertTrue(result["related_results"])
+        self.assertEqual(result["confidence"], "related")
+        self.assertIn("relación", result["reason"])
         related_title = normalize_text(result["related_results"][0]["title"])
         self.assertIn("oceanos", related_title)
         self.assertNotIn("respiratorio", related_title)
