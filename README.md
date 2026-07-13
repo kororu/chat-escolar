@@ -1,32 +1,34 @@
 # Chat Escolar
 
-Aplicación educativa local con tutor demo, perfiles, historial y recursos curados.
+Aplicación educativa local para enseñanza básica chilena. Ofrece un tutor de chat llamado Nexo, contenidos Markdown de 1.º a 8.º básico, perfiles e historial guardados en el equipo.
 
-## Cómo iniciar Chat Escolar en Windows
+## Objetivo y público
+
+Ayudar a estudiantes, apoderados y docentes a estudiar con explicaciones claras, lectura fácil y apoyo local. Está pensada para funcionar sin servicios pagados: Ollama es opcional y existe un modo básico sin IA local.
+
+## Características principales
+
+- Frontend React/Vite y backend FastAPI con SQLite local.
+- Perfiles, avatar opcional, historial, favoritos y pendientes.
+- Materia automática: Ciencias Naturales, Matemática, Lenguaje e Historia.
+- Búsqueda y contenido curricular local de 1.º a 8.º básico.
+- Respuestas pedagógicas adaptadas por curso, Nexo, preguntas sugeridas y perfil demo.
+- Modo básico y control opcional de IA local con Ollama.
+
+## Inicio rápido en Windows
+
+Requisitos: Git, Node.js con npm y Python. Ollama es opcional.
 
 1. Ejecuta `scripts\00_verificar_entorno.bat`.
 2. En el primer uso, ejecuta `scripts\01_instalar_dependencias.bat`.
-3. Ejecuta `iniciar_chat_escolar.bat` desde la raíz del proyecto.
-4. Abre `http://localhost:5173/` si el navegador no aparece solo.
+3. Ejecuta `iniciar_chat_escolar.bat` desde la raíz.
+4. Si el navegador no se abre, visita `http://localhost:5173/`.
 
-Los scripts mantienen rutas relativas y abren backend/frontend en ventanas separadas. Ollama es opcional: la aplicación funciona en modo Básico si no está disponible. Consulta la [guía de ejecución en Windows](docs/Guia_Ejecucion_Windows_Chat_Escolar.md) para uso diario, cambio de PC y solución de problemas.
+Para el uso diario, vuelve a ejecutar `iniciar_chat_escolar.bat`. El backend queda en `http://127.0.0.1:8000`; su estado se consulta en `/health` y su documentación interactiva está en `/docs`.
 
-### Scripts disponibles
+## Ejecución manual para desarrollo
 
-| Archivo | Uso |
-| --- | --- |
-| `scripts\00_verificar_entorno.bat` | Revisa Git, Node, npm, Python, las carpetas del proyecto y Ollama opcional. |
-| `scripts\01_instalar_dependencias.bat` | Crea `backend\.venv` e instala las dependencias del backend y frontend. |
-| `scripts\02_iniciar_backend.bat` | Inicia FastAPI en `http://127.0.0.1:8000`. |
-| `scripts\03_iniciar_frontend.bat` | Inicia Vite en `http://localhost:5173/`. |
-| `scripts\04_abrir_chat_escolar.bat` | Abre el frontend en el navegador. |
-| `iniciar_chat_escolar.bat` | Inicia backend y frontend en ventanas separadas y abre el navegador. |
-
-El backend está activo si `http://127.0.0.1:8000/health` responde. El frontend está activo si abre `http://localhost:5173/`. Si el puerto 8000 o 5173 está ocupado, detén la instancia anterior con `Ctrl+C` o cierra su ventana y vuelve a iniciar.
-
-### Inicio manual para desarrollo
-
-En dos terminales PowerShell separadas, desde la raíz del proyecto:
+En dos terminales, desde la raíz del proyecto:
 
 ```powershell
 cd backend
@@ -39,90 +41,42 @@ cd frontend
 npm run dev -- --host localhost --port 5173 --strictPort
 ```
 
-Para detener cualquiera de los dos procesos, presiona `Ctrl+C` en su terminal.
+## Ollama: opcional
 
-## Base de conocimiento local
-
-Chat Escolar puede leer archivos Markdown desde `contenidos/` y utilizarlos como apoyo para sus respuestas. La búsqueda funciona localmente, sin OpenAI API ni servicios pagados.
-
-Durante la ejecución, el backend carga un índice en memoria de los Markdown curriculares para evitar releerlos en cada pregunta. Al editar contenidos con el backend ya iniciado, reinícialo para reconstruir ese índice.
-
-La base local reconoce carpetas curriculares Markdown de 1° a 8° básico. El backend centraliza los mapeos de cursos y materias para que el selector, la búsqueda y la futura capa de IA local usen la misma convención de carpetas.
-
-La materia inicia en **Automática**: Chat Escolar detecta de forma local Ciencias Naturales, Matemática, Lenguaje o Historia con palabras clave normalizadas y busca primero en esa materia. La selección manual sigue disponible y se respeta. Si no hay suficiente contenido verificado, la búsqueda amplía de forma controlada a otras materias sin relajar sus umbrales de relevancia. La respuesta incluye la materia detectada como dato secundario y permite seleccionar la variante de Nexo correspondiente.
-
-La guía para organizar, agregar y probar estos materiales está en [docs/README_CONTENIDOS_LOCALES.md](docs/README_CONTENIDOS_LOCALES.md).
-
-El buscador valida relevancia antes de mostrar una fuente: pondera títulos, temas, palabras clave y encabezados, evita índices o compendios como fuente principal cuando corresponde, y separa el contenido curricular del futuro Modo Explorador. Las coincidencias débiles o relacionadas no se presentan como respaldo verificado.
-
-La recuperación normaliza tildes y errores escolares frecuentes, descarta palabras de consulta poco informativas y usa equivalencias acotadas (por ejemplo, fracción/numerador/denominador o fotosíntesis/plantas/luz). Cada resultado conserva internamente términos coincidentes, coincidencia exacta, confianza y motivo. `local_verified` exige señal fuerte; una mención secundaria queda como `local_related`, las coincidencias débiles como `local_low_confidence` y la ausencia útil como `no_local_content`.
-
-El curso asociado al perfil se usa como preferencia inicial, pero la búsqueda respeta siempre el curso activo que envía el frontend. Si el estudiante cambia de 5° a 6° básico en el selector, `/chat/demo` busca en 6° básico aunque el perfil siga asociado a 5°.
-
-El selector incluye **Todos los cursos** para buscar en toda la base Markdown local. En Modo Escolar se busca primero en el curso activo; si no hay fuente local verificada, el backend puede revisar todos los cursos y marcar claramente `source_course` cuando la fuente viene de otro nivel. En Modo Explorador también se consulta la base local global antes de usar una respuesta demo de respaldo.
-
-`POST /chat/demo` devuelve metadatos de procedencia como `effective_course`, `source_course`, `source_subject`, `used_local_content`, `content_sources` y `found_in_other_course`. El frontend muestra avisos simples para fuente verificada, tema relacionado, baja confianza, ausencia de contenido local y fuentes encontradas en otro curso.
-
-Las preguntas de seguimiento usan una memoria local breve aislada por perfil y conversación. El historial conserva siempre el texto original del estudiante; las reconstrucciones se usan solo internamente para buscar contenido o pedir una aclaración segura.
-
-El backend deja preparado un contrato `provider`/`ai_context` para una futura integración con Ollama, pero esta versión no llama Ollama ni OpenAI API.
-
-## IA local opcional con Ollama
-
-Chat Escolar puede usar Ollama de forma opcional, local y gratuita. El modelo predeterminado es `qwen3.5:2b`; `qwen3.5:4b` queda soportado cambiando la variable local `OLLAMA_MODEL`, sin descargarlo automáticamente. No se usa OpenAI API ni servicios externos.
+Sin Ollama, el modo **Básico** usa contenido local y respuestas de respaldo. Con Ollama, la tarjeta **IA local** permite usar el modelo configurado; el valor inicial es `qwen3.5:2b` y se puede instalar manualmente:
 
 ```powershell
 ollama pull qwen3.5:2b
 ollama list
 ```
 
-Con el backend iniciado, revisa `http://127.0.0.1:8000/ai/status`. Si Ollama o el modelo no están disponibles, la aplicación continúa con el tutor demo. Las respuestas pueden indicar `ollama_with_local_content` cuando la IA explica una fuente Markdown verificada, u `ollama_generated` cuando Modo Explorador ofrece una explicación general sin fuente local verificada. No se guardan prompts completos: el historial guarda proveedor, procedencia y fuentes utilizadas.
+La app conserva un fallback local si Ollama no está instalado, apagado o tarda demasiado.
 
-### Control de IA local
+## Estructura general
 
-La configuración persistente está en `backend/data/settings.json` y se ajusta desde la tarjeta **IA local**. El modo inicial es **Básico**, que no llama a Ollama y usa contenidos locales o el fallback educativo para priorizar rapidez en equipos modestos. **Automático** permite usar Ollama con un timeout configurable (15, 25 o 40 segundos; 25 s predeterminado). **Solo Explorar** permite Ollama únicamente en *Explorar mis intereses* o al consultar *Todos los cursos*; el modo escolar sigue priorizando contenido local.
+```text
+backend/     API FastAPI, SQLite, búsqueda, respuestas y Ollama opcional
+frontend/    interfaz React/Vite, Nexo y componentes de chat
+contenidos/  base curricular local Markdown, 1.º a 8.º básico
+scripts/     verificación, instalación e inicio para Windows
+docs/        guías funcionales, técnicas, UX y planificación
+```
 
-`GET /settings` muestra la preferencia y `PATCH /settings` la actualiza localmente. `GET /ai/status` incluye el modo, modelo, timeout y disponibilidad. Todo funciona sin servicios externos ni API de OpenAI; si Ollama está apagado o alcanza el timeout, el chat conserva el fallback local y muestra su procedencia.
+## Estado y roadmap
 
-## Indicador de procesamiento
+La versión visible actual es `0.1.0`; el proyecto se estima en torno al 85 % hacia 1.0. Actualmente se ejecuta con scripts `.bat` o comandos de desarrollo. La meta 1.0 contempla, pero aún no incluye, el instalador Windows `ChatEscolar_Setup.exe`.
 
-Al enviar una pregunta, el chat muestra una burbuja temporal de procesamiento con un indicador visual. El botón Enviar queda deshabilitado para evitar duplicados y, después de 10 y 30 segundos, el aviso informa que un equipo modesto puede tardar más. La burbuja no se guarda en el historial y desaparece al recibir la respuesta o un error.
+Consulta [PROJECT_STATUS.md](PROJECT_STATUS.md), [docs/ROADMAP_1_0.md](docs/ROADMAP_1_0.md) y la [guía de usuario](docs/GUIA_USUARIO_FINAL.md).
 
-Cuando Ollama está disponible, la interfaz avisa que la IA local está trabajando, pero nunca muestra razonamiento interno ni texto `Thinking`. Streaming, cancelación, progreso real por etapas y cola de solicitudes quedan como mejoras futuras.
+## Documentación
 
-Cada respuesta nueva también muestra debajo el tiempo total de procesamiento, por ejemplo `Procesado en 3,2 s`. El dato incluye búsqueda local, generación opcional con Ollama y cualquier respaldo demo; sirve para reconocer respuestas lentas sin exponer métricas internas ni razonamiento.
+- [Arquitectura técnica](docs/ARQUITECTURA_TECNICA.md)
+- [Guía para desarrolladores](docs/GUIA_DESARROLLADOR.md)
+- [Mapa de código](docs/MAPA_CODIGO.md)
+- [Guía UX/UI](docs/UX_UI_CHAT_ESCOLAR.md)
+- [Plan del instalador 1.0](docs/INSTALADOR_WINDOWS_1_0.md)
+- [Changelog del proyecto](docs/CHANGELOG_PROYECTO.md)
 
-## Fallback educativo local
+## Autoría y licencia
 
-Cuando existe una fuente Markdown verificada pero Ollama no responde o llega al timeout, Chat Escolar usa `local_content_fallback`. Construye una explicación desde secciones educativas del material local (respuesta breve, explicación, ejemplo, resumen y práctica), mantiene la fuente visible y evita reemplazarla por una respuesta demo genérica. `demo_fallback` queda reservado para preguntas sin contenido local útil. La duración mostrada incluye el intento de Ollama y este respaldo, sin revelar razonamiento interno.
-
-## Adaptación por curso y lectura fácil
-
-`backend/educational_level.py` centraliza el curso, edad aproximada, nivel lector, cantidad de ideas, límite de palabras y una sola pregunta de práctica. El fallback local y los prompts de Ollama usan estas reglas: 1°–2° básico recibe frases muy cortas; 3°–4° explicaciones simples; 5°–6° conceptos escolares aclarados; y 7°–8° mayor precisión y relaciones entre ideas. La estructura mantiene bloques predecibles, ejemplos concretos y lenguaje claro sin infantilizar.
-
-Las respuestas pedagógicas mantienen el orden **Explicación corta, Ejemplo, Mini resumen y una sola pregunta de práctica**. El fallback local limpia los textos curriculares para no mostrar OA, metadatos ni instrucciones editoriales dentro de la explicación. Ante una pregunta ambigua sin contexto, pide una aclaración simple con ejemplos; los errores de escritura se interpretan de forma amable mediante la normalización local.
-
-## Nexo, identidad visual del chat
-
-Nexo es el tutor visual de Chat Escolar. Las preguntas del perfil y las respuestas de Nexo usan globos distintos; durante el procesamiento se muestra la variante de Nexo pensando. La pantalla de perfiles incorpora la variante `nexo_bienvenida.png` como imagen principal. Las variantes y rutas de assets están documentadas en [docs/README_NEXO_VISUAL.md](docs/README_NEXO_VISUAL.md). Mientras no existan imágenes finales, la interfaz usa un placeholder seguro.
-
-Las 14 imágenes PNG actuales de Nexo ocupan aproximadamente 12 MB en el código fuente. Antes de empaquetar la versión 1.0 conviene evaluar variantes WebP optimizadas, conservando los PNG originales como fuente y verificando cada estado visual.
-
-## Perfiles locales
-
-Los perfiles se pueden crear, cambiar y eliminar desde la pantalla de selección. También pueden usar un avatar opcional guardado solo en el equipo; sin avatar se muestra la inicial del nombre. Eliminar un perfil requiere confirmación y borra únicamente su historial, favoritos, pendientes, contexto conversacional local y avatar asociado. Consulta [docs/README_PERFILES_LOCALES.md](docs/README_PERFILES_LOCALES.md).
-
-## Demo rápida
-
-La bienvenida ofrece **Usar demo rápida**. Crea o reutiliza el perfil local `Estudiante Demo` (5° básico) para mostrar la aplicación sin configurar un perfil manualmente. El chat incluye preguntas sugeridas y una guía breve; las sugerencias usan Materia automática, por lo que permiten probar distintos temas sin cambiar el selector.
-
-## Autoría
-
-Chat Escolar es un proyecto desarrollado por **Ariel Ponce**.
-
-Versión actual: `0.1.0`
-Año: `2026`
-
-La marca de autoría no debe eliminarse de las versiones de prueba distribuidas por el autor.
-
-Consulta [docs/AUTORIA_Y_VERSIONADO.md](docs/AUTORIA_Y_VERSIONADO.md) para conocer dónde se centraliza esta información y cómo actualizar la versión.
+Autor: **Ariel Ponce**. Año: 2026. Licencia pendiente; la autoría no sustituye una licencia formal.
