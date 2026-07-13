@@ -57,6 +57,8 @@ Cuando existe una fuente Markdown verificada pero Ollama no responde o llega al 
 
 `backend/educational_level.py` centraliza el curso, edad aproximada, nivel lector, cantidad de ideas, límite de palabras y una sola pregunta de práctica. El fallback local y los prompts de Ollama usan estas reglas: 1°–2° básico recibe frases muy cortas; 3°–4° explicaciones simples; 5°–6° conceptos escolares aclarados; y 7°–8° mayor precisión y relaciones entre ideas. La estructura mantiene bloques predecibles, ejemplos concretos y lenguaje claro sin infantilizar.
 
+Las respuestas pedagógicas mantienen el orden **Explicación corta, Ejemplo, Mini resumen y una sola pregunta de práctica**. El fallback local limpia los textos curriculares para no mostrar OA, metadatos ni instrucciones editoriales dentro de la explicación. Ante una pregunta ambigua sin contexto, pide una aclaración simple con ejemplos; los errores de escritura se interpretan de forma amable mediante la normalización local.
+
 ## Nexo, identidad visual del chat
 
 Nexo es el tutor visual de Chat Escolar. Las preguntas del perfil y las respuestas de Nexo usan globos distintos; durante el procesamiento se muestra la variante de Nexo pensando. La pantalla de perfiles incorpora la variante `nexo_bienvenida.png` como imagen principal. Las variantes y rutas de assets están documentadas en [docs/README_NEXO_VISUAL.md](docs/README_NEXO_VISUAL.md). Mientras no existan imágenes finales, la interfaz usa un placeholder seguro.

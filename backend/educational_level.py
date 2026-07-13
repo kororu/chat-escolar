@@ -9,12 +9,12 @@ except ImportError:
 _LEVELS = {
     1: ("6 a 7 años", "inicial escolar", "frases muy cortas y una idea por bloque", 2, 1, 90),
     2: ("7 a 8 años", "inicial escolar", "frases cortas y ejemplos concretos", 3, 1, 90),
-    3: ("8 a 9 años", "básico escolar", "frases simples y explicación breve", 3, 1, 120),
-    4: ("9 a 10 años", "básico escolar", "frases simples y explicación breve", 3, 1, 120),
-    5: ("10 a 11 años", "intermedio escolar", "lenguaje claro con conceptos explicados", 3, 1, 170),
-    6: ("11 a 12 años", "intermedio escolar", "lenguaje claro con conceptos explicados", 3, 1, 170),
-    7: ("12 a 13 años", "avanzado escolar", "explicación precisa con relaciones claras", 4, 1, 220),
-    8: ("13 a 14 años", "avanzado escolar", "explicación precisa con relaciones claras", 4, 1, 220),
+    3: ("8 a 9 años", "básico escolar", "frases simples y explicación breve", 3, 1, 140),
+    4: ("9 a 10 años", "básico escolar", "frases simples y explicación breve", 3, 1, 140),
+    5: ("10 a 11 años", "intermedio escolar", "lenguaje claro con conceptos explicados", 3, 1, 200),
+    6: ("11 a 12 años", "intermedio escolar", "lenguaje claro con conceptos explicados", 3, 1, 200),
+    7: ("12 a 13 años", "avanzado escolar", "explicación precisa con relaciones claras", 4, 1, 280),
+    8: ("13 a 14 años", "avanzado escolar", "explicación precisa con relaciones claras", 4, 1, 280),
 }
 
 

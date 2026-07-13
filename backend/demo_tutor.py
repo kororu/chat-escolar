@@ -93,6 +93,14 @@ def _limit_sentences(text: str, maximum: int) -> str:
     return " ".join(sentences[:maximum]) if sentences else text
 
 
+def _limit_words(text: str, maximum: int) -> str:
+    words = text.split()
+    if len(words) <= maximum:
+        return text
+    shortened = " ".join(words[:maximum]).rstrip(" ,;:")
+    return f"{shortened}."
+
+
 def _simplify_for_level(text: str, level: dict) -> str:
     """Aclara expresiones frecuentes sin ocultar el concepto escolar."""
     grade = int(next((number for number in range(1, 9) if str(number) in normalize_text(level["course"])), 5))
@@ -153,6 +161,10 @@ def build_local_content_fallback(payload, local_content: dict) -> dict[str, str]
     explanation = _limit_sentences(explanation, main_ideas)
     example = _limit_sentences(example, 2 if main_ideas >= 3 else 1)
     summary = _limit_sentences(summary, min(2, main_ideas))
+    # Reserve space for labels and the single final practice question.
+    explanation = _limit_words(explanation, max(24, int(level["max_words"] * 0.42)))
+    example = _limit_words(example, max(16, int(level["max_words"] * 0.24)))
+    summary = _limit_words(summary, max(14, int(level["max_words"] * 0.18)))
 
     answer = (
         f"{_student_introduction(payload)}\n\n"
@@ -319,7 +331,8 @@ def make_demo_answer(
     if provenance_status == CLARIFICATION_REQUIRED:
         answer = (
             "No quiero adivinar el tema y darte una respuesta equivocada. "
-            "¿Puedes decirme a qué tema o elemento te refieres?"
+            "¿Puedes decirme qué quieres repasar? Por ejemplo: ‘explícame las fracciones’ "
+            "o ‘qué es la fotosíntesis’."
         )
         summary = "La pregunta necesita una aclaración antes de buscar contenido."
     elif provenance_status == LOCAL_LOW_CONFIDENCE:
