@@ -572,10 +572,10 @@ select:focus-visible {
 }
 
 .chat-panel {
-  display: grid;
-  grid-template-rows: auto minmax(340px, 1fr) auto auto;
-  min-height: 690px;
-  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  min-height: 0;
+  overflow: visible;
 }
 
 .chat-header {
@@ -732,7 +732,8 @@ select:focus-visible {
   display: flex;
   flex-direction: column;
   gap: 14px;
-  overflow-y: auto;
+  min-height: 0;
+  overflow: visible;
   padding: 20px;
 }
 

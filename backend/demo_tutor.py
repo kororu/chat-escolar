@@ -167,6 +167,13 @@ def build_local_content_fallback(payload, local_content: dict) -> dict[str, str]
     summary = _limit_words(summary, max(14, int(level["max_words"] * 0.18)))
 
     role = normalize_text(payload.user_role or "estudiante")
+    subject = normalize_text(local_content.get("subject") or payload.subject or "")
+    example_heading = (
+        "Contexto histórico" if "historia" in subject
+        else "Ejemplo paso a paso" if "matematica" in subject
+        else "Ejemplo" if "lenguaje" in subject
+        else "Ejemplo de la vida diaria"
+    )
     source_note = ""
     if local_content.get("course") and local_content["course"] != payload.course:
         source_note = f"Encontrado en otro curso: {local_content['course']}. Adaptado para {payload.course}.\n\n"
@@ -182,7 +189,7 @@ def build_local_content_fallback(payload, local_content: dict) -> dict[str, str]
                   f"Pregunta de evaluación rápida:\n{practice}")
     else:
         answer = (f"{_student_introduction(payload)}\n\n{source_note}"
-                  f"Explicación corta:\n{explanation}\n\nEjemplo de la vida diaria:\n{example}\n\n"
+                  f"Explicación corta:\n{explanation}\n\n{example_heading}:\n{example}\n\n"
                   f"Mini resumen:\n{summary}\n\nPregunta de práctica:\n{practice}")
     return {
         "answer": answer,
