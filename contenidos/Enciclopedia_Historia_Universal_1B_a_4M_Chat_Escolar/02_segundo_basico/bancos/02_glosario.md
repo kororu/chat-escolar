@@ -1,0 +1,49 @@
+# Glosario inicial — 2° básico
+
+- **Al:** Concepto vinculado con aportes de personas y pueblos al bienestar común; debe definirse dentro de su contexto histórico.
+- **Aportes:** Concepto vinculado con aportes de personas y pueblos al bienestar común; debe definirse dentro de su contexto histórico.
+- **Bienestar:** Concepto vinculado con aportes de personas y pueblos al bienestar común; debe definirse dentro de su contexto histórico.
+- **Comparar:** Concepto vinculado con comparar pasado y presente sin juzgar con estereotipos; debe definirse dentro de su contexto histórico.
+- **Comun:** Concepto vinculado con aportes de personas y pueblos al bienestar común; debe definirse dentro de su contexto histórico.
+- **Comunicacion:** Concepto vinculado con medios de transporte y comunicación a través del tiempo; debe definirse dentro de su contexto histórico.
+- **Comunidades:** Concepto vinculado con comunidades rurales y urbanas en distintas épocas; debe definirse dentro de su contexto histórico.
+- **Con:** Concepto vinculado con comparar pasado y presente sin juzgar con estereotipos; debe definirse dentro de su contexto histórico.
+- **Continentes:** Concepto vinculado con continentes, océanos y grandes regiones culturales; debe definirse dentro de su contexto histórico.
+- **Culturales:** Concepto vinculado con continentes, océanos y grandes regiones culturales; debe definirse dentro de su contexto histórico.
+- **Culturas:** Concepto vinculado con tradiciones y patrimonio de distintas culturas; debe definirse dentro de su contexto histórico.
+- **Distintas:** Concepto vinculado con tradiciones y patrimonio de distintas culturas; debe definirse dentro de su contexto histórico.
+- **Epocas:** Concepto vinculado con comunidades rurales y urbanas en distintas épocas; debe definirse dentro de su contexto histórico.
+- **Estereotipos:** Concepto vinculado con comparar pasado y presente sin juzgar con estereotipos; debe definirse dentro de su contexto histórico.
+- **Formas:** Concepto vinculado con formas de vida nómadas y sedentarias; debe definirse dentro de su contexto histórico.
+- **Fuentes:** Concepto vinculado con fuentes del pasado: objetos, imágenes y relatos; debe definirse dentro de su contexto histórico.
+- **Grandes:** Concepto vinculado con continentes, océanos y grandes regiones culturales; debe definirse dentro de su contexto histórico.
+- **Historia:** Concepto vinculado con cómo sabemos que el mundo tiene una historia; debe definirse dentro de su contexto histórico.
+- **Imagenes:** Concepto vinculado con fuentes del pasado: objetos, imágenes y relatos; debe definirse dentro de su contexto histórico.
+- **Juzgar:** Concepto vinculado con comparar pasado y presente sin juzgar con estereotipos; debe definirse dentro de su contexto histórico.
+- **Medios:** Concepto vinculado con medios de transporte y comunicación a través del tiempo; debe definirse dentro de su contexto histórico.
+- **Mundo:** Concepto vinculado con cómo sabemos que el mundo tiene una historia; debe definirse dentro de su contexto histórico.
+- **Ninas:** Concepto vinculado con niñas y niños en sociedades del pasado; debe definirse dentro de su contexto histórico.
+- **Ninos:** Concepto vinculado con niñas y niños en sociedades del pasado; debe definirse dentro de su contexto histórico.
+- **Nomadas:** Concepto vinculado con formas de vida nómadas y sedentarias; debe definirse dentro de su contexto histórico.
+- **Objetos:** Concepto vinculado con fuentes del pasado: objetos, imágenes y relatos; debe definirse dentro de su contexto histórico.
+- **Oceanos:** Concepto vinculado con continentes, océanos y grandes regiones culturales; debe definirse dentro de su contexto histórico.
+- **Pasado:** Concepto vinculado con comparar pasado y presente sin juzgar con estereotipos; debe definirse dentro de su contexto histórico.
+- **Patrimonio:** Concepto vinculado con tradiciones y patrimonio de distintas culturas; debe definirse dentro de su contexto histórico.
+- **Personas:** Concepto vinculado con aportes de personas y pueblos al bienestar común; debe definirse dentro de su contexto histórico.
+- **Presente:** Concepto vinculado con comparar pasado y presente sin juzgar con estereotipos; debe definirse dentro de su contexto histórico.
+- **Pueblos:** Concepto vinculado con aportes de personas y pueblos al bienestar común; debe definirse dentro de su contexto histórico.
+- **Que:** Concepto vinculado con cómo sabemos que el mundo tiene una historia; debe definirse dentro de su contexto histórico.
+- **Regiones:** Concepto vinculado con continentes, océanos y grandes regiones culturales; debe definirse dentro de su contexto histórico.
+- **Relatos:** Concepto vinculado con fuentes del pasado: objetos, imágenes y relatos; debe definirse dentro de su contexto histórico.
+- **Rurales:** Concepto vinculado con comunidades rurales y urbanas en distintas épocas; debe definirse dentro de su contexto histórico.
+- **Sabemos:** Concepto vinculado con cómo sabemos que el mundo tiene una historia; debe definirse dentro de su contexto histórico.
+- **Sedentarias:** Concepto vinculado con formas de vida nómadas y sedentarias; debe definirse dentro de su contexto histórico.
+- **Sin:** Concepto vinculado con comparar pasado y presente sin juzgar con estereotipos; debe definirse dentro de su contexto histórico.
+- **Sociedades:** Concepto vinculado con niñas y niños en sociedades del pasado; debe definirse dentro de su contexto histórico.
+- **Tiempo:** Concepto vinculado con medios de transporte y comunicación a través del tiempo; debe definirse dentro de su contexto histórico.
+- **Tiene:** Concepto vinculado con cómo sabemos que el mundo tiene una historia; debe definirse dentro de su contexto histórico.
+- **Tradiciones:** Concepto vinculado con tradiciones y patrimonio de distintas culturas; debe definirse dentro de su contexto histórico.
+- **Transporte:** Concepto vinculado con medios de transporte y comunicación a través del tiempo; debe definirse dentro de su contexto histórico.
+- **Traves:** Concepto vinculado con medios de transporte y comunicación a través del tiempo; debe definirse dentro de su contexto histórico.
+- **Urbanas:** Concepto vinculado con comunidades rurales y urbanas en distintas épocas; debe definirse dentro de su contexto histórico.
+- **Vida:** Concepto vinculado con formas de vida nómadas y sedentarias; debe definirse dentro de su contexto histórico.

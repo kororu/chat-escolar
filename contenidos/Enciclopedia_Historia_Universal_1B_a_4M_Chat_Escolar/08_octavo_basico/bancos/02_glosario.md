@@ -1,0 +1,99 @@
+# Glosario inicial — 8° básico
+
+- **Absolutas:** Concepto vinculado con monarquías absolutas y sociedad estamental; debe definirse dentro de su contexto histórico.
+- **Afrodescendientes:** Concepto vinculado con resistencias indígenas y afrodescendientes; debe definirse dentro de su contexto histórico.
+- **Al:** Concepto vinculado con humanismo y nuevas formas de comprender al ser humano; debe definirse dentro de su contexto histórico.
+- **America:** Concepto vinculado con expansión europea y conquista de américa; debe definirse dentro de su contexto histórico.
+- **Americano:** Concepto vinculado con epidemias y colapso demográfico americano; debe definirse dentro de su contexto histórico.
+- **Artistico:** Concepto vinculado con renacimiento artístico y cultural; debe definirse dentro de su contexto histórico.
+- **Atlantica:** Concepto vinculado con trata atlántica y sociedades esclavistas; debe definirse dentro de su contexto histórico.
+- **Barroco:** Concepto vinculado con barroco, evangelización y cultura colonial; debe definirse dentro de su contexto histórico.
+- **Capitalismo:** Concepto vinculado con orígenes del capitalismo moderno; debe definirse dentro de su contexto histórico.
+- **Castas:** Concepto vinculado con castas, mestizaje y jerarquías coloniales; debe definirse dentro de su contexto histórico.
+- **Catolica:** Concepto vinculado con reforma católica y conflictos religiosos; debe definirse dentro de su contexto histórico.
+- **China:** Concepto vinculado con china ming y qing; debe definirse dentro de su contexto histórico.
+- **Cientifica:** Concepto vinculado con revolución científica; debe definirse dentro de su contexto histórico.
+- **Circulacion:** Concepto vinculado con imprenta y circulación de ideas; debe definirse dentro de su contexto histórico.
+- **Ciudad:** Concepto vinculado con ciudad colonial y organización del territorio; debe definirse dentro de su contexto histórico.
+- **Ciudadania:** Concepto vinculado con mujeres y límites de la ciudadanía revolucionaria; debe definirse dentro de su contexto histórico.
+- **Colapso:** Concepto vinculado con epidemias y colapso demográfico americano; debe definirse dentro de su contexto histórico.
+- **Colonial:** Concepto vinculado con barroco, evangelización y cultura colonial; debe definirse dentro de su contexto histórico.
+- **Coloniales:** Concepto vinculado con castas, mestizaje y jerarquías coloniales; debe definirse dentro de su contexto histórico.
+- **Colonias:** Concepto vinculado con revolución de las trece colonias; debe definirse dentro de su contexto histórico.
+- **Comercial:** Concepto vinculado con mercantilismo y expansión comercial; debe definirse dentro de su contexto histórico.
+- **Comparar:** Concepto vinculado con comparar sociedad medieval y sociedad moderna; debe definirse dentro de su contexto histórico.
+- **Comprender:** Concepto vinculado con humanismo y nuevas formas de comprender al ser humano; debe definirse dentro de su contexto histórico.
+- **Conexiones:** Concepto vinculado con conexiones globales entre los siglos xv y xviii; debe definirse dentro de su contexto histórico.
+- **Conflictos:** Concepto vinculado con reforma católica y conflictos religiosos; debe definirse dentro de su contexto histórico.
+- **Conquista:** Concepto vinculado con expansión europea y conquista de américa; debe definirse dentro de su contexto histórico.
+- **Conquistados:** Concepto vinculado con debates sobre la humanidad de los pueblos conquistados; debe definirse dentro de su contexto histórico.
+- **Cultura:** Concepto vinculado con barroco, evangelización y cultura colonial; debe definirse dentro de su contexto histórico.
+- **Cultural:** Concepto vinculado con renacimiento artístico y cultural; debe definirse dentro de su contexto histórico.
+- **Debates:** Concepto vinculado con debates sobre la humanidad de los pueblos conquistados; debe definirse dentro de su contexto histórico.
+- **Demografico:** Concepto vinculado con epidemias y colapso demográfico americano; debe definirse dentro de su contexto histórico.
+- **Derechos:** Concepto vinculado con derechos naturales, ciudadanía y soberanía popular; debe definirse dentro de su contexto histórico.
+- **Entre:** Concepto vinculado con conexiones globales entre los siglos xv y xviii; debe definirse dentro de su contexto histórico.
+- **Epidemias:** Concepto vinculado con epidemias y colapso demográfico americano; debe definirse dentro de su contexto histórico.
+- **Esclavistas:** Concepto vinculado con trata atlántica y sociedades esclavistas; debe definirse dentro de su contexto histórico.
+- **Esfera:** Concepto vinculado con ilustración y esfera pública; debe definirse dentro de su contexto histórico.
+- **Estado:** Concepto vinculado con nacimiento del estado moderno; debe definirse dentro de su contexto histórico.
+- **Estamental:** Concepto vinculado con monarquías absolutas y sociedad estamental; debe definirse dentro de su contexto histórico.
+- **Europea:** Concepto vinculado con expansión europea y conquista de américa; debe definirse dentro de su contexto histórico.
+- **Evangelizacion:** Concepto vinculado con barroco, evangelización y cultura colonial; debe definirse dentro de su contexto histórico.
+- **Expansion:** Concepto vinculado con expansión europea y conquista de américa; debe definirse dentro de su contexto histórico.
+- **Formas:** Concepto vinculado con humanismo y nuevas formas de comprender al ser humano; debe definirse dentro de su contexto histórico.
+- **Francesa:** Concepto vinculado con revolución francesa; debe definirse dentro de su contexto histórico.
+- **Globales:** Concepto vinculado con conexiones globales entre los siglos xv y xviii; debe definirse dentro de su contexto histórico.
+- **Haitiana:** Concepto vinculado con revolución haitiana; debe definirse dentro de su contexto histórico.
+- **Humanidad:** Concepto vinculado con debates sobre la humanidad de los pueblos conquistados; debe definirse dentro de su contexto histórico.
+- **Humanismo:** Concepto vinculado con humanismo y nuevas formas de comprender al ser humano; debe definirse dentro de su contexto histórico.
+- **Humano:** Concepto vinculado con humanismo y nuevas formas de comprender al ser humano; debe definirse dentro de su contexto histórico.
+- **Ideas:** Concepto vinculado con imprenta y circulación de ideas; debe definirse dentro de su contexto histórico.
+- **Ilustracion:** Concepto vinculado con ilustración y esfera pública; debe definirse dentro de su contexto histórico.
+- **Imperios:** Concepto vinculado con imperios otomano, safávida y mogol; debe definirse dentro de su contexto histórico.
+- **Imprenta:** Concepto vinculado con imprenta y circulación de ideas; debe definirse dentro de su contexto histórico.
+- **Independencias:** Concepto vinculado con independencias latinoamericanas; debe definirse dentro de su contexto histórico.
+- **Indigenas:** Concepto vinculado con resistencias indígenas y afrodescendientes; debe definirse dentro de su contexto histórico.
+- **Japon:** Concepto vinculado con japón tokugawa; debe definirse dentro de su contexto histórico.
+- **Jerarquias:** Concepto vinculado con castas, mestizaje y jerarquías coloniales; debe definirse dentro de su contexto histórico.
+- **Latinoamericanas:** Concepto vinculado con independencias latinoamericanas; debe definirse dentro de su contexto histórico.
+- **Limites:** Concepto vinculado con mujeres y límites de la ciudadanía revolucionaria; debe definirse dentro de su contexto histórico.
+- **Medieval:** Concepto vinculado con comparar sociedad medieval y sociedad moderna; debe definirse dentro de su contexto histórico.
+- **Mercantilismo:** Concepto vinculado con mercantilismo y expansión comercial; debe definirse dentro de su contexto histórico.
+- **Mestizaje:** Concepto vinculado con castas, mestizaje y jerarquías coloniales; debe definirse dentro de su contexto histórico.
+- **Ming:** Concepto vinculado con china ming y qing; debe definirse dentro de su contexto histórico.
+- **Moderna:** Concepto vinculado con comparar sociedad medieval y sociedad moderna; debe definirse dentro de su contexto histórico.
+- **Moderno:** Concepto vinculado con orígenes del capitalismo moderno; debe definirse dentro de su contexto histórico.
+- **Mogol:** Concepto vinculado con imperios otomano, safávida y mogol; debe definirse dentro de su contexto histórico.
+- **Monarquias:** Concepto vinculado con monarquías absolutas y sociedad estamental; debe definirse dentro de su contexto histórico.
+- **Mujeres:** Concepto vinculado con mujeres y límites de la ciudadanía revolucionaria; debe definirse dentro de su contexto histórico.
+- **Nacimiento:** Concepto vinculado con nacimiento del estado moderno; debe definirse dentro de su contexto histórico.
+- **Naturales:** Concepto vinculado con derechos naturales, ciudadanía y soberanía popular; debe definirse dentro de su contexto histórico.
+- **Nuevas:** Concepto vinculado con humanismo y nuevas formas de comprender al ser humano; debe definirse dentro de su contexto histórico.
+- **Organizacion:** Concepto vinculado con ciudad colonial y organización del territorio; debe definirse dentro de su contexto histórico.
+- **Origenes:** Concepto vinculado con orígenes del capitalismo moderno; debe definirse dentro de su contexto histórico.
+- **Otomano:** Concepto vinculado con imperios otomano, safávida y mogol; debe definirse dentro de su contexto histórico.
+- **Popular:** Concepto vinculado con derechos naturales, ciudadanía y soberanía popular; debe definirse dentro de su contexto histórico.
+- **Protestante:** Concepto vinculado con reforma protestante; debe definirse dentro de su contexto histórico.
+- **Publica:** Concepto vinculado con ilustración y esfera pública; debe definirse dentro de su contexto histórico.
+- **Pueblos:** Concepto vinculado con debates sobre la humanidad de los pueblos conquistados; debe definirse dentro de su contexto histórico.
+- **Qing:** Concepto vinculado con china ming y qing; debe definirse dentro de su contexto histórico.
+- **Reforma:** Concepto vinculado con reforma católica y conflictos religiosos; debe definirse dentro de su contexto histórico.
+- **Religiosos:** Concepto vinculado con reforma católica y conflictos religiosos; debe definirse dentro de su contexto histórico.
+- **Renacimiento:** Concepto vinculado con renacimiento artístico y cultural; debe definirse dentro de su contexto histórico.
+- **Resistencias:** Concepto vinculado con resistencias indígenas y afrodescendientes; debe definirse dentro de su contexto histórico.
+- **Revolucion:** Concepto vinculado con revolución haitiana; debe definirse dentro de su contexto histórico.
+- **Revolucionaria:** Concepto vinculado con mujeres y límites de la ciudadanía revolucionaria; debe definirse dentro de su contexto histórico.
+- **Safavida:** Concepto vinculado con imperios otomano, safávida y mogol; debe definirse dentro de su contexto histórico.
+- **Ser:** Concepto vinculado con humanismo y nuevas formas de comprender al ser humano; debe definirse dentro de su contexto histórico.
+- **Siglos:** Concepto vinculado con conexiones globales entre los siglos xv y xviii; debe definirse dentro de su contexto histórico.
+- **Soberania:** Concepto vinculado con derechos naturales, ciudadanía y soberanía popular; debe definirse dentro de su contexto histórico.
+- **Sobre:** Concepto vinculado con debates sobre la humanidad de los pueblos conquistados; debe definirse dentro de su contexto histórico.
+- **Sociedad:** Concepto vinculado con comparar sociedad medieval y sociedad moderna; debe definirse dentro de su contexto histórico.
+- **Sociedades:** Concepto vinculado con trata atlántica y sociedades esclavistas; debe definirse dentro de su contexto histórico.
+- **Territorio:** Concepto vinculado con ciudad colonial y organización del territorio; debe definirse dentro de su contexto histórico.
+- **Tokugawa:** Concepto vinculado con japón tokugawa; debe definirse dentro de su contexto histórico.
+- **Trata:** Concepto vinculado con trata atlántica y sociedades esclavistas; debe definirse dentro de su contexto histórico.
+- **Trece:** Concepto vinculado con revolución de las trece colonias; debe definirse dentro de su contexto histórico.
+- **Xv:** Concepto vinculado con conexiones globales entre los siglos xv y xviii; debe definirse dentro de su contexto histórico.
+- **Xviii:** Concepto vinculado con conexiones globales entre los siglos xv y xviii; debe definirse dentro de su contexto histórico.

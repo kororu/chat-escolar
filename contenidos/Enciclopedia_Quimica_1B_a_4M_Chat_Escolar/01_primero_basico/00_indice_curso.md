@@ -1,0 +1,17 @@
+# Índice — 1° básico
+
+- [Materiales cotidianos](001_materiales_cotidianos.md)
+- [Propiedades observables](002_propiedades_observables.md)
+- [Duro y blando](003_duro_y_blando.md)
+- [Flexible y rígido](004_flexible_y_rigido.md)
+- [Transparente y opaco](005_transparente_y_opaco.md)
+- [Absorción de agua](006_absorcion_de_agua.md)
+- [Materiales naturales y elaborados](007_materiales_naturales_y_elaborados.md)
+- [Cambios por calor](008_cambios_por_calor.md)
+- [Cambios por frío](009_cambios_por_frio.md)
+- [Mezclas seguras](010_mezclas_seguras.md)
+- [Agua cotidiana](011_agua_cotidiana.md)
+- [Aire ocupa espacio](012_aire_ocupa_espacio.md)
+- [Clasificación de objetos](013_clasificacion_de_objetos.md)
+- [Reutilización de materiales](014_reutilizacion_de_materiales.md)
+- [Seguridad al observar sustancias](015_seguridad_al_observar_sustancias.md)

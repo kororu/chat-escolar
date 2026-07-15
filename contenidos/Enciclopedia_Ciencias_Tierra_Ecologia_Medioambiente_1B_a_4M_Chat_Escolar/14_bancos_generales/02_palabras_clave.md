@@ -1,0 +1,311 @@
+# Palabras clave
+
+- la tierra como hogar
+- elementos naturales del entorno
+- agua en la vida diaria
+- aire y viento
+- suelo y plantas
+- animales y hábitats
+- día y noche
+- estaciones del año
+- tiempo atmosférico inicial
+- cuidado del agua
+- cuidado de plantas y animales
+- no botar basura
+- reutilizar materiales
+- separar residuos inicial
+- observar el entorno
+- paisajes naturales
+- ríos lagos y mar
+- agua dulce y salada
+- ciclo del agua inicial
+- nubes y lluvia
+- viento y temperatura
+- suelo y seres vivos
+- hábitats terrestres
+- hábitats acuáticos
+- adaptaciones simples
+- recursos naturales cotidianos
+- uso responsable del agua
+- reciclaje básico
+- contaminación visible
+- cuidado de plazas y barrios
+- registro del tiempo atmosférico
+- planeta tierra
+- superficie terrestre y océanos
+- continentes y océanos como marco natural
+- rotación y día noche
+- traslación y estaciones
+- atmósfera inicial
+- hidrosfera inicial
+- litosfera inicial
+- ciclo del agua
+- evaporación condensación y precipitación
+- tiempo y clima inicial
+- temperatura lluvia y viento
+- ecosistemas locales
+- cadenas alimentarias simples
+- contaminación del aire inicial
+- contaminación del agua inicial
+- reciclaje y reducción
+- proyecto de cuidado ambiental
+- capas internas de la tierra inicial
+- corteza manto y núcleo
+- placas tectónicas iniciales
+- sismos
+- volcanes
+- tsunamis
+- cambios de la superficie terrestre
+- rocas y minerales
+- ciclo de las rocas inicial
+- suelo y formación
+- tipos de suelo
+- erosión inicial
+- ecosistemas terrestres
+- ecosistemas acuáticos
+- redes alimentarias iniciales
+- biodiversidad local
+- amenaza y prevención
+- plan familiar de emergencia
+- contaminación y residuos
+- investigación del entorno
+- estructura del planeta tierra
+- corteza continental y oceánica
+- manto y núcleo
+- campo magnético terrestre inicial
+- rocas ígneas sedimentarias y metamórficas
+- ciclo de las rocas
+- minerales y recursos
+- agua en la tierra
+- océanos y corrientes iniciales
+- ríos lagos glaciares y acuíferos
+- cuenca hidrográfica
+- ciclo del agua avanzado
+- ecosistemas acuáticos
+- biodiversidad marina
+- recursos renovables y no renovables
+- minería y ambiente inicial
+- energía y recursos naturales
+- contaminación del agua
+- contaminación del suelo
+- residuos domiciliarios
+- reciclaje y economía circular inicial
+- conservación de especies
+- áreas protegidas
+- proyecto ambiental escolar
+- atmósfera litósfera e hidrósfera
+- capas que permiten la vida
+- recursos de la atmósfera
+- recursos de la hidrósfera
+- recursos de la litósfera
+- suelo como sistema
+- horizontes del suelo
+- textura y composición del suelo
+- materia orgánica del suelo
+- organismos del suelo
+- erosión por agua
+- erosión por viento
+- erosión por actividades humanas
+- conservación del suelo
+- fotosíntesis y ecosistemas
+- cadenas y redes alimentarias
+- flujo de energía
+- ciclos de materia iniciales
+- clima y zonas climáticas
+- atmósfera y efecto invernadero inicial
+- uso sostenible de recursos
+- contaminación y prevención
+- cambio climático inicial
+- diseño de experimento sobre erosión
+- deriva continental
+- tectónica de placas
+- placas oceánicas y continentales
+- límites convergentes
+- límites divergentes
+- límites transformantes
+- subducción
+- formación de cordilleras
+- sismos y placas
+- volcanismo y placas
+- distribución global de sismos y volcanes
+- cinturón de fuego del pacífico
+- estructura de un volcán
+- tipos de erupción iniciales
+- ondas sísmicas iniciales
+- epicentro e hipocentro
+- magnitud e intensidad
+- tsunamis y generación
+- riesgo volcánico
+- riesgo sísmico
+- amenaza vulnerabilidad y exposición
+- prevención y preparación
+- historia geológica inicial
+- modelos de tectónica
+- sistema tierra
+- interacciones atmósfera hidrósfera geósfera biósfera
+- balance energético terrestre
+- radiación solar y clima
+- efecto invernadero natural
+- gases de efecto invernadero
+- tiempo y clima
+- circulación atmosférica inicial
+- ciclo del carbono
+- ciclo del nitrógeno
+- ciclo del fósforo
+- ciclo del agua avanzado
+- ecosistemas y homeostasis ambiental
+- biodiversidad genética de especies y ecosistemas
+- servicios ecosistémicos
+- contaminación atmosférica
+- contaminación hídrica
+- contaminación del suelo
+- eutrofización inicial
+- lluvia ácida
+- ozono estratosférico y troposférico
+- residuos y materiales
+- huella ecológica inicial
+- consumo responsable
+- cambio climático y evidencia
+- adaptación y mitigación inicial
+- niveles de organización ecológica
+- organismo población comunidad ecosistema
+- hábitat y nicho ecológico
+- factores bióticos y abióticos
+- flujo de energía
+- productividad primaria
+- cadenas y redes tróficas
+- pirámides ecológicas
+- ciclos biogeoquímicos
+- dinámica de poblaciones
+- crecimiento poblacional
+- capacidad de carga
+- competencia
+- depredación
+- mutualismo
+- parasitismo
+- sucesión ecológica
+- ecosistemas de chile
+- biomas del mundo
+- biodiversidad de chile
+- endemismo
+- servicios ecosistémicos
+- pérdida de hábitat
+- fragmentación
+- especies invasoras
+- sobreexplotación
+- conservación y restauración
+- cambio global y ecosistemas
+- historia geológica de la tierra
+- tiempo geológico
+- datación relativa
+- datación radiométrica inicial
+- fósiles y paleoambientes
+- tectónica y evolución del relieve
+- ciclo supercontinental
+- océanos y clima
+- atmósfera y clima global
+- circulación oceánica
+- fenómenos el niño y la niña
+- variabilidad climática
+- paleoclima
+- evidencias del cambio climático
+- gases de efecto invernadero
+- forzamiento radiativo inicial
+- acidificación del océano
+- aumento del nivel del mar
+- glaciares y criósfera
+- sequías e inundaciones
+- incendios forestales y riesgo
+- desertificación
+- seguridad hídrica
+- gestión de cuencas
+- energía y ambiente
+- minería y sostenibilidad
+- evaluación de impacto ambiental inicial
+- conflictos socioambientales
+- justicia ambiental inicial
+- proyecto de análisis ambiental
+- cambio climático como desafío urgente
+- evidencias del cambio climático
+- modelos climáticos iniciales
+- escenarios de emisiones
+- mitigación
+- adaptación
+- soluciones basadas en la naturaleza
+- transición energética
+- eficiencia energética
+- movilidad sostenible
+- consumo sostenible
+- economía circular
+- gestión de residuos
+- contaminación del aire y salud
+- calidad del agua
+- seguridad hídrica
+- biodiversidad y servicios ecosistémicos
+- restauración ecológica
+- agricultura sostenible
+- ciudades resilientes
+- riesgos socionaturales
+- gestión del riesgo de desastres
+- participación ambiental
+- leyes e instituciones ambientales
+- información y desinformación ambiental
+- proyecto local de sostenibilidad
+- sistema climático terrestre
+- retroalimentaciones climáticas
+- carbono y presupuesto global
+- justicia climática
+- pérdidas y daños
+- adaptación basada en ecosistemas
+- resiliencia comunitaria
+- riesgo y vulnerabilidad territorial
+- sistemas de alerta temprana
+- planificación urbana sostenible
+- soluciones hídricas
+- desalinización y ambiente
+- reúso de aguas
+- energías renovables y territorio
+- almacenamiento de energía
+- minerales críticos y transición energética
+- economía circular avanzada
+- responsabilidad extendida del productor
+- restauración de suelos
+- conservación marina
+- áreas protegidas y corredores ecológicos
+- crisis de biodiversidad
+- una salud y ambiente
+- contaminantes emergentes
+- microplásticos
+- evaluación ambiental estratégica
+- derecho a un ambiente sano
+- participación y justicia ambiental
+- ciencia ciudadana ambiental
+- proyecto final de intervención ambiental
+- planeta tierra
+- capas internas de la tierra
+- atmósfera
+- hidrósfera
+- litósfera
+- biósfera
+- tectónica de placas
+- volcanes
+- terremotos
+- tsunamis
+- rocas y minerales
+- suelo
+- erosión
+- ciclo del agua
+- clima
+- tiempo atmosférico
+- ecosistemas
+- cadenas y redes alimentarias
+- biodiversidad
+- recursos naturales
+- contaminación del aire
+- contaminación del agua
+- contaminación del suelo
+- residuos y reciclaje
+- cambio climático
+- riesgo de desastres
+- justicia ambiental
+- cuidado ambiental

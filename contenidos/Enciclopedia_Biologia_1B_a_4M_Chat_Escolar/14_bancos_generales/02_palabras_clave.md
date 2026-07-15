@@ -1,0 +1,307 @@
+# Palabras clave
+
+- seres vivos y objetos no vivos
+- necesidades de los seres vivos
+- crecimiento y cambios en los seres vivos
+- respuesta a estímulos
+- animales según cubierta corporal
+- animales según desplazamiento
+- hábitats de animales
+- animales nativos de chile
+- plantas y sus partes
+- necesidades de las plantas
+- cambios estacionales en plantas y animales
+- los sentidos
+- cuidado de los sentidos
+- hábitos de higiene
+- cuidado de seres vivos
+- ciclos de vida de animales
+- ciclo de vida de plantas
+- vertebrados e invertebrados
+- mamíferos, aves, reptiles, anfibios y peces
+- adaptaciones simples al hábitat
+- animales en peligro de extinción
+- impacto humano en hábitats
+- partes internas principales del cuerpo
+- corazón y circulación inicial
+- pulmones y respiración inicial
+- estómago y digestión inicial
+- actividad física y cuerpo
+- alimentación saludable
+- microorganismos: primera aproximación
+- prevención de enfermedades
+- cuidado de ecosistemas locales
+- plantas con flor
+- polinización
+- formación de frutos y semillas
+- dispersión de semillas
+- germinación
+- fotosíntesis inicial
+- clasificación de animales por alimentación
+- herbívoros, carnívoros y omnívoros
+- cadenas alimentarias simples
+- productores, consumidores y descomponedores
+- ecosistemas de chile
+- relaciones entre seres vivos
+- adaptaciones estructurales
+- adaptaciones de comportamiento
+- sistema locomotor inicial
+- huesos y articulaciones
+- músculos y movimiento
+- salud, higiene y prevención
+- niveles de organización inicial
+- órganos y sistemas
+- sistema locomotor
+- sistema nervioso inicial
+- respuesta a estímulos
+- nutrientes y alimentación
+- digestión y absorción inicial
+- respiración y oxígeno
+- circulación y transporte
+- excreción inicial
+- cadenas alimentarias
+- redes alimentarias
+- flujo de energía inicial
+- ecosistemas terrestres
+- ecosistemas acuáticos
+- adaptación y supervivencia
+- cambios ambientales
+- impacto humano y conservación
+- biodiversidad local
+- investigación biológica escolar
+- la célula como unidad de vida
+- células animales y vegetales
+- núcleo, citoplasma y membrana
+- microscopio y observación celular
+- niveles de organización biológica
+- sistema digestivo
+- sistema respiratorio
+- sistema circulatorio
+- sistema excretor
+- interacción entre sistemas corporales
+- nutrición equilibrada
+- hábitos y salud corporal
+- microorganismos beneficiosos
+- microorganismos patógenos
+- higiene y prevención de infecciones
+- pubertad: cambios físicos
+- pubertad: cambios emocionales
+- respeto, privacidad y autocuidado
+- ecosistemas acuáticos
+- océanos y biodiversidad
+- cadenas tróficas acuáticas
+- impacto humano en ambientes acuáticos
+- conservación de especies
+- diseño de investigaciones biológicas
+- fotosíntesis
+- intercambio de gases en plantas
+- transporte de agua en plantas
+- respiración celular inicial
+- materia y energía en ecosistemas
+- cadenas y redes alimentarias
+- pirámides ecológicas iniciales
+- descomponedores y reciclaje de materia
+- relaciones interespecíficas
+- competencia y cooperación
+- depredación
+- mutualismo, comensalismo y parasitismo
+- sistema reproductor humano
+- cambios de la pubertad
+- fecundación y desarrollo inicial
+- autocuidado y sexualidad responsable
+- prevención de infecciones de transmisión sexual
+- alcohol, tabaco y drogas
+- sistema nervioso y sustancias
+- suelo como ecosistema
+- microorganismos del suelo
+- erosión y biodiversidad
+- cambio climático y seres vivos
+- experimentos con plantas
+- teoría celular
+- células procariontes y eucariontes
+- organelos celulares
+- célula animal y vegetal
+- especialización celular
+- mitosis
+- crecimiento y reparación de tejidos
+- reproducción sexual y asexual
+- sistema reproductor femenino
+- sistema reproductor masculino
+- ciclo menstrual
+- fecundación, embarazo y nacimiento
+- sexualidad, afectividad y respeto
+- consentimiento y límites personales
+- métodos de prevención del embarazo: marco educativo
+- infecciones de transmisión sexual
+- microorganismos y enfermedad
+- bacterias
+- virus
+- hongos microscópicos
+- sistema inmune inicial
+- vacunas
+- antibióticos y uso responsable
+- nutrición y metabolismo
+- historia de la teoría celular
+- microscopía y evidencia
+- estructura y función celular
+- membrana celular
+- núcleo y material genético
+- mitocondrias y energía
+- cloroplastos y fotosíntesis
+- células especializadas
+- tejidos, órganos y sistemas
+- transporte de sustancias en plantas
+- intercambio gaseoso en plantas
+- sistema digestivo y absorción
+- sistema respiratorio
+- sistema circulatorio
+- sistema excretor
+- homeostasis
+- nutrientes y metabolismo
+- microbiota humana
+- enfermedades no transmisibles
+- prevención cardiovascular
+- reproducción celular
+- adn: primera aproximación
+- genes y características
+- variación biológica
+- evidencias de evolución
+- selección natural inicial
+- origen y diversidad de la vida
+- evidencias de evolución
+- registro fósil
+- anatomía comparada
+- biogeografía
+- selección natural
+- adaptación evolutiva
+- especiación
+- parentesco evolutivo
+- árboles filogenéticos
+- biodiversidad de chile
+- niveles de organización ecológica
+- poblaciones
+- comunidades
+- ecosistemas
+- hábitat y nicho ecológico
+- competencia
+- depredación
+- mutualismo
+- parasitismo
+- flujo de energía
+- productividad primaria
+- cadenas y redes tróficas
+- ciclos del carbono y nitrógeno
+- ciclo del agua y fósforo
+- dinámica de poblaciones
+- conservación de biodiversidad
+- impacto humano en ecosistemas
+- adn y cromosomas
+- genes y alelos
+- genotipo y fenotipo
+- herencia mendeliana
+- dominancia y recesividad
+- cuadros de punnett
+- herencia ligada al sexo inicial
+- mutaciones
+- variación genética
+- meiosis
+- formación de gametos
+- fecundación y desarrollo embrionario
+- regulación hormonal
+- sistema nervioso
+- neuronas y sinapsis
+- sistema endocrino
+- homeostasis avanzada
+- respuesta inmune
+- inmunidad innata y adaptativa
+- vacunas y memoria inmune
+- biotecnología
+- ingeniería genética inicial
+- organismos genéticamente modificados
+- clonación: conceptos y ética
+- evolución humana
+- ecología de poblaciones
+- sucesión ecológica
+- conservación genética
+- salud sexual y reproductiva
+- bioética y decisiones informadas
+- factores biológicos de la salud
+- factores ambientales de la salud
+- factores sociales de la salud
+- nutrición y salud pública
+- actividad física y bienestar
+- estrés y salud mental
+- sueño y salud
+- alcohol y drogas
+- radiación uv
+- patógenos emergentes
+- vacunas y salud colectiva
+- resistencia antimicrobiana
+- epidemiología inicial
+- biodiversidad y servicios ecosistémicos
+- pérdida de hábitat
+- especies invasoras
+- cambio climático y biodiversidad
+- contaminación y salud
+- alimentos transgénicos
+- biotecnología en salud
+- genética y privacidad
+- ciencia de datos en biología
+- ética de investigación con seres vivos
+- proyecto de salud o biodiversidad
+- salud y toma de decisiones
+- epidemiología aplicada
+- prevención de enfermedades crónicas
+- salud ambiental
+- seguridad alimentaria
+- microbioma humano
+- resistencia a antibióticos
+- vacunas y comunicación de riesgo
+- genómica
+- medicina personalizada
+- edición genética
+- terapia génica
+- células madre
+- reproducción asistida
+- bioética reproductiva
+- origen de la vida: hipótesis científicas
+- evolución y desarrollo
+- extinciones masivas
+- crisis de biodiversidad
+- restauración ecológica
+- conservación basada en evidencia
+- una salud: personas, animales y ambiente
+- zoonosis
+- cambio global y salud
+- justicia ambiental
+- derecho a salud y ambiente sano
+- instituciones sanitarias y ambientales
+- proyecto de investigación biológica aplicada
+- qué estudia la biología
+- características de los seres vivos
+- niveles de organización biológica
+- célula y teoría celular
+- plantas: estructura y función
+- animales: diversidad y clasificación
+- cuerpo humano y sistemas
+- homeostasis
+- salud y prevención
+- pubertad, reproducción y autocuidado
+- genética básica
+- adn, genes y cromosomas
+- evolución y selección natural
+- ecosistemas
+- cadenas y redes alimentarias
+- ciclos biogeoquímicos
+- biodiversidad
+- microorganismos
+- sistema inmune y vacunas
+- biotecnología
+- bioética
+- método científico en biología
+- microscopía
+- experimentos seguros con seres vivos
+- cambio climático y vida
+- conservación de especies
+- una salud
+- ciudadanía científica y salud

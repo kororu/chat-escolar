@@ -1,0 +1,32 @@
+# Índice de Astronomía — 4° medio
+
+- [Cosmología observacional](001_cosmologia_observacional.md) — cosmologia
+- [Ley de Hubble-Lemaître](002_ley_de_hubble_lema_tre.md) — cosmologia
+- [Corrimiento al rojo](003_corrimiento_al_rojo.md) — astronomia_general
+- [Escalera de distancias cósmicas](004_escalera_de_distancias_cosmicas.md) — astronomia_general
+- [Cefeidas](005_cefeidas.md) — astronomia_general
+- [Supernovas tipo Ia](006_supernovas_tipo_ia.md) — estrellas
+- [Radiación cósmica de fondo](007_radiacion_cosmica_de_fondo.md) — cosmologia
+- [Inflación cósmica inicial](008_inflacion_cosmica_inicial.md) — cosmologia
+- [Materia oscura: evidencias](009_materia_oscura_evidencias.md) — cosmologia
+- [Energía oscura: evidencias](010_energia_oscura_evidencias.md) — cosmologia
+- [Destino posible del universo](011_destino_posible_del_universo.md) — astronomia_general
+- [Agujeros negros estelares](012_agujeros_negros_estelares.md) — astronomia_general
+- [Agujeros negros supermasivos](013_agujeros_negros_supermasivos.md) — astronomia_general
+- [Fusión de agujeros negros](014_fusion_de_agujeros_negros.md) — astronomia_general
+- [Información y agujeros negros](015_informacion_y_agujeros_negros.md) — astronomia_general
+- [Galaxias activas y cuásares](016_galaxias_activas_y_cuasares.md) — galaxias
+- [Formación y evolución de galaxias](017_formacion_y_evolucion_de_galaxias.md) — galaxias
+- [Medio interestelar](018_medio_interestelar.md) — astronomia_general
+- [Química del universo](019_quimica_del_universo.md) — astronomia_general
+- [Origen de elementos químicos](020_origen_de_elementos_quimicos.md) — astronomia_general
+- [Astrobiología avanzada](021_astrobiologia_avanzada.md) — astrobiologia
+- [Habitabilidad planetaria](022_habitabilidad_planetaria.md) — sistema_solar
+- [Extremófilos y analogías](023_extremofilos_y_analogias.md) — astronomia_general
+- [Océanos subterráneos en lunas](024_oceanos_subterraneos_en_lunas.md) — tierra_luna
+- [SETI y tecnofirmas](025_seti_y_tecnofirmas.md) — astrobiologia
+- [Protección planetaria](026_proteccion_planetaria.md) — sistema_solar
+- [Derecho y gobernanza espacial](027_derecho_y_gobernanza_espacial.md) — astronomia_general
+- [Basura espacial y sostenibilidad orbital](028_basura_espacial_y_sostenibilidad_orbital.md) — exploracion_espacial
+- [Minería espacial y ética](029_mineria_espacial_y_etica.md) — exploracion_espacial
+- [Proyecto final sobre universo y sociedad](030_proyecto_final_sobre_universo_y_sociedad.md) — astronomia_general

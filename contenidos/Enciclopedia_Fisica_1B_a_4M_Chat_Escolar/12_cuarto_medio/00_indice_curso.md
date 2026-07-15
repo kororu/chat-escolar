@@ -1,0 +1,32 @@
+# Índice de Física — 4° medio
+
+- [Termodinámica y sociedad](001_termodinamica_y_sociedad.md) — termica
+- [Primera ley de la termodinámica](002_primera_ley_de_la_termodinamica.md) — termica
+- [Segunda ley de la termodinámica](003_segunda_ley_de_la_termodinamica.md) — termica
+- [Entropía inicial](004_entropia_inicial.md) — termica
+- [Máquinas térmicas](005_maquinas_termicas.md) — termica
+- [Bombas de calor y refrigeración](006_bombas_de_calor_y_refrigeracion.md) — termica
+- [Transición energética](007_transicion_energetica.md) — fisica_general
+- [Energía solar](008_energia_solar.md) — energia
+- [Energía eólica](009_energia_eolica.md) — energia
+- [Energía hidroeléctrica](010_energia_hidroelectrica.md) — energia
+- [Energía nuclear: fundamentos y debate](011_energia_nuclear_fundamentos_y_debate.md) — energia
+- [Almacenamiento de energía](012_almacenamiento_de_energia.md) — energia
+- [Redes eléctricas inteligentes](013_redes_electricas_inteligentes.md) — fisica_general
+- [Relatividad especial inicial](014_relatividad_especial_inicial.md) — astrofisica_fisica_moderna
+- [Espacio-tiempo](015_espacio_tiempo.md) — fisica_general
+- [Equivalencia masa-energía](016_equivalencia_masa_energia.md) — energia
+- [Relatividad general inicial](017_relatividad_general_inicial.md) — astrofisica_fisica_moderna
+- [Gravedad como curvatura del espacio-tiempo](018_gravedad_como_curvatura_del_espacio_tiempo.md) — astrofisica_fisica_moderna
+- [Física cuántica inicial](019_fisica_cuantica_inicial.md) — fisica_general
+- [Dualidad onda-partícula](020_dualidad_onda_particula.md) — ondas_sonido
+- [Cuantización de energía](021_cuantizacion_de_energia.md) — energia
+- [Átomo y espectros](022_atomo_y_espectros.md) — fisica_general
+- [Semiconductores](023_semiconductores.md) — fisica_general
+- [Láseres](024_laseres.md) — optica
+- [Física de estrellas](025_fisica_de_estrellas.md) — astrofisica_fisica_moderna
+- [Evolución estelar](026_evolucion_estelar.md) — fisica_general
+- [Galaxias y cosmología](027_galaxias_y_cosmologia.md) — astrofisica_fisica_moderna
+- [Materia oscura y energía oscura](028_materia_oscura_y_energia_oscura.md) — energia
+- [Big Bang y evidencias](029_big_bang_y_evidencias.md) — astrofisica_fisica_moderna
+- [Proyecto de investigación física aplicada](030_proyecto_de_investigacion_fisica_aplicada.md) — fisica_general

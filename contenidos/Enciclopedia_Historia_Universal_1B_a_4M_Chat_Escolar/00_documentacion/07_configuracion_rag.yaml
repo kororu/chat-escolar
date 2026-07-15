@@ -1,0 +1,30 @@
+collection: historia_universal
+include:
+  - "01_primero_basico/capitulos/**/*.md"
+  - "02_segundo_basico/capitulos/**/*.md"
+  - "03_tercero_basico/capitulos/**/*.md"
+  - "04_cuarto_basico/capitulos/**/*.md"
+  - "05_quinto_basico/capitulos/**/*.md"
+  - "06_sexto_basico/capitulos/**/*.md"
+  - "07_septimo_basico/capitulos/**/*.md"
+  - "08_octavo_basico/capitulos/**/*.md"
+  - "09_primero_medio/capitulos/**/*.md"
+  - "10_segundo_medio/capitulos/**/*.md"
+  - "11_tercero_medio/capitulos/**/*.md"
+  - "12_cuarto_medio/capitulos/**/*.md"
+  - "13_tematicos_transversales/**/*.md"
+exclude:
+  - "17_compendios/**"
+  - "**/evaluaciones/**"
+  - "**/bancos/**"
+chunking:
+  strategy: markdown_headings
+  target_characters: 1800
+  overlap_characters: 220
+retrieval:
+  top_k: 6
+  filters:
+    prefer_same_course: true
+    prefer_direct_alignment: true
+    include_transversal_when_specific: true
+  rerank: true

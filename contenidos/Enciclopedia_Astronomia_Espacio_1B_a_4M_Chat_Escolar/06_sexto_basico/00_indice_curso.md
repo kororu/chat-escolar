@@ -1,0 +1,26 @@
+# Índice de Astronomía — 6° básico
+
+- [Historia de los modelos del universo](001_historia_de_los_modelos_del_universo.md) — astronomia_general
+- [Modelo geocéntrico](002_modelo_geocentrico.md) — astronomia_general
+- [Modelo heliocéntrico](003_modelo_heliocentrico.md) — astronomia_general
+- [Aportes de Copérnico](004_aportes_de_copernico.md) — astronomia_general
+- [Observaciones de Galileo](005_observaciones_de_galileo.md) — astronomia_general
+- [Leyes de Kepler iniciales](006_leyes_de_kepler_iniciales.md) — gravedad_y_orbitas
+- [Gravitación de Newton inicial](007_gravitacion_de_newton_inicial.md) — gravedad_y_orbitas
+- [Órbitas elípticas](008_orbitas_elipticas.md) — gravedad_y_orbitas
+- [Sistema Tierra-Luna](009_sistema_tierra_luna.md) — tierra_luna
+- [Mareas y gravedad](010_mareas_y_gravedad.md) — tierra_luna
+- [Eclipses y geometría](011_eclipses_y_geometria.md) — tierra_luna
+- [Escalas astronómicas](012_escalas_astronomicas.md) — astronomia_general
+- [Unidad astronómica](013_unidad_astronomica.md) — astronomia_general
+- [Año luz](014_ano_luz.md) — astronomia_general
+- [Distancia y tiempo de la luz](015_distancia_y_tiempo_de_la_luz.md) — astronomia_general
+- [Estrellas y constelaciones](016_estrellas_y_constelaciones.md) — estrellas
+- [Nebulosas](017_nebulosas.md) — estrellas
+- [Cúmulos estelares](018_cumulos_estelares.md) — galaxias
+- [Galaxias](019_galaxias.md) — galaxias
+- [Vía Láctea](020_via_lactea.md) — galaxias
+- [Telescopios ópticos](021_telescopios_opticos.md) — astronomia_general
+- [Radiotelescopios](022_radiotelescopios.md) — astronomia_general
+- [Astronomía en Chile](023_astronomia_en_chile.md) — astronomia_general
+- [Cielos del norte de Chile](024_cielos_del_norte_de_chile.md) — astronomia_general

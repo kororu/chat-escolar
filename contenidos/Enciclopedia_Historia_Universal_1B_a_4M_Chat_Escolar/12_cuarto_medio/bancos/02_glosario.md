@@ -1,0 +1,77 @@
+# Glosario inicial — 4° medio
+
+- **Al:** Concepto vinculado con ciudades, segregación y derecho al espacio público; debe definirse dentro de su contexto histórico.
+- **Algoritmos:** Concepto vinculado con esfera pública digital, algoritmos y desinformación; debe definirse dentro de su contexto histórico.
+- **Armados:** Concepto vinculado con conflictos armados, construcción de paz y protección civil; debe definirse dentro de su contexto histórico.
+- **Artificial:** Concepto vinculado con inteligencia artificial, privacidad y ciudadanía; debe definirse dentro de su contexto histórico.
+- **Cambio:** Concepto vinculado con futuros históricos: continuidad, cambio y escenarios posibles; debe definirse dentro de su contexto histórico.
+- **Ciudadania:** Concepto vinculado con migraciones, refugio y ciudadanía transnacional; debe definirse dentro de su contexto histórico.
+- **Ciudades:** Concepto vinculado con ciudades, segregación y derecho al espacio público; debe definirse dentro de su contexto histórico.
+- **Civil:** Concepto vinculado con conflictos armados, construcción de paz y protección civil; debe definirse dentro de su contexto histórico.
+- **Climatica:** Concepto vinculado con justicia climática y responsabilidades históricas; debe definirse dentro de su contexto histórico.
+- **Comparada:** Concepto vinculado con instituciones democráticas en perspectiva histórica comparada; debe definirse dentro de su contexto histórico.
+- **Concentracion:** Concepto vinculado con desigualdad global y concentración de riqueza; debe definirse dentro de su contexto histórico.
+- **Confianza:** Concepto vinculado con representación, participación y crisis de confianza; debe definirse dentro de su contexto histórico.
+- **Conflictos:** Concepto vinculado con conflictos armados, construcción de paz y protección civil; debe definirse dentro de su contexto histórico.
+- **Construccion:** Concepto vinculado con conflictos armados, construcción de paz y protección civil; debe definirse dentro de su contexto histórico.
+- **Contemporaneo:** Concepto vinculado con libertad, igualdad y solidaridad en el debate contemporáneo; debe definirse dentro de su contexto histórico.
+- **Continuidad:** Concepto vinculado con futuros históricos: continuidad, cambio y escenarios posibles; debe definirse dentro de su contexto histórico.
+- **Crisis:** Concepto vinculado con representación, participación y crisis de confianza; debe definirse dentro de su contexto histórico.
+- **Debate:** Concepto vinculado con libertad, igualdad y solidaridad en el debate contemporáneo; debe definirse dentro de su contexto histórico.
+- **Democraticas:** Concepto vinculado con instituciones democráticas en perspectiva histórica comparada; debe definirse dentro de su contexto histórico.
+- **Derecho:** Concepto vinculado con ciudades, segregación y derecho al espacio público; debe definirse dentro de su contexto histórico.
+- **Derechos:** Concepto vinculado con derechos de pueblos indígenas en perspectiva global; debe definirse dentro de su contexto histórico.
+- **Desarrollo:** Concepto vinculado con modelos de desarrollo y economía mundial; debe definirse dentro de su contexto histórico.
+- **Desigualdad:** Concepto vinculado con desigualdad global y concentración de riqueza; debe definirse dentro de su contexto histórico.
+- **Desinformacion:** Concepto vinculado con esfera pública digital, algoritmos y desinformación; debe definirse dentro de su contexto histórico.
+- **Digital:** Concepto vinculado con esfera pública digital, algoritmos y desinformación; debe definirse dentro de su contexto histórico.
+- **Economia:** Concepto vinculado con modelos de desarrollo y economía mundial; debe definirse dentro de su contexto histórico.
+- **Escenarios:** Concepto vinculado con futuros históricos: continuidad, cambio y escenarios posibles; debe definirse dentro de su contexto histórico.
+- **Esfera:** Concepto vinculado con esfera pública digital, algoritmos y desinformación; debe definirse dentro de su contexto histórico.
+- **Espacio:** Concepto vinculado con ciudades, segregación y derecho al espacio público; debe definirse dentro de su contexto histórico.
+- **Feminismos:** Concepto vinculado con feminismos globales y transformaciones sociales; debe definirse dentro de su contexto histórico.
+- **Fundamentales:** Concepto vinculado con terrorismo, seguridad y derechos fundamentales; debe definirse dentro de su contexto histórico.
+- **Futuros:** Concepto vinculado con futuros históricos: continuidad, cambio y escenarios posibles; debe definirse dentro de su contexto histórico.
+- **Global:** Concepto vinculado con derechos de pueblos indígenas en perspectiva global; debe definirse dentro de su contexto histórico.
+- **Globales:** Concepto vinculado con feminismos globales y transformaciones sociales; debe definirse dentro de su contexto histórico.
+- **Gobernanza:** Concepto vinculado con gobernanza global y derecho internacional; debe definirse dentro de su contexto histórico.
+- **Historia:** Concepto vinculado con historia de los derechos laborales y protección social; debe definirse dentro de su contexto histórico.
+- **Historica:** Concepto vinculado con instituciones democráticas en perspectiva histórica comparada; debe definirse dentro de su contexto histórico.
+- **Historicas:** Concepto vinculado con justicia climática y responsabilidades históricas; debe definirse dentro de su contexto histórico.
+- **Historicos:** Concepto vinculado con futuros históricos: continuidad, cambio y escenarios posibles; debe definirse dentro de su contexto histórico.
+- **Igualdad:** Concepto vinculado con libertad, igualdad y solidaridad en el debate contemporáneo; debe definirse dentro de su contexto histórico.
+- **Indigenas:** Concepto vinculado con derechos de pueblos indígenas en perspectiva global; debe definirse dentro de su contexto histórico.
+- **Instituciones:** Concepto vinculado con instituciones democráticas en perspectiva histórica comparada; debe definirse dentro de su contexto histórico.
+- **Inteligencia:** Concepto vinculado con inteligencia artificial, privacidad y ciudadanía; debe definirse dentro de su contexto histórico.
+- **Internacional:** Concepto vinculado con gobernanza global y derecho internacional; debe definirse dentro de su contexto histórico.
+- **Justicia:** Concepto vinculado con justicia climática y responsabilidades históricas; debe definirse dentro de su contexto histórico.
+- **Laborales:** Concepto vinculado con historia de los derechos laborales y protección social; debe definirse dentro de su contexto histórico.
+- **Libertad:** Concepto vinculado con libertad, igualdad y solidaridad en el debate contemporáneo; debe definirse dentro de su contexto histórico.
+- **Migraciones:** Concepto vinculado con migraciones, refugio y ciudadanía transnacional; debe definirse dentro de su contexto histórico.
+- **Modelos:** Concepto vinculado con modelos de desarrollo y economía mundial; debe definirse dentro de su contexto histórico.
+- **Multipolar:** Concepto vinculado con orden mundial multipolar y nuevas potencias; debe definirse dentro de su contexto histórico.
+- **Mundial:** Concepto vinculado con orden mundial multipolar y nuevas potencias; debe definirse dentro de su contexto histórico.
+- **Nuevas:** Concepto vinculado con orden mundial multipolar y nuevas potencias; debe definirse dentro de su contexto histórico.
+- **Orden:** Concepto vinculado con orden mundial multipolar y nuevas potencias; debe definirse dentro de su contexto histórico.
+- **Participacion:** Concepto vinculado con representación, participación y crisis de confianza; debe definirse dentro de su contexto histórico.
+- **Paz:** Concepto vinculado con conflictos armados, construcción de paz y protección civil; debe definirse dentro de su contexto histórico.
+- **Perspectiva:** Concepto vinculado con derechos de pueblos indígenas en perspectiva global; debe definirse dentro de su contexto histórico.
+- **Posibles:** Concepto vinculado con futuros históricos: continuidad, cambio y escenarios posibles; debe definirse dentro de su contexto histórico.
+- **Potencias:** Concepto vinculado con orden mundial multipolar y nuevas potencias; debe definirse dentro de su contexto histórico.
+- **Privacidad:** Concepto vinculado con inteligencia artificial, privacidad y ciudadanía; debe definirse dentro de su contexto histórico.
+- **Proteccion:** Concepto vinculado con conflictos armados, construcción de paz y protección civil; debe definirse dentro de su contexto histórico.
+- **Publica:** Concepto vinculado con esfera pública digital, algoritmos y desinformación; debe definirse dentro de su contexto histórico.
+- **Publico:** Concepto vinculado con ciudades, segregación y derecho al espacio público; debe definirse dentro de su contexto histórico.
+- **Pueblos:** Concepto vinculado con derechos de pueblos indígenas en perspectiva global; debe definirse dentro de su contexto histórico.
+- **Refugio:** Concepto vinculado con migraciones, refugio y ciudadanía transnacional; debe definirse dentro de su contexto histórico.
+- **Representacion:** Concepto vinculado con representación, participación y crisis de confianza; debe definirse dentro de su contexto histórico.
+- **Responsabilidades:** Concepto vinculado con justicia climática y responsabilidades históricas; debe definirse dentro de su contexto histórico.
+- **Riqueza:** Concepto vinculado con desigualdad global y concentración de riqueza; debe definirse dentro de su contexto histórico.
+- **Segregacion:** Concepto vinculado con ciudades, segregación y derecho al espacio público; debe definirse dentro de su contexto histórico.
+- **Seguridad:** Concepto vinculado con terrorismo, seguridad y derechos fundamentales; debe definirse dentro de su contexto histórico.
+- **Social:** Concepto vinculado con historia de los derechos laborales y protección social; debe definirse dentro de su contexto histórico.
+- **Sociales:** Concepto vinculado con feminismos globales y transformaciones sociales; debe definirse dentro de su contexto histórico.
+- **Solidaridad:** Concepto vinculado con libertad, igualdad y solidaridad en el debate contemporáneo; debe definirse dentro de su contexto histórico.
+- **Terrorismo:** Concepto vinculado con terrorismo, seguridad y derechos fundamentales; debe definirse dentro de su contexto histórico.
+- **Transformaciones:** Concepto vinculado con feminismos globales y transformaciones sociales; debe definirse dentro de su contexto histórico.
+- **Transnacional:** Concepto vinculado con migraciones, refugio y ciudadanía transnacional; debe definirse dentro de su contexto histórico.

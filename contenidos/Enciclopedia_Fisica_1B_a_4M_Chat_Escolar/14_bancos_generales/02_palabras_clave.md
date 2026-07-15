@@ -1,0 +1,309 @@
+# Palabras clave
+
+- empujar y tirar
+- cambios de forma por una fuerza
+- objetos que se mueven y objetos en reposo
+- movimiento rápido y lento
+- trayectorias simples
+- luz natural y artificial
+- sombras
+- materiales transparentes y opacos
+- sonidos del entorno
+- vibración y sonido inicial
+- calor y objetos calientes o fríos
+- cambios de materiales por calor
+- el sol como fuente de luz y calor
+- seguridad con calor, luz y fuerza
+- observar y comparar movimientos
+- fuerzas de contacto
+- empujar, tirar y detener
+- cambios de dirección
+- rapidez cualitativa
+- trayectorias rectas y curvas
+- gravedad como caída de objetos
+- fricción inicial
+- sonido fuerte y suave
+- sonido agudo y grave
+- fuentes de sonido
+- propagación del sonido inicial
+- luz y formación de sombras
+- reflexión en espejos
+- temperatura cotidiana
+- medición con termómetro inicial
+- máquinas simples en casa
+- fuerza y sus efectos
+- fuerza de gravedad
+- fuerza de roce
+- fuerza elástica inicial
+- rapidez y tiempo
+- distancia recorrida
+- máquinas simples: palanca
+- máquinas simples: polea
+- máquinas simples: plano inclinado
+- fuentes de luz
+- propagación rectilínea de la luz
+- reflexión de la luz
+- absorción de luz
+- colores y luz
+- producción del sonido
+- tono e intensidad
+- transmisión del sonido
+- sistema solar y movimiento aparente
+- masa y peso inicial
+- gravedad en la tierra
+- fricción y superficies
+- elasticidad
+- fuerza neta inicial
+- movimiento y sistema de referencia
+- rapidez promedio inicial
+- energía de movimiento
+- energía almacenada
+- transformaciones de energía
+- calor y temperatura
+- conducción térmica
+- aislantes térmicos
+- cambios de estado y energía
+- circuito eléctrico simple
+- circuito abierto y cerrado
+- conductores y aislantes eléctricos
+- imanes y polos
+- atracción y repulsión magnética
+- seguridad eléctrica
+- fuerzas equilibradas y no equilibradas
+- peso y masa
+- movimiento uniforme inicial
+- gráficos distancia-tiempo iniciales
+- trabajo mecánico inicial
+- energía cinética
+- energía potencial gravitatoria
+- energía potencial elástica
+- conservación de energía inicial
+- electricidad y carga
+- corriente eléctrica
+- voltaje inicial
+- resistencia inicial
+- circuitos en serie
+- circuitos en paralelo
+- potencia eléctrica inicial
+- consumo eléctrico
+- magnetismo
+- electroimanes
+- ondas en cuerdas
+- sonido y audición
+- luz y visión
+- mareas y gravedad
+- experimentos de física seguros
+- fuerza como vector inicial
+- diagramas de fuerzas
+- peso, normal y roce
+- fuerza elástica y ley de hooke inicial
+- rapidez, distancia y tiempo
+- velocidad y dirección
+- aceleración inicial
+- energía cinética y potencial
+- transformaciones de energía
+- conservación de la energía
+- eficiencia energética
+- calor y temperatura
+- conducción, convección y radiación
+- dilatación térmica
+- presión en sólidos
+- presión en líquidos
+- presión atmosférica
+- flotación inicial
+- electricidad estática
+- circuitos y seguridad
+- generación eléctrica
+- energías renovables
+- gravedad y órbitas
+- eclipses y movimiento celeste
+- fuerza peso
+- fuerza de roce
+- fuerza elástica
+- fuerza normal
+- fuerza neta
+- diagramas de cuerpo libre
+- deformación y movimiento
+- leyes de newton iniciales
+- presión en sólidos
+- presión en líquidos
+- principio de pascal inicial
+- empuje y flotación
+- trabajo mecánico
+- potencia mecánica
+- máquinas simples
+- ventaja mecánica
+- temperatura y escalas
+- calor como transferencia de energía
+- cambios de estado
+- modelo cinético de partículas
+- gases y presión
+- tectónica y fuerzas internas
+- ondas sísmicas iniciales
+- investigación experimental en física
+- carga eléctrica
+- electricidad positiva y negativa
+- electrización por fricción
+- electrización por contacto
+- electrización por inducción
+- fuerza eléctrica
+- campo eléctrico inicial
+- corriente eléctrica
+- voltaje
+- resistencia
+- ley de ohm inicial
+- circuitos serie y paralelo
+- potencia y energía eléctrica
+- generación de electricidad
+- pilas y baterías
+- paneles fotovoltaicos
+- generadores eólicos e hidroeléctricos
+- riesgos eléctricos
+- calor y temperatura
+- equilibrio térmico
+- conducción
+- convección
+- radiación térmica
+- capacidad térmica inicial
+- dilatación térmica
+- tecnologías térmicas
+- qué es una onda
+- ondas mecánicas y electromagnéticas
+- ondas transversales y longitudinales
+- amplitud
+- frecuencia
+- período
+- longitud de onda
+- velocidad de propagación
+- reflexión de ondas
+- refracción de ondas
+- absorción
+- interferencia
+- difracción
+- efecto doppler
+- producción del sonido
+- propagación del sonido
+- tono, intensidad y timbre
+- resonancia
+- audición y contaminación acústica
+- naturaleza de la luz
+- reflexión de la luz
+- refracción de la luz
+- espejos
+- lentes
+- color y espectro visible
+- percepción visual
+- ondas sísmicas
+- sismos, tsunamis y medición
+- sistema de referencia
+- posición y desplazamiento
+- distancia y trayectoria
+- rapidez media
+- velocidad media
+- aceleración
+- movimiento rectilíneo uniforme
+- movimiento rectilíneo uniformemente acelerado
+- caída libre
+- gráficos posición-tiempo
+- gráficos velocidad-tiempo
+- vectores
+- primera ley de newton
+- segunda ley de newton
+- tercera ley de newton
+- fuerzas de roce
+- movimiento circular
+- gravitación universal
+- órbitas y satélites
+- trabajo
+- energía cinética
+- energía potencial
+- conservación de energía mecánica
+- potencia
+- impulso
+- cantidad de movimiento
+- conservación del momentum
+- colisiones
+- electricidad y magnetismo integrados
+- diseño y análisis de experimentos
+- energía en sistemas cotidianos
+- eficiencia y pérdidas de energía
+- matriz energética
+- generación eléctrica
+- transmisión y distribución eléctrica
+- consumo responsable de energía
+- seguridad eléctrica y prevención
+- radiación electromagnética y salud
+- ondas en telecomunicaciones
+- gps y relatividad como profundización
+- sensores y medición
+- física del transporte
+- física de edificaciones
+- aislamiento térmico
+- confort térmico
+- riesgo sísmico y diseño estructural
+- tecnología médica basada en física
+- imágenes médicas
+- sonido y salud auditiva
+- contaminación lumínica
+- cambio climático y balance energético
+- modelación física con datos
+- incertidumbre de medición
+- proyecto de física ciudadana
+- termodinámica y sociedad
+- primera ley de la termodinámica
+- segunda ley de la termodinámica
+- entropía inicial
+- máquinas térmicas
+- bombas de calor y refrigeración
+- transición energética
+- energía solar
+- energía eólica
+- energía hidroeléctrica
+- energía nuclear: fundamentos y debate
+- almacenamiento de energía
+- redes eléctricas inteligentes
+- relatividad especial inicial
+- espacio-tiempo
+- equivalencia masa-energía
+- relatividad general inicial
+- gravedad como curvatura del espacio-tiempo
+- física cuántica inicial
+- dualidad onda-partícula
+- cuantización de energía
+- átomo y espectros
+- semiconductores
+- láseres
+- física de estrellas
+- evolución estelar
+- galaxias y cosmología
+- materia oscura y energía oscura
+- big bang y evidencias
+- proyecto de investigación física aplicada
+- qué estudia la física
+- medición y unidades
+- escalares y vectores
+- movimiento
+- fuerza
+- gravedad
+- energía
+- trabajo y potencia
+- calor y temperatura
+- termodinámica
+- luz y óptica
+- sonido
+- ondas
+- electricidad
+- magnetismo
+- presión y fluidos
+- máquinas simples
+- física de la tierra
+- física del universo
+- modelos y analogías en física
+- método experimental
+- incertidumbre y error
+- gráficos y ecuaciones
+- seguridad en experimentos
+- física y vida diaria
+- física, tecnología y sociedad
+- energía y ambiente
+- ciudadanía científica y controversias físicas

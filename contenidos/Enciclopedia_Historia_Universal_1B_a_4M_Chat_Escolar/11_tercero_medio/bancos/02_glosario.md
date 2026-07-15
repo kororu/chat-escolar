@@ -1,0 +1,58 @@
+# Glosario inicial — 3° medio
+
+- **Ampliacion:** Concepto vinculado con género, diversidades y ampliación de derechos; debe definirse dentro de su contexto histórico.
+- **Antropoceno:** Concepto vinculado con antropoceno y crisis socioambiental; debe definirse dentro de su contexto histórico.
+- **Cadenas:** Concepto vinculado con cadenas globales de producción y consumo; debe definirse dentro de su contexto histórico.
+- **Ciudadania:** Concepto vinculado con democracia y ciudadanía en perspectiva comparada; debe definirse dentro de su contexto histórico.
+- **Comparada:** Concepto vinculado con democracia y ciudadanía en perspectiva comparada; debe definirse dentro de su contexto histórico.
+- **Consumo:** Concepto vinculado con cadenas globales de producción y consumo; debe definirse dentro de su contexto histórico.
+- **Contemporaneas:** Concepto vinculado con migraciones, refugio y diásporas contemporáneas; debe definirse dentro de su contexto histórico.
+- **Crisis:** Concepto vinculado con antropoceno y crisis socioambiental; debe definirse dentro de su contexto histórico.
+- **Datos:** Concepto vinculado con datos, vigilancia y poder en la era digital; debe definirse dentro de su contexto histórico.
+- **Decoloniales:** Concepto vinculado con perspectivas poscoloniales y decoloniales; debe definirse dentro de su contexto histórico.
+- **Democracia:** Concepto vinculado con democracia y ciudadanía en perspectiva comparada; debe definirse dentro de su contexto histórico.
+- **Derechos:** Concepto vinculado con género, diversidades y ampliación de derechos; debe definirse dentro de su contexto histórico.
+- **Desinformacion:** Concepto vinculado con medios, propaganda y desinformación; debe definirse dentro de su contexto histórico.
+- **Despues:** Concepto vinculado con justicia transicional y memoria después de la violencia; debe definirse dentro de su contexto histórico.
+- **Diasporas:** Concepto vinculado con migraciones, refugio y diásporas contemporáneas; debe definirse dentro de su contexto histórico.
+- **Digital:** Concepto vinculado con datos, vigilancia y poder en la era digital; debe definirse dentro de su contexto histórico.
+- **Diversidades:** Concepto vinculado con género, diversidades y ampliación de derechos; debe definirse dentro de su contexto histórico.
+- **Era:** Concepto vinculado con datos, vigilancia y poder en la era digital; debe definirse dentro de su contexto histórico.
+- **Genero:** Concepto vinculado con género, diversidades y ampliación de derechos; debe definirse dentro de su contexto histórico.
+- **Global:** Concepto vinculado con método de investigación en historia reciente global; debe definirse dentro de su contexto histórico.
+- **Globales:** Concepto vinculado con cadenas globales de producción y consumo; debe definirse dentro de su contexto histórico.
+- **Gobernanza:** Concepto vinculado con organizaciones internacionales y gobernanza global; debe definirse dentro de su contexto histórico.
+- **Historia:** Concepto vinculado con método de investigación en historia reciente global; debe definirse dentro de su contexto histórico.
+- **Historicas:** Concepto vinculado con transformaciones históricas del trabajo; debe definirse dentro de su contexto histórico.
+- **Humanos:** Concepto vinculado con historia de los derechos humanos y sistemas internacionales; debe definirse dentro de su contexto histórico.
+- **Internacionales:** Concepto vinculado con organizaciones internacionales y gobernanza global; debe definirse dentro de su contexto histórico.
+- **Investigacion:** Concepto vinculado con método de investigación en historia reciente global; debe definirse dentro de su contexto histórico.
+- **Justicia:** Concepto vinculado con justicia transicional y memoria después de la violencia; debe definirse dentro de su contexto histórico.
+- **Medios:** Concepto vinculado con medios, propaganda y desinformación; debe definirse dentro de su contexto histórico.
+- **Memoria:** Concepto vinculado con justicia transicional y memoria después de la violencia; debe definirse dentro de su contexto histórico.
+- **Metodo:** Concepto vinculado con método de investigación en historia reciente global; debe definirse dentro de su contexto histórico.
+- **Migraciones:** Concepto vinculado con migraciones, refugio y diásporas contemporáneas; debe definirse dentro de su contexto histórico.
+- **Movimientos:** Concepto vinculado con movimientos sociales transnacionales; debe definirse dentro de su contexto histórico.
+- **Organizaciones:** Concepto vinculado con organizaciones internacionales y gobernanza global; debe definirse dentro de su contexto histórico.
+- **Pandemias:** Concepto vinculado con historia global de la salud y las pandemias; debe definirse dentro de su contexto histórico.
+- **Perspectiva:** Concepto vinculado con democracia y ciudadanía en perspectiva comparada; debe definirse dentro de su contexto histórico.
+- **Perspectivas:** Concepto vinculado con perspectivas poscoloniales y decoloniales; debe definirse dentro de su contexto histórico.
+- **Poder:** Concepto vinculado con datos, vigilancia y poder en la era digital; debe definirse dentro de su contexto histórico.
+- **Poscoloniales:** Concepto vinculado con perspectivas poscoloniales y decoloniales; debe definirse dentro de su contexto histórico.
+- **Presente:** Concepto vinculado con historia del tiempo presente y problemas globales; debe definirse dentro de su contexto histórico.
+- **Problemas:** Concepto vinculado con historia del tiempo presente y problemas globales; debe definirse dentro de su contexto histórico.
+- **Produccion:** Concepto vinculado con cadenas globales de producción y consumo; debe definirse dentro de su contexto histórico.
+- **Propaganda:** Concepto vinculado con medios, propaganda y desinformación; debe definirse dentro de su contexto histórico.
+- **Reciente:** Concepto vinculado con método de investigación en historia reciente global; debe definirse dentro de su contexto histórico.
+- **Refugio:** Concepto vinculado con migraciones, refugio y diásporas contemporáneas; debe definirse dentro de su contexto histórico.
+- **Salud:** Concepto vinculado con historia global de la salud y las pandemias; debe definirse dentro de su contexto histórico.
+- **Sistemas:** Concepto vinculado con historia de los derechos humanos y sistemas internacionales; debe definirse dentro de su contexto histórico.
+- **Sociales:** Concepto vinculado con movimientos sociales transnacionales; debe definirse dentro de su contexto histórico.
+- **Socioambiental:** Concepto vinculado con antropoceno y crisis socioambiental; debe definirse dentro de su contexto histórico.
+- **Tiempo:** Concepto vinculado con historia del tiempo presente y problemas globales; debe definirse dentro de su contexto histórico.
+- **Trabajo:** Concepto vinculado con transformaciones históricas del trabajo; debe definirse dentro de su contexto histórico.
+- **Transformaciones:** Concepto vinculado con transformaciones históricas del trabajo; debe definirse dentro de su contexto histórico.
+- **Transicional:** Concepto vinculado con justicia transicional y memoria después de la violencia; debe definirse dentro de su contexto histórico.
+- **Transnacionales:** Concepto vinculado con movimientos sociales transnacionales; debe definirse dentro de su contexto histórico.
+- **Vigilancia:** Concepto vinculado con datos, vigilancia y poder en la era digital; debe definirse dentro de su contexto histórico.
+- **Violencia:** Concepto vinculado con justicia transicional y memoria después de la violencia; debe definirse dentro de su contexto histórico.

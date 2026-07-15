@@ -1,0 +1,329 @@
+# Palabras clave
+
+- Congreso
+- Constitución
+- Contraloría
+- Cámara
+- Defensoría
+- Ejecutivo
+- Estado
+- Estado de derecho
+- Fiscalía
+- Judicial
+- Legislativo
+- Poder Judicial
+- Presidencia
+- Presidente
+- República
+- Senado
+- acceso
+- acceso a justicia
+- acción
+- acción afirmativa
+- actor
+- acuerdo
+- administración
+- adulto de confianza
+- agenda
+- ajuste
+- alcalde
+- alcaldía
+- algoritmo
+- amenaza
+- arbitraje
+- argumento
+- asamblea
+- audiencia
+- auditoría
+- autoridad
+- autoría
+- ayuda
+- biblioteca
+- bien común
+- bien público
+- bloquear
+- bomberos
+- buen trato
+- burbuja informativa
+- calma
+- candidato
+- carabineros
+- cargo
+- centro de estudiantes
+- ciberacoso
+- ciudadanía
+- ciudadanía global
+- civil
+- club
+- compromiso
+- comuna
+- comunidad
+- concejal
+- concejo
+- concejo municipal
+- confianza
+- conflicto
+- conflicto de interés
+- consecuencia
+- consenso
+- consentimiento
+- consulta
+- consumidor
+- contrapeso
+- contraseña
+- contrato
+- control
+- control constitucional
+- control social
+- controversia
+- convivencia
+- cooperación
+- corrupción
+- costo
+- cuidado
+- cultura
+- culturales
+- dato
+- dato personal
+- daño
+- deber
+- debido proceso
+- decisión automatizada
+- defensa
+- deliberación
+- demanda
+- democracia
+- denuncia
+- derecho
+- derecho digital
+- derecho fundamental
+- derechos
+- derechos civiles
+- derechos del niño
+- derechos fundamentales
+- derechos humanos
+- derechos políticos
+- descentralización
+- desigualdad
+- desinformación
+- diagnóstico
+- dictadura
+- dignidad
+- diputado
+- dirección
+- directiva
+- discriminación
+- discurso de odio
+- discusión
+- distrito
+- diversidad
+- diálogo
+- educación
+- elección
+- emergencia
+- emoción
+- equidad
+- escaño
+- escucha
+- escuchar
+- escuela
+- estatuto
+- evaluación
+- evidencia
+- exclusión
+- expresión
+- familia
+- finalidad
+- fiscalización
+- fiscalizar
+- fuente
+- fundación
+- garantizar
+- garantía
+- gasto
+- gobierno
+- gobierno regional
+- guardar evidencia
+- honestidad
+- honra
+- hospital
+- huella digital
+- identidad
+- igualdad
+- igualdad ante la ley
+- imagen
+- impacto
+- imparcialidad
+- implementación
+- impuesto
+- imputado
+- incidencia
+- inclusión
+- independencia
+- indivisibilidad
+- información
+- información pública
+- ingreso
+- iniciativa
+- instituciones
+- institución
+- inteligencia artificial
+- internet
+- interés
+- investigación
+- juez
+- junta de vecinos
+- justicia
+- justicia ambiental
+- justicia restaurativa
+- justicia social
+- laboral
+- legalidad
+- legislar
+- legitimidad
+- ley
+- libertad
+- libertad de expresión
+- límite al poder
+- mandato
+- manifestación
+- material
+- mayoría
+- mediación
+- mediador
+- medio
+- memoria
+- mensaje
+- migración
+- ministerio
+- minoría
+- moción
+- moderación
+- movilización
+- movimiento social
+- municipalidad
+- municipio
+- nacionalidad
+- negociación
+- niñez
+- nombre
+- norma
+- objetivo
+- opción
+- opinión
+- opinión pública
+- orden público
+- ordenanza
+- organización
+- organización vecinal
+- pacífica
+- participación
+- participación local
+- partido
+- partido político
+- patrimonio
+- pedir ayuda
+- penal
+- permiso
+- pertenencia
+- petición
+- plataforma
+- plaza
+- plebiscito
+- pluralismo
+- poder
+- poder constituyente
+- policía
+- polis
+- política pública
+- políticos
+- presidencialismo
+- presunción de inocencia
+- presupuesto
+- prevención
+- prioridad
+- privacidad
+- probidad
+- problema
+- problema público
+- procedimiento
+- proceso
+- programa
+- promulgación
+- proporcionalidad
+- propuesta
+- protección
+- proteger
+- protesta
+- proyecto
+- proyecto de ley
+- publicación
+- quórum
+- razón
+- recurso
+- reforma
+- reforma constitucional
+- región
+- regla
+- reglamento
+- reinserción
+- rendición
+- rendición de cuentas
+- reparación
+- representación
+- representante
+- república
+- respetar
+- respeto
+- responsabilidad
+- responsabilidad civil
+- responsabilidad penal adolescente
+- reunión
+- revolución
+- rumor
+- régimen político
+- salud
+- sanción
+- secreto
+- seguridad
+- seguridad pública
+- seguridad social
+- senador
+- separación
+- separación de poderes
+- servicio
+- servicio público
+- sesgo
+- sindicato
+- sistema de gobierno
+- sistema electoral
+- sistema internacional
+- soberanía popular
+- sociales
+- solidaridad
+- solución
+- sufragio
+- supremacía
+- sustentabilidad
+- tarea
+- territorio
+- tolerancia
+- trabajo
+- transición
+- transparencia
+- tratado
+- tribunal
+- tribunal constitucional
+- tribunales
+- turno
+- universalidad
+- verdad
+- verificación
+- verificar
+- vigilancia
+- violación de derechos humanos
+- voluntariado
+- votación
+- voto
+- víctima
+- órganos autónomos

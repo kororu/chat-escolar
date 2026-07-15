@@ -1,0 +1,1902 @@
+[
+  {
+    "path": "00_documentacion/00_indice_maestro.md",
+    "size": 2899,
+    "sha256": "1888dad98975d1ab1c466ffdf28b61cfc654bd2e41d673d57dbdce367c3bb5e8"
+  },
+  {
+    "path": "00_documentacion/00_instalacion.md",
+    "size": 147,
+    "sha256": "35cb1ad5fd9940cf464a72bc374801ab7c594b8555048fcb96730a062fc0737b"
+  },
+  {
+    "path": "00_documentacion/01_estado_curricular_y_fuentes.md",
+    "size": 321,
+    "sha256": "8b8a0bc9100452f13057a8c580374e8b51e3704007b5db330817f7f76b2c496c"
+  },
+  {
+    "path": "00_documentacion/02_arquitectura_de_contenidos.md",
+    "size": 142,
+    "sha256": "050e9d9f3bcca87d5499bbb2750ec4e69fe29d3baa525591ae56d067bbc7855e"
+  },
+  {
+    "path": "00_documentacion/03_guia_editorial_quimica.md",
+    "size": 145,
+    "sha256": "2a94520943d611313c094564e6b246ff17ed065aacee6be8f187064f75d98b3b"
+  },
+  {
+    "path": "00_documentacion/04_mapa_vertical_curricular.md",
+    "size": 6423,
+    "sha256": "808620e14d7185b02015057d6de50e0270afcc4a3585b019519381f6f731efa1"
+  },
+  {
+    "path": "00_documentacion/05_integracion_ollama_rag.md",
+    "size": 143,
+    "sha256": "ad5877544a6668859241618f39c34a1d612fc62096c02a39ce23ae080a63928d"
+  },
+  {
+    "path": "00_documentacion/06_prompt_sistema_ollama.md",
+    "size": 103,
+    "sha256": "5f4d50408eed37c2a9c8096795589ce7e4eeb2b69bd7845c96b1760ecb5482c7"
+  },
+  {
+    "path": "00_documentacion/07_configuracion_rag.yaml",
+    "size": 120,
+    "sha256": "279e62201bf018f285a7b709814f9d7f8a2f14df0af03a4a9ae021b03fab0a2e"
+  },
+  {
+    "path": "01_primero_basico/001_materiales_cotidianos.md",
+    "size": 4191,
+    "sha256": "0da052734a9c7323d299cdfb84b97030f44b239634cf3e9ef5167f75f2ae7547"
+  },
+  {
+    "path": "01_primero_basico/002_propiedades_observables.md",
+    "size": 4203,
+    "sha256": "6afcc3980f106ce47be3e0935083cccbc35817ca25c14fc415ffdbfd0403683a"
+  },
+  {
+    "path": "01_primero_basico/003_duro_y_blando.md",
+    "size": 4143,
+    "sha256": "cc7f88d89a23ce4fbc8df04e96e5f848cd8f46806f040f25ddb620d4998b4b4d"
+  },
+  {
+    "path": "01_primero_basico/004_flexible_y_rigido.md",
+    "size": 4172,
+    "sha256": "5e8468ccd4ec552c8ec7eb0d462a808e05b149337e9544cbdffb76233b1883f3"
+  },
+  {
+    "path": "01_primero_basico/005_transparente_y_opaco.md",
+    "size": 4185,
+    "sha256": "0a79df6d6a5b1d6727e5ef5ceb25b4b11c39b4b35719cd133366c7c8f65824bd"
+  },
+  {
+    "path": "01_primero_basico/006_absorcion_de_agua.md",
+    "size": 4171,
+    "sha256": "38d4181d1c107414dad6842ba70d175205e223de6d432ad9028d286ecbb16bc1"
+  },
+  {
+    "path": "01_primero_basico/007_materiales_naturales_y_elaborados.md",
+    "size": 4263,
+    "sha256": "1e8d4e3f3dcca3422c4950804e0b765e5d110c6da7292ba4930bb07f9e7ad190"
+  },
+  {
+    "path": "01_primero_basico/008_cambios_por_calor.md",
+    "size": 4167,
+    "sha256": "852774677c18ee4081ec5139554b1801b4cb200e3f8ca0192128ad4fae3a8539"
+  },
+  {
+    "path": "01_primero_basico/009_cambios_por_frio.md",
+    "size": 4166,
+    "sha256": "689eefb872b02730bd5f35a91036f29f2b9035630b7b869a8609dc598082df2e"
+  },
+  {
+    "path": "01_primero_basico/00_indice_curso.md",
+    "size": 855,
+    "sha256": "a4ff87ad57bce0d1018cdaae0b86f4c4985d48fd2634bd4e177032c33e9e7d29"
+  },
+  {
+    "path": "01_primero_basico/010_mezclas_seguras.md",
+    "size": 4154,
+    "sha256": "ad9bec6204dde264338ac5f081965a55b32ebfff6681474afbd1fb3b95a5b1f7"
+  },
+  {
+    "path": "01_primero_basico/011_agua_cotidiana.md",
+    "size": 4139,
+    "sha256": "66716e06035cc17abb537f7d842d8ff60783a6ff837566e300aab46cf34ceb54"
+  },
+  {
+    "path": "01_primero_basico/012_aire_ocupa_espacio.md",
+    "size": 4173,
+    "sha256": "8a7bd0480e20b6d4339bfbd8bef22182a887e8d39a02ee814c121da7ff135d35"
+  },
+  {
+    "path": "01_primero_basico/013_clasificacion_de_objetos.md",
+    "size": 4213,
+    "sha256": "bc5faecca1d1ae4ae2059a9d7fbe684697f34488ac27b7ac282f03991a10c3ae"
+  },
+  {
+    "path": "01_primero_basico/014_reutilizacion_de_materiales.md",
+    "size": 4231,
+    "sha256": "45e68fc9d2e5968ad0a342c930295f6ca0a84959b539aef039a404ab502a946f"
+  },
+  {
+    "path": "01_primero_basico/015_seguridad_al_observar_sustancias.md",
+    "size": 4247,
+    "sha256": "7b27a3618a8b2c4dac74056c76c7351e705ca6dd31e83972212fbb6075a67149"
+  },
+  {
+    "path": "01_primero_basico/01_glosario_curso.md",
+    "size": 171,
+    "sha256": "8e1f76999f4b74f4844f200fae8a61e8d5ce17f9d11a8ac5ccc5c0508f41e8fd"
+  },
+  {
+    "path": "01_primero_basico/02_banco_preguntas.md",
+    "size": 2073,
+    "sha256": "cbc7af94ee494fa151d1d25a557ab53e2501d56d6b7465b129b7abba88f18002"
+  },
+  {
+    "path": "02_segundo_basico/001_estados_del_agua.md",
+    "size": 4151,
+    "sha256": "efc75d1245f9a3dedb2ace9489c0461b83b6ae47a70f8f263d2f2b5c2c4fc1e3"
+  },
+  {
+    "path": "02_segundo_basico/002_solidos_liquidos_y_gases.md",
+    "size": 4219,
+    "sha256": "f76b9a00957a5e96707e7a260048add86f1d51736db63568f4c4f1b09fa96eef"
+  },
+  {
+    "path": "02_segundo_basico/003_fusion.md",
+    "size": 4105,
+    "sha256": "e0aa7633692abd5d00693be6f7288d2361a76c574d21d8f5ca196fed9cf46894"
+  },
+  {
+    "path": "02_segundo_basico/004_congelacion.md",
+    "size": 4135,
+    "sha256": "8657a32293bab8d444ed46792ffaeba6a15a0d5f1c5fb8ca60e6fb2b0b552d4c"
+  },
+  {
+    "path": "02_segundo_basico/005_evaporacion.md",
+    "size": 4135,
+    "sha256": "179ba909d8bf28d453617f4ada1a80659f38233adbb12768fea4ef0b6c026314"
+  },
+  {
+    "path": "02_segundo_basico/006_condensacion.md",
+    "size": 4141,
+    "sha256": "fa75b0914ee31e7ac8ef061668e3ec11ceea87360da2be06406267a61238dabc"
+  },
+  {
+    "path": "02_segundo_basico/007_cambios_reversibles.md",
+    "size": 4179,
+    "sha256": "ee22edb3a707d4239490a896e662fa5ad2090ff9890225f29f206876ac5a4392"
+  },
+  {
+    "path": "02_segundo_basico/008_cambios_irreversibles.md",
+    "size": 4191,
+    "sha256": "20a3b9533c51f7568fabaa42c36e2ca4870f67c6996451c4f82be2679a7ce191"
+  },
+  {
+    "path": "02_segundo_basico/009_mezclas_visibles.md",
+    "size": 4160,
+    "sha256": "86929520269f5b4929c69ffeec4c121c103d9412c44c8b25882e0e70d56dcae0"
+  },
+  {
+    "path": "02_segundo_basico/00_indice_curso.md",
+    "size": 821,
+    "sha256": "8c978f1570db1720de1847635f59c5fe9c1a5ab0752c78d7e5ecda67b09333e2"
+  },
+  {
+    "path": "02_segundo_basico/010_disolucion_de_sal_y_azucar.md",
+    "size": 4230,
+    "sha256": "62c381e905fddc97cbbf621e6d97e835b96f6aab437090d831e7fddb73dbe391"
+  },
+  {
+    "path": "02_segundo_basico/011_soluble_e_insoluble.md",
+    "size": 4178,
+    "sha256": "e81cbc6957442ef6b445acb70e6ac000a5caa184946db2bef37f5a99b0288ccc"
+  },
+  {
+    "path": "02_segundo_basico/012_filtracion_simple.md",
+    "size": 4171,
+    "sha256": "f2ff841f17d429138230e14ed80061c17d2e08d7f7e911dac5ae23acb0300cc6"
+  },
+  {
+    "path": "02_segundo_basico/013_decantacion_simple.md",
+    "size": 4177,
+    "sha256": "09c8f4b55e4c4b1ca48424c5f4b0b2edcebd0d21b57718e17445d4701f6c18cb"
+  },
+  {
+    "path": "02_segundo_basico/014_propiedades_y_usos.md",
+    "size": 4173,
+    "sha256": "3ae12161001b2d8a84cff05f6cdccc64df7ddc08f86034ace269fb445e5704fd"
+  },
+  {
+    "path": "02_segundo_basico/015_residuos_y_reciclaje.md",
+    "size": 4185,
+    "sha256": "90224a47ce730f16d06657414143f636cb16d532ebdd6f36aa60d9a9dfd831ec"
+  },
+  {
+    "path": "02_segundo_basico/016_preguntas_quimicas_simples.md",
+    "size": 4226,
+    "sha256": "faf1a166d44e1bcb0b11eafd3cb91a562eadef707f1dcb77e48e599138d38f3d"
+  },
+  {
+    "path": "02_segundo_basico/01_glosario_curso.md",
+    "size": 171,
+    "sha256": "8e1f76999f4b74f4844f200fae8a61e8d5ce17f9d11a8ac5ccc5c0508f41e8fd"
+  },
+  {
+    "path": "02_segundo_basico/02_banco_preguntas.md",
+    "size": 2168,
+    "sha256": "4531c632426e9be75b1c7bbd5cb97430192900e1504feb0ae5cdcad702f00d31"
+  },
+  {
+    "path": "03_tercero_basico/001_materia_y_objetos.md",
+    "size": 4167,
+    "sha256": "9a39c3f9433a7e60e0023182dae30f0b626d25c9b2ddf22ca20e94e7d1979b14"
+  },
+  {
+    "path": "03_tercero_basico/002_masa_inicial.md",
+    "size": 4137,
+    "sha256": "9b98ab1353f2b9a99a547afaf5f1033e8482c23d77a2909f2dce072f1287f7a0"
+  },
+  {
+    "path": "03_tercero_basico/003_volumen_y_capacidad.md",
+    "size": 4179,
+    "sha256": "434dbcfb322ae62bb20c6a00eda12c959ad29f27df7b46d8da13b5136cf52867"
+  },
+  {
+    "path": "03_tercero_basico/004_solidos_y_forma.md",
+    "size": 4160,
+    "sha256": "a52728ac05e65558d07735e034b14ba2163f49dfad591199ce3cdb8d1ef52c2a"
+  },
+  {
+    "path": "03_tercero_basico/005_liquidos_y_recipiente.md",
+    "size": 4196,
+    "sha256": "6cf81dcfeabc5170b9d139ca3be64e854dfe33c4ceaa09ec0406b58daca6c02e"
+  },
+  {
+    "path": "03_tercero_basico/006_gases_y_espacio.md",
+    "size": 4155,
+    "sha256": "1bdb5edf0fd5ad84e208b8d30bd78ba090f38fc9c37fa5b526e14537d0e0abd2"
+  },
+  {
+    "path": "03_tercero_basico/007_modelo_de_particulas_inicial.md",
+    "size": 4238,
+    "sha256": "629c7c97c6258b4049fd6f7558d615bc0957614e96588116c7bfd3b08fdba635"
+  },
+  {
+    "path": "03_tercero_basico/008_cambios_de_estado.md",
+    "size": 4167,
+    "sha256": "9ab74578639e0f9b54ec31cad72185ef5fa8a4d927cbcd43e827dd04adfb5922"
+  },
+  {
+    "path": "03_tercero_basico/009_calor_y_materia.md",
+    "size": 4155,
+    "sha256": "5a1eff9261254a115c0cac9704e1f60e28ccef570c889aee8a0b3eda3747de5c"
+  },
+  {
+    "path": "03_tercero_basico/00_indice_curso.md",
+    "size": 931,
+    "sha256": "92f78d29a8e360bf03ef0d9fe89cbb27d49e244243ec14f59554c027a9e43365"
+  },
+  {
+    "path": "03_tercero_basico/010_mezclas_homogeneas.md",
+    "size": 4177,
+    "sha256": "5fe510002b4fd61401f484fd967110fc5bafd660679da9a950f565031e93c04a"
+  },
+  {
+    "path": "03_tercero_basico/011_mezclas_heterogeneas.md",
+    "size": 4189,
+    "sha256": "9dc5bf4352f42a726f58320572c670552872cc6e923543fd12967a8b7ecc297a"
+  },
+  {
+    "path": "03_tercero_basico/012_soluto_y_solvente.md",
+    "size": 4166,
+    "sha256": "7dd4b8d153e3731d6894017ef464d0c00a34bae7e1e8828f74531b425524f965"
+  },
+  {
+    "path": "03_tercero_basico/013_concentracion_cualitativa.md",
+    "size": 4219,
+    "sha256": "78dc7097433148ad1edbe9bb1a4d6fea5a5dacb1f8fc9cda80e20b2da9a4cfd0"
+  },
+  {
+    "path": "03_tercero_basico/014_tamizado.md",
+    "size": 4112,
+    "sha256": "c0fdd5d64943c6f3c4e28e732cb0c628bf92feffa975489c74c09d91758db369"
+  },
+  {
+    "path": "03_tercero_basico/015_filtracion.md",
+    "size": 4129,
+    "sha256": "0c4ede084c2aa1a5e52203cc4352ca64467bf99c5c8d4d093300d3fdef412d6b"
+  },
+  {
+    "path": "03_tercero_basico/016_evaporacion.md",
+    "size": 4135,
+    "sha256": "25b6bda2787bee5ba5f25bafca69871c15c27ced314d90b29957e5a62c239c8e"
+  },
+  {
+    "path": "03_tercero_basico/017_cambios_fisicos_y_quimicos.md",
+    "size": 4231,
+    "sha256": "b910430ef07008b960fe5a193b3891e842d6ba128159961085675e050555b4ca"
+  },
+  {
+    "path": "03_tercero_basico/018_investigacion_de_materiales.md",
+    "size": 4231,
+    "sha256": "8bd01e486c0481dbc0b8662c28d4dafdd1588dad4b90190fc387caeb7e4899e0"
+  },
+  {
+    "path": "03_tercero_basico/01_glosario_curso.md",
+    "size": 171,
+    "sha256": "8e1f76999f4b74f4844f200fae8a61e8d5ce17f9d11a8ac5ccc5c0508f41e8fd"
+  },
+  {
+    "path": "03_tercero_basico/02_banco_preguntas.md",
+    "size": 2441,
+    "sha256": "0ab628d4fc2fed7031778e00a972e5123152947c2376fb072f29d196c42ca3a7"
+  },
+  {
+    "path": "04_cuarto_basico/001_modelo_de_particulas.md",
+    "size": 4190,
+    "sha256": "6933a243ef467ca9f7fab4ba9cddc927d53561c902fc00f5d2b430428cd017e8"
+  },
+  {
+    "path": "04_cuarto_basico/002_propiedades_de_la_materia.md",
+    "size": 4215,
+    "sha256": "e1ebfaf2e8aa848726c7639cfc23d35ce6649489bdf4dc7964afdbcc13d8c882"
+  },
+  {
+    "path": "04_cuarto_basico/003_masa_y_volumen.md",
+    "size": 4149,
+    "sha256": "3cc8af9eef42885688162768ae9420d206f4bd152c61ee2f690166480ef484ac"
+  },
+  {
+    "path": "04_cuarto_basico/004_densidad_inicial.md",
+    "size": 4161,
+    "sha256": "4af7faca7d3d0f9106df8b38e50b990c0627442495395ae55fd56a931588a7de"
+  },
+  {
+    "path": "04_cuarto_basico/005_estados_de_la_materia.md",
+    "size": 4191,
+    "sha256": "a6285dc7a51bae72302b960fa32ea511504903ac53ef0cf02b8ff45f7f943e62"
+  },
+  {
+    "path": "04_cuarto_basico/006_movimiento_de_particulas.md",
+    "size": 4214,
+    "sha256": "e0204831c7b8b85b18c4632b0086e56f4e1b6cbc0623d945759b48e30ce4ac70"
+  },
+  {
+    "path": "04_cuarto_basico/007_fusion_y_solidificacion.md",
+    "size": 4212,
+    "sha256": "2373cf206c962430f27e34faf8a9d22545d20368be9e92a863d38895b99248fd"
+  },
+  {
+    "path": "04_cuarto_basico/008_vaporizacion_y_condensacion.md",
+    "size": 4236,
+    "sha256": "bbf6113e1d23671c0b5b45fc2b92e90aea9852ac6b93c68dc85fb1649e1168e3"
+  },
+  {
+    "path": "04_cuarto_basico/009_sublimacion_inicial.md",
+    "size": 4183,
+    "sha256": "a23c8f35e8a1d457581b966e228cd58084d02a6eafa7ffa2496fca266fce98b7"
+  },
+  {
+    "path": "04_cuarto_basico/00_indice_curso.md",
+    "size": 1103,
+    "sha256": "3f95d6a1f4670993e294fc09a57936e913c10955e47cd164923eb943daee6c83"
+  },
+  {
+    "path": "04_cuarto_basico/010_cambio_fisico.md",
+    "size": 4148,
+    "sha256": "06f8bc472e9a6c7a353764d8f9dc7994ce94a99dad945d0a1c459b2a7c749bb0"
+  },
+  {
+    "path": "04_cuarto_basico/011_cambio_quimico.md",
+    "size": 4154,
+    "sha256": "b62f62ce506631acf675fe9e4e2d06d31f0aca1c979de704f12cd8f5edc9b3a4"
+  },
+  {
+    "path": "04_cuarto_basico/012_evidencias_de_reaccion.md",
+    "size": 4201,
+    "sha256": "a35f0f8cac12854d6294d8857d8b4ab5a76b0e7d5bfd9b308cf51abd62ab53bd"
+  },
+  {
+    "path": "04_cuarto_basico/013_sustancias_y_mezclas.md",
+    "size": 4184,
+    "sha256": "052703bd7dbaadc35244883a7c681f8666ac8a02223fd518f47d5f5249a4c4fa"
+  },
+  {
+    "path": "04_cuarto_basico/014_soluciones.md",
+    "size": 4124,
+    "sha256": "0fca292a16f85b2f53054e55f20859efb65d2621a4f75102be119142bb169f53"
+  },
+  {
+    "path": "04_cuarto_basico/015_solubilidad.md",
+    "size": 4130,
+    "sha256": "7fddac94632f7306eb62c00e6b5ea668eadbb1c1df41338952eb17e8dec23d23"
+  },
+  {
+    "path": "04_cuarto_basico/016_factores_de_disolucion.md",
+    "size": 4201,
+    "sha256": "f139aafdf6e68b5552ec8a993e09707c85f6ebe5278808a4ca1af727a1818a65"
+  },
+  {
+    "path": "04_cuarto_basico/017_filtracion_y_decantacion.md",
+    "size": 4218,
+    "sha256": "84154b41a97b63eaee2b08f7aaa7ea7aa339695343b134fe02bc2e12e3a8a3e2"
+  },
+  {
+    "path": "04_cuarto_basico/018_destilacion_como_modelo.md",
+    "size": 4207,
+    "sha256": "9a3768ee65672779969ba6355a5164f3cac59914fa26302474d7f74b147f0550"
+  },
+  {
+    "path": "04_cuarto_basico/019_rocas_y_minerales.md",
+    "size": 4167,
+    "sha256": "21a4106a5363705b0665c5a88411f12647990fc40e0d1e52000c7f2811eefcb9"
+  },
+  {
+    "path": "04_cuarto_basico/01_glosario_curso.md",
+    "size": 171,
+    "sha256": "8e1f76999f4b74f4844f200fae8a61e8d5ce17f9d11a8ac5ccc5c0508f41e8fd"
+  },
+  {
+    "path": "04_cuarto_basico/020_metodo_cientifico_quimico.md",
+    "size": 4230,
+    "sha256": "a5db9237f17f038bfc629578a97050ee8527ed9c7c1b544f0f86e4f93ba816da"
+  },
+  {
+    "path": "04_cuarto_basico/02_banco_preguntas.md",
+    "size": 2748,
+    "sha256": "8d8814dafe09e346d3b7a836cc37f116762c099b6b084dcd776c69abb2ebfa1e"
+  },
+  {
+    "path": "05_quinto_basico/001_materia_y_composicion.md",
+    "size": 4198,
+    "sha256": "b7fdd95813ebc3ac233824b87574a47c75bb6275b79c039479a4387a401dff0b"
+  },
+  {
+    "path": "05_quinto_basico/002_sustancias_y_mezclas.md",
+    "size": 4187,
+    "sha256": "649058c52af9a74fd0b46ff81035744139901beef4b8048bf9e5e2b494dca140"
+  },
+  {
+    "path": "05_quinto_basico/003_mezclas_homogeneas.md",
+    "size": 4180,
+    "sha256": "d94a598e5f31479415bb0f84669c6e49e7ff797dd345fc57c23453ba8960cc75"
+  },
+  {
+    "path": "05_quinto_basico/004_mezclas_heterogeneas.md",
+    "size": 4192,
+    "sha256": "ddf6d6967179657c761bd7293bea6e437f68373ba4ea90d3f55a66698692e8b6"
+  },
+  {
+    "path": "05_quinto_basico/005_soluciones_acuosas.md",
+    "size": 4175,
+    "sha256": "705f7efeb4e47b5bd24882cb451892f82d3b03a5339fd9623a1e6d1a8a3fb42d"
+  },
+  {
+    "path": "05_quinto_basico/006_soluto_y_solvente.md",
+    "size": 4169,
+    "sha256": "27b88cdf2dcae737e601e9fa8100bd5e84f9d4aa9f04ae123602e9bda2a9bb83"
+  },
+  {
+    "path": "05_quinto_basico/007_concentracion_cualitativa.md",
+    "size": 4222,
+    "sha256": "4a22d3f8202b2fdd50fcc7489373335c6ffece78ff11482094646893b44e9ebb"
+  },
+  {
+    "path": "05_quinto_basico/008_filtracion.md",
+    "size": 4132,
+    "sha256": "8d0ac2879fef0707a616389e4a5f91a3804983d20163b32c6f8aa5989a005dcd"
+  },
+  {
+    "path": "05_quinto_basico/009_decantacion.md",
+    "size": 4138,
+    "sha256": "55153d049d294e66db37e3aa80d5070d6b28f24a3a7231574de2b40708c79227"
+  },
+  {
+    "path": "05_quinto_basico/00_indice_curso.md",
+    "size": 1252,
+    "sha256": "8c7cffa268653cac9ad09f510666854888d58087b0c07bdc45a2761c389df433"
+  },
+  {
+    "path": "05_quinto_basico/010_tamizado.md",
+    "size": 4115,
+    "sha256": "db7efafb4b86443f050c5dc6659c4af05ec94113953724c0be4cd0a3fad0782e"
+  },
+  {
+    "path": "05_quinto_basico/011_separacion_magnetica.md",
+    "size": 4197,
+    "sha256": "73b1701b6e7163de468bf6a723cfe588f2155ce854e5d9904f77adcba6869a1b"
+  },
+  {
+    "path": "05_quinto_basico/012_evaporacion_y_cristalizacion.md",
+    "size": 4245,
+    "sha256": "6618a5b75862781ff81a80598f3a9d1269bebafe4874d4d719945c026f7b40d2"
+  },
+  {
+    "path": "05_quinto_basico/013_destilacion_simple.md",
+    "size": 4180,
+    "sha256": "19a268dd9d5d8384ffc56cb7d2350df4ebd56a753abe44020955afb9bb8d8ba9"
+  },
+  {
+    "path": "05_quinto_basico/014_propiedades_de_materiales.md",
+    "size": 4218,
+    "sha256": "780c950ec73cb3278d25904300c82c44a6ae0e146410cf1301525338dccbfc7b"
+  },
+  {
+    "path": "05_quinto_basico/015_conductividad.md",
+    "size": 4146,
+    "sha256": "6efcf4bf19e9dcab22d9e27b1591a111cc639e8b26c7b571a9216436a176b3f0"
+  },
+  {
+    "path": "05_quinto_basico/016_cambios_fisicos.md",
+    "size": 4163,
+    "sha256": "abefabdbec5bbf2b2c0952dc5f50d0cc3a097d7d8c16e360860aefaa3eee02ce"
+  },
+  {
+    "path": "05_quinto_basico/017_cambios_quimicos.md",
+    "size": 4169,
+    "sha256": "8867f40de1a7062c2ea776289c3338fe6a83558037015091a8b5474c1bfc3ddb"
+  },
+  {
+    "path": "05_quinto_basico/018_oxidacion_cotidiana.md",
+    "size": 4186,
+    "sha256": "37f18a821249a4bc6a30e7a04f0c742a0803f97445340dac1a577f770403b154"
+  },
+  {
+    "path": "05_quinto_basico/019_combustion_y_seguridad.md",
+    "size": 4204,
+    "sha256": "9cd1be0c1a250c6a7a4cf335837caf075dadf004adf5d2e95172763ae53a6e6b"
+  },
+  {
+    "path": "05_quinto_basico/01_glosario_curso.md",
+    "size": 171,
+    "sha256": "8e1f76999f4b74f4844f200fae8a61e8d5ce17f9d11a8ac5ccc5c0508f41e8fd"
+  },
+  {
+    "path": "05_quinto_basico/020_acidos_y_bases_cotidianos.md",
+    "size": 4216,
+    "sha256": "b9251cd46ccd8d2722d8aea0ccc7a1ca2eb4828987c1fccc4cd3cd2606ac0782"
+  },
+  {
+    "path": "05_quinto_basico/021_indicadores_naturales.md",
+    "size": 4194,
+    "sha256": "3749e515adebd943c44cffdaf451fe9151e55f508a7d6880d81b65cf64d300ac"
+  },
+  {
+    "path": "05_quinto_basico/022_ph_inicial.md",
+    "size": 4121,
+    "sha256": "6fb69431dd6116a2730eeee86caf948c146b491cf92040e4c583cb2afc506c16"
+  },
+  {
+    "path": "05_quinto_basico/023_quimica_del_agua.md",
+    "size": 4159,
+    "sha256": "1a6277e42c3b18593106e6006e4c9bb03e1f1db2c834086ebc93cff783c0dfda"
+  },
+  {
+    "path": "05_quinto_basico/024_investigacion_segura.md",
+    "size": 4192,
+    "sha256": "f080bd439e1dfbebb64435575d2097bbd950b19cf33148b78cef412d1685b0c3"
+  },
+  {
+    "path": "05_quinto_basico/02_banco_preguntas.md",
+    "size": 3259,
+    "sha256": "9f35e8808102108b6d9b56ce7d223915e6ab347457c3912cedd372f19380a14f"
+  },
+  {
+    "path": "06_sexto_basico/001_modelo_corpuscular.md",
+    "size": 4176,
+    "sha256": "45e4a877890a338304d21f3d359655948caab812ade78b4b101913268571e576"
+  },
+  {
+    "path": "06_sexto_basico/002_particulas_en_solidos.md",
+    "size": 4204,
+    "sha256": "818b4242f171f688b90ebd1f25e06e982a790ded8e89b5b69bbffefcba907b56"
+  },
+  {
+    "path": "06_sexto_basico/003_particulas_en_liquidos.md",
+    "size": 4210,
+    "sha256": "2013d09c7c392faa50d18aca6bcc29f08225d420c89e545f39c5743ec52b1d7d"
+  },
+  {
+    "path": "06_sexto_basico/004_particulas_en_gases.md",
+    "size": 4187,
+    "sha256": "e4f919b78fe8400a319a45005c8fc84471b33309890fa51d84fac56f1f4145c7"
+  },
+  {
+    "path": "06_sexto_basico/005_difusion.md",
+    "size": 4120,
+    "sha256": "6df3cc1e699c357f124de0de63a48744cb4196c7c45df0c67c63b52f036f40a9"
+  },
+  {
+    "path": "06_sexto_basico/006_compresion_de_gases.md",
+    "size": 4186,
+    "sha256": "1ad2d010d116475f05a4f465046887ab3db52e0e73cc628c528d5b3d57747e2a"
+  },
+  {
+    "path": "06_sexto_basico/007_cambios_de_estado_y_particulas.md",
+    "size": 4253,
+    "sha256": "4a443424a2816937cb2e9824785c91bc1e868590d8e2532e3bad21e2a355291c"
+  },
+  {
+    "path": "06_sexto_basico/008_energia_y_cambios_de_estado.md",
+    "size": 4235,
+    "sha256": "413c0eb0960a62f88200fb4f40179672f0b4c079604cf1adf0c4d8ebae776bf8"
+  },
+  {
+    "path": "06_sexto_basico/009_sustancias_puras.md",
+    "size": 4164,
+    "sha256": "93c737f3ea10941f566cc5f61f9e092cc7374054f1d466d39fb898dceabf5828"
+  },
+  {
+    "path": "06_sexto_basico/00_indice_curso.md",
+    "size": 1349,
+    "sha256": "8265ea2ae91f46262d555b70395a1459e04fde777a7d362ed7c03d9c8aee586d"
+  },
+  {
+    "path": "06_sexto_basico/010_elementos_y_compuestos.md",
+    "size": 4200,
+    "sha256": "52207897099d5094c4576cbd417355005a44fc54b1c197e5a697749fd7abe717"
+  },
+  {
+    "path": "06_sexto_basico/011_mezclas_y_soluciones.md",
+    "size": 4187,
+    "sha256": "c831c6c574b2236fa82e0dc7a248f9c7ba1dec98a3e5a6676cc99d04c4039d50"
+  },
+  {
+    "path": "06_sexto_basico/012_concentracion.md",
+    "size": 4150,
+    "sha256": "b8134ae0bca6558ac40672f8b31716b576916336a2adf0d3d36025232655d644"
+  },
+  {
+    "path": "06_sexto_basico/013_solubilidad.md",
+    "size": 4133,
+    "sha256": "60940f898f1148167f83ec0300b4ab2d93cc44a1cb39b4239bb03d43750fda98"
+  },
+  {
+    "path": "06_sexto_basico/014_temperatura_y_solubilidad.md",
+    "size": 4217,
+    "sha256": "c6f05f11810d12a601c7db600631c631b6f6db9bd4cf0ad1bd26e84fbbadc7c1"
+  },
+  {
+    "path": "06_sexto_basico/015_agitacion_y_disolucion.md",
+    "size": 4209,
+    "sha256": "8b7a3446dfa606042c8616182698129db808f3d5b5dfcf939d8a9b0fd9d696e6"
+  },
+  {
+    "path": "06_sexto_basico/016_cambios_fisicos_y_quimicos.md",
+    "size": 4234,
+    "sha256": "fbcf6062e8c0cfe5e88eb9805b7849b50d0d0e6cd3e62b3133998c6384a564ac"
+  },
+  {
+    "path": "06_sexto_basico/017_reacciones_cotidianas.md",
+    "size": 4194,
+    "sha256": "bbddeeaf8f52d0a9a0108128b0cb32070c81882ab2a4e97feec53a81b2e89832"
+  },
+  {
+    "path": "06_sexto_basico/018_conservacion_de_masa_inicial.md",
+    "size": 4240,
+    "sha256": "2499e9820c8f948f425b99d76c2f6b563eed7024aeaa06f8972076fdbc0cabdb"
+  },
+  {
+    "path": "06_sexto_basico/019_reactantes_y_productos.md",
+    "size": 4191,
+    "sha256": "e65fc1529bcd989ec704a530aa3ce99cd1afe98a816d7cc8583bc8cd9d70a0f8"
+  },
+  {
+    "path": "06_sexto_basico/01_glosario_curso.md",
+    "size": 171,
+    "sha256": "8e1f76999f4b74f4844f200fae8a61e8d5ce17f9d11a8ac5ccc5c0508f41e8fd"
+  },
+  {
+    "path": "06_sexto_basico/020_evidencias_de_reaccion.md",
+    "size": 4204,
+    "sha256": "7428762d5f7e3d20b2dc50a9d9b460d863f61373aad32bc924d024dbe539305d"
+  },
+  {
+    "path": "06_sexto_basico/021_acidos_y_bases.md",
+    "size": 4150,
+    "sha256": "e51c9dfb060dd85845a143ebe984c9e6c9d46e136f668a504ce8872a846923cd"
+  },
+  {
+    "path": "06_sexto_basico/022_indicadores_de_ph.md",
+    "size": 4163,
+    "sha256": "4633541654dda3fc9d01d875ab68a21e89b706715bde0821b7d41b81b218b048"
+  },
+  {
+    "path": "06_sexto_basico/023_neutralizacion_inicial.md",
+    "size": 4204,
+    "sha256": "fcbdae36e17d01d5f6c16bee898b291dbf022051ccdd7e58bb04f1aebb3c55d2"
+  },
+  {
+    "path": "06_sexto_basico/024_seguridad_domestica.md",
+    "size": 4177,
+    "sha256": "9216c8481fad4e4755b172da876c40e20a6254ac4cbfc00b71cd0e588631bc39"
+  },
+  {
+    "path": "06_sexto_basico/02_banco_preguntas.md",
+    "size": 3308,
+    "sha256": "07fd100063ceaf0e330f672f24f1b8fc15c9f0b8ed2fc5606a847b056d112edd"
+  },
+  {
+    "path": "07_septimo_basico/001_comportamiento_de_gases.md",
+    "size": 4206,
+    "sha256": "95b43b0f1d6bafb6d4f929ac1f13b18b9e8e8e1b66c3f5719fc5333df607dee9"
+  },
+  {
+    "path": "07_septimo_basico/002_presion_volumen_y_temperatura.md",
+    "size": 4246,
+    "sha256": "e1a78531e4f7549710319bb6040d29ada9d5439dd430b22c672f332a63ef910e"
+  },
+  {
+    "path": "07_septimo_basico/003_modelo_cinetico_molecular.md",
+    "size": 4223,
+    "sha256": "b33f89a80c7d5937b1e40b6dc6ebdd26c4c371d6d5a81762cc55f707e9edfbef"
+  },
+  {
+    "path": "07_septimo_basico/004_leyes_cualitativas_de_gases.md",
+    "size": 4230,
+    "sha256": "cdb2f4702e8909acd28ee2f366f9646c83dd8ccb5cec2a1b3a7c973287eda7a2"
+  },
+  {
+    "path": "07_septimo_basico/005_sustancias_puras.md",
+    "size": 4164,
+    "sha256": "d0a5cb9adcf71bbebd6515b65926c1fd4e80b0e9cde6f537f22292d34dfe1dfe"
+  },
+  {
+    "path": "07_septimo_basico/006_elementos.md",
+    "size": 4122,
+    "sha256": "da7f4888f2b7796e3c5c7649059a1e3d591b246721bb446d5a4c4e4d62f0f1da"
+  },
+  {
+    "path": "07_septimo_basico/007_compuestos.md",
+    "size": 4128,
+    "sha256": "dcf513a9b8e248fb1179c7c0843a8d0e95bb4367e7ecc2567bdd09a7d33bfe99"
+  },
+  {
+    "path": "07_septimo_basico/008_mezclas_homogeneas.md",
+    "size": 4180,
+    "sha256": "80146732c01b48fbc4692ad4e34bed8c39e3a16338b66f9b360e5cfc59246cf9"
+  },
+  {
+    "path": "07_septimo_basico/009_mezclas_heterogeneas.md",
+    "size": 4192,
+    "sha256": "142fed5a7bd4cc2d3878bbc5166617a8bd12f0fa8f3b8ff46691b449f0d8f02a"
+  },
+  {
+    "path": "07_septimo_basico/00_indice_curso.md",
+    "size": 1261,
+    "sha256": "f1cfa6b1ba23211142946daaed5abd0a17737e80afef18d33901fd826d4330a4"
+  },
+  {
+    "path": "07_septimo_basico/010_disoluciones.md",
+    "size": 4139,
+    "sha256": "d5ff3d588df390b055d7847679c87cf8cbb3507af907106525c2c065c4927663"
+  },
+  {
+    "path": "07_septimo_basico/011_decantacion.md",
+    "size": 4138,
+    "sha256": "d3da849a966a41ed2400f5b87bf37c32754a7f902eaaae34bd600aba20e17a98"
+  },
+  {
+    "path": "07_septimo_basico/012_filtracion.md",
+    "size": 4132,
+    "sha256": "467e8e61dc1f98ce0628de719f62a4aa61c14d1d846918b08d17dd5eb95ffcab"
+  },
+  {
+    "path": "07_septimo_basico/013_tamizado.md",
+    "size": 4115,
+    "sha256": "0cdf107623dce8dee45628dca4012925eb6d0e642b61ca939aa3ee8d324411f4"
+  },
+  {
+    "path": "07_septimo_basico/014_destilacion.md",
+    "size": 4138,
+    "sha256": "5e1e651294ec7b9ee6b8581357adad558b13df7c4af0e81a29b8076bc9dab131"
+  },
+  {
+    "path": "07_septimo_basico/015_separacion_en_mineria.md",
+    "size": 4203,
+    "sha256": "ed86d7a275d6f867daf20d62694bf65a9ad9f4a0df7f4cf060901e47acb3c60f"
+  },
+  {
+    "path": "07_septimo_basico/016_tratamiento_de_aguas.md",
+    "size": 4178,
+    "sha256": "892c143db26f8cd3b03ae7d0a6cf30bf5c1e1e4508761c46f859cea8ba71001e"
+  },
+  {
+    "path": "07_septimo_basico/017_cambios_fisicos.md",
+    "size": 4163,
+    "sha256": "820b1c09c75ed44ce3ab99195e9fb565e3495f1ddc06abef5e49daa888052fc6"
+  },
+  {
+    "path": "07_septimo_basico/018_cambios_quimicos.md",
+    "size": 4169,
+    "sha256": "ad818b5cac986712aeb8e11112548c5d13cc1606f2243876277c25cf0287c68e"
+  },
+  {
+    "path": "07_septimo_basico/019_reacciones_quimicas.md",
+    "size": 4187,
+    "sha256": "4e0d9648ce323104158d00f3a38979840999114e438f171a021d9a283f6a1912"
+  },
+  {
+    "path": "07_septimo_basico/01_glosario_curso.md",
+    "size": 171,
+    "sha256": "8e1f76999f4b74f4844f200fae8a61e8d5ce17f9d11a8ac5ccc5c0508f41e8fd"
+  },
+  {
+    "path": "07_septimo_basico/020_reactantes_y_productos.md",
+    "size": 4191,
+    "sha256": "d6f4cbe600463f08fe0299dbd8eb9bf0ce594949d4e6781610d5088558d0fe3e"
+  },
+  {
+    "path": "07_septimo_basico/021_conservacion_de_masa.md",
+    "size": 4192,
+    "sha256": "0754f8af7ef5f5975a170af3a4520dab956f3deec2143ede63a4fc7c22099d7b"
+  },
+  {
+    "path": "07_septimo_basico/022_estructura_atomica_inicial.md",
+    "size": 4229,
+    "sha256": "88122ba41e68003034c073e7b3bc5b13ffefd0b2efbd3b1eae1fc1d3450ff8aa"
+  },
+  {
+    "path": "07_septimo_basico/023_protones_neutrones_y_electrones.md",
+    "size": 4254,
+    "sha256": "fead95570ca25ff0af9d235dc19b4b055f386c5c233349b3e24fb7a0b577c3b4"
+  },
+  {
+    "path": "07_septimo_basico/024_tabla_periodica_inicial.md",
+    "size": 4210,
+    "sha256": "eb0b60b3b8f94f71a75c842f8821e0468af7955b226642320982f16cdf081da1"
+  },
+  {
+    "path": "07_septimo_basico/02_banco_preguntas.md",
+    "size": 3262,
+    "sha256": "21cf86f088d947b98d84e470c09fc7730ec0055ca76a0f01471e516cdfc036cb"
+  },
+  {
+    "path": "08_octavo_basico/001_historia_de_modelos_atomicos.md",
+    "size": 4241,
+    "sha256": "0921993999f32a6b82bbb4b5a4dcb9389e449bbe3ae07b39be5ea5ab31a9dda8"
+  },
+  {
+    "path": "08_octavo_basico/002_modelo_de_dalton.md",
+    "size": 4163,
+    "sha256": "4b648f2e7e05bc44884ba540dd59d477663bf4b66147d279cd16a514690258c8"
+  },
+  {
+    "path": "08_octavo_basico/003_modelo_de_thomson.md",
+    "size": 4169,
+    "sha256": "4b1b685042a0b2b9353bd25fc802f8ae600000219709b0593dab3e8191d5ff7d"
+  },
+  {
+    "path": "08_octavo_basico/004_modelo_de_rutherford.md",
+    "size": 4187,
+    "sha256": "1fbf513feec2d537667ee9fa805a6e24dbdff172f5b96c1c2b2bbc1de34df54b"
+  },
+  {
+    "path": "08_octavo_basico/005_modelo_de_bohr.md",
+    "size": 4151,
+    "sha256": "a0605662ad772e815a7cde4a333b56481b2737e5cff595f97deab12b7a8bf976"
+  },
+  {
+    "path": "08_octavo_basico/006_atomo_y_nucleo.md",
+    "size": 4161,
+    "sha256": "3ceb8f6664763fd9c8e6b752b6c9b21855ebe8ac68f4a966af9b9aa4ad0856a5"
+  },
+  {
+    "path": "08_octavo_basico/007_protones_neutrones_y_electrones.md",
+    "size": 4254,
+    "sha256": "141193121ea93deb1ffd94387ac10c4cc660e19196abf003d2edd79d0057e8a8"
+  },
+  {
+    "path": "08_octavo_basico/008_numero_atomico.md",
+    "size": 4162,
+    "sha256": "06bb15a3b85ce9daaf325e33efd6899e80aab76a9281a7a725171d55403a8a98"
+  },
+  {
+    "path": "08_octavo_basico/009_numero_masico.md",
+    "size": 4156,
+    "sha256": "805a6fed9d04b2ca9f2225fe53b3a7b6861b9ab6b15ca96d9ab9b6019a53d936"
+  },
+  {
+    "path": "08_octavo_basico/00_indice_curso.md",
+    "size": 1359,
+    "sha256": "dc7bcd2b4c4fc7b5ab9552dea289c6dcedcd495ad50d8090120f06a522cdc715"
+  },
+  {
+    "path": "08_octavo_basico/010_isotopos_iniciales.md",
+    "size": 4180,
+    "sha256": "a7742f4f44b736e16bfb3b7d3db0992d69759cb7d9a4e4d8918c8d86e7f5e3cc"
+  },
+  {
+    "path": "08_octavo_basico/011_iones.md",
+    "size": 4098,
+    "sha256": "aa7182f8dac367eb2fcb82544c06e61d5c9145991bd3a5e021160d7ffb75d505"
+  },
+  {
+    "path": "08_octavo_basico/012_moleculas.md",
+    "size": 4127,
+    "sha256": "a85e1e6f98e4cb6233240d092c8441a7fdaf9a73a10c8609d4b18c21aa3297b3"
+  },
+  {
+    "path": "08_octavo_basico/013_elementos_y_compuestos.md",
+    "size": 4200,
+    "sha256": "59d41508ac3382254ffa06bddadc290bdb6f496b6c9b58762239be2122c83015"
+  },
+  {
+    "path": "08_octavo_basico/014_grupos_y_periodos.md",
+    "size": 4175,
+    "sha256": "0de00675bba8a45ddefd0d732bcc317c22762f714219583aea2d1cfae6e093ce"
+  },
+  {
+    "path": "08_octavo_basico/015_metales_no_metales_y_metaloides.md",
+    "size": 4254,
+    "sha256": "9152e062e5c76f6a9cdd456be855d7f63005bd2406db46f61d8c986e15761be0"
+  },
+  {
+    "path": "08_octavo_basico/016_electrones_de_valencia.md",
+    "size": 4200,
+    "sha256": "21541a67de63b32a0aa1e0c4fb38cb5784c19fbaa671b0e210c43b7671eb3740"
+  },
+  {
+    "path": "08_octavo_basico/017_enlace_ionico.md",
+    "size": 4150,
+    "sha256": "5da102621c2af798c6ec8900e031f469568726fceb534638eb9342d6917be1bb"
+  },
+  {
+    "path": "08_octavo_basico/018_enlace_covalente.md",
+    "size": 4164,
+    "sha256": "917d5109efd581b9bb1923d3599e3606c5b9e2e08d0c0f03beb6b0f08eb2b10a"
+  },
+  {
+    "path": "08_octavo_basico/019_formacion_de_moleculas.md",
+    "size": 4209,
+    "sha256": "9f19b042a0a4a12a5995861bb754e4c845f9352a8503cbabe6855e2d10d00cd0"
+  },
+  {
+    "path": "08_octavo_basico/01_glosario_curso.md",
+    "size": 171,
+    "sha256": "8e1f76999f4b74f4844f200fae8a61e8d5ce17f9d11a8ac5ccc5c0508f41e8fd"
+  },
+  {
+    "path": "08_octavo_basico/020_reacciones_quimicas.md",
+    "size": 4187,
+    "sha256": "ea53b38ab23e55547b7d18726ceb0a46e3fb6087affc50a533a450981eb79f07"
+  },
+  {
+    "path": "08_octavo_basico/021_conservacion_de_masa.md",
+    "size": 4192,
+    "sha256": "5c573064b48d865c801dfad680fff4a297641ac4732dfce311a7f6afd3abe5cb"
+  },
+  {
+    "path": "08_octavo_basico/022_balanceo_inicial.md",
+    "size": 4155,
+    "sha256": "7c12773a9744904df12074c752bd7aa758ddd1119d725e056d626a3358d2961b"
+  },
+  {
+    "path": "08_octavo_basico/023_acidos_y_bases_cotidianas.md",
+    "size": 4216,
+    "sha256": "91b13efb8bc2266937b66d63de863a6a24f8a3e579e13feebc071bec11893225"
+  },
+  {
+    "path": "08_octavo_basico/024_escala_de_ph.md",
+    "size": 4133,
+    "sha256": "a360765e4757b860a1068e9142e89b2bcd44302d8ef0a406a4b5c9987462d159"
+  },
+  {
+    "path": "08_octavo_basico/025_neutralizacion.md",
+    "size": 4156,
+    "sha256": "f78cbd88a4ec1029c5825c993bf5bfb6ed41f20aeb06dea63e5a56fd9f269841"
+  },
+  {
+    "path": "08_octavo_basico/026_seguridad_quimica_domestica.md",
+    "size": 4230,
+    "sha256": "9ad9e1894992c3285c4a6e97c71af472bd03b4e65a34e5794f52ff759f8b50ba"
+  },
+  {
+    "path": "08_octavo_basico/02_banco_preguntas.md",
+    "size": 3531,
+    "sha256": "2b6ca0baa4607eda8be4db7f284a8b38808cbe2579203d12897314bd05f41a54"
+  },
+  {
+    "path": "09_primero_medio/001_reacciones_quimicas_cotidianas.md",
+    "size": 4247,
+    "sha256": "7612f87947563a9ec5fc4c228e32881ec518b6460266fbef29a2f142603f0687"
+  },
+  {
+    "path": "09_primero_medio/002_evidencias_de_reaccion.md",
+    "size": 4198,
+    "sha256": "647bcd48d9f096dcd60f9981b2d0923f469c8fd885fde1670cb1f56fc74e1d4c"
+  },
+  {
+    "path": "09_primero_medio/003_reactantes_y_productos.md",
+    "size": 4185,
+    "sha256": "a24d05652cf774416edb1b83d830a325032125cff80a9fcd2479faa041bea600"
+  },
+  {
+    "path": "09_primero_medio/004_ecuaciones_quimicas.md",
+    "size": 4181,
+    "sha256": "a49ba7f45612388ace6c2eba80825cc32fd4c4af2676d43fdf54168e6ada3b28"
+  },
+  {
+    "path": "09_primero_medio/005_conservacion_de_masa.md",
+    "size": 4186,
+    "sha256": "23a9d9014418edb502c5d458c7287f440641b86843a8fcc50746f220ba80f0f1"
+  },
+  {
+    "path": "09_primero_medio/006_balanceo_de_ecuaciones.md",
+    "size": 4185,
+    "sha256": "e0e2050cb7e27f1051d6508a2014ffc129b5c3f329c70732fd8c26401f041171"
+  },
+  {
+    "path": "09_primero_medio/007_tipos_de_reacciones.md",
+    "size": 4176,
+    "sha256": "3b6fdec9be137669e32acba1e2ee36be5a57ecc00892d1866b9fea9aee59ee47"
+  },
+  {
+    "path": "09_primero_medio/008_sintesis.md",
+    "size": 4115,
+    "sha256": "94b33269bac94fa0cb473ed117142d739635f0f4a37a93d60ace03a129bac08e"
+  },
+  {
+    "path": "09_primero_medio/009_descomposicion.md",
+    "size": 4150,
+    "sha256": "3c7f6a91d26f2954cd2cf926cf54762d2b5c1d043985ae2a4ff949d69a2e5d4a"
+  },
+  {
+    "path": "09_primero_medio/00_indice_curso.md",
+    "size": 1310,
+    "sha256": "18a0f216d3e432440610fc96607d86db52e0dfe46ca913d330dec4e56f90fad6"
+  },
+  {
+    "path": "09_primero_medio/010_sustitucion_simple.md",
+    "size": 4174,
+    "sha256": "71cbc2bb5b2aaae9264e57e2a06d3b7830a60f7d9ee15f8a9c2588aa54cbe48c"
+  },
+  {
+    "path": "09_primero_medio/011_doble_sustitucion.md",
+    "size": 4168,
+    "sha256": "350f2859d217bca391aa4fcc02ebf142c83d50d1b577d8eba15c7c18d8d526bd"
+  },
+  {
+    "path": "09_primero_medio/012_combustion.md",
+    "size": 4126,
+    "sha256": "950835a49a1384bb29727d2eb7dbeb18625d2ddecbeac03bd851a6148c06abee"
+  },
+  {
+    "path": "09_primero_medio/013_precipitacion.md",
+    "size": 4144,
+    "sha256": "01b758c196412f5f6652bd9a26a1c4f0d505201efdc1c94c1a5c4b043cb60e6e"
+  },
+  {
+    "path": "09_primero_medio/014_cantidad_de_sustancia.md",
+    "size": 4188,
+    "sha256": "346d3d327d00e2d183c15660cfc397d95d2225c23e7af4a7c009d36b8bf01ea9"
+  },
+  {
+    "path": "09_primero_medio/015_mol.md",
+    "size": 4080,
+    "sha256": "67a6cb5eb8e52227221dabb6fe7b34d922657cffa21cb82288e39ccc812d0593"
+  },
+  {
+    "path": "09_primero_medio/016_masa_molar.md",
+    "size": 4122,
+    "sha256": "1533f96d69cb0871e715f1ba979653e1205e40e7fed7ad9e5a11aed967fc66a5"
+  },
+  {
+    "path": "09_primero_medio/017_numero_de_avogadro.md",
+    "size": 4175,
+    "sha256": "89ba72391e9aa9540965b78063469740e87f1016a36089e32fc8264b20ff4aaf"
+  },
+  {
+    "path": "09_primero_medio/018_relaciones_estequiometricas.md",
+    "size": 4229,
+    "sha256": "98553a7ebd6c0bbb7884d7853f9539f5c0b1d751fc10b1db8239553ab5f8bb87"
+  },
+  {
+    "path": "09_primero_medio/019_reactivo_limitante.md",
+    "size": 4170,
+    "sha256": "31baf8a2e5e2a0e90381de7fc07383e10433fa07461a693b977fffe10a414ea7"
+  },
+  {
+    "path": "09_primero_medio/01_glosario_curso.md",
+    "size": 171,
+    "sha256": "8e1f76999f4b74f4844f200fae8a61e8d5ce17f9d11a8ac5ccc5c0508f41e8fd"
+  },
+  {
+    "path": "09_primero_medio/020_rendimiento.md",
+    "size": 4128,
+    "sha256": "2ddcad4f23a6ffece75171858e231ab2a547d9b68c4ee4c441bea3086de52748"
+  },
+  {
+    "path": "09_primero_medio/021_compuestos_binarios.md",
+    "size": 4176,
+    "sha256": "71aa2d7f6a8b0bc9f43578d7fb09d0ff3d059fa16fab037f1d2599f280659cac"
+  },
+  {
+    "path": "09_primero_medio/022_compuestos_ternarios.md",
+    "size": 4182,
+    "sha256": "8b1d1e21d7810feca4f87ea32a765edff44129f886c782a650231959d65ffc7b"
+  },
+  {
+    "path": "09_primero_medio/023_oxidos.md",
+    "size": 4103,
+    "sha256": "7b8a620de32cf9d256c4d05ca043c9d7a72bb9ec76c2bec496cfd2a39cd0e1be"
+  },
+  {
+    "path": "09_primero_medio/024_hidruros.md",
+    "size": 4110,
+    "sha256": "5ffb05b6421d56cd0515b2a3908b5833796559a83aa53b17ae819c40671e0e5b"
+  },
+  {
+    "path": "09_primero_medio/025_acidos.md",
+    "size": 4096,
+    "sha256": "939660f49c1d62a09d589f4b91bf85db3e66c5b206fc9c4a20d6d443d4a08fe7"
+  },
+  {
+    "path": "09_primero_medio/026_hidroxidos.md",
+    "size": 4127,
+    "sha256": "47486ffe57575dfbfda8272f5995d6e8a266fd11b6b5f551324762c5d1bc1e2e"
+  },
+  {
+    "path": "09_primero_medio/027_sales.md",
+    "size": 4092,
+    "sha256": "60de0577342aa5b66f0ac208864d07cba7c355bbfaefb2bf564b7a2a89c2029c"
+  },
+  {
+    "path": "09_primero_medio/028_nomenclatura_inorganica.md",
+    "size": 4194,
+    "sha256": "a47522b439f677cb56aa56e41632b97bffe9f84e77a62e46179f524fccf43e6c"
+  },
+  {
+    "path": "09_primero_medio/02_banco_preguntas.md",
+    "size": 3724,
+    "sha256": "6e886150c15571714b1b55420e7379166a3224ec0ea4e3db7b3bbae66d75721d"
+  },
+  {
+    "path": "10_segundo_medio/001_soluciones_y_concentracion.md",
+    "size": 4222,
+    "sha256": "8dd488231a928eee862abc3fd366e58430eafced8d2f00e1d09380d2c155dc66"
+  },
+  {
+    "path": "10_segundo_medio/002_molaridad.md",
+    "size": 4115,
+    "sha256": "1511b70c29a0fdfc31c5446739764954d17114165a5158e8bb3742d7d28f12aa"
+  },
+  {
+    "path": "10_segundo_medio/003_porcentaje_masa_masa.md",
+    "size": 4182,
+    "sha256": "e3e95bd24f6025565016ff28a1b67bb3a50d87b158b8654a42940cd8d0147312"
+  },
+  {
+    "path": "10_segundo_medio/004_porcentaje_masa_volumen.md",
+    "size": 4200,
+    "sha256": "be90e85281f8b6f5db301540b8c99ebb2d672dd6be699d2ec438b1ce4cc793bb"
+  },
+  {
+    "path": "10_segundo_medio/005_diluciones.md",
+    "size": 4122,
+    "sha256": "f5c8469a677d095d353b8699c8f8fcd9b38a976a66cde8969bd0b2b8fa647c30"
+  },
+  {
+    "path": "10_segundo_medio/006_curvas_de_solubilidad.md",
+    "size": 4187,
+    "sha256": "c21349a3ebc2f9e3c4823d6121463a902b46d37f7dd42c89110e4251e7dc0cb8"
+  },
+  {
+    "path": "10_segundo_medio/007_factores_de_solubilidad.md",
+    "size": 4199,
+    "sha256": "b7d278e1b30ca7acbdbc8a690fe18f37db421bbb00f18f73d5f4a40218ec0b6d"
+  },
+  {
+    "path": "10_segundo_medio/008_acidos_y_bases_de_arrhenius.md",
+    "size": 4222,
+    "sha256": "328d9445e749e65ed17439d1d969c70c4f741ed8d79b8c40730be9a5e134f7fd"
+  },
+  {
+    "path": "10_segundo_medio/009_br_nsted_lowry_inicial.md",
+    "size": 4199,
+    "sha256": "931a4e88dc81ba2bf309213eeea14640fe7f696202ddd03500977ff19b8701f9"
+  },
+  {
+    "path": "10_segundo_medio/00_indice_curso.md",
+    "size": 1462,
+    "sha256": "387e7502673cfc44a5c75d75b6b74d699e662557ff82442b079e4ce61a5594f4"
+  },
+  {
+    "path": "10_segundo_medio/010_ph_y_poh.md",
+    "size": 4103,
+    "sha256": "4d7b47a4faa637732116a6613b392290211c3851f8fccd4aed5a9589bebf23e4"
+  },
+  {
+    "path": "10_segundo_medio/011_indicadores_acido_base.md",
+    "size": 4192,
+    "sha256": "db09f60d0dbff8fcf16f1444cab5f05278924a55aa257c6f9927e7aab8396ece"
+  },
+  {
+    "path": "10_segundo_medio/012_neutralizacion.md",
+    "size": 4150,
+    "sha256": "7f705cc8abc911b83f088649ee15fa4454b0cc1c722d49994fbf036aea89c2a3"
+  },
+  {
+    "path": "10_segundo_medio/013_titulacion_inicial.md",
+    "size": 4174,
+    "sha256": "e3359a50539687889afd64852ef951a3382f0f5bdfd13d207aaae5b1d457c7eb"
+  },
+  {
+    "path": "10_segundo_medio/014_reacciones_redox.md",
+    "size": 4149,
+    "sha256": "f1208e087f553615b2e3c2e49f1761dd6e997600526a36ee3f048722e28fcd0d"
+  },
+  {
+    "path": "10_segundo_medio/015_oxidacion_y_reduccion.md",
+    "size": 4197,
+    "sha256": "84262de618486b6074d9f1043de45a039b9ae36806e8b5496adcc3dee751a65d"
+  },
+  {
+    "path": "10_segundo_medio/016_numero_de_oxidacion.md",
+    "size": 4185,
+    "sha256": "5fee5959c06efef2a85fc57c3c21fefde2ab75096cc5b82efe2e84d752206b99"
+  },
+  {
+    "path": "10_segundo_medio/017_pilas_electroquimicas.md",
+    "size": 4193,
+    "sha256": "673006903702a892f7f7e38e4e0b2d6a27aaec275a547f3985b98dcfa801473e"
+  },
+  {
+    "path": "10_segundo_medio/018_corrosion.md",
+    "size": 4120,
+    "sha256": "f41a9be657759cb0e59cf0634bf32b58faf5c4b0aeead92bf506eca24743bc6a"
+  },
+  {
+    "path": "10_segundo_medio/019_quimica_organica_inicial.md",
+    "size": 4205,
+    "sha256": "b764ba07eb1ed2099d3804bd16fdf39c1370adee7a69d2c208e9bc4ce3292803"
+  },
+  {
+    "path": "10_segundo_medio/01_glosario_curso.md",
+    "size": 171,
+    "sha256": "8e1f76999f4b74f4844f200fae8a61e8d5ce17f9d11a8ac5ccc5c0508f41e8fd"
+  },
+  {
+    "path": "10_segundo_medio/020_carbono_y_enlaces.md",
+    "size": 4153,
+    "sha256": "2dfae3032b041138f3309f39c5b233d920a916e921107e2ab0ab9c13ee90acfa"
+  },
+  {
+    "path": "10_segundo_medio/021_hidrocarburos.md",
+    "size": 4129,
+    "sha256": "65d59a3cdcac8ea51f49674ef4b9c63f99cb250780f4aa23beb48cb51ed57fb4"
+  },
+  {
+    "path": "10_segundo_medio/022_alcanos.md",
+    "size": 4093,
+    "sha256": "6b97f20b9b0db1bb0237a8c83a829dfaa995db4e1cf59888dc6aba2baf0fedc0"
+  },
+  {
+    "path": "10_segundo_medio/023_alquenos.md",
+    "size": 4099,
+    "sha256": "643f46c3c37ce43da7a5ee110b67694cfd03ef9484bc9444219d266b27083894"
+  },
+  {
+    "path": "10_segundo_medio/024_alquinos.md",
+    "size": 4099,
+    "sha256": "004f4dd76562d5ffa47213916ec67a512e96f5a0b99a2fe3ddc2da621dcda136"
+  },
+  {
+    "path": "10_segundo_medio/025_grupos_funcionales.md",
+    "size": 4170,
+    "sha256": "b277b991f1b70e4aeaaee251a3e9c931344d1c8c4e9750c7082569d58d21d314"
+  },
+  {
+    "path": "10_segundo_medio/026_alcoholes.md",
+    "size": 4105,
+    "sha256": "6f2f38386a44423a756db20e92d3c602415fe99567dccb34dc77c2948e65ebd1"
+  },
+  {
+    "path": "10_segundo_medio/027_acidos_carboxilicos.md",
+    "size": 4179,
+    "sha256": "3b14ff39c23f239ab533cd4fb7301e27845cd8a2e2070816b0959e896de62f82"
+  },
+  {
+    "path": "10_segundo_medio/028_polimeros.md",
+    "size": 4110,
+    "sha256": "44c1b676e42db2ac2372f0f94503cc165d5729fc6a9313d992fbbc1acec730f6"
+  },
+  {
+    "path": "10_segundo_medio/029_quimica_del_petroleo.md",
+    "size": 4192,
+    "sha256": "2aba2781645bc2b9c32351ee1aa96ae78ffb35f1ef1f485a4079ffa62388b0cd"
+  },
+  {
+    "path": "10_segundo_medio/02_banco_preguntas.md",
+    "size": 4020,
+    "sha256": "df1f6d8cbe8181e0788be1f1d97d0cea2d8a37350833b37f7bec762ced007f60"
+  },
+  {
+    "path": "10_segundo_medio/030_quimica_y_ambiente.md",
+    "size": 4165,
+    "sha256": "cf108c1f5dc24080db76eaad2b72d1d0f43060fed1c91d1112e966b4cb1cf9de"
+  },
+  {
+    "path": "11_tercero_medio/001_sustancias_quimicas_cotidianas.md",
+    "size": 4246,
+    "sha256": "50c3146e41f81c7b3234d383f1aa35f1430d5ca135520348c635eaa7b94f617b"
+  },
+  {
+    "path": "11_tercero_medio/002_medicamentos_y_composicion.md",
+    "size": 4220,
+    "sha256": "75090fe85712176a4a9ae7d6c930b6980661c8f5ec60c90d3215c54572bb1492"
+  },
+  {
+    "path": "11_tercero_medio/003_detergentes.md",
+    "size": 4127,
+    "sha256": "49c31effa6c7c03a941cc8c7460a97c4bd9c715c901c99690538ed69faef3401"
+  },
+  {
+    "path": "11_tercero_medio/004_desinfectantes.md",
+    "size": 4145,
+    "sha256": "9bcdc6cf8128ca71f48bf8237d9b504e0f435c772d6077aad5698e4cbe33ebfe"
+  },
+  {
+    "path": "11_tercero_medio/005_plaguicidas.md",
+    "size": 4126,
+    "sha256": "e9db7d837e0e1f982086f1ee4051bcc32ef9e016254626f67e077c58e601aedd"
+  },
+  {
+    "path": "11_tercero_medio/006_pictogramas_de_peligro.md",
+    "size": 4182,
+    "sha256": "fa90bb029a1d3680266f1a8a6be0809adb604177a42527cfc7110c80555c7489"
+  },
+  {
+    "path": "11_tercero_medio/007_almacenamiento_seguro.md",
+    "size": 4177,
+    "sha256": "38adfa06413a2e06ed6f59ec905ebd777f56f7674f772aba1d2cccfb80d70af7"
+  },
+  {
+    "path": "11_tercero_medio/008_eliminacion_responsable.md",
+    "size": 4203,
+    "sha256": "222d01accf6605f5f6694b8093016d05177840507e175ff83ea7dea3eb079dae"
+  },
+  {
+    "path": "11_tercero_medio/009_quimica_verde.md",
+    "size": 4134,
+    "sha256": "71ea3593004b1475917359277a17a2a8f189c98adb214bfd1983a8342d5d7506"
+  },
+  {
+    "path": "11_tercero_medio/00_indice_curso.md",
+    "size": 1539,
+    "sha256": "6a06d71616038ed9825db4f5249e73c9b23cdeb752af06a2724bb205ae4e48c5"
+  },
+  {
+    "path": "11_tercero_medio/010_ciclo_de_vida_de_productos.md",
+    "size": 4208,
+    "sha256": "1d01e9c945407c4dfcd90e55b8af2bc35ea8dab184549945767a74c8849ac0c8"
+  },
+  {
+    "path": "11_tercero_medio/011_contaminacion_del_aire.md",
+    "size": 4197,
+    "sha256": "5cdb7843d47e2b2c593828cd1658ec2757cd048e481d29ffd3253497e57a6d0a"
+  },
+  {
+    "path": "11_tercero_medio/012_contaminacion_del_agua.md",
+    "size": 4197,
+    "sha256": "8e90e8c1e65329105ce74b1fbf977249321cb92799b8d12a292a14e81905f979"
+  },
+  {
+    "path": "11_tercero_medio/013_contaminacion_del_suelo.md",
+    "size": 4203,
+    "sha256": "24c4d033bf014cfd90a77ea9a9e77661decf1a42f38cbd29b1776a5b38a8b276"
+  },
+  {
+    "path": "11_tercero_medio/014_quimica_del_cambio_climatico.md",
+    "size": 4228,
+    "sha256": "204f5c1205ecb0e9e8221d24d5e2ca0e7f38162e0c74faeb7f94c98650b14b3c"
+  },
+  {
+    "path": "11_tercero_medio/015_gases_de_efecto_invernadero.md",
+    "size": 4223,
+    "sha256": "f72299ce28bc67a5cfcba7d1df9bccdc49cc20225d01fb1b8615435a3c30a9e4"
+  },
+  {
+    "path": "11_tercero_medio/016_calidad_del_agua.md",
+    "size": 4146,
+    "sha256": "e86b8b630f025527f66e183a319f9bccf3a7b9a98c14f1fc79503fcd0ba0f32a"
+  },
+  {
+    "path": "11_tercero_medio/017_tratamiento_de_aguas.md",
+    "size": 4171,
+    "sha256": "ed45c8b9381935aacbd04f341acf86e05ac07d9b50c35372620e71e47ef9d696"
+  },
+  {
+    "path": "11_tercero_medio/018_metales_pesados.md",
+    "size": 4151,
+    "sha256": "51a9f5dad70995042cd552ae8ce25bf0d900f82d79ee34b12d48799cd2ab2139"
+  },
+  {
+    "path": "11_tercero_medio/019_microplasticos.md",
+    "size": 4140,
+    "sha256": "d2c9a54bc64fa13adc9fa045ad24547ea06c576e201095e6a2845fbbbd87baf5"
+  },
+  {
+    "path": "11_tercero_medio/01_glosario_curso.md",
+    "size": 171,
+    "sha256": "8e1f76999f4b74f4844f200fae8a61e8d5ce17f9d11a8ac5ccc5c0508f41e8fd"
+  },
+  {
+    "path": "11_tercero_medio/020_quimica_de_alimentos.md",
+    "size": 4186,
+    "sha256": "09d60114a1adb601421f951f7969086ae33ccf927a8b72eb78bf9c94572f54da"
+  },
+  {
+    "path": "11_tercero_medio/021_aditivos_alimentarios.md",
+    "size": 4187,
+    "sha256": "f870fbf1d8d96ae5cdbf3062e5e6e6fa9be210e0c25b889c0346eea126790cdf"
+  },
+  {
+    "path": "11_tercero_medio/022_fermentacion.md",
+    "size": 4137,
+    "sha256": "8175a6f4b352a68dd8e0dd29e83d9ae67601c032a27903c47261efdf9e55fdb2"
+  },
+  {
+    "path": "11_tercero_medio/023_termoquimica_inicial.md",
+    "size": 4180,
+    "sha256": "1d18a804113e3cec80e248591f2c380bdb1027ad57dfda50af66e264ecf86b4a"
+  },
+  {
+    "path": "11_tercero_medio/024_entalpia.md",
+    "size": 4108,
+    "sha256": "7d75e12685f21a48965b7127ab92259b55b1e1801aba1408b8d9abb8495a3817"
+  },
+  {
+    "path": "11_tercero_medio/025_reacciones_exotermicas_y_endotermicas.md",
+    "size": 4293,
+    "sha256": "701b388b791ba244b88e0883e02faae7ba3e5fd01df8a7cfa100f662889442e1"
+  },
+  {
+    "path": "11_tercero_medio/026_cinetica_quimica.md",
+    "size": 4161,
+    "sha256": "ccf7c53a7ba519c192eaae34f964f48cc07e2bd507b7165e42b6f3061086c41f"
+  },
+  {
+    "path": "11_tercero_medio/027_velocidad_de_reaccion.md",
+    "size": 4191,
+    "sha256": "5c301b817d1d9b95493d1c74f08bcd4c566b88fcaa6793ca06914e446274367a"
+  },
+  {
+    "path": "11_tercero_medio/028_catalizadores.md",
+    "size": 4133,
+    "sha256": "05a0430dd47e1f89cf63b5bccc2917aa9ace95604d2d2793b88464bb40588802"
+  },
+  {
+    "path": "11_tercero_medio/02_banco_preguntas.md",
+    "size": 3840,
+    "sha256": "65d92fb895adb7a9649880bc3fa46f998b3955d68c8d2a5adb69fdefb8b82938"
+  },
+  {
+    "path": "12_cuarto_medio/001_termodinamica_quimica.md",
+    "size": 4191,
+    "sha256": "7568da5e15eb5b821e3d2fdb3192af65ada9be4339e1bccabebc1009ca8a9073"
+  },
+  {
+    "path": "12_cuarto_medio/002_primera_ley.md",
+    "size": 4127,
+    "sha256": "9209d91bec79bbd2186bf3bef83d04b89d9ec721895b70e471b6d498c5257646"
+  },
+  {
+    "path": "12_cuarto_medio/003_entalpia_de_reaccion.md",
+    "size": 4190,
+    "sha256": "d38680f1d9fee0a8830c03964f9231f4f8fd0fbb79ac1cdad6d71bdbf61e7630"
+  },
+  {
+    "path": "12_cuarto_medio/004_ley_de_hess.md",
+    "size": 4127,
+    "sha256": "534c99590a806c88714cec0c1387b0bacd2ea842369697e6bda320e0f543e582"
+  },
+  {
+    "path": "12_cuarto_medio/005_entropia.md",
+    "size": 4108,
+    "sha256": "d84c93db52f10817a6a9e3f7a52f56e14acb190265d6bd0c1374f3e962938eaa"
+  },
+  {
+    "path": "12_cuarto_medio/006_energia_libre_de_gibbs.md",
+    "size": 4192,
+    "sha256": "b8b3632d642c3298c1ca12a14eb7ee44a7ab5f473d75274624bced1e4ed07ebd"
+  },
+  {
+    "path": "12_cuarto_medio/007_espontaneidad.md",
+    "size": 4139,
+    "sha256": "0097ec0da198977bb398b1d69cd4facc8044575545f850c4669aa6fd36d7ac5e"
+  },
+  {
+    "path": "12_cuarto_medio/008_equilibrio_quimico.md",
+    "size": 4168,
+    "sha256": "9e5e1834086926202b441a2ed1a0aac5edc3921862bee4eb7db4c853d9045fa8"
+  },
+  {
+    "path": "12_cuarto_medio/009_constante_de_equilibrio.md",
+    "size": 4193,
+    "sha256": "3e84a088e5f0bb798ea9ba9035d6bce50566d9f033629db147f8f424457cf7bd"
+  },
+  {
+    "path": "12_cuarto_medio/00_indice_curso.md",
+    "size": 1574,
+    "sha256": "1ddccdeefaa059c7ef66291907f23d34cbccf47c3e53c872da5017bdca2c191c"
+  },
+  {
+    "path": "12_cuarto_medio/010_le_ch_telier.md",
+    "size": 4138,
+    "sha256": "eee4e32628a5c342d54bec7e8ef3eb970bf0e158702ea4f17d494cec63cc27d8"
+  },
+  {
+    "path": "12_cuarto_medio/011_equilibrio_acido_base.md",
+    "size": 4185,
+    "sha256": "f81507149570370606ce5175f48f2872c29db951c8d5b3f644c88c568cf431b1"
+  },
+  {
+    "path": "12_cuarto_medio/012_soluciones_buffer.md",
+    "size": 4162,
+    "sha256": "35855a9ca20f92225287b2125683bca10b0cb7fe69f799c75e65bc4c36827bf1"
+  },
+  {
+    "path": "12_cuarto_medio/013_producto_de_solubilidad.md",
+    "size": 4198,
+    "sha256": "a08aaf3db636df23e35f6496414e29682d9488a75e0aea597a6636d749c53631"
+  },
+  {
+    "path": "12_cuarto_medio/014_cinetica_avanzada.md",
+    "size": 4162,
+    "sha256": "ecefebc0ee4678f809844b031a2b5b2aed742cac3ef031141ee36a76d2b42719"
+  },
+  {
+    "path": "12_cuarto_medio/015_mecanismos_de_reaccion.md",
+    "size": 4197,
+    "sha256": "82f82621974b14986d8ea136f406818c2478881c0494010ce58801ffc60c68a8"
+  },
+  {
+    "path": "12_cuarto_medio/016_energia_de_activacion.md",
+    "size": 4196,
+    "sha256": "e61e97244316413020475df2639f3304a7244bdcf49ba03489ccbac66d946bb6"
+  },
+  {
+    "path": "12_cuarto_medio/017_catalisis_homogenea_y_heterogenea.md",
+    "size": 4274,
+    "sha256": "dda4f957e32a2cc65b408009e2b2544118cd0ffca23c07f02979e09a2d002f1f"
+  },
+  {
+    "path": "12_cuarto_medio/018_electroquimica.md",
+    "size": 4150,
+    "sha256": "ed88f1eea865eae149c2da15be5da1a17d26b2cf1dacdd265fa2ca244de59174"
+  },
+  {
+    "path": "12_cuarto_medio/019_celdas_galvanicas.md",
+    "size": 4168,
+    "sha256": "663b7a5575128064d0f16e8f57f98a4c579f3e8085aafcd8c3e356925374bd2b"
+  },
+  {
+    "path": "12_cuarto_medio/01_glosario_curso.md",
+    "size": 171,
+    "sha256": "8e1f76999f4b74f4844f200fae8a61e8d5ce17f9d11a8ac5ccc5c0508f41e8fd"
+  },
+  {
+    "path": "12_cuarto_medio/020_electrolisis.md",
+    "size": 4138,
+    "sha256": "52e138b312c59e68c6e1cf0e914cf4f804dc61162161a6bc5948c79607c39de1"
+  },
+  {
+    "path": "12_cuarto_medio/021_corrosion_y_proteccion.md",
+    "size": 4202,
+    "sha256": "c86676cdad4ec2123357060fc6daf385a050546c068849374f0fbf0ea62e0a50"
+  },
+  {
+    "path": "12_cuarto_medio/022_quimica_organica_avanzada.md",
+    "size": 4210,
+    "sha256": "4e2b7446134c9c4315f4d979841701a0654d11934a629c86ac2bb4ae7537d242"
+  },
+  {
+    "path": "12_cuarto_medio/023_isomeria.md",
+    "size": 4114,
+    "sha256": "77494d784b89c85c2f746f1e5890051199bc1fcf3c278e332c12bd3bf60a82e2"
+  },
+  {
+    "path": "12_cuarto_medio/024_reacciones_organicas.md",
+    "size": 4175,
+    "sha256": "9a385d4816219c41ff91ebad68743483c624d44db36b9795328bd1a7c2e912e4"
+  },
+  {
+    "path": "12_cuarto_medio/025_biomoleculas.md",
+    "size": 4127,
+    "sha256": "a72ec62e683ecdecd2cb9d0d73ea72d35beb58a1fcde6833448d3d068b24f173"
+  },
+  {
+    "path": "12_cuarto_medio/026_quimica_farmaceutica.md",
+    "size": 4190,
+    "sha256": "1a5f90916f0ff19997c35eb3c7a7a1a68e9a1afe88682a3e45091131db8135e7"
+  },
+  {
+    "path": "12_cuarto_medio/027_materiales_avanzados.md",
+    "size": 4181,
+    "sha256": "025bdc9acdcb85236677e904ef256b1e51f10372fc8691fabcaf7a92c6b6d71f"
+  },
+  {
+    "path": "12_cuarto_medio/028_nanomateriales.md",
+    "size": 4144,
+    "sha256": "777fec2e813ca7814f7fb86a5d1dd2e469c1a483bf83f980785f21da7ad8d987"
+  },
+  {
+    "path": "12_cuarto_medio/029_quimica_ambiental_y_justicia.md",
+    "size": 4234,
+    "sha256": "5a55410741a65e95eaed138a4238cff6e487cb245345d26eb5250511a91024ec"
+  },
+  {
+    "path": "12_cuarto_medio/02_banco_preguntas.md",
+    "size": 4081,
+    "sha256": "098d0919e240e2ee3757a0406451c94d3123174c9582190ba0d2d3e1ce912a44"
+  },
+  {
+    "path": "12_cuarto_medio/030_proyecto_quimico_aplicado.md",
+    "size": 4216,
+    "sha256": "64322637e0783915fae0ce969e7452372636cf385fd5de3da482c5eaf357f6ea"
+  },
+  {
+    "path": "13_tematicos_transversales/001_que_estudia_la_quimica.md",
+    "size": 4252,
+    "sha256": "27e3fe85cf77eec1921dada15a8e761e750a513f9738e4e7207844f4b74bd956"
+  },
+  {
+    "path": "13_tematicos_transversales/002_materia_y_propiedades.md",
+    "size": 4236,
+    "sha256": "4ac982fd1f962f176bfb658ed1720d12f4cd72f3713f4ca4b885e7e58f5e5f41"
+  },
+  {
+    "path": "13_tematicos_transversales/003_estados_de_la_materia.md",
+    "size": 4236,
+    "sha256": "89efce9b5f336a2d8809a590d438c0946b74a3e9fb87a64a371991d7cf886805"
+  },
+  {
+    "path": "13_tematicos_transversales/004_modelo_de_particulas.md",
+    "size": 4235,
+    "sha256": "61bfcc50d07fde3c45e421d8c086526a7181fa8e823466b2700f2d9e012e56e5"
+  },
+  {
+    "path": "13_tematicos_transversales/005_cambios_fisicos_y_quimicos.md",
+    "size": 4276,
+    "sha256": "bbc069918794e15f24afc72c985750911221802aa829efa302a35cfb19ccbb13"
+  },
+  {
+    "path": "13_tematicos_transversales/006_atomos.md",
+    "size": 4150,
+    "sha256": "5484969005228e6a63fec5c40521d9ed2ce1f46a2f6d7efe8080bacc5d4c2cb7"
+  },
+  {
+    "path": "13_tematicos_transversales/007_moleculas.md",
+    "size": 4169,
+    "sha256": "6b9f7a86d8e71ccb88ba2df070c91f17569677a3e9c34cbac230310db7a3c21d"
+  },
+  {
+    "path": "13_tematicos_transversales/008_elementos_y_compuestos.md",
+    "size": 4242,
+    "sha256": "7a91158b2967b356fbad429ee658a29af6fe162dee607452e8027f41b5e7787a"
+  },
+  {
+    "path": "13_tematicos_transversales/009_tabla_periodica.md",
+    "size": 4204,
+    "sha256": "9c492a5733704d6a980ac40bb557f49a4edac5ca5696a7a058654985f148e161"
+  },
+  {
+    "path": "13_tematicos_transversales/010_mezclas.md",
+    "size": 4151,
+    "sha256": "fe3c0d6e3f51bf7b909d058250dc69b5bdb402906e8bef71904877208a03e771"
+  },
+  {
+    "path": "13_tematicos_transversales/011_soluciones.md",
+    "size": 4169,
+    "sha256": "4dbc89e8e4da162f5c35faa37f9f6f5a4538480d18055af0b6d21ae0a6ad6ea4"
+  },
+  {
+    "path": "13_tematicos_transversales/012_solubilidad.md",
+    "size": 4175,
+    "sha256": "ceefd9985b10359f184c3afa773117adf87d92bb0f27ccde6b9d77227e943b2a"
+  },
+  {
+    "path": "13_tematicos_transversales/013_metodos_de_separacion.md",
+    "size": 4245,
+    "sha256": "b9d13e3e9a7124331843cba724bbbac93032a6c65967c54847768b3818b4b128"
+  },
+  {
+    "path": "13_tematicos_transversales/014_reacciones_quimicas.md",
+    "size": 4229,
+    "sha256": "5000dfaec644d8b6f96a41eaa8576fed0d96cf4cf3c7114eead1afc458355d56"
+  },
+  {
+    "path": "13_tematicos_transversales/015_conservacion_de_masa.md",
+    "size": 4234,
+    "sha256": "35949f3b6e3f50d0286915c948cab87d0bce63f9cb61b0a07c7f705835ed8ca2"
+  },
+  {
+    "path": "13_tematicos_transversales/016_ecuaciones_quimicas.md",
+    "size": 4229,
+    "sha256": "7e7d6d008b36f6d0f58b49247bb5c30538ef24edfe5efa0a12887cd6ea296ec7"
+  },
+  {
+    "path": "13_tematicos_transversales/017_mol_y_estequiometria.md",
+    "size": 4235,
+    "sha256": "9a04e773aebe4a7203e20d72c5c5f3495ec250bf89aa99719ba41cf7b9ce46df"
+  },
+  {
+    "path": "13_tematicos_transversales/018_acidos_y_bases.md",
+    "size": 4192,
+    "sha256": "7ab6682f55cdc83a1a4a4f257406bc7643026016236334937cd95345d7e87175"
+  },
+  {
+    "path": "13_tematicos_transversales/019_ph.md",
+    "size": 4115,
+    "sha256": "a768ae1c334d114899f47d439fc8a46424dabc067993291b52b96c0185421a20"
+  },
+  {
+    "path": "13_tematicos_transversales/020_oxidacion_y_reduccion.md",
+    "size": 4245,
+    "sha256": "8deb0dcf75b8813bef4ef7679ad996656820e589c73dfc0c3bcc2de14cc11f12"
+  },
+  {
+    "path": "13_tematicos_transversales/021_quimica_organica.md",
+    "size": 4205,
+    "sha256": "4f30733e431e7d804e97405f98a7a7b42714a72678c4651a422cb13f4f59d52e"
+  },
+  {
+    "path": "13_tematicos_transversales/022_polimeros.md",
+    "size": 4158,
+    "sha256": "045424370326e50e6d2a262f7dfba61d303fe9546436bd66d104823baa792be4"
+  },
+  {
+    "path": "13_tematicos_transversales/023_quimica_cotidiana.md",
+    "size": 4217,
+    "sha256": "d977e6953e0ad55db965372c46f374e9cb3985698d115420688aeb68e203861e"
+  },
+  {
+    "path": "13_tematicos_transversales/024_quimica_ambiental.md",
+    "size": 4217,
+    "sha256": "8f7f783c655564b6bd502be06eb92db837cde84b58e59b8618516e74f87e93f9"
+  },
+  {
+    "path": "13_tematicos_transversales/025_quimica_verde.md",
+    "size": 4183,
+    "sha256": "e656650cc8da99ceebd056c4f1856d71995a682b8a647d294a5ed78e02b95d21"
+  },
+  {
+    "path": "13_tematicos_transversales/026_seguridad_en_laboratorio.md",
+    "size": 4244,
+    "sha256": "7d9f56c829a9118776338d24eaf7521f2437a47b1e4027d93c85fbd2174f834d"
+  },
+  {
+    "path": "13_tematicos_transversales/027_pictogramas_de_peligro.md",
+    "size": 4231,
+    "sha256": "d83d80c3fca1bba6d838896fb23d58b477d6dc304b86f9dcf992df9b606014ce"
+  },
+  {
+    "path": "13_tematicos_transversales/028_metodo_cientifico_quimico.md",
+    "size": 4275,
+    "sha256": "98f5b537aa3dc0f7babf77fa5bf7de5e309892ddbfd69571d2451fa6b807a27b"
+  },
+  {
+    "path": "14_bancos_generales/01_glosario_general.md",
+    "size": 186,
+    "sha256": "1cde9281ed0460da58667a0c1e5c5fd3621fa29afd70920d33f4f9de241b9436"
+  },
+  {
+    "path": "14_bancos_generales/02_palabras_clave.md",
+    "size": 6820,
+    "sha256": "8b1b250c094e3c869d02eefe1ea8dd95645c639dba61c142782a1f1ac183b260"
+  },
+  {
+    "path": "14_bancos_generales/03_mapa_relaciones_materias.md",
+    "size": 152,
+    "sha256": "3cd7319a5f6c8aa6a2400d3653774f442df6aab5f3ad06d997950cdaca1d83f9"
+  },
+  {
+    "path": "14_bancos_generales/04_plantilla_experimento_quimica.md",
+    "size": 130,
+    "sha256": "fd1aa3934501b7f0c03f4061e4ea6f695b1b036de563da200f4d061c41e98e5a"
+  },
+  {
+    "path": "15_evaluaciones_generales/01_evaluaciones_generales.md",
+    "size": 127,
+    "sha256": "c9dea5785c60a570edcf9a3bbefad0e1fbb43a63585d1686a352514667bbb751"
+  },
+  {
+    "path": "16_apoyo_inclusivo/01_adaptaciones_tea.md",
+    "size": 117,
+    "sha256": "c80862d69814e89f646bf2bcd533ba131ac808ff65c98c488d79538a03d6209d"
+  },
+  {
+    "path": "16_apoyo_inclusivo/02_reglas_por_perfil.md",
+    "size": 102,
+    "sha256": "72a1cd7395f685f75c55d4084f63eca26734c7139581e219eedb28c803c466fa"
+  },
+  {
+    "path": "17_compendios/compendio_cuarto_basico.md",
+    "size": 83884,
+    "sha256": "4037cc49b71d0319275f76f6ba046a0f85475f4f8c1dd16d93d4f9cb86a94da7"
+  },
+  {
+    "path": "17_compendios/compendio_cuarto_medio.md",
+    "size": 125433,
+    "sha256": "31ad2fdc839f721e1f837e59d0c3d49734c90c5e230327f775a736216fba072b"
+  },
+  {
+    "path": "17_compendios/compendio_octavo_basico.md",
+    "size": 108881,
+    "sha256": "de5d4991092bef6a520533cccd87c2f8d6043aa1b8c1c0f1808ea4c02595a9ca"
+  },
+  {
+    "path": "17_compendios/compendio_primero_basico.md",
+    "size": 62952,
+    "sha256": "2356faec90878975fc120b07dfc5254e767f870cd65931928c16eb9297f76e39"
+  },
+  {
+    "path": "17_compendios/compendio_primero_medio.md",
+    "size": 116630,
+    "sha256": "457855465b3596a5cfb308d3d94ad2e5ad3c4a078d51e341fbf6e431527de1f4"
+  },
+  {
+    "path": "17_compendios/compendio_quinto_basico.md",
+    "size": 100495,
+    "sha256": "b749f3baba00cb87dcbd138e235e52f57068b13792d77006860bf404ce040fa9"
+  },
+  {
+    "path": "17_compendios/compendio_segundo_basico.md",
+    "size": 66897,
+    "sha256": "546569463927c655b6d3f8bf14083f1b7f2f88329157602ac2376084785cc6a9"
+  },
+  {
+    "path": "17_compendios/compendio_segundo_medio.md",
+    "size": 125047,
+    "sha256": "21edf72f10a603671b7ca3f2ba78293bfb7de5ae9f602b285ed2a2ac9fa04ee0"
+  },
+  {
+    "path": "17_compendios/compendio_septimo_basico.md",
+    "size": 100526,
+    "sha256": "67c50e4ce215eed071f7759b3959b75c125422c622327c54d9a66c4d459db368"
+  },
+  {
+    "path": "17_compendios/compendio_sexto_basico.md",
+    "size": 100785,
+    "sha256": "4990a15387a2fcba0f045bab671cc555fd8f21c6207b11fbe82e6c80524181db"
+  },
+  {
+    "path": "17_compendios/compendio_tercero_basico.md",
+    "size": 75298,
+    "sha256": "d2b04cd878ae084bc595d4f24bd46633fdd3acd2737976cee4f0c1feec98577a"
+  },
+  {
+    "path": "17_compendios/compendio_tercero_medio.md",
+    "size": 117223,
+    "sha256": "d14b6584ef862bf6bfd9043de6959b1cbe3b46b72b89adfe709beed9c62a6f62"
+  },
+  {
+    "path": "17_compendios/enciclopedia_completa_quimica.md",
+    "size": 1184088,
+    "sha256": "d4f948398f430b884f45d7d4e8a2308c357b74ea6a9bc37d682978f497997d13"
+  },
+  {
+    "path": "18_rag/catalogo_capitulos.json",
+    "size": 90294,
+    "sha256": "3952a5dca83e5a28181400029da0a9e6b63f87137b46ebce6ce9cf625567e6ff"
+  },
+  {
+    "path": "18_rag/catalogo_capitulos.jsonl",
+    "size": 79406,
+    "sha256": "25d1ccf0d7b1a7d7ea2eb71d8adbe20088374fc5a82aede44f6811e73c8c7f84"
+  },
+  {
+    "path": "18_rag/chunks_quimica.jsonl",
+    "size": 2288572,
+    "sha256": "72520c9818b963c01bb0d256bc95a97d7267164044250ff511b72f03a5901f42"
+  },
+  {
+    "path": "README.md",
+    "size": 110,
+    "sha256": "d4b500b1a0a1a42d6b463d5d923c6ee3db1b4605b46d1a7877698cf562e72424"
+  }
+]

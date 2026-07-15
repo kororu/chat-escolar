@@ -1,0 +1,16 @@
+# Índice — 4° básico
+
+- [Conflictos entre mayas, mexicas e incas](001_conflictos_entre_mayas_mexicas_e_incas.md)
+- [Guerras y alianzas mesoamericanas](002_guerras_y_alianzas_mesoamericanas.md)
+- [Expansión inca y resistencia](003_expansion_inca_y_resistencia.md)
+- [Llegada europea y conflicto](004_llegada_europea_y_conflicto.md)
+- [Epidemias y población](005_epidemias_y_poblacion.md)
+- [Fuentes indígenas y europeas](006_fuentes_indigenas_y_europeas.md)
+- [Tributo y desigualdad](007_tributo_y_desigualdad.md)
+- [Acuerdos y parlamentos](008_acuerdos_y_parlamentos.md)
+- [Derechos de la niñez en conflictos](009_derechos_de_la_ninez_en_conflictos.md)
+- [Justicia y reparación](010_justicia_y_reparacion.md)
+- [Relatos de victoria](011_relatos_de_victoria.md)
+- [Patrimonio en conflicto](012_patrimonio_en_conflicto.md)
+- [Ciberacoso y conflicto](013_ciberacoso_y_conflicto.md)
+- [Mediación reparadora](014_mediacion_reparadora.md)

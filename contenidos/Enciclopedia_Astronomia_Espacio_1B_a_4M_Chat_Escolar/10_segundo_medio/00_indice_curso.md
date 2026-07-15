@@ -1,0 +1,32 @@
+# Índice de Astronomía — 2° medio
+
+- [Mecánica orbital](001_mecanica_orbital.md) — astronomia_general
+- [Gravitación universal aplicada](002_gravitacion_universal_aplicada.md) — astronomia_general
+- [Órbitas circulares y elípticas](003_orbitas_circulares_y_elipticas.md) — gravedad_y_orbitas
+- [Energía orbital](004_energia_orbital.md) — astronomia_general
+- [Velocidad de escape](005_velocidad_de_escape.md) — gravedad_y_orbitas
+- [Transferencias orbitales iniciales](006_transferencias_orbitales_iniciales.md) — astronomia_general
+- [Satélites de comunicaciones](007_satelites_de_comunicaciones.md) — exploracion_espacial
+- [Satélites meteorológicos](008_satelites_meteorologicos.md) — sistema_solar
+- [Sistemas de navegación por satélite](009_sistemas_de_navegacion_por_satelite.md) — exploracion_espacial
+- [Teledetección terrestre](010_teledeteccion_terrestre.md) — astronomia_general
+- [Cohetes y propulsión inicial](011_cohetes_y_propulsion_inicial.md) — exploracion_espacial
+- [Etapas de un lanzamiento](012_etapas_de_un_lanzamiento.md) — astronomia_general
+- [Microgravedad y cuerpo humano](013_microgravedad_y_cuerpo_humano.md) — gravedad_y_orbitas
+- [Vida en estaciones espaciales](014_vida_en_estaciones_espaciales.md) — astrobiologia
+- [Radiación espacial](015_radiacion_espacial.md) — astronomia_general
+- [Exploración lunar](016_exploracion_lunar.md) — tierra_luna
+- [Exploración de Marte](017_exploracion_de_marte.md) — exploracion_espacial
+- [Sondas a planetas exteriores](018_sondas_a_planetas_exteriores.md) — sistema_solar
+- [Misiones a asteroides y cometas](019_misiones_a_asteroides_y_cometas.md) — sistema_solar
+- [Telescopios espaciales](020_telescopios_espaciales.md) — astronomia_general
+- [Espectros y composición estelar](021_espectros_y_composicion_estelar.md) — astronomia_general
+- [Diagrama Hertzsprung-Russell inicial](022_diagrama_hertzsprung_russell_inicial.md) — estrellas
+- [Evolución estelar](023_evolucion_estelar.md) — astronomia_general
+- [Supernovas](024_supernovas.md) — estrellas
+- [Estrellas de neutrones](025_estrellas_de_neutrones.md) — estrellas
+- [Púlsares](026_pulsares.md) — estrellas
+- [Agujeros negros](027_agujeros_negros.md) — astronomia_general
+- [Ondas gravitacionales iniciales](028_ondas_gravitacionales_iniciales.md) — astronomia_general
+- [Exoplanetas](029_exoplanetas.md) — sistema_solar
+- [Astrobiología inicial](030_astrobiologia_inicial.md) — astrobiologia

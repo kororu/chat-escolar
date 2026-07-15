@@ -1,0 +1,106 @@
+# Glosario inicial — 1° medio
+
+- **1917:** Concepto vinculado con revolución rusa de 1917; debe definirse dentro de su contexto histórico.
+- **Abolicion:** Concepto vinculado con abolición del antiguo régimen y expansión de la ciudadanía; debe definirse dentro de su contexto histórico.
+- **Africa:** Concepto vinculado con reparto de áfrica y conferencia de berlín; debe definirse dentro de su contexto histórico.
+- **Al:** Concepto vinculado con china frente al imperialismo y guerras del opio; debe definirse dentro de su contexto histórico.
+- **Alemania:** Concepto vinculado con unificación de alemania; debe definirse dentro de su contexto histórico.
+- **Anarquismo:** Concepto vinculado con socialismo, marxismo y anarquismo; debe definirse dentro de su contexto histórico.
+- **Anticoloniales:** Concepto vinculado con resistencias anticoloniales; debe definirse dentro de su contexto histórico.
+- **Antiguo:** Concepto vinculado con abolición del antiguo régimen y expansión de la ciudadanía; debe definirse dentro de su contexto histórico.
+- **Armenio:** Concepto vinculado con guerra total, población civil y genocidio armenio; debe definirse dentro de su contexto histórico.
+- **Asia:** Concepto vinculado con imperialismo europeo en áfrica y asia; debe definirse dentro de su contexto histórico.
+- **Belle:** Concepto vinculado con belle époque y cultura de masas inicial; debe definirse dentro de su contexto histórico.
+- **Berlin:** Concepto vinculado con reparto de áfrica y conferencia de berlín; debe definirse dentro de su contexto histórico.
+- **Britanico:** Concepto vinculado con imperialismo británico en india; debe definirse dentro de su contexto histórico.
+- **Burguesa:** Concepto vinculado con cultura burguesa, vida privada y espacio público; debe definirse dentro de su contexto histórico.
+- **Burguesia:** Concepto vinculado con burguesía, proletariado y clases medias; debe definirse dentro de su contexto histórico.
+- **Capitalismo:** Concepto vinculado con capitalismo industrial y mercado mundial; debe definirse dentro de su contexto histórico.
+- **Causas:** Concepto vinculado con causas de la primera guerra mundial; debe definirse dentro de su contexto histórico.
+- **China:** Concepto vinculado con china frente al imperialismo y guerras del opio; debe definirse dentro de su contexto histórico.
+- **Cientifico:** Concepto vinculado con racismo científico y darwinismo social; debe definirse dentro de su contexto histórico.
+- **Ciudadania:** Concepto vinculado con abolición del antiguo régimen y expansión de la ciudadanía; debe definirse dentro de su contexto histórico.
+- **Ciudades:** Concepto vinculado con urbanización y transformación de las ciudades; debe definirse dentro de su contexto histórico.
+- **Civil:** Concepto vinculado con guerra total, población civil y genocidio armenio; debe definirse dentro de su contexto histórico.
+- **Clases:** Concepto vinculado con burguesía, proletariado y clases medias; debe definirse dentro de su contexto histórico.
+- **Colectivas:** Concepto vinculado con nacionalismo, romanticismo e identidades colectivas; debe definirse dentro de su contexto histórico.
+- **Combatientes:** Concepto vinculado con la guerra de trincheras y la experiencia de los combatientes; debe definirse dentro de su contexto histórico.
+- **Conferencia:** Concepto vinculado con reparto de áfrica y conferencia de berlín; debe definirse dentro de su contexto histórico.
+- **Consecuencias:** Concepto vinculado con tratado de versalles y consecuencias de la guerra; debe definirse dentro de su contexto histórico.
+- **Cultura:** Concepto vinculado con belle époque y cultura de masas inicial; debe definirse dentro de su contexto histórico.
+- **Darwinismo:** Concepto vinculado con racismo científico y darwinismo social; debe definirse dentro de su contexto histórico.
+- **Energia:** Concepto vinculado con fábrica, mecanización y nuevas fuentes de energía; debe definirse dentro de su contexto histórico.
+- **Epoque:** Concepto vinculado con belle époque y cultura de masas inicial; debe definirse dentro de su contexto histórico.
+- **Espacio:** Concepto vinculado con cultura burguesa, vida privada y espacio público; debe definirse dentro de su contexto histórico.
+- **Estados:** Concepto vinculado con formación de estados nacionales; debe definirse dentro de su contexto histórico.
+- **Europeo:** Concepto vinculado con imperialismo europeo en áfrica y asia; debe definirse dentro de su contexto histórico.
+- **Expansion:** Concepto vinculado con abolición del antiguo régimen y expansión de la ciudadanía; debe definirse dentro de su contexto histórico.
+- **Experiencia:** Concepto vinculado con la guerra de trincheras y la experiencia de los combatientes; debe definirse dentro de su contexto histórico.
+- **Fabrica:** Concepto vinculado con fábrica, mecanización y nuevas fuentes de energía; debe definirse dentro de su contexto histórico.
+- **Formacion:** Concepto vinculado con formación de estados nacionales; debe definirse dentro de su contexto histórico.
+- **Frente:** Concepto vinculado con china frente al imperialismo y guerras del opio; debe definirse dentro de su contexto histórico.
+- **Fuentes:** Concepto vinculado con fábrica, mecanización y nuevas fuentes de energía; debe definirse dentro de su contexto histórico.
+- **Genocidio:** Concepto vinculado con guerra total, población civil y genocidio armenio; debe definirse dentro de su contexto histórico.
+- **Guerra:** Concepto vinculado con tratado de versalles y consecuencias de la guerra; debe definirse dentro de su contexto histórico.
+- **Guerras:** Concepto vinculado con china frente al imperialismo y guerras del opio; debe definirse dentro de su contexto histórico.
+- **Huelgas:** Concepto vinculado con sindicatos, huelgas y legislación social; debe definirse dentro de su contexto histórico.
+- **Idea:** Concepto vinculado con idea de progreso y positivismo; debe definirse dentro de su contexto histórico.
+- **Identidades:** Concepto vinculado con nacionalismo, romanticismo e identidades colectivas; debe definirse dentro de su contexto histórico.
+- **Ilustracion:** Concepto vinculado con ilustración, liberalismo y republicanismo en el siglo xix; debe definirse dentro de su contexto histórico.
+- **Imperialismo:** Concepto vinculado con china frente al imperialismo y guerras del opio; debe definirse dentro de su contexto histórico.
+- **India:** Concepto vinculado con imperialismo británico en india; debe definirse dentro de su contexto histórico.
+- **Industrial:** Concepto vinculado con capitalismo industrial y mercado mundial; debe definirse dentro de su contexto histórico.
+- **Infantil:** Concepto vinculado con trabajo infantil y vida obrera; debe definirse dentro de su contexto histórico.
+- **Inicial:** Concepto vinculado con belle époque y cultura de masas inicial; debe definirse dentro de su contexto histórico.
+- **Italia:** Concepto vinculado con unificación de italia; debe definirse dentro de su contexto histórico.
+- **Japon:** Concepto vinculado con japón meiji y modernización; debe definirse dentro de su contexto histórico.
+- **Legislacion:** Concepto vinculado con sindicatos, huelgas y legislación social; debe definirse dentro de su contexto histórico.
+- **Liberalismo:** Concepto vinculado con ilustración, liberalismo y republicanismo en el siglo xix; debe definirse dentro de su contexto histórico.
+- **Marxismo:** Concepto vinculado con socialismo, marxismo y anarquismo; debe definirse dentro de su contexto histórico.
+- **Masas:** Concepto vinculado con belle époque y cultura de masas inicial; debe definirse dentro de su contexto histórico.
+- **Masivas:** Concepto vinculado con migraciones masivas del siglo xix; debe definirse dentro de su contexto histórico.
+- **Mecanizacion:** Concepto vinculado con fábrica, mecanización y nuevas fuentes de energía; debe definirse dentro de su contexto histórico.
+- **Medias:** Concepto vinculado con burguesía, proletariado y clases medias; debe definirse dentro de su contexto histórico.
+- **Meiji:** Concepto vinculado con japón meiji y modernización; debe definirse dentro de su contexto histórico.
+- **Mercado:** Concepto vinculado con capitalismo industrial y mercado mundial; debe definirse dentro de su contexto histórico.
+- **Migraciones:** Concepto vinculado con migraciones masivas del siglo xix; debe definirse dentro de su contexto histórico.
+- **Modernizacion:** Concepto vinculado con japón meiji y modernización; debe definirse dentro de su contexto histórico.
+- **Movimientos:** Concepto vinculado con movimientos de mujeres y sufragismo; debe definirse dentro de su contexto histórico.
+- **Mujeres:** Concepto vinculado con movimientos de mujeres y sufragismo; debe definirse dentro de su contexto histórico.
+- **Mundial:** Concepto vinculado con causas de la primera guerra mundial; debe definirse dentro de su contexto histórico.
+- **Nacionales:** Concepto vinculado con formación de estados nacionales; debe definirse dentro de su contexto histórico.
+- **Nacionalismo:** Concepto vinculado con nacionalismo, romanticismo e identidades colectivas; debe definirse dentro de su contexto histórico.
+- **Nuevas:** Concepto vinculado con fábrica, mecanización y nuevas fuentes de energía; debe definirse dentro de su contexto histórico.
+- **Obrera:** Concepto vinculado con trabajo infantil y vida obrera; debe definirse dentro de su contexto histórico.
+- **Opio:** Concepto vinculado con china frente al imperialismo y guerras del opio; debe definirse dentro de su contexto histórico.
+- **Poblacion:** Concepto vinculado con guerra total, población civil y genocidio armenio; debe definirse dentro de su contexto histórico.
+- **Positivismo:** Concepto vinculado con idea de progreso y positivismo; debe definirse dentro de su contexto histórico.
+- **Primera:** Concepto vinculado con causas de la primera guerra mundial; debe definirse dentro de su contexto histórico.
+- **Privada:** Concepto vinculado con cultura burguesa, vida privada y espacio público; debe definirse dentro de su contexto histórico.
+- **Progreso:** Concepto vinculado con idea de progreso y positivismo; debe definirse dentro de su contexto histórico.
+- **Proletariado:** Concepto vinculado con burguesía, proletariado y clases medias; debe definirse dentro de su contexto histórico.
+- **Publico:** Concepto vinculado con cultura burguesa, vida privada y espacio público; debe definirse dentro de su contexto histórico.
+- **Racismo:** Concepto vinculado con racismo científico y darwinismo social; debe definirse dentro de su contexto histórico.
+- **Regimen:** Concepto vinculado con abolición del antiguo régimen y expansión de la ciudadanía; debe definirse dentro de su contexto histórico.
+- **Reparto:** Concepto vinculado con reparto de áfrica y conferencia de berlín; debe definirse dentro de su contexto histórico.
+- **Republicanismo:** Concepto vinculado con ilustración, liberalismo y republicanismo en el siglo xix; debe definirse dentro de su contexto histórico.
+- **Resistencias:** Concepto vinculado con resistencias anticoloniales; debe definirse dentro de su contexto histórico.
+- **Revolucion:** Concepto vinculado con revolución rusa de 1917; debe definirse dentro de su contexto histórico.
+- **Romanticismo:** Concepto vinculado con nacionalismo, romanticismo e identidades colectivas; debe definirse dentro de su contexto histórico.
+- **Rusa:** Concepto vinculado con revolución rusa de 1917; debe definirse dentro de su contexto histórico.
+- **Segunda:** Concepto vinculado con primera y segunda revolución industrial; debe definirse dentro de su contexto histórico.
+- **Siglo:** Concepto vinculado con migraciones masivas del siglo xix; debe definirse dentro de su contexto histórico.
+- **Sindicatos:** Concepto vinculado con sindicatos, huelgas y legislación social; debe definirse dentro de su contexto histórico.
+- **Social:** Concepto vinculado con racismo científico y darwinismo social; debe definirse dentro de su contexto histórico.
+- **Socialismo:** Concepto vinculado con socialismo, marxismo y anarquismo; debe definirse dentro de su contexto histórico.
+- **Sufragismo:** Concepto vinculado con movimientos de mujeres y sufragismo; debe definirse dentro de su contexto histórico.
+- **Total:** Concepto vinculado con guerra total, población civil y genocidio armenio; debe definirse dentro de su contexto histórico.
+- **Trabajo:** Concepto vinculado con trabajo infantil y vida obrera; debe definirse dentro de su contexto histórico.
+- **Transformacion:** Concepto vinculado con urbanización y transformación de las ciudades; debe definirse dentro de su contexto histórico.
+- **Tratado:** Concepto vinculado con tratado de versalles y consecuencias de la guerra; debe definirse dentro de su contexto histórico.
+- **Trincheras:** Concepto vinculado con la guerra de trincheras y la experiencia de los combatientes; debe definirse dentro de su contexto histórico.
+- **Unificacion:** Concepto vinculado con unificación de alemania; debe definirse dentro de su contexto histórico.
+- **Urbanizacion:** Concepto vinculado con urbanización y transformación de las ciudades; debe definirse dentro de su contexto histórico.
+- **Versalles:** Concepto vinculado con tratado de versalles y consecuencias de la guerra; debe definirse dentro de su contexto histórico.
+- **Vida:** Concepto vinculado con trabajo infantil y vida obrera; debe definirse dentro de su contexto histórico.
+- **Xix:** Concepto vinculado con migraciones masivas del siglo xix; debe definirse dentro de su contexto histórico.

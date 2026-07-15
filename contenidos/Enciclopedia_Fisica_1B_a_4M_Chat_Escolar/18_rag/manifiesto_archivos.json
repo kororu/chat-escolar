@@ -1,0 +1,1897 @@
+[
+  {
+    "path": "00_documentacion/00_indice_maestro.md",
+    "size": 3195,
+    "sha256": "0f964dd2a96a9ba4f72e3de1d86fdaf489aa69b2fe6ec5c758dc9f271e2e5532"
+  },
+  {
+    "path": "00_documentacion/00_instalacion.md",
+    "size": 143,
+    "sha256": "9bd59ecf5949b7182bfc974ee8647bfc91d3aee4bb5f4b4579937876641b49f6"
+  },
+  {
+    "path": "00_documentacion/01_estado_curricular_y_fuentes.md",
+    "size": 644,
+    "sha256": "f6e95a65bf75dfe64506426b15cb45a16901ccc9e7d6bd5fda02af47b8aa18c7"
+  },
+  {
+    "path": "00_documentacion/02_arquitectura_de_contenidos.md",
+    "size": 126,
+    "sha256": "7640522d0483ad6cdcedb768ce6e6f9dede177836ae80b4d2bcde2576e03ee31"
+  },
+  {
+    "path": "00_documentacion/03_guia_editorial_fisica.md",
+    "size": 190,
+    "sha256": "873f6a9f8cafc31b86217f83fb6672321cf946bd0d768027964b3d05338ca5df"
+  },
+  {
+    "path": "00_documentacion/04_mapa_vertical_curricular.md",
+    "size": 7385,
+    "sha256": "3b2d07919e104d837ecf1fefee6c40f6b581b7111d39572b673d7f657e168343"
+  },
+  {
+    "path": "00_documentacion/05_integracion_ollama_rag.md",
+    "size": 164,
+    "sha256": "dbbf9bee049f3c3d9602cc8ad459ddfbc34026679af790fa1e88cdc54e53b9bf"
+  },
+  {
+    "path": "00_documentacion/06_prompt_sistema_ollama.md",
+    "size": 190,
+    "sha256": "657fb8a1e02f44939f11b6cb00fd6718fb666eae4581fc6a416f29769b8dac04"
+  },
+  {
+    "path": "00_documentacion/07_configuracion_rag.yaml",
+    "size": 143,
+    "sha256": "fc4081c0b9ed1ae06ef36fe110bac1d5ecfa4fff578aa9530e0ae55e4602f33d"
+  },
+  {
+    "path": "00_documentacion/08_control_calidad.md",
+    "size": 91,
+    "sha256": "babc360159b1891038a78df495dbd6cc80a3d781c19d61c5a290d1f0313dbab1"
+  },
+  {
+    "path": "00_documentacion/09_pruebas_recuperacion.md",
+    "size": 184,
+    "sha256": "aee10b7861dd922d678f266f4c7dc9a71fe3223f30fe42a513e3bc926215f47b"
+  },
+  {
+    "path": "01_primero_basico/001_empujar_y_tirar.md",
+    "size": 5831,
+    "sha256": "0104c35baec0c383a953c75bc455f0af44bce1ca919881e3afdc02629ff62058"
+  },
+  {
+    "path": "01_primero_basico/002_cambios_de_forma_por_una_fuerza.md",
+    "size": 5926,
+    "sha256": "70dd2fd8f48d0eb2e3c1a812e1fab94127ddae4d684c1e4ffcfbea7adc9de157"
+  },
+  {
+    "path": "01_primero_basico/003_objetos_que_se_mueven_y_objetos_en_reposo.md",
+    "size": 5987,
+    "sha256": "13b736b449abe5c42d75c0ce309c9ca10ef0b99c5e8651c594ee6c8fe3098b2c"
+  },
+  {
+    "path": "01_primero_basico/004_movimiento_rapido_y_lento.md",
+    "size": 5855,
+    "sha256": "525face4670bf9c8080f72449d2597668173db74bf55ca0d98148544c5cb1d7e"
+  },
+  {
+    "path": "01_primero_basico/005_trayectorias_simples.md",
+    "size": 5861,
+    "sha256": "b5e919bec1a99ff2205a5835958900c757b85f6e55ee878a611aca04ac0b8605"
+  },
+  {
+    "path": "01_primero_basico/006_luz_natural_y_artificial.md",
+    "size": 5844,
+    "sha256": "bdd157746991f2415fc00f7216c3bf8f10953bea721f82c675ddb86938aaf633"
+  },
+  {
+    "path": "01_primero_basico/007_sombras.md",
+    "size": 5783,
+    "sha256": "d9a89b3e1fba6eb020606e2aa8616f08f1442b1260ea231debb97a18823adf20"
+  },
+  {
+    "path": "01_primero_basico/008_materiales_transparentes_y_opacos.md",
+    "size": 5939,
+    "sha256": "b94548bef268f5be901c7882d75ecbe2ed37b669a55ce0324614bda3c00ed22a"
+  },
+  {
+    "path": "01_primero_basico/009_sonidos_del_entorno.md",
+    "size": 5852,
+    "sha256": "333ba6060dea8061e412b51caa81e3b23d1fd7e714901815dcac41c0208096ae"
+  },
+  {
+    "path": "01_primero_basico/00_indice_curso.md",
+    "size": 1281,
+    "sha256": "c2abab945360ca065e1ac7288fa363a7709e389e3e8de0caca312bcd11f5a9ad"
+  },
+  {
+    "path": "01_primero_basico/010_vibracion_y_sonido_inicial.md",
+    "size": 5899,
+    "sha256": "83c0335940df4d8f9b25816aa63047fc4e1843bafa22dc78ffc696a212345ba9"
+  },
+  {
+    "path": "01_primero_basico/011_calor_y_objetos_calientes_o_frios.md",
+    "size": 5987,
+    "sha256": "cd1bf4523b07f28575fc8f69153e464527da56914d1541c2c0f9a953d088ceb7"
+  },
+  {
+    "path": "01_primero_basico/012_cambios_de_materiales_por_calor.md",
+    "size": 5970,
+    "sha256": "ebc2f1bc65df207467639a233725b304fe1c5b87084c737852f022bb20e40538"
+  },
+  {
+    "path": "01_primero_basico/013_el_sol_como_fuente_de_luz_y_calor.md",
+    "size": 5982,
+    "sha256": "43589a71725acd41749dd455cad84b2edcbe7d1d40df612e90aa9f99edb0d2cb"
+  },
+  {
+    "path": "01_primero_basico/014_seguridad_con_calor_luz_y_fuerza.md",
+    "size": 5937,
+    "sha256": "4493a46c8134e73f532beb00bb5a5389820dbdbcea87ba4c459f5a503a0e4192"
+  },
+  {
+    "path": "01_primero_basico/015_observar_y_comparar_movimientos.md",
+    "size": 5886,
+    "sha256": "0559bc54363e010c0368e54a519c8e06aa965bc936f12a9e0979f82d972f93b9"
+  },
+  {
+    "path": "01_primero_basico/01_glosario_curso.md",
+    "size": 331,
+    "sha256": "7df2f8a02ae3c1623ba848688c0e2c8e669997d802d691e0df6baabfa87dace3"
+  },
+  {
+    "path": "01_primero_basico/02_banco_preguntas.md",
+    "size": 2948,
+    "sha256": "e5de4ca5313b1c81c22e06f78376c332aaa03647a5c7aa580dfb4c64545e97d0"
+  },
+  {
+    "path": "02_segundo_basico/001_fuerzas_de_contacto.md",
+    "size": 5854,
+    "sha256": "89d8e96ec3a691a6d819b28102a48a5fa00a8a1109eb99f7efc81e456d20fa8c"
+  },
+  {
+    "path": "02_segundo_basico/002_empujar_tirar_y_detener.md",
+    "size": 5884,
+    "sha256": "5b84ab0897abe740ea6a5c470907505cb2150592a0f0894837da8bee0fb99d15"
+  },
+  {
+    "path": "02_segundo_basico/003_cambios_de_direccion.md",
+    "size": 5866,
+    "sha256": "06af862a82d5a14679364a07a36c4f130dd6942137f1c923cbb16b5bf899c4cd"
+  },
+  {
+    "path": "02_segundo_basico/004_rapidez_cualitativa.md",
+    "size": 5814,
+    "sha256": "a9e52833670932959eb63ff641640f8c190f8198ebe284279822467b410af0ce"
+  },
+  {
+    "path": "02_segundo_basico/005_trayectorias_rectas_y_curvas.md",
+    "size": 5909,
+    "sha256": "eb524d9e0383cb8eed95bcdddef1cc5913d7cd527a226e5b107d1c3108a3ca6c"
+  },
+  {
+    "path": "02_segundo_basico/006_gravedad_como_caida_de_objetos.md",
+    "size": 6005,
+    "sha256": "6ce9d470921d0fb96b4c43ba32469b16ffe85fa5016835434babf0ef9db9c695"
+  },
+  {
+    "path": "02_segundo_basico/007_friccion_inicial.md",
+    "size": 5842,
+    "sha256": "760bbb906d5bde7f1f5fcf4781d4b28486d81901ac93424f0393735e6c6db9fb"
+  },
+  {
+    "path": "02_segundo_basico/008_sonido_fuerte_y_suave.md",
+    "size": 5864,
+    "sha256": "8270a5481052eb080bebb68d7a089c93c691c9e1dfc3e81fb03bd1aacc6a0db6"
+  },
+  {
+    "path": "02_segundo_basico/009_sonido_agudo_y_grave.md",
+    "size": 5858,
+    "sha256": "d6d8b867575feb1e521e9b4e7afca378dd0bbc9a602b2b354d51f08938b1fa2b"
+  },
+  {
+    "path": "02_segundo_basico/00_indice_curso.md",
+    "size": 1256,
+    "sha256": "2e80c82fc64bbbb0f8c5e50d976c075c64f7243239d7bd7eb557ffe5520a7a09"
+  },
+  {
+    "path": "02_segundo_basico/010_fuentes_de_sonido.md",
+    "size": 5840,
+    "sha256": "bd5998c85a62c65ea4785012bd9f496a49ee48c459e9933dfba89563cfb6e336"
+  },
+  {
+    "path": "02_segundo_basico/011_propagacion_del_sonido_inicial.md",
+    "size": 5923,
+    "sha256": "c7356beec65f2a3a309cc1436736b48773be6d30af35eaca971715f56b26a867"
+  },
+  {
+    "path": "02_segundo_basico/012_luz_y_formacion_de_sombras.md",
+    "size": 5861,
+    "sha256": "a274cecdc59b2b6dfdc4ecfd08a3e5643b3f87d29c1100c9483225a335ff847a"
+  },
+  {
+    "path": "02_segundo_basico/013_reflexion_en_espejos.md",
+    "size": 5858,
+    "sha256": "adae1703d506e687af8a9a9f4151dcb7da42efca5557f3498a0d8e8057ed1c17"
+  },
+  {
+    "path": "02_segundo_basico/014_temperatura_cotidiana.md",
+    "size": 5910,
+    "sha256": "8997c7ddcbbb086188b10642366012c7af0e5be743d18dc004dd4193c30867df"
+  },
+  {
+    "path": "02_segundo_basico/015_medicion_con_termometro_inicial.md",
+    "size": 5937,
+    "sha256": "26bb47e5ec8d5b4aa9b5268c5a14c1ba10251e0bdadcfd119911c4ab09e962e9"
+  },
+  {
+    "path": "02_segundo_basico/016_maquinas_simples_en_casa.md",
+    "size": 5890,
+    "sha256": "e9393e6df59a7e5def81769fce67b9ce4c9ee5c6a914447be39739492e77b236"
+  },
+  {
+    "path": "02_segundo_basico/01_glosario_curso.md",
+    "size": 331,
+    "sha256": "f831394cdf16850ad57e8ffb999eebf8402a9e42db411f8de343cac74a88e4f5"
+  },
+  {
+    "path": "02_segundo_basico/02_banco_preguntas.md",
+    "size": 3085,
+    "sha256": "033bd08977e231e27424549b833ccb1349b0bf6c53b03f63115ac273bc7c5227"
+  },
+  {
+    "path": "03_tercero_basico/001_fuerza_y_sus_efectos.md",
+    "size": 5860,
+    "sha256": "0793360dd85b833bb88afd3cb1ab545a37293bae684eae21343ab927b7245a7c"
+  },
+  {
+    "path": "03_tercero_basico/002_fuerza_de_gravedad.md",
+    "size": 5928,
+    "sha256": "4d2c60bff80047baaf5d01c497bf45bd55bc5ffe18c106638767380bd1884c1d"
+  },
+  {
+    "path": "03_tercero_basico/003_fuerza_de_roce.md",
+    "size": 5824,
+    "sha256": "4420d68a90f2d20b134807c5cea769dbd6ad8667ad0044741d82ce20010de66f"
+  },
+  {
+    "path": "03_tercero_basico/004_fuerza_elastica_inicial.md",
+    "size": 5883,
+    "sha256": "696ee0945a94dde985d20dc45c90133837c220668290ec0e9c48535a1532b201"
+  },
+  {
+    "path": "03_tercero_basico/005_rapidez_y_tiempo.md",
+    "size": 5796,
+    "sha256": "3df39f4bda9d656a4121cd170d64294622193612cc67de2e3abbaca20366ba74"
+  },
+  {
+    "path": "03_tercero_basico/006_distancia_recorrida.md",
+    "size": 5855,
+    "sha256": "919664f23b0fa4e1ed2381972cc7277baf123cb7bc8d78dc664306ed3dc7da52"
+  },
+  {
+    "path": "03_tercero_basico/007_maquinas_simples_palanca.md",
+    "size": 5895,
+    "sha256": "d33d308af41f77bf43453f7e0467b1b3051b18d82f992beba35451056dc3dcaf"
+  },
+  {
+    "path": "03_tercero_basico/008_maquinas_simples_polea.md",
+    "size": 5883,
+    "sha256": "c610523cd90253af9137875616c9a7e86b1502f00b08581933a04e9a4339278e"
+  },
+  {
+    "path": "03_tercero_basico/009_maquinas_simples_plano_inclinado.md",
+    "size": 5943,
+    "sha256": "747823b9157e90c2dc24c39e6eb86cf7ea417513076c7a3f634f8a370cda9013"
+  },
+  {
+    "path": "03_tercero_basico/00_indice_curso.md",
+    "size": 1318,
+    "sha256": "17731b5798cc85e92811b67077c1b5ba436219b72dc5c57ea686bff07c8f4e6f"
+  },
+  {
+    "path": "03_tercero_basico/010_fuentes_de_luz.md",
+    "size": 5784,
+    "sha256": "8bf5f92854ee4c3a3891e27d660ea2dbea93a1bde8491b35246b317aacc9072a"
+  },
+  {
+    "path": "03_tercero_basico/011_propagacion_rectilinea_de_la_luz.md",
+    "size": 5902,
+    "sha256": "2e34a044108eee392c157e9ac5a72e588d09fcbce00280f4eaa9c705fa3bea44"
+  },
+  {
+    "path": "03_tercero_basico/012_reflexion_de_la_luz.md",
+    "size": 5819,
+    "sha256": "e6185a70d528f1970e5af9bc5ee21e8acf46da3195e649c81139050a676a7172"
+  },
+  {
+    "path": "03_tercero_basico/013_absorcion_de_luz.md",
+    "size": 5801,
+    "sha256": "e8dab4b1d178296ff186e400b390b32ed7d61ee9a4dd8559325cc44348eabe7a"
+  },
+  {
+    "path": "03_tercero_basico/014_colores_y_luz.md",
+    "size": 5778,
+    "sha256": "4050d47bd311c7fd14b6d171c818d932ff997e7a89ed03ef86ad4de03ad4335b"
+  },
+  {
+    "path": "03_tercero_basico/015_produccion_del_sonido.md",
+    "size": 5869,
+    "sha256": "2d33c7ff10ac7642d43489f1728c37ab071588364603d6195095c0eb51f57072"
+  },
+  {
+    "path": "03_tercero_basico/016_tono_e_intensidad.md",
+    "size": 5843,
+    "sha256": "a766b6af4e1c207235762248d35457c911b95d4e35a8a1ace798c9e818f6549d"
+  },
+  {
+    "path": "03_tercero_basico/017_transmision_del_sonido.md",
+    "size": 5875,
+    "sha256": "5be0c7081ab64675a55d0c451c616f64097f70ff3b725fa2c4d018637b7ffd63"
+  },
+  {
+    "path": "03_tercero_basico/018_sistema_solar_y_movimiento_aparente.md",
+    "size": 5910,
+    "sha256": "f4e09b49ef308b0bd78313e9479cb53f03d53f212ddede4e356e7b6e3bea611f"
+  },
+  {
+    "path": "03_tercero_basico/01_glosario_curso.md",
+    "size": 331,
+    "sha256": "e764647e0a5cc93ecc4beccbef253dd50e21bf2ae6c647af8507f1ca08ef9686"
+  },
+  {
+    "path": "03_tercero_basico/02_banco_preguntas.md",
+    "size": 3434,
+    "sha256": "7aaa1df98841180789762c16bb5ff8b22dab57cfe541117df6c5fd11805c7e58"
+  },
+  {
+    "path": "04_cuarto_basico/001_masa_y_peso_inicial.md",
+    "size": 5856,
+    "sha256": "0ddf77de20dd79302bdc6139613067971440050490319c77e07e91b94fd6d8b8"
+  },
+  {
+    "path": "04_cuarto_basico/002_gravedad_en_la_tierra.md",
+    "size": 5953,
+    "sha256": "25ac30f10c7f51cec852cdc6da37b10e74ed9473c0f1705691e63e8338b0dfcd"
+  },
+  {
+    "path": "04_cuarto_basico/003_friccion_y_superficies.md",
+    "size": 5879,
+    "sha256": "5d563105681bcb5eb00dbcd4f3bff9dbd4a9bf3aab32d3c72e5b545a6bbee3ad"
+  },
+  {
+    "path": "04_cuarto_basico/004_elasticidad.md",
+    "size": 5808,
+    "sha256": "5d86a0100d81cd7a4641318c4913cf40f4a0fe6b2c6ff14c746ea07a4f4a02ee"
+  },
+  {
+    "path": "04_cuarto_basico/005_fuerza_neta_inicial.md",
+    "size": 5855,
+    "sha256": "54cbff8a8f0d74a2009960f39bc38ed9018bafc37fae24c8253c549efbd44928"
+  },
+  {
+    "path": "04_cuarto_basico/006_movimiento_y_sistema_de_referencia.md",
+    "size": 5905,
+    "sha256": "325e12b46b7fa3b5952bb63db011c9d5152f54f9ff71bb82769c2176dae0bf49"
+  },
+  {
+    "path": "04_cuarto_basico/007_rapidez_promedio_inicial.md",
+    "size": 5845,
+    "sha256": "09aed50e702c4fa6e55d715fb5e190915ed25c3235d3793cf38e3765e9672b25"
+  },
+  {
+    "path": "04_cuarto_basico/008_energia_de_movimiento.md",
+    "size": 5832,
+    "sha256": "e55812825bcd051d94d444f0828ccad56663826a9ca3d624668edee0a5b14292"
+  },
+  {
+    "path": "04_cuarto_basico/009_energia_almacenada.md",
+    "size": 5820,
+    "sha256": "4fd4109de7a0668c55f7280b6aa0363b86621e07133a26655255b327625948bd"
+  },
+  {
+    "path": "04_cuarto_basico/00_indice_curso.md",
+    "size": 1542,
+    "sha256": "a31b3a5d40d0caa8877d9dd45cd570406fcd35c8056282797f6eaedcc6e0b17e"
+  },
+  {
+    "path": "04_cuarto_basico/010_transformaciones_de_energia.md",
+    "size": 5874,
+    "sha256": "5f216b79ed23c26b1c52591f80e0773dca23e8268ced7c36847a9acbb614fa55"
+  },
+  {
+    "path": "04_cuarto_basico/011_calor_y_temperatura.md",
+    "size": 5899,
+    "sha256": "39cbcff0ade8302df607211d41ebf5d48448679da8a626973733b2f2aa024c76"
+  },
+  {
+    "path": "04_cuarto_basico/012_conduccion_termica.md",
+    "size": 5853,
+    "sha256": "b658135d2896ebef3eaa3d6214aa66e3f30f6bcf0056d4bd4fa058a177af4b6d"
+  },
+  {
+    "path": "04_cuarto_basico/013_aislantes_termicos.md",
+    "size": 5855,
+    "sha256": "ee64d6fa6c16864590c43f3efa337fd726eef73a97b31df208277440cb420ebf"
+  },
+  {
+    "path": "04_cuarto_basico/014_cambios_de_estado_y_energia.md",
+    "size": 5874,
+    "sha256": "9785ae69bf0a81866f23301b523c529613afb20f1d13679e084c6e0ca1ed9564"
+  },
+  {
+    "path": "04_cuarto_basico/015_circuito_electrico_simple.md",
+    "size": 5882,
+    "sha256": "17d8145a4b62266f48463da4d96bcb4e6aa7b9e3e2bfcb9b3fd9da5215219674"
+  },
+  {
+    "path": "04_cuarto_basico/016_circuito_abierto_y_cerrado.md",
+    "size": 5883,
+    "sha256": "039e1f855b6be3960da5eb5740c8c9d279ec7185d2dbda370b01adafccc8a0d1"
+  },
+  {
+    "path": "04_cuarto_basico/017_conductores_y_aislantes_electricos.md",
+    "size": 5951,
+    "sha256": "5d4e25259723e8c85f1779cdac91b9f8f4f07de2bb3bddfbe7896a1c4747b873"
+  },
+  {
+    "path": "04_cuarto_basico/018_imanes_y_polos.md",
+    "size": 5826,
+    "sha256": "41452dff23cb9d4f75605478c5f2c08564474ff21ae1f14433a17278e732e1cc"
+  },
+  {
+    "path": "04_cuarto_basico/019_atraccion_y_repulsion_magnetica.md",
+    "size": 5943,
+    "sha256": "a3ae106b20648884a91058e37d1818b1420d758bafbe815d7d71a1187e4cf6f8"
+  },
+  {
+    "path": "04_cuarto_basico/01_glosario_curso.md",
+    "size": 331,
+    "sha256": "6d981f70b278bc9a69a60e33ac41e9ea50567d59c6b9bf70f9ca3028cf721a5c"
+  },
+  {
+    "path": "04_cuarto_basico/020_seguridad_electrica.md",
+    "size": 5861,
+    "sha256": "bff5433902f689f0bced3ff8b9f79f32c54870a3639ad303a617c8e1e34297d4"
+  },
+  {
+    "path": "04_cuarto_basico/02_banco_preguntas.md",
+    "size": 3839,
+    "sha256": "26d63c35d95b5fefe4878b2e12f1e64e3ee97e5ed3333719e9ba4bff8b297597"
+  },
+  {
+    "path": "05_quinto_basico/001_fuerzas_equilibradas_y_no_equilibradas.md",
+    "size": 5973,
+    "sha256": "d2a0e154b64db40cf6f986b186a9a53012fd9925050aa5497e712c2093b9867a"
+  },
+  {
+    "path": "05_quinto_basico/002_peso_y_masa.md",
+    "size": 5812,
+    "sha256": "c20d77581aa56863a99114a383d7bdf85244700f95c8966e4ca09df0bf992208"
+  },
+  {
+    "path": "05_quinto_basico/003_movimiento_uniforme_inicial.md",
+    "size": 5867,
+    "sha256": "6ff7faf225c4c23e414132dc9ba41c93221795a712656ad98085cde33f9b50b2"
+  },
+  {
+    "path": "05_quinto_basico/004_graficos_distancia_tiempo_iniciales.md",
+    "size": 5961,
+    "sha256": "f3a755b2ab87d87fca13eaf2909386ab1ca2546d7bee44ba2fb3fbed8768c3f9"
+  },
+  {
+    "path": "05_quinto_basico/005_trabajo_mecanico_inicial.md",
+    "size": 5888,
+    "sha256": "47c5ea4f883a7ba6a0ed6984fa6c59e1487fd261d3a3b965ba0e96900a801a7e"
+  },
+  {
+    "path": "05_quinto_basico/006_energia_cinetica.md",
+    "size": 5817,
+    "sha256": "1e20509dc32dc4507c3b66058c8828d52c5513376502b662bfcafd4e2504e08f"
+  },
+  {
+    "path": "05_quinto_basico/007_energia_potencial_gravitatoria.md",
+    "size": 5896,
+    "sha256": "c51317914f3f249919dab0a285db10d23583a17ebdb61c1bb42815ff7a8b52e2"
+  },
+  {
+    "path": "05_quinto_basico/008_energia_potencial_elastica.md",
+    "size": 5877,
+    "sha256": "936ef862fa042b706a03b4aa268c5a4cc7978af28259cc5d494bddded60c2a77"
+  },
+  {
+    "path": "05_quinto_basico/009_conservacion_de_energia_inicial.md",
+    "size": 5907,
+    "sha256": "1c76b71494c73f150ac1aa483682669ca091f70f48ca7819d1aff8b7f586bc9f"
+  },
+  {
+    "path": "05_quinto_basico/00_indice_curso.md",
+    "size": 1780,
+    "sha256": "b9095ad4bc0bd227e8e251d52d1b7180ee3aa80be394c653fef387dc8d40166c"
+  },
+  {
+    "path": "05_quinto_basico/010_electricidad_y_carga.md",
+    "size": 5851,
+    "sha256": "0a6cdfa91251449244d52252e70c7c8fb36d0569d00b28d5c01a962c39861e5f"
+  },
+  {
+    "path": "05_quinto_basico/011_corriente_electrica.md",
+    "size": 5863,
+    "sha256": "8e7e9e63fef406595fa48c620e418048e8ded3d6f5362e2066fd75659c041899"
+  },
+  {
+    "path": "05_quinto_basico/012_voltaje_inicial.md",
+    "size": 5834,
+    "sha256": "aaefa1d25f0158dacc45f6add0039dbd3cd0a0ebc0f968c51e2ce3a2d0416352"
+  },
+  {
+    "path": "05_quinto_basico/013_resistencia_inicial.md",
+    "size": 5860,
+    "sha256": "dcac5c1a0bc9d9d50dd005e5312b5de647655e625b9ac862dffae25bcae1984d"
+  },
+  {
+    "path": "05_quinto_basico/014_circuitos_en_serie.md",
+    "size": 5839,
+    "sha256": "1a7c547d3281a3dfb4ac5deaf211c647a50dd587c98f46b48fa2c93630141145"
+  },
+  {
+    "path": "05_quinto_basico/015_circuitos_en_paralelo.md",
+    "size": 5857,
+    "sha256": "df20c2dbf81d8c11e4b8165040ea0e39939f8375427089ef18a30850f2b15bd1"
+  },
+  {
+    "path": "05_quinto_basico/016_potencia_electrica_inicial.md",
+    "size": 5900,
+    "sha256": "07fe989d73429c81a89a400297844b41a796eebc4ed161b53a62499dd1029eb2"
+  },
+  {
+    "path": "05_quinto_basico/017_consumo_electrico.md",
+    "size": 5853,
+    "sha256": "e7cd5c9a942beb6585bb7064487398e50f8501e9c15794dde43a012e6d7f2693"
+  },
+  {
+    "path": "05_quinto_basico/018_magnetismo.md",
+    "size": 5765,
+    "sha256": "bd31370ef4cde2d68b581d742c2879414fb878ed7ec30e4581d96aa58ee1b6cd"
+  },
+  {
+    "path": "05_quinto_basico/019_electroimanes.md",
+    "size": 5824,
+    "sha256": "3c9ca8ae2ac4debd1a220e7d1f23682d6f752e03043897dbb425f1118757728a"
+  },
+  {
+    "path": "05_quinto_basico/01_glosario_curso.md",
+    "size": 331,
+    "sha256": "c68d7119c0bb65b1b8f489cb0fde4ec993004967f6b7a622948e076f448688c5"
+  },
+  {
+    "path": "05_quinto_basico/020_ondas_en_cuerdas.md",
+    "size": 5839,
+    "sha256": "96edc8faa99a17f4be8d703031d0214e0242c5d012d468d3d21df26c2174e3d3"
+  },
+  {
+    "path": "05_quinto_basico/021_sonido_y_audicion.md",
+    "size": 5850,
+    "sha256": "af67e3f7aa9be05b05eb9391704c3510d96ac97064fd24ef0c7cb432d1dc74dc"
+  },
+  {
+    "path": "05_quinto_basico/022_luz_y_vision.md",
+    "size": 5782,
+    "sha256": "0c70f628134a671372d9e6ef04b139bf98202c26a841007afc7fad561dd0d0e1"
+  },
+  {
+    "path": "05_quinto_basico/023_mareas_y_gravedad.md",
+    "size": 5933,
+    "sha256": "ab35eca92600865de818d0e2e39c1360b57e738b5abcb4441cc9e5217d4e611d"
+  },
+  {
+    "path": "05_quinto_basico/024_experimentos_de_fisica_seguros.md",
+    "size": 5931,
+    "sha256": "9da4a7b60a7e78f818d652fa73292126d8fd880f3d2c6f47974b2ba490027eab"
+  },
+  {
+    "path": "05_quinto_basico/02_banco_preguntas.md",
+    "size": 4569,
+    "sha256": "0bbdceef9fe56cbd94c10e6448cb25861fed21503318c5e7bacf308dc13e7b60"
+  },
+  {
+    "path": "06_sexto_basico/001_fuerza_como_vector_inicial.md",
+    "size": 5901,
+    "sha256": "9807a7b831b5adc3fe63527026a07a362865234a3eef997afb1c799455fc0fba"
+  },
+  {
+    "path": "06_sexto_basico/002_diagramas_de_fuerzas.md",
+    "size": 5865,
+    "sha256": "c6a6664ee3c8003ab48b669e8780bc5803f5ebcee17cb933ee51f80279c9a403"
+  },
+  {
+    "path": "06_sexto_basico/003_peso_normal_y_roce.md",
+    "size": 5859,
+    "sha256": "cdee3a3b3cda77cfed1c29f412e69f10991f367d421e7b82c0245dc650c1c7a7"
+  },
+  {
+    "path": "06_sexto_basico/004_fuerza_elastica_y_ley_de_hooke_inicial.md",
+    "size": 5978,
+    "sha256": "182e7beb54de0dff62dc46eb681325ae171615c29c28741c4815ee7cf7f9072a"
+  },
+  {
+    "path": "06_sexto_basico/005_rapidez_distancia_y_tiempo.md",
+    "size": 5866,
+    "sha256": "37c27b7b26a9fdb06ac89c703bfdad5b51030d459b8f00729d783b34ef494cdf"
+  },
+  {
+    "path": "06_sexto_basico/006_velocidad_y_direccion.md",
+    "size": 5871,
+    "sha256": "7e046f3853d1c8ba71c704bc94e93ff0c67cd3f383aadbbd3c7dd9b848b3236d"
+  },
+  {
+    "path": "06_sexto_basico/007_aceleracion_inicial.md",
+    "size": 5859,
+    "sha256": "9f40d418fa1e2589eb9d775ac088e73f31f9ec7f6dd97f4e6e5daa3b0344061a"
+  },
+  {
+    "path": "06_sexto_basico/008_energia_cinetica_y_potencial.md",
+    "size": 5889,
+    "sha256": "8997806d438a85dacee530c551dabcbd77fa8a023124a10bf34f20a04e6c3a7e"
+  },
+  {
+    "path": "06_sexto_basico/009_transformaciones_de_energia.md",
+    "size": 5878,
+    "sha256": "52b627575f163e6488b8e47324fe7f16c79d6c9bc1d76095afb1b89b46cf765e"
+  },
+  {
+    "path": "06_sexto_basico/00_indice_curso.md",
+    "size": 1829,
+    "sha256": "ddcc1df7966471ec33e863c3289ebc18d59fd26c91d12bd77c331e2fdde4e2d5"
+  },
+  {
+    "path": "06_sexto_basico/010_conservacion_de_la_energia.md",
+    "size": 5877,
+    "sha256": "15facaa4b8e6313c1e3d62bd2df83ff3224947501a0c7cb620e109eb62d655ac"
+  },
+  {
+    "path": "06_sexto_basico/011_eficiencia_energetica.md",
+    "size": 5870,
+    "sha256": "5d290e46f051ac8ae432d75ab604929487ff267df5354f5648ead35f339fff0b"
+  },
+  {
+    "path": "06_sexto_basico/012_calor_y_temperatura.md",
+    "size": 5903,
+    "sha256": "f1e0e1d74033eed6d1ad8592e7756ebb32b05372881c3e7593d1b3e4e29cbc58"
+  },
+  {
+    "path": "06_sexto_basico/013_conduccion_conveccion_y_radiacion.md",
+    "size": 5964,
+    "sha256": "f0af21302a50f07801190a952d22c555a93e7f296d5a438eb236cf261d4a97ce"
+  },
+  {
+    "path": "06_sexto_basico/014_dilatacion_termica.md",
+    "size": 5857,
+    "sha256": "da8a6505efe1b42c07bb80c690d4c5f3c0a1d3f2264afcb6a220ae666a4a610a"
+  },
+  {
+    "path": "06_sexto_basico/015_presion_en_solidos.md",
+    "size": 5831,
+    "sha256": "1e8b3391ddc1e0fbb29e1b66f772546929c63efd0886ae06b8379029d0263ba8"
+  },
+  {
+    "path": "06_sexto_basico/016_presion_en_liquidos.md",
+    "size": 5837,
+    "sha256": "510c8697f4275042bd87cf8801afa8eeb496352eefd519a61c12f0a1b95f7e80"
+  },
+  {
+    "path": "06_sexto_basico/017_presion_atmosferica.md",
+    "size": 5837,
+    "sha256": "d0f2046c998c8c36f222cb46d94cc55c661487cf96d7a5c5c483a1a4eb7cd33d"
+  },
+  {
+    "path": "06_sexto_basico/018_flotacion_inicial.md",
+    "size": 5846,
+    "sha256": "6db582cf0636b1c43614faa09ebee6bcfc256ba9d97cd38676759ae88d973f7c"
+  },
+  {
+    "path": "06_sexto_basico/019_electricidad_estatica.md",
+    "size": 5862,
+    "sha256": "1c13dc12a9564945178001f2235576ba54d0a7b32801cd1900801111c21e57e3"
+  },
+  {
+    "path": "06_sexto_basico/01_glosario_curso.md",
+    "size": 331,
+    "sha256": "83c392440a86e6e08869f41bae2318652390239e3248a15aed90597ae39404e0"
+  },
+  {
+    "path": "06_sexto_basico/020_circuitos_y_seguridad.md",
+    "size": 5857,
+    "sha256": "76b46d720cf34e5e04f1e050a78bfd0a9d6e73339769b5a12f32f108c8fd7207"
+  },
+  {
+    "path": "06_sexto_basico/021_generacion_electrica.md",
+    "size": 5876,
+    "sha256": "d8c3cf441bf32250a1ccaa2604f1a4e8054ea82b105791ca6e5bfedea11b579b"
+  },
+  {
+    "path": "06_sexto_basico/022_energias_renovables.md",
+    "size": 5830,
+    "sha256": "a559c0ad26403f6b676e98b7bc4aeb7851609986a8dc45ed85768d25c181f978"
+  },
+  {
+    "path": "06_sexto_basico/023_gravedad_y_orbitas.md",
+    "size": 5956,
+    "sha256": "fc818446335f2e3e65208428ef4d0ee3941f8e064f70a6e421f16341f530b0db"
+  },
+  {
+    "path": "06_sexto_basico/024_eclipses_y_movimiento_celeste.md",
+    "size": 5879,
+    "sha256": "514c9b1fce9c95fd47f6a81ee22b926ea0002fe5802ae3372f743873fc274dbc"
+  },
+  {
+    "path": "06_sexto_basico/02_banco_preguntas.md",
+    "size": 4616,
+    "sha256": "d1e062f7f1a719f31a647914f5e910f6f0833269bd1308c2fca50200bac32a9a"
+  },
+  {
+    "path": "07_septimo_basico/001_fuerza_peso.md",
+    "size": 5811,
+    "sha256": "a5bff0ccb5044db471b655a6503172b9eb0b5f9977a733429c20ef648b25a527"
+  },
+  {
+    "path": "07_septimo_basico/002_fuerza_de_roce.md",
+    "size": 5829,
+    "sha256": "0b8fbda2d33a2699f99be5798d7a03c5a0b46ae12d4f18342e04f2d1a288bbd4"
+  },
+  {
+    "path": "07_septimo_basico/003_fuerza_elastica.md",
+    "size": 5840,
+    "sha256": "48f44eff2923668f0ed7b8e6c0b67902c683139c9b882ec72f1c4a2d985a5105"
+  },
+  {
+    "path": "07_septimo_basico/004_fuerza_normal.md",
+    "size": 5823,
+    "sha256": "ddd938e3922e9142fb18dba43fed2baa37bcc64b6a49691959c334696e830b6c"
+  },
+  {
+    "path": "07_septimo_basico/005_fuerza_neta.md",
+    "size": 5811,
+    "sha256": "b9ba23109972a92fdc4f6e42a34d9c5b5668ced7546970a1a3fb18bd4003adcb"
+  },
+  {
+    "path": "07_septimo_basico/006_diagramas_de_cuerpo_libre.md",
+    "size": 5896,
+    "sha256": "07f180a4e1c353f1ff10e3ea5c6742083f61b6c62f8a548bb5923120a81ad639"
+  },
+  {
+    "path": "07_septimo_basico/007_deformacion_y_movimiento.md",
+    "size": 5854,
+    "sha256": "670aa1fd885d95dc806ddb641c432fee43d0e4594bd7bc11f2d1dc546ca452ff"
+  },
+  {
+    "path": "07_septimo_basico/008_leyes_de_newton_iniciales.md",
+    "size": 5890,
+    "sha256": "08d4f3565d329b5b45f6b655338ac7f189b084d19ee93c282cc7cc945d7c7469"
+  },
+  {
+    "path": "07_septimo_basico/009_presion_en_solidos.md",
+    "size": 5831,
+    "sha256": "68e45e788f46c9d02882cd5b18266996c2cc7e068453c87d1224322355300c59"
+  },
+  {
+    "path": "07_septimo_basico/00_indice_curso.md",
+    "size": 1715,
+    "sha256": "25621962a07b30e44e691fca24a087dacc831fe996e4e0028cebe85fd4535f44"
+  },
+  {
+    "path": "07_septimo_basico/010_presion_en_liquidos.md",
+    "size": 5837,
+    "sha256": "c317a0796f8893ee9628e538a52392f1a7acef443682a82d2123ea60d52cb77a"
+  },
+  {
+    "path": "07_septimo_basico/011_principio_de_pascal_inicial.md",
+    "size": 5901,
+    "sha256": "50a9f9360e4629cb18ce0f53ee00f49ddb8d1db1bcb1b6c2a2dc854e1db12f40"
+  },
+  {
+    "path": "07_septimo_basico/012_empuje_y_flotacion.md",
+    "size": 5852,
+    "sha256": "396c8db9c34330300c7fe751f71d3bba2aac56581e5d1d59e61322b9f9ddd73b"
+  },
+  {
+    "path": "07_septimo_basico/013_trabajo_mecanico.md",
+    "size": 5840,
+    "sha256": "bd9a2db72e8704a55d6a479a5e320af835ce35b4cf4f9425766cc41a701819e8"
+  },
+  {
+    "path": "07_septimo_basico/014_potencia_mecanica.md",
+    "size": 5846,
+    "sha256": "a2f437d21bab5bdd0370f5e95f5082550b95c59ffd43aced8b91823cbbb724e8"
+  },
+  {
+    "path": "07_septimo_basico/015_maquinas_simples.md",
+    "size": 5847,
+    "sha256": "33a481cf9c0c6cb6bb8483f429f4919205fcbd584659478ab0ce92dd219c8488"
+  },
+  {
+    "path": "07_septimo_basico/016_ventaja_mecanica.md",
+    "size": 5847,
+    "sha256": "a45912fecb047024561af61303113ee03be23c4e255343fef5ea76e12042c92e"
+  },
+  {
+    "path": "07_septimo_basico/017_temperatura_y_escalas.md",
+    "size": 5915,
+    "sha256": "d94629d6a2934eb35345ad7f0b39aa5f447dbc9cf6cf3fd07b7f7139cd2d99a4"
+  },
+  {
+    "path": "07_septimo_basico/018_calor_como_transferencia_de_energia.md",
+    "size": 5926,
+    "sha256": "b512791c0b9ca40b623a7eca0657f1139a2f609af25bdd2873b081710b84cec4"
+  },
+  {
+    "path": "07_septimo_basico/019_cambios_de_estado.md",
+    "size": 5848,
+    "sha256": "75e77aaa58e3f2b64dbc71bd7611d759a02921c80067044724674581831bc223"
+  },
+  {
+    "path": "07_septimo_basico/01_glosario_curso.md",
+    "size": 331,
+    "sha256": "445ecc45fbef52a6d51bb68f35f1e2c1a5f30ffc4d9ed40232a63a6291a631b0"
+  },
+  {
+    "path": "07_septimo_basico/020_modelo_cinetico_de_particulas.md",
+    "size": 5930,
+    "sha256": "1d8599036418811da7a80295c4f6eba857cedf9cde81fe4fea75d9754e2b71ee"
+  },
+  {
+    "path": "07_septimo_basico/021_gases_y_presion.md",
+    "size": 5808,
+    "sha256": "82e83fb522a3794b7050a5f1b286a31e79b977c821dcc4ed142bf190855f8296"
+  },
+  {
+    "path": "07_septimo_basico/022_tectonica_y_fuerzas_internas.md",
+    "size": 5918,
+    "sha256": "af46a14aeb5b19557b3d29a7d1b85a8e809625e793c3402b4849fccae7217de4"
+  },
+  {
+    "path": "07_septimo_basico/023_ondas_sismicas_iniciales.md",
+    "size": 5892,
+    "sha256": "f0b4b019da9169292ee0875e9c628511396948910b8648a1f73fd6fa7f3ac02a"
+  },
+  {
+    "path": "07_septimo_basico/024_investigacion_experimental_en_fisica.md",
+    "size": 5972,
+    "sha256": "9b1a43e0c784d2c567f636b3e97a2f54db9e98646931e6c1c8147a1f32c4ac5d"
+  },
+  {
+    "path": "07_septimo_basico/02_banco_preguntas.md",
+    "size": 4555,
+    "sha256": "f96155c03c096f4f3c35e618b9ec2f64e26c378083d3a07ca8de5547ac5e44a2"
+  },
+  {
+    "path": "08_octavo_basico/001_carga_electrica.md",
+    "size": 5839,
+    "sha256": "9e3f0abbdb0802a9f604b5dae6694f363f1697b3defdedf07ae8394482cdbfb7"
+  },
+  {
+    "path": "08_octavo_basico/002_electricidad_positiva_y_negativa.md",
+    "size": 5923,
+    "sha256": "e0536c1a5869421e35f9a94369e08ac469bf4b77a1477ee53495487e7f4fc10a"
+  },
+  {
+    "path": "08_octavo_basico/003_electrizacion_por_friccion.md",
+    "size": 5912,
+    "sha256": "642500d6c6e53b4dcdfb9d73b5304a0a22e1b10670a25b1a630302eece493430"
+  },
+  {
+    "path": "08_octavo_basico/004_electrizacion_por_contacto.md",
+    "size": 5907,
+    "sha256": "b514815a84ff42d91807d4e6ce1ec5e00d8f02d0bd9e703853a37c7eeef020f2"
+  },
+  {
+    "path": "08_octavo_basico/005_electrizacion_por_induccion.md",
+    "size": 5918,
+    "sha256": "b9e5f77de29083db3cb905ce14d06bfa0d3484dc17ae922eb59a5499f227e399"
+  },
+  {
+    "path": "08_octavo_basico/006_fuerza_electrica.md",
+    "size": 5846,
+    "sha256": "c07f7547ee8f7cf03c759e93efaeb3b0dce6630241fd13203b49f2a01c33d705"
+  },
+  {
+    "path": "08_octavo_basico/007_campo_electrico_inicial.md",
+    "size": 5889,
+    "sha256": "d5e2419a3bfef8831160dd32b105ada0f71bbbc722188cd22729dff56d9f7aa6"
+  },
+  {
+    "path": "08_octavo_basico/008_corriente_electrica.md",
+    "size": 5863,
+    "sha256": "80d7e29850f88081dfe3ae7e1426455caa39f316f233325a3c9e228eebe5fd61"
+  },
+  {
+    "path": "08_octavo_basico/009_voltaje.md",
+    "size": 5786,
+    "sha256": "fc9da163163a96ec78230da8871d46f49c9971c7d0fdcf607f0df577a6ed7e7b"
+  },
+  {
+    "path": "08_octavo_basico/00_indice_curso.md",
+    "size": 1915,
+    "sha256": "0e8ee23522146ec4e347647a90f0ceae514e892cceb1be5c7b85b9cb67fccece"
+  },
+  {
+    "path": "08_octavo_basico/010_resistencia.md",
+    "size": 5812,
+    "sha256": "321553b4fe5f49565b1e768011285cc981a6affae85edb2fcd0587870e6c1d32"
+  },
+  {
+    "path": "08_octavo_basico/011_ley_de_ohm_inicial.md",
+    "size": 5854,
+    "sha256": "6f190838a20cb93f13894d528462cbd7a1646f14a87e8b70146a0d4c9f906be7"
+  },
+  {
+    "path": "08_octavo_basico/012_circuitos_serie_y_paralelo.md",
+    "size": 5887,
+    "sha256": "3494f03f4a9b7fa9acd5c3588da98198855ca3d811f1d3068474877fbd9b4b60"
+  },
+  {
+    "path": "08_octavo_basico/013_potencia_y_energia_electrica.md",
+    "size": 5889,
+    "sha256": "7e80ec786a6f1b797ae0f81f3f34c083ad0d59b1b22bb27b7b4c07be103c75a9"
+  },
+  {
+    "path": "08_octavo_basico/014_generacion_de_electricidad.md",
+    "size": 5892,
+    "sha256": "627e5c1db0c3bbdbc3b90fab27da3aa070f609d4c0b47f6a095b579e7914ebfe"
+  },
+  {
+    "path": "08_octavo_basico/015_pilas_y_baterias.md",
+    "size": 5845,
+    "sha256": "10e3bee903fc03abdd89613cb2cc058e0d01b03886445e02fe36f9f0ac0eb364"
+  },
+  {
+    "path": "08_octavo_basico/016_paneles_fotovoltaicos.md",
+    "size": 5870,
+    "sha256": "b936aa89981fa114c27a98b21984d053eba349e5cb159a9da7c8a792a7331816"
+  },
+  {
+    "path": "08_octavo_basico/017_generadores_eolicos_e_hidroelectricos.md",
+    "size": 5978,
+    "sha256": "41f3e8db644b3648e7532f0ca470e5bb344a490d9c007fa42e366a8d8f7a9bbe"
+  },
+  {
+    "path": "08_octavo_basico/018_riesgos_electricos.md",
+    "size": 5859,
+    "sha256": "d37e7413609ebaa0569eb6e5dfe783abaf14aeb9e4e02cd7df6647e1cd70a1e2"
+  },
+  {
+    "path": "08_octavo_basico/019_calor_y_temperatura.md",
+    "size": 5903,
+    "sha256": "6de36764ed9f8b170dd7e0d7aaa4e11735cfa3044f28f3318211d9947df1b0fd"
+  },
+  {
+    "path": "08_octavo_basico/01_glosario_curso.md",
+    "size": 331,
+    "sha256": "b8b997e0a92bed9689e392acf49bc9fdcd1ed9da0a8176ebe16ce9afef48d345"
+  },
+  {
+    "path": "08_octavo_basico/020_equilibrio_termico.md",
+    "size": 5859,
+    "sha256": "044074bff5f41067ab53bfc044b8e25a3984b17dadbdb7e8b5810cc4a1504d7b"
+  },
+  {
+    "path": "08_octavo_basico/021_conduccion.md",
+    "size": 5811,
+    "sha256": "aeaed72b134cec2948ab6d0ac5e6a370b09871de5d42b2fe9f3a7ca6a02289db"
+  },
+  {
+    "path": "08_octavo_basico/022_conveccion.md",
+    "size": 5811,
+    "sha256": "b2d6e1afb9d2d413fd283bce1eb531bde35f2343390144207f1d4fd87f79c270"
+  },
+  {
+    "path": "08_octavo_basico/023_radiacion_termica.md",
+    "size": 5851,
+    "sha256": "c61ae31d8b47bf379fb6866e53c3b8a36e8655607fc8a098c76306611016a205"
+  },
+  {
+    "path": "08_octavo_basico/024_capacidad_termica_inicial.md",
+    "size": 5894,
+    "sha256": "44506d8bee5e9c45e38ddd6cbb3125773a4a93ddeb7ea5a567b4c5e8642e68c0"
+  },
+  {
+    "path": "08_octavo_basico/025_dilatacion_termica.md",
+    "size": 5857,
+    "sha256": "062a150822e44c1e699441b4d37173d2e34ab803d2d7a6f8aef309bf719e2021"
+  },
+  {
+    "path": "08_octavo_basico/026_tecnologias_termicas.md",
+    "size": 5868,
+    "sha256": "9e01cfe3d0eee2ba776db00782e8c8ae795734283aac1b35a724b7f4e1c3a2da"
+  },
+  {
+    "path": "08_octavo_basico/02_banco_preguntas.md",
+    "size": 4935,
+    "sha256": "4e7eac03e10ed39ba69f75cbc0d7a521a742b85e3ad13cd79a683a6c3e691c49"
+  },
+  {
+    "path": "09_primero_medio/001_que_es_una_onda.md",
+    "size": 5832,
+    "sha256": "78b241c8dcd21429c5b1922a3d84dc2b5b8907b94a46cb59a2cb19ef6fe1e631"
+  },
+  {
+    "path": "09_primero_medio/002_ondas_mecanicas_y_electromagneticas.md",
+    "size": 5957,
+    "sha256": "e03330b72da9cea4b029c60114e28a232fad782ae60d2df0fdfcda430040d58a"
+  },
+  {
+    "path": "09_primero_medio/003_ondas_transversales_y_longitudinales.md",
+    "size": 5953,
+    "sha256": "4e574a374126ccb4deef2a4f412a57d8ebfa5ce0f0340fbbea333627b97d55d4"
+  },
+  {
+    "path": "09_primero_medio/004_amplitud.md",
+    "size": 5788,
+    "sha256": "3e9efb3cae0c698abddee6156f91794d6640f626638b4075195320ea51eb73cc"
+  },
+  {
+    "path": "09_primero_medio/005_frecuencia.md",
+    "size": 5798,
+    "sha256": "d0cd6e95e0c7ebbd9a8fdfd8e766cb1e38f8232bde10bb85b1df6ea4730c2dc7"
+  },
+  {
+    "path": "09_primero_medio/006_periodo.md",
+    "size": 5787,
+    "sha256": "3a4f12726aa5714df7b3e01c6e739561c6fc3ff4f79b692218f1d0fef5eacea6"
+  },
+  {
+    "path": "09_primero_medio/007_longitud_de_onda.md",
+    "size": 5833,
+    "sha256": "5c75c9ec3b66af28599452cd95d655e720b2bb9c5141b36b68ee5f641af9cd91"
+  },
+  {
+    "path": "09_primero_medio/008_velocidad_de_propagacion.md",
+    "size": 5883,
+    "sha256": "d0934d9028c5cd71d0a8249edac5d466f53740de883862aaaefb8609362af110"
+  },
+  {
+    "path": "09_primero_medio/009_reflexion_de_ondas.md",
+    "size": 5850,
+    "sha256": "a322b81342bb303174cbf9266999a1ea9e699ec2741c1d9bedb31921376c8704"
+  },
+  {
+    "path": "09_primero_medio/00_indice_curso.md",
+    "size": 1896,
+    "sha256": "af27eff8f4b37c4657a05647eabb560f31831f5c8a86cd09036eee81d157648b"
+  },
+  {
+    "path": "09_primero_medio/010_refraccion_de_ondas.md",
+    "size": 5856,
+    "sha256": "29b163575ca45437d1540a46414487c2fbee0cd6ab2a2e940da4b4392b94a34e"
+  },
+  {
+    "path": "09_primero_medio/011_absorcion.md",
+    "size": 5799,
+    "sha256": "0245b768498933d217f8bf50999dce43caa6f9dfdffa1e8b8acf6bd1661475f2"
+  },
+  {
+    "path": "09_primero_medio/012_interferencia.md",
+    "size": 5818,
+    "sha256": "af6634b339843436c4c3967fb47fd963b486b6a0a5ce93a44992dd9d43822811"
+  },
+  {
+    "path": "09_primero_medio/013_difraccion.md",
+    "size": 5805,
+    "sha256": "e249cf8d43c61e0ac7474adb4e22ffb236972c6e048bc09ac465bf3d7123a502"
+  },
+  {
+    "path": "09_primero_medio/014_efecto_doppler.md",
+    "size": 5822,
+    "sha256": "1ab13cc8b25e24dee747ca88a7b0f515ed5b80e81678349ca095102ba83d5b47"
+  },
+  {
+    "path": "09_primero_medio/015_produccion_del_sonido.md",
+    "size": 5868,
+    "sha256": "affd51915acd959f2333a172694512c4fd26f0ff4dccf7a8405fcf1a2ae4377d"
+  },
+  {
+    "path": "09_primero_medio/016_propagacion_del_sonido.md",
+    "size": 5874,
+    "sha256": "18cc1f72083571f302fa41b76d4e3228f168de878054de77c46988cc08af89d5"
+  },
+  {
+    "path": "09_primero_medio/017_tono_intensidad_y_timbre.md",
+    "size": 5889,
+    "sha256": "cfde10e388f718ebda0f7ae6625019920eb12f0a33d242d188d9f771e04fc6fa"
+  },
+  {
+    "path": "09_primero_medio/018_resonancia.md",
+    "size": 5798,
+    "sha256": "28bb00491a1cf5d51a186c600660bcd4b74c448d3bc01c1deea21c06a05972c2"
+  },
+  {
+    "path": "09_primero_medio/019_audicion_y_contaminacion_acustica.md",
+    "size": 5953,
+    "sha256": "a1c428813e67572b6124d7b7eb7c3841f8f0e297bb2df8ceeb5caead483b96f5"
+  },
+  {
+    "path": "09_primero_medio/01_glosario_curso.md",
+    "size": 329,
+    "sha256": "f3a0c0a11d59ade2c9db7dbfac20364dbd91d55217e006d0355ec0344f0300f6"
+  },
+  {
+    "path": "09_primero_medio/020_naturaleza_de_la_luz.md",
+    "size": 5819,
+    "sha256": "e5b32862fb3081f75100ea50a67bbfad329cc6a1f763b11853a3eabfe93268f0"
+  },
+  {
+    "path": "09_primero_medio/021_reflexion_de_la_luz.md",
+    "size": 5818,
+    "sha256": "fbc782d23f63abf1b7712445f63b1f03c7aff3b9fba955911cb91bb822050af1"
+  },
+  {
+    "path": "09_primero_medio/022_refraccion_de_la_luz.md",
+    "size": 5824,
+    "sha256": "460112c30d9459ad36a13b0d20ce49d4d993b71d28322bf3b6ee2430e5f154de"
+  },
+  {
+    "path": "09_primero_medio/023_espejos.md",
+    "size": 5774,
+    "sha256": "dec9f3c58b3a41003e49dfd3ffa54f030ded10798e85bd314dfa724e60c61188"
+  },
+  {
+    "path": "09_primero_medio/024_lentes.md",
+    "size": 5768,
+    "sha256": "43dfd611b9dd291cf7e04c096744e7533751bcc7217c792a1b5e50a47d95891b"
+  },
+  {
+    "path": "09_primero_medio/025_color_y_espectro_visible.md",
+    "size": 5876,
+    "sha256": "72293e2a725e0352638d8c66fd8e3f6b6067c4f1f2a671d86079bc84d329f33f"
+  },
+  {
+    "path": "09_primero_medio/026_percepcion_visual.md",
+    "size": 5847,
+    "sha256": "5a3d181c7032013dd71582e2be283286f8e179fc46b840deb0d3d6e2f7e93ba3"
+  },
+  {
+    "path": "09_primero_medio/027_ondas_sismicas.md",
+    "size": 5826,
+    "sha256": "d57aa8786d0d7a456e1a51dd9a7141d06830b4faeec1892cacbdb6743f1b33ed"
+  },
+  {
+    "path": "09_primero_medio/028_sismos_tsunamis_y_medicion.md",
+    "size": 5906,
+    "sha256": "2fcaead064ba0b8197a2cd285114a4d1abc82cb3458858a2a595e4d16214ed40"
+  },
+  {
+    "path": "09_primero_medio/02_banco_preguntas.md",
+    "size": 5230,
+    "sha256": "0e8b312ebaece7902c5323e21262521f7031dd853200c9b379fc7d0969629cbe"
+  },
+  {
+    "path": "10_segundo_medio/001_sistema_de_referencia.md",
+    "size": 5866,
+    "sha256": "3b8d7393db039e33f7f29d0b1fd7cde18c59c68892075c913f20304419ef30fe"
+  },
+  {
+    "path": "10_segundo_medio/002_posicion_y_desplazamiento.md",
+    "size": 5895,
+    "sha256": "5912dfd9241a9180323567f3b022deaea2153eb038311d34c08e1ea01b3cbd40"
+  },
+  {
+    "path": "10_segundo_medio/003_distancia_y_trayectoria.md",
+    "size": 5878,
+    "sha256": "70b2050b2861e652563b4b0dbfcf76edd3141c297056efbf8b84a956e85a4afd"
+  },
+  {
+    "path": "10_segundo_medio/004_rapidez_media.md",
+    "size": 5777,
+    "sha256": "69d1087cc48ca5bf2955216d52e158c70110abd05126a3cd014bdb7277a88b2c"
+  },
+  {
+    "path": "10_segundo_medio/005_velocidad_media.md",
+    "size": 5824,
+    "sha256": "7cda540fac7a0245908bedb6858d1d92a8eb10c31e10071650b30c1b8875e3e6"
+  },
+  {
+    "path": "10_segundo_medio/006_aceleracion.md",
+    "size": 5805,
+    "sha256": "1669cf0ac4ba1da960a2c1ca7bb45398f3236dc104b4840daf18697193ad2c60"
+  },
+  {
+    "path": "10_segundo_medio/007_movimiento_rectilineo_uniforme.md",
+    "size": 5884,
+    "sha256": "4fe82a520743cda138be11f1a83ca4e4d0e9ce8b78cef5205e3b65e1d5209a6d"
+  },
+  {
+    "path": "10_segundo_medio/008_movimiento_rectilineo_uniformemente_acelerado.md",
+    "size": 5974,
+    "sha256": "cb9ee9035eff73a417db682c6be3ed93c0e8e5974538720bd2527d07959b7fa4"
+  },
+  {
+    "path": "10_segundo_medio/009_caida_libre.md",
+    "size": 5805,
+    "sha256": "8f77ee303b74805869581b00bfa43af343c19164a86df75d510c9b77ddb587b1"
+  },
+  {
+    "path": "10_segundo_medio/00_indice_curso.md",
+    "size": 2138,
+    "sha256": "02efdc9c5f380745b0d56ae23df8cbb7aa516d9097e944761a1c4b730dc1fc46"
+  },
+  {
+    "path": "10_segundo_medio/010_graficos_posicion_tiempo.md",
+    "size": 5894,
+    "sha256": "676cef0b7a0ada482d83586f80335e3765e162f0530f5fcc93a80327e7348f0a"
+  },
+  {
+    "path": "10_segundo_medio/011_graficos_velocidad_tiempo.md",
+    "size": 5889,
+    "sha256": "744cd69c6d8732aa4e950ad85e0c771a1c9f30de96010437ea90f51f0fccb7cc"
+  },
+  {
+    "path": "10_segundo_medio/012_vectores.md",
+    "size": 5788,
+    "sha256": "857f59f8e2c22ed8ab4e2979cee69e979468c8c75b787be19c02a377838b21e2"
+  },
+  {
+    "path": "10_segundo_medio/013_primera_ley_de_newton.md",
+    "size": 5860,
+    "sha256": "b36ca671d0ee72fa7ef7870eb88b25d54a90575414becf31c86af41c24b9289e"
+  },
+  {
+    "path": "10_segundo_medio/014_segunda_ley_de_newton.md",
+    "size": 5860,
+    "sha256": "cf77c81292acbc263d57648b891d9573df1beca84fa448dc79c108a350f5448a"
+  },
+  {
+    "path": "10_segundo_medio/015_tercera_ley_de_newton.md",
+    "size": 5860,
+    "sha256": "96f57438295914e9e5671497c6941573dcbbc521d214242d57e5a1883ef3f5bf"
+  },
+  {
+    "path": "10_segundo_medio/016_fuerzas_de_roce.md",
+    "size": 5829,
+    "sha256": "3059e7f562c6a20b92748ac4f8b01250acbf33f341716066dc3a0fca4591a454"
+  },
+  {
+    "path": "10_segundo_medio/017_movimiento_circular.md",
+    "size": 5813,
+    "sha256": "855a88518e0c86cec6ce5043c4c989b73749f45b965171fcda444a99a11e9638"
+  },
+  {
+    "path": "10_segundo_medio/018_gravitacion_universal.md",
+    "size": 5871,
+    "sha256": "301550113981dab40c6a4d61e0882878dd607d25e7e6ff1e5e1045b76656accc"
+  },
+  {
+    "path": "10_segundo_medio/019_orbitas_y_satelites.md",
+    "size": 5876,
+    "sha256": "618b2534b366825d89770b04894e56a19adc2f753b4936dded64fd05719af2ad"
+  },
+  {
+    "path": "10_segundo_medio/01_glosario_curso.md",
+    "size": 329,
+    "sha256": "6893097df2919f23461fbee0809cff53c3802a60c5ab7fdc2557ef0049e52d52"
+  },
+  {
+    "path": "10_segundo_medio/020_trabajo.md",
+    "size": 5775,
+    "sha256": "308f34d1c95a780380254225084320300354e656c66335f93ebe61848a7c9281"
+  },
+  {
+    "path": "10_segundo_medio/021_energia_cinetica.md",
+    "size": 5811,
+    "sha256": "b70018e715fc2633196f402bd6d5a477bf0d9ec243ee111b46ab4b0a2ebff11a"
+  },
+  {
+    "path": "10_segundo_medio/022_energia_potencial.md",
+    "size": 5812,
+    "sha256": "425c1a2d3cd9663a0a2e48f41daadee1ef597975693d114365b446aa2c6db791"
+  },
+  {
+    "path": "10_segundo_medio/023_conservacion_de_energia_mecanica.md",
+    "size": 5912,
+    "sha256": "065c94a010a4cf31ac0ed194c884e93eaa5e425386cca31bdc38df08396c8cc6"
+  },
+  {
+    "path": "10_segundo_medio/024_potencia.md",
+    "size": 5781,
+    "sha256": "53f6c7293e8dedb5baee7620fd0d01eb3245a4846a27f1abe58e48524446e0da"
+  },
+  {
+    "path": "10_segundo_medio/025_impulso.md",
+    "size": 5782,
+    "sha256": "dbe2950ec24869abf9b8d9757bc0f342479a615874dbdec9fec3816b54777f74"
+  },
+  {
+    "path": "10_segundo_medio/026_cantidad_de_movimiento.md",
+    "size": 5831,
+    "sha256": "4a76f7f1806ec3b8befbaffb9a8e71f5d3d6cd05c2c8048b58a7bfe8fca08f4c"
+  },
+  {
+    "path": "10_segundo_medio/027_conservacion_del_momentum.md",
+    "size": 5889,
+    "sha256": "8d89ae79295c8314395deba996a4ebb52a8ef9d72b650abc315d3ecfb518577a"
+  },
+  {
+    "path": "10_segundo_medio/028_colisiones.md",
+    "size": 5800,
+    "sha256": "4244c3c2caa5afe6efdf9fc658560a86fc3d1c59f252ecd4d283fcf7db7df055"
+  },
+  {
+    "path": "10_segundo_medio/029_electricidad_y_magnetismo_integrados.md",
+    "size": 5941,
+    "sha256": "577e0d0d40f6dacd4439060c3f371e2af776a70e356e0442727a866994057b01"
+  },
+  {
+    "path": "10_segundo_medio/02_banco_preguntas.md",
+    "size": 5667,
+    "sha256": "b8d43038861d3871ebf5fa1469a55358035962f7e8ce23a36434468555a8de12"
+  },
+  {
+    "path": "10_segundo_medio/030_diseno_y_analisis_de_experimentos.md",
+    "size": 5948,
+    "sha256": "8c9284afedc1d9282b31c149295231108aa11260f5d59a2d213cfe97dbd907cb"
+  },
+  {
+    "path": "11_tercero_medio/001_energia_en_sistemas_cotidianos.md",
+    "size": 5889,
+    "sha256": "958b77198dc27d2d3da42bdbdbbbdfbb2e96d2abfe9c1dc8750b7bec2fa43521"
+  },
+  {
+    "path": "11_tercero_medio/002_eficiencia_y_perdidas_de_energia.md",
+    "size": 5906,
+    "sha256": "66a888eb652782875d7b2778c2971f82a0a91c8c506b30e5b5a7e783033723be"
+  },
+  {
+    "path": "11_tercero_medio/003_matriz_energetica.md",
+    "size": 5845,
+    "sha256": "67273357166106587409c9cfd585b4708270d2a67c2fb7c203bce23ae6997cf2"
+  },
+  {
+    "path": "11_tercero_medio/004_generacion_electrica.md",
+    "size": 5869,
+    "sha256": "5b528a2e7077e808806ed0a710b5033f2edded8db2fbf7e234cd4de157b01022"
+  },
+  {
+    "path": "11_tercero_medio/005_transmision_y_distribucion_electrica.md",
+    "size": 5970,
+    "sha256": "a0df3e73f45306b22bc18a9df37acb9e7f28730d0302907767ce2493f85348e6"
+  },
+  {
+    "path": "11_tercero_medio/006_consumo_responsable_de_energia.md",
+    "size": 5889,
+    "sha256": "091382bba84b0544acbba846ed5edaaab0de1c2d0884c1754bde8616651dd301"
+  },
+  {
+    "path": "11_tercero_medio/007_seguridad_electrica_y_prevencion.md",
+    "size": 5941,
+    "sha256": "ce48f3472c73d6532b95de6c31e7ad9c923b438d3a5fe1e43e8e9e045148514c"
+  },
+  {
+    "path": "11_tercero_medio/008_radiacion_electromagnetica_y_salud.md",
+    "size": 5953,
+    "sha256": "431003155ae3541190cf9f90d9de3f4eb2de306e667ae958ba484a223c9d25f0"
+  },
+  {
+    "path": "11_tercero_medio/009_ondas_en_telecomunicaciones.md",
+    "size": 5898,
+    "sha256": "84d2f9fb65a6192428095b4e79bbf977022db6e74f9d39489640deb63f95aacb"
+  },
+  {
+    "path": "11_tercero_medio/00_indice_curso.md",
+    "size": 2127,
+    "sha256": "521c9b9212d36ce440cf55040bd680e16e47251d15b79eb114dc91dc41847078"
+  },
+  {
+    "path": "11_tercero_medio/010_gps_y_relatividad_como_profundizacion.md",
+    "size": 5978,
+    "sha256": "b8e22040519d33f60249797d0d0f2d2de18e98ed01f07207fb4c0a1fc728dd7a"
+  },
+  {
+    "path": "11_tercero_medio/011_sensores_y_medicion.md",
+    "size": 5858,
+    "sha256": "4f2338059ac7e2d147cadf06c74ed9f43a588831f83af9c141f10b60b1c78e7d"
+  },
+  {
+    "path": "11_tercero_medio/012_fisica_del_transporte.md",
+    "size": 5870,
+    "sha256": "ea6f6cc9c5e765a9f6842b4cc0c6d901ed4d073c3b8fa0d3c92ade50523c7046"
+  },
+  {
+    "path": "11_tercero_medio/013_fisica_de_edificaciones.md",
+    "size": 5882,
+    "sha256": "df156b5ffa7b93b79fc46e28a5237a10e7c04ca3de8d4b3a58a719ed58a3b438"
+  },
+  {
+    "path": "11_tercero_medio/014_aislamiento_termico.md",
+    "size": 5858,
+    "sha256": "b9a4fc13eea1e95cce5ec5acb5ecef8a7c0f3dd621f95ab93dc00396f4332a05"
+  },
+  {
+    "path": "11_tercero_medio/015_confort_termico.md",
+    "size": 5834,
+    "sha256": "fc03bdd72db83c928f81b8eac2020485ede92f46d0d1c309009abfc651fb486f"
+  },
+  {
+    "path": "11_tercero_medio/016_riesgo_sismico_y_diseno_estructural.md",
+    "size": 5959,
+    "sha256": "1577b38c79e01f959602df5205448eefb4d8c92fc7decbbd9c99488c565f9420"
+  },
+  {
+    "path": "11_tercero_medio/017_tecnologia_medica_basada_en_fisica.md",
+    "size": 5957,
+    "sha256": "44834fc06d23b9c9828a7c727b27a7d91f4d88ea360ad86303fbcf1387fb71bb"
+  },
+  {
+    "path": "11_tercero_medio/018_imagenes_medicas.md",
+    "size": 5845,
+    "sha256": "24f38d99954f6e0099203b3d0bfb5fcf805b3f0a42e74928e2d8dcac229ec143"
+  },
+  {
+    "path": "11_tercero_medio/019_sonido_y_salud_auditiva.md",
+    "size": 5874,
+    "sha256": "a24fa1901165f3b52f3e63f76d423792ec69c893c20145d0831b1621e473f858"
+  },
+  {
+    "path": "11_tercero_medio/01_glosario_curso.md",
+    "size": 329,
+    "sha256": "0103fe4cf1fb42af4797c2a087f082ae4f3043117a4a70351a271491e0659250"
+  },
+  {
+    "path": "11_tercero_medio/020_contaminacion_luminica.md",
+    "size": 5881,
+    "sha256": "54bc890484b6253b2cbb4c4dbf40aee68367e400213f1af4079e95c79ae089e2"
+  },
+  {
+    "path": "11_tercero_medio/021_cambio_climatico_y_balance_energetico.md",
+    "size": 5970,
+    "sha256": "99c2c84a2b98b18ad9b7a60a2ad4c50a7b017912cdc54f58345a257ee07e1fc6"
+  },
+  {
+    "path": "11_tercero_medio/022_modelacion_fisica_con_datos.md",
+    "size": 5911,
+    "sha256": "9bbcdd1921af2801a620e4a2e61573b84be20dd0bd48e09d2b889c4aefe62a3c"
+  },
+  {
+    "path": "11_tercero_medio/023_incertidumbre_de_medicion.md",
+    "size": 5894,
+    "sha256": "f53100ee3f74c1798078b2c6ed30419308a89b13dfde322d3b0dd2e18c9158c0"
+  },
+  {
+    "path": "11_tercero_medio/024_proyecto_de_fisica_ciudadana.md",
+    "size": 5912,
+    "sha256": "19065c67af56ebee6ac44600f8e4f61554acd9476e2601c5ee0ea96066d357cf"
+  },
+  {
+    "path": "11_tercero_medio/02_banco_preguntas.md",
+    "size": 4718,
+    "sha256": "405f2b570515e2659068917b502e1c04feb5692782bcbc7989c47c5763f6a187"
+  },
+  {
+    "path": "12_cuarto_medio/001_termodinamica_y_sociedad.md",
+    "size": 5881,
+    "sha256": "8436c6c20ca28552ba03502898b593958f7bd00015e3e9092acfbf5968e02309"
+  },
+  {
+    "path": "12_cuarto_medio/002_primera_ley_de_la_termodinamica.md",
+    "size": 5923,
+    "sha256": "f18a6ce4415a2d303f5c380b2d17ac062131256b7a45e1a4be8eb1678a689be6"
+  },
+  {
+    "path": "12_cuarto_medio/003_segunda_ley_de_la_termodinamica.md",
+    "size": 5923,
+    "sha256": "7519a580f9c5a21bd9c3347aebb73fb50f5960766222d8178002273006b02745"
+  },
+  {
+    "path": "12_cuarto_medio/004_entropia_inicial.md",
+    "size": 5833,
+    "sha256": "e39c16753a4dd5e9174073e2f6e693526045cf021895e36b20d8bf4adafc2057"
+  },
+  {
+    "path": "12_cuarto_medio/005_maquinas_termicas.md",
+    "size": 5844,
+    "sha256": "07925e0c07c50c444e07c2ed56291456b0e9dc29c9e344f97c3a7901bf4b895b"
+  },
+  {
+    "path": "12_cuarto_medio/006_bombas_de_calor_y_refrigeracion.md",
+    "size": 5973,
+    "sha256": "1faa71a340988ed260a1e11461c8e547439e6abe2c9b9ee08e036fa2d287ca7d"
+  },
+  {
+    "path": "12_cuarto_medio/007_transicion_energetica.md",
+    "size": 5874,
+    "sha256": "90eb0b8d9ef8fee0a1e8ee4dc97293861281635cff560e0ae8a66f77baf19c22"
+  },
+  {
+    "path": "12_cuarto_medio/008_energia_solar.md",
+    "size": 5787,
+    "sha256": "297a809bc3e13b64dc07dd2521aefb8d88ab8f62ddcf2a29bd771cdb3be0bc40"
+  },
+  {
+    "path": "12_cuarto_medio/009_energia_eolica.md",
+    "size": 5798,
+    "sha256": "ba38a8223d61c802b5f06db8e73017ae29afda8d331d174b73de6203e2c44050"
+  },
+  {
+    "path": "12_cuarto_medio/00_indice_curso.md",
+    "size": 2429,
+    "sha256": "72df54150b4e33d0f08fffc685c5d813b62c9eb46ac3080bff126844495cdf48"
+  },
+  {
+    "path": "12_cuarto_medio/010_energia_hidroelectrica.md",
+    "size": 5846,
+    "sha256": "ef5d347d4502e9a1f0b2cf7a21f6c91db200199dda1d0f2612d5bb7942891bf0"
+  },
+  {
+    "path": "12_cuarto_medio/011_energia_nuclear_fundamentos_y_debate.md",
+    "size": 5929,
+    "sha256": "8b7f959cd1ef73a29d3020507522408b1aa434b25963e535f30c6f5bc1b5fa9b"
+  },
+  {
+    "path": "12_cuarto_medio/012_almacenamiento_de_energia.md",
+    "size": 5859,
+    "sha256": "e2e19815b8a2e53e7552db16ba7e80fa1dd9c60b3b15f4c2fa70473964370fcc"
+  },
+  {
+    "path": "12_cuarto_medio/013_redes_electricas_inteligentes.md",
+    "size": 5917,
+    "sha256": "0bcfa06387513a94c5c220141af8bdf235998814688301f611b8aa12cd4f1caf"
+  },
+  {
+    "path": "12_cuarto_medio/014_relatividad_especial_inicial.md",
+    "size": 5919,
+    "sha256": "9bfbda4265c45cc1216b66ee96aef5011401ed7eaf45b9d46b371e5789007c43"
+  },
+  {
+    "path": "12_cuarto_medio/015_espacio_tiempo.md",
+    "size": 5823,
+    "sha256": "693b755dc6df5a3ceffe532f5895a6acf62e22bb1006afce8315b682964a522f"
+  },
+  {
+    "path": "12_cuarto_medio/016_equivalencia_masa_energia.md",
+    "size": 5859,
+    "sha256": "b55f770d134d46133af543c4f05efbc14f28475ff003d9033ab28d00c6e7ff74"
+  },
+  {
+    "path": "12_cuarto_medio/017_relatividad_general_inicial.md",
+    "size": 5913,
+    "sha256": "aeab046247a7815bda81ba77fa65bede89bfeb9cc76c9ddbdc91eaee7a545e95"
+  },
+  {
+    "path": "12_cuarto_medio/018_gravedad_como_curvatura_del_espacio_tiempo.md",
+    "size": 6088,
+    "sha256": "97422791f81f078ae900b9551aa5229f0f29c04b2f8915ea9ef32e0ece7fb8ca"
+  },
+  {
+    "path": "12_cuarto_medio/019_fisica_cuantica_inicial.md",
+    "size": 5887,
+    "sha256": "42a3385699fdab3402b422c5fe10dfee46f3b64fb0abca1a7000fd846b86ce60"
+  },
+  {
+    "path": "12_cuarto_medio/01_glosario_curso.md",
+    "size": 329,
+    "sha256": "43d1c0ee9cef45d84fedff8f3dfdc395b2b550c37a81b6883f43dd993058d9a5"
+  },
+  {
+    "path": "12_cuarto_medio/020_dualidad_onda_particula.md",
+    "size": 5879,
+    "sha256": "17fe04b183861e0488361ac16261c7e7e434fc20c79b9ade219c4d829e3a42a9"
+  },
+  {
+    "path": "12_cuarto_medio/021_cuantizacion_de_energia.md",
+    "size": 5852,
+    "sha256": "53a84cb4b8ebf30ab4f7c5597977ee371fd32c189b75992ac0040ff6b6d94c38"
+  },
+  {
+    "path": "12_cuarto_medio/022_atomo_y_espectros.md",
+    "size": 5846,
+    "sha256": "4ca207e7b5348e70b281fed8d6fbea49ba81595ee07e3c6f095a7d377757d84c"
+  },
+  {
+    "path": "12_cuarto_medio/023_semiconductores.md",
+    "size": 5829,
+    "sha256": "70d1769c1ad4ee613c1c1eccfcc4eed7d05c66031980726663e2bd39aefc7c6f"
+  },
+  {
+    "path": "12_cuarto_medio/024_laseres.md",
+    "size": 5778,
+    "sha256": "3179342921ae2ea529e2714a01c000fef7fed037b4eeb3c6b1bdcffc3d060bdd"
+  },
+  {
+    "path": "12_cuarto_medio/025_fisica_de_estrellas.md",
+    "size": 5870,
+    "sha256": "1b11baf01d8f72bedd8ac56e2d09130daecb9d3cf446f4b9ca123f217efc112e"
+  },
+  {
+    "path": "12_cuarto_medio/026_evolucion_estelar.md",
+    "size": 5846,
+    "sha256": "6cdf92a11fbd7389232d9f8abf85933e74c293c2c07a130a531a44e4f2c0e14f"
+  },
+  {
+    "path": "12_cuarto_medio/027_galaxias_y_cosmologia.md",
+    "size": 5882,
+    "sha256": "e245a3ae1068af3e463d99625facc509a575ebd779093b8d931482b41c096c70"
+  },
+  {
+    "path": "12_cuarto_medio/028_materia_oscura_y_energia_oscura.md",
+    "size": 5894,
+    "sha256": "3567435a2d16f7a11c5b05619262dafd8117777bde385e67356e1b65911455b2"
+  },
+  {
+    "path": "12_cuarto_medio/029_big_bang_y_evidencias.md",
+    "size": 5877,
+    "sha256": "20444f58791cce7ae1e753699b20fa4f4c6f229e1fc242f848cc81e54cca798d"
+  },
+  {
+    "path": "12_cuarto_medio/02_banco_preguntas.md",
+    "size": 5782,
+    "sha256": "20c03480de5633e7ce0d7c0041ab6a5f45337327b38c34a5e3edb2f4e5b2839c"
+  },
+  {
+    "path": "12_cuarto_medio/030_proyecto_de_investigacion_fisica_aplicada.md",
+    "size": 5995,
+    "sha256": "7f44c326c64b17232e59bb8f05722268da9b0989b247b9702343a9014554d738"
+  },
+  {
+    "path": "13_tematicos_transversales/001_que_estudia_la_fisica.md",
+    "size": 5920,
+    "sha256": "2113bb245f422e02d2569469e08652e759911167cb26c1356e41d3f6db6d9eab"
+  },
+  {
+    "path": "13_tematicos_transversales/002_medicion_y_unidades.md",
+    "size": 5903,
+    "sha256": "fbad7eceea485b3c10e4df0c50b5ff84c5522f0260808a38d4c01a5cecba1881"
+  },
+  {
+    "path": "13_tematicos_transversales/003_escalares_y_vectores.md",
+    "size": 5904,
+    "sha256": "e58029cbffa5a26b93e1853d8271563d1d1d146c7105fb470052a7ccaa244d4e"
+  },
+  {
+    "path": "13_tematicos_transversales/004_movimiento.md",
+    "size": 5803,
+    "sha256": "b1c7bc75bf7397ee6c0460069397e88a405f46cf44d2e0f2553b19640da44696"
+  },
+  {
+    "path": "13_tematicos_transversales/005_fuerza.md",
+    "size": 5819,
+    "sha256": "7ccdb2f35bf952a0cf4ea3e28fc5724506ddbdfbc6a550828d78e2306e08541a"
+  },
+  {
+    "path": "13_tematicos_transversales/006_gravedad.md",
+    "size": 5917,
+    "sha256": "895b969258f762f9ec9a631ca13af6519fda14f0b923035e9cb8154f6e9f90ea"
+  },
+  {
+    "path": "13_tematicos_transversales/007_energia.md",
+    "size": 5796,
+    "sha256": "3f9c5651ea2e0389a1b1571124069e24da10bacda3b77c8da6939b8a1b4c572a"
+  },
+  {
+    "path": "13_tematicos_transversales/008_trabajo_y_potencia.md",
+    "size": 5885,
+    "sha256": "bc75314b9291844791fa77ec56e4b83169bf8f30d8bc1b08ffbbdfc5fed3765a"
+  },
+  {
+    "path": "13_tematicos_transversales/009_calor_y_temperatura.md",
+    "size": 5941,
+    "sha256": "60ea64d98ffb2264890263e3b096d7b47bd5ca14b4e69e7121a49be169513a95"
+  },
+  {
+    "path": "13_tematicos_transversales/010_termodinamica.md",
+    "size": 5860,
+    "sha256": "ef6178710829fd2c8cc794bd0d0b8ee5e845541750dd3dd035a18bbb569fe1fe"
+  },
+  {
+    "path": "13_tematicos_transversales/011_luz_y_optica.md",
+    "size": 5820,
+    "sha256": "b8b959abfdba7fb607a7f1bd7fe19d96cf185fef3cd9665945c9f9851197a1f5"
+  },
+  {
+    "path": "13_tematicos_transversales/012_sonido.md",
+    "size": 5817,
+    "sha256": "fe9ef301e3ebbc9db53277b015d890afe62ffc999805dfdbcdac02ad002487c0"
+  },
+  {
+    "path": "13_tematicos_transversales/013_ondas.md",
+    "size": 5811,
+    "sha256": "19c9c488c2fdf5b21c7ece55395283edc1af004e02e4eacf7ef2ad4b1dff0af7"
+  },
+  {
+    "path": "13_tematicos_transversales/014_electricidad.md",
+    "size": 5841,
+    "sha256": "ba805f0965daba05da6d8c19554428d09ed7eeddeb32b84d15d5c4e2b496f6fc"
+  },
+  {
+    "path": "13_tematicos_transversales/015_magnetismo.md",
+    "size": 5803,
+    "sha256": "e3a0a638a832d2c5abe23b3124828a4598664a344ac32db42f044ddb39e40c5f"
+  },
+  {
+    "path": "13_tematicos_transversales/016_presion_y_fluidos.md",
+    "size": 5858,
+    "sha256": "af2bd12e430e9472881daebec4490264d947fc34bdc6dc6094089774d8fdaf70"
+  },
+  {
+    "path": "13_tematicos_transversales/017_maquinas_simples.md",
+    "size": 5885,
+    "sha256": "1cb780891d011046c0659880a9253bfd27e87ddcb36178756650180f6bab96b8"
+  },
+  {
+    "path": "13_tematicos_transversales/018_fisica_de_la_tierra.md",
+    "size": 5903,
+    "sha256": "3e4bfbd164a2d705fc9381f0e83b2db31f221b0dc73809518eeb5a8c903c8a0c"
+  },
+  {
+    "path": "13_tematicos_transversales/019_fisica_del_universo.md",
+    "size": 5915,
+    "sha256": "7b1fc3ba4e303c02b9386874d632bed4a16fa666cbbdf011c417f75dab9f154e"
+  },
+  {
+    "path": "13_tematicos_transversales/020_modelos_y_analogias_en_fisica.md",
+    "size": 5968,
+    "sha256": "8d498f3471d0ba539c73988661b959be9269454ae3df09b25eeb62b80083f6bb"
+  },
+  {
+    "path": "13_tematicos_transversales/021_metodo_experimental.md",
+    "size": 5903,
+    "sha256": "fc091fb49e06e409989dcecaab5960d50b29162697a8321c80e28ecad7993b9a"
+  },
+  {
+    "path": "13_tematicos_transversales/022_incertidumbre_y_error.md",
+    "size": 5910,
+    "sha256": "472a9688701cf005d6f3bedca9a1601b9360bcd324c4e0d4852cb1e60658a667"
+  },
+  {
+    "path": "13_tematicos_transversales/023_graficos_y_ecuaciones.md",
+    "size": 5915,
+    "sha256": "d72c0c3d1ad9d6677c4c97e97fcead626c4ac81e4d391411d71fce35c8c5406f"
+  },
+  {
+    "path": "13_tematicos_transversales/024_seguridad_en_experimentos.md",
+    "size": 5934,
+    "sha256": "2df11db9349331b404226f1c50c44de857c19cfdae64e8ae86f4ddda67544909"
+  },
+  {
+    "path": "13_tematicos_transversales/025_fisica_y_vida_diaria.md",
+    "size": 5909,
+    "sha256": "e89033a3fd8234e8a77fd3a780e98b1271611c802d7f58eada32cc7da199a8fe"
+  },
+  {
+    "path": "13_tematicos_transversales/026_fisica_tecnologia_y_sociedad.md",
+    "size": 5966,
+    "sha256": "394e83110ec509b3a9b1440d80df4c87ca5de11dd19bbb3b9952624c990e80e7"
+  },
+  {
+    "path": "13_tematicos_transversales/027_energia_y_ambiente.md",
+    "size": 5862,
+    "sha256": "ec259079a377711245fb0b5ba474dfb0eb36766c74cf8c6bf4b46050f177ab2d"
+  },
+  {
+    "path": "13_tematicos_transversales/028_ciudadania_cientifica_y_controversias_fisicas.md",
+    "size": 6069,
+    "sha256": "6c2c3956538baee67f4ef554ff2e3a20ce0e9afb5671bcaf2fb25de8f3798992"
+  },
+  {
+    "path": "14_bancos_generales/01_glosario_general.md",
+    "size": 278,
+    "sha256": "3db14751ad147e5a25a70b8f00f910ae201efc4f742aea489d2154c0ef650cc9"
+  },
+  {
+    "path": "14_bancos_generales/02_palabras_clave.md",
+    "size": 7780,
+    "sha256": "d4df5453cc9c248daf951c6cc8a55325268400388a87c33a52983f3a2e8f7902"
+  },
+  {
+    "path": "14_bancos_generales/03_mapa_relaciones_materias.md",
+    "size": 118,
+    "sha256": "f1ba2334acda11d729f8843c2c1914800148e5ad650b7e22cb72c28556920a41"
+  },
+  {
+    "path": "14_bancos_generales/04_plantilla_experimento_fisica.md",
+    "size": 146,
+    "sha256": "1e110a4115edd848f24d143344141662fa1ae54970ec95a4fde7e005dcde98a3"
+  },
+  {
+    "path": "15_evaluaciones_generales/01_evaluaciones_generales.md",
+    "size": 121,
+    "sha256": "602ffe8c5df9cf4da0399ce6181d37e4a405a23046432b7512f484a78d5bcc95"
+  },
+  {
+    "path": "16_apoyo_inclusivo/01_adaptaciones_tea.md",
+    "size": 177,
+    "sha256": "8996dc9054bc889021bf1707b5c417a9f835cc6ea244aefc01b7be9a483399c5"
+  },
+  {
+    "path": "16_apoyo_inclusivo/02_reglas_por_perfil.md",
+    "size": 133,
+    "sha256": "a16a6cc1e2a7e495ca63322845d8796d283dd20b86e99c7cd89aac713b283b91"
+  },
+  {
+    "path": "17_compendios/compendio_cuarto_basico.md",
+    "size": 117623,
+    "sha256": "999e55f640f7d1eefd2f755848ec3ab885816a44d03f8c2681306129a20a213e"
+  },
+  {
+    "path": "17_compendios/compendio_cuarto_medio.md",
+    "size": 176661,
+    "sha256": "9c9b2c65156ef16f05dec6f0d0faa57a89c83d4b1503e6dc4841c28d177a88c6"
+  },
+  {
+    "path": "17_compendios/compendio_octavo_basico.md",
+    "size": 152834,
+    "sha256": "5fb438bd2f43c88c7baca83ba8b045bcbe26b83d7e3f2d3860b9b3835ed174c3"
+  },
+  {
+    "path": "17_compendios/compendio_primero_basico.md",
+    "size": 88673,
+    "sha256": "8699a6da46545630e80fd7853302e04cf831771affae1c0a5f385279ab600b60"
+  },
+  {
+    "path": "17_compendios/compendio_primero_medio.md",
+    "size": 163844,
+    "sha256": "afc0562ef47e13700f44e213f4e4ad83ffb399c0ff5ea2526c304d6d8717b593"
+  },
+  {
+    "path": "17_compendios/compendio_quinto_basico.md",
+    "size": 140976,
+    "sha256": "c05e476f074e22dfa48c6807c0fea6f4f541d1666c10fdb0e2f52cc9857444d0"
+  },
+  {
+    "path": "17_compendios/compendio_segundo_basico.md",
+    "size": 94256,
+    "sha256": "c2829c9364bee1e6070a7622781c0cb6421ae5873a202bc33b33f17195fb9a54"
+  },
+  {
+    "path": "17_compendios/compendio_segundo_medio.md",
+    "size": 175767,
+    "sha256": "3daf1ad326e1da7bac560b857c602fa489077c89d9aac9d77d344648738e0a99"
+  },
+  {
+    "path": "17_compendios/compendio_septimo_basico.md",
+    "size": 140961,
+    "sha256": "bd7577079d0921249d9ab8f02e0f08b2e5b911df34bc5379f8e3dd451d0fa2db"
+  },
+  {
+    "path": "17_compendios/compendio_sexto_basico.md",
+    "size": 141245,
+    "sha256": "54f199ffbd60653b68fbb74ad6571602e125062c344826a1f3ff2c69d916f4f5"
+  },
+  {
+    "path": "17_compendios/compendio_tercero_basico.md",
+    "size": 105603,
+    "sha256": "108eb57950589001620960fadb1b6a382bbfeea2eb02ec3bce8f8ea119fc44b0"
+  },
+  {
+    "path": "17_compendios/compendio_tercero_medio.md",
+    "size": 141838,
+    "sha256": "64ba47544c983d7b37a4bfbabdaea7e2fa5b26db76d231271b88e4f0c0c96750"
+  },
+  {
+    "path": "17_compendios/enciclopedia_completa_fisica.md",
+    "size": 1640317,
+    "sha256": "d809cdfe146329deedce5316fe36c53c9e9fdc04b7c70d7df0c42df1507d3701"
+  },
+  {
+    "path": "18_rag/catalogo_capitulos.json",
+    "size": 102465,
+    "sha256": "5ab2b882b42292ff20b31df3afa5a8b7d62768c8140f78e68d3d1a181a0f5e19"
+  },
+  {
+    "path": "18_rag/catalogo_capitulos.jsonl",
+    "size": 90489,
+    "sha256": "a4ec99823bd14227db5d2f61ae8c3fa363029e3388b79baa798547af68ce428f"
+  },
+  {
+    "path": "18_rag/chunks_fisica.jsonl",
+    "size": 3295511,
+    "sha256": "5712e3a0c95381790bcc604152d0c3aae36edc4af262ffc4bd71aa3348c418a7"
+  },
+  {
+    "path": "CHANGELOG.md",
+    "size": 65,
+    "sha256": "6ea52d47bfdf039e89357610bbf4b9aff94ee8df8f5763ddf063fba690d4543a"
+  },
+  {
+    "path": "README.md",
+    "size": 392,
+    "sha256": "a7d6b50dc4d43fad30ce22d62a141255c63efceafd5cf2883db34a6c96a1cebc"
+  }
+]

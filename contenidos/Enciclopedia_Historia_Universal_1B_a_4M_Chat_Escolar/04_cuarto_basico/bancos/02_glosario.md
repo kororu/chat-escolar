@@ -1,0 +1,85 @@
+# Glosario inicial — 4° básico
+
+- **Administracion:** Concepto vinculado con caminos, chasquis, quipus y administración; debe definirse dentro de su contexto histórico.
+- **Agricultura:** Concepto vinculado con pisos ecológicos, agricultura y almacenamiento andino; debe definirse dentro de su contexto histórico.
+- **Almacenamiento:** Concepto vinculado con pisos ecológicos, agricultura y almacenamiento andino; debe definirse dentro de su contexto histórico.
+- **America:** Concepto vinculado con américa antes de la llegada europea; debe definirse dentro de su contexto histórico.
+- **Americanas:** Concepto vinculado con interpretar mapas y líneas de tiempo americanas; debe definirse dentro de su contexto histórico.
+- **Andes:** Concepto vinculado con ubicación y diversidad geográfica de mesoamérica y los andes; debe definirse dentro de su contexto histórico.
+- **Andino:** Concepto vinculado con pisos ecológicos, agricultura y almacenamiento andino; debe definirse dentro de su contexto histórico.
+- **Andinos:** Concepto vinculado con continuidad de pueblos andinos en el presente; debe definirse dentro de su contexto histórico.
+- **Antes:** Concepto vinculado con el mundo andino antes del tawantinsuyu; debe definirse dentro de su contexto histórico.
+- **Arqueologicas:** Concepto vinculado con fuentes indígenas, arqueológicas y coloniales; debe definirse dentro de su contexto histórico.
+- **Arqueologico:** Concepto vinculado con patrimonio arqueológico y cuidado de sitios; debe definirse dentro de su contexto histórico.
+- **Arquitectura:** Concepto vinculado con religión, arquitectura y vida cotidiana inca; debe definirse dentro de su contexto histórico.
+- **Arte:** Concepto vinculado con religión, arte y vida cotidiana maya; debe definirse dentro de su contexto histórico.
+- **Astronomia:** Concepto vinculado con escritura, calendarios, matemáticas y astronomía maya; debe definirse dentro de su contexto histórico.
+- **Ayllu:** Concepto vinculado con ayllu, reciprocidad y organización social inca; debe definirse dentro de su contexto histórico.
+- **Azteca:** Concepto vinculado con la civilización mexica o azteca y el valle de méxico; debe definirse dentro de su contexto histórico.
+- **Calendarios:** Concepto vinculado con escritura, calendarios, matemáticas y astronomía maya; debe definirse dentro de su contexto histórico.
+- **Caminos:** Concepto vinculado con caminos, chasquis, quipus y administración; debe definirse dentro de su contexto histórico.
+- **Chasquis:** Concepto vinculado con caminos, chasquis, quipus y administración; debe definirse dentro de su contexto histórico.
+- **Chinampas:** Concepto vinculado con tenochtitlan, chinampas y organización urbana; debe definirse dentro de su contexto histórico.
+- **Ciudades:** Concepto vinculado con la civilización maya: territorio y ciudades-estado; debe definirse dentro de su contexto histórico.
+- **Civilizacion:** Concepto vinculado con la civilización mexica o azteca y el valle de méxico; debe definirse dentro de su contexto histórico.
+- **Civilizaciones:** Concepto vinculado con mujeres, niñas y niños en civilizaciones americanas; debe definirse dentro de su contexto histórico.
+- **Coloniales:** Concepto vinculado con fuentes indígenas, arqueológicas y coloniales; debe definirse dentro de su contexto histórico.
+- **Comercio:** Concepto vinculado con sociedad, tributo, guerra y comercio mexica; debe definirse dentro de su contexto histórico.
+- **Comparar:** Concepto vinculado con comparar mayas, mexicas e incas; debe definirse dentro de su contexto histórico.
+- **Continuidad:** Concepto vinculado con continuidad de pueblos andinos en el presente; debe definirse dentro de su contexto histórico.
+- **Cotidiana:** Concepto vinculado con religión, arquitectura y vida cotidiana inca; debe definirse dentro de su contexto histórico.
+- **Cuidado:** Concepto vinculado con patrimonio arqueológico y cuidado de sitios; debe definirse dentro de su contexto histórico.
+- **Diversidad:** Concepto vinculado con ubicación y diversidad geográfica de mesoamérica y los andes; debe definirse dentro de su contexto histórico.
+- **Ecologicos:** Concepto vinculado con pisos ecológicos, agricultura y almacenamiento andino; debe definirse dentro de su contexto histórico.
+- **Economia:** Concepto vinculado con sociedad, gobierno y economía maya; debe definirse dentro de su contexto histórico.
+- **Educacion:** Concepto vinculado con religión, educación y vida cotidiana mexica; debe definirse dentro de su contexto histórico.
+- **Escritura:** Concepto vinculado con escritura, calendarios, matemáticas y astronomía maya; debe definirse dentro de su contexto histórico.
+- **Estado:** Concepto vinculado con la civilización maya: territorio y ciudades-estado; debe definirse dentro de su contexto histórico.
+- **Estudiar:** Concepto vinculado con fuentes para estudiar a los mexicas; debe definirse dentro de su contexto histórico.
+- **Europea:** Concepto vinculado con américa antes de la llegada europea; debe definirse dentro de su contexto histórico.
+- **Expansion:** Concepto vinculado con formación y expansión del imperio inca; debe definirse dentro de su contexto histórico.
+- **Formacion:** Concepto vinculado con formación y expansión del imperio inca; debe definirse dentro de su contexto histórico.
+- **Fuentes:** Concepto vinculado con fuentes indígenas, arqueológicas y coloniales; debe definirse dentro de su contexto histórico.
+- **Geografica:** Concepto vinculado con ubicación y diversidad geográfica de mesoamérica y los andes; debe definirse dentro de su contexto histórico.
+- **Gobierno:** Concepto vinculado con sociedad, gobierno y economía maya; debe definirse dentro de su contexto histórico.
+- **Guerra:** Concepto vinculado con sociedad, tributo, guerra y comercio mexica; debe definirse dentro de su contexto histórico.
+- **Imperio:** Concepto vinculado con formación y expansión del imperio inca; debe definirse dentro de su contexto histórico.
+- **Inca:** Concepto vinculado con religión, arquitectura y vida cotidiana inca; debe definirse dentro de su contexto histórico.
+- **Incas:** Concepto vinculado con comparar mayas, mexicas e incas; debe definirse dentro de su contexto histórico.
+- **Indigenas:** Concepto vinculado con fuentes indígenas, arqueológicas y coloniales; debe definirse dentro de su contexto histórico.
+- **Interpretar:** Concepto vinculado con interpretar mapas y líneas de tiempo americanas; debe definirse dentro de su contexto histórico.
+- **Lineas:** Concepto vinculado con interpretar mapas y líneas de tiempo americanas; debe definirse dentro de su contexto histórico.
+- **Llegada:** Concepto vinculado con américa antes de la llegada europea; debe definirse dentro de su contexto histórico.
+- **Mapas:** Concepto vinculado con interpretar mapas y líneas de tiempo americanas; debe definirse dentro de su contexto histórico.
+- **Matematicas:** Concepto vinculado con escritura, calendarios, matemáticas y astronomía maya; debe definirse dentro de su contexto histórico.
+- **Maya:** Concepto vinculado con religión, arte y vida cotidiana maya; debe definirse dentro de su contexto histórico.
+- **Mayas:** Concepto vinculado con comparar mayas, mexicas e incas; debe definirse dentro de su contexto histórico.
+- **Mesoamerica:** Concepto vinculado con ubicación y diversidad geográfica de mesoamérica y los andes; debe definirse dentro de su contexto histórico.
+- **Mexica:** Concepto vinculado con religión, educación y vida cotidiana mexica; debe definirse dentro de su contexto histórico.
+- **Mexicas:** Concepto vinculado con comparar mayas, mexicas e incas; debe definirse dentro de su contexto histórico.
+- **Mexico:** Concepto vinculado con la civilización mexica o azteca y el valle de méxico; debe definirse dentro de su contexto histórico.
+- **Mujeres:** Concepto vinculado con mujeres, niñas y niños en civilizaciones americanas; debe definirse dentro de su contexto histórico.
+- **Mundo:** Concepto vinculado con el mundo andino antes del tawantinsuyu; debe definirse dentro de su contexto histórico.
+- **Ninas:** Concepto vinculado con mujeres, niñas y niños en civilizaciones americanas; debe definirse dentro de su contexto histórico.
+- **Ninos:** Concepto vinculado con mujeres, niñas y niños en civilizaciones americanas; debe definirse dentro de su contexto histórico.
+- **O:** Concepto vinculado con la civilización mexica o azteca y el valle de méxico; debe definirse dentro de su contexto histórico.
+- **Organizacion:** Concepto vinculado con ayllu, reciprocidad y organización social inca; debe definirse dentro de su contexto histórico.
+- **Patrimonio:** Concepto vinculado con patrimonio arqueológico y cuidado de sitios; debe definirse dentro de su contexto histórico.
+- **Pisos:** Concepto vinculado con pisos ecológicos, agricultura y almacenamiento andino; debe definirse dentro de su contexto histórico.
+- **Presente:** Concepto vinculado con continuidad de pueblos andinos en el presente; debe definirse dentro de su contexto histórico.
+- **Pueblos:** Concepto vinculado con continuidad de pueblos andinos en el presente; debe definirse dentro de su contexto histórico.
+- **Quipus:** Concepto vinculado con caminos, chasquis, quipus y administración; debe definirse dentro de su contexto histórico.
+- **Reciprocidad:** Concepto vinculado con ayllu, reciprocidad y organización social inca; debe definirse dentro de su contexto histórico.
+- **Religion:** Concepto vinculado con religión, arquitectura y vida cotidiana inca; debe definirse dentro de su contexto histórico.
+- **Sitios:** Concepto vinculado con patrimonio arqueológico y cuidado de sitios; debe definirse dentro de su contexto histórico.
+- **Social:** Concepto vinculado con ayllu, reciprocidad y organización social inca; debe definirse dentro de su contexto histórico.
+- **Sociedad:** Concepto vinculado con sociedad, tributo, guerra y comercio mexica; debe definirse dentro de su contexto histórico.
+- **Tawantinsuyu:** Concepto vinculado con el mundo andino antes del tawantinsuyu; debe definirse dentro de su contexto histórico.
+- **Tenochtitlan:** Concepto vinculado con tenochtitlan, chinampas y organización urbana; debe definirse dentro de su contexto histórico.
+- **Territorio:** Concepto vinculado con la civilización maya: territorio y ciudades-estado; debe definirse dentro de su contexto histórico.
+- **Tiempo:** Concepto vinculado con interpretar mapas y líneas de tiempo americanas; debe definirse dentro de su contexto histórico.
+- **Tributo:** Concepto vinculado con sociedad, tributo, guerra y comercio mexica; debe definirse dentro de su contexto histórico.
+- **Ubicacion:** Concepto vinculado con ubicación y diversidad geográfica de mesoamérica y los andes; debe definirse dentro de su contexto histórico.
+- **Urbana:** Concepto vinculado con tenochtitlan, chinampas y organización urbana; debe definirse dentro de su contexto histórico.
+- **Valle:** Concepto vinculado con la civilización mexica o azteca y el valle de méxico; debe definirse dentro de su contexto histórico.
+- **Vida:** Concepto vinculado con religión, arquitectura y vida cotidiana inca; debe definirse dentro de su contexto histórico.

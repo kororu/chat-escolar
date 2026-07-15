@@ -1,0 +1,3497 @@
+[
+  {
+    "id": "ciu_1b_001_normas_para_convivir_en_la_sala",
+    "titulo": "Normas para convivir en la sala",
+    "curso": "1° básico",
+    "folder": "01_primero_basico",
+    "path": "01_primero_basico/001_normas_para_convivir_en_la_sala.md",
+    "area": "Convivencia",
+    "categoria": "normas",
+    "alineacion": "curricular_directa",
+    "palabras_clave": [
+      "norma",
+      "respeto",
+      "turno",
+      "acuerdo",
+      "convivencia"
+    ],
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ciu_1b_002_responsabilidades_en_la_casa_y_la_escuela",
+    "titulo": "Responsabilidades en la casa y la escuela",
+    "curso": "1° básico",
+    "folder": "01_primero_basico",
+    "path": "01_primero_basico/002_responsabilidades_en_la_casa_y_la_escuela.md",
+    "area": "Formación cívica",
+    "categoria": "responsabilidades",
+    "alineacion": "curricular_directa",
+    "palabras_clave": [
+      "responsabilidad",
+      "tarea",
+      "cuidado",
+      "compromiso"
+    ],
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ciu_1b_003_derechos_de_ninos_y_ninas_primera_aproximacion",
+    "titulo": "Derechos de niños y niñas: primera aproximación",
+    "curso": "1° básico",
+    "folder": "01_primero_basico",
+    "path": "01_primero_basico/003_derechos_de_ninos_y_ninas_primera_aproximacion.md",
+    "area": "Derechos humanos",
+    "categoria": "derechos_ninez",
+    "alineacion": "curricular_directa",
+    "palabras_clave": [
+      "derecho",
+      "protección",
+      "educación",
+      "salud",
+      "identidad"
+    ],
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ciu_1b_004_resolver_conflictos_hablando",
+    "titulo": "Resolver conflictos hablando",
+    "curso": "1° básico",
+    "folder": "01_primero_basico",
+    "path": "01_primero_basico/004_resolver_conflictos_hablando.md",
+    "area": "Convivencia",
+    "categoria": "resolucion_conflictos",
+    "alineacion": "curricular_directa",
+    "palabras_clave": [
+      "conflicto",
+      "diálogo",
+      "escuchar",
+      "acuerdo",
+      "calma"
+    ],
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ciu_1b_005_cuidar_espacios_y_bienes_comunes",
+    "titulo": "Cuidar espacios y bienes comunes",
+    "curso": "1° básico",
+    "folder": "01_primero_basico",
+    "path": "01_primero_basico/005_cuidar_espacios_y_bienes_comunes.md",
+    "area": "Ciudadanía cotidiana",
+    "categoria": "bien_comun",
+    "alineacion": "curricular_directa",
+    "palabras_clave": [
+      "bien común",
+      "cuidado",
+      "plaza",
+      "escuela",
+      "material"
+    ],
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ciu_1b_006_pedir_ayuda_a_un_adulto_de_confianza",
+    "titulo": "Pedir ayuda a un adulto de confianza",
+    "curso": "1° básico",
+    "folder": "01_primero_basico",
+    "path": "01_primero_basico/006_pedir_ayuda_a_un_adulto_de_confianza.md",
+    "area": "Protección",
+    "categoria": "ayuda_segura",
+    "alineacion": "puente_curricular",
+    "palabras_clave": [
+      "ayuda",
+      "adulto de confianza",
+      "seguridad",
+      "protección"
+    ],
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ciu_1b_007_participar_respetando_turnos",
+    "titulo": "Participar respetando turnos",
+    "curso": "1° básico",
+    "folder": "01_primero_basico",
+    "path": "01_primero_basico/007_participar_respetando_turnos.md",
+    "area": "Participación",
+    "categoria": "participacion_inicial",
+    "alineacion": "curricular_directa",
+    "palabras_clave": [
+      "participación",
+      "turno",
+      "escucha",
+      "opinión"
+    ],
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ciu_1b_008_personas_e_instituciones_que_ayudan_a_la_comunidad",
+    "titulo": "Personas e instituciones que ayudan a la comunidad",
+    "curso": "1° básico",
+    "folder": "01_primero_basico",
+    "path": "01_primero_basico/008_personas_e_instituciones_que_ayudan_a_la_comunidad.md",
+    "area": "Instituciones",
+    "categoria": "instituciones_cercanas",
+    "alineacion": "curricular_directa",
+    "palabras_clave": [
+      "municipalidad",
+      "bomberos",
+      "carabineros",
+      "hospital",
+      "escuela"
+    ],
+    "requiere_fuente_verificada": true
+  },
+  {
+    "id": "ciu_1b_009_trato_respetuoso_y_no_discriminacion",
+    "titulo": "Trato respetuoso y no discriminación",
+    "curso": "1° básico",
+    "folder": "01_primero_basico",
+    "path": "01_primero_basico/009_trato_respetuoso_y_no_discriminacion.md",
+    "area": "Derechos humanos",
+    "categoria": "respeto_diversidad",
+    "alineacion": "puente_curricular",
+    "palabras_clave": [
+      "respeto",
+      "diversidad",
+      "igualdad",
+      "buen trato"
+    ],
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ciu_1b_010_seguridad_y_convivencia_digital_inicial",
+    "titulo": "Seguridad y convivencia digital inicial",
+    "curso": "1° básico",
+    "folder": "01_primero_basico",
+    "path": "01_primero_basico/010_seguridad_y_convivencia_digital_inicial.md",
+    "area": "Ciudadanía digital",
+    "categoria": "ciudadania_digital",
+    "alineacion": "puente_curricular",
+    "palabras_clave": [
+      "internet",
+      "privacidad",
+      "contraseña",
+      "adulto de confianza",
+      "respeto"
+    ],
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ciu_2b_001_normas_razones_y_consecuencias",
+    "titulo": "Normas, razones y consecuencias",
+    "curso": "2° básico",
+    "folder": "02_segundo_basico",
+    "path": "02_segundo_basico/001_normas_razones_y_consecuencias.md",
+    "area": "Convivencia",
+    "categoria": "normas_razones",
+    "alineacion": "curricular_directa",
+    "palabras_clave": [
+      "norma",
+      "razón",
+      "consecuencia",
+      "seguridad",
+      "convivencia"
+    ],
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ciu_2b_002_derechos_y_responsabilidades_en_situaciones_cotidianas",
+    "titulo": "Derechos y responsabilidades en situaciones cotidianas",
+    "curso": "2° básico",
+    "folder": "02_segundo_basico",
+    "path": "02_segundo_basico/002_derechos_y_responsabilidades_en_situaciones_cotidianas.md",
+    "area": "Derechos y deberes",
+    "categoria": "derechos_deberes",
+    "alineacion": "curricular_directa",
+    "palabras_clave": [
+      "derecho",
+      "responsabilidad",
+      "deber",
+      "cuidado"
+    ],
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ciu_2b_003_derechos_del_nino_y_proteccion",
+    "titulo": "Derechos del niño y protección",
+    "curso": "2° básico",
+    "folder": "02_segundo_basico",
+    "path": "02_segundo_basico/003_derechos_del_nino_y_proteccion.md",
+    "area": "Derechos humanos",
+    "categoria": "convencion_ninez",
+    "alineacion": "curricular_directa",
+    "palabras_clave": [
+      "derechos del niño",
+      "protección",
+      "familia",
+      "educación",
+      "salud"
+    ],
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ciu_2b_004_conflictos_problema_emociones_y_solucion",
+    "titulo": "Conflictos: problema, emociones y solución",
+    "curso": "2° básico",
+    "folder": "02_segundo_basico",
+    "path": "02_segundo_basico/004_conflictos_problema_emociones_y_solucion.md",
+    "area": "Convivencia",
+    "categoria": "conflicto_emocion",
+    "alineacion": "curricular_directa",
+    "palabras_clave": [
+      "problema",
+      "emoción",
+      "diálogo",
+      "solución"
+    ],
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ciu_2b_005_acuerdos_de_curso",
+    "titulo": "Acuerdos de curso",
+    "curso": "2° básico",
+    "folder": "02_segundo_basico",
+    "path": "02_segundo_basico/005_acuerdos_de_curso.md",
+    "area": "Participación",
+    "categoria": "acuerdos_curso",
+    "alineacion": "curricular_directa",
+    "palabras_clave": [
+      "acuerdo",
+      "votación",
+      "opinión",
+      "compromiso"
+    ],
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ciu_2b_006_municipalidad_y_servicios_locales",
+    "titulo": "Municipalidad y servicios locales",
+    "curso": "2° básico",
+    "folder": "02_segundo_basico",
+    "path": "02_segundo_basico/006_municipalidad_y_servicios_locales.md",
+    "area": "Instituciones",
+    "categoria": "municipalidad_inicial",
+    "alineacion": "puente_curricular",
+    "palabras_clave": [
+      "municipalidad",
+      "comuna",
+      "alcaldía",
+      "servicio"
+    ],
+    "requiere_fuente_verificada": true
+  },
+  {
+    "id": "ciu_2b_007_instituciones_de_emergencia_y_cuidado",
+    "titulo": "Instituciones de emergencia y cuidado",
+    "curso": "2° básico",
+    "folder": "02_segundo_basico",
+    "path": "02_segundo_basico/007_instituciones_de_emergencia_y_cuidado.md",
+    "area": "Instituciones",
+    "categoria": "emergencia",
+    "alineacion": "curricular_directa",
+    "palabras_clave": [
+      "bomberos",
+      "salud",
+      "policía",
+      "emergencia",
+      "prevención"
+    ],
+    "requiere_fuente_verificada": true
+  },
+  {
+    "id": "ciu_2b_008_privacidad_y_datos_personales",
+    "titulo": "Privacidad y datos personales",
+    "curso": "2° básico",
+    "folder": "02_segundo_basico",
+    "path": "02_segundo_basico/008_privacidad_y_datos_personales.md",
+    "area": "Ciudadanía digital",
+    "categoria": "datos_personales",
+    "alineacion": "puente_curricular",
+    "palabras_clave": [
+      "dato personal",
+      "nombre",
+      "dirección",
+      "contraseña",
+      "privacidad"
+    ],
+    "requiere_fuente_verificada": true
+  },
+  {
+    "id": "ciu_2b_009_buen_trato_en_linea",
+    "titulo": "Buen trato en línea",
+    "curso": "2° básico",
+    "folder": "02_segundo_basico",
+    "path": "02_segundo_basico/009_buen_trato_en_linea.md",
+    "area": "Ciudadanía digital",
+    "categoria": "convivencia_digital",
+    "alineacion": "puente_curricular",
+    "palabras_clave": [
+      "mensaje",
+      "respeto",
+      "bloquear",
+      "pedir ayuda"
+    ],
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ciu_2b_010_igualdad_y_diversidad_de_familias",
+    "titulo": "Igualdad y diversidad de familias",
+    "curso": "2° básico",
+    "folder": "02_segundo_basico",
+    "path": "02_segundo_basico/010_igualdad_y_diversidad_de_familias.md",
+    "area": "Derechos humanos",
+    "categoria": "diversidad_familiar",
+    "alineacion": "curricular_directa",
+    "palabras_clave": [
+      "familia",
+      "diversidad",
+      "igualdad",
+      "respeto"
+    ],
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ciu_2b_011_participar_en_una_decision_simple",
+    "titulo": "Participar en una decisión simple",
+    "curso": "2° básico",
+    "folder": "02_segundo_basico",
+    "path": "02_segundo_basico/011_participar_en_una_decision_simple.md",
+    "area": "Participación",
+    "categoria": "decision_simple",
+    "alineacion": "curricular_directa",
+    "palabras_clave": [
+      "opción",
+      "voto",
+      "mayoría",
+      "respeto"
+    ],
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ciu_2b_012_cuidado_de_bienes_publicos",
+    "titulo": "Cuidado de bienes públicos",
+    "curso": "2° básico",
+    "folder": "02_segundo_basico",
+    "path": "02_segundo_basico/012_cuidado_de_bienes_publicos.md",
+    "area": "Ciudadanía cotidiana",
+    "categoria": "bienes_publicos",
+    "alineacion": "curricular_directa",
+    "palabras_clave": [
+      "bien público",
+      "plaza",
+      "biblioteca",
+      "escuela",
+      "cuidado"
+    ],
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ciu_3b_001_virtudes_ciudadanas_en_familia_escuela_y_comunidad",
+    "titulo": "Virtudes ciudadanas en familia, escuela y comunidad",
+    "curso": "3° básico",
+    "folder": "03_tercero_basico",
+    "path": "03_tercero_basico/001_virtudes_ciudadanas_en_familia_escuela_y_comunidad.md",
+    "area": "Formación cívica",
+    "categoria": "virtudes_ciudadanas",
+    "alineacion": "curricular_directa",
+    "palabras_clave": [
+      "honestidad",
+      "respeto",
+      "responsabilidad",
+      "solidaridad"
+    ],
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ciu_3b_002_derechos_y_deberes_por_que_deben_equilibrarse",
+    "titulo": "Derechos y deberes: por qué deben equilibrarse",
+    "curso": "3° básico",
+    "folder": "03_tercero_basico",
+    "path": "03_tercero_basico/002_derechos_y_deberes_por_que_deben_equilibrarse.md",
+    "area": "Derechos y deberes",
+    "categoria": "equilibrio",
+    "alineacion": "curricular_directa",
+    "palabras_clave": [
+      "derecho",
+      "deber",
+      "responsabilidad",
+      "bien común"
+    ],
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ciu_3b_003_democracia_en_la_vida_cotidiana",
+    "titulo": "Democracia en la vida cotidiana",
+    "curso": "3° básico",
+    "folder": "03_tercero_basico",
+    "path": "03_tercero_basico/003_democracia_en_la_vida_cotidiana.md",
+    "area": "Democracia",
+    "categoria": "democracia_inicial",
+    "alineacion": "puente_curricular",
+    "palabras_clave": [
+      "democracia",
+      "participación",
+      "opinión",
+      "acuerdo"
+    ],
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ciu_3b_004_elecciones_de_curso",
+    "titulo": "Elecciones de curso",
+    "curso": "3° básico",
+    "folder": "03_tercero_basico",
+    "path": "03_tercero_basico/004_elecciones_de_curso.md",
+    "area": "Participación",
+    "categoria": "elecciones_curso",
+    "alineacion": "curricular_directa",
+    "palabras_clave": [
+      "elección",
+      "candidato",
+      "propuesta",
+      "voto",
+      "secreto"
+    ],
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ciu_3b_005_representantes_y_responsabilidades",
+    "titulo": "Representantes y responsabilidades",
+    "curso": "3° básico",
+    "folder": "03_tercero_basico",
+    "path": "03_tercero_basico/005_representantes_y_responsabilidades.md",
+    "area": "Participación",
+    "categoria": "representacion",
+    "alineacion": "curricular_directa",
+    "palabras_clave": [
+      "representante",
+      "mandato",
+      "responsabilidad",
+      "rendición"
+    ],
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ciu_3b_006_municipalidad_alcalde_y_concejo",
+    "titulo": "Municipalidad, alcalde y concejo",
+    "curso": "3° básico",
+    "folder": "03_tercero_basico",
+    "path": "03_tercero_basico/006_municipalidad_alcalde_y_concejo.md",
+    "area": "Instituciones",
+    "categoria": "municipalidad",
+    "alineacion": "puente_curricular",
+    "palabras_clave": [
+      "municipalidad",
+      "alcalde",
+      "concejo municipal",
+      "comuna"
+    ],
+    "requiere_fuente_verificada": true
+  },
+  {
+    "id": "ciu_3b_007_la_ley_como_regla_comun",
+    "titulo": "La ley como regla común",
+    "curso": "3° básico",
+    "folder": "03_tercero_basico",
+    "path": "03_tercero_basico/007_la_ley_como_regla_comun.md",
+    "area": "Derecho básico",
+    "categoria": "ley_inicial",
+    "alineacion": "puente_curricular",
+    "palabras_clave": [
+      "ley",
+      "norma",
+      "autoridad",
+      "igualdad"
+    ],
+    "requiere_fuente_verificada": true
+  },
+  {
+    "id": "ciu_3b_008_justicia_tratar_con_reglas_y_escuchar_versiones",
+    "titulo": "Justicia: tratar con reglas y escuchar versiones",
+    "curso": "3° básico",
+    "folder": "03_tercero_basico",
+    "path": "03_tercero_basico/008_justicia_tratar_con_reglas_y_escuchar_versiones.md",
+    "area": "Justicia",
+    "categoria": "justicia_inicial",
+    "alineacion": "puente_curricular",
+    "palabras_clave": [
+      "justicia",
+      "regla",
+      "evidencia",
+      "escuchar",
+      "imparcialidad"
+    ],
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ciu_3b_009_resolucion_pacifica_mediacion_escolar",
+    "titulo": "Resolución pacífica: mediación escolar",
+    "curso": "3° básico",
+    "folder": "03_tercero_basico",
+    "path": "03_tercero_basico/009_resolucion_pacifica_mediacion_escolar.md",
+    "area": "Convivencia",
+    "categoria": "mediacion",
+    "alineacion": "puente_curricular",
+    "palabras_clave": [
+      "mediación",
+      "mediador",
+      "acuerdo",
+      "conflicto"
+    ],
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ciu_3b_010_derechos_del_nino_en_casos_concretos",
+    "titulo": "Derechos del niño en casos concretos",
+    "curso": "3° básico",
+    "folder": "03_tercero_basico",
+    "path": "03_tercero_basico/010_derechos_del_nino_en_casos_concretos.md",
+    "area": "Derechos humanos",
+    "categoria": "casos_ninez",
+    "alineacion": "curricular_directa",
+    "palabras_clave": [
+      "educación",
+      "protección",
+      "identidad",
+      "opinión",
+      "salud"
+    ],
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ciu_3b_011_no_discriminacion_y_dignidad",
+    "titulo": "No discriminación y dignidad",
+    "curso": "3° básico",
+    "folder": "03_tercero_basico",
+    "path": "03_tercero_basico/011_no_discriminacion_y_dignidad.md",
+    "area": "Derechos humanos",
+    "categoria": "dignidad",
+    "alineacion": "curricular_directa",
+    "palabras_clave": [
+      "dignidad",
+      "igualdad",
+      "discriminación",
+      "respeto"
+    ],
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ciu_3b_012_ciudadania_digital_huella_y_permanencia",
+    "titulo": "Ciudadanía digital: huella y permanencia",
+    "curso": "3° básico",
+    "folder": "03_tercero_basico",
+    "path": "03_tercero_basico/012_ciudadania_digital_huella_y_permanencia.md",
+    "area": "Ciudadanía digital",
+    "categoria": "huella_digital",
+    "alineacion": "puente_curricular",
+    "palabras_clave": [
+      "huella digital",
+      "publicación",
+      "privacidad",
+      "permiso"
+    ],
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ciu_3b_013_informacion_verdadera_y_rumor",
+    "titulo": "Información verdadera y rumor",
+    "curso": "3° básico",
+    "folder": "03_tercero_basico",
+    "path": "03_tercero_basico/013_informacion_verdadera_y_rumor.md",
+    "area": "Ciudadanía digital",
+    "categoria": "rumor_informacion",
+    "alineacion": "puente_curricular",
+    "palabras_clave": [
+      "rumor",
+      "fuente",
+      "verificar",
+      "mensaje"
+    ],
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ciu_3b_014_participacion_comunitaria_y_voluntariado",
+    "titulo": "Participación comunitaria y voluntariado",
+    "curso": "3° básico",
+    "folder": "03_tercero_basico",
+    "path": "03_tercero_basico/014_participacion_comunitaria_y_voluntariado.md",
+    "area": "Participación",
+    "categoria": "voluntariado",
+    "alineacion": "ampliacion_alineada",
+    "palabras_clave": [
+      "comunidad",
+      "voluntariado",
+      "ayuda",
+      "organización"
+    ],
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ciu_4b_001_derechos_fundamentales_y_vida_cotidiana",
+    "titulo": "Derechos fundamentales y vida cotidiana",
+    "curso": "4° básico",
+    "folder": "04_cuarto_basico",
+    "path": "04_cuarto_basico/001_derechos_fundamentales_y_vida_cotidiana.md",
+    "area": "Derechos humanos",
+    "categoria": "derechos_fundamentales",
+    "alineacion": "curricular_directa",
+    "palabras_clave": [
+      "derechos fundamentales",
+      "igualdad",
+      "libertad",
+      "protección"
+    ],
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ciu_4b_002_deberes_responsabilidades_y_consecuencias",
+    "titulo": "Deberes, responsabilidades y consecuencias",
+    "curso": "4° básico",
+    "folder": "04_cuarto_basico",
+    "path": "04_cuarto_basico/002_deberes_responsabilidades_y_consecuencias.md",
+    "area": "Derechos y deberes",
+    "categoria": "deberes",
+    "alineacion": "curricular_directa",
+    "palabras_clave": [
+      "deber",
+      "responsabilidad",
+      "consecuencia",
+      "reparación"
+    ],
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ciu_4b_003_organizacion_de_una_comunidad_democratica",
+    "titulo": "Organización de una comunidad democrática",
+    "curso": "4° básico",
+    "folder": "04_cuarto_basico",
+    "path": "04_cuarto_basico/003_organizacion_de_una_comunidad_democratica.md",
+    "area": "Democracia",
+    "categoria": "comunidad_democratica",
+    "alineacion": "curricular_directa",
+    "palabras_clave": [
+      "democracia",
+      "regla",
+      "participación",
+      "representación"
+    ],
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ciu_4b_004_votacion_mayoria_y_respeto_a_minorias",
+    "titulo": "Votación, mayoría y respeto a minorías",
+    "curso": "4° básico",
+    "folder": "04_cuarto_basico",
+    "path": "04_cuarto_basico/004_votacion_mayoria_y_respeto_a_minorias.md",
+    "area": "Democracia",
+    "categoria": "mayoria_minorias",
+    "alineacion": "puente_curricular",
+    "palabras_clave": [
+      "mayoría",
+      "minoría",
+      "voto",
+      "respeto"
+    ],
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ciu_4b_005_municipalidad_y_gobierno_comunal",
+    "titulo": "Municipalidad y gobierno comunal",
+    "curso": "4° básico",
+    "folder": "04_cuarto_basico",
+    "path": "04_cuarto_basico/005_municipalidad_y_gobierno_comunal.md",
+    "area": "Instituciones",
+    "categoria": "gobierno_comunal",
+    "alineacion": "curricular_directa",
+    "palabras_clave": [
+      "municipalidad",
+      "alcalde",
+      "concejo",
+      "comuna",
+      "ordenanza"
+    ],
+    "requiere_fuente_verificada": true
+  },
+  {
+    "id": "ciu_4b_006_servicios_publicos_y_financiamiento_comun",
+    "titulo": "Servicios públicos y financiamiento común",
+    "curso": "4° básico",
+    "folder": "04_cuarto_basico",
+    "path": "04_cuarto_basico/006_servicios_publicos_y_financiamiento_comun.md",
+    "area": "Instituciones",
+    "categoria": "servicios_publicos",
+    "alineacion": "puente_curricular",
+    "palabras_clave": [
+      "servicio público",
+      "impuesto",
+      "municipio",
+      "bien común"
+    ],
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ciu_4b_007_congreso_primera_aproximacion",
+    "titulo": "Congreso: primera aproximación",
+    "curso": "4° básico",
+    "folder": "04_cuarto_basico",
+    "path": "04_cuarto_basico/007_congreso_primera_aproximacion.md",
+    "area": "Instituciones del Estado",
+    "categoria": "congreso_inicial",
+    "alineacion": "puente_curricular",
+    "palabras_clave": [
+      "Congreso",
+      "diputado",
+      "senador",
+      "ley"
+    ],
+    "requiere_fuente_verificada": true
+  },
+  {
+    "id": "ciu_4b_008_tribunales_resolver_conflictos_mediante_el_derecho",
+    "titulo": "Tribunales: resolver conflictos mediante el derecho",
+    "curso": "4° básico",
+    "folder": "04_cuarto_basico",
+    "path": "04_cuarto_basico/008_tribunales_resolver_conflictos_mediante_el_derecho.md",
+    "area": "Justicia",
+    "categoria": "tribunales_inicial",
+    "alineacion": "puente_curricular",
+    "palabras_clave": [
+      "tribunal",
+      "juez",
+      "proceso",
+      "evidencia"
+    ],
+    "requiere_fuente_verificada": true
+  },
+  {
+    "id": "ciu_4b_009_constitucion_reglas_fundamentales",
+    "titulo": "Constitución: reglas fundamentales",
+    "curso": "4° básico",
+    "folder": "04_cuarto_basico",
+    "path": "04_cuarto_basico/009_constitucion_reglas_fundamentales.md",
+    "area": "Constitución",
+    "categoria": "constitucion_inicial",
+    "alineacion": "puente_curricular",
+    "palabras_clave": [
+      "Constitución",
+      "derechos",
+      "Estado",
+      "autoridad"
+    ],
+    "requiere_fuente_verificada": true
+  },
+  {
+    "id": "ciu_4b_010_participacion_ciudadana_en_la_escuela_y_comuna",
+    "titulo": "Participación ciudadana en la escuela y comuna",
+    "curso": "4° básico",
+    "folder": "04_cuarto_basico",
+    "path": "04_cuarto_basico/010_participacion_ciudadana_en_la_escuela_y_comuna.md",
+    "area": "Participación",
+    "categoria": "participacion_local",
+    "alineacion": "curricular_directa",
+    "palabras_clave": [
+      "participación",
+      "propuesta",
+      "petición",
+      "organización"
+    ],
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ciu_4b_011_conflicto_negociacion_y_mediacion",
+    "titulo": "Conflicto, negociación y mediación",
+    "curso": "4° básico",
+    "folder": "04_cuarto_basico",
+    "path": "04_cuarto_basico/011_conflicto_negociacion_y_mediacion.md",
+    "area": "Convivencia",
+    "categoria": "negociacion",
+    "alineacion": "curricular_directa",
+    "palabras_clave": [
+      "negociación",
+      "mediación",
+      "interés",
+      "acuerdo"
+    ],
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ciu_4b_012_ciberacoso_prevencion_y_ayuda",
+    "titulo": "Ciberacoso: prevención y ayuda",
+    "curso": "4° básico",
+    "folder": "04_cuarto_basico",
+    "path": "04_cuarto_basico/012_ciberacoso_prevencion_y_ayuda.md",
+    "area": "Ciudadanía digital",
+    "categoria": "ciberacoso",
+    "alineacion": "puente_curricular",
+    "palabras_clave": [
+      "ciberacoso",
+      "bloquear",
+      "guardar evidencia",
+      "adulto de confianza"
+    ],
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ciu_4b_013_derecho_a_opinar_y_escuchar",
+    "titulo": "Derecho a opinar y escuchar",
+    "curso": "4° básico",
+    "folder": "04_cuarto_basico",
+    "path": "04_cuarto_basico/013_derecho_a_opinar_y_escuchar.md",
+    "area": "Derechos humanos",
+    "categoria": "opinion",
+    "alineacion": "curricular_directa",
+    "palabras_clave": [
+      "opinión",
+      "participación",
+      "escucha",
+      "respeto"
+    ],
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ciu_4b_014_bienes_publicos_y_patrimonio_comun",
+    "titulo": "Bienes públicos y patrimonio común",
+    "curso": "4° básico",
+    "folder": "04_cuarto_basico",
+    "path": "04_cuarto_basico/014_bienes_publicos_y_patrimonio_comun.md",
+    "area": "Ciudadanía cotidiana",
+    "categoria": "patrimonio_bienes",
+    "alineacion": "curricular_directa",
+    "palabras_clave": [
+      "patrimonio",
+      "bien público",
+      "cuidado",
+      "comunidad"
+    ],
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ciu_5b_001_derechos_humanos_y_derechos_de_ninos_y_ninas",
+    "titulo": "Derechos humanos y derechos de niños y niñas",
+    "curso": "5° básico",
+    "folder": "05_quinto_basico",
+    "path": "05_quinto_basico/001_derechos_humanos_y_derechos_de_ninos_y_ninas.md",
+    "area": "Derechos humanos",
+    "categoria": "derechos_humanos_ninez",
+    "alineacion": "curricular_directa",
+    "palabras_clave": [
+      "derechos humanos",
+      "niñez",
+      "dignidad",
+      "universalidad"
+    ],
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ciu_5b_002_deberes_del_estado_y_responsabilidades_personales",
+    "titulo": "Deberes del Estado y responsabilidades personales",
+    "curso": "5° básico",
+    "folder": "05_quinto_basico",
+    "path": "05_quinto_basico/002_deberes_del_estado_y_responsabilidades_personales.md",
+    "area": "Derechos y deberes",
+    "categoria": "estado_responsabilidades",
+    "alineacion": "curricular_directa",
+    "palabras_clave": [
+      "Estado",
+      "garantía",
+      "responsabilidad",
+      "deber"
+    ],
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ciu_5b_003_actitudes_civicas_honestidad_respeto_y_responsabilidad",
+    "titulo": "Actitudes cívicas: honestidad, respeto y responsabilidad",
+    "curso": "5° básico",
+    "folder": "05_quinto_basico",
+    "path": "05_quinto_basico/003_actitudes_civicas_honestidad_respeto_y_responsabilidad.md",
+    "area": "Formación cívica",
+    "categoria": "actitudes_civicas",
+    "alineacion": "curricular_directa",
+    "palabras_clave": [
+      "honestidad",
+      "respeto",
+      "responsabilidad",
+      "tolerancia"
+    ],
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ciu_5b_004_eleccion_de_directiva_de_curso",
+    "titulo": "Elección de directiva de curso",
+    "curso": "5° básico",
+    "folder": "05_quinto_basico",
+    "path": "05_quinto_basico/004_eleccion_de_directiva_de_curso.md",
+    "area": "Participación",
+    "categoria": "directiva_curso",
+    "alineacion": "curricular_directa",
+    "palabras_clave": [
+      "elección",
+      "directiva",
+      "cargo",
+      "propuesta",
+      "rendición"
+    ],
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ciu_5b_005_proyecto_para_mejorar_la_comunidad_escolar",
+    "titulo": "Proyecto para mejorar la comunidad escolar",
+    "curso": "5° básico",
+    "folder": "05_quinto_basico",
+    "path": "05_quinto_basico/005_proyecto_para_mejorar_la_comunidad_escolar.md",
+    "area": "Participación",
+    "categoria": "proyecto_comunitario",
+    "alineacion": "curricular_directa",
+    "palabras_clave": [
+      "proyecto",
+      "problema",
+      "objetivo",
+      "tarea",
+      "presupuesto"
+    ],
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ciu_5b_006_estado_autoridad_y_bien_comun",
+    "titulo": "Estado, autoridad y bien común",
+    "curso": "5° básico",
+    "folder": "05_quinto_basico",
+    "path": "05_quinto_basico/006_estado_autoridad_y_bien_comun.md",
+    "area": "Instituciones del Estado",
+    "categoria": "estado_inicial",
+    "alineacion": "puente_curricular",
+    "palabras_clave": [
+      "Estado",
+      "autoridad",
+      "bien común",
+      "institución"
+    ],
+    "requiere_fuente_verificada": true
+  },
+  {
+    "id": "ciu_5b_007_municipalidad_y_participacion_local",
+    "titulo": "Municipalidad y participación local",
+    "curso": "5° básico",
+    "folder": "05_quinto_basico",
+    "path": "05_quinto_basico/007_municipalidad_y_participacion_local.md",
+    "area": "Instituciones",
+    "categoria": "municipalidad_participacion",
+    "alineacion": "puente_curricular",
+    "palabras_clave": [
+      "municipalidad",
+      "concejo",
+      "audiencia",
+      "organización vecinal"
+    ],
+    "requiere_fuente_verificada": true
+  },
+  {
+    "id": "ciu_5b_008_como_se_crea_una_ley_primera_ruta",
+    "titulo": "Cómo se crea una ley: primera ruta",
+    "curso": "5° básico",
+    "folder": "05_quinto_basico",
+    "path": "05_quinto_basico/008_como_se_crea_una_ley_primera_ruta.md",
+    "area": "Derecho básico",
+    "categoria": "formacion_ley",
+    "alineacion": "puente_curricular",
+    "palabras_clave": [
+      "proyecto de ley",
+      "Congreso",
+      "discusión",
+      "promulgación"
+    ],
+    "requiere_fuente_verificada": true
+  },
+  {
+    "id": "ciu_5b_009_poder_ejecutivo",
+    "titulo": "Poder Ejecutivo",
+    "curso": "5° básico",
+    "folder": "05_quinto_basico",
+    "path": "05_quinto_basico/009_poder_ejecutivo.md",
+    "area": "Instituciones del Estado",
+    "categoria": "ejecutivo",
+    "alineacion": "puente_curricular",
+    "palabras_clave": [
+      "Presidente",
+      "ministerio",
+      "gobierno",
+      "administración"
+    ],
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ciu_5b_010_poder_legislativo",
+    "titulo": "Poder Legislativo",
+    "curso": "5° básico",
+    "folder": "05_quinto_basico",
+    "path": "05_quinto_basico/010_poder_legislativo.md",
+    "area": "Instituciones del Estado",
+    "categoria": "legislativo",
+    "alineacion": "puente_curricular",
+    "palabras_clave": [
+      "Cámara",
+      "Senado",
+      "ley",
+      "representación"
+    ],
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ciu_5b_011_poder_judicial",
+    "titulo": "Poder Judicial",
+    "curso": "5° básico",
+    "folder": "05_quinto_basico",
+    "path": "05_quinto_basico/011_poder_judicial.md",
+    "area": "Instituciones del Estado",
+    "categoria": "judicial",
+    "alineacion": "puente_curricular",
+    "palabras_clave": [
+      "tribunal",
+      "juez",
+      "justicia",
+      "independencia"
+    ],
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ciu_5b_012_acceso_a_justicia_y_debido_proceso",
+    "titulo": "Acceso a justicia y debido proceso",
+    "curso": "5° básico",
+    "folder": "05_quinto_basico",
+    "path": "05_quinto_basico/012_acceso_a_justicia_y_debido_proceso.md",
+    "area": "Justicia",
+    "categoria": "debido_proceso_inicial",
+    "alineacion": "ampliacion_alineada",
+    "palabras_clave": [
+      "debido proceso",
+      "defensa",
+      "imparcialidad",
+      "audiencia"
+    ],
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ciu_5b_013_libertad_de_expresion_y_limites",
+    "titulo": "Libertad de expresión y límites",
+    "curso": "5° básico",
+    "folder": "05_quinto_basico",
+    "path": "05_quinto_basico/013_libertad_de_expresion_y_limites.md",
+    "area": "Derechos humanos",
+    "categoria": "libertad_expresion",
+    "alineacion": "puente_curricular",
+    "palabras_clave": [
+      "libertad de expresión",
+      "honra",
+      "amenaza",
+      "responsabilidad"
+    ],
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ciu_5b_014_ciudadania_digital_y_fuentes_confiables",
+    "titulo": "Ciudadanía digital y fuentes confiables",
+    "curso": "5° básico",
+    "folder": "05_quinto_basico",
+    "path": "05_quinto_basico/014_ciudadania_digital_y_fuentes_confiables.md",
+    "area": "Ciudadanía digital",
+    "categoria": "fuentes_confiables",
+    "alineacion": "puente_curricular",
+    "palabras_clave": [
+      "fuente",
+      "desinformación",
+      "verificación",
+      "autoría"
+    ],
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ciu_5b_015_privacidad_consentimiento_y_publicacion_de_imagenes",
+    "titulo": "Privacidad, consentimiento y publicación de imágenes",
+    "curso": "5° básico",
+    "folder": "05_quinto_basico",
+    "path": "05_quinto_basico/015_privacidad_consentimiento_y_publicacion_de_imagenes.md",
+    "area": "Ciudadanía digital",
+    "categoria": "consentimiento_digital",
+    "alineacion": "puente_curricular",
+    "palabras_clave": [
+      "privacidad",
+      "consentimiento",
+      "imagen",
+      "dato personal"
+    ],
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ciu_5b_016_resolucion_de_conflictos_con_acuerdos_reparadores",
+    "titulo": "Resolución de conflictos con acuerdos reparadores",
+    "curso": "5° básico",
+    "folder": "05_quinto_basico",
+    "path": "05_quinto_basico/016_resolucion_de_conflictos_con_acuerdos_reparadores.md",
+    "area": "Convivencia",
+    "categoria": "acuerdos_reparadores",
+    "alineacion": "curricular_directa",
+    "palabras_clave": [
+      "reparación",
+      "acuerdo",
+      "daño",
+      "responsabilidad"
+    ],
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ciu_5b_017_diversidad_inclusion_y_no_discriminacion",
+    "titulo": "Diversidad, inclusión y no discriminación",
+    "curso": "5° básico",
+    "folder": "05_quinto_basico",
+    "path": "05_quinto_basico/017_diversidad_inclusion_y_no_discriminacion.md",
+    "area": "Derechos humanos",
+    "categoria": "inclusion",
+    "alineacion": "curricular_directa",
+    "palabras_clave": [
+      "inclusión",
+      "discriminación",
+      "ajuste",
+      "igualdad"
+    ],
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ciu_5b_018_organizaciones_comunitarias",
+    "titulo": "Organizaciones comunitarias",
+    "curso": "5° básico",
+    "folder": "05_quinto_basico",
+    "path": "05_quinto_basico/018_organizaciones_comunitarias.md",
+    "area": "Participación",
+    "categoria": "organizaciones",
+    "alineacion": "puente_curricular",
+    "palabras_clave": [
+      "junta de vecinos",
+      "fundación",
+      "club",
+      "organización"
+    ],
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ciu_6b_001_constitucion_y_organizacion_politica_de_chile",
+    "titulo": "Constitución y organización política de Chile",
+    "curso": "6° básico",
+    "folder": "06_sexto_basico",
+    "path": "06_sexto_basico/001_constitucion_y_organizacion_politica_de_chile.md",
+    "area": "Constitución",
+    "categoria": "constitucion_chile",
+    "alineacion": "curricular_directa",
+    "palabras_clave": [
+      "Constitución",
+      "Estado",
+      "derechos",
+      "instituciones"
+    ],
+    "requiere_fuente_verificada": true
+  },
+  {
+    "id": "ciu_6b_002_democracia_representativa_y_participacion",
+    "titulo": "Democracia representativa y participación",
+    "curso": "6° básico",
+    "folder": "06_sexto_basico",
+    "path": "06_sexto_basico/002_democracia_representativa_y_participacion.md",
+    "area": "Democracia",
+    "categoria": "democracia_representativa",
+    "alineacion": "curricular_directa",
+    "palabras_clave": [
+      "democracia",
+      "representación",
+      "elección",
+      "participación"
+    ],
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ciu_6b_003_division_de_poderes_del_estado",
+    "titulo": "División de poderes del Estado",
+    "curso": "6° básico",
+    "folder": "06_sexto_basico",
+    "path": "06_sexto_basico/003_division_de_poderes_del_estado.md",
+    "area": "Instituciones del Estado",
+    "categoria": "division_poderes",
+    "alineacion": "curricular_directa",
+    "palabras_clave": [
+      "Ejecutivo",
+      "Legislativo",
+      "Judicial",
+      "separación de poderes"
+    ],
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ciu_6b_004_cargos_de_eleccion_popular",
+    "titulo": "Cargos de elección popular",
+    "curso": "6° básico",
+    "folder": "06_sexto_basico",
+    "path": "06_sexto_basico/004_cargos_de_eleccion_popular.md",
+    "area": "Instituciones del Estado",
+    "categoria": "cargos_electos",
+    "alineacion": "curricular_directa",
+    "palabras_clave": [
+      "Presidente",
+      "senador",
+      "diputado",
+      "alcalde",
+      "concejal"
+    ],
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ciu_6b_005_congreso_nacional_y_formacion_de_la_ley",
+    "titulo": "Congreso Nacional y formación de la ley",
+    "curso": "6° básico",
+    "folder": "06_sexto_basico",
+    "path": "06_sexto_basico/005_congreso_nacional_y_formacion_de_la_ley.md",
+    "area": "Instituciones del Estado",
+    "categoria": "congreso_ley",
+    "alineacion": "curricular_directa",
+    "palabras_clave": [
+      "Congreso",
+      "Cámara",
+      "Senado",
+      "proyecto de ley"
+    ],
+    "requiere_fuente_verificada": true
+  },
+  {
+    "id": "ciu_6b_006_poder_judicial_e_independencia",
+    "titulo": "Poder Judicial e independencia",
+    "curso": "6° básico",
+    "folder": "06_sexto_basico",
+    "path": "06_sexto_basico/006_poder_judicial_e_independencia.md",
+    "area": "Justicia",
+    "categoria": "independencia_judicial",
+    "alineacion": "curricular_directa",
+    "palabras_clave": [
+      "Poder Judicial",
+      "independencia",
+      "tribunal",
+      "juez"
+    ],
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ciu_6b_007_municipalidad_y_gobierno_local",
+    "titulo": "Municipalidad y gobierno local",
+    "curso": "6° básico",
+    "folder": "06_sexto_basico",
+    "path": "06_sexto_basico/007_municipalidad_y_gobierno_local.md",
+    "area": "Instituciones",
+    "categoria": "municipalidad_6",
+    "alineacion": "curricular_directa",
+    "palabras_clave": [
+      "municipalidad",
+      "alcalde",
+      "concejo",
+      "comuna"
+    ],
+    "requiere_fuente_verificada": true
+  },
+  {
+    "id": "ciu_6b_008_derechos_fundamentales_y_mecanismos_de_proteccion",
+    "titulo": "Derechos fundamentales y mecanismos de protección",
+    "curso": "6° básico",
+    "folder": "06_sexto_basico",
+    "path": "06_sexto_basico/008_derechos_fundamentales_y_mecanismos_de_proteccion.md",
+    "area": "Derechos humanos",
+    "categoria": "proteccion_derechos",
+    "alineacion": "curricular_directa",
+    "palabras_clave": [
+      "derecho",
+      "protección",
+      "recurso",
+      "tribunal"
+    ],
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ciu_6b_009_derechos_deberes_y_responsabilidad_democratica",
+    "titulo": "Derechos, deberes y responsabilidad democrática",
+    "curso": "6° básico",
+    "folder": "06_sexto_basico",
+    "path": "06_sexto_basico/009_derechos_deberes_y_responsabilidad_democratica.md",
+    "area": "Derechos y deberes",
+    "categoria": "responsabilidad_democratica",
+    "alineacion": "curricular_directa",
+    "palabras_clave": [
+      "derecho",
+      "deber",
+      "responsabilidad",
+      "participación"
+    ],
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ciu_6b_010_participacion_ciudadana_formal_e_informal",
+    "titulo": "Participación ciudadana formal e informal",
+    "curso": "6° básico",
+    "folder": "06_sexto_basico",
+    "path": "06_sexto_basico/010_participacion_ciudadana_formal_e_informal.md",
+    "area": "Participación",
+    "categoria": "formas_participacion",
+    "alineacion": "curricular_directa",
+    "palabras_clave": [
+      "voto",
+      "petición",
+      "organización",
+      "manifestación",
+      "voluntariado"
+    ],
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ciu_6b_011_elecciones_voto_y_representacion",
+    "titulo": "Elecciones, voto y representación",
+    "curso": "6° básico",
+    "folder": "06_sexto_basico",
+    "path": "06_sexto_basico/011_elecciones_voto_y_representacion.md",
+    "area": "Democracia",
+    "categoria": "voto_representacion",
+    "alineacion": "curricular_directa",
+    "palabras_clave": [
+      "voto",
+      "elección",
+      "representante",
+      "programa"
+    ],
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ciu_6b_012_ley_reglamento_y_ordenanza",
+    "titulo": "Ley, reglamento y ordenanza",
+    "curso": "6° básico",
+    "folder": "06_sexto_basico",
+    "path": "06_sexto_basico/012_ley_reglamento_y_ordenanza.md",
+    "area": "Derecho básico",
+    "categoria": "jerarquia_normas_inicial",
+    "alineacion": "puente_curricular",
+    "palabras_clave": [
+      "ley",
+      "reglamento",
+      "ordenanza",
+      "norma"
+    ],
+    "requiere_fuente_verificada": true
+  },
+  {
+    "id": "ciu_6b_013_debido_proceso_y_presuncion_de_inocencia",
+    "titulo": "Debido proceso y presunción de inocencia",
+    "curso": "6° básico",
+    "folder": "06_sexto_basico",
+    "path": "06_sexto_basico/013_debido_proceso_y_presuncion_de_inocencia.md",
+    "area": "Justicia",
+    "categoria": "debido_proceso",
+    "alineacion": "puente_curricular",
+    "palabras_clave": [
+      "debido proceso",
+      "presunción de inocencia",
+      "defensa",
+      "evidencia"
+    ],
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ciu_6b_014_resolucion_pacifica_y_justicia_restaurativa",
+    "titulo": "Resolución pacífica y justicia restaurativa",
+    "curso": "6° básico",
+    "folder": "06_sexto_basico",
+    "path": "06_sexto_basico/014_resolucion_pacifica_y_justicia_restaurativa.md",
+    "area": "Convivencia",
+    "categoria": "justicia_restaurativa",
+    "alineacion": "puente_curricular",
+    "palabras_clave": [
+      "mediación",
+      "reparación",
+      "responsabilidad",
+      "acuerdo"
+    ],
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ciu_6b_015_ciudadania_digital_derechos_y_deberes",
+    "titulo": "Ciudadanía digital: derechos y deberes",
+    "curso": "6° básico",
+    "folder": "06_sexto_basico",
+    "path": "06_sexto_basico/015_ciudadania_digital_derechos_y_deberes.md",
+    "area": "Ciudadanía digital",
+    "categoria": "derechos_digitales",
+    "alineacion": "puente_curricular",
+    "palabras_clave": [
+      "privacidad",
+      "expresión",
+      "seguridad",
+      "responsabilidad"
+    ],
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ciu_6b_016_desinformacion_y_deliberacion_publica",
+    "titulo": "Desinformación y deliberación pública",
+    "curso": "6° básico",
+    "folder": "06_sexto_basico",
+    "path": "06_sexto_basico/016_desinformacion_y_deliberacion_publica.md",
+    "area": "Ciudadanía digital",
+    "categoria": "desinformacion",
+    "alineacion": "puente_curricular",
+    "palabras_clave": [
+      "desinformación",
+      "fuente",
+      "evidencia",
+      "deliberación"
+    ],
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ciu_6b_017_transparencia_y_acceso_a_informacion_publica",
+    "titulo": "Transparencia y acceso a información pública",
+    "curso": "6° básico",
+    "folder": "06_sexto_basico",
+    "path": "06_sexto_basico/017_transparencia_y_acceso_a_informacion_publica.md",
+    "area": "Instituciones",
+    "categoria": "transparencia",
+    "alineacion": "ampliacion_alineada",
+    "palabras_clave": [
+      "transparencia",
+      "información pública",
+      "rendición de cuentas"
+    ],
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ciu_6b_018_bien_comun_impuestos_y_servicios_publicos",
+    "titulo": "Bien común, impuestos y servicios públicos",
+    "curso": "6° básico",
+    "folder": "06_sexto_basico",
+    "path": "06_sexto_basico/018_bien_comun_impuestos_y_servicios_publicos.md",
+    "area": "Formación cívica",
+    "categoria": "impuestos_servicios",
+    "alineacion": "puente_curricular",
+    "palabras_clave": [
+      "impuesto",
+      "servicio público",
+      "bien común",
+      "presupuesto"
+    ],
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ciu_7b_001_ciudadania_en_el_mundo_antiguo_y_moderno",
+    "titulo": "Ciudadanía en el mundo antiguo y moderno",
+    "curso": "7° básico",
+    "folder": "07_septimo_basico",
+    "path": "07_septimo_basico/001_ciudadania_en_el_mundo_antiguo_y_moderno.md",
+    "area": "Historia cívica",
+    "categoria": "ciudadania_historica",
+    "alineacion": "curricular_directa",
+    "palabras_clave": [
+      "ciudadanía",
+      "polis",
+      "República",
+      "derechos",
+      "exclusión"
+    ],
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ciu_7b_002_democracia_ciudadania_y_exclusiones",
+    "titulo": "Democracia, ciudadanía y exclusiones",
+    "curso": "7° básico",
+    "folder": "07_septimo_basico",
+    "path": "07_septimo_basico/002_democracia_ciudadania_y_exclusiones.md",
+    "area": "Democracia",
+    "categoria": "democracia_exclusiones",
+    "alineacion": "curricular_directa",
+    "palabras_clave": [
+      "democracia",
+      "ciudadanía",
+      "exclusión",
+      "igualdad"
+    ],
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ciu_7b_003_estado_de_derecho",
+    "titulo": "Estado de derecho",
+    "curso": "7° básico",
+    "folder": "07_septimo_basico",
+    "path": "07_septimo_basico/003_estado_de_derecho.md",
+    "area": "Derecho básico",
+    "categoria": "estado_derecho",
+    "alineacion": "puente_curricular",
+    "palabras_clave": [
+      "Estado de derecho",
+      "legalidad",
+      "control",
+      "derechos"
+    ],
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ciu_7b_004_constitucion_y_supremacia_constitucional",
+    "titulo": "Constitución y supremacía constitucional",
+    "curso": "7° básico",
+    "folder": "07_septimo_basico",
+    "path": "07_septimo_basico/004_constitucion_y_supremacia_constitucional.md",
+    "area": "Constitución",
+    "categoria": "supremacia",
+    "alineacion": "puente_curricular",
+    "palabras_clave": [
+      "Constitución",
+      "supremacía",
+      "norma",
+      "institución"
+    ],
+    "requiere_fuente_verificada": true
+  },
+  {
+    "id": "ciu_7b_005_legalidad_y_legitimidad",
+    "titulo": "Legalidad y legitimidad",
+    "curso": "7° básico",
+    "folder": "07_septimo_basico",
+    "path": "07_septimo_basico/005_legalidad_y_legitimidad.md",
+    "area": "Derecho básico",
+    "categoria": "legalidad_legitimidad",
+    "alineacion": "puente_curricular",
+    "palabras_clave": [
+      "legalidad",
+      "legitimidad",
+      "autoridad",
+      "consenso"
+    ],
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ciu_7b_006_derechos_civiles_y_politicos",
+    "titulo": "Derechos civiles y políticos",
+    "curso": "7° básico",
+    "folder": "07_septimo_basico",
+    "path": "07_septimo_basico/006_derechos_civiles_y_politicos.md",
+    "area": "Derechos humanos",
+    "categoria": "derechos_civiles",
+    "alineacion": "puente_curricular",
+    "palabras_clave": [
+      "libertad",
+      "igualdad ante la ley",
+      "participación",
+      "voto"
+    ],
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ciu_7b_007_derechos_economicos_sociales_y_culturales",
+    "titulo": "Derechos económicos, sociales y culturales",
+    "curso": "7° básico",
+    "folder": "07_septimo_basico",
+    "path": "07_septimo_basico/007_derechos_economicos_sociales_y_culturales.md",
+    "area": "Derechos humanos",
+    "categoria": "derechos_sociales",
+    "alineacion": "puente_curricular",
+    "palabras_clave": [
+      "educación",
+      "salud",
+      "trabajo",
+      "cultura"
+    ],
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ciu_7b_008_instituciones_democraticas_y_controles",
+    "titulo": "Instituciones democráticas y controles",
+    "curso": "7° básico",
+    "folder": "07_septimo_basico",
+    "path": "07_septimo_basico/008_instituciones_democraticas_y_controles.md",
+    "area": "Instituciones del Estado",
+    "categoria": "controles",
+    "alineacion": "puente_curricular",
+    "palabras_clave": [
+      "contrapeso",
+      "fiscalización",
+      "independencia",
+      "control"
+    ],
+    "requiere_fuente_verificada": true
+  },
+  {
+    "id": "ciu_7b_009_congreso_y_representacion_politica",
+    "titulo": "Congreso y representación política",
+    "curso": "7° básico",
+    "folder": "07_septimo_basico",
+    "path": "07_septimo_basico/009_congreso_y_representacion_politica.md",
+    "area": "Instituciones del Estado",
+    "categoria": "representacion_politica",
+    "alineacion": "puente_curricular",
+    "palabras_clave": [
+      "Congreso",
+      "partido",
+      "distrito",
+      "representación"
+    ],
+    "requiere_fuente_verificada": true
+  },
+  {
+    "id": "ciu_7b_010_gobierno_local_y_descentralizacion",
+    "titulo": "Gobierno local y descentralización",
+    "curso": "7° básico",
+    "folder": "07_septimo_basico",
+    "path": "07_septimo_basico/010_gobierno_local_y_descentralizacion.md",
+    "area": "Instituciones",
+    "categoria": "descentralizacion",
+    "alineacion": "puente_curricular",
+    "palabras_clave": [
+      "municipio",
+      "región",
+      "descentralización",
+      "participación"
+    ],
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ciu_7b_011_justicia_sancion_y_reparacion",
+    "titulo": "Justicia, sanción y reparación",
+    "curso": "7° básico",
+    "folder": "07_septimo_basico",
+    "path": "07_septimo_basico/011_justicia_sancion_y_reparacion.md",
+    "area": "Justicia",
+    "categoria": "sancion_reparacion",
+    "alineacion": "puente_curricular",
+    "palabras_clave": [
+      "sanción",
+      "reparación",
+      "proporcionalidad",
+      "víctima"
+    ],
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ciu_7b_012_ciudadania_digital_y_libertad_de_expresion",
+    "titulo": "Ciudadanía digital y libertad de expresión",
+    "curso": "7° básico",
+    "folder": "07_septimo_basico",
+    "path": "07_septimo_basico/012_ciudadania_digital_y_libertad_de_expresion.md",
+    "area": "Ciudadanía digital",
+    "categoria": "expresion_digital",
+    "alineacion": "puente_curricular",
+    "palabras_clave": [
+      "expresión",
+      "privacidad",
+      "moderación",
+      "responsabilidad"
+    ],
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ciu_7b_013_discurso_de_odio_y_no_discriminacion",
+    "titulo": "Discurso de odio y no discriminación",
+    "curso": "7° básico",
+    "folder": "07_septimo_basico",
+    "path": "07_septimo_basico/013_discurso_de_odio_y_no_discriminacion.md",
+    "area": "Ciudadanía digital",
+    "categoria": "discurso_odio",
+    "alineacion": "puente_curricular",
+    "palabras_clave": [
+      "discurso de odio",
+      "discriminación",
+      "dignidad",
+      "denuncia"
+    ],
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ciu_7b_014_participacion_juvenil_y_centros_de_estudiantes",
+    "titulo": "Participación juvenil y centros de estudiantes",
+    "curso": "7° básico",
+    "folder": "07_septimo_basico",
+    "path": "07_septimo_basico/014_participacion_juvenil_y_centros_de_estudiantes.md",
+    "area": "Participación",
+    "categoria": "centro_estudiantes",
+    "alineacion": "puente_curricular",
+    "palabras_clave": [
+      "centro de estudiantes",
+      "estatuto",
+      "elección",
+      "asamblea"
+    ],
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ciu_7b_015_deliberacion_y_argumentacion_publica",
+    "titulo": "Deliberación y argumentación pública",
+    "curso": "7° básico",
+    "folder": "07_septimo_basico",
+    "path": "07_septimo_basico/015_deliberacion_y_argumentacion_publica.md",
+    "area": "Participación",
+    "categoria": "deliberacion",
+    "alineacion": "puente_curricular",
+    "palabras_clave": [
+      "argumento",
+      "evidencia",
+      "deliberación",
+      "acuerdo"
+    ],
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ciu_7b_016_corrupcion_probidad_y_confianza_publica",
+    "titulo": "Corrupción, probidad y confianza pública",
+    "curso": "7° básico",
+    "folder": "07_septimo_basico",
+    "path": "07_septimo_basico/016_corrupcion_probidad_y_confianza_publica.md",
+    "area": "Ética pública",
+    "categoria": "probidad",
+    "alineacion": "ampliacion_alineada",
+    "palabras_clave": [
+      "probidad",
+      "corrupción",
+      "conflicto de interés",
+      "confianza"
+    ],
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ciu_8b_001_derechos_humanos_origen_y_universalidad",
+    "titulo": "Derechos humanos: origen y universalidad",
+    "curso": "8° básico",
+    "folder": "08_octavo_basico",
+    "path": "08_octavo_basico/001_derechos_humanos_origen_y_universalidad.md",
+    "area": "Derechos humanos",
+    "categoria": "origen_ddhh",
+    "alineacion": "curricular_directa",
+    "palabras_clave": [
+      "derechos humanos",
+      "universalidad",
+      "dignidad",
+      "igualdad"
+    ],
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ciu_8b_002_revoluciones_modernas_y_ciudadania",
+    "titulo": "Revoluciones modernas y ciudadanía",
+    "curso": "8° básico",
+    "folder": "08_octavo_basico",
+    "path": "08_octavo_basico/002_revoluciones_modernas_y_ciudadania.md",
+    "area": "Historia cívica",
+    "categoria": "revoluciones_ciudadania",
+    "alineacion": "curricular_directa",
+    "palabras_clave": [
+      "revolución",
+      "ciudadanía",
+      "soberanía popular",
+      "derechos"
+    ],
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ciu_8b_003_constitucionalismo_y_limites_al_poder",
+    "titulo": "Constitucionalismo y límites al poder",
+    "curso": "8° básico",
+    "folder": "08_octavo_basico",
+    "path": "08_octavo_basico/003_constitucionalismo_y_limites_al_poder.md",
+    "area": "Constitución",
+    "categoria": "constitucionalismo",
+    "alineacion": "curricular_directa",
+    "palabras_clave": [
+      "Constitución",
+      "límite al poder",
+      "separación",
+      "derechos"
+    ],
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ciu_8b_004_soberania_popular_y_representacion",
+    "titulo": "Soberanía popular y representación",
+    "curso": "8° básico",
+    "folder": "08_octavo_basico",
+    "path": "08_octavo_basico/004_soberania_popular_y_representacion.md",
+    "area": "Democracia",
+    "categoria": "soberania_popular",
+    "alineacion": "curricular_directa",
+    "palabras_clave": [
+      "soberanía popular",
+      "representación",
+      "elección",
+      "mandato"
+    ],
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ciu_8b_005_ciudadania_y_nacionalidad",
+    "titulo": "Ciudadanía y nacionalidad",
+    "curso": "8° básico",
+    "folder": "08_octavo_basico",
+    "path": "08_octavo_basico/005_ciudadania_y_nacionalidad.md",
+    "area": "Derecho básico",
+    "categoria": "ciudadania_nacionalidad",
+    "alineacion": "puente_curricular",
+    "palabras_clave": [
+      "ciudadanía",
+      "nacionalidad",
+      "derechos políticos",
+      "pertenencia"
+    ],
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ciu_8b_006_ley_justicia_y_derechos_fundamentales",
+    "titulo": "Ley, justicia y derechos fundamentales",
+    "curso": "8° básico",
+    "folder": "08_octavo_basico",
+    "path": "08_octavo_basico/006_ley_justicia_y_derechos_fundamentales.md",
+    "area": "Derecho básico",
+    "categoria": "ley_justicia_derechos",
+    "alineacion": "puente_curricular",
+    "palabras_clave": [
+      "ley",
+      "justicia",
+      "derecho fundamental",
+      "control"
+    ],
+    "requiere_fuente_verificada": true
+  },
+  {
+    "id": "ciu_8b_007_instituciones_de_defensa_de_derechos",
+    "titulo": "Instituciones de defensa de derechos",
+    "curso": "8° básico",
+    "folder": "08_octavo_basico",
+    "path": "08_octavo_basico/007_instituciones_de_defensa_de_derechos.md",
+    "area": "Instituciones",
+    "categoria": "defensa_derechos",
+    "alineacion": "puente_curricular",
+    "palabras_clave": [
+      "tribunal",
+      "Defensoría",
+      "Contraloría",
+      "institución"
+    ],
+    "requiere_fuente_verificada": true
+  },
+  {
+    "id": "ciu_8b_008_proceso_legislativo_con_mayor_detalle",
+    "titulo": "Proceso legislativo con mayor detalle",
+    "curso": "8° básico",
+    "folder": "08_octavo_basico",
+    "path": "08_octavo_basico/008_proceso_legislativo_con_mayor_detalle.md",
+    "area": "Instituciones del Estado",
+    "categoria": "proceso_legislativo",
+    "alineacion": "puente_curricular",
+    "palabras_clave": [
+      "iniciativa",
+      "discusión",
+      "votación",
+      "promulgación",
+      "publicación"
+    ],
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ciu_8b_009_tribunales_y_tipos_de_conflictos",
+    "titulo": "Tribunales y tipos de conflictos",
+    "curso": "8° básico",
+    "folder": "08_octavo_basico",
+    "path": "08_octavo_basico/009_tribunales_y_tipos_de_conflictos.md",
+    "area": "Justicia",
+    "categoria": "tipos_conflictos",
+    "alineacion": "puente_curricular",
+    "palabras_clave": [
+      "civil",
+      "penal",
+      "familia",
+      "laboral",
+      "tribunal"
+    ],
+    "requiere_fuente_verificada": true
+  },
+  {
+    "id": "ciu_8b_010_responsabilidad_penal_adolescente_nociones_basicas",
+    "titulo": "Responsabilidad penal adolescente: nociones básicas",
+    "curso": "8° básico",
+    "folder": "08_octavo_basico",
+    "path": "08_octavo_basico/010_responsabilidad_penal_adolescente_nociones_basicas.md",
+    "area": "Derecho básico",
+    "categoria": "rpa",
+    "alineacion": "ampliacion_alineada",
+    "palabras_clave": [
+      "responsabilidad penal adolescente",
+      "debido proceso",
+      "sanción",
+      "reinserción"
+    ],
+    "requiere_fuente_verificada": true
+  },
+  {
+    "id": "ciu_8b_011_municipalidad_ordenanzas_y_participacion",
+    "titulo": "Municipalidad, ordenanzas y participación",
+    "curso": "8° básico",
+    "folder": "08_octavo_basico",
+    "path": "08_octavo_basico/011_municipalidad_ordenanzas_y_participacion.md",
+    "area": "Instituciones",
+    "categoria": "ordenanzas",
+    "alineacion": "puente_curricular",
+    "palabras_clave": [
+      "ordenanza",
+      "municipalidad",
+      "consulta",
+      "audiencia"
+    ],
+    "requiere_fuente_verificada": true
+  },
+  {
+    "id": "ciu_8b_012_organizaciones_sociales_y_movimientos_ciudadanos",
+    "titulo": "Organizaciones sociales y movimientos ciudadanos",
+    "curso": "8° básico",
+    "folder": "08_octavo_basico",
+    "path": "08_octavo_basico/012_organizaciones_sociales_y_movimientos_ciudadanos.md",
+    "area": "Participación",
+    "categoria": "movimientos_sociales",
+    "alineacion": "curricular_directa",
+    "palabras_clave": [
+      "movimiento social",
+      "demanda",
+      "organización",
+      "participación"
+    ],
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ciu_8b_013_libertad_de_reunion_y_protesta_pacifica",
+    "titulo": "Libertad de reunión y protesta pacífica",
+    "curso": "8° básico",
+    "folder": "08_octavo_basico",
+    "path": "08_octavo_basico/013_libertad_de_reunion_y_protesta_pacifica.md",
+    "area": "Derechos humanos",
+    "categoria": "reunion_protesta",
+    "alineacion": "puente_curricular",
+    "palabras_clave": [
+      "reunión",
+      "manifestación",
+      "pacífica",
+      "orden público"
+    ],
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ciu_8b_014_ciudadania_digital_algoritmos_y_opinion_publica",
+    "titulo": "Ciudadanía digital: algoritmos y opinión pública",
+    "curso": "8° básico",
+    "folder": "08_octavo_basico",
+    "path": "08_octavo_basico/014_ciudadania_digital_algoritmos_y_opinion_publica.md",
+    "area": "Ciudadanía digital",
+    "categoria": "algoritmos_opinion",
+    "alineacion": "ampliacion_alineada",
+    "palabras_clave": [
+      "algoritmo",
+      "burbuja informativa",
+      "opinión pública",
+      "plataforma"
+    ],
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ciu_8b_015_proteccion_de_datos_y_consentimiento",
+    "titulo": "Protección de datos y consentimiento",
+    "curso": "8° básico",
+    "folder": "08_octavo_basico",
+    "path": "08_octavo_basico/015_proteccion_de_datos_y_consentimiento.md",
+    "area": "Ciudadanía digital",
+    "categoria": "proteccion_datos",
+    "alineacion": "puente_curricular",
+    "palabras_clave": [
+      "dato personal",
+      "consentimiento",
+      "finalidad",
+      "seguridad"
+    ],
+    "requiere_fuente_verificada": true
+  },
+  {
+    "id": "ciu_8b_016_resolucion_colaborativa_de_controversias",
+    "titulo": "Resolución colaborativa de controversias",
+    "curso": "8° básico",
+    "folder": "08_octavo_basico",
+    "path": "08_octavo_basico/016_resolucion_colaborativa_de_controversias.md",
+    "area": "Convivencia",
+    "categoria": "controversias",
+    "alineacion": "puente_curricular",
+    "palabras_clave": [
+      "controversia",
+      "negociación",
+      "mediación",
+      "arbitraje"
+    ],
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ciu_1m_001_democracia_republica_y_estado",
+    "titulo": "Democracia, república y Estado",
+    "curso": "1° medio",
+    "folder": "09_primero_medio",
+    "path": "09_primero_medio/001_democracia_republica_y_estado.md",
+    "area": "Democracia",
+    "categoria": "democracia_republica_estado",
+    "alineacion": "curricular_directa",
+    "palabras_clave": [
+      "democracia",
+      "república",
+      "Estado",
+      "gobierno"
+    ],
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ciu_1m_002_estado_de_derecho_y_separacion_de_poderes",
+    "titulo": "Estado de derecho y separación de poderes",
+    "curso": "1° medio",
+    "folder": "09_primero_medio",
+    "path": "09_primero_medio/002_estado_de_derecho_y_separacion_de_poderes.md",
+    "area": "Derecho básico",
+    "categoria": "estado_derecho_poderes",
+    "alineacion": "curricular_directa",
+    "palabras_clave": [
+      "Estado de derecho",
+      "separación de poderes",
+      "control"
+    ],
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ciu_1m_003_constitucion_y_sistema_politico_chileno",
+    "titulo": "Constitución y sistema político chileno",
+    "curso": "1° medio",
+    "folder": "09_primero_medio",
+    "path": "09_primero_medio/003_constitucion_y_sistema_politico_chileno.md",
+    "area": "Constitución",
+    "categoria": "sistema_politico",
+    "alineacion": "puente_curricular",
+    "palabras_clave": [
+      "Constitución",
+      "presidencialismo",
+      "Congreso",
+      "tribunales"
+    ],
+    "requiere_fuente_verificada": true
+  },
+  {
+    "id": "ciu_1m_004_derechos_fundamentales_y_garantias",
+    "titulo": "Derechos fundamentales y garantías",
+    "curso": "1° medio",
+    "folder": "09_primero_medio",
+    "path": "09_primero_medio/004_derechos_fundamentales_y_garantias.md",
+    "area": "Derechos humanos",
+    "categoria": "garantias",
+    "alineacion": "puente_curricular",
+    "palabras_clave": [
+      "garantía",
+      "derecho fundamental",
+      "protección",
+      "tribunal"
+    ],
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ciu_1m_005_ciudadania_nacionalidad_y_participacion_politica",
+    "titulo": "Ciudadanía, nacionalidad y participación política",
+    "curso": "1° medio",
+    "folder": "09_primero_medio",
+    "path": "09_primero_medio/005_ciudadania_nacionalidad_y_participacion_politica.md",
+    "area": "Derecho básico",
+    "categoria": "ciudadania_participacion",
+    "alineacion": "puente_curricular",
+    "palabras_clave": [
+      "ciudadanía",
+      "nacionalidad",
+      "sufragio",
+      "participación"
+    ],
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ciu_1m_006_partidos_politicos_y_representacion",
+    "titulo": "Partidos políticos y representación",
+    "curso": "1° medio",
+    "folder": "09_primero_medio",
+    "path": "09_primero_medio/006_partidos_politicos_y_representacion.md",
+    "area": "Democracia",
+    "categoria": "partidos",
+    "alineacion": "puente_curricular",
+    "palabras_clave": [
+      "partido político",
+      "representación",
+      "programa",
+      "elección"
+    ],
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ciu_1m_007_sistemas_electorales_nociones",
+    "titulo": "Sistemas electorales: nociones",
+    "curso": "1° medio",
+    "folder": "09_primero_medio",
+    "path": "09_primero_medio/007_sistemas_electorales_nociones.md",
+    "area": "Democracia",
+    "categoria": "sistemas_electorales",
+    "alineacion": "ampliacion_alineada",
+    "palabras_clave": [
+      "sistema electoral",
+      "distrito",
+      "escaño",
+      "proporcionalidad"
+    ],
+    "requiere_fuente_verificada": true
+  },
+  {
+    "id": "ciu_1m_008_congreso_funciones_y_fiscalizacion",
+    "titulo": "Congreso: funciones y fiscalización",
+    "curso": "1° medio",
+    "folder": "09_primero_medio",
+    "path": "09_primero_medio/008_congreso_funciones_y_fiscalizacion.md",
+    "area": "Instituciones del Estado",
+    "categoria": "congreso_funciones",
+    "alineacion": "puente_curricular",
+    "palabras_clave": [
+      "legislar",
+      "fiscalizar",
+      "presupuesto",
+      "representación"
+    ],
+    "requiere_fuente_verificada": true
+  },
+  {
+    "id": "ciu_1m_009_poder_ejecutivo_y_administracion_del_estado",
+    "titulo": "Poder Ejecutivo y administración del Estado",
+    "curso": "1° medio",
+    "folder": "09_primero_medio",
+    "path": "09_primero_medio/009_poder_ejecutivo_y_administracion_del_estado.md",
+    "area": "Instituciones del Estado",
+    "categoria": "administracion_estado",
+    "alineacion": "puente_curricular",
+    "palabras_clave": [
+      "Presidencia",
+      "ministerio",
+      "servicio público",
+      "administración"
+    ],
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ciu_1m_010_poder_judicial_y_acceso_a_justicia",
+    "titulo": "Poder Judicial y acceso a justicia",
+    "curso": "1° medio",
+    "folder": "09_primero_medio",
+    "path": "09_primero_medio/010_poder_judicial_y_acceso_a_justicia.md",
+    "area": "Justicia",
+    "categoria": "acceso_justicia",
+    "alineacion": "puente_curricular",
+    "palabras_clave": [
+      "tribunal",
+      "defensa",
+      "acceso a justicia",
+      "independencia"
+    ],
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ciu_1m_011_ministerio_publico_defensa_y_proceso_penal",
+    "titulo": "Ministerio Público, defensa y proceso penal",
+    "curso": "1° medio",
+    "folder": "09_primero_medio",
+    "path": "09_primero_medio/011_ministerio_publico_defensa_y_proceso_penal.md",
+    "area": "Justicia",
+    "categoria": "proceso_penal",
+    "alineacion": "ampliacion_alineada",
+    "palabras_clave": [
+      "Fiscalía",
+      "defensa",
+      "investigación",
+      "imputado",
+      "víctima"
+    ],
+    "requiere_fuente_verificada": true
+  },
+  {
+    "id": "ciu_1m_012_municipalidad_gobierno_regional_y_descentralizacion",
+    "titulo": "Municipalidad, gobierno regional y descentralización",
+    "curso": "1° medio",
+    "folder": "09_primero_medio",
+    "path": "09_primero_medio/012_municipalidad_gobierno_regional_y_descentralizacion.md",
+    "area": "Instituciones",
+    "categoria": "gobierno_subnacional",
+    "alineacion": "puente_curricular",
+    "palabras_clave": [
+      "municipalidad",
+      "gobierno regional",
+      "descentralización"
+    ],
+    "requiere_fuente_verificada": true
+  },
+  {
+    "id": "ciu_1m_013_probidad_transparencia_y_rendicion_de_cuentas",
+    "titulo": "Probidad, transparencia y rendición de cuentas",
+    "curso": "1° medio",
+    "folder": "09_primero_medio",
+    "path": "09_primero_medio/013_probidad_transparencia_y_rendicion_de_cuentas.md",
+    "area": "Ética pública",
+    "categoria": "transparencia_probidad",
+    "alineacion": "puente_curricular",
+    "palabras_clave": [
+      "probidad",
+      "transparencia",
+      "rendición de cuentas",
+      "control"
+    ],
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ciu_1m_014_ciudadania_digital_privacidad_y_libertad",
+    "titulo": "Ciudadanía digital, privacidad y libertad",
+    "curso": "1° medio",
+    "folder": "09_primero_medio",
+    "path": "09_primero_medio/014_ciudadania_digital_privacidad_y_libertad.md",
+    "area": "Ciudadanía digital",
+    "categoria": "privacidad_libertad",
+    "alineacion": "puente_curricular",
+    "palabras_clave": [
+      "privacidad",
+      "libertad de expresión",
+      "dato",
+      "plataforma"
+    ],
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ciu_1m_015_desinformacion_medios_y_democracia",
+    "titulo": "Desinformación, medios y democracia",
+    "curso": "1° medio",
+    "folder": "09_primero_medio",
+    "path": "09_primero_medio/015_desinformacion_medios_y_democracia.md",
+    "area": "Ciudadanía digital",
+    "categoria": "medios_democracia",
+    "alineacion": "puente_curricular",
+    "palabras_clave": [
+      "desinformación",
+      "medio",
+      "fuente",
+      "democracia"
+    ],
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ciu_1m_016_resolucion_de_conflictos_y_acceso_a_mediacion",
+    "titulo": "Resolución de conflictos y acceso a mediación",
+    "curso": "1° medio",
+    "folder": "09_primero_medio",
+    "path": "09_primero_medio/016_resolucion_de_conflictos_y_acceso_a_mediacion.md",
+    "area": "Justicia",
+    "categoria": "mediacion_acceso",
+    "alineacion": "puente_curricular",
+    "palabras_clave": [
+      "mediación",
+      "negociación",
+      "tribunal",
+      "acuerdo"
+    ],
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ciu_2m_001_democracia_y_derechos_humanos_en_el_siglo_xx",
+    "titulo": "Democracia y derechos humanos en el siglo XX",
+    "curso": "2° medio",
+    "folder": "10_segundo_medio",
+    "path": "10_segundo_medio/001_democracia_y_derechos_humanos_en_el_siglo_xx.md",
+    "area": "Democracia",
+    "categoria": "democracia_ddhh_xx",
+    "alineacion": "curricular_directa",
+    "palabras_clave": [
+      "democracia",
+      "dictadura",
+      "derechos humanos",
+      "memoria"
+    ],
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ciu_2m_002_violaciones_de_derechos_humanos_y_deber_de_no_repeticion",
+    "titulo": "Violaciones de derechos humanos y deber de no repetición",
+    "curso": "2° medio",
+    "folder": "10_segundo_medio",
+    "path": "10_segundo_medio/002_violaciones_de_derechos_humanos_y_deber_de_no_repeticion.md",
+    "area": "Derechos humanos",
+    "categoria": "no_repeticion",
+    "alineacion": "curricular_directa",
+    "palabras_clave": [
+      "violación de derechos humanos",
+      "verdad",
+      "justicia",
+      "reparación"
+    ],
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ciu_2m_003_transicion_democratica_y_ciudadania",
+    "titulo": "Transición democrática y ciudadanía",
+    "curso": "2° medio",
+    "folder": "10_segundo_medio",
+    "path": "10_segundo_medio/003_transicion_democratica_y_ciudadania.md",
+    "area": "Democracia",
+    "categoria": "transicion",
+    "alineacion": "curricular_directa",
+    "palabras_clave": [
+      "transición",
+      "elección",
+      "institución",
+      "participación"
+    ],
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ciu_2m_004_constitucion_reformas_y_cambio_institucional",
+    "titulo": "Constitución, reformas y cambio institucional",
+    "curso": "2° medio",
+    "folder": "10_segundo_medio",
+    "path": "10_segundo_medio/004_constitucion_reformas_y_cambio_institucional.md",
+    "area": "Constitución",
+    "categoria": "reforma_constitucional",
+    "alineacion": "puente_curricular",
+    "palabras_clave": [
+      "reforma constitucional",
+      "quórum",
+      "procedimiento",
+      "institución"
+    ],
+    "requiere_fuente_verificada": true
+  },
+  {
+    "id": "ciu_2m_005_plebiscito_referendum_y_consulta",
+    "titulo": "Plebiscito, referéndum y consulta",
+    "curso": "2° medio",
+    "folder": "10_segundo_medio",
+    "path": "10_segundo_medio/005_plebiscito_referendum_y_consulta.md",
+    "area": "Democracia",
+    "categoria": "democracia_directa",
+    "alineacion": "puente_curricular",
+    "palabras_clave": [
+      "plebiscito",
+      "consulta",
+      "participación",
+      "voto"
+    ],
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ciu_2m_006_derechos_civiles_politicos_y_sociales",
+    "titulo": "Derechos civiles, políticos y sociales",
+    "curso": "2° medio",
+    "folder": "10_segundo_medio",
+    "path": "10_segundo_medio/006_derechos_civiles_politicos_y_sociales.md",
+    "area": "Derechos humanos",
+    "categoria": "clasificacion_derechos",
+    "alineacion": "puente_curricular",
+    "palabras_clave": [
+      "derechos civiles",
+      "políticos",
+      "sociales",
+      "culturales"
+    ],
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ciu_2m_007_igualdad_ante_la_ley_y_no_discriminacion",
+    "titulo": "Igualdad ante la ley y no discriminación",
+    "curso": "2° medio",
+    "folder": "10_segundo_medio",
+    "path": "10_segundo_medio/007_igualdad_ante_la_ley_y_no_discriminacion.md",
+    "area": "Derechos humanos",
+    "categoria": "igualdad_ley",
+    "alineacion": "puente_curricular",
+    "palabras_clave": [
+      "igualdad ante la ley",
+      "discriminación",
+      "acción afirmativa"
+    ],
+    "requiere_fuente_verificada": true
+  },
+  {
+    "id": "ciu_2m_008_justicia_constitucional",
+    "titulo": "Justicia constitucional",
+    "curso": "2° medio",
+    "folder": "10_segundo_medio",
+    "path": "10_segundo_medio/008_justicia_constitucional.md",
+    "area": "Justicia",
+    "categoria": "justicia_constitucional",
+    "alineacion": "ampliacion_alineada",
+    "palabras_clave": [
+      "control constitucional",
+      "tribunal constitucional",
+      "norma"
+    ],
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ciu_2m_009_contraloria_y_control_administrativo",
+    "titulo": "Contraloría y control administrativo",
+    "curso": "2° medio",
+    "folder": "10_segundo_medio",
+    "path": "10_segundo_medio/009_contraloria_y_control_administrativo.md",
+    "area": "Instituciones",
+    "categoria": "contraloria",
+    "alineacion": "ampliacion_alineada",
+    "palabras_clave": [
+      "Contraloría",
+      "legalidad",
+      "auditoría",
+      "administración"
+    ],
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ciu_2m_010_defensorias_y_acceso_a_derechos",
+    "titulo": "Defensorías y acceso a derechos",
+    "curso": "2° medio",
+    "folder": "10_segundo_medio",
+    "path": "10_segundo_medio/010_defensorias_y_acceso_a_derechos.md",
+    "area": "Instituciones",
+    "categoria": "defensorias",
+    "alineacion": "ampliacion_alineada",
+    "palabras_clave": [
+      "defensa",
+      "niñez",
+      "víctima",
+      "acceso"
+    ],
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ciu_2m_011_politicas_publicas_y_evaluacion",
+    "titulo": "Políticas públicas y evaluación",
+    "curso": "2° medio",
+    "folder": "10_segundo_medio",
+    "path": "10_segundo_medio/011_politicas_publicas_y_evaluacion.md",
+    "area": "Estado y políticas públicas",
+    "categoria": "politicas_publicas",
+    "alineacion": "puente_curricular",
+    "palabras_clave": [
+      "política pública",
+      "problema",
+      "implementación",
+      "evaluación"
+    ],
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ciu_2m_012_presupuesto_publico_y_prioridades",
+    "titulo": "Presupuesto público y prioridades",
+    "curso": "2° medio",
+    "folder": "10_segundo_medio",
+    "path": "10_segundo_medio/012_presupuesto_publico_y_prioridades.md",
+    "area": "Estado y políticas públicas",
+    "categoria": "presupuesto_publico",
+    "alineacion": "puente_curricular",
+    "palabras_clave": [
+      "presupuesto",
+      "ingreso",
+      "gasto",
+      "prioridad"
+    ],
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ciu_2m_013_participacion_social_y_movimientos_ciudadanos",
+    "titulo": "Participación social y movimientos ciudadanos",
+    "curso": "2° medio",
+    "folder": "10_segundo_medio",
+    "path": "10_segundo_medio/013_participacion_social_y_movimientos_ciudadanos.md",
+    "area": "Participación",
+    "categoria": "movilizacion",
+    "alineacion": "curricular_directa",
+    "palabras_clave": [
+      "movilización",
+      "organización",
+      "demanda",
+      "participación"
+    ],
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ciu_2m_014_ciudadania_digital_vigilancia_y_datos",
+    "titulo": "Ciudadanía digital, vigilancia y datos",
+    "curso": "2° medio",
+    "folder": "10_segundo_medio",
+    "path": "10_segundo_medio/014_ciudadania_digital_vigilancia_y_datos.md",
+    "area": "Ciudadanía digital",
+    "categoria": "vigilancia_datos",
+    "alineacion": "puente_curricular",
+    "palabras_clave": [
+      "vigilancia",
+      "dato",
+      "privacidad",
+      "seguridad"
+    ],
+    "requiere_fuente_verificada": true
+  },
+  {
+    "id": "ciu_2m_015_plataformas_moderacion_y_democracia",
+    "titulo": "Plataformas, moderación y democracia",
+    "curso": "2° medio",
+    "folder": "10_segundo_medio",
+    "path": "10_segundo_medio/015_plataformas_moderacion_y_democracia.md",
+    "area": "Ciudadanía digital",
+    "categoria": "plataformas_democracia",
+    "alineacion": "ampliacion_alineada",
+    "palabras_clave": [
+      "plataforma",
+      "moderación",
+      "algoritmo",
+      "opinión pública"
+    ],
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ciu_2m_016_justicia_restaurativa_y_reinsercion",
+    "titulo": "Justicia restaurativa y reinserción",
+    "curso": "2° medio",
+    "folder": "10_segundo_medio",
+    "path": "10_segundo_medio/016_justicia_restaurativa_y_reinsercion.md",
+    "area": "Justicia",
+    "categoria": "reinsercion",
+    "alineacion": "ampliacion_alineada",
+    "palabras_clave": [
+      "justicia restaurativa",
+      "reinserción",
+      "reparación",
+      "víctima"
+    ],
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ciu_3m_001_fundamentos_y_dimensiones_de_la_democracia",
+    "titulo": "Fundamentos y dimensiones de la democracia",
+    "curso": "3° medio",
+    "folder": "11_tercero_medio",
+    "path": "11_tercero_medio/001_fundamentos_y_dimensiones_de_la_democracia.md",
+    "area": "Educación Ciudadana",
+    "categoria": "fundamentos_democracia",
+    "alineacion": "formacion_general",
+    "palabras_clave": [
+      "democracia",
+      "libertad",
+      "igualdad",
+      "pluralismo",
+      "participación"
+    ],
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ciu_3m_002_ciudadania_derechos_y_responsabilidades",
+    "titulo": "Ciudadanía, derechos y responsabilidades",
+    "curso": "3° medio",
+    "folder": "11_tercero_medio",
+    "path": "11_tercero_medio/002_ciudadania_derechos_y_responsabilidades.md",
+    "area": "Educación Ciudadana",
+    "categoria": "ciudadania_responsabilidades",
+    "alineacion": "formacion_general",
+    "palabras_clave": [
+      "ciudadanía",
+      "derechos",
+      "responsabilidad",
+      "Estado"
+    ],
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ciu_3m_003_estado_regimen_politico_y_sistema_de_gobierno",
+    "titulo": "Estado, régimen político y sistema de gobierno",
+    "curso": "3° medio",
+    "folder": "11_tercero_medio",
+    "path": "11_tercero_medio/003_estado_regimen_politico_y_sistema_de_gobierno.md",
+    "area": "Ciencia política",
+    "categoria": "estado_regimen_gobierno",
+    "alineacion": "formacion_general",
+    "palabras_clave": [
+      "Estado",
+      "régimen político",
+      "sistema de gobierno",
+      "autoridad"
+    ],
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ciu_3m_004_estado_de_derecho_y_constitucionalismo",
+    "titulo": "Estado de derecho y constitucionalismo",
+    "curso": "3° medio",
+    "folder": "11_tercero_medio",
+    "path": "11_tercero_medio/004_estado_de_derecho_y_constitucionalismo.md",
+    "area": "Derecho constitucional",
+    "categoria": "constitucionalismo_3m",
+    "alineacion": "formacion_general",
+    "palabras_clave": [
+      "Estado de derecho",
+      "Constitución",
+      "legalidad",
+      "control"
+    ],
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ciu_3m_005_derechos_humanos_y_obligaciones_estatales",
+    "titulo": "Derechos humanos y obligaciones estatales",
+    "curso": "3° medio",
+    "folder": "11_tercero_medio",
+    "path": "11_tercero_medio/005_derechos_humanos_y_obligaciones_estatales.md",
+    "area": "Derechos humanos",
+    "categoria": "obligaciones_estado",
+    "alineacion": "formacion_general",
+    "palabras_clave": [
+      "respetar",
+      "proteger",
+      "garantizar",
+      "derechos humanos"
+    ],
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ciu_3m_006_instituciones_democraticas_chilenas",
+    "titulo": "Instituciones democráticas chilenas",
+    "curso": "3° medio",
+    "folder": "11_tercero_medio",
+    "path": "11_tercero_medio/006_instituciones_democraticas_chilenas.md",
+    "area": "Instituciones del Estado",
+    "categoria": "instituciones_3m",
+    "alineacion": "formacion_general",
+    "palabras_clave": [
+      "Ejecutivo",
+      "Congreso",
+      "Poder Judicial",
+      "órganos autónomos"
+    ],
+    "requiere_fuente_verificada": true
+  },
+  {
+    "id": "ciu_3m_007_formacion_de_la_ley_y_deliberacion_legislativa",
+    "titulo": "Formación de la ley y deliberación legislativa",
+    "curso": "3° medio",
+    "folder": "11_tercero_medio",
+    "path": "11_tercero_medio/007_formacion_de_la_ley_y_deliberacion_legislativa.md",
+    "area": "Derecho legislativo",
+    "categoria": "ley_3m",
+    "alineacion": "formacion_general",
+    "palabras_clave": [
+      "iniciativa",
+      "moción",
+      "mensaje",
+      "votación",
+      "promulgación"
+    ],
+    "requiere_fuente_verificada": true
+  },
+  {
+    "id": "ciu_3m_008_poder_judicial_debido_proceso_y_acceso_a_justicia",
+    "titulo": "Poder Judicial, debido proceso y acceso a justicia",
+    "curso": "3° medio",
+    "folder": "11_tercero_medio",
+    "path": "11_tercero_medio/008_poder_judicial_debido_proceso_y_acceso_a_justicia.md",
+    "area": "Justicia",
+    "categoria": "justicia_3m",
+    "alineacion": "formacion_general",
+    "palabras_clave": [
+      "debido proceso",
+      "independencia",
+      "defensa",
+      "acceso"
+    ],
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ciu_3m_009_municipalidad_y_democracia_local",
+    "titulo": "Municipalidad y democracia local",
+    "curso": "3° medio",
+    "folder": "11_tercero_medio",
+    "path": "11_tercero_medio/009_municipalidad_y_democracia_local.md",
+    "area": "Instituciones",
+    "categoria": "democracia_local",
+    "alineacion": "formacion_general",
+    "palabras_clave": [
+      "municipalidad",
+      "concejo",
+      "participación local",
+      "ordenanza"
+    ],
+    "requiere_fuente_verificada": true
+  },
+  {
+    "id": "ciu_3m_010_participacion_electoral_y_no_electoral",
+    "titulo": "Participación electoral y no electoral",
+    "curso": "3° medio",
+    "folder": "11_tercero_medio",
+    "path": "11_tercero_medio/010_participacion_electoral_y_no_electoral.md",
+    "area": "Participación",
+    "categoria": "participacion_3m",
+    "alineacion": "formacion_general",
+    "palabras_clave": [
+      "voto",
+      "organización",
+      "incidencia",
+      "petición",
+      "protesta"
+    ],
+    "requiere_fuente_verificada": true
+  },
+  {
+    "id": "ciu_3m_011_opinion_publica_medios_y_poder",
+    "titulo": "Opinión pública, medios y poder",
+    "curso": "3° medio",
+    "folder": "11_tercero_medio",
+    "path": "11_tercero_medio/011_opinion_publica_medios_y_poder.md",
+    "area": "Comunicación política",
+    "categoria": "opinion_publica",
+    "alineacion": "formacion_general",
+    "palabras_clave": [
+      "opinión pública",
+      "medio",
+      "agenda",
+      "poder"
+    ],
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ciu_3m_012_desinformacion_y_alfabetizacion_mediatica",
+    "titulo": "Desinformación y alfabetización mediática",
+    "curso": "3° medio",
+    "folder": "11_tercero_medio",
+    "path": "11_tercero_medio/012_desinformacion_y_alfabetizacion_mediatica.md",
+    "area": "Ciudadanía digital",
+    "categoria": "alfabetizacion_mediatica",
+    "alineacion": "formacion_general",
+    "palabras_clave": [
+      "desinformación",
+      "verificación",
+      "fuente",
+      "sesgo"
+    ],
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ciu_3m_013_datos_personales_privacidad_y_ciudadania_digital",
+    "titulo": "Datos personales, privacidad y ciudadanía digital",
+    "curso": "3° medio",
+    "folder": "11_tercero_medio",
+    "path": "11_tercero_medio/013_datos_personales_privacidad_y_ciudadania_digital.md",
+    "area": "Ciudadanía digital",
+    "categoria": "datos_3m",
+    "alineacion": "formacion_general",
+    "palabras_clave": [
+      "dato personal",
+      "privacidad",
+      "consentimiento",
+      "seguridad"
+    ],
+    "requiere_fuente_verificada": true
+  },
+  {
+    "id": "ciu_3m_014_politicas_publicas_y_bien_comun",
+    "titulo": "Políticas públicas y bien común",
+    "curso": "3° medio",
+    "folder": "11_tercero_medio",
+    "path": "11_tercero_medio/014_politicas_publicas_y_bien_comun.md",
+    "area": "Políticas públicas",
+    "categoria": "politicas_3m",
+    "alineacion": "formacion_general",
+    "palabras_clave": [
+      "política pública",
+      "bien común",
+      "problema público",
+      "evaluación"
+    ],
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ciu_3m_015_justicia_social_igualdad_y_equidad",
+    "titulo": "Justicia social, igualdad y equidad",
+    "curso": "3° medio",
+    "folder": "11_tercero_medio",
+    "path": "11_tercero_medio/015_justicia_social_igualdad_y_equidad.md",
+    "area": "Derechos humanos",
+    "categoria": "justicia_social",
+    "alineacion": "formacion_general",
+    "palabras_clave": [
+      "justicia social",
+      "igualdad",
+      "equidad",
+      "desigualdad"
+    ],
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ciu_3m_016_resolucion_democratica_de_conflictos",
+    "titulo": "Resolución democrática de conflictos",
+    "curso": "3° medio",
+    "folder": "11_tercero_medio",
+    "path": "11_tercero_medio/016_resolucion_democratica_de_conflictos.md",
+    "area": "Convivencia democrática",
+    "categoria": "conflictos_3m",
+    "alineacion": "formacion_general",
+    "palabras_clave": [
+      "deliberación",
+      "negociación",
+      "mediación",
+      "acuerdo"
+    ],
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ciu_3m_017_probidad_transparencia_y_corrupcion",
+    "titulo": "Probidad, transparencia y corrupción",
+    "curso": "3° medio",
+    "folder": "11_tercero_medio",
+    "path": "11_tercero_medio/017_probidad_transparencia_y_corrupcion.md",
+    "area": "Ética pública",
+    "categoria": "corrupcion_3m",
+    "alineacion": "formacion_general",
+    "palabras_clave": [
+      "probidad",
+      "corrupción",
+      "conflicto de interés",
+      "transparencia"
+    ],
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ciu_3m_018_proyecto_de_participacion_ciudadana",
+    "titulo": "Proyecto de participación ciudadana",
+    "curso": "3° medio",
+    "folder": "11_tercero_medio",
+    "path": "11_tercero_medio/018_proyecto_de_participacion_ciudadana.md",
+    "area": "Participación",
+    "categoria": "proyecto_3m",
+    "alineacion": "formacion_general",
+    "palabras_clave": [
+      "diagnóstico",
+      "objetivo",
+      "actor",
+      "acción",
+      "evaluación"
+    ],
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ciu_4m_001_democracia_justicia_social_y_desarrollo_sustentable",
+    "titulo": "Democracia, justicia social y desarrollo sustentable",
+    "curso": "4° medio",
+    "folder": "12_cuarto_medio",
+    "path": "12_cuarto_medio/001_democracia_justicia_social_y_desarrollo_sustentable.md",
+    "area": "Educación Ciudadana",
+    "categoria": "democracia_4m",
+    "alineacion": "formacion_general",
+    "palabras_clave": [
+      "democracia",
+      "justicia social",
+      "sustentabilidad",
+      "bien común"
+    ],
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ciu_4m_002_institucionalidad_democratica_y_desafios_contemporaneos",
+    "titulo": "Institucionalidad democrática y desafíos contemporáneos",
+    "curso": "4° medio",
+    "folder": "12_cuarto_medio",
+    "path": "12_cuarto_medio/002_institucionalidad_democratica_y_desafios_contemporaneos.md",
+    "area": "Instituciones del Estado",
+    "categoria": "instituciones_4m",
+    "alineacion": "formacion_general",
+    "palabras_clave": [
+      "institución",
+      "legitimidad",
+      "confianza",
+      "reforma"
+    ],
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ciu_4m_003_constitucion_derechos_y_cambio_constitucional",
+    "titulo": "Constitución, derechos y cambio constitucional",
+    "curso": "4° medio",
+    "folder": "12_cuarto_medio",
+    "path": "12_cuarto_medio/003_constitucion_derechos_y_cambio_constitucional.md",
+    "area": "Derecho constitucional",
+    "categoria": "cambio_constitucional",
+    "alineacion": "formacion_general",
+    "palabras_clave": [
+      "Constitución",
+      "reforma",
+      "poder constituyente",
+      "derechos"
+    ],
+    "requiere_fuente_verificada": true
+  },
+  {
+    "id": "ciu_4m_004_separacion_de_poderes_y_controles_reciprocos",
+    "titulo": "Separación de poderes y controles recíprocos",
+    "curso": "4° medio",
+    "folder": "12_cuarto_medio",
+    "path": "12_cuarto_medio/004_separacion_de_poderes_y_controles_reciprocos.md",
+    "area": "Derecho constitucional",
+    "categoria": "checks_balances",
+    "alineacion": "formacion_general",
+    "palabras_clave": [
+      "separación de poderes",
+      "control",
+      "fiscalización",
+      "independencia"
+    ],
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ciu_4m_005_sistema_electoral_representacion_y_partidos",
+    "titulo": "Sistema electoral, representación y partidos",
+    "curso": "4° medio",
+    "folder": "12_cuarto_medio",
+    "path": "12_cuarto_medio/005_sistema_electoral_representacion_y_partidos.md",
+    "area": "Democracia",
+    "categoria": "sistema_electoral_4m",
+    "alineacion": "formacion_general",
+    "palabras_clave": [
+      "sistema electoral",
+      "partido",
+      "representación",
+      "participación"
+    ],
+    "requiere_fuente_verificada": true
+  },
+  {
+    "id": "ciu_4m_006_ciudadania_global_y_derecho_internacional_de_los_derechos_humanos",
+    "titulo": "Ciudadanía global y derecho internacional de los derechos humanos",
+    "curso": "4° medio",
+    "folder": "12_cuarto_medio",
+    "path": "12_cuarto_medio/006_ciudadania_global_y_derecho_internacional_de_los_derechos_humanos.md",
+    "area": "Derechos humanos",
+    "categoria": "ciudadania_global",
+    "alineacion": "formacion_general",
+    "palabras_clave": [
+      "ciudadanía global",
+      "tratado",
+      "sistema internacional",
+      "derechos humanos"
+    ],
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ciu_4m_007_derechos_digitales_y_regulacion_de_plataformas",
+    "titulo": "Derechos digitales y regulación de plataformas",
+    "curso": "4° medio",
+    "folder": "12_cuarto_medio",
+    "path": "12_cuarto_medio/007_derechos_digitales_y_regulacion_de_plataformas.md",
+    "area": "Ciudadanía digital",
+    "categoria": "derechos_digitales_4m",
+    "alineacion": "formacion_general",
+    "palabras_clave": [
+      "derecho digital",
+      "plataforma",
+      "algoritmo",
+      "moderación"
+    ],
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ciu_4m_008_inteligencia_artificial_decisiones_y_derechos",
+    "titulo": "Inteligencia artificial, decisiones y derechos",
+    "curso": "4° medio",
+    "folder": "12_cuarto_medio",
+    "path": "12_cuarto_medio/008_inteligencia_artificial_decisiones_y_derechos.md",
+    "area": "Ciudadanía digital",
+    "categoria": "ia_derechos",
+    "alineacion": "formacion_general",
+    "palabras_clave": [
+      "inteligencia artificial",
+      "sesgo",
+      "decisión automatizada",
+      "transparencia"
+    ],
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ciu_4m_009_libertad_de_expresion_honra_y_privacidad",
+    "titulo": "Libertad de expresión, honra y privacidad",
+    "curso": "4° medio",
+    "folder": "12_cuarto_medio",
+    "path": "12_cuarto_medio/009_libertad_de_expresion_honra_y_privacidad.md",
+    "area": "Derechos humanos",
+    "categoria": "libertades_colision",
+    "alineacion": "formacion_general",
+    "palabras_clave": [
+      "libertad de expresión",
+      "honra",
+      "privacidad",
+      "proporcionalidad"
+    ],
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ciu_4m_010_seguridad_publica_y_derechos_fundamentales",
+    "titulo": "Seguridad pública y derechos fundamentales",
+    "curso": "4° medio",
+    "folder": "12_cuarto_medio",
+    "path": "12_cuarto_medio/010_seguridad_publica_y_derechos_fundamentales.md",
+    "area": "Políticas públicas",
+    "categoria": "seguridad_derechos",
+    "alineacion": "formacion_general",
+    "palabras_clave": [
+      "seguridad pública",
+      "derecho",
+      "prevención",
+      "proporcionalidad"
+    ],
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ciu_4m_011_justicia_ambiental_y_participacion",
+    "titulo": "Justicia ambiental y participación",
+    "curso": "4° medio",
+    "folder": "12_cuarto_medio",
+    "path": "12_cuarto_medio/011_justicia_ambiental_y_participacion.md",
+    "area": "Derechos humanos",
+    "categoria": "justicia_ambiental",
+    "alineacion": "formacion_general",
+    "palabras_clave": [
+      "justicia ambiental",
+      "participación",
+      "territorio",
+      "derecho"
+    ],
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ciu_4m_012_migracion_ciudadania_y_derechos",
+    "titulo": "Migración, ciudadanía y derechos",
+    "curso": "4° medio",
+    "folder": "12_cuarto_medio",
+    "path": "12_cuarto_medio/012_migracion_ciudadania_y_derechos.md",
+    "area": "Derechos humanos",
+    "categoria": "migracion_derechos",
+    "alineacion": "formacion_general",
+    "palabras_clave": [
+      "migración",
+      "nacionalidad",
+      "ciudadanía",
+      "igualdad"
+    ],
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ciu_4m_013_trabajo_seguridad_social_y_derechos",
+    "titulo": "Trabajo, seguridad social y derechos",
+    "curso": "4° medio",
+    "folder": "12_cuarto_medio",
+    "path": "12_cuarto_medio/013_trabajo_seguridad_social_y_derechos.md",
+    "area": "Derecho social",
+    "categoria": "trabajo_seguridad_social",
+    "alineacion": "formacion_general",
+    "palabras_clave": [
+      "trabajo",
+      "contrato",
+      "seguridad social",
+      "sindicato"
+    ],
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ciu_4m_014_consumo_contratos_y_proteccion_basica",
+    "titulo": "Consumo, contratos y protección básica",
+    "curso": "4° medio",
+    "folder": "12_cuarto_medio",
+    "path": "12_cuarto_medio/014_consumo_contratos_y_proteccion_basica.md",
+    "area": "Derecho privado",
+    "categoria": "consumo_contratos",
+    "alineacion": "formacion_general",
+    "palabras_clave": [
+      "consumidor",
+      "contrato",
+      "garantía",
+      "información"
+    ],
+    "requiere_fuente_verificada": true
+  },
+  {
+    "id": "ciu_4m_015_responsabilidad_civil_y_penal_diferencias",
+    "titulo": "Responsabilidad civil y penal: diferencias",
+    "curso": "4° medio",
+    "folder": "12_cuarto_medio",
+    "path": "12_cuarto_medio/015_responsabilidad_civil_y_penal_diferencias.md",
+    "area": "Derecho básico",
+    "categoria": "responsabilidad_civil_penal",
+    "alineacion": "formacion_general",
+    "palabras_clave": [
+      "responsabilidad civil",
+      "penal",
+      "daño",
+      "sanción"
+    ],
+    "requiere_fuente_verificada": true
+  },
+  {
+    "id": "ciu_4m_016_acceso_a_justicia_y_barreras",
+    "titulo": "Acceso a justicia y barreras",
+    "curso": "4° medio",
+    "folder": "12_cuarto_medio",
+    "path": "12_cuarto_medio/016_acceso_a_justicia_y_barreras.md",
+    "area": "Justicia",
+    "categoria": "barreras_justicia",
+    "alineacion": "formacion_general",
+    "palabras_clave": [
+      "acceso a justicia",
+      "costo",
+      "información",
+      "defensa"
+    ],
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ciu_4m_017_participacion_incidente_y_control_ciudadano",
+    "titulo": "Participación incidente y control ciudadano",
+    "curso": "4° medio",
+    "folder": "12_cuarto_medio",
+    "path": "12_cuarto_medio/017_participacion_incidente_y_control_ciudadano.md",
+    "area": "Participación",
+    "categoria": "incidencia_control",
+    "alineacion": "formacion_general",
+    "palabras_clave": [
+      "incidencia",
+      "control social",
+      "transparencia",
+      "rendición"
+    ],
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ciu_4m_018_proyecto_ciudadano_con_evidencia",
+    "titulo": "Proyecto ciudadano con evidencia",
+    "curso": "4° medio",
+    "folder": "12_cuarto_medio",
+    "path": "12_cuarto_medio/018_proyecto_ciudadano_con_evidencia.md",
+    "area": "Participación",
+    "categoria": "proyecto_4m",
+    "alineacion": "formacion_general",
+    "palabras_clave": [
+      "problema público",
+      "evidencia",
+      "propuesta",
+      "impacto",
+      "evaluación"
+    ],
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ciu_tr_001_normas_leyes_y_constitucion_diferencias",
+    "titulo": "Normas, leyes y Constitución: diferencias",
+    "curso": "Transversal 1° básico a 4° medio",
+    "folder": "13_tematicos_transversales",
+    "path": "13_tematicos_transversales/001_normas_leyes_y_constitucion_diferencias.md",
+    "area": "Derecho básico",
+    "categoria": "jerarquia_normativa",
+    "alineacion": "transversal",
+    "palabras_clave": [
+      "norma",
+      "ley",
+      "reglamento",
+      "ordenanza",
+      "Constitución"
+    ],
+    "requiere_fuente_verificada": true
+  },
+  {
+    "id": "ciu_tr_002_derechos_del_nino_y_la_nina",
+    "titulo": "Derechos del niño y la niña",
+    "curso": "Transversal 1° básico a 4° medio",
+    "folder": "13_tematicos_transversales",
+    "path": "13_tematicos_transversales/002_derechos_del_nino_y_la_nina.md",
+    "area": "Derechos humanos",
+    "categoria": "derechos_ninez_trans",
+    "alineacion": "transversal",
+    "palabras_clave": [
+      "niñez",
+      "protección",
+      "educación",
+      "salud",
+      "identidad",
+      "opinión"
+    ],
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ciu_tr_003_democracia_y_participacion",
+    "titulo": "Democracia y participación",
+    "curso": "Transversal 1° básico a 4° medio",
+    "folder": "13_tematicos_transversales",
+    "path": "13_tematicos_transversales/003_democracia_y_participacion.md",
+    "area": "Democracia",
+    "categoria": "democracia_trans",
+    "alineacion": "transversal",
+    "palabras_clave": [
+      "democracia",
+      "participación",
+      "voto",
+      "representación",
+      "pluralismo"
+    ],
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ciu_tr_004_poder_ejecutivo_legislativo_y_judicial",
+    "titulo": "Poder Ejecutivo, Legislativo y Judicial",
+    "curso": "Transversal 1° básico a 4° medio",
+    "folder": "13_tematicos_transversales",
+    "path": "13_tematicos_transversales/004_poder_ejecutivo_legislativo_y_judicial.md",
+    "area": "Instituciones del Estado",
+    "categoria": "poderes_trans",
+    "alineacion": "transversal",
+    "palabras_clave": [
+      "Ejecutivo",
+      "Legislativo",
+      "Judicial",
+      "separación"
+    ],
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ciu_tr_005_municipalidad_y_gobierno_local",
+    "titulo": "Municipalidad y gobierno local",
+    "curso": "Transversal 1° básico a 4° medio",
+    "folder": "13_tematicos_transversales",
+    "path": "13_tematicos_transversales/005_municipalidad_y_gobierno_local.md",
+    "area": "Instituciones",
+    "categoria": "municipio_trans",
+    "alineacion": "transversal",
+    "palabras_clave": [
+      "municipalidad",
+      "comuna",
+      "alcalde",
+      "concejo"
+    ],
+    "requiere_fuente_verificada": true
+  },
+  {
+    "id": "ciu_tr_006_congreso_nacional_y_proceso_legislativo",
+    "titulo": "Congreso Nacional y proceso legislativo",
+    "curso": "Transversal 1° básico a 4° medio",
+    "folder": "13_tematicos_transversales",
+    "path": "13_tematicos_transversales/006_congreso_nacional_y_proceso_legislativo.md",
+    "area": "Instituciones del Estado",
+    "categoria": "congreso_trans",
+    "alineacion": "transversal",
+    "palabras_clave": [
+      "Congreso",
+      "Cámara",
+      "Senado",
+      "ley"
+    ],
+    "requiere_fuente_verificada": true
+  },
+  {
+    "id": "ciu_tr_007_tribunales_y_acceso_a_justicia",
+    "titulo": "Tribunales y acceso a justicia",
+    "curso": "Transversal 1° básico a 4° medio",
+    "folder": "13_tematicos_transversales",
+    "path": "13_tematicos_transversales/007_tribunales_y_acceso_a_justicia.md",
+    "area": "Justicia",
+    "categoria": "tribunales_trans",
+    "alineacion": "transversal",
+    "palabras_clave": [
+      "tribunal",
+      "juez",
+      "debido proceso",
+      "defensa"
+    ],
+    "requiere_fuente_verificada": true
+  },
+  {
+    "id": "ciu_tr_008_constitucion_politica_guia_escolar",
+    "titulo": "Constitución Política: guía escolar",
+    "curso": "Transversal 1° básico a 4° medio",
+    "folder": "13_tematicos_transversales",
+    "path": "13_tematicos_transversales/008_constitucion_politica_guia_escolar.md",
+    "area": "Constitución",
+    "categoria": "constitucion_trans",
+    "alineacion": "transversal",
+    "palabras_clave": [
+      "Constitución",
+      "derechos",
+      "institución",
+      "poder"
+    ],
+    "requiere_fuente_verificada": true
+  },
+  {
+    "id": "ciu_tr_009_derechos_humanos_principios",
+    "titulo": "Derechos humanos: principios",
+    "curso": "Transversal 1° básico a 4° medio",
+    "folder": "13_tematicos_transversales",
+    "path": "13_tematicos_transversales/009_derechos_humanos_principios.md",
+    "area": "Derechos humanos",
+    "categoria": "ddhh_trans",
+    "alineacion": "transversal",
+    "palabras_clave": [
+      "universalidad",
+      "indivisibilidad",
+      "dignidad",
+      "igualdad"
+    ],
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ciu_tr_010_resolucion_pacifica_de_conflictos",
+    "titulo": "Resolución pacífica de conflictos",
+    "curso": "Transversal 1° básico a 4° medio",
+    "folder": "13_tematicos_transversales",
+    "path": "13_tematicos_transversales/010_resolucion_pacifica_de_conflictos.md",
+    "area": "Convivencia",
+    "categoria": "resolucion_trans",
+    "alineacion": "transversal",
+    "palabras_clave": [
+      "diálogo",
+      "negociación",
+      "mediación",
+      "acuerdo"
+    ],
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ciu_tr_011_ciudadania_digital_y_privacidad",
+    "titulo": "Ciudadanía digital y privacidad",
+    "curso": "Transversal 1° básico a 4° medio",
+    "folder": "13_tematicos_transversales",
+    "path": "13_tematicos_transversales/011_ciudadania_digital_y_privacidad.md",
+    "area": "Ciudadanía digital",
+    "categoria": "digital_trans",
+    "alineacion": "transversal",
+    "palabras_clave": [
+      "privacidad",
+      "dato personal",
+      "contraseña",
+      "consentimiento"
+    ],
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ciu_tr_012_desinformacion_y_verificacion",
+    "titulo": "Desinformación y verificación",
+    "curso": "Transversal 1° básico a 4° medio",
+    "folder": "13_tematicos_transversales",
+    "path": "13_tematicos_transversales/012_desinformacion_y_verificacion.md",
+    "area": "Ciudadanía digital",
+    "categoria": "desinformacion_trans",
+    "alineacion": "transversal",
+    "palabras_clave": [
+      "fuente",
+      "evidencia",
+      "rumor",
+      "verificación"
+    ],
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ciu_tr_013_participacion_ciudadana_formal_e_informal",
+    "titulo": "Participación ciudadana formal e informal",
+    "curso": "Transversal 1° básico a 4° medio",
+    "folder": "13_tematicos_transversales",
+    "path": "13_tematicos_transversales/013_participacion_ciudadana_formal_e_informal.md",
+    "area": "Participación",
+    "categoria": "participacion_trans",
+    "alineacion": "transversal",
+    "palabras_clave": [
+      "voto",
+      "petición",
+      "organización",
+      "manifestación"
+    ],
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ciu_tr_014_justicia_sancion_y_reparacion",
+    "titulo": "Justicia, sanción y reparación",
+    "curso": "Transversal 1° básico a 4° medio",
+    "folder": "13_tematicos_transversales",
+    "path": "13_tematicos_transversales/014_justicia_sancion_y_reparacion.md",
+    "area": "Justicia",
+    "categoria": "justicia_trans",
+    "alineacion": "transversal",
+    "palabras_clave": [
+      "justicia",
+      "sanción",
+      "reparación",
+      "proporcionalidad"
+    ],
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ciu_tr_015_probidad_transparencia_y_rendicion_de_cuentas",
+    "titulo": "Probidad, transparencia y rendición de cuentas",
+    "curso": "Transversal 1° básico a 4° medio",
+    "folder": "13_tematicos_transversales",
+    "path": "13_tematicos_transversales/015_probidad_transparencia_y_rendicion_de_cuentas.md",
+    "area": "Ética pública",
+    "categoria": "etica_publica_trans",
+    "alineacion": "transversal",
+    "palabras_clave": [
+      "probidad",
+      "transparencia",
+      "corrupción",
+      "rendición"
+    ],
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ciu_tr_016_politicas_publicas_y_presupuesto",
+    "titulo": "Políticas públicas y presupuesto",
+    "curso": "Transversal 1° básico a 4° medio",
+    "folder": "13_tematicos_transversales",
+    "path": "13_tematicos_transversales/016_politicas_publicas_y_presupuesto.md",
+    "area": "Estado y políticas públicas",
+    "categoria": "politicas_trans",
+    "alineacion": "transversal",
+    "palabras_clave": [
+      "política pública",
+      "presupuesto",
+      "implementación",
+      "evaluación"
+    ],
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ciu_tr_017_no_discriminacion_e_inclusion",
+    "titulo": "No discriminación e inclusión",
+    "curso": "Transversal 1° básico a 4° medio",
+    "folder": "13_tematicos_transversales",
+    "path": "13_tematicos_transversales/017_no_discriminacion_e_inclusion.md",
+    "area": "Derechos humanos",
+    "categoria": "inclusion_trans",
+    "alineacion": "transversal",
+    "palabras_clave": [
+      "igualdad",
+      "discriminación",
+      "inclusión",
+      "ajuste"
+    ],
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ciu_tr_018_ciudadania_global_y_cooperacion",
+    "titulo": "Ciudadanía global y cooperación",
+    "curso": "Transversal 1° básico a 4° medio",
+    "folder": "13_tematicos_transversales",
+    "path": "13_tematicos_transversales/018_ciudadania_global_y_cooperacion.md",
+    "area": "Educación Ciudadana",
+    "categoria": "global_trans",
+    "alineacion": "transversal",
+    "palabras_clave": [
+      "ciudadanía global",
+      "cooperación",
+      "derechos humanos",
+      "tratado"
+    ],
+    "requiere_fuente_verificada": false
+  }
+]

@@ -1,0 +1,33 @@
+# Índice — 2° medio
+
+> **Referencia curricular:** colección organizada el 2026-07-14. Sigue la progresión chilena de Ciencias Naturales y Ciencias para la Ciudadanía. Los datos médicos, ambientales, astronómicos o tecnológicos actuales requieren fuente reciente.
+- [Sistema nervioso](001_sistema_nervioso.md) — Ciencias de la Vida
+- [Sistema endocrino](002_sistema_endocrino.md) — Ciencias de la Vida
+- [Homeostasis avanzada](003_homeostasis_avanzada.md) — Ciencia, tecnología, sociedad y ambiente
+- [Reproducción y desarrollo](004_reproduccion_y_desarrollo.md) — Ciencias de la Vida
+- [Genética y herencia](005_genetica_y_herencia.md) — Ciencias de la Vida
+- [Mutaciones](006_mutaciones.md) — Ciencia, tecnología, sociedad y ambiente
+- [Biotecnología](007_biotecnologia.md) — Ciencia, tecnología, sociedad y ambiente
+- [Evolución humana](008_evolucion_humana.md) — Ciencias de la Vida
+- [Ecología de poblaciones](009_ecologia_de_poblaciones.md) — Ciencia, tecnología, sociedad y ambiente
+- [Comunidades y sucesión](010_comunidades_y_sucesion.md) — Ciencia, tecnología, sociedad y ambiente
+- [Conservación de biodiversidad](011_conservacion_de_biodiversidad.md) — Ciencia, tecnología, sociedad y ambiente
+- [Movimiento circular](012_movimiento_circular.md) — Ciencias Físicas y Químicas
+- [Gravitación universal](013_gravitacion_universal.md) — Ciencia, tecnología, sociedad y ambiente
+- [Energía mecánica](014_energia_mecanica.md) — Ciencias Físicas y Químicas
+- [Electricidad y magnetismo](015_electricidad_y_magnetismo.md) — Ciencias Físicas y Químicas
+- [Circuitos eléctricos](016_circuitos_electricos.md) — Ciencia, tecnología, sociedad y ambiente
+- [Electromagnetismo](017_electromagnetismo.md) — Ciencia, tecnología, sociedad y ambiente
+- [Ondas electromagnéticas](018_ondas_electromagneticas.md) — Ciencias Físicas y Químicas
+- [Óptica geométrica](019_optica_geometrica.md) — Ciencia, tecnología, sociedad y ambiente
+- [Termodinámica inicial](020_termodinamica_inicial.md) — Ciencia, tecnología, sociedad y ambiente
+- [Estructura de la materia](021_estructura_de_la_materia.md) — Ciencias Físicas y Químicas
+- [Mol y cantidad de sustancia](022_mol_y_cantidad_de_sustancia.md) — Ciencia, tecnología, sociedad y ambiente
+- [Soluciones y concentración](023_soluciones_y_concentracion.md) — Ciencia, tecnología, sociedad y ambiente
+- [Ácidos y bases](024_acidos_y_bases.md) — Ciencia, tecnología, sociedad y ambiente
+- [Reacciones redox](025_reacciones_redox.md) — Ciencia, tecnología, sociedad y ambiente
+- [Química orgánica inicial](026_quimica_organica_inicial.md) — Ciencias Físicas y Químicas
+- [Geología y tectónica](027_geologia_y_tectonica.md) — Ciencia, tecnología, sociedad y ambiente
+- [Origen y evolución del universo](028_origen_y_evolucion_del_universo.md) — Ciencias de la Vida
+- [Ciencia, tecnología y sociedad](029_ciencia_tecnologia_y_sociedad.md) — Habilidades y naturaleza de la ciencia
+- [Diseño experimental y análisis de datos](030_diseno_experimental_y_analisis_de_datos.md) — Habilidades y naturaleza de la ciencia

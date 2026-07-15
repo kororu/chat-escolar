@@ -1,0 +1,62 @@
+# Glosario inicial — 5° básico
+
+- **Africa:** Concepto vinculado con expansión portuguesa por áfrica y el océano índico; debe definirse dentro de su contexto histórico.
+- **Africana:** Concepto vinculado con trata transatlántica y esclavitud africana; debe definirse dentro de su contexto histórico.
+- **Afroeurasiaticos:** Concepto vinculado con la ruta de la seda y los intercambios afroeurasiáticos; debe definirse dentro de su contexto histórico.
+- **Animales:** Concepto vinculado con intercambio colombino de plantas, animales y enfermedades; debe definirse dentro de su contexto histórico.
+- **Asia:** Concepto vinculado con europa, áfrica y asia a fines de la edad media; debe definirse dentro de su contexto histórico.
+- **Atlantico:** Concepto vinculado con expansión castellana hacia el atlántico; debe definirse dentro de su contexto histórico.
+- **Atlanticos:** Concepto vinculado con formación de imperios coloniales atlánticos; debe definirse dentro de su contexto histórico.
+- **Cartograficas:** Concepto vinculado con innovaciones náuticas y cartográficas de los siglos xv y xvi; debe definirse dentro de su contexto histórico.
+- **Castellana:** Concepto vinculado con expansión castellana hacia el atlántico; debe definirse dentro de su contexto histórico.
+- **Choque:** Concepto vinculado con encuentro, conquista y choque de sociedades; debe definirse dentro de su contexto histórico.
+- **Colombino:** Concepto vinculado con intercambio colombino de plantas, animales y enfermedades; debe definirse dentro de su contexto histórico.
+- **Coloniales:** Concepto vinculado con formación de imperios coloniales atlánticos; debe definirse dentro de su contexto histórico.
+- **Comercio:** Concepto vinculado con renacimiento urbano, comercio y navegación; debe definirse dentro de su contexto histórico.
+- **Conexiones:** Concepto vinculado con primera globalización y conexiones entre continentes; debe definirse dentro de su contexto histórico.
+- **Conquista:** Concepto vinculado con debates sobre conquista, humanidad y derechos; debe definirse dentro de su contexto histórico.
+- **Continentes:** Concepto vinculado con primera globalización y conexiones entre continentes; debe definirse dentro de su contexto histórico.
+- **Debates:** Concepto vinculado con debates sobre conquista, humanidad y derechos; debe definirse dentro de su contexto histórico.
+- **Derechos:** Concepto vinculado con debates sobre conquista, humanidad y derechos; debe definirse dentro de su contexto histórico.
+- **Edad:** Concepto vinculado con europa, áfrica y asia a fines de la edad media; debe definirse dentro de su contexto histórico.
+- **Encuentro:** Concepto vinculado con encuentro, conquista y choque de sociedades; debe definirse dentro de su contexto histórico.
+- **Enfermedades:** Concepto vinculado con intercambio colombino de plantas, animales y enfermedades; debe definirse dentro de su contexto histórico.
+- **Entre:** Concepto vinculado con primera globalización y conexiones entre continentes; debe definirse dentro de su contexto histórico.
+- **Esclavitud:** Concepto vinculado con trata transatlántica y esclavitud africana; debe definirse dentro de su contexto histórico.
+- **Europa:** Concepto vinculado con europa, áfrica y asia a fines de la edad media; debe definirse dentro de su contexto histórico.
+- **Evangelizacion:** Concepto vinculado con evangelización, resistencias y mestizajes; debe definirse dentro de su contexto histórico.
+- **Expansion:** Concepto vinculado con expansión castellana hacia el atlántico; debe definirse dentro de su contexto histórico.
+- **Fines:** Concepto vinculado con europa, áfrica y asia a fines de la edad media; debe definirse dentro de su contexto histórico.
+- **Formacion:** Concepto vinculado con formación de imperios coloniales atlánticos; debe definirse dentro de su contexto histórico.
+- **Globalizacion:** Concepto vinculado con primera globalización y conexiones entre continentes; debe definirse dentro de su contexto histórico.
+- **Hacia:** Concepto vinculado con expansión castellana hacia el atlántico; debe definirse dentro de su contexto histórico.
+- **Humanidad:** Concepto vinculado con debates sobre conquista, humanidad y derechos; debe definirse dentro de su contexto histórico.
+- **Imperio:** Concepto vinculado con el imperio otomano y el mediterráneo oriental; debe definirse dentro de su contexto histórico.
+- **Imperios:** Concepto vinculado con formación de imperios coloniales atlánticos; debe definirse dentro de su contexto histórico.
+- **Indico:** Concepto vinculado con expansión portuguesa por áfrica y el océano índico; debe definirse dentro de su contexto histórico.
+- **Innovaciones:** Concepto vinculado con innovaciones náuticas y cartográficas de los siglos xv y xvi; debe definirse dentro de su contexto histórico.
+- **Intercambio:** Concepto vinculado con intercambio colombino de plantas, animales y enfermedades; debe definirse dentro de su contexto histórico.
+- **Intercambios:** Concepto vinculado con la ruta de la seda y los intercambios afroeurasiáticos; debe definirse dentro de su contexto histórico.
+- **Media:** Concepto vinculado con europa, áfrica y asia a fines de la edad media; debe definirse dentro de su contexto histórico.
+- **Mediterraneo:** Concepto vinculado con el imperio otomano y el mediterráneo oriental; debe definirse dentro de su contexto histórico.
+- **Mestizajes:** Concepto vinculado con evangelización, resistencias y mestizajes; debe definirse dentro de su contexto histórico.
+- **Nauticas:** Concepto vinculado con innovaciones náuticas y cartográficas de los siglos xv y xvi; debe definirse dentro de su contexto histórico.
+- **Navegacion:** Concepto vinculado con renacimiento urbano, comercio y navegación; debe definirse dentro de su contexto histórico.
+- **Oceano:** Concepto vinculado con expansión portuguesa por áfrica y el océano índico; debe definirse dentro de su contexto histórico.
+- **Oriental:** Concepto vinculado con el imperio otomano y el mediterráneo oriental; debe definirse dentro de su contexto histórico.
+- **Otomano:** Concepto vinculado con el imperio otomano y el mediterráneo oriental; debe definirse dentro de su contexto histórico.
+- **Plantas:** Concepto vinculado con intercambio colombino de plantas, animales y enfermedades; debe definirse dentro de su contexto histórico.
+- **Portuguesa:** Concepto vinculado con expansión portuguesa por áfrica y el océano índico; debe definirse dentro de su contexto histórico.
+- **Primera:** Concepto vinculado con primera globalización y conexiones entre continentes; debe definirse dentro de su contexto histórico.
+- **Renacimiento:** Concepto vinculado con renacimiento urbano, comercio y navegación; debe definirse dentro de su contexto histórico.
+- **Resistencias:** Concepto vinculado con evangelización, resistencias y mestizajes; debe definirse dentro de su contexto histórico.
+- **Ruta:** Concepto vinculado con la ruta de la seda y los intercambios afroeurasiáticos; debe definirse dentro de su contexto histórico.
+- **Seda:** Concepto vinculado con la ruta de la seda y los intercambios afroeurasiáticos; debe definirse dentro de su contexto histórico.
+- **Siglos:** Concepto vinculado con innovaciones náuticas y cartográficas de los siglos xv y xvi; debe definirse dentro de su contexto histórico.
+- **Sobre:** Concepto vinculado con debates sobre conquista, humanidad y derechos; debe definirse dentro de su contexto histórico.
+- **Sociedades:** Concepto vinculado con encuentro, conquista y choque de sociedades; debe definirse dentro de su contexto histórico.
+- **Transatlantica:** Concepto vinculado con trata transatlántica y esclavitud africana; debe definirse dentro de su contexto histórico.
+- **Trata:** Concepto vinculado con trata transatlántica y esclavitud africana; debe definirse dentro de su contexto histórico.
+- **Urbano:** Concepto vinculado con renacimiento urbano, comercio y navegación; debe definirse dentro de su contexto histórico.
+- **Xv:** Concepto vinculado con innovaciones náuticas y cartográficas de los siglos xv y xvi; debe definirse dentro de su contexto histórico.
+- **Xvi:** Concepto vinculado con innovaciones náuticas y cartográficas de los siglos xv y xvi; debe definirse dentro de su contexto histórico.

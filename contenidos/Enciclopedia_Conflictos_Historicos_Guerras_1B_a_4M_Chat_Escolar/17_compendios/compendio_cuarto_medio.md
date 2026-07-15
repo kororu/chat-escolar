@@ -1,0 +1,3102 @@
+# Compendio — 4° medio
+
+---
+id: "conf_4m_001_como_estudiar_conflictos_contemporaneos"
+titulo: "Cómo estudiar conflictos contemporáneos"
+area: "Conflictos históricos y educación para la paz"
+categoria: "como_estudiar_conflictos_contemporaneos"
+curso_origen: "4° medio"
+nivel: "avanzado"
+apto_desde: "4° medio"
+alineacion_curricular: "curricular_directa"
+tipo_contenido: "conflictos_historicos_y_guerras"
+requiere_fuente_verificada: true
+tema_sensible: true
+prohibe_glorificacion: true
+palabras_clave:
+  - "conflicto"
+  - "causas"
+  - "consecuencias"
+  - "población civil"
+  - "derechos humanos"
+  - "paz"
+materias_relacionadas:
+  - "Historia, Geografía y Ciencias Sociales"
+  - "Educación Ciudadana"
+  - "Lenguaje y Comunicación"
+  - "Orientación"
+version: "1.0"
+fecha_revision: "2026-07-14"
+---
+
+# Cómo estudiar conflictos contemporáneos
+
+> Esta colección tiene enfoque histórico, humano, ético y educativo. No glorifica la guerra ni enseña tácticas, armas o formas de causar daño.
+
+## Respuesta breve
+
+**Cómo estudiar conflictos contemporáneos** se estudia para comprender causas, actores, experiencias humanas y consecuencias. El objetivo no es admirar la violencia, sino aprender por qué ocurrió, cómo afectó a distintas personas y qué alternativas de paz, justicia o prevención existieron.
+
+## Explicación clara
+
+Un conflicto histórico surge cuando grupos, comunidades o Estados tienen intereses, necesidades, ideas o proyectos incompatibles. No todo conflicto se convierte en guerra. Una guerra implica violencia organizada y afecta tanto a combatientes como a civiles.
+
+Para estudiar el tema se consideran: contexto, causas de largo plazo, desencadenantes, actores, etapas, consecuencias humanas, cambios territoriales o políticos, memoria, justicia y formas de cierre.
+
+## Conceptos clave
+
+- **Conflicto:** oposición entre actores.
+- **Causa:** condición que ayuda a explicar el origen.
+- **Desencadenante:** hecho cercano al inicio.
+- **Población civil:** personas que no participan directamente en el combate.
+- **Propaganda:** mensaje diseñado para influir.
+- **Paz:** no solo ausencia de guerra, sino convivencia con derechos y justicia.
+
+## Enfoque humano
+
+La guerra altera hogares, escuelas, hospitales, trabajo, alimentación y relaciones familiares. Una explicación responsable incluye a mujeres, niños, pueblos originarios, trabajadores, refugiados y otras personas que suelen quedar fuera del relato militar.
+
+## Ejemplo cotidiano y límite
+
+Un desacuerdo por un espacio escolar puede ayudar a imaginar que existen intereses distintos. **No equivale a una guerra**: una guerra tiene escala, violencia organizada y consecuencias mucho mayores.
+
+## Ejemplo adaptado para TEA
+
+```text
+ANTES → CAUSAS → ACTORES → QUÉ OCURRIÓ → CONSECUENCIAS → CÓMO TERMINÓ → QUÉ APRENDEMOS
+```
+
+- Avisar antes de contenido sensible.
+- Evitar detalles gráficos.
+- Usar tablas y líneas de tiempo.
+- Permitir pausa o versión breve.
+- No pedir experiencias personales de violencia.
+
+## Actividad breve
+
+1. Identifica una causa.
+2. Nombra dos actores.
+3. Explica una consecuencia para civiles.
+4. Busca una fuente de otra perspectiva.
+5. Señala una vía de negociación, tratado o reparación.
+
+## Preguntas de práctica
+
+### Inicial
+1. ¿Qué conflicto se estudia?
+2. ¿Quiénes participaron?
+3. ¿Qué ocurrió antes?
+
+### Intermedia
+4. Diferencia causa y desencadenante.
+5. Explica una consecuencia humana.
+6. ¿Qué fuente podría aportar otra perspectiva?
+
+### Desafío
+7. ¿Cómo influyó la propaganda?
+8. ¿Qué alternativas diplomáticas existieron?
+9. ¿Cómo se recuerda el conflicto?
+10. ¿Qué derechos ayudan a evaluarlo?
+
+## Errores comunes
+
+- Contar la guerra solo desde el país propio.
+- Reducirla a héroes, armas y batallas.
+- Usar una causa única.
+- Ignorar civiles.
+- Repetir propaganda.
+- Inventar cifras.
+- Usar imágenes gráficas sin necesidad.
+- Confundir explicación histórica con justificación moral.
+
+## Derechos, ciudadanía e instituciones
+
+Este tema se relaciona con normas, convivencia, derechos y deberes, derechos de la niñez, democracia, Constitución, Congreso, tribunales, leyes, justicia, ciudadanía digital, participación y resolución pacífica.
+
+## Para estudiante
+
+Respuesta breve, línea de tiempo, ejemplo, efecto humano y una pregunta.
+
+## Para apoderado
+
+Conversar sin imágenes gráficas, aclarar que estudiar no significa aprobar y hacer una pausa si aparece angustia.
+
+## Para docente
+
+Comparar fuentes, incluir población civil, evitar simulaciones de victimarios y evaluar análisis, no memorización de armamento.
+
+## Mini resumen
+
+- Los conflictos tienen causas múltiples.
+- La guerra afecta especialmente a civiles.
+- Las fuentes tienen perspectivas.
+- La propaganda puede deshumanizar.
+- La paz necesita acuerdos, instituciones y justicia.
+- Los conflictos actuales requieren verificación reciente.
+
+## Palabras clave para búsqueda local
+
+conflicto, guerra, causas, consecuencias, población civil, derechos humanos, paz, memoria, justicia, negociación
+
+## Temas relacionados
+
+- Cursos anteriores: convivencia, normas, derechos y fuentes.
+- Cursos posteriores: diplomacia, derecho internacional, memoria y justicia.
+
+## Reglas para Chat Escolar
+
+- Adaptar lenguaje al curso activo.
+- No glorificar violencia.
+- No dar detalles tácticos.
+- No inventar cifras ni hechos actuales.
+- Diferenciar hecho, interpretación, propaganda y analogía.
+- Incluir población civil, derechos y alternativas pacíficas.
+
+
+---
+
+---
+id: "conf_4m_002_causas_multiples_de_conflictos_actuales"
+titulo: "Causas múltiples de conflictos actuales"
+area: "Conflictos históricos y educación para la paz"
+categoria: "causas_multiples_de_conflictos_actuales"
+curso_origen: "4° medio"
+nivel: "avanzado"
+apto_desde: "4° medio"
+alineacion_curricular: "curricular_directa"
+tipo_contenido: "conflictos_historicos_y_guerras"
+requiere_fuente_verificada: false
+tema_sensible: true
+prohibe_glorificacion: true
+palabras_clave:
+  - "conflicto"
+  - "causas"
+  - "consecuencias"
+  - "población civil"
+  - "derechos humanos"
+  - "paz"
+materias_relacionadas:
+  - "Historia, Geografía y Ciencias Sociales"
+  - "Educación Ciudadana"
+  - "Lenguaje y Comunicación"
+  - "Orientación"
+version: "1.0"
+fecha_revision: "2026-07-14"
+---
+
+# Causas múltiples de conflictos actuales
+
+> Esta colección tiene enfoque histórico, humano, ético y educativo. No glorifica la guerra ni enseña tácticas, armas o formas de causar daño.
+
+## Respuesta breve
+
+**Causas múltiples de conflictos actuales** se estudia para comprender causas, actores, experiencias humanas y consecuencias. El objetivo no es admirar la violencia, sino aprender por qué ocurrió, cómo afectó a distintas personas y qué alternativas de paz, justicia o prevención existieron.
+
+## Explicación clara
+
+Un conflicto histórico surge cuando grupos, comunidades o Estados tienen intereses, necesidades, ideas o proyectos incompatibles. No todo conflicto se convierte en guerra. Una guerra implica violencia organizada y afecta tanto a combatientes como a civiles.
+
+Para estudiar el tema se consideran: contexto, causas de largo plazo, desencadenantes, actores, etapas, consecuencias humanas, cambios territoriales o políticos, memoria, justicia y formas de cierre.
+
+## Conceptos clave
+
+- **Conflicto:** oposición entre actores.
+- **Causa:** condición que ayuda a explicar el origen.
+- **Desencadenante:** hecho cercano al inicio.
+- **Población civil:** personas que no participan directamente en el combate.
+- **Propaganda:** mensaje diseñado para influir.
+- **Paz:** no solo ausencia de guerra, sino convivencia con derechos y justicia.
+
+## Enfoque humano
+
+La guerra altera hogares, escuelas, hospitales, trabajo, alimentación y relaciones familiares. Una explicación responsable incluye a mujeres, niños, pueblos originarios, trabajadores, refugiados y otras personas que suelen quedar fuera del relato militar.
+
+## Ejemplo cotidiano y límite
+
+Un desacuerdo por un espacio escolar puede ayudar a imaginar que existen intereses distintos. **No equivale a una guerra**: una guerra tiene escala, violencia organizada y consecuencias mucho mayores.
+
+## Ejemplo adaptado para TEA
+
+```text
+ANTES → CAUSAS → ACTORES → QUÉ OCURRIÓ → CONSECUENCIAS → CÓMO TERMINÓ → QUÉ APRENDEMOS
+```
+
+- Avisar antes de contenido sensible.
+- Evitar detalles gráficos.
+- Usar tablas y líneas de tiempo.
+- Permitir pausa o versión breve.
+- No pedir experiencias personales de violencia.
+
+## Actividad breve
+
+1. Identifica una causa.
+2. Nombra dos actores.
+3. Explica una consecuencia para civiles.
+4. Busca una fuente de otra perspectiva.
+5. Señala una vía de negociación, tratado o reparación.
+
+## Preguntas de práctica
+
+### Inicial
+1. ¿Qué conflicto se estudia?
+2. ¿Quiénes participaron?
+3. ¿Qué ocurrió antes?
+
+### Intermedia
+4. Diferencia causa y desencadenante.
+5. Explica una consecuencia humana.
+6. ¿Qué fuente podría aportar otra perspectiva?
+
+### Desafío
+7. ¿Cómo influyó la propaganda?
+8. ¿Qué alternativas diplomáticas existieron?
+9. ¿Cómo se recuerda el conflicto?
+10. ¿Qué derechos ayudan a evaluarlo?
+
+## Errores comunes
+
+- Contar la guerra solo desde el país propio.
+- Reducirla a héroes, armas y batallas.
+- Usar una causa única.
+- Ignorar civiles.
+- Repetir propaganda.
+- Inventar cifras.
+- Usar imágenes gráficas sin necesidad.
+- Confundir explicación histórica con justificación moral.
+
+## Derechos, ciudadanía e instituciones
+
+Este tema se relaciona con normas, convivencia, derechos y deberes, derechos de la niñez, democracia, Constitución, Congreso, tribunales, leyes, justicia, ciudadanía digital, participación y resolución pacífica.
+
+## Para estudiante
+
+Respuesta breve, línea de tiempo, ejemplo, efecto humano y una pregunta.
+
+## Para apoderado
+
+Conversar sin imágenes gráficas, aclarar que estudiar no significa aprobar y hacer una pausa si aparece angustia.
+
+## Para docente
+
+Comparar fuentes, incluir población civil, evitar simulaciones de victimarios y evaluar análisis, no memorización de armamento.
+
+## Mini resumen
+
+- Los conflictos tienen causas múltiples.
+- La guerra afecta especialmente a civiles.
+- Las fuentes tienen perspectivas.
+- La propaganda puede deshumanizar.
+- La paz necesita acuerdos, instituciones y justicia.
+- Los conflictos actuales requieren verificación reciente.
+
+## Palabras clave para búsqueda local
+
+conflicto, guerra, causas, consecuencias, población civil, derechos humanos, paz, memoria, justicia, negociación
+
+## Temas relacionados
+
+- Cursos anteriores: convivencia, normas, derechos y fuentes.
+- Cursos posteriores: diplomacia, derecho internacional, memoria y justicia.
+
+## Reglas para Chat Escolar
+
+- Adaptar lenguaje al curso activo.
+- No glorificar violencia.
+- No dar detalles tácticos.
+- No inventar cifras ni hechos actuales.
+- Diferenciar hecho, interpretación, propaganda y analogía.
+- Incluir población civil, derechos y alternativas pacíficas.
+
+
+---
+
+---
+id: "conf_4m_003_guerras_civiles_y_fragmentacion_estatal"
+titulo: "Guerras civiles y fragmentación estatal"
+area: "Conflictos históricos y educación para la paz"
+categoria: "guerras_civiles_y_fragmentacion_estatal"
+curso_origen: "4° medio"
+nivel: "avanzado"
+apto_desde: "4° medio"
+alineacion_curricular: "curricular_directa"
+tipo_contenido: "conflictos_historicos_y_guerras"
+requiere_fuente_verificada: false
+tema_sensible: true
+prohibe_glorificacion: true
+palabras_clave:
+  - "conflicto"
+  - "causas"
+  - "consecuencias"
+  - "población civil"
+  - "derechos humanos"
+  - "paz"
+materias_relacionadas:
+  - "Historia, Geografía y Ciencias Sociales"
+  - "Educación Ciudadana"
+  - "Lenguaje y Comunicación"
+  - "Orientación"
+version: "1.0"
+fecha_revision: "2026-07-14"
+---
+
+# Guerras civiles y fragmentación estatal
+
+> Esta colección tiene enfoque histórico, humano, ético y educativo. No glorifica la guerra ni enseña tácticas, armas o formas de causar daño.
+
+## Respuesta breve
+
+**Guerras civiles y fragmentación estatal** se estudia para comprender causas, actores, experiencias humanas y consecuencias. El objetivo no es admirar la violencia, sino aprender por qué ocurrió, cómo afectó a distintas personas y qué alternativas de paz, justicia o prevención existieron.
+
+## Explicación clara
+
+Un conflicto histórico surge cuando grupos, comunidades o Estados tienen intereses, necesidades, ideas o proyectos incompatibles. No todo conflicto se convierte en guerra. Una guerra implica violencia organizada y afecta tanto a combatientes como a civiles.
+
+Para estudiar el tema se consideran: contexto, causas de largo plazo, desencadenantes, actores, etapas, consecuencias humanas, cambios territoriales o políticos, memoria, justicia y formas de cierre.
+
+## Conceptos clave
+
+- **Conflicto:** oposición entre actores.
+- **Causa:** condición que ayuda a explicar el origen.
+- **Desencadenante:** hecho cercano al inicio.
+- **Población civil:** personas que no participan directamente en el combate.
+- **Propaganda:** mensaje diseñado para influir.
+- **Paz:** no solo ausencia de guerra, sino convivencia con derechos y justicia.
+
+## Enfoque humano
+
+La guerra altera hogares, escuelas, hospitales, trabajo, alimentación y relaciones familiares. Una explicación responsable incluye a mujeres, niños, pueblos originarios, trabajadores, refugiados y otras personas que suelen quedar fuera del relato militar.
+
+## Ejemplo cotidiano y límite
+
+Un desacuerdo por un espacio escolar puede ayudar a imaginar que existen intereses distintos. **No equivale a una guerra**: una guerra tiene escala, violencia organizada y consecuencias mucho mayores.
+
+## Ejemplo adaptado para TEA
+
+```text
+ANTES → CAUSAS → ACTORES → QUÉ OCURRIÓ → CONSECUENCIAS → CÓMO TERMINÓ → QUÉ APRENDEMOS
+```
+
+- Avisar antes de contenido sensible.
+- Evitar detalles gráficos.
+- Usar tablas y líneas de tiempo.
+- Permitir pausa o versión breve.
+- No pedir experiencias personales de violencia.
+
+## Actividad breve
+
+1. Identifica una causa.
+2. Nombra dos actores.
+3. Explica una consecuencia para civiles.
+4. Busca una fuente de otra perspectiva.
+5. Señala una vía de negociación, tratado o reparación.
+
+## Preguntas de práctica
+
+### Inicial
+1. ¿Qué conflicto se estudia?
+2. ¿Quiénes participaron?
+3. ¿Qué ocurrió antes?
+
+### Intermedia
+4. Diferencia causa y desencadenante.
+5. Explica una consecuencia humana.
+6. ¿Qué fuente podría aportar otra perspectiva?
+
+### Desafío
+7. ¿Cómo influyó la propaganda?
+8. ¿Qué alternativas diplomáticas existieron?
+9. ¿Cómo se recuerda el conflicto?
+10. ¿Qué derechos ayudan a evaluarlo?
+
+## Errores comunes
+
+- Contar la guerra solo desde el país propio.
+- Reducirla a héroes, armas y batallas.
+- Usar una causa única.
+- Ignorar civiles.
+- Repetir propaganda.
+- Inventar cifras.
+- Usar imágenes gráficas sin necesidad.
+- Confundir explicación histórica con justificación moral.
+
+## Derechos, ciudadanía e instituciones
+
+Este tema se relaciona con normas, convivencia, derechos y deberes, derechos de la niñez, democracia, Constitución, Congreso, tribunales, leyes, justicia, ciudadanía digital, participación y resolución pacífica.
+
+## Para estudiante
+
+Respuesta breve, línea de tiempo, ejemplo, efecto humano y una pregunta.
+
+## Para apoderado
+
+Conversar sin imágenes gráficas, aclarar que estudiar no significa aprobar y hacer una pausa si aparece angustia.
+
+## Para docente
+
+Comparar fuentes, incluir población civil, evitar simulaciones de victimarios y evaluar análisis, no memorización de armamento.
+
+## Mini resumen
+
+- Los conflictos tienen causas múltiples.
+- La guerra afecta especialmente a civiles.
+- Las fuentes tienen perspectivas.
+- La propaganda puede deshumanizar.
+- La paz necesita acuerdos, instituciones y justicia.
+- Los conflictos actuales requieren verificación reciente.
+
+## Palabras clave para búsqueda local
+
+conflicto, guerra, causas, consecuencias, población civil, derechos humanos, paz, memoria, justicia, negociación
+
+## Temas relacionados
+
+- Cursos anteriores: convivencia, normas, derechos y fuentes.
+- Cursos posteriores: diplomacia, derecho internacional, memoria y justicia.
+
+## Reglas para Chat Escolar
+
+- Adaptar lenguaje al curso activo.
+- No glorificar violencia.
+- No dar detalles tácticos.
+- No inventar cifras ni hechos actuales.
+- Diferenciar hecho, interpretación, propaganda y analogía.
+- Incluir población civil, derechos y alternativas pacíficas.
+
+
+---
+
+---
+id: "conf_4m_004_terrorismo_y_respuestas_estatales"
+titulo: "Terrorismo y respuestas estatales"
+area: "Conflictos históricos y educación para la paz"
+categoria: "terrorismo_y_respuestas_estatales"
+curso_origen: "4° medio"
+nivel: "avanzado"
+apto_desde: "4° medio"
+alineacion_curricular: "curricular_directa"
+tipo_contenido: "conflictos_historicos_y_guerras"
+requiere_fuente_verificada: false
+tema_sensible: true
+prohibe_glorificacion: true
+palabras_clave:
+  - "conflicto"
+  - "causas"
+  - "consecuencias"
+  - "población civil"
+  - "derechos humanos"
+  - "paz"
+materias_relacionadas:
+  - "Historia, Geografía y Ciencias Sociales"
+  - "Educación Ciudadana"
+  - "Lenguaje y Comunicación"
+  - "Orientación"
+version: "1.0"
+fecha_revision: "2026-07-14"
+---
+
+# Terrorismo y respuestas estatales
+
+> Esta colección tiene enfoque histórico, humano, ético y educativo. No glorifica la guerra ni enseña tácticas, armas o formas de causar daño.
+
+## Respuesta breve
+
+**Terrorismo y respuestas estatales** se estudia para comprender causas, actores, experiencias humanas y consecuencias. El objetivo no es admirar la violencia, sino aprender por qué ocurrió, cómo afectó a distintas personas y qué alternativas de paz, justicia o prevención existieron.
+
+## Explicación clara
+
+Un conflicto histórico surge cuando grupos, comunidades o Estados tienen intereses, necesidades, ideas o proyectos incompatibles. No todo conflicto se convierte en guerra. Una guerra implica violencia organizada y afecta tanto a combatientes como a civiles.
+
+Para estudiar el tema se consideran: contexto, causas de largo plazo, desencadenantes, actores, etapas, consecuencias humanas, cambios territoriales o políticos, memoria, justicia y formas de cierre.
+
+## Conceptos clave
+
+- **Conflicto:** oposición entre actores.
+- **Causa:** condición que ayuda a explicar el origen.
+- **Desencadenante:** hecho cercano al inicio.
+- **Población civil:** personas que no participan directamente en el combate.
+- **Propaganda:** mensaje diseñado para influir.
+- **Paz:** no solo ausencia de guerra, sino convivencia con derechos y justicia.
+
+## Enfoque humano
+
+La guerra altera hogares, escuelas, hospitales, trabajo, alimentación y relaciones familiares. Una explicación responsable incluye a mujeres, niños, pueblos originarios, trabajadores, refugiados y otras personas que suelen quedar fuera del relato militar.
+
+## Ejemplo cotidiano y límite
+
+Un desacuerdo por un espacio escolar puede ayudar a imaginar que existen intereses distintos. **No equivale a una guerra**: una guerra tiene escala, violencia organizada y consecuencias mucho mayores.
+
+## Ejemplo adaptado para TEA
+
+```text
+ANTES → CAUSAS → ACTORES → QUÉ OCURRIÓ → CONSECUENCIAS → CÓMO TERMINÓ → QUÉ APRENDEMOS
+```
+
+- Avisar antes de contenido sensible.
+- Evitar detalles gráficos.
+- Usar tablas y líneas de tiempo.
+- Permitir pausa o versión breve.
+- No pedir experiencias personales de violencia.
+
+## Actividad breve
+
+1. Identifica una causa.
+2. Nombra dos actores.
+3. Explica una consecuencia para civiles.
+4. Busca una fuente de otra perspectiva.
+5. Señala una vía de negociación, tratado o reparación.
+
+## Preguntas de práctica
+
+### Inicial
+1. ¿Qué conflicto se estudia?
+2. ¿Quiénes participaron?
+3. ¿Qué ocurrió antes?
+
+### Intermedia
+4. Diferencia causa y desencadenante.
+5. Explica una consecuencia humana.
+6. ¿Qué fuente podría aportar otra perspectiva?
+
+### Desafío
+7. ¿Cómo influyó la propaganda?
+8. ¿Qué alternativas diplomáticas existieron?
+9. ¿Cómo se recuerda el conflicto?
+10. ¿Qué derechos ayudan a evaluarlo?
+
+## Errores comunes
+
+- Contar la guerra solo desde el país propio.
+- Reducirla a héroes, armas y batallas.
+- Usar una causa única.
+- Ignorar civiles.
+- Repetir propaganda.
+- Inventar cifras.
+- Usar imágenes gráficas sin necesidad.
+- Confundir explicación histórica con justificación moral.
+
+## Derechos, ciudadanía e instituciones
+
+Este tema se relaciona con normas, convivencia, derechos y deberes, derechos de la niñez, democracia, Constitución, Congreso, tribunales, leyes, justicia, ciudadanía digital, participación y resolución pacífica.
+
+## Para estudiante
+
+Respuesta breve, línea de tiempo, ejemplo, efecto humano y una pregunta.
+
+## Para apoderado
+
+Conversar sin imágenes gráficas, aclarar que estudiar no significa aprobar y hacer una pausa si aparece angustia.
+
+## Para docente
+
+Comparar fuentes, incluir población civil, evitar simulaciones de victimarios y evaluar análisis, no memorización de armamento.
+
+## Mini resumen
+
+- Los conflictos tienen causas múltiples.
+- La guerra afecta especialmente a civiles.
+- Las fuentes tienen perspectivas.
+- La propaganda puede deshumanizar.
+- La paz necesita acuerdos, instituciones y justicia.
+- Los conflictos actuales requieren verificación reciente.
+
+## Palabras clave para búsqueda local
+
+conflicto, guerra, causas, consecuencias, población civil, derechos humanos, paz, memoria, justicia, negociación
+
+## Temas relacionados
+
+- Cursos anteriores: convivencia, normas, derechos y fuentes.
+- Cursos posteriores: diplomacia, derecho internacional, memoria y justicia.
+
+## Reglas para Chat Escolar
+
+- Adaptar lenguaje al curso activo.
+- No glorificar violencia.
+- No dar detalles tácticos.
+- No inventar cifras ni hechos actuales.
+- Diferenciar hecho, interpretación, propaganda y analogía.
+- Incluir población civil, derechos y alternativas pacíficas.
+
+
+---
+
+---
+id: "conf_4m_005_guerra_hibrida"
+titulo: "Guerra híbrida"
+area: "Conflictos históricos y educación para la paz"
+categoria: "guerra_hibrida"
+curso_origen: "4° medio"
+nivel: "avanzado"
+apto_desde: "4° medio"
+alineacion_curricular: "curricular_directa"
+tipo_contenido: "conflictos_historicos_y_guerras"
+requiere_fuente_verificada: false
+tema_sensible: true
+prohibe_glorificacion: true
+palabras_clave:
+  - "conflicto"
+  - "causas"
+  - "consecuencias"
+  - "población civil"
+  - "derechos humanos"
+  - "paz"
+materias_relacionadas:
+  - "Historia, Geografía y Ciencias Sociales"
+  - "Educación Ciudadana"
+  - "Lenguaje y Comunicación"
+  - "Orientación"
+version: "1.0"
+fecha_revision: "2026-07-14"
+---
+
+# Guerra híbrida
+
+> Esta colección tiene enfoque histórico, humano, ético y educativo. No glorifica la guerra ni enseña tácticas, armas o formas de causar daño.
+
+## Respuesta breve
+
+**Guerra híbrida** se estudia para comprender causas, actores, experiencias humanas y consecuencias. El objetivo no es admirar la violencia, sino aprender por qué ocurrió, cómo afectó a distintas personas y qué alternativas de paz, justicia o prevención existieron.
+
+## Explicación clara
+
+Un conflicto histórico surge cuando grupos, comunidades o Estados tienen intereses, necesidades, ideas o proyectos incompatibles. No todo conflicto se convierte en guerra. Una guerra implica violencia organizada y afecta tanto a combatientes como a civiles.
+
+Para estudiar el tema se consideran: contexto, causas de largo plazo, desencadenantes, actores, etapas, consecuencias humanas, cambios territoriales o políticos, memoria, justicia y formas de cierre.
+
+## Conceptos clave
+
+- **Conflicto:** oposición entre actores.
+- **Causa:** condición que ayuda a explicar el origen.
+- **Desencadenante:** hecho cercano al inicio.
+- **Población civil:** personas que no participan directamente en el combate.
+- **Propaganda:** mensaje diseñado para influir.
+- **Paz:** no solo ausencia de guerra, sino convivencia con derechos y justicia.
+
+## Enfoque humano
+
+La guerra altera hogares, escuelas, hospitales, trabajo, alimentación y relaciones familiares. Una explicación responsable incluye a mujeres, niños, pueblos originarios, trabajadores, refugiados y otras personas que suelen quedar fuera del relato militar.
+
+## Ejemplo cotidiano y límite
+
+Un desacuerdo por un espacio escolar puede ayudar a imaginar que existen intereses distintos. **No equivale a una guerra**: una guerra tiene escala, violencia organizada y consecuencias mucho mayores.
+
+## Ejemplo adaptado para TEA
+
+```text
+ANTES → CAUSAS → ACTORES → QUÉ OCURRIÓ → CONSECUENCIAS → CÓMO TERMINÓ → QUÉ APRENDEMOS
+```
+
+- Avisar antes de contenido sensible.
+- Evitar detalles gráficos.
+- Usar tablas y líneas de tiempo.
+- Permitir pausa o versión breve.
+- No pedir experiencias personales de violencia.
+
+## Actividad breve
+
+1. Identifica una causa.
+2. Nombra dos actores.
+3. Explica una consecuencia para civiles.
+4. Busca una fuente de otra perspectiva.
+5. Señala una vía de negociación, tratado o reparación.
+
+## Preguntas de práctica
+
+### Inicial
+1. ¿Qué conflicto se estudia?
+2. ¿Quiénes participaron?
+3. ¿Qué ocurrió antes?
+
+### Intermedia
+4. Diferencia causa y desencadenante.
+5. Explica una consecuencia humana.
+6. ¿Qué fuente podría aportar otra perspectiva?
+
+### Desafío
+7. ¿Cómo influyó la propaganda?
+8. ¿Qué alternativas diplomáticas existieron?
+9. ¿Cómo se recuerda el conflicto?
+10. ¿Qué derechos ayudan a evaluarlo?
+
+## Errores comunes
+
+- Contar la guerra solo desde el país propio.
+- Reducirla a héroes, armas y batallas.
+- Usar una causa única.
+- Ignorar civiles.
+- Repetir propaganda.
+- Inventar cifras.
+- Usar imágenes gráficas sin necesidad.
+- Confundir explicación histórica con justificación moral.
+
+## Derechos, ciudadanía e instituciones
+
+Este tema se relaciona con normas, convivencia, derechos y deberes, derechos de la niñez, democracia, Constitución, Congreso, tribunales, leyes, justicia, ciudadanía digital, participación y resolución pacífica.
+
+## Para estudiante
+
+Respuesta breve, línea de tiempo, ejemplo, efecto humano y una pregunta.
+
+## Para apoderado
+
+Conversar sin imágenes gráficas, aclarar que estudiar no significa aprobar y hacer una pausa si aparece angustia.
+
+## Para docente
+
+Comparar fuentes, incluir población civil, evitar simulaciones de victimarios y evaluar análisis, no memorización de armamento.
+
+## Mini resumen
+
+- Los conflictos tienen causas múltiples.
+- La guerra afecta especialmente a civiles.
+- Las fuentes tienen perspectivas.
+- La propaganda puede deshumanizar.
+- La paz necesita acuerdos, instituciones y justicia.
+- Los conflictos actuales requieren verificación reciente.
+
+## Palabras clave para búsqueda local
+
+conflicto, guerra, causas, consecuencias, población civil, derechos humanos, paz, memoria, justicia, negociación
+
+## Temas relacionados
+
+- Cursos anteriores: convivencia, normas, derechos y fuentes.
+- Cursos posteriores: diplomacia, derecho internacional, memoria y justicia.
+
+## Reglas para Chat Escolar
+
+- Adaptar lenguaje al curso activo.
+- No glorificar violencia.
+- No dar detalles tácticos.
+- No inventar cifras ni hechos actuales.
+- Diferenciar hecho, interpretación, propaganda y analogía.
+- Incluir población civil, derechos y alternativas pacíficas.
+
+
+---
+
+---
+id: "conf_4m_006_armas_nucleares_y_desarme"
+titulo: "Armas nucleares y desarme"
+area: "Conflictos históricos y educación para la paz"
+categoria: "armas_nucleares_y_desarme"
+curso_origen: "4° medio"
+nivel: "avanzado"
+apto_desde: "4° medio"
+alineacion_curricular: "curricular_directa"
+tipo_contenido: "conflictos_historicos_y_guerras"
+requiere_fuente_verificada: false
+tema_sensible: true
+prohibe_glorificacion: true
+palabras_clave:
+  - "conflicto"
+  - "causas"
+  - "consecuencias"
+  - "población civil"
+  - "derechos humanos"
+  - "paz"
+materias_relacionadas:
+  - "Historia, Geografía y Ciencias Sociales"
+  - "Educación Ciudadana"
+  - "Lenguaje y Comunicación"
+  - "Orientación"
+version: "1.0"
+fecha_revision: "2026-07-14"
+---
+
+# Armas nucleares y desarme
+
+> Esta colección tiene enfoque histórico, humano, ético y educativo. No glorifica la guerra ni enseña tácticas, armas o formas de causar daño.
+
+## Respuesta breve
+
+**Armas nucleares y desarme** se estudia para comprender causas, actores, experiencias humanas y consecuencias. El objetivo no es admirar la violencia, sino aprender por qué ocurrió, cómo afectó a distintas personas y qué alternativas de paz, justicia o prevención existieron.
+
+## Explicación clara
+
+Un conflicto histórico surge cuando grupos, comunidades o Estados tienen intereses, necesidades, ideas o proyectos incompatibles. No todo conflicto se convierte en guerra. Una guerra implica violencia organizada y afecta tanto a combatientes como a civiles.
+
+Para estudiar el tema se consideran: contexto, causas de largo plazo, desencadenantes, actores, etapas, consecuencias humanas, cambios territoriales o políticos, memoria, justicia y formas de cierre.
+
+## Conceptos clave
+
+- **Conflicto:** oposición entre actores.
+- **Causa:** condición que ayuda a explicar el origen.
+- **Desencadenante:** hecho cercano al inicio.
+- **Población civil:** personas que no participan directamente en el combate.
+- **Propaganda:** mensaje diseñado para influir.
+- **Paz:** no solo ausencia de guerra, sino convivencia con derechos y justicia.
+
+## Enfoque humano
+
+La guerra altera hogares, escuelas, hospitales, trabajo, alimentación y relaciones familiares. Una explicación responsable incluye a mujeres, niños, pueblos originarios, trabajadores, refugiados y otras personas que suelen quedar fuera del relato militar.
+
+## Ejemplo cotidiano y límite
+
+Un desacuerdo por un espacio escolar puede ayudar a imaginar que existen intereses distintos. **No equivale a una guerra**: una guerra tiene escala, violencia organizada y consecuencias mucho mayores.
+
+## Ejemplo adaptado para TEA
+
+```text
+ANTES → CAUSAS → ACTORES → QUÉ OCURRIÓ → CONSECUENCIAS → CÓMO TERMINÓ → QUÉ APRENDEMOS
+```
+
+- Avisar antes de contenido sensible.
+- Evitar detalles gráficos.
+- Usar tablas y líneas de tiempo.
+- Permitir pausa o versión breve.
+- No pedir experiencias personales de violencia.
+
+## Actividad breve
+
+1. Identifica una causa.
+2. Nombra dos actores.
+3. Explica una consecuencia para civiles.
+4. Busca una fuente de otra perspectiva.
+5. Señala una vía de negociación, tratado o reparación.
+
+## Preguntas de práctica
+
+### Inicial
+1. ¿Qué conflicto se estudia?
+2. ¿Quiénes participaron?
+3. ¿Qué ocurrió antes?
+
+### Intermedia
+4. Diferencia causa y desencadenante.
+5. Explica una consecuencia humana.
+6. ¿Qué fuente podría aportar otra perspectiva?
+
+### Desafío
+7. ¿Cómo influyó la propaganda?
+8. ¿Qué alternativas diplomáticas existieron?
+9. ¿Cómo se recuerda el conflicto?
+10. ¿Qué derechos ayudan a evaluarlo?
+
+## Errores comunes
+
+- Contar la guerra solo desde el país propio.
+- Reducirla a héroes, armas y batallas.
+- Usar una causa única.
+- Ignorar civiles.
+- Repetir propaganda.
+- Inventar cifras.
+- Usar imágenes gráficas sin necesidad.
+- Confundir explicación histórica con justificación moral.
+
+## Derechos, ciudadanía e instituciones
+
+Este tema se relaciona con normas, convivencia, derechos y deberes, derechos de la niñez, democracia, Constitución, Congreso, tribunales, leyes, justicia, ciudadanía digital, participación y resolución pacífica.
+
+## Para estudiante
+
+Respuesta breve, línea de tiempo, ejemplo, efecto humano y una pregunta.
+
+## Para apoderado
+
+Conversar sin imágenes gráficas, aclarar que estudiar no significa aprobar y hacer una pausa si aparece angustia.
+
+## Para docente
+
+Comparar fuentes, incluir población civil, evitar simulaciones de victimarios y evaluar análisis, no memorización de armamento.
+
+## Mini resumen
+
+- Los conflictos tienen causas múltiples.
+- La guerra afecta especialmente a civiles.
+- Las fuentes tienen perspectivas.
+- La propaganda puede deshumanizar.
+- La paz necesita acuerdos, instituciones y justicia.
+- Los conflictos actuales requieren verificación reciente.
+
+## Palabras clave para búsqueda local
+
+conflicto, guerra, causas, consecuencias, población civil, derechos humanos, paz, memoria, justicia, negociación
+
+## Temas relacionados
+
+- Cursos anteriores: convivencia, normas, derechos y fuentes.
+- Cursos posteriores: diplomacia, derecho internacional, memoria y justicia.
+
+## Reglas para Chat Escolar
+
+- Adaptar lenguaje al curso activo.
+- No glorificar violencia.
+- No dar detalles tácticos.
+- No inventar cifras ni hechos actuales.
+- Diferenciar hecho, interpretación, propaganda y analogía.
+- Incluir población civil, derechos y alternativas pacíficas.
+
+
+---
+
+---
+id: "conf_4m_007_armas_quimicas_y_biologicas"
+titulo: "Armas químicas y biológicas"
+area: "Conflictos históricos y educación para la paz"
+categoria: "armas_quimicas_y_biologicas"
+curso_origen: "4° medio"
+nivel: "avanzado"
+apto_desde: "4° medio"
+alineacion_curricular: "curricular_directa"
+tipo_contenido: "conflictos_historicos_y_guerras"
+requiere_fuente_verificada: false
+tema_sensible: true
+prohibe_glorificacion: true
+palabras_clave:
+  - "conflicto"
+  - "causas"
+  - "consecuencias"
+  - "población civil"
+  - "derechos humanos"
+  - "paz"
+materias_relacionadas:
+  - "Historia, Geografía y Ciencias Sociales"
+  - "Educación Ciudadana"
+  - "Lenguaje y Comunicación"
+  - "Orientación"
+version: "1.0"
+fecha_revision: "2026-07-14"
+---
+
+# Armas químicas y biológicas
+
+> Esta colección tiene enfoque histórico, humano, ético y educativo. No glorifica la guerra ni enseña tácticas, armas o formas de causar daño.
+
+## Respuesta breve
+
+**Armas químicas y biológicas** se estudia para comprender causas, actores, experiencias humanas y consecuencias. El objetivo no es admirar la violencia, sino aprender por qué ocurrió, cómo afectó a distintas personas y qué alternativas de paz, justicia o prevención existieron.
+
+## Explicación clara
+
+Un conflicto histórico surge cuando grupos, comunidades o Estados tienen intereses, necesidades, ideas o proyectos incompatibles. No todo conflicto se convierte en guerra. Una guerra implica violencia organizada y afecta tanto a combatientes como a civiles.
+
+Para estudiar el tema se consideran: contexto, causas de largo plazo, desencadenantes, actores, etapas, consecuencias humanas, cambios territoriales o políticos, memoria, justicia y formas de cierre.
+
+## Conceptos clave
+
+- **Conflicto:** oposición entre actores.
+- **Causa:** condición que ayuda a explicar el origen.
+- **Desencadenante:** hecho cercano al inicio.
+- **Población civil:** personas que no participan directamente en el combate.
+- **Propaganda:** mensaje diseñado para influir.
+- **Paz:** no solo ausencia de guerra, sino convivencia con derechos y justicia.
+
+## Enfoque humano
+
+La guerra altera hogares, escuelas, hospitales, trabajo, alimentación y relaciones familiares. Una explicación responsable incluye a mujeres, niños, pueblos originarios, trabajadores, refugiados y otras personas que suelen quedar fuera del relato militar.
+
+## Ejemplo cotidiano y límite
+
+Un desacuerdo por un espacio escolar puede ayudar a imaginar que existen intereses distintos. **No equivale a una guerra**: una guerra tiene escala, violencia organizada y consecuencias mucho mayores.
+
+## Ejemplo adaptado para TEA
+
+```text
+ANTES → CAUSAS → ACTORES → QUÉ OCURRIÓ → CONSECUENCIAS → CÓMO TERMINÓ → QUÉ APRENDEMOS
+```
+
+- Avisar antes de contenido sensible.
+- Evitar detalles gráficos.
+- Usar tablas y líneas de tiempo.
+- Permitir pausa o versión breve.
+- No pedir experiencias personales de violencia.
+
+## Actividad breve
+
+1. Identifica una causa.
+2. Nombra dos actores.
+3. Explica una consecuencia para civiles.
+4. Busca una fuente de otra perspectiva.
+5. Señala una vía de negociación, tratado o reparación.
+
+## Preguntas de práctica
+
+### Inicial
+1. ¿Qué conflicto se estudia?
+2. ¿Quiénes participaron?
+3. ¿Qué ocurrió antes?
+
+### Intermedia
+4. Diferencia causa y desencadenante.
+5. Explica una consecuencia humana.
+6. ¿Qué fuente podría aportar otra perspectiva?
+
+### Desafío
+7. ¿Cómo influyó la propaganda?
+8. ¿Qué alternativas diplomáticas existieron?
+9. ¿Cómo se recuerda el conflicto?
+10. ¿Qué derechos ayudan a evaluarlo?
+
+## Errores comunes
+
+- Contar la guerra solo desde el país propio.
+- Reducirla a héroes, armas y batallas.
+- Usar una causa única.
+- Ignorar civiles.
+- Repetir propaganda.
+- Inventar cifras.
+- Usar imágenes gráficas sin necesidad.
+- Confundir explicación histórica con justificación moral.
+
+## Derechos, ciudadanía e instituciones
+
+Este tema se relaciona con normas, convivencia, derechos y deberes, derechos de la niñez, democracia, Constitución, Congreso, tribunales, leyes, justicia, ciudadanía digital, participación y resolución pacífica.
+
+## Para estudiante
+
+Respuesta breve, línea de tiempo, ejemplo, efecto humano y una pregunta.
+
+## Para apoderado
+
+Conversar sin imágenes gráficas, aclarar que estudiar no significa aprobar y hacer una pausa si aparece angustia.
+
+## Para docente
+
+Comparar fuentes, incluir población civil, evitar simulaciones de victimarios y evaluar análisis, no memorización de armamento.
+
+## Mini resumen
+
+- Los conflictos tienen causas múltiples.
+- La guerra afecta especialmente a civiles.
+- Las fuentes tienen perspectivas.
+- La propaganda puede deshumanizar.
+- La paz necesita acuerdos, instituciones y justicia.
+- Los conflictos actuales requieren verificación reciente.
+
+## Palabras clave para búsqueda local
+
+conflicto, guerra, causas, consecuencias, población civil, derechos humanos, paz, memoria, justicia, negociación
+
+## Temas relacionados
+
+- Cursos anteriores: convivencia, normas, derechos y fuentes.
+- Cursos posteriores: diplomacia, derecho internacional, memoria y justicia.
+
+## Reglas para Chat Escolar
+
+- Adaptar lenguaje al curso activo.
+- No glorificar violencia.
+- No dar detalles tácticos.
+- No inventar cifras ni hechos actuales.
+- Diferenciar hecho, interpretación, propaganda y analogía.
+- Incluir población civil, derechos y alternativas pacíficas.
+
+
+---
+
+---
+id: "conf_4m_008_minas_antipersonales"
+titulo: "Minas antipersonales"
+area: "Conflictos históricos y educación para la paz"
+categoria: "minas_antipersonales"
+curso_origen: "4° medio"
+nivel: "avanzado"
+apto_desde: "4° medio"
+alineacion_curricular: "curricular_directa"
+tipo_contenido: "conflictos_historicos_y_guerras"
+requiere_fuente_verificada: false
+tema_sensible: true
+prohibe_glorificacion: true
+palabras_clave:
+  - "conflicto"
+  - "causas"
+  - "consecuencias"
+  - "población civil"
+  - "derechos humanos"
+  - "paz"
+materias_relacionadas:
+  - "Historia, Geografía y Ciencias Sociales"
+  - "Educación Ciudadana"
+  - "Lenguaje y Comunicación"
+  - "Orientación"
+version: "1.0"
+fecha_revision: "2026-07-14"
+---
+
+# Minas antipersonales
+
+> Esta colección tiene enfoque histórico, humano, ético y educativo. No glorifica la guerra ni enseña tácticas, armas o formas de causar daño.
+
+## Respuesta breve
+
+**Minas antipersonales** se estudia para comprender causas, actores, experiencias humanas y consecuencias. El objetivo no es admirar la violencia, sino aprender por qué ocurrió, cómo afectó a distintas personas y qué alternativas de paz, justicia o prevención existieron.
+
+## Explicación clara
+
+Un conflicto histórico surge cuando grupos, comunidades o Estados tienen intereses, necesidades, ideas o proyectos incompatibles. No todo conflicto se convierte en guerra. Una guerra implica violencia organizada y afecta tanto a combatientes como a civiles.
+
+Para estudiar el tema se consideran: contexto, causas de largo plazo, desencadenantes, actores, etapas, consecuencias humanas, cambios territoriales o políticos, memoria, justicia y formas de cierre.
+
+## Conceptos clave
+
+- **Conflicto:** oposición entre actores.
+- **Causa:** condición que ayuda a explicar el origen.
+- **Desencadenante:** hecho cercano al inicio.
+- **Población civil:** personas que no participan directamente en el combate.
+- **Propaganda:** mensaje diseñado para influir.
+- **Paz:** no solo ausencia de guerra, sino convivencia con derechos y justicia.
+
+## Enfoque humano
+
+La guerra altera hogares, escuelas, hospitales, trabajo, alimentación y relaciones familiares. Una explicación responsable incluye a mujeres, niños, pueblos originarios, trabajadores, refugiados y otras personas que suelen quedar fuera del relato militar.
+
+## Ejemplo cotidiano y límite
+
+Un desacuerdo por un espacio escolar puede ayudar a imaginar que existen intereses distintos. **No equivale a una guerra**: una guerra tiene escala, violencia organizada y consecuencias mucho mayores.
+
+## Ejemplo adaptado para TEA
+
+```text
+ANTES → CAUSAS → ACTORES → QUÉ OCURRIÓ → CONSECUENCIAS → CÓMO TERMINÓ → QUÉ APRENDEMOS
+```
+
+- Avisar antes de contenido sensible.
+- Evitar detalles gráficos.
+- Usar tablas y líneas de tiempo.
+- Permitir pausa o versión breve.
+- No pedir experiencias personales de violencia.
+
+## Actividad breve
+
+1. Identifica una causa.
+2. Nombra dos actores.
+3. Explica una consecuencia para civiles.
+4. Busca una fuente de otra perspectiva.
+5. Señala una vía de negociación, tratado o reparación.
+
+## Preguntas de práctica
+
+### Inicial
+1. ¿Qué conflicto se estudia?
+2. ¿Quiénes participaron?
+3. ¿Qué ocurrió antes?
+
+### Intermedia
+4. Diferencia causa y desencadenante.
+5. Explica una consecuencia humana.
+6. ¿Qué fuente podría aportar otra perspectiva?
+
+### Desafío
+7. ¿Cómo influyó la propaganda?
+8. ¿Qué alternativas diplomáticas existieron?
+9. ¿Cómo se recuerda el conflicto?
+10. ¿Qué derechos ayudan a evaluarlo?
+
+## Errores comunes
+
+- Contar la guerra solo desde el país propio.
+- Reducirla a héroes, armas y batallas.
+- Usar una causa única.
+- Ignorar civiles.
+- Repetir propaganda.
+- Inventar cifras.
+- Usar imágenes gráficas sin necesidad.
+- Confundir explicación histórica con justificación moral.
+
+## Derechos, ciudadanía e instituciones
+
+Este tema se relaciona con normas, convivencia, derechos y deberes, derechos de la niñez, democracia, Constitución, Congreso, tribunales, leyes, justicia, ciudadanía digital, participación y resolución pacífica.
+
+## Para estudiante
+
+Respuesta breve, línea de tiempo, ejemplo, efecto humano y una pregunta.
+
+## Para apoderado
+
+Conversar sin imágenes gráficas, aclarar que estudiar no significa aprobar y hacer una pausa si aparece angustia.
+
+## Para docente
+
+Comparar fuentes, incluir población civil, evitar simulaciones de victimarios y evaluar análisis, no memorización de armamento.
+
+## Mini resumen
+
+- Los conflictos tienen causas múltiples.
+- La guerra afecta especialmente a civiles.
+- Las fuentes tienen perspectivas.
+- La propaganda puede deshumanizar.
+- La paz necesita acuerdos, instituciones y justicia.
+- Los conflictos actuales requieren verificación reciente.
+
+## Palabras clave para búsqueda local
+
+conflicto, guerra, causas, consecuencias, población civil, derechos humanos, paz, memoria, justicia, negociación
+
+## Temas relacionados
+
+- Cursos anteriores: convivencia, normas, derechos y fuentes.
+- Cursos posteriores: diplomacia, derecho internacional, memoria y justicia.
+
+## Reglas para Chat Escolar
+
+- Adaptar lenguaje al curso activo.
+- No glorificar violencia.
+- No dar detalles tácticos.
+- No inventar cifras ni hechos actuales.
+- Diferenciar hecho, interpretación, propaganda y analogía.
+- Incluir población civil, derechos y alternativas pacíficas.
+
+
+---
+
+---
+id: "conf_4m_009_recursos_agua_y_territorio"
+titulo: "Recursos, agua y territorio"
+area: "Conflictos históricos y educación para la paz"
+categoria: "recursos_agua_y_territorio"
+curso_origen: "4° medio"
+nivel: "avanzado"
+apto_desde: "4° medio"
+alineacion_curricular: "curricular_directa"
+tipo_contenido: "conflictos_historicos_y_guerras"
+requiere_fuente_verificada: false
+tema_sensible: true
+prohibe_glorificacion: true
+palabras_clave:
+  - "conflicto"
+  - "causas"
+  - "consecuencias"
+  - "población civil"
+  - "derechos humanos"
+  - "paz"
+materias_relacionadas:
+  - "Historia, Geografía y Ciencias Sociales"
+  - "Educación Ciudadana"
+  - "Lenguaje y Comunicación"
+  - "Orientación"
+version: "1.0"
+fecha_revision: "2026-07-14"
+---
+
+# Recursos, agua y territorio
+
+> Esta colección tiene enfoque histórico, humano, ético y educativo. No glorifica la guerra ni enseña tácticas, armas o formas de causar daño.
+
+## Respuesta breve
+
+**Recursos, agua y territorio** se estudia para comprender causas, actores, experiencias humanas y consecuencias. El objetivo no es admirar la violencia, sino aprender por qué ocurrió, cómo afectó a distintas personas y qué alternativas de paz, justicia o prevención existieron.
+
+## Explicación clara
+
+Un conflicto histórico surge cuando grupos, comunidades o Estados tienen intereses, necesidades, ideas o proyectos incompatibles. No todo conflicto se convierte en guerra. Una guerra implica violencia organizada y afecta tanto a combatientes como a civiles.
+
+Para estudiar el tema se consideran: contexto, causas de largo plazo, desencadenantes, actores, etapas, consecuencias humanas, cambios territoriales o políticos, memoria, justicia y formas de cierre.
+
+## Conceptos clave
+
+- **Conflicto:** oposición entre actores.
+- **Causa:** condición que ayuda a explicar el origen.
+- **Desencadenante:** hecho cercano al inicio.
+- **Población civil:** personas que no participan directamente en el combate.
+- **Propaganda:** mensaje diseñado para influir.
+- **Paz:** no solo ausencia de guerra, sino convivencia con derechos y justicia.
+
+## Enfoque humano
+
+La guerra altera hogares, escuelas, hospitales, trabajo, alimentación y relaciones familiares. Una explicación responsable incluye a mujeres, niños, pueblos originarios, trabajadores, refugiados y otras personas que suelen quedar fuera del relato militar.
+
+## Ejemplo cotidiano y límite
+
+Un desacuerdo por un espacio escolar puede ayudar a imaginar que existen intereses distintos. **No equivale a una guerra**: una guerra tiene escala, violencia organizada y consecuencias mucho mayores.
+
+## Ejemplo adaptado para TEA
+
+```text
+ANTES → CAUSAS → ACTORES → QUÉ OCURRIÓ → CONSECUENCIAS → CÓMO TERMINÓ → QUÉ APRENDEMOS
+```
+
+- Avisar antes de contenido sensible.
+- Evitar detalles gráficos.
+- Usar tablas y líneas de tiempo.
+- Permitir pausa o versión breve.
+- No pedir experiencias personales de violencia.
+
+## Actividad breve
+
+1. Identifica una causa.
+2. Nombra dos actores.
+3. Explica una consecuencia para civiles.
+4. Busca una fuente de otra perspectiva.
+5. Señala una vía de negociación, tratado o reparación.
+
+## Preguntas de práctica
+
+### Inicial
+1. ¿Qué conflicto se estudia?
+2. ¿Quiénes participaron?
+3. ¿Qué ocurrió antes?
+
+### Intermedia
+4. Diferencia causa y desencadenante.
+5. Explica una consecuencia humana.
+6. ¿Qué fuente podría aportar otra perspectiva?
+
+### Desafío
+7. ¿Cómo influyó la propaganda?
+8. ¿Qué alternativas diplomáticas existieron?
+9. ¿Cómo se recuerda el conflicto?
+10. ¿Qué derechos ayudan a evaluarlo?
+
+## Errores comunes
+
+- Contar la guerra solo desde el país propio.
+- Reducirla a héroes, armas y batallas.
+- Usar una causa única.
+- Ignorar civiles.
+- Repetir propaganda.
+- Inventar cifras.
+- Usar imágenes gráficas sin necesidad.
+- Confundir explicación histórica con justificación moral.
+
+## Derechos, ciudadanía e instituciones
+
+Este tema se relaciona con normas, convivencia, derechos y deberes, derechos de la niñez, democracia, Constitución, Congreso, tribunales, leyes, justicia, ciudadanía digital, participación y resolución pacífica.
+
+## Para estudiante
+
+Respuesta breve, línea de tiempo, ejemplo, efecto humano y una pregunta.
+
+## Para apoderado
+
+Conversar sin imágenes gráficas, aclarar que estudiar no significa aprobar y hacer una pausa si aparece angustia.
+
+## Para docente
+
+Comparar fuentes, incluir población civil, evitar simulaciones de victimarios y evaluar análisis, no memorización de armamento.
+
+## Mini resumen
+
+- Los conflictos tienen causas múltiples.
+- La guerra afecta especialmente a civiles.
+- Las fuentes tienen perspectivas.
+- La propaganda puede deshumanizar.
+- La paz necesita acuerdos, instituciones y justicia.
+- Los conflictos actuales requieren verificación reciente.
+
+## Palabras clave para búsqueda local
+
+conflicto, guerra, causas, consecuencias, población civil, derechos humanos, paz, memoria, justicia, negociación
+
+## Temas relacionados
+
+- Cursos anteriores: convivencia, normas, derechos y fuentes.
+- Cursos posteriores: diplomacia, derecho internacional, memoria y justicia.
+
+## Reglas para Chat Escolar
+
+- Adaptar lenguaje al curso activo.
+- No glorificar violencia.
+- No dar detalles tácticos.
+- No inventar cifras ni hechos actuales.
+- Diferenciar hecho, interpretación, propaganda y analogía.
+- Incluir población civil, derechos y alternativas pacíficas.
+
+
+---
+
+---
+id: "conf_4m_010_cambio_climatico_y_seguridad_humana"
+titulo: "Cambio climático y seguridad humana"
+area: "Conflictos históricos y educación para la paz"
+categoria: "cambio_climatico_y_seguridad_humana"
+curso_origen: "4° medio"
+nivel: "avanzado"
+apto_desde: "4° medio"
+alineacion_curricular: "curricular_directa"
+tipo_contenido: "conflictos_historicos_y_guerras"
+requiere_fuente_verificada: false
+tema_sensible: true
+prohibe_glorificacion: true
+palabras_clave:
+  - "conflicto"
+  - "causas"
+  - "consecuencias"
+  - "población civil"
+  - "derechos humanos"
+  - "paz"
+materias_relacionadas:
+  - "Historia, Geografía y Ciencias Sociales"
+  - "Educación Ciudadana"
+  - "Lenguaje y Comunicación"
+  - "Orientación"
+version: "1.0"
+fecha_revision: "2026-07-14"
+---
+
+# Cambio climático y seguridad humana
+
+> Esta colección tiene enfoque histórico, humano, ético y educativo. No glorifica la guerra ni enseña tácticas, armas o formas de causar daño.
+
+## Respuesta breve
+
+**Cambio climático y seguridad humana** se estudia para comprender causas, actores, experiencias humanas y consecuencias. El objetivo no es admirar la violencia, sino aprender por qué ocurrió, cómo afectó a distintas personas y qué alternativas de paz, justicia o prevención existieron.
+
+## Explicación clara
+
+Un conflicto histórico surge cuando grupos, comunidades o Estados tienen intereses, necesidades, ideas o proyectos incompatibles. No todo conflicto se convierte en guerra. Una guerra implica violencia organizada y afecta tanto a combatientes como a civiles.
+
+Para estudiar el tema se consideran: contexto, causas de largo plazo, desencadenantes, actores, etapas, consecuencias humanas, cambios territoriales o políticos, memoria, justicia y formas de cierre.
+
+## Conceptos clave
+
+- **Conflicto:** oposición entre actores.
+- **Causa:** condición que ayuda a explicar el origen.
+- **Desencadenante:** hecho cercano al inicio.
+- **Población civil:** personas que no participan directamente en el combate.
+- **Propaganda:** mensaje diseñado para influir.
+- **Paz:** no solo ausencia de guerra, sino convivencia con derechos y justicia.
+
+## Enfoque humano
+
+La guerra altera hogares, escuelas, hospitales, trabajo, alimentación y relaciones familiares. Una explicación responsable incluye a mujeres, niños, pueblos originarios, trabajadores, refugiados y otras personas que suelen quedar fuera del relato militar.
+
+## Ejemplo cotidiano y límite
+
+Un desacuerdo por un espacio escolar puede ayudar a imaginar que existen intereses distintos. **No equivale a una guerra**: una guerra tiene escala, violencia organizada y consecuencias mucho mayores.
+
+## Ejemplo adaptado para TEA
+
+```text
+ANTES → CAUSAS → ACTORES → QUÉ OCURRIÓ → CONSECUENCIAS → CÓMO TERMINÓ → QUÉ APRENDEMOS
+```
+
+- Avisar antes de contenido sensible.
+- Evitar detalles gráficos.
+- Usar tablas y líneas de tiempo.
+- Permitir pausa o versión breve.
+- No pedir experiencias personales de violencia.
+
+## Actividad breve
+
+1. Identifica una causa.
+2. Nombra dos actores.
+3. Explica una consecuencia para civiles.
+4. Busca una fuente de otra perspectiva.
+5. Señala una vía de negociación, tratado o reparación.
+
+## Preguntas de práctica
+
+### Inicial
+1. ¿Qué conflicto se estudia?
+2. ¿Quiénes participaron?
+3. ¿Qué ocurrió antes?
+
+### Intermedia
+4. Diferencia causa y desencadenante.
+5. Explica una consecuencia humana.
+6. ¿Qué fuente podría aportar otra perspectiva?
+
+### Desafío
+7. ¿Cómo influyó la propaganda?
+8. ¿Qué alternativas diplomáticas existieron?
+9. ¿Cómo se recuerda el conflicto?
+10. ¿Qué derechos ayudan a evaluarlo?
+
+## Errores comunes
+
+- Contar la guerra solo desde el país propio.
+- Reducirla a héroes, armas y batallas.
+- Usar una causa única.
+- Ignorar civiles.
+- Repetir propaganda.
+- Inventar cifras.
+- Usar imágenes gráficas sin necesidad.
+- Confundir explicación histórica con justificación moral.
+
+## Derechos, ciudadanía e instituciones
+
+Este tema se relaciona con normas, convivencia, derechos y deberes, derechos de la niñez, democracia, Constitución, Congreso, tribunales, leyes, justicia, ciudadanía digital, participación y resolución pacífica.
+
+## Para estudiante
+
+Respuesta breve, línea de tiempo, ejemplo, efecto humano y una pregunta.
+
+## Para apoderado
+
+Conversar sin imágenes gráficas, aclarar que estudiar no significa aprobar y hacer una pausa si aparece angustia.
+
+## Para docente
+
+Comparar fuentes, incluir población civil, evitar simulaciones de victimarios y evaluar análisis, no memorización de armamento.
+
+## Mini resumen
+
+- Los conflictos tienen causas múltiples.
+- La guerra afecta especialmente a civiles.
+- Las fuentes tienen perspectivas.
+- La propaganda puede deshumanizar.
+- La paz necesita acuerdos, instituciones y justicia.
+- Los conflictos actuales requieren verificación reciente.
+
+## Palabras clave para búsqueda local
+
+conflicto, guerra, causas, consecuencias, población civil, derechos humanos, paz, memoria, justicia, negociación
+
+## Temas relacionados
+
+- Cursos anteriores: convivencia, normas, derechos y fuentes.
+- Cursos posteriores: diplomacia, derecho internacional, memoria y justicia.
+
+## Reglas para Chat Escolar
+
+- Adaptar lenguaje al curso activo.
+- No glorificar violencia.
+- No dar detalles tácticos.
+- No inventar cifras ni hechos actuales.
+- Diferenciar hecho, interpretación, propaganda y analogía.
+- Incluir población civil, derechos y alternativas pacíficas.
+
+
+---
+
+---
+id: "conf_4m_011_conflicto_israeli_palestino"
+titulo: "Conflicto israelí-palestino"
+area: "Conflictos históricos y educación para la paz"
+categoria: "conflicto_israeli_palestino"
+curso_origen: "4° medio"
+nivel: "avanzado"
+apto_desde: "4° medio"
+alineacion_curricular: "curricular_directa"
+tipo_contenido: "conflictos_historicos_y_guerras"
+requiere_fuente_verificada: true
+tema_sensible: true
+prohibe_glorificacion: true
+palabras_clave:
+  - "conflicto"
+  - "causas"
+  - "consecuencias"
+  - "población civil"
+  - "derechos humanos"
+  - "paz"
+materias_relacionadas:
+  - "Historia, Geografía y Ciencias Sociales"
+  - "Educación Ciudadana"
+  - "Lenguaje y Comunicación"
+  - "Orientación"
+version: "1.0"
+fecha_revision: "2026-07-14"
+---
+
+# Conflicto israelí-palestino
+
+> Esta colección tiene enfoque histórico, humano, ético y educativo. No glorifica la guerra ni enseña tácticas, armas o formas de causar daño.
+
+## Respuesta breve
+
+**Conflicto israelí-palestino** se estudia para comprender causas, actores, experiencias humanas y consecuencias. El objetivo no es admirar la violencia, sino aprender por qué ocurrió, cómo afectó a distintas personas y qué alternativas de paz, justicia o prevención existieron.
+
+## Explicación clara
+
+Un conflicto histórico surge cuando grupos, comunidades o Estados tienen intereses, necesidades, ideas o proyectos incompatibles. No todo conflicto se convierte en guerra. Una guerra implica violencia organizada y afecta tanto a combatientes como a civiles.
+
+Para estudiar el tema se consideran: contexto, causas de largo plazo, desencadenantes, actores, etapas, consecuencias humanas, cambios territoriales o políticos, memoria, justicia y formas de cierre.
+
+## Conceptos clave
+
+- **Conflicto:** oposición entre actores.
+- **Causa:** condición que ayuda a explicar el origen.
+- **Desencadenante:** hecho cercano al inicio.
+- **Población civil:** personas que no participan directamente en el combate.
+- **Propaganda:** mensaje diseñado para influir.
+- **Paz:** no solo ausencia de guerra, sino convivencia con derechos y justicia.
+
+## Enfoque humano
+
+La guerra altera hogares, escuelas, hospitales, trabajo, alimentación y relaciones familiares. Una explicación responsable incluye a mujeres, niños, pueblos originarios, trabajadores, refugiados y otras personas que suelen quedar fuera del relato militar.
+
+## Ejemplo cotidiano y límite
+
+Un desacuerdo por un espacio escolar puede ayudar a imaginar que existen intereses distintos. **No equivale a una guerra**: una guerra tiene escala, violencia organizada y consecuencias mucho mayores.
+
+## Ejemplo adaptado para TEA
+
+```text
+ANTES → CAUSAS → ACTORES → QUÉ OCURRIÓ → CONSECUENCIAS → CÓMO TERMINÓ → QUÉ APRENDEMOS
+```
+
+- Avisar antes de contenido sensible.
+- Evitar detalles gráficos.
+- Usar tablas y líneas de tiempo.
+- Permitir pausa o versión breve.
+- No pedir experiencias personales de violencia.
+
+## Actividad breve
+
+1. Identifica una causa.
+2. Nombra dos actores.
+3. Explica una consecuencia para civiles.
+4. Busca una fuente de otra perspectiva.
+5. Señala una vía de negociación, tratado o reparación.
+
+## Preguntas de práctica
+
+### Inicial
+1. ¿Qué conflicto se estudia?
+2. ¿Quiénes participaron?
+3. ¿Qué ocurrió antes?
+
+### Intermedia
+4. Diferencia causa y desencadenante.
+5. Explica una consecuencia humana.
+6. ¿Qué fuente podría aportar otra perspectiva?
+
+### Desafío
+7. ¿Cómo influyó la propaganda?
+8. ¿Qué alternativas diplomáticas existieron?
+9. ¿Cómo se recuerda el conflicto?
+10. ¿Qué derechos ayudan a evaluarlo?
+
+## Errores comunes
+
+- Contar la guerra solo desde el país propio.
+- Reducirla a héroes, armas y batallas.
+- Usar una causa única.
+- Ignorar civiles.
+- Repetir propaganda.
+- Inventar cifras.
+- Usar imágenes gráficas sin necesidad.
+- Confundir explicación histórica con justificación moral.
+
+## Derechos, ciudadanía e instituciones
+
+Este tema se relaciona con normas, convivencia, derechos y deberes, derechos de la niñez, democracia, Constitución, Congreso, tribunales, leyes, justicia, ciudadanía digital, participación y resolución pacífica.
+
+## Para estudiante
+
+Respuesta breve, línea de tiempo, ejemplo, efecto humano y una pregunta.
+
+## Para apoderado
+
+Conversar sin imágenes gráficas, aclarar que estudiar no significa aprobar y hacer una pausa si aparece angustia.
+
+## Para docente
+
+Comparar fuentes, incluir población civil, evitar simulaciones de victimarios y evaluar análisis, no memorización de armamento.
+
+## Mini resumen
+
+- Los conflictos tienen causas múltiples.
+- La guerra afecta especialmente a civiles.
+- Las fuentes tienen perspectivas.
+- La propaganda puede deshumanizar.
+- La paz necesita acuerdos, instituciones y justicia.
+- Los conflictos actuales requieren verificación reciente.
+
+## Palabras clave para búsqueda local
+
+conflicto, guerra, causas, consecuencias, población civil, derechos humanos, paz, memoria, justicia, negociación
+
+## Temas relacionados
+
+- Cursos anteriores: convivencia, normas, derechos y fuentes.
+- Cursos posteriores: diplomacia, derecho internacional, memoria y justicia.
+
+## Reglas para Chat Escolar
+
+- Adaptar lenguaje al curso activo.
+- No glorificar violencia.
+- No dar detalles tácticos.
+- No inventar cifras ni hechos actuales.
+- Diferenciar hecho, interpretación, propaganda y analogía.
+- Incluir población civil, derechos y alternativas pacíficas.
+
+
+---
+
+---
+id: "conf_4m_012_conflictos_en_siria_e_irak"
+titulo: "Conflictos en Siria e Irak"
+area: "Conflictos históricos y educación para la paz"
+categoria: "conflictos_en_siria_e_irak"
+curso_origen: "4° medio"
+nivel: "avanzado"
+apto_desde: "4° medio"
+alineacion_curricular: "curricular_directa"
+tipo_contenido: "conflictos_historicos_y_guerras"
+requiere_fuente_verificada: true
+tema_sensible: true
+prohibe_glorificacion: true
+palabras_clave:
+  - "conflicto"
+  - "causas"
+  - "consecuencias"
+  - "población civil"
+  - "derechos humanos"
+  - "paz"
+materias_relacionadas:
+  - "Historia, Geografía y Ciencias Sociales"
+  - "Educación Ciudadana"
+  - "Lenguaje y Comunicación"
+  - "Orientación"
+version: "1.0"
+fecha_revision: "2026-07-14"
+---
+
+# Conflictos en Siria e Irak
+
+> Esta colección tiene enfoque histórico, humano, ético y educativo. No glorifica la guerra ni enseña tácticas, armas o formas de causar daño.
+
+## Respuesta breve
+
+**Conflictos en Siria e Irak** se estudia para comprender causas, actores, experiencias humanas y consecuencias. El objetivo no es admirar la violencia, sino aprender por qué ocurrió, cómo afectó a distintas personas y qué alternativas de paz, justicia o prevención existieron.
+
+## Explicación clara
+
+Un conflicto histórico surge cuando grupos, comunidades o Estados tienen intereses, necesidades, ideas o proyectos incompatibles. No todo conflicto se convierte en guerra. Una guerra implica violencia organizada y afecta tanto a combatientes como a civiles.
+
+Para estudiar el tema se consideran: contexto, causas de largo plazo, desencadenantes, actores, etapas, consecuencias humanas, cambios territoriales o políticos, memoria, justicia y formas de cierre.
+
+## Conceptos clave
+
+- **Conflicto:** oposición entre actores.
+- **Causa:** condición que ayuda a explicar el origen.
+- **Desencadenante:** hecho cercano al inicio.
+- **Población civil:** personas que no participan directamente en el combate.
+- **Propaganda:** mensaje diseñado para influir.
+- **Paz:** no solo ausencia de guerra, sino convivencia con derechos y justicia.
+
+## Enfoque humano
+
+La guerra altera hogares, escuelas, hospitales, trabajo, alimentación y relaciones familiares. Una explicación responsable incluye a mujeres, niños, pueblos originarios, trabajadores, refugiados y otras personas que suelen quedar fuera del relato militar.
+
+## Ejemplo cotidiano y límite
+
+Un desacuerdo por un espacio escolar puede ayudar a imaginar que existen intereses distintos. **No equivale a una guerra**: una guerra tiene escala, violencia organizada y consecuencias mucho mayores.
+
+## Ejemplo adaptado para TEA
+
+```text
+ANTES → CAUSAS → ACTORES → QUÉ OCURRIÓ → CONSECUENCIAS → CÓMO TERMINÓ → QUÉ APRENDEMOS
+```
+
+- Avisar antes de contenido sensible.
+- Evitar detalles gráficos.
+- Usar tablas y líneas de tiempo.
+- Permitir pausa o versión breve.
+- No pedir experiencias personales de violencia.
+
+## Actividad breve
+
+1. Identifica una causa.
+2. Nombra dos actores.
+3. Explica una consecuencia para civiles.
+4. Busca una fuente de otra perspectiva.
+5. Señala una vía de negociación, tratado o reparación.
+
+## Preguntas de práctica
+
+### Inicial
+1. ¿Qué conflicto se estudia?
+2. ¿Quiénes participaron?
+3. ¿Qué ocurrió antes?
+
+### Intermedia
+4. Diferencia causa y desencadenante.
+5. Explica una consecuencia humana.
+6. ¿Qué fuente podría aportar otra perspectiva?
+
+### Desafío
+7. ¿Cómo influyó la propaganda?
+8. ¿Qué alternativas diplomáticas existieron?
+9. ¿Cómo se recuerda el conflicto?
+10. ¿Qué derechos ayudan a evaluarlo?
+
+## Errores comunes
+
+- Contar la guerra solo desde el país propio.
+- Reducirla a héroes, armas y batallas.
+- Usar una causa única.
+- Ignorar civiles.
+- Repetir propaganda.
+- Inventar cifras.
+- Usar imágenes gráficas sin necesidad.
+- Confundir explicación histórica con justificación moral.
+
+## Derechos, ciudadanía e instituciones
+
+Este tema se relaciona con normas, convivencia, derechos y deberes, derechos de la niñez, democracia, Constitución, Congreso, tribunales, leyes, justicia, ciudadanía digital, participación y resolución pacífica.
+
+## Para estudiante
+
+Respuesta breve, línea de tiempo, ejemplo, efecto humano y una pregunta.
+
+## Para apoderado
+
+Conversar sin imágenes gráficas, aclarar que estudiar no significa aprobar y hacer una pausa si aparece angustia.
+
+## Para docente
+
+Comparar fuentes, incluir población civil, evitar simulaciones de victimarios y evaluar análisis, no memorización de armamento.
+
+## Mini resumen
+
+- Los conflictos tienen causas múltiples.
+- La guerra afecta especialmente a civiles.
+- Las fuentes tienen perspectivas.
+- La propaganda puede deshumanizar.
+- La paz necesita acuerdos, instituciones y justicia.
+- Los conflictos actuales requieren verificación reciente.
+
+## Palabras clave para búsqueda local
+
+conflicto, guerra, causas, consecuencias, población civil, derechos humanos, paz, memoria, justicia, negociación
+
+## Temas relacionados
+
+- Cursos anteriores: convivencia, normas, derechos y fuentes.
+- Cursos posteriores: diplomacia, derecho internacional, memoria y justicia.
+
+## Reglas para Chat Escolar
+
+- Adaptar lenguaje al curso activo.
+- No glorificar violencia.
+- No dar detalles tácticos.
+- No inventar cifras ni hechos actuales.
+- Diferenciar hecho, interpretación, propaganda y analogía.
+- Incluir población civil, derechos y alternativas pacíficas.
+
+
+---
+
+---
+id: "conf_4m_013_rusia_y_ucrania"
+titulo: "Rusia y Ucrania"
+area: "Conflictos históricos y educación para la paz"
+categoria: "rusia_y_ucrania"
+curso_origen: "4° medio"
+nivel: "avanzado"
+apto_desde: "4° medio"
+alineacion_curricular: "curricular_directa"
+tipo_contenido: "conflictos_historicos_y_guerras"
+requiere_fuente_verificada: true
+tema_sensible: true
+prohibe_glorificacion: true
+palabras_clave:
+  - "conflicto"
+  - "causas"
+  - "consecuencias"
+  - "población civil"
+  - "derechos humanos"
+  - "paz"
+materias_relacionadas:
+  - "Historia, Geografía y Ciencias Sociales"
+  - "Educación Ciudadana"
+  - "Lenguaje y Comunicación"
+  - "Orientación"
+version: "1.0"
+fecha_revision: "2026-07-14"
+---
+
+# Rusia y Ucrania
+
+> Esta colección tiene enfoque histórico, humano, ético y educativo. No glorifica la guerra ni enseña tácticas, armas o formas de causar daño.
+
+## Respuesta breve
+
+**Rusia y Ucrania** se estudia para comprender causas, actores, experiencias humanas y consecuencias. El objetivo no es admirar la violencia, sino aprender por qué ocurrió, cómo afectó a distintas personas y qué alternativas de paz, justicia o prevención existieron.
+
+## Explicación clara
+
+Un conflicto histórico surge cuando grupos, comunidades o Estados tienen intereses, necesidades, ideas o proyectos incompatibles. No todo conflicto se convierte en guerra. Una guerra implica violencia organizada y afecta tanto a combatientes como a civiles.
+
+Para estudiar el tema se consideran: contexto, causas de largo plazo, desencadenantes, actores, etapas, consecuencias humanas, cambios territoriales o políticos, memoria, justicia y formas de cierre.
+
+## Conceptos clave
+
+- **Conflicto:** oposición entre actores.
+- **Causa:** condición que ayuda a explicar el origen.
+- **Desencadenante:** hecho cercano al inicio.
+- **Población civil:** personas que no participan directamente en el combate.
+- **Propaganda:** mensaje diseñado para influir.
+- **Paz:** no solo ausencia de guerra, sino convivencia con derechos y justicia.
+
+## Enfoque humano
+
+La guerra altera hogares, escuelas, hospitales, trabajo, alimentación y relaciones familiares. Una explicación responsable incluye a mujeres, niños, pueblos originarios, trabajadores, refugiados y otras personas que suelen quedar fuera del relato militar.
+
+## Ejemplo cotidiano y límite
+
+Un desacuerdo por un espacio escolar puede ayudar a imaginar que existen intereses distintos. **No equivale a una guerra**: una guerra tiene escala, violencia organizada y consecuencias mucho mayores.
+
+## Ejemplo adaptado para TEA
+
+```text
+ANTES → CAUSAS → ACTORES → QUÉ OCURRIÓ → CONSECUENCIAS → CÓMO TERMINÓ → QUÉ APRENDEMOS
+```
+
+- Avisar antes de contenido sensible.
+- Evitar detalles gráficos.
+- Usar tablas y líneas de tiempo.
+- Permitir pausa o versión breve.
+- No pedir experiencias personales de violencia.
+
+## Actividad breve
+
+1. Identifica una causa.
+2. Nombra dos actores.
+3. Explica una consecuencia para civiles.
+4. Busca una fuente de otra perspectiva.
+5. Señala una vía de negociación, tratado o reparación.
+
+## Preguntas de práctica
+
+### Inicial
+1. ¿Qué conflicto se estudia?
+2. ¿Quiénes participaron?
+3. ¿Qué ocurrió antes?
+
+### Intermedia
+4. Diferencia causa y desencadenante.
+5. Explica una consecuencia humana.
+6. ¿Qué fuente podría aportar otra perspectiva?
+
+### Desafío
+7. ¿Cómo influyó la propaganda?
+8. ¿Qué alternativas diplomáticas existieron?
+9. ¿Cómo se recuerda el conflicto?
+10. ¿Qué derechos ayudan a evaluarlo?
+
+## Errores comunes
+
+- Contar la guerra solo desde el país propio.
+- Reducirla a héroes, armas y batallas.
+- Usar una causa única.
+- Ignorar civiles.
+- Repetir propaganda.
+- Inventar cifras.
+- Usar imágenes gráficas sin necesidad.
+- Confundir explicación histórica con justificación moral.
+
+## Derechos, ciudadanía e instituciones
+
+Este tema se relaciona con normas, convivencia, derechos y deberes, derechos de la niñez, democracia, Constitución, Congreso, tribunales, leyes, justicia, ciudadanía digital, participación y resolución pacífica.
+
+## Para estudiante
+
+Respuesta breve, línea de tiempo, ejemplo, efecto humano y una pregunta.
+
+## Para apoderado
+
+Conversar sin imágenes gráficas, aclarar que estudiar no significa aprobar y hacer una pausa si aparece angustia.
+
+## Para docente
+
+Comparar fuentes, incluir población civil, evitar simulaciones de victimarios y evaluar análisis, no memorización de armamento.
+
+## Mini resumen
+
+- Los conflictos tienen causas múltiples.
+- La guerra afecta especialmente a civiles.
+- Las fuentes tienen perspectivas.
+- La propaganda puede deshumanizar.
+- La paz necesita acuerdos, instituciones y justicia.
+- Los conflictos actuales requieren verificación reciente.
+
+## Palabras clave para búsqueda local
+
+conflicto, guerra, causas, consecuencias, población civil, derechos humanos, paz, memoria, justicia, negociación
+
+## Temas relacionados
+
+- Cursos anteriores: convivencia, normas, derechos y fuentes.
+- Cursos posteriores: diplomacia, derecho internacional, memoria y justicia.
+
+## Reglas para Chat Escolar
+
+- Adaptar lenguaje al curso activo.
+- No glorificar violencia.
+- No dar detalles tácticos.
+- No inventar cifras ni hechos actuales.
+- Diferenciar hecho, interpretación, propaganda y analogía.
+- Incluir población civil, derechos y alternativas pacíficas.
+
+
+---
+
+---
+id: "conf_4m_014_conflictos_en_africa"
+titulo: "Conflictos en África"
+area: "Conflictos históricos y educación para la paz"
+categoria: "conflictos_en_africa"
+curso_origen: "4° medio"
+nivel: "avanzado"
+apto_desde: "4° medio"
+alineacion_curricular: "curricular_directa"
+tipo_contenido: "conflictos_historicos_y_guerras"
+requiere_fuente_verificada: true
+tema_sensible: true
+prohibe_glorificacion: true
+palabras_clave:
+  - "conflicto"
+  - "causas"
+  - "consecuencias"
+  - "población civil"
+  - "derechos humanos"
+  - "paz"
+materias_relacionadas:
+  - "Historia, Geografía y Ciencias Sociales"
+  - "Educación Ciudadana"
+  - "Lenguaje y Comunicación"
+  - "Orientación"
+version: "1.0"
+fecha_revision: "2026-07-14"
+---
+
+# Conflictos en África
+
+> Esta colección tiene enfoque histórico, humano, ético y educativo. No glorifica la guerra ni enseña tácticas, armas o formas de causar daño.
+
+## Respuesta breve
+
+**Conflictos en África** se estudia para comprender causas, actores, experiencias humanas y consecuencias. El objetivo no es admirar la violencia, sino aprender por qué ocurrió, cómo afectó a distintas personas y qué alternativas de paz, justicia o prevención existieron.
+
+## Explicación clara
+
+Un conflicto histórico surge cuando grupos, comunidades o Estados tienen intereses, necesidades, ideas o proyectos incompatibles. No todo conflicto se convierte en guerra. Una guerra implica violencia organizada y afecta tanto a combatientes como a civiles.
+
+Para estudiar el tema se consideran: contexto, causas de largo plazo, desencadenantes, actores, etapas, consecuencias humanas, cambios territoriales o políticos, memoria, justicia y formas de cierre.
+
+## Conceptos clave
+
+- **Conflicto:** oposición entre actores.
+- **Causa:** condición que ayuda a explicar el origen.
+- **Desencadenante:** hecho cercano al inicio.
+- **Población civil:** personas que no participan directamente en el combate.
+- **Propaganda:** mensaje diseñado para influir.
+- **Paz:** no solo ausencia de guerra, sino convivencia con derechos y justicia.
+
+## Enfoque humano
+
+La guerra altera hogares, escuelas, hospitales, trabajo, alimentación y relaciones familiares. Una explicación responsable incluye a mujeres, niños, pueblos originarios, trabajadores, refugiados y otras personas que suelen quedar fuera del relato militar.
+
+## Ejemplo cotidiano y límite
+
+Un desacuerdo por un espacio escolar puede ayudar a imaginar que existen intereses distintos. **No equivale a una guerra**: una guerra tiene escala, violencia organizada y consecuencias mucho mayores.
+
+## Ejemplo adaptado para TEA
+
+```text
+ANTES → CAUSAS → ACTORES → QUÉ OCURRIÓ → CONSECUENCIAS → CÓMO TERMINÓ → QUÉ APRENDEMOS
+```
+
+- Avisar antes de contenido sensible.
+- Evitar detalles gráficos.
+- Usar tablas y líneas de tiempo.
+- Permitir pausa o versión breve.
+- No pedir experiencias personales de violencia.
+
+## Actividad breve
+
+1. Identifica una causa.
+2. Nombra dos actores.
+3. Explica una consecuencia para civiles.
+4. Busca una fuente de otra perspectiva.
+5. Señala una vía de negociación, tratado o reparación.
+
+## Preguntas de práctica
+
+### Inicial
+1. ¿Qué conflicto se estudia?
+2. ¿Quiénes participaron?
+3. ¿Qué ocurrió antes?
+
+### Intermedia
+4. Diferencia causa y desencadenante.
+5. Explica una consecuencia humana.
+6. ¿Qué fuente podría aportar otra perspectiva?
+
+### Desafío
+7. ¿Cómo influyó la propaganda?
+8. ¿Qué alternativas diplomáticas existieron?
+9. ¿Cómo se recuerda el conflicto?
+10. ¿Qué derechos ayudan a evaluarlo?
+
+## Errores comunes
+
+- Contar la guerra solo desde el país propio.
+- Reducirla a héroes, armas y batallas.
+- Usar una causa única.
+- Ignorar civiles.
+- Repetir propaganda.
+- Inventar cifras.
+- Usar imágenes gráficas sin necesidad.
+- Confundir explicación histórica con justificación moral.
+
+## Derechos, ciudadanía e instituciones
+
+Este tema se relaciona con normas, convivencia, derechos y deberes, derechos de la niñez, democracia, Constitución, Congreso, tribunales, leyes, justicia, ciudadanía digital, participación y resolución pacífica.
+
+## Para estudiante
+
+Respuesta breve, línea de tiempo, ejemplo, efecto humano y una pregunta.
+
+## Para apoderado
+
+Conversar sin imágenes gráficas, aclarar que estudiar no significa aprobar y hacer una pausa si aparece angustia.
+
+## Para docente
+
+Comparar fuentes, incluir población civil, evitar simulaciones de victimarios y evaluar análisis, no memorización de armamento.
+
+## Mini resumen
+
+- Los conflictos tienen causas múltiples.
+- La guerra afecta especialmente a civiles.
+- Las fuentes tienen perspectivas.
+- La propaganda puede deshumanizar.
+- La paz necesita acuerdos, instituciones y justicia.
+- Los conflictos actuales requieren verificación reciente.
+
+## Palabras clave para búsqueda local
+
+conflicto, guerra, causas, consecuencias, población civil, derechos humanos, paz, memoria, justicia, negociación
+
+## Temas relacionados
+
+- Cursos anteriores: convivencia, normas, derechos y fuentes.
+- Cursos posteriores: diplomacia, derecho internacional, memoria y justicia.
+
+## Reglas para Chat Escolar
+
+- Adaptar lenguaje al curso activo.
+- No glorificar violencia.
+- No dar detalles tácticos.
+- No inventar cifras ni hechos actuales.
+- Diferenciar hecho, interpretación, propaganda y analogía.
+- Incluir población civil, derechos y alternativas pacíficas.
+
+
+---
+
+---
+id: "conf_4m_015_conflictos_en_asia"
+titulo: "Conflictos en Asia"
+area: "Conflictos históricos y educación para la paz"
+categoria: "conflictos_en_asia"
+curso_origen: "4° medio"
+nivel: "avanzado"
+apto_desde: "4° medio"
+alineacion_curricular: "curricular_directa"
+tipo_contenido: "conflictos_historicos_y_guerras"
+requiere_fuente_verificada: true
+tema_sensible: true
+prohibe_glorificacion: true
+palabras_clave:
+  - "conflicto"
+  - "causas"
+  - "consecuencias"
+  - "población civil"
+  - "derechos humanos"
+  - "paz"
+materias_relacionadas:
+  - "Historia, Geografía y Ciencias Sociales"
+  - "Educación Ciudadana"
+  - "Lenguaje y Comunicación"
+  - "Orientación"
+version: "1.0"
+fecha_revision: "2026-07-14"
+---
+
+# Conflictos en Asia
+
+> Esta colección tiene enfoque histórico, humano, ético y educativo. No glorifica la guerra ni enseña tácticas, armas o formas de causar daño.
+
+## Respuesta breve
+
+**Conflictos en Asia** se estudia para comprender causas, actores, experiencias humanas y consecuencias. El objetivo no es admirar la violencia, sino aprender por qué ocurrió, cómo afectó a distintas personas y qué alternativas de paz, justicia o prevención existieron.
+
+## Explicación clara
+
+Un conflicto histórico surge cuando grupos, comunidades o Estados tienen intereses, necesidades, ideas o proyectos incompatibles. No todo conflicto se convierte en guerra. Una guerra implica violencia organizada y afecta tanto a combatientes como a civiles.
+
+Para estudiar el tema se consideran: contexto, causas de largo plazo, desencadenantes, actores, etapas, consecuencias humanas, cambios territoriales o políticos, memoria, justicia y formas de cierre.
+
+## Conceptos clave
+
+- **Conflicto:** oposición entre actores.
+- **Causa:** condición que ayuda a explicar el origen.
+- **Desencadenante:** hecho cercano al inicio.
+- **Población civil:** personas que no participan directamente en el combate.
+- **Propaganda:** mensaje diseñado para influir.
+- **Paz:** no solo ausencia de guerra, sino convivencia con derechos y justicia.
+
+## Enfoque humano
+
+La guerra altera hogares, escuelas, hospitales, trabajo, alimentación y relaciones familiares. Una explicación responsable incluye a mujeres, niños, pueblos originarios, trabajadores, refugiados y otras personas que suelen quedar fuera del relato militar.
+
+## Ejemplo cotidiano y límite
+
+Un desacuerdo por un espacio escolar puede ayudar a imaginar que existen intereses distintos. **No equivale a una guerra**: una guerra tiene escala, violencia organizada y consecuencias mucho mayores.
+
+## Ejemplo adaptado para TEA
+
+```text
+ANTES → CAUSAS → ACTORES → QUÉ OCURRIÓ → CONSECUENCIAS → CÓMO TERMINÓ → QUÉ APRENDEMOS
+```
+
+- Avisar antes de contenido sensible.
+- Evitar detalles gráficos.
+- Usar tablas y líneas de tiempo.
+- Permitir pausa o versión breve.
+- No pedir experiencias personales de violencia.
+
+## Actividad breve
+
+1. Identifica una causa.
+2. Nombra dos actores.
+3. Explica una consecuencia para civiles.
+4. Busca una fuente de otra perspectiva.
+5. Señala una vía de negociación, tratado o reparación.
+
+## Preguntas de práctica
+
+### Inicial
+1. ¿Qué conflicto se estudia?
+2. ¿Quiénes participaron?
+3. ¿Qué ocurrió antes?
+
+### Intermedia
+4. Diferencia causa y desencadenante.
+5. Explica una consecuencia humana.
+6. ¿Qué fuente podría aportar otra perspectiva?
+
+### Desafío
+7. ¿Cómo influyó la propaganda?
+8. ¿Qué alternativas diplomáticas existieron?
+9. ¿Cómo se recuerda el conflicto?
+10. ¿Qué derechos ayudan a evaluarlo?
+
+## Errores comunes
+
+- Contar la guerra solo desde el país propio.
+- Reducirla a héroes, armas y batallas.
+- Usar una causa única.
+- Ignorar civiles.
+- Repetir propaganda.
+- Inventar cifras.
+- Usar imágenes gráficas sin necesidad.
+- Confundir explicación histórica con justificación moral.
+
+## Derechos, ciudadanía e instituciones
+
+Este tema se relaciona con normas, convivencia, derechos y deberes, derechos de la niñez, democracia, Constitución, Congreso, tribunales, leyes, justicia, ciudadanía digital, participación y resolución pacífica.
+
+## Para estudiante
+
+Respuesta breve, línea de tiempo, ejemplo, efecto humano y una pregunta.
+
+## Para apoderado
+
+Conversar sin imágenes gráficas, aclarar que estudiar no significa aprobar y hacer una pausa si aparece angustia.
+
+## Para docente
+
+Comparar fuentes, incluir población civil, evitar simulaciones de victimarios y evaluar análisis, no memorización de armamento.
+
+## Mini resumen
+
+- Los conflictos tienen causas múltiples.
+- La guerra afecta especialmente a civiles.
+- Las fuentes tienen perspectivas.
+- La propaganda puede deshumanizar.
+- La paz necesita acuerdos, instituciones y justicia.
+- Los conflictos actuales requieren verificación reciente.
+
+## Palabras clave para búsqueda local
+
+conflicto, guerra, causas, consecuencias, población civil, derechos humanos, paz, memoria, justicia, negociación
+
+## Temas relacionados
+
+- Cursos anteriores: convivencia, normas, derechos y fuentes.
+- Cursos posteriores: diplomacia, derecho internacional, memoria y justicia.
+
+## Reglas para Chat Escolar
+
+- Adaptar lenguaje al curso activo.
+- No glorificar violencia.
+- No dar detalles tácticos.
+- No inventar cifras ni hechos actuales.
+- Diferenciar hecho, interpretación, propaganda y analogía.
+- Incluir población civil, derechos y alternativas pacíficas.
+
+
+---
+
+---
+id: "conf_4m_016_america_latina_y_procesos_de_paz"
+titulo: "América Latina y procesos de paz"
+area: "Conflictos históricos y educación para la paz"
+categoria: "america_latina_y_procesos_de_paz"
+curso_origen: "4° medio"
+nivel: "avanzado"
+apto_desde: "4° medio"
+alineacion_curricular: "curricular_directa"
+tipo_contenido: "conflictos_historicos_y_guerras"
+requiere_fuente_verificada: false
+tema_sensible: true
+prohibe_glorificacion: true
+palabras_clave:
+  - "conflicto"
+  - "causas"
+  - "consecuencias"
+  - "población civil"
+  - "derechos humanos"
+  - "paz"
+materias_relacionadas:
+  - "Historia, Geografía y Ciencias Sociales"
+  - "Educación Ciudadana"
+  - "Lenguaje y Comunicación"
+  - "Orientación"
+version: "1.0"
+fecha_revision: "2026-07-14"
+---
+
+# América Latina y procesos de paz
+
+> Esta colección tiene enfoque histórico, humano, ético y educativo. No glorifica la guerra ni enseña tácticas, armas o formas de causar daño.
+
+## Respuesta breve
+
+**América Latina y procesos de paz** se estudia para comprender causas, actores, experiencias humanas y consecuencias. El objetivo no es admirar la violencia, sino aprender por qué ocurrió, cómo afectó a distintas personas y qué alternativas de paz, justicia o prevención existieron.
+
+## Explicación clara
+
+Un conflicto histórico surge cuando grupos, comunidades o Estados tienen intereses, necesidades, ideas o proyectos incompatibles. No todo conflicto se convierte en guerra. Una guerra implica violencia organizada y afecta tanto a combatientes como a civiles.
+
+Para estudiar el tema se consideran: contexto, causas de largo plazo, desencadenantes, actores, etapas, consecuencias humanas, cambios territoriales o políticos, memoria, justicia y formas de cierre.
+
+## Conceptos clave
+
+- **Conflicto:** oposición entre actores.
+- **Causa:** condición que ayuda a explicar el origen.
+- **Desencadenante:** hecho cercano al inicio.
+- **Población civil:** personas que no participan directamente en el combate.
+- **Propaganda:** mensaje diseñado para influir.
+- **Paz:** no solo ausencia de guerra, sino convivencia con derechos y justicia.
+
+## Enfoque humano
+
+La guerra altera hogares, escuelas, hospitales, trabajo, alimentación y relaciones familiares. Una explicación responsable incluye a mujeres, niños, pueblos originarios, trabajadores, refugiados y otras personas que suelen quedar fuera del relato militar.
+
+## Ejemplo cotidiano y límite
+
+Un desacuerdo por un espacio escolar puede ayudar a imaginar que existen intereses distintos. **No equivale a una guerra**: una guerra tiene escala, violencia organizada y consecuencias mucho mayores.
+
+## Ejemplo adaptado para TEA
+
+```text
+ANTES → CAUSAS → ACTORES → QUÉ OCURRIÓ → CONSECUENCIAS → CÓMO TERMINÓ → QUÉ APRENDEMOS
+```
+
+- Avisar antes de contenido sensible.
+- Evitar detalles gráficos.
+- Usar tablas y líneas de tiempo.
+- Permitir pausa o versión breve.
+- No pedir experiencias personales de violencia.
+
+## Actividad breve
+
+1. Identifica una causa.
+2. Nombra dos actores.
+3. Explica una consecuencia para civiles.
+4. Busca una fuente de otra perspectiva.
+5. Señala una vía de negociación, tratado o reparación.
+
+## Preguntas de práctica
+
+### Inicial
+1. ¿Qué conflicto se estudia?
+2. ¿Quiénes participaron?
+3. ¿Qué ocurrió antes?
+
+### Intermedia
+4. Diferencia causa y desencadenante.
+5. Explica una consecuencia humana.
+6. ¿Qué fuente podría aportar otra perspectiva?
+
+### Desafío
+7. ¿Cómo influyó la propaganda?
+8. ¿Qué alternativas diplomáticas existieron?
+9. ¿Cómo se recuerda el conflicto?
+10. ¿Qué derechos ayudan a evaluarlo?
+
+## Errores comunes
+
+- Contar la guerra solo desde el país propio.
+- Reducirla a héroes, armas y batallas.
+- Usar una causa única.
+- Ignorar civiles.
+- Repetir propaganda.
+- Inventar cifras.
+- Usar imágenes gráficas sin necesidad.
+- Confundir explicación histórica con justificación moral.
+
+## Derechos, ciudadanía e instituciones
+
+Este tema se relaciona con normas, convivencia, derechos y deberes, derechos de la niñez, democracia, Constitución, Congreso, tribunales, leyes, justicia, ciudadanía digital, participación y resolución pacífica.
+
+## Para estudiante
+
+Respuesta breve, línea de tiempo, ejemplo, efecto humano y una pregunta.
+
+## Para apoderado
+
+Conversar sin imágenes gráficas, aclarar que estudiar no significa aprobar y hacer una pausa si aparece angustia.
+
+## Para docente
+
+Comparar fuentes, incluir población civil, evitar simulaciones de victimarios y evaluar análisis, no memorización de armamento.
+
+## Mini resumen
+
+- Los conflictos tienen causas múltiples.
+- La guerra afecta especialmente a civiles.
+- Las fuentes tienen perspectivas.
+- La propaganda puede deshumanizar.
+- La paz necesita acuerdos, instituciones y justicia.
+- Los conflictos actuales requieren verificación reciente.
+
+## Palabras clave para búsqueda local
+
+conflicto, guerra, causas, consecuencias, población civil, derechos humanos, paz, memoria, justicia, negociación
+
+## Temas relacionados
+
+- Cursos anteriores: convivencia, normas, derechos y fuentes.
+- Cursos posteriores: diplomacia, derecho internacional, memoria y justicia.
+
+## Reglas para Chat Escolar
+
+- Adaptar lenguaje al curso activo.
+- No glorificar violencia.
+- No dar detalles tácticos.
+- No inventar cifras ni hechos actuales.
+- Diferenciar hecho, interpretación, propaganda y analogía.
+- Incluir población civil, derechos y alternativas pacíficas.
+
+
+---
+
+---
+id: "conf_4m_017_ciberconflicto_y_plataformas"
+titulo: "Ciberconflicto y plataformas"
+area: "Conflictos históricos y educación para la paz"
+categoria: "ciberconflicto_y_plataformas"
+curso_origen: "4° medio"
+nivel: "avanzado"
+apto_desde: "4° medio"
+alineacion_curricular: "curricular_directa"
+tipo_contenido: "conflictos_historicos_y_guerras"
+requiere_fuente_verificada: true
+tema_sensible: true
+prohibe_glorificacion: true
+palabras_clave:
+  - "conflicto"
+  - "causas"
+  - "consecuencias"
+  - "población civil"
+  - "derechos humanos"
+  - "paz"
+materias_relacionadas:
+  - "Historia, Geografía y Ciencias Sociales"
+  - "Educación Ciudadana"
+  - "Lenguaje y Comunicación"
+  - "Orientación"
+version: "1.0"
+fecha_revision: "2026-07-14"
+---
+
+# Ciberconflicto y plataformas
+
+> Esta colección tiene enfoque histórico, humano, ético y educativo. No glorifica la guerra ni enseña tácticas, armas o formas de causar daño.
+
+## Respuesta breve
+
+**Ciberconflicto y plataformas** se estudia para comprender causas, actores, experiencias humanas y consecuencias. El objetivo no es admirar la violencia, sino aprender por qué ocurrió, cómo afectó a distintas personas y qué alternativas de paz, justicia o prevención existieron.
+
+## Explicación clara
+
+Un conflicto histórico surge cuando grupos, comunidades o Estados tienen intereses, necesidades, ideas o proyectos incompatibles. No todo conflicto se convierte en guerra. Una guerra implica violencia organizada y afecta tanto a combatientes como a civiles.
+
+Para estudiar el tema se consideran: contexto, causas de largo plazo, desencadenantes, actores, etapas, consecuencias humanas, cambios territoriales o políticos, memoria, justicia y formas de cierre.
+
+## Conceptos clave
+
+- **Conflicto:** oposición entre actores.
+- **Causa:** condición que ayuda a explicar el origen.
+- **Desencadenante:** hecho cercano al inicio.
+- **Población civil:** personas que no participan directamente en el combate.
+- **Propaganda:** mensaje diseñado para influir.
+- **Paz:** no solo ausencia de guerra, sino convivencia con derechos y justicia.
+
+## Enfoque humano
+
+La guerra altera hogares, escuelas, hospitales, trabajo, alimentación y relaciones familiares. Una explicación responsable incluye a mujeres, niños, pueblos originarios, trabajadores, refugiados y otras personas que suelen quedar fuera del relato militar.
+
+## Ejemplo cotidiano y límite
+
+Un desacuerdo por un espacio escolar puede ayudar a imaginar que existen intereses distintos. **No equivale a una guerra**: una guerra tiene escala, violencia organizada y consecuencias mucho mayores.
+
+## Ejemplo adaptado para TEA
+
+```text
+ANTES → CAUSAS → ACTORES → QUÉ OCURRIÓ → CONSECUENCIAS → CÓMO TERMINÓ → QUÉ APRENDEMOS
+```
+
+- Avisar antes de contenido sensible.
+- Evitar detalles gráficos.
+- Usar tablas y líneas de tiempo.
+- Permitir pausa o versión breve.
+- No pedir experiencias personales de violencia.
+
+## Actividad breve
+
+1. Identifica una causa.
+2. Nombra dos actores.
+3. Explica una consecuencia para civiles.
+4. Busca una fuente de otra perspectiva.
+5. Señala una vía de negociación, tratado o reparación.
+
+## Preguntas de práctica
+
+### Inicial
+1. ¿Qué conflicto se estudia?
+2. ¿Quiénes participaron?
+3. ¿Qué ocurrió antes?
+
+### Intermedia
+4. Diferencia causa y desencadenante.
+5. Explica una consecuencia humana.
+6. ¿Qué fuente podría aportar otra perspectiva?
+
+### Desafío
+7. ¿Cómo influyó la propaganda?
+8. ¿Qué alternativas diplomáticas existieron?
+9. ¿Cómo se recuerda el conflicto?
+10. ¿Qué derechos ayudan a evaluarlo?
+
+## Errores comunes
+
+- Contar la guerra solo desde el país propio.
+- Reducirla a héroes, armas y batallas.
+- Usar una causa única.
+- Ignorar civiles.
+- Repetir propaganda.
+- Inventar cifras.
+- Usar imágenes gráficas sin necesidad.
+- Confundir explicación histórica con justificación moral.
+
+## Derechos, ciudadanía e instituciones
+
+Este tema se relaciona con normas, convivencia, derechos y deberes, derechos de la niñez, democracia, Constitución, Congreso, tribunales, leyes, justicia, ciudadanía digital, participación y resolución pacífica.
+
+## Para estudiante
+
+Respuesta breve, línea de tiempo, ejemplo, efecto humano y una pregunta.
+
+## Para apoderado
+
+Conversar sin imágenes gráficas, aclarar que estudiar no significa aprobar y hacer una pausa si aparece angustia.
+
+## Para docente
+
+Comparar fuentes, incluir población civil, evitar simulaciones de victimarios y evaluar análisis, no memorización de armamento.
+
+## Mini resumen
+
+- Los conflictos tienen causas múltiples.
+- La guerra afecta especialmente a civiles.
+- Las fuentes tienen perspectivas.
+- La propaganda puede deshumanizar.
+- La paz necesita acuerdos, instituciones y justicia.
+- Los conflictos actuales requieren verificación reciente.
+
+## Palabras clave para búsqueda local
+
+conflicto, guerra, causas, consecuencias, población civil, derechos humanos, paz, memoria, justicia, negociación
+
+## Temas relacionados
+
+- Cursos anteriores: convivencia, normas, derechos y fuentes.
+- Cursos posteriores: diplomacia, derecho internacional, memoria y justicia.
+
+## Reglas para Chat Escolar
+
+- Adaptar lenguaje al curso activo.
+- No glorificar violencia.
+- No dar detalles tácticos.
+- No inventar cifras ni hechos actuales.
+- Diferenciar hecho, interpretación, propaganda y analogía.
+- Incluir población civil, derechos y alternativas pacíficas.
+
+
+---
+
+---
+id: "conf_4m_018_diplomacia_y_sanciones"
+titulo: "Diplomacia y sanciones"
+area: "Conflictos históricos y educación para la paz"
+categoria: "diplomacia_y_sanciones"
+curso_origen: "4° medio"
+nivel: "avanzado"
+apto_desde: "4° medio"
+alineacion_curricular: "curricular_directa"
+tipo_contenido: "conflictos_historicos_y_guerras"
+requiere_fuente_verificada: false
+tema_sensible: true
+prohibe_glorificacion: true
+palabras_clave:
+  - "conflicto"
+  - "causas"
+  - "consecuencias"
+  - "población civil"
+  - "derechos humanos"
+  - "paz"
+materias_relacionadas:
+  - "Historia, Geografía y Ciencias Sociales"
+  - "Educación Ciudadana"
+  - "Lenguaje y Comunicación"
+  - "Orientación"
+version: "1.0"
+fecha_revision: "2026-07-14"
+---
+
+# Diplomacia y sanciones
+
+> Esta colección tiene enfoque histórico, humano, ético y educativo. No glorifica la guerra ni enseña tácticas, armas o formas de causar daño.
+
+## Respuesta breve
+
+**Diplomacia y sanciones** se estudia para comprender causas, actores, experiencias humanas y consecuencias. El objetivo no es admirar la violencia, sino aprender por qué ocurrió, cómo afectó a distintas personas y qué alternativas de paz, justicia o prevención existieron.
+
+## Explicación clara
+
+Un conflicto histórico surge cuando grupos, comunidades o Estados tienen intereses, necesidades, ideas o proyectos incompatibles. No todo conflicto se convierte en guerra. Una guerra implica violencia organizada y afecta tanto a combatientes como a civiles.
+
+Para estudiar el tema se consideran: contexto, causas de largo plazo, desencadenantes, actores, etapas, consecuencias humanas, cambios territoriales o políticos, memoria, justicia y formas de cierre.
+
+## Conceptos clave
+
+- **Conflicto:** oposición entre actores.
+- **Causa:** condición que ayuda a explicar el origen.
+- **Desencadenante:** hecho cercano al inicio.
+- **Población civil:** personas que no participan directamente en el combate.
+- **Propaganda:** mensaje diseñado para influir.
+- **Paz:** no solo ausencia de guerra, sino convivencia con derechos y justicia.
+
+## Enfoque humano
+
+La guerra altera hogares, escuelas, hospitales, trabajo, alimentación y relaciones familiares. Una explicación responsable incluye a mujeres, niños, pueblos originarios, trabajadores, refugiados y otras personas que suelen quedar fuera del relato militar.
+
+## Ejemplo cotidiano y límite
+
+Un desacuerdo por un espacio escolar puede ayudar a imaginar que existen intereses distintos. **No equivale a una guerra**: una guerra tiene escala, violencia organizada y consecuencias mucho mayores.
+
+## Ejemplo adaptado para TEA
+
+```text
+ANTES → CAUSAS → ACTORES → QUÉ OCURRIÓ → CONSECUENCIAS → CÓMO TERMINÓ → QUÉ APRENDEMOS
+```
+
+- Avisar antes de contenido sensible.
+- Evitar detalles gráficos.
+- Usar tablas y líneas de tiempo.
+- Permitir pausa o versión breve.
+- No pedir experiencias personales de violencia.
+
+## Actividad breve
+
+1. Identifica una causa.
+2. Nombra dos actores.
+3. Explica una consecuencia para civiles.
+4. Busca una fuente de otra perspectiva.
+5. Señala una vía de negociación, tratado o reparación.
+
+## Preguntas de práctica
+
+### Inicial
+1. ¿Qué conflicto se estudia?
+2. ¿Quiénes participaron?
+3. ¿Qué ocurrió antes?
+
+### Intermedia
+4. Diferencia causa y desencadenante.
+5. Explica una consecuencia humana.
+6. ¿Qué fuente podría aportar otra perspectiva?
+
+### Desafío
+7. ¿Cómo influyó la propaganda?
+8. ¿Qué alternativas diplomáticas existieron?
+9. ¿Cómo se recuerda el conflicto?
+10. ¿Qué derechos ayudan a evaluarlo?
+
+## Errores comunes
+
+- Contar la guerra solo desde el país propio.
+- Reducirla a héroes, armas y batallas.
+- Usar una causa única.
+- Ignorar civiles.
+- Repetir propaganda.
+- Inventar cifras.
+- Usar imágenes gráficas sin necesidad.
+- Confundir explicación histórica con justificación moral.
+
+## Derechos, ciudadanía e instituciones
+
+Este tema se relaciona con normas, convivencia, derechos y deberes, derechos de la niñez, democracia, Constitución, Congreso, tribunales, leyes, justicia, ciudadanía digital, participación y resolución pacífica.
+
+## Para estudiante
+
+Respuesta breve, línea de tiempo, ejemplo, efecto humano y una pregunta.
+
+## Para apoderado
+
+Conversar sin imágenes gráficas, aclarar que estudiar no significa aprobar y hacer una pausa si aparece angustia.
+
+## Para docente
+
+Comparar fuentes, incluir población civil, evitar simulaciones de victimarios y evaluar análisis, no memorización de armamento.
+
+## Mini resumen
+
+- Los conflictos tienen causas múltiples.
+- La guerra afecta especialmente a civiles.
+- Las fuentes tienen perspectivas.
+- La propaganda puede deshumanizar.
+- La paz necesita acuerdos, instituciones y justicia.
+- Los conflictos actuales requieren verificación reciente.
+
+## Palabras clave para búsqueda local
+
+conflicto, guerra, causas, consecuencias, población civil, derechos humanos, paz, memoria, justicia, negociación
+
+## Temas relacionados
+
+- Cursos anteriores: convivencia, normas, derechos y fuentes.
+- Cursos posteriores: diplomacia, derecho internacional, memoria y justicia.
+
+## Reglas para Chat Escolar
+
+- Adaptar lenguaje al curso activo.
+- No glorificar violencia.
+- No dar detalles tácticos.
+- No inventar cifras ni hechos actuales.
+- Diferenciar hecho, interpretación, propaganda y analogía.
+- Incluir población civil, derechos y alternativas pacíficas.
+
+
+---
+
+---
+id: "conf_4m_019_reconstruccion_posconflicto"
+titulo: "Reconstrucción posconflicto"
+area: "Conflictos históricos y educación para la paz"
+categoria: "reconstruccion_posconflicto"
+curso_origen: "4° medio"
+nivel: "avanzado"
+apto_desde: "4° medio"
+alineacion_curricular: "curricular_directa"
+tipo_contenido: "conflictos_historicos_y_guerras"
+requiere_fuente_verificada: false
+tema_sensible: true
+prohibe_glorificacion: true
+palabras_clave:
+  - "conflicto"
+  - "causas"
+  - "consecuencias"
+  - "población civil"
+  - "derechos humanos"
+  - "paz"
+materias_relacionadas:
+  - "Historia, Geografía y Ciencias Sociales"
+  - "Educación Ciudadana"
+  - "Lenguaje y Comunicación"
+  - "Orientación"
+version: "1.0"
+fecha_revision: "2026-07-14"
+---
+
+# Reconstrucción posconflicto
+
+> Esta colección tiene enfoque histórico, humano, ético y educativo. No glorifica la guerra ni enseña tácticas, armas o formas de causar daño.
+
+## Respuesta breve
+
+**Reconstrucción posconflicto** se estudia para comprender causas, actores, experiencias humanas y consecuencias. El objetivo no es admirar la violencia, sino aprender por qué ocurrió, cómo afectó a distintas personas y qué alternativas de paz, justicia o prevención existieron.
+
+## Explicación clara
+
+Un conflicto histórico surge cuando grupos, comunidades o Estados tienen intereses, necesidades, ideas o proyectos incompatibles. No todo conflicto se convierte en guerra. Una guerra implica violencia organizada y afecta tanto a combatientes como a civiles.
+
+Para estudiar el tema se consideran: contexto, causas de largo plazo, desencadenantes, actores, etapas, consecuencias humanas, cambios territoriales o políticos, memoria, justicia y formas de cierre.
+
+## Conceptos clave
+
+- **Conflicto:** oposición entre actores.
+- **Causa:** condición que ayuda a explicar el origen.
+- **Desencadenante:** hecho cercano al inicio.
+- **Población civil:** personas que no participan directamente en el combate.
+- **Propaganda:** mensaje diseñado para influir.
+- **Paz:** no solo ausencia de guerra, sino convivencia con derechos y justicia.
+
+## Enfoque humano
+
+La guerra altera hogares, escuelas, hospitales, trabajo, alimentación y relaciones familiares. Una explicación responsable incluye a mujeres, niños, pueblos originarios, trabajadores, refugiados y otras personas que suelen quedar fuera del relato militar.
+
+## Ejemplo cotidiano y límite
+
+Un desacuerdo por un espacio escolar puede ayudar a imaginar que existen intereses distintos. **No equivale a una guerra**: una guerra tiene escala, violencia organizada y consecuencias mucho mayores.
+
+## Ejemplo adaptado para TEA
+
+```text
+ANTES → CAUSAS → ACTORES → QUÉ OCURRIÓ → CONSECUENCIAS → CÓMO TERMINÓ → QUÉ APRENDEMOS
+```
+
+- Avisar antes de contenido sensible.
+- Evitar detalles gráficos.
+- Usar tablas y líneas de tiempo.
+- Permitir pausa o versión breve.
+- No pedir experiencias personales de violencia.
+
+## Actividad breve
+
+1. Identifica una causa.
+2. Nombra dos actores.
+3. Explica una consecuencia para civiles.
+4. Busca una fuente de otra perspectiva.
+5. Señala una vía de negociación, tratado o reparación.
+
+## Preguntas de práctica
+
+### Inicial
+1. ¿Qué conflicto se estudia?
+2. ¿Quiénes participaron?
+3. ¿Qué ocurrió antes?
+
+### Intermedia
+4. Diferencia causa y desencadenante.
+5. Explica una consecuencia humana.
+6. ¿Qué fuente podría aportar otra perspectiva?
+
+### Desafío
+7. ¿Cómo influyó la propaganda?
+8. ¿Qué alternativas diplomáticas existieron?
+9. ¿Cómo se recuerda el conflicto?
+10. ¿Qué derechos ayudan a evaluarlo?
+
+## Errores comunes
+
+- Contar la guerra solo desde el país propio.
+- Reducirla a héroes, armas y batallas.
+- Usar una causa única.
+- Ignorar civiles.
+- Repetir propaganda.
+- Inventar cifras.
+- Usar imágenes gráficas sin necesidad.
+- Confundir explicación histórica con justificación moral.
+
+## Derechos, ciudadanía e instituciones
+
+Este tema se relaciona con normas, convivencia, derechos y deberes, derechos de la niñez, democracia, Constitución, Congreso, tribunales, leyes, justicia, ciudadanía digital, participación y resolución pacífica.
+
+## Para estudiante
+
+Respuesta breve, línea de tiempo, ejemplo, efecto humano y una pregunta.
+
+## Para apoderado
+
+Conversar sin imágenes gráficas, aclarar que estudiar no significa aprobar y hacer una pausa si aparece angustia.
+
+## Para docente
+
+Comparar fuentes, incluir población civil, evitar simulaciones de victimarios y evaluar análisis, no memorización de armamento.
+
+## Mini resumen
+
+- Los conflictos tienen causas múltiples.
+- La guerra afecta especialmente a civiles.
+- Las fuentes tienen perspectivas.
+- La propaganda puede deshumanizar.
+- La paz necesita acuerdos, instituciones y justicia.
+- Los conflictos actuales requieren verificación reciente.
+
+## Palabras clave para búsqueda local
+
+conflicto, guerra, causas, consecuencias, población civil, derechos humanos, paz, memoria, justicia, negociación
+
+## Temas relacionados
+
+- Cursos anteriores: convivencia, normas, derechos y fuentes.
+- Cursos posteriores: diplomacia, derecho internacional, memoria y justicia.
+
+## Reglas para Chat Escolar
+
+- Adaptar lenguaje al curso activo.
+- No glorificar violencia.
+- No dar detalles tácticos.
+- No inventar cifras ni hechos actuales.
+- Diferenciar hecho, interpretación, propaganda y analogía.
+- Incluir población civil, derechos y alternativas pacíficas.
+
+
+---
+
+---
+id: "conf_4m_020_proyecto_de_paz_y_memoria"
+titulo: "Proyecto de paz y memoria"
+area: "Conflictos históricos y educación para la paz"
+categoria: "proyecto_de_paz_y_memoria"
+curso_origen: "4° medio"
+nivel: "avanzado"
+apto_desde: "4° medio"
+alineacion_curricular: "curricular_directa"
+tipo_contenido: "conflictos_historicos_y_guerras"
+requiere_fuente_verificada: false
+tema_sensible: true
+prohibe_glorificacion: true
+palabras_clave:
+  - "conflicto"
+  - "causas"
+  - "consecuencias"
+  - "población civil"
+  - "derechos humanos"
+  - "paz"
+materias_relacionadas:
+  - "Historia, Geografía y Ciencias Sociales"
+  - "Educación Ciudadana"
+  - "Lenguaje y Comunicación"
+  - "Orientación"
+version: "1.0"
+fecha_revision: "2026-07-14"
+---
+
+# Proyecto de paz y memoria
+
+> Esta colección tiene enfoque histórico, humano, ético y educativo. No glorifica la guerra ni enseña tácticas, armas o formas de causar daño.
+
+## Respuesta breve
+
+**Proyecto de paz y memoria** se estudia para comprender causas, actores, experiencias humanas y consecuencias. El objetivo no es admirar la violencia, sino aprender por qué ocurrió, cómo afectó a distintas personas y qué alternativas de paz, justicia o prevención existieron.
+
+## Explicación clara
+
+Un conflicto histórico surge cuando grupos, comunidades o Estados tienen intereses, necesidades, ideas o proyectos incompatibles. No todo conflicto se convierte en guerra. Una guerra implica violencia organizada y afecta tanto a combatientes como a civiles.
+
+Para estudiar el tema se consideran: contexto, causas de largo plazo, desencadenantes, actores, etapas, consecuencias humanas, cambios territoriales o políticos, memoria, justicia y formas de cierre.
+
+## Conceptos clave
+
+- **Conflicto:** oposición entre actores.
+- **Causa:** condición que ayuda a explicar el origen.
+- **Desencadenante:** hecho cercano al inicio.
+- **Población civil:** personas que no participan directamente en el combate.
+- **Propaganda:** mensaje diseñado para influir.
+- **Paz:** no solo ausencia de guerra, sino convivencia con derechos y justicia.
+
+## Enfoque humano
+
+La guerra altera hogares, escuelas, hospitales, trabajo, alimentación y relaciones familiares. Una explicación responsable incluye a mujeres, niños, pueblos originarios, trabajadores, refugiados y otras personas que suelen quedar fuera del relato militar.
+
+## Ejemplo cotidiano y límite
+
+Un desacuerdo por un espacio escolar puede ayudar a imaginar que existen intereses distintos. **No equivale a una guerra**: una guerra tiene escala, violencia organizada y consecuencias mucho mayores.
+
+## Ejemplo adaptado para TEA
+
+```text
+ANTES → CAUSAS → ACTORES → QUÉ OCURRIÓ → CONSECUENCIAS → CÓMO TERMINÓ → QUÉ APRENDEMOS
+```
+
+- Avisar antes de contenido sensible.
+- Evitar detalles gráficos.
+- Usar tablas y líneas de tiempo.
+- Permitir pausa o versión breve.
+- No pedir experiencias personales de violencia.
+
+## Actividad breve
+
+1. Identifica una causa.
+2. Nombra dos actores.
+3. Explica una consecuencia para civiles.
+4. Busca una fuente de otra perspectiva.
+5. Señala una vía de negociación, tratado o reparación.
+
+## Preguntas de práctica
+
+### Inicial
+1. ¿Qué conflicto se estudia?
+2. ¿Quiénes participaron?
+3. ¿Qué ocurrió antes?
+
+### Intermedia
+4. Diferencia causa y desencadenante.
+5. Explica una consecuencia humana.
+6. ¿Qué fuente podría aportar otra perspectiva?
+
+### Desafío
+7. ¿Cómo influyó la propaganda?
+8. ¿Qué alternativas diplomáticas existieron?
+9. ¿Cómo se recuerda el conflicto?
+10. ¿Qué derechos ayudan a evaluarlo?
+
+## Errores comunes
+
+- Contar la guerra solo desde el país propio.
+- Reducirla a héroes, armas y batallas.
+- Usar una causa única.
+- Ignorar civiles.
+- Repetir propaganda.
+- Inventar cifras.
+- Usar imágenes gráficas sin necesidad.
+- Confundir explicación histórica con justificación moral.
+
+## Derechos, ciudadanía e instituciones
+
+Este tema se relaciona con normas, convivencia, derechos y deberes, derechos de la niñez, democracia, Constitución, Congreso, tribunales, leyes, justicia, ciudadanía digital, participación y resolución pacífica.
+
+## Para estudiante
+
+Respuesta breve, línea de tiempo, ejemplo, efecto humano y una pregunta.
+
+## Para apoderado
+
+Conversar sin imágenes gráficas, aclarar que estudiar no significa aprobar y hacer una pausa si aparece angustia.
+
+## Para docente
+
+Comparar fuentes, incluir población civil, evitar simulaciones de victimarios y evaluar análisis, no memorización de armamento.
+
+## Mini resumen
+
+- Los conflictos tienen causas múltiples.
+- La guerra afecta especialmente a civiles.
+- Las fuentes tienen perspectivas.
+- La propaganda puede deshumanizar.
+- La paz necesita acuerdos, instituciones y justicia.
+- Los conflictos actuales requieren verificación reciente.
+
+## Palabras clave para búsqueda local
+
+conflicto, guerra, causas, consecuencias, población civil, derechos humanos, paz, memoria, justicia, negociación
+
+## Temas relacionados
+
+- Cursos anteriores: convivencia, normas, derechos y fuentes.
+- Cursos posteriores: diplomacia, derecho internacional, memoria y justicia.
+
+## Reglas para Chat Escolar
+
+- Adaptar lenguaje al curso activo.
+- No glorificar violencia.
+- No dar detalles tácticos.
+- No inventar cifras ni hechos actuales.
+- Diferenciar hecho, interpretación, propaganda y analogía.
+- Incluir población civil, derechos y alternativas pacíficas.
+
+
+---
+

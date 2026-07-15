@@ -26,9 +26,19 @@ except ImportError:
     from conversation_context import build_conversation_context
 
 try:
-    from .demo_tutor import build_local_content_fallback, detect_topic, make_demo_answer
+    from .demo_tutor import (
+        build_grounded_history_answer,
+        build_local_content_fallback,
+        detect_topic,
+        make_demo_answer,
+    )
 except ImportError:
-    from demo_tutor import build_local_content_fallback, detect_topic, make_demo_answer
+    from demo_tutor import (
+        build_grounded_history_answer,
+        build_local_content_fallback,
+        detect_topic,
+        make_demo_answer,
+    )
 
 try:
     from .educational_config import ALL_COURSES_LABEL, PROFILE_COURSES, is_all_courses
@@ -39,37 +49,67 @@ try:
     from .response_states import (
         CLARIFICATION_REQUIRED,
         DEMO_FALLBACK,
+        GENERATION_BLOCKED_UNVERIFIED,
         LOCAL_CONTENT_FALLBACK,
         LOCAL_VERIFIED,
-        OLLAMA_GENERATED,
-        OLLAMA_UNAVAILABLE,
+        OLLAMA_UNVERIFIED,
         OLLAMA_WITH_LOCAL_CONTENT,
         PROVIDER_OLLAMA,
         PROVIDER_OLLAMA_WITH_LOCAL_CONTENT,
         PROVIDER_LOCAL_CONTENT,
+        PROVIDER_LOCAL_SAFE,
         uses_verified_local_content,
     )
 except ImportError:
     from response_states import (
         CLARIFICATION_REQUIRED,
         DEMO_FALLBACK,
+        GENERATION_BLOCKED_UNVERIFIED,
         LOCAL_CONTENT_FALLBACK,
         LOCAL_VERIFIED,
-        OLLAMA_GENERATED,
-        OLLAMA_UNAVAILABLE,
+        OLLAMA_UNVERIFIED,
         OLLAMA_WITH_LOCAL_CONTENT,
         PROVIDER_OLLAMA,
         PROVIDER_OLLAMA_WITH_LOCAL_CONTENT,
         PROVIDER_LOCAL_CONTENT,
+        PROVIDER_LOCAL_SAFE,
         uses_verified_local_content,
     )
 
 try:
-    from .ollama_client import OllamaError, generate as generate_with_ollama, get_status as get_ollama_status
-    from .prompt_builder import build_ollama_prompt, clean_ollama_response
+    from .ollama_client import (
+        OllamaError,
+        OllamaModelNotFoundError,
+        OllamaTimeoutError,
+        OllamaUnavailableError,
+        generate as generate_with_ollama,
+        get_status as get_ollama_status,
+        start_managed_server,
+        stop_managed_server,
+        unload_model,
+    )
+    from .prompt_builder import (
+        build_ollama_prompt,
+        clean_ollama_response,
+        is_source_insufficient_response,
+    )
 except ImportError:
-    from ollama_client import OllamaError, generate as generate_with_ollama, get_status as get_ollama_status
-    from prompt_builder import build_ollama_prompt, clean_ollama_response
+    from ollama_client import (
+        OllamaError,
+        OllamaModelNotFoundError,
+        OllamaTimeoutError,
+        OllamaUnavailableError,
+        generate as generate_with_ollama,
+        get_status as get_ollama_status,
+        start_managed_server,
+        stop_managed_server,
+        unload_model,
+    )
+    from prompt_builder import (
+        build_ollama_prompt,
+        clean_ollama_response,
+        is_source_insufficient_response,
+    )
 
 try:
     from .text_utils import normalize_text
@@ -89,6 +129,14 @@ AVATAR_CONTENT_TYPES = {
 AVATAR_EXTENSIONS = {".png", ".jpg", ".jpeg", ".webp"}
 _ollama_status_cache: dict | None = None
 _ollama_status_checked_at: datetime | None = None
+_ollama_last_test: dict = {
+    "status": "not_tested",
+    "model": None,
+    "duration_ms": None,
+    "error_code": None,
+    "error_message": None,
+}
+_ollama_lifecycle: dict = {"status": "not_checked", "started_by_chat_escolar": False}
 logger = logging.getLogger(__name__)
 AI_MODES = {"basic", "automatic", "explore_only"}
 AUTO_SUBJECT_VALUES = {"automatic", "automatica", "auto", ""}
@@ -97,7 +145,7 @@ DEFAULT_SETTINGS = {
     "ai_mode": "basic",
     "ollama_enabled": False,
     "ollama_model": "qwen3.5:2b",
-    "ollama_timeout_seconds": 25,
+    "ollama_timeout_seconds": 90,
 }
 
 app = FastAPI(
@@ -252,8 +300,8 @@ def validate_settings(candidate: dict) -> dict:
         raise HTTPException(status_code=400, detail="ollama_enabled debe ser verdadero o falso")
     if not isinstance(settings["ollama_model"], str) or not settings["ollama_model"].strip():
         raise HTTPException(status_code=400, detail="El modelo de Ollama es obligatorio")
-    if not isinstance(settings["ollama_timeout_seconds"], int) or not 5 <= settings["ollama_timeout_seconds"] <= 60:
-        raise HTTPException(status_code=400, detail="El timeout debe estar entre 5 y 60 segundos")
+    if not isinstance(settings["ollama_timeout_seconds"], int) or not 5 <= settings["ollama_timeout_seconds"] <= 120:
+        raise HTTPException(status_code=400, detail="El timeout debe estar entre 5 y 120 segundos")
     settings["ollama_model"] = settings["ollama_model"].strip()
     return settings
 
@@ -295,6 +343,210 @@ def get_cached_ollama_status(settings: dict | None = None) -> dict:
     return _ollama_status_cache
 
 
+def ollama_error_code(error: OllamaError) -> str:
+    if isinstance(error, OllamaTimeoutError):
+        return "ollama_timeout"
+    if isinstance(error, OllamaModelNotFoundError):
+        return "model_not_installed"
+    if isinstance(error, OllamaUnavailableError):
+        return "ollama_unreachable"
+    return "generation_error"
+
+
+def add_ollama_fallback_notice(
+    demo_answer: dict,
+    *,
+    error_code: str,
+    subject: str | None,
+    has_verified_source: bool,
+    model: str,
+) -> dict:
+    messages = []
+    if not has_verified_source:
+        if subject:
+            messages.append(f"Detecté que tu pregunta es de {subject}.")
+        messages.append("No encontré una fuente curricular local exacta.")
+
+    if error_code == "ollama_timeout":
+        messages.append(
+            "La IA local excedió el tiempo máximo configurado. Se utilizó el modo básico."
+        )
+    elif error_code == "model_not_installed":
+        messages.append(
+            f"El modelo local {model} no está instalado. Se utilizó el modo básico."
+        )
+    elif error_code == "ollama_unreachable":
+        messages.append(
+            "El servidor local de Ollama está inaccesible. Se utilizó el modo básico."
+        )
+    else:
+        messages.append(
+            "La IA local no pudo completar la generación. Se utilizó el modo básico."
+        )
+
+    return {
+        **demo_answer,
+        "answer": f"{' '.join(messages)}\n\n{demo_answer['answer']}",
+    }
+
+
+def build_unverified_source_blocked_answer(subject: str | None) -> dict:
+    detected = subject or "un tema escolar"
+    answer = (
+        f"Detecté que tu pregunta es de {detected}, pero todavía no tengo una "
+        "fuente curricular local verificada sobre este tema. Para evitar darte "
+        "información incorrecta, no generaré una explicación como si estuviera confirmada.\n\n"
+        "Puedes consultar este tema en Modo Explorar o incorporarlo a los contenidos locales."
+    )
+    return {
+        "answer": answer,
+        "summary": "La generación factual se bloqueó porque no existe una fuente local verificada.",
+        "status": "ok",
+    }
+
+
+def add_insufficient_source_notice(demo_answer: dict) -> dict:
+    return {
+        **demo_answer,
+        "answer": (
+            "No tengo suficiente información local verificada para explicar este tema con "
+            "seguridad. Se muestra únicamente el contenido local disponible.\n\n"
+            f"{demo_answer['answer']}"
+        ),
+    }
+
+
+IQUIQUE_TOPIC_MARKERS = (
+    "combate naval de iquique",
+    "combate naval",
+    "arturo prat",
+    "21 de mayo",
+    "esmeralda",
+    "huascar",
+    "miguel grau",
+)
+
+
+@app.on_event("startup")
+def start_local_ai() -> None:
+    """Keep an already running Ollama intact; otherwise manage only our child process."""
+    global _ollama_lifecycle
+    settings = load_settings()
+    if settings["ollama_enabled"]:
+        _ollama_lifecycle = start_managed_server()
+    else:
+        _ollama_lifecycle = {"status": "ollama_disabled", "started_by_chat_escolar": False}
+
+
+@app.on_event("shutdown")
+def stop_local_ai() -> None:
+    settings = load_settings()
+    unloaded = unload_model(model=settings["ollama_model"])
+    stopped = stop_managed_server()
+    _ollama_lifecycle.update({"model_unloaded": unloaded, "server_stopped": stopped})
+IQUIQUE_HALLUCINATION_TERMS = (
+    "juan manuel balmaceda",
+    "monarca",
+    "invasion de chile",
+    "invadir chile",
+    "bandera de victoria",
+    "espanoles",
+    "segunda guerra mundial",
+    "alemania",
+    "italia",
+    "japon",
+    "piratas",
+    "oro",
+    "misiles",
+    "1942",
+    "siglo xviii",
+    "convoy",
+    "barcos italianos",
+    "navieros britanicos",
+    "murieron ambos comandantes",
+    "ambos comandantes murieron",
+    "corbeta chilena arturo prat",
+    "arturo prat se vencio",
+    "bernardo ohiggins",
+    "bernardo o higgins",
+    "barco chilena",
+    "los chilenos fueron derrotados",
+    "murio por los golpes",
+    "destruyeron y hundir al navio enemigo",
+    "el capitan peruano murio",
+)
+
+
+def has_iquique_historical_hallucination(question: str, answer: str) -> bool:
+    normalized_question = normalize_text(question)
+    if not any(marker in normalized_question for marker in IQUIQUE_TOPIC_MARKERS):
+        return False
+    answer_terms = f" {normalize_text(answer).replace(chr(39), '')} "
+    return any(f" {term} " in answer_terms for term in IQUIQUE_HALLUCINATION_TERMS)
+
+
+def is_grounded_iquique_source(local_content: dict | None) -> bool:
+    return bool(
+        local_content
+        and "combate naval de iquique" in normalize_text(local_content.get("title", ""))
+    )
+
+
+def is_history_subject(subject: str | None) -> bool:
+    """Identifica Historia, incluso cuando el contenido usa su nombre curricular largo."""
+    normalized = normalize_text(subject or "")
+    return normalized == "historia" or normalized.startswith("historia geografia")
+
+
+def should_use_grounded_history_answer(
+    *,
+    grounding_required: bool,
+    has_verified_source: bool,
+    subject_used: str | None,
+    local_content: dict | None,
+) -> bool:
+    """En Escolar, Historia verificada se responde solo desde la fuente local."""
+    return bool(
+        grounding_required
+        and has_verified_source
+        and (
+            is_history_subject(subject_used)
+            or is_history_subject((local_content or {}).get("subject"))
+        )
+    )
+
+
+def add_grounding_validation_notice(demo_answer: dict) -> dict:
+    return {
+        **demo_answer,
+        "answer": (
+            "La respuesta de IA no se mostró porque incluía información ajena a la fuente "
+            "local. Se muestra únicamente el contenido local verificado.\n\n"
+            f"{demo_answer['answer']}"
+        ),
+    }
+
+
+def status_with_ai_test(status: dict, settings: dict) -> dict:
+    last_test = _ollama_last_test.copy()
+    ready = bool(
+        status.get("server_reachable", status.get("available"))
+        and status.get("model_installed")
+        and last_test.get("status") == "ollama_success"
+        and last_test.get("model") == settings["ollama_model"]
+    )
+    return {
+        **status,
+        "server_reachable": status.get("server_reachable", status.get("available", False)),
+        "configured_model": settings["ollama_model"],
+        "ready": ready,
+        "last_test_status": last_test["status"],
+        "last_test_duration_ms": last_test["duration_ms"],
+        "last_error_code": last_test["error_code"],
+        "last_error_message": last_test["error_message"],
+    }
+
+
 def is_automatic_subject(subject: str | None) -> bool:
     return normalize_text(subject or "") in AUTO_SUBJECT_VALUES
 
@@ -314,13 +566,11 @@ def select_best_retrieval(retrievals: list[tuple[str, dict]]) -> tuple[str, dict
 
 
 def retrieve_automatic_subject(course: str, question: str, mode: str, detected_subject: str | None) -> tuple[str | None, dict, bool]:
-    """Prefer a detected subject, expanding only when it has no verified source."""
+    """Preserve a detected subject even when its local collection has no match."""
     candidates: list[tuple[str, dict]] = []
     if detected_subject:
         initial = retrieve_local_content(course, detected_subject, question, mode=mode)
-        candidates.append((detected_subject, initial))
-        if initial["provenance_status"] == LOCAL_VERIFIED:
-            return detected_subject, initial, False
+        return detected_subject, initial, False
 
     for subject in CURRICULAR_SUBJECTS:
         if subject == detected_subject:
@@ -495,11 +745,27 @@ def ai_status():
     settings = load_settings()
     status = get_cached_ollama_status(settings)
     return {
-        **status,
+        **status_with_ai_test(status, settings),
         "ai_mode": settings["ai_mode"],
         "ollama_enabled": settings["ollama_enabled"],
         "ollama_timeout_seconds": settings["ollama_timeout_seconds"],
+        "lifecycle": _ollama_lifecycle,
     }
+
+
+@app.post("/ai/shutdown")
+def ai_shutdown():
+    """Clean shutdown for launch scripts and the application window."""
+    settings = load_settings()
+    unloaded = unload_model(model=settings["ollama_model"])
+    stopped = stop_managed_server()
+    _ollama_lifecycle.update({
+        "status": "model_unloaded" if unloaded else _ollama_lifecycle.get("status", "not_checked"),
+        "model_unloaded": unloaded,
+        "server_stopped": stopped,
+    })
+    return {"status": "ok", "model_unloaded": unloaded, "server_stopped": stopped,
+            "started_by_chat_escolar": _ollama_lifecycle.get("started_by_chat_escolar", False)}
 
 
 @app.get("/settings")
@@ -521,34 +787,73 @@ def update_settings(payload: SettingsUpdate):
     return {"status": "ok", "settings": settings}
 
 
-@app.post("/ai/test")
-def ai_test(payload: AiTestRequest):
+def run_ai_test(prompt: str = "Responde únicamente: OK") -> dict:
+    global _ollama_last_test
     settings = load_settings()
     if settings["ai_mode"] == "basic" or not settings["ollama_enabled"]:
-        return {
-            "status": "disabled",
-            "provider": "demo",
-            "message": "Activa IA local automática o Solo Explorar para probar Ollama.",
-            "answer": None,
-        }
+        message = "Activa la IA local para probar Ollama."
+        _ollama_last_test = {"status": "ollama_disabled", "model": settings["ollama_model"], "duration_ms": None, "error_code": "ollama_disabled", "error_message": message}
+        return {"status": "ollama_disabled", "provider": "demo", "message": message, "answer": None}
+
     status = get_cached_ollama_status(settings)
     if not status["available"] or not status["model_installed"]:
-        return {
-            "status": "unavailable",
-            "provider": "demo",
-            "message": status["message"],
-            "answer": None,
+        code = status.get("status")
+        if code not in {
+            "ollama_timeout",
+            "ollama_unreachable",
+            "model_not_installed",
+            "generation_error",
+        }:
+            code = "model_not_installed" if status.get("available") else "ollama_unreachable"
+        message = (
+            "La comprobación de Ollama excedió el tiempo máximo configurado."
+            if code == "ollama_timeout"
+            else f"El modelo {settings['ollama_model']} no está instalado."
+            if code == "model_not_installed"
+            else "La IA local no pudo completar la prueba."
+            if code == "generation_error"
+            else "No se pudo conectar con Ollama."
+        )
+        _ollama_last_test = {
+            "status": code,
+            "model": settings["ollama_model"],
+            "duration_ms": None,
+            "error_code": code,
+            "error_message": message,
         }
+        return {"status": code, "provider": "demo", "message": message, "answer": None}
+
+    started_at = perf_counter()
     try:
         answer = clean_ollama_response(generate_with_ollama(
-            payload.prompt,
+            prompt,
             model=settings["ollama_model"],
             enabled=settings["ollama_enabled"],
             timeout_seconds=settings["ollama_timeout_seconds"],
         ))
     except OllamaError as error:
-        return {"status": "unavailable", "provider": "demo", "message": str(error), "answer": None}
-    return {"status": "ok", "provider": PROVIDER_OLLAMA, "answer": answer}
+        code = ollama_error_code(error)
+        message = (
+            f"La IA local excedió el tiempo máximo de {settings['ollama_timeout_seconds']} s."
+            if code == "ollama_timeout"
+            else f"El modelo {settings['ollama_model']} no está instalado."
+            if code == "model_not_installed"
+            else "No se pudo conectar con Ollama."
+            if code == "ollama_unreachable"
+            else "La IA local no pudo completar la prueba."
+        )
+        duration_ms = round((perf_counter() - started_at) * 1000)
+        _ollama_last_test = {"status": code, "model": settings["ollama_model"], "duration_ms": duration_ms, "error_code": code, "error_message": message}
+        return {"status": code, "provider": "demo", "message": message, "answer": None, "duration_ms": duration_ms}
+
+    duration_ms = round((perf_counter() - started_at) * 1000)
+    _ollama_last_test = {"status": "ollama_success", "model": settings["ollama_model"], "duration_ms": duration_ms, "error_code": None, "error_message": None}
+    return {"status": "ollama_success", "provider": PROVIDER_OLLAMA, "answer": answer, "duration_ms": duration_ms}
+
+
+@app.post("/ai/test")
+def ai_test(payload: AiTestRequest):
+    return run_ai_test(payload.prompt)
 
 
 @app.get("/videos")
@@ -892,43 +1197,93 @@ def chat_demo(payload: ChatDemoRequest):
     ] if local_results else []
     response_provenance = retrieval["provenance_status"]
     provider = educational_context["provider"]
+    has_verified_source = retrieval["provenance_status"] == LOCAL_VERIFIED and bool(local_results)
     settings = load_settings()
     ai_mode = settings["ai_mode"]
-    is_exploration = "explor" in normalize_text(payload.mode or "") or is_all_courses(payload.course)
-    ollama_allowed_for_request = (
+    is_exploration = "explor" in normalize_text(payload.mode or "")
+    grounding_required = not is_exploration
+    grounded_history_policy = should_use_grounded_history_answer(
+        grounding_required=grounding_required,
+        has_verified_source=has_verified_source,
+        subject_used=subject_used,
+        local_content=local_results[0] if local_results else None,
+    )
+    grounded_source_available = has_verified_source
+    answer_grounded = has_verified_source
+    source_confidence = "verified" if has_verified_source else retrieval.get("confidence", "none")
+    generation_blocked_reason = None
+    local_fallback_reason = None
+    answer_warning = None
+    ai_mode_allows_ollama = (
         ai_mode == "automatic"
         or (ai_mode == "explore_only" and is_exploration)
     )
+    ollama_allowed_for_request = (
+        not conversation_context["requires_clarification"]
+        and ai_mode_allows_ollama
+        and (has_verified_source or not grounding_required)
+        and not grounded_history_policy
+    )
     ollama_attempted = False
     ollama_timeout = False
+
+    if (
+        grounding_required
+        and not has_verified_source
+        and not conversation_context["requires_clarification"]
+    ):
+        demo_answer = build_unverified_source_blocked_answer(
+            subject_used or detected_subject
+        )
+        response_provenance = GENERATION_BLOCKED_UNVERIFIED
+        provider = "demo"
+        generation_blocked_reason = "no_verified_local_source"
+
     if settings["ollama_enabled"] and ollama_allowed_for_request:
         ollama_status = get_cached_ollama_status(settings)
     else:
+        blocked_status = "generation_blocked" if generation_blocked_reason else None
         ollama_status = {
+            "status": blocked_status or (
+                "ollama_disabled" if not settings["ollama_enabled"] else "not_attempted"
+            ),
             "enabled": False,
             "available": False,
             "model": settings["ollama_model"],
             "model_installed": False,
-            "message": "La IA local no se usa con la configuración actual.",
+            "message": (
+                "La generación se bloqueó porque no existe una fuente local verificada."
+                if generation_blocked_reason
+                else "La IA local no se usa con la configuración actual."
+            ),
         }
+    ollama_result_status = ollama_status.get(
+        "status",
+        "ready_for_generation"
+        if ollama_status["available"] and ollama_status["model_installed"]
+        else "ollama_unreachable",
+    )
     educational_context["ollama_enabled"] = (
         ollama_status["enabled"]
         and ollama_status["available"]
         and ollama_status["model_installed"]
     )
     educational_context["ollama_available"] = ollama_status["available"]
-    has_verified_source = retrieval["provenance_status"] == LOCAL_VERIFIED and bool(local_results)
-    can_use_general_ollama = (
-        not has_verified_source
-        and is_exploration
-    )
 
-    if has_verified_source:
+    if grounded_history_policy:
+        # Esta ruta se resuelve antes de toda llamada o comprobacion de Ollama.
+        # No aplica el aviso de fuente insuficiente: la fuente ya fue verificada.
+        demo_answer = build_grounded_history_answer(payload, local_results[0])
+        response_provenance = LOCAL_VERIFIED
+        provider = PROVIDER_LOCAL_SAFE
+        ollama_result_status = "grounded_local_policy"
+        local_fallback_reason = "grounded_history_policy"
+    elif has_verified_source:
         demo_answer = build_local_content_fallback(payload, local_results[0])
         response_provenance = LOCAL_CONTENT_FALLBACK
         provider = PROVIDER_LOCAL_CONTENT
 
-    if ollama_allowed_for_request and (has_verified_source or can_use_general_ollama):
+    if ollama_allowed_for_request:
         if ollama_status["available"] and ollama_status["model_installed"]:
             try:
                 ollama_attempted = True
@@ -945,20 +1300,91 @@ def chat_demo(payload: ChatDemoRequest):
                 ))
                 if not answer:
                     raise OllamaError("Ollama devolvió una respuesta vacía después de la limpieza.")
-                demo_answer = {
-                    "answer": answer,
-                    "summary": "Explicación generada con IA local" + (" usando contenido local verificado." if has_verified_source else " sin fuente local verificada."),
-                    "status": "ok",
-                }
-                response_provenance = OLLAMA_WITH_LOCAL_CONTENT if has_verified_source else OLLAMA_GENERATED
-                provider = PROVIDER_OLLAMA_WITH_LOCAL_CONTENT if has_verified_source else PROVIDER_OLLAMA
+                if has_verified_source and is_source_insufficient_response(answer):
+                    demo_answer = add_insufficient_source_notice(
+                        build_local_content_fallback(payload, local_results[0])
+                    )
+                    response_provenance = LOCAL_CONTENT_FALLBACK
+                    provider = PROVIDER_LOCAL_CONTENT
+                    ollama_result_status = "source_insufficient"
+                    generation_blocked_reason = "verified_source_insufficient"
+                    local_fallback_reason = "verified_source_insufficient"
+                    answer_grounded = True
+                elif has_verified_source and has_iquique_historical_hallucination(
+                    conversation_context["contextual_question"], answer
+                ):
+                    demo_answer = add_grounding_validation_notice(
+                        build_local_content_fallback(payload, local_results[0])
+                    )
+                    response_provenance = LOCAL_CONTENT_FALLBACK
+                    provider = PROVIDER_LOCAL_CONTENT
+                    ollama_result_status = "grounding_validation_failed"
+                    generation_blocked_reason = "historical_hallucination_detected"
+                    local_fallback_reason = "historical_hallucination_detected"
+                    answer_grounded = True
+                else:
+                    demo_answer = {
+                        "answer": answer,
+                        "summary": "Explicación generada con IA local" + (
+                            " usando contenido local verificado."
+                            if has_verified_source
+                            else " en modo exploratorio sin fuente verificada."
+                        ),
+                        "status": "ok",
+                    }
+                    if has_verified_source:
+                        response_provenance = OLLAMA_WITH_LOCAL_CONTENT
+                        provider = PROVIDER_OLLAMA_WITH_LOCAL_CONTENT
+                        answer_grounded = True
+                    else:
+                        response_provenance = OLLAMA_UNVERIFIED
+                        provider = PROVIDER_OLLAMA
+                        answer_grounded = False
+                        answer_warning = (
+                            "Respuesta generada con IA local sin fuente verificada. "
+                            "Puede contener errores."
+                        )
+                    ollama_result_status = "ollama_success"
             except OllamaError as error:
                 logger.warning("Ollama falló; se usará el fallback local: %s", error)
-                ollama_timeout = "timeout" in str(error).lower()
-                response_provenance = LOCAL_CONTENT_FALLBACK if has_verified_source else DEMO_FALLBACK
+                ollama_result_status = ollama_error_code(error)
+                ollama_timeout = ollama_result_status == "ollama_timeout"
+                demo_answer = add_ollama_fallback_notice(
+                    demo_answer,
+                    error_code=ollama_result_status,
+                    subject=subject_used or detected_subject,
+                    has_verified_source=has_verified_source,
+                    model=settings["ollama_model"],
+                )
+                response_provenance = LOCAL_CONTENT_FALLBACK if has_verified_source else retrieval["provenance_status"]
                 provider = PROVIDER_LOCAL_CONTENT if has_verified_source else "demo"
+                if has_verified_source:
+                    local_fallback_reason = "ollama_failure"
         else:
+            ollama_result_status = (
+                "model_not_installed"
+                if ollama_status["available"] and not ollama_status["model_installed"]
+                else ollama_status.get("status", "ollama_unreachable")
+            )
+            demo_answer = add_ollama_fallback_notice(
+                demo_answer,
+                error_code=ollama_result_status,
+                subject=subject_used or detected_subject,
+                has_verified_source=has_verified_source,
+                model=settings["ollama_model"],
+            )
             provider = educational_context["provider"]
+            if has_verified_source:
+                local_fallback_reason = "ollama_unavailable"
+
+    educational_context.update({
+        "grounding_required": grounding_required,
+        "grounded_source_available": grounded_source_available,
+        "answer_grounded": answer_grounded,
+        "source_confidence": source_confidence,
+        "generation_blocked_reason": generation_blocked_reason,
+        "local_fallback_reason": local_fallback_reason,
+    })
 
     history_id = save_history(
         payload,
@@ -984,9 +1410,26 @@ def chat_demo(payload: ChatDemoRequest):
         "subject_fallback_used": subject_fallback_used,
         "ai_mode_used": ai_mode,
         "ollama_attempted": ollama_attempted,
+        "used_ollama": ollama_attempted,
         "ollama_timeout": ollama_timeout,
+        "ollama_status": ollama_result_status,
         "used_local_content": has_verified_source,
+        "local_content_found": has_verified_source,
+        "grounding_required": grounding_required,
+        "grounded_source_available": grounded_source_available,
+        "answer_grounded": answer_grounded,
+        "source_confidence": source_confidence,
+        "generation_blocked_reason": generation_blocked_reason,
+        "answer_warning": answer_warning,
+        "local_fallback_reason": local_fallback_reason,
         "ollama": {
+            "status": ollama_result_status,
+            "error_code": ollama_result_status if ollama_result_status in {
+                "ollama_unreachable",
+                "model_not_installed",
+                "ollama_timeout",
+                "generation_error",
+            } else None,
             "enabled": ollama_status["enabled"],
             "available": ollama_status["available"],
             "model": ollama_status["model"],

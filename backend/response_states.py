@@ -7,6 +7,8 @@ CLARIFICATION_REQUIRED = "clarification_required"
 OLLAMA_GENERATED = "ollama_generated"
 OLLAMA_WITH_LOCAL_CONTENT = "ollama_with_local_content"
 OLLAMA_UNAVAILABLE = "ollama_unavailable"
+OLLAMA_UNVERIFIED = "ollama_unverified"
+GENERATION_BLOCKED_UNVERIFIED = "generation_blocked_unverified"
 LOCAL_CONTENT_FALLBACK = "local_content_fallback"
 
 RESPONSE_STATUSES = {
@@ -19,6 +21,8 @@ RESPONSE_STATUSES = {
     OLLAMA_GENERATED,
     OLLAMA_WITH_LOCAL_CONTENT,
     OLLAMA_UNAVAILABLE,
+    OLLAMA_UNVERIFIED,
+    GENERATION_BLOCKED_UNVERIFIED,
     LOCAL_CONTENT_FALLBACK,
 }
 
@@ -32,6 +36,7 @@ LOCAL_PROVENANCE_STATUSES = {
 
 PROVIDER_DEMO = "demo"
 PROVIDER_LOCAL_CONTENT = "local_content"
+PROVIDER_LOCAL_SAFE = "local_safe"
 PROVIDER_OLLAMA = "ollama"
 PROVIDER_OLLAMA_WITH_LOCAL_CONTENT = "ollama_with_local_content"
 

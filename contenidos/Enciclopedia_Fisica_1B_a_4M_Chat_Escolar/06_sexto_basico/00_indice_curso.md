@@ -1,0 +1,26 @@
+# Índice de Física — 6° básico
+
+- [Fuerza como vector inicial](001_fuerza_como_vector_inicial.md) — mecanica
+- [Diagramas de fuerzas](002_diagramas_de_fuerzas.md) — mecanica
+- [Peso, normal y roce](003_peso_normal_y_roce.md) — fisica_general
+- [Fuerza elástica y ley de Hooke inicial](004_fuerza_elastica_y_ley_de_hooke_inicial.md) — mecanica
+- [Rapidez, distancia y tiempo](005_rapidez_distancia_y_tiempo.md) — mecanica
+- [Velocidad y dirección](006_velocidad_y_direccion.md) — mecanica
+- [Aceleración inicial](007_aceleracion_inicial.md) — mecanica
+- [Energía cinética y potencial](008_energia_cinetica_y_potencial.md) — energia
+- [Transformaciones de energía](009_transformaciones_de_energia.md) — energia
+- [Conservación de la energía](010_conservacion_de_la_energia.md) — energia
+- [Eficiencia energética](011_eficiencia_energetica.md) — energia
+- [Calor y temperatura](012_calor_y_temperatura.md) — termica
+- [Conducción, convección y radiación](013_conduccion_conveccion_y_radiacion.md) — fisica_general
+- [Dilatación térmica](014_dilatacion_termica.md) — termica
+- [Presión en sólidos](015_presion_en_solidos.md) — fluidos
+- [Presión en líquidos](016_presion_en_liquidos.md) — fluidos
+- [Presión atmosférica](017_presion_atmosferica.md) — fluidos
+- [Flotación inicial](018_flotacion_inicial.md) — fluidos
+- [Electricidad estática](019_electricidad_estatica.md) — electricidad
+- [Circuitos y seguridad](020_circuitos_y_seguridad.md) — electricidad
+- [Generación eléctrica](021_generacion_electrica.md) — fisica_general
+- [Energías renovables](022_energias_renovables.md) — energia
+- [Gravedad y órbitas](023_gravedad_y_orbitas.md) — astrofisica_fisica_moderna
+- [Eclipses y movimiento celeste](024_eclipses_y_movimiento_celeste.md) — mecanica

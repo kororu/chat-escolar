@@ -1,0 +1,1897 @@
+[
+  {
+    "path": "00_documentacion/00_indice_maestro.md",
+    "bytes": 1486,
+    "sha256": "49bed8aba08aeb283938634553f7861321743c3e8ee7cbdd011426b3c9259896"
+  },
+  {
+    "path": "00_documentacion/00_instalacion.md",
+    "bytes": 487,
+    "sha256": "5cf14eddc46ac44b6ec339c435f98ea64c2afac14ce73e7a1e101a39494bf02b"
+  },
+  {
+    "path": "00_documentacion/01_estado_curricular_y_fuentes.md",
+    "bytes": 1184,
+    "sha256": "01c30c043a338d8080acc9a70469dfbed04017ab2f636adbe7824c26ac22fde3"
+  },
+  {
+    "path": "00_documentacion/02_arquitectura_de_contenidos.md",
+    "bytes": 724,
+    "sha256": "83d258829b48a00f1bf16a111e457925218f39ca9f2105815fe367d1e466fa9a"
+  },
+  {
+    "path": "00_documentacion/03_guia_editorial_historiografica.md",
+    "bytes": 801,
+    "sha256": "b9b03ea522dc216fdfa5f8b024b156d0e0448b62f974b51a632f67ef14fe0edb"
+  },
+  {
+    "path": "00_documentacion/04_mapa_vertical_curricular.md",
+    "bytes": 1855,
+    "sha256": "f80c871af212717713368d9eb91b42a9fc2159a8ceec3afc6cee3e7acb9cc1d8"
+  },
+  {
+    "path": "00_documentacion/05_integracion_ollama_rag.md",
+    "bytes": 653,
+    "sha256": "f796a901e19973a022d50a7eb4db8e7ec69777b82145ee6c966844fc0f4eb4b3"
+  },
+  {
+    "path": "00_documentacion/06_prompt_sistema_ollama.md",
+    "bytes": 811,
+    "sha256": "b1f674a65f26c6fe4259d4a39d770721f6f4cbc7efcf889ee00132b9e9dfc0f8"
+  },
+  {
+    "path": "00_documentacion/07_configuracion_rag.yaml",
+    "bytes": 445,
+    "sha256": "740e1980b14b93cfd2112fe3f3fdc5e1a780c21da4e088dee89fad5ba2be6134"
+  },
+  {
+    "path": "00_documentacion/08_control_calidad.md",
+    "bytes": 487,
+    "sha256": "3ff5b097cee2f5d7098b64292570259cd17fed4ad803ec63d7074c777d0896e7"
+  },
+  {
+    "path": "00_documentacion/09_pruebas_recuperacion.md",
+    "bytes": 903,
+    "sha256": "0724e655b241d9cecf4e802c4f4af70893068fc888245c795d7b00cf407749cd"
+  },
+  {
+    "path": "00_documentacion/10_registro_fuentes.md",
+    "bytes": 2247,
+    "sha256": "97574de8e55efaf4449bbc171a744d7f2b7614825e52703fe7a12509dd476aa3"
+  },
+  {
+    "path": "00_documentacion/11_resumen_validacion.json",
+    "bytes": 689,
+    "sha256": "1af415af55a085c1f63108ca6e3adad0ed2e1fbaff5c0af9bbeb71552f4a26e1"
+  },
+  {
+    "path": "01_primero_basico/00_indice.md",
+    "bytes": 2427,
+    "sha256": "f7dfdb28aafb802df8eea216438682a1f12b6cfd4d4f6e8bc034f4304f903587"
+  },
+  {
+    "path": "01_primero_basico/bancos/banco_preguntas.md",
+    "bytes": 2446,
+    "sha256": "711b77cd59c1debc5b01254b6fd52d86e93153dc7933d05f8dca62bf3dd6c643"
+  },
+  {
+    "path": "01_primero_basico/bancos/glosario.md",
+    "bytes": 2896,
+    "sha256": "bc36ad3d42f05a6cdb566473a14923bbc484d7b964992f532337953565230ae0"
+  },
+  {
+    "path": "01_primero_basico/bancos/tarjetas_repaso.md",
+    "bytes": 2665,
+    "sha256": "b8415129c7377748418d04fd7076bac4814382f154b2110880d87b1a57b8b263"
+  },
+  {
+    "path": "01_primero_basico/capitulos/01_el_tiempo_y_la_historia.md",
+    "bytes": 11054,
+    "sha256": "b9739bdd2d1d8b2750faf77f2202d5e5777018079ad58e12d1a07fb3ba90d310"
+  },
+  {
+    "path": "01_primero_basico/capitulos/02_historia_personal_e_identidad.md",
+    "bytes": 12552,
+    "sha256": "16b1ca9ac9f8a88a370599b2c266a831ebdefcb7a7878d4a55d9a38dc2808c60"
+  },
+  {
+    "path": "01_primero_basico/capitulos/03_memoria_familiar_y_diversidad_de_familias.md",
+    "bytes": 11940,
+    "sha256": "4be82ab795d38faa109524257bb6fc628e1ba87569c3835984a727ac03ae57e9"
+  },
+  {
+    "path": "01_primero_basico/capitulos/04_mi_escuela_barrio_o_localidad_tienen_historia.md",
+    "bytes": 12304,
+    "sha256": "3e97eaca7e6c95214591c3ed54b31f39719090562e3274968ccb995402ec2543"
+  },
+  {
+    "path": "01_primero_basico/capitulos/05_fiestas_juegos_comidas_y_tradiciones_de_chile.md",
+    "bytes": 11995,
+    "sha256": "986c47f90446c9402e0deac2230cc5c30b0014c460f8d59e76ba2256f1af1e21"
+  },
+  {
+    "path": "01_primero_basico/capitulos/06_simbolos_y_conmemoraciones_de_chile.md",
+    "bytes": 12186,
+    "sha256": "ad37f2fe722518cfbab372861967e1a116530d8cf9d6f404c772cbe10daf01e8"
+  },
+  {
+    "path": "01_primero_basico/capitulos/07_personas_y_grupos_que_ayudan_a_construir_chile.md",
+    "bytes": 12675,
+    "sha256": "0c9131d66e84471dbf2fa3453cc94a9410e04135b3399b7e7338148da9c96b1f"
+  },
+  {
+    "path": "01_primero_basico/capitulos/08_lugares_y_objetos_que_cuentan_historias.md",
+    "bytes": 12022,
+    "sha256": "6058005d09f35d7db2e5c9d5f782fbeb47a3aa2676454e8cbee810522210b005"
+  },
+  {
+    "path": "01_primero_basico/capitulos/09_chile_tiene_muchas_historias_y_culturas.md",
+    "bytes": 12523,
+    "sha256": "d189f7acc2a4f39a2ee7f2db47745d9744bc91e040f3d46d8b03f59ce5a7d9a2"
+  },
+  {
+    "path": "01_primero_basico/capitulos/10_chile_antes_y_ahora.md",
+    "bytes": 11422,
+    "sha256": "936a2d2ba29b94e13a9945d96f944fc06cf858d9f1570a22e763c270bed24e5f"
+  },
+  {
+    "path": "01_primero_basico/evaluaciones/diagnostico.md",
+    "bytes": 1438,
+    "sha256": "b64ca0f02d0548227ece5757178a06f3f6f103b39bf8c7726aba85bec84fde61"
+  },
+  {
+    "path": "01_primero_basico/evaluaciones/respuestas_diagnostico.md",
+    "bytes": 2035,
+    "sha256": "25deb9e62f5260934f401e69e59e838100c1fe359def64db26abfa5e946fbaa1"
+  },
+  {
+    "path": "02_segundo_basico/00_indice.md",
+    "bytes": 3438,
+    "sha256": "554b533aa85591d9f3cffbff73752e8054ae67e812156636cca78d09343d3c4e"
+  },
+  {
+    "path": "02_segundo_basico/bancos/banco_preguntas.md",
+    "bytes": 3919,
+    "sha256": "7071b2db2af1197d98310a6ef8859da1020f99bb400bc56d98204684401f6df5"
+  },
+  {
+    "path": "02_segundo_basico/bancos/glosario.md",
+    "bytes": 3918,
+    "sha256": "468b995e17683f8c53fa7c3b3540272b7f95550d95997fff9f51dcab649ea85b"
+  },
+  {
+    "path": "02_segundo_basico/bancos/tarjetas_repaso.md",
+    "bytes": 4556,
+    "sha256": "052026d606b1518790d898e91f84c542bd1ba3a2feb5f9c13dfe26e826b4730b"
+  },
+  {
+    "path": "02_segundo_basico/capitulos/01_chile_antes_de_la_llegada_de_los_espanoles.md",
+    "bytes": 11398,
+    "sha256": "8682b7edfdf38c2164049ef3deadc851ba830d4383e80c3042b2ddb8829db531"
+  },
+  {
+    "path": "02_segundo_basico/capitulos/02_movilidad_sedentarismo_y_adaptacion.md",
+    "bytes": 11517,
+    "sha256": "b4a9270a3159c7d0b6201008a0a7ca527babfa9ac477bab877c611e82bc4a25d"
+  },
+  {
+    "path": "02_segundo_basico/capitulos/03_pueblo_aymara_territorio_economia_y_continuidad.md",
+    "bytes": 11651,
+    "sha256": "86e3d71fcf25f8452e6c3e7fc28fb104e5ac22a3dae0c189fc3cb5fb5d4ac88d"
+  },
+  {
+    "path": "02_segundo_basico/capitulos/04_pueblo_lickanantay_o_atacameno.md",
+    "bytes": 11453,
+    "sha256": "6a639e1e591bb3b52d24def10e69319d7ca5ebaeaa82b41503ac7f83cd28cfa1"
+  },
+  {
+    "path": "02_segundo_basico/capitulos/05_pueblo_diaguita_y_valles_del_norte_chico.md",
+    "bytes": 11463,
+    "sha256": "0eff3f06812ceb4fdaffb758e5f4d97092f4b2af88694c2d09241ecbe0a3141a"
+  },
+  {
+    "path": "02_segundo_basico/capitulos/06_pueblo_chango_y_vida_costera.md",
+    "bytes": 11473,
+    "sha256": "0ffbe502f0d9234286cd1b665603740b3560a5e4390ddf0409734f5c1f071bbf"
+  },
+  {
+    "path": "02_segundo_basico/capitulos/07_pueblo_mapuche_formas_de_vida_y_continuidad.md",
+    "bytes": 11743,
+    "sha256": "44adc1d078d11147dbde774529b0a2e5fac7850f7e1b5171e3080046bb4784b6"
+  },
+  {
+    "path": "02_segundo_basico/capitulos/08_pueblo_rapa_nui_poblamiento_sociedad_y_patrimonio.md",
+    "bytes": 11433,
+    "sha256": "7eccdaf42a84266a27751b8b55bd018c1b3bbe4c756bc2cd7f029c31c9046038"
+  },
+  {
+    "path": "02_segundo_basico/capitulos/09_pueblo_selk_nam_y_tierra_del_fuego.md",
+    "bytes": 12527,
+    "sha256": "6e588007d07838e86d0019508e37bf1448db8ca2cfd2aa6874348f6759754c5b"
+  },
+  {
+    "path": "02_segundo_basico/capitulos/10_pueblos_kawesqar_y_yagan.md",
+    "bytes": 11363,
+    "sha256": "91252978beb7679b15e748be64fc2afd1741afaef6c4a2288735f99c49bf07ff"
+  },
+  {
+    "path": "02_segundo_basico/capitulos/11_pueblos_originarios_de_chile_en_el_presente.md",
+    "bytes": 11750,
+    "sha256": "2c4f5b10f5b9676faecba69892b0bfd06cee456808cae471e101a702f9f04850"
+  },
+  {
+    "path": "02_segundo_basico/capitulos/12_la_llegada_espanola_y_los_grandes_cambios.md",
+    "bytes": 11920,
+    "sha256": "46e40a428a779a83f7527fd916bcc9147c524350ffbbef7a7878664c5367b16e"
+  },
+  {
+    "path": "02_segundo_basico/capitulos/13_aportes_indigenas_espanoles_y_afrodescendientes.md",
+    "bytes": 12696,
+    "sha256": "2085644390b3f7ad7ca98001c377a6bc6b7a1e06602f016dee68a9e2d166b0e3"
+  },
+  {
+    "path": "02_segundo_basico/capitulos/14_mestizaje_y_formacion_de_una_sociedad_nueva.md",
+    "bytes": 11843,
+    "sha256": "5aaf488086ff2eb9f764b59628e671e6afe6896108c691ecf11d154623a589dc"
+  },
+  {
+    "path": "02_segundo_basico/capitulos/15_inmigrantes_y_aportes_a_la_sociedad_chilena.md",
+    "bytes": 11519,
+    "sha256": "6289aa1f597c598a73a6dcf3390e762e444139d2686e2335c2e8b106a35a5408"
+  },
+  {
+    "path": "02_segundo_basico/capitulos/16_patrimonio_de_los_pueblos_y_comunidades_de_chile.md",
+    "bytes": 11950,
+    "sha256": "1486fa4192007f2f1d58d51bbbc4bf7379a11ffb892f7339f1da75a616f2f5e7"
+  },
+  {
+    "path": "02_segundo_basico/evaluaciones/diagnostico.md",
+    "bytes": 1720,
+    "sha256": "27da2a1976ce26a9a3ec9a8a5088dd980fdf17622945ae8d317fa5a33689639e"
+  },
+  {
+    "path": "02_segundo_basico/evaluaciones/respuestas_diagnostico.md",
+    "bytes": 2533,
+    "sha256": "dced8e5cc5a1005c8ab63744ac6eb0bf26b1ac311cb4671d99f1723d7472d9dc"
+  },
+  {
+    "path": "03_tercero_basico/00_indice.md",
+    "bytes": 2746,
+    "sha256": "26cf320599b017c07d8be6c2da8e72e0284e203076b8858372a95fc1c1e49b37"
+  },
+  {
+    "path": "03_tercero_basico/bancos/banco_preguntas.md",
+    "bytes": 2525,
+    "sha256": "2a965809341bbb4e51a00cad7e890b7f45f14888556f44a5623db3e7e358935f"
+  },
+  {
+    "path": "03_tercero_basico/bancos/glosario.md",
+    "bytes": 2301,
+    "sha256": "901f5245ff4290dfe607c455da014acf41a80e7ad902910e14b4271298d526ee"
+  },
+  {
+    "path": "03_tercero_basico/bancos/tarjetas_repaso.md",
+    "bytes": 2723,
+    "sha256": "792fb9573f6aad80a2ec447fa35286d841896a81103b52221f943827b8664023"
+  },
+  {
+    "path": "03_tercero_basico/capitulos/01_como_investigamos_la_historia_de_chile.md",
+    "bytes": 11510,
+    "sha256": "cb729f1872c16a68eb1b6adc26b72075c71d03edef7b8899051e8d62a2a88dc6"
+  },
+  {
+    "path": "03_tercero_basico/capitulos/02_historia_de_mi_localidad_y_sus_instituciones.md",
+    "bytes": 12300,
+    "sha256": "9afa320997cc37233241b51fd491adb5c41e3ed5757bcde62b166ff9f78a10ba"
+  },
+  {
+    "path": "03_tercero_basico/capitulos/03_linea_de_tiempo_general_de_la_historia_de_chile.md",
+    "bytes": 11568,
+    "sha256": "21f8c79b746ed6d33479bb61d224c17a97e4a83f999feb95a40c8ce41df07822"
+  },
+  {
+    "path": "03_tercero_basico/capitulos/04_pueblos_del_territorio_chileno_y_modos_de_vida_antiguos.md",
+    "bytes": 11874,
+    "sha256": "ac39cee3760919842da4775cec306fc63036b535310fd67666c4011f3c04a1ad"
+  },
+  {
+    "path": "03_tercero_basico/capitulos/05_el_mundo_andino_y_su_presencia_en_chile.md",
+    "bytes": 11790,
+    "sha256": "088f6b32f2a7da9eaacc2aa1f1a5525d93b705141ef40eb0a59f2ec1e7afce5b"
+  },
+  {
+    "path": "03_tercero_basico/capitulos/06_de_la_ciudadania_antigua_a_la_democracia_chilena.md",
+    "bytes": 11932,
+    "sha256": "4f5c32f63fe4e121a0c1fed9b2b8894ef80d79431c54da693c8d380abcfe96c2"
+  },
+  {
+    "path": "03_tercero_basico/capitulos/07_de_la_ciudad_antigua_a_las_ciudades_de_chile.md",
+    "bytes": 12143,
+    "sha256": "62490b727db7aa496693f34e3c9f795d6318ab32ae2b0f415f89a700756a35d5"
+  },
+  {
+    "path": "03_tercero_basico/capitulos/08_instituciones_y_personas_al_servicio_de_la_comunidad.md",
+    "bytes": 12921,
+    "sha256": "9c216bdbbc5caa804ed28d6142371edc21ce1bacbe6c8909f1d0cb584de06413"
+  },
+  {
+    "path": "03_tercero_basico/capitulos/09_como_cambio_la_vida_cotidiana_en_chile.md",
+    "bytes": 11635,
+    "sha256": "a9c3f5caac213a7f297afdfdc351f83395a06df2a47fc54f0412cfaeda23f08b"
+  },
+  {
+    "path": "03_tercero_basico/capitulos/10_proyecto_breve_de_patrimonio_local.md",
+    "bytes": 11985,
+    "sha256": "e5da99eeb495fccd2131b7accd8eb59c51060f2a6aa80f2482d76a8d6dbba8fc"
+  },
+  {
+    "path": "03_tercero_basico/evaluaciones/diagnostico.md",
+    "bytes": 1517,
+    "sha256": "c01eef76dd58ea816617cb387146206e91376d56f58a93448371716666df91c4"
+  },
+  {
+    "path": "03_tercero_basico/evaluaciones/respuestas_diagnostico.md",
+    "bytes": 2053,
+    "sha256": "ff23e960683c8e62c64041cb94658a6807212437c7baaf8e1fd255da5ca2716a"
+  },
+  {
+    "path": "04_cuarto_basico/00_indice.md",
+    "bytes": 3575,
+    "sha256": "2a610a3c423a65397264bd3377a6d0c9df5b28d2191df0faf836a022fc91cf2f"
+  },
+  {
+    "path": "04_cuarto_basico/bancos/banco_preguntas.md",
+    "bytes": 3503,
+    "sha256": "18f7477743d6806f56f79df2d5f92d57da27dc9df8ac545d5c1e4c507236287e"
+  },
+  {
+    "path": "04_cuarto_basico/bancos/glosario.md",
+    "bytes": 3721,
+    "sha256": "f047167590bcf24d178f0800fc033dc391a97024178e5bab20c3070088089983"
+  },
+  {
+    "path": "04_cuarto_basico/bancos/tarjetas_repaso.md",
+    "bytes": 4019,
+    "sha256": "18f1a96714f44f4eaa3a6b64be59dfd6f85f89235f774f0353b59bd6e3c19ccd"
+  },
+  {
+    "path": "04_cuarto_basico/capitulos/01_fuentes_para_estudiar_pueblos_de_america_y_chile.md",
+    "bytes": 11839,
+    "sha256": "6f971f89608bde882b963cd76398557aa2a4d2465efb5f8a477c5cb9eb9d30f7"
+  },
+  {
+    "path": "04_cuarto_basico/capitulos/02_el_tawantinsuyu_en_el_norte_y_centro_de_chile.md",
+    "bytes": 11762,
+    "sha256": "e34666f079c9f63ef30cec7bbabd5b3c8dd4809d11a44f75ff0bcb31267c22ed"
+  },
+  {
+    "path": "04_cuarto_basico/capitulos/03_diaguitas_antes_y_durante_la_expansion_inca.md",
+    "bytes": 11505,
+    "sha256": "c1d7bedeba7ce5a99547a9146c2c273384f63e353f2dfe17547fa3432bafe552"
+  },
+  {
+    "path": "04_cuarto_basico/capitulos/04_aymaras_y_redes_andinas.md",
+    "bytes": 11467,
+    "sha256": "5f1e902edeb5f4460c74155ef6197e9227c3c5c2fcb159ee3de552023fb94feb"
+  },
+  {
+    "path": "04_cuarto_basico/capitulos/05_oasis_caravanas_e_influencia_inca_en_atacama.md",
+    "bytes": 11641,
+    "sha256": "93c0de2c0cfb0ec9be98c7be9ef83e36f6c02d753bf18668b05f5fb6ee10151b"
+  },
+  {
+    "path": "04_cuarto_basico/capitulos/06_chile_dentro_de_la_diversidad_americana_prehispanica.md",
+    "bytes": 11912,
+    "sha256": "2a91a8abbded88b6ddb8f3b2b85f1f1ef1f3405a36971084235353472246d4e6"
+  },
+  {
+    "path": "04_cuarto_basico/capitulos/07_europa_y_america_antes_de_la_conquista_de_chile.md",
+    "bytes": 12148,
+    "sha256": "f976bb0fcc586cb8b25ce3377f6c8c036b82ff7db5b4a32794c266cd846fb2c0"
+  },
+  {
+    "path": "04_cuarto_basico/capitulos/08_primer_acercamiento_al_debate_sobre_la_conquista.md",
+    "bytes": 12428,
+    "sha256": "a6b4ae2c6ddb1115024b26d8631360b05c8573d687865e89e9caa574b02c527d"
+  },
+  {
+    "path": "04_cuarto_basico/capitulos/09_santiago_territorio_indigena_y_fundacion_espanola.md",
+    "bytes": 12585,
+    "sha256": "b6f38ae31f901221fc4a5eb1ccc941fdaa7f008ad2e9bcf4629b9a614bc9f993"
+  },
+  {
+    "path": "04_cuarto_basico/capitulos/10_resistencia_indigena_y_diversidad_de_respuestas.md",
+    "bytes": 12604,
+    "sha256": "a4e3b002054e38ccaf34de449cbb9a0e3408fb4805b950d9a8647de13be635d1"
+  },
+  {
+    "path": "04_cuarto_basico/capitulos/11_chile_america_y_la_construccion_de_fronteras.md",
+    "bytes": 11991,
+    "sha256": "61fc384c2fecd1a8af56259bc3dccfde48dcca05331b89afe8f0a37b42f420f7"
+  },
+  {
+    "path": "04_cuarto_basico/capitulos/12_como_nacieron_algunas_instituciones_de_chile.md",
+    "bytes": 12188,
+    "sha256": "2e1f0dcb9a2115c97a0c7224759b5f761f95a1f9d2c42440e39b7038a6755db3"
+  },
+  {
+    "path": "04_cuarto_basico/capitulos/13_derechos_y_participacion_en_la_historia_chilena.md",
+    "bytes": 11756,
+    "sha256": "d0995cb8154b0b5fa2a6b25d7b7126e9635210ef8a5ec43a870501e9a5e109d1"
+  },
+  {
+    "path": "04_cuarto_basico/capitulos/14_proyecto_de_historia_local_y_comunidad.md",
+    "bytes": 12283,
+    "sha256": "b013f76e8b249779d5e7c9ce3f4570104adf84ec68bcd0f8109cb5793f6f53a9"
+  },
+  {
+    "path": "04_cuarto_basico/evaluaciones/diagnostico.md",
+    "bytes": 1797,
+    "sha256": "523e6482bf1ed746205a5feaae9f5ac37689b6f318cad70dc15035843a63fdc4"
+  },
+  {
+    "path": "04_cuarto_basico/evaluaciones/respuestas_diagnostico.md",
+    "bytes": 2617,
+    "sha256": "3d1c13bd07990e773538ead54ab46aa88704bd865b285988d86ccdd3a4324eb9"
+  },
+  {
+    "path": "05_quinto_basico/00_indice.md",
+    "bytes": 4621,
+    "sha256": "e49cab0ea7412e373b0d352f9d079355b1ec7f46d8e36c759a24e1e146f5ae42"
+  },
+  {
+    "path": "05_quinto_basico/bancos/banco_preguntas.md",
+    "bytes": 5756,
+    "sha256": "d927d5d2d20911d1a8794e20b4dd83acb1ef5f751817af0713ce5b8734b67db5"
+  },
+  {
+    "path": "05_quinto_basico/bancos/glosario.md",
+    "bytes": 5223,
+    "sha256": "e502c76d9e2b8735f433a923b7f4b222408ba5bc1ca3a21f0162a75c8891e732"
+  },
+  {
+    "path": "05_quinto_basico/bancos/tarjetas_repaso.md",
+    "bytes": 6630,
+    "sha256": "21cb31b24def166489752df8e979aad69b2725af48f5c5d9871fa322e90c97f6"
+  },
+  {
+    "path": "05_quinto_basico/capitulos/01_expansion_europea_y_viajes_oceanicos.md",
+    "bytes": 12721,
+    "sha256": "c1e905bf4df5b5e79d5cef54f9b64d5037f051d7654ac4ec88de894d5b8dcd43"
+  },
+  {
+    "path": "05_quinto_basico/capitulos/02_magallanes_el_estrecho_y_la_primera_circunnavegacion.md",
+    "bytes": 12410,
+    "sha256": "1ba2d19f4fa47dfe4071f3235bd4c173c7ae4c0fdc035682e7d8671f46b8a03f"
+  },
+  {
+    "path": "05_quinto_basico/capitulos/03_expedicion_de_diego_de_almagro.md",
+    "bytes": 12032,
+    "sha256": "4741ff27c3d2055f6f836544b16d617d5be9b80b2f902b8ee149e23d17be40f6"
+  },
+  {
+    "path": "05_quinto_basico/capitulos/04_expedicion_de_pedro_de_valdivia_y_conquista_inicial.md",
+    "bytes": 12842,
+    "sha256": "359292ca3e14c4f1f5f33c2844765dac7ee0c95fbdcecc236ab5ca90cbe05488"
+  },
+  {
+    "path": "05_quinto_basico/capitulos/05_fundacion_y_destruccion_inicial_de_santiago.md",
+    "bytes": 12724,
+    "sha256": "22b2ed474501d01c2458eaecbffb0e3fadfa2132ba81b256c14606891100615a"
+  },
+  {
+    "path": "05_quinto_basico/capitulos/06_resistencia_mapuche_durante_la_conquista.md",
+    "bytes": 12560,
+    "sha256": "10b81cd727757e837a6909cb24cebc2a24f2be04a5bf85f4ca10dd388e7d1ac7"
+  },
+  {
+    "path": "05_quinto_basico/capitulos/07_lautaro_caupolican_y_las_memorias_de_la_resistencia.md",
+    "bytes": 12422,
+    "sha256": "ec10c252ba49406f7bc7444a99949483ecd2eea5d227fe72be1aba90cff7c8fb"
+  },
+  {
+    "path": "05_quinto_basico/capitulos/08_consecuencias_de_la_conquista_en_chile.md",
+    "bytes": 12095,
+    "sha256": "9aa003dda4e96e7ff4241c8de385d5944645eed3e87b25ada67375cc1242880f"
+  },
+  {
+    "path": "05_quinto_basico/capitulos/09_debates_sobre_la_legitimidad_de_la_conquista.md",
+    "bytes": 12438,
+    "sha256": "f2113b4b848ccd7c0b18b0b27b3027dbd95d5ea5c0a4677864fd433bd5f2db11"
+  },
+  {
+    "path": "05_quinto_basico/capitulos/10_encomienda_y_trabajo_indigena.md",
+    "bytes": 12095,
+    "sha256": "ba6d64fa79da2161e41e4d079e66517d8f1f77646fa41eee0492becee5ff669a"
+  },
+  {
+    "path": "05_quinto_basico/capitulos/11_gobierno_colonial_en_chile.md",
+    "bytes": 12359,
+    "sha256": "e00e978fe570156d0aaf4f062453c6a247d1d034b3f1aada88ee9c5639830c16"
+  },
+  {
+    "path": "05_quinto_basico/capitulos/12_economia_colonial_de_chile.md",
+    "bytes": 11920,
+    "sha256": "69ffcc29dc49e9bf4ad26ac369b79087632c1269f13f71e0d535f348f502a029"
+  },
+  {
+    "path": "05_quinto_basico/capitulos/13_mineria_colonial.md",
+    "bytes": 11727,
+    "sha256": "89c97109fd436f646c984d43e16ce43e42cf930fb2e5206236ab1b5d3eb4a4b5"
+  },
+  {
+    "path": "05_quinto_basico/capitulos/14_la_hacienda_en_el_chile_colonial.md",
+    "bytes": 11966,
+    "sha256": "272466f2009c2ca5749aff7ad32cf0f2c473d79e169d4adf513909b764c4e371"
+  },
+  {
+    "path": "05_quinto_basico/capitulos/15_sociedad_colonial_jerarquias_y_mestizaje.md",
+    "bytes": 12353,
+    "sha256": "e3f01fb54b4613a32823f4f0e2106906498acf7596c15a5f85a4e51279fdf5c0"
+  },
+  {
+    "path": "05_quinto_basico/capitulos/16_afrodescendientes_y_esclavitud_en_chile_colonial.md",
+    "bytes": 12883,
+    "sha256": "e289b875750d52d68cfd1892607fec4a698bf343bfc9f3b924262c0e07f1b174"
+  },
+  {
+    "path": "05_quinto_basico/capitulos/17_mujeres_en_la_sociedad_colonial.md",
+    "bytes": 12084,
+    "sha256": "2cb8931ddac9e6931002f6467a07c4542103a4e8b5f4449499f123a4efed1d4e"
+  },
+  {
+    "path": "05_quinto_basico/capitulos/18_iglesia_evangelizacion_y_cultura_colonial.md",
+    "bytes": 12298,
+    "sha256": "68fd0b3abd64fb330dcf31cd597fc51768070eb440ed72c08f8cde0fe87f8963"
+  },
+  {
+    "path": "05_quinto_basico/capitulos/19_ciudades_y_vida_urbana_colonial.md",
+    "bytes": 12276,
+    "sha256": "9b195d3b85a6e78f6b68e2980d2ac7413e9c24f116c7582dcc5995c0da78b417"
+  },
+  {
+    "path": "05_quinto_basico/capitulos/20_vida_cotidiana_en_chile_colonial.md",
+    "bytes": 11802,
+    "sha256": "64a33b84b42c6b58904a064c75055866bb4506e448f94d8bb7b2d271a1251936"
+  },
+  {
+    "path": "05_quinto_basico/capitulos/21_frontera_del_biobio_guerra_comercio_y_convivencia.md",
+    "bytes": 12430,
+    "sha256": "01871c466a03bdc958d199e0cc5c47c710590baf2b5adfb9f36b49254b220314"
+  },
+  {
+    "path": "05_quinto_basico/capitulos/22_parlamentos_hispano_mapuche.md",
+    "bytes": 11994,
+    "sha256": "a6d4a723a3034863b7c3aa782bf2dcda81a6cf54ff5a043eb65c5d848d20c0ed"
+  },
+  {
+    "path": "05_quinto_basico/capitulos/23_herencias_coloniales_en_chile_actual.md",
+    "bytes": 11890,
+    "sha256": "9bac3409f932914499a7616fe34992d6547e93102054a2bf13229fcae695f75c"
+  },
+  {
+    "path": "05_quinto_basico/capitulos/24_fuentes_y_perspectivas_sobre_conquista_y_colonia.md",
+    "bytes": 12043,
+    "sha256": "f525c705a825030a287795ee3734110b627a35adb284bed531840a5462a6a797"
+  },
+  {
+    "path": "05_quinto_basico/evaluaciones/diagnostico.md",
+    "bytes": 1727,
+    "sha256": "339afa4e664c428d45e67f9368b8d080a674193bc0c9976569ae87df3dc72658"
+  },
+  {
+    "path": "05_quinto_basico/evaluaciones/respuestas_diagnostico.md",
+    "bytes": 2628,
+    "sha256": "fe7cf8e0533bc0ee99a643da6d02be28251fc2720602ba22df305d24f7eb8d41"
+  },
+  {
+    "path": "06_sexto_basico/00_indice.md",
+    "bytes": 5297,
+    "sha256": "c36b25eac36fdbce7a949af82420a63d7db3d9fee5e60771e2c5ea38610d76dc"
+  },
+  {
+    "path": "06_sexto_basico/bancos/banco_preguntas.md",
+    "bytes": 6735,
+    "sha256": "54be8af354c3cecb2c053f5f825682e5857882a6042d0433ab1b56610e6d6404"
+  },
+  {
+    "path": "06_sexto_basico/bancos/glosario.md",
+    "bytes": 6216,
+    "sha256": "86f7fe66b86d21cd653a9b47b3a07e48822a7f8a6e5e9a2b4752cb4664bc8193"
+  },
+  {
+    "path": "06_sexto_basico/bancos/tarjetas_repaso.md",
+    "bytes": 7868,
+    "sha256": "a28d48afef538862c0f363f029ff46a54cccefa5e23ae72b7eb43435112d2381"
+  },
+  {
+    "path": "06_sexto_basico/capitulos/01_antecedentes_de_la_independencia_de_chile.md",
+    "bytes": 12562,
+    "sha256": "42d3a890220d153a401ac0f3ee254bfe46ac4ea490f56d9416c1cf84c207de18"
+  },
+  {
+    "path": "06_sexto_basico/capitulos/02_primera_junta_nacional_de_gobierno.md",
+    "bytes": 12359,
+    "sha256": "3e3d12e8702cbe9f21d97470525759973a30be1bd93812c249a2f584c3b06af1"
+  },
+  {
+    "path": "06_sexto_basico/capitulos/03_patria_vieja.md",
+    "bytes": 12117,
+    "sha256": "73908735bb7bc5427113edc63c033010dff67e18156345111f54a57c66f54f74"
+  },
+  {
+    "path": "06_sexto_basico/capitulos/04_reconquista_espanola.md",
+    "bytes": 11852,
+    "sha256": "9da928a1a648c57f2a5afdc6e138d2bfd4382067df406a5d2a0f594ad94a06e4"
+  },
+  {
+    "path": "06_sexto_basico/capitulos/05_ejercito_de_los_andes_y_batalla_de_chacabuco.md",
+    "bytes": 12376,
+    "sha256": "a447f86f8abdd0e797ba03393b5854ec10e3ab4a4aa08da5283d7c131dfc262a"
+  },
+  {
+    "path": "06_sexto_basico/capitulos/06_declaracion_de_independencia_y_batalla_de_maipu.md",
+    "bytes": 12515,
+    "sha256": "549575cd10dc6723801656da4fcc2719afad8d50854d7f1377251843d8ffde3b"
+  },
+  {
+    "path": "06_sexto_basico/capitulos/07_mujeres_sectores_populares_e_indigenas_en_la_independencia.md",
+    "bytes": 13055,
+    "sha256": "d978a9624240bbb06886043e1057cb1073f8c0df4062aa71e0ff50c8fad3c21b"
+  },
+  {
+    "path": "06_sexto_basico/capitulos/08_desafios_de_organizar_la_republica.md",
+    "bytes": 12270,
+    "sha256": "97980b586a7f65ab672d25f05e0ba104f9c78da35b50704805cb6b9d4e8cf349"
+  },
+  {
+    "path": "06_sexto_basico/capitulos/09_constitucion_de_1833_y_orden_conservador.md",
+    "bytes": 12131,
+    "sha256": "975e5344ec3c8fb86b20050cd18de9de016ca7c1eab99120a494e9398ebc59cd"
+  },
+  {
+    "path": "06_sexto_basico/capitulos/10_diego_portales_y_el_ideario_de_autoridad.md",
+    "bytes": 12404,
+    "sha256": "b51da5911d5d9e8efe5e367d22efaba8f27671e7cf6e8db9c5c07f80bb01aa93"
+  },
+  {
+    "path": "06_sexto_basico/capitulos/11_republica_conservadora.md",
+    "bytes": 12097,
+    "sha256": "fc6c8712dd6c9ed396b9b1dde40694eef42f7d70ffcdd389ffe0819fbfb692c8"
+  },
+  {
+    "path": "06_sexto_basico/capitulos/12_republica_liberal_y_reformas_politicas.md",
+    "bytes": 12345,
+    "sha256": "af9a95fc7fabd004c016404ef3b0895eaa9eaed6cc86482dec41ebdf19216494"
+  },
+  {
+    "path": "06_sexto_basico/capitulos/13_ciudadania_elecciones_y_exclusiones_en_el_siglo_xix.md",
+    "bytes": 12167,
+    "sha256": "937a6cb0797372ac215b49981517f314a971a702f5cafa18a100d3fb27e97e0b"
+  },
+  {
+    "path": "06_sexto_basico/capitulos/14_educacion_ciencia_y_cultura_en_el_siglo_xix.md",
+    "bytes": 12646,
+    "sha256": "e9adcbc2aae7955962f7d97ae4e83cbc3b81e53ce6eee01f4935f12ffdd96628"
+  },
+  {
+    "path": "06_sexto_basico/capitulos/15_trigo_plata_y_cobre_en_la_economia_del_siglo_xix.md",
+    "bytes": 11747,
+    "sha256": "3dc06d355204a0e738979a927629b90e706678eff26f99aae3688c9dffbbbca3"
+  },
+  {
+    "path": "06_sexto_basico/capitulos/16_ferrocarriles_telegrafo_y_transformacion_del_territorio.md",
+    "bytes": 12277,
+    "sha256": "c2a56039c2933bf09a757e60efc533ba64ffcb85994bd43c9c0f32de02bec5d7"
+  },
+  {
+    "path": "06_sexto_basico/capitulos/17_conformacion_territorial_del_estado_chileno.md",
+    "bytes": 12279,
+    "sha256": "14c9a4f622fecfbcd00731c6e4d7227ac3d4d9911fcf9a2a9f8f86fd5a41a7b4"
+  },
+  {
+    "path": "06_sexto_basico/capitulos/18_colonizacion_estatal_e_inmigracion_en_el_sur.md",
+    "bytes": 12504,
+    "sha256": "777f34b07037680e48964471c76ec479cc51846b9f66c4920a01cf374e4f9786"
+  },
+  {
+    "path": "06_sexto_basico/capitulos/19_causas_de_la_guerra_del_pacifico.md",
+    "bytes": 12192,
+    "sha256": "568c6ed89f99e9635d797690a1f5cb1eafc0e81d837c0006be059593ad23b8fb"
+  },
+  {
+    "path": "06_sexto_basico/capitulos/20_campanas_de_la_guerra_del_pacifico.md",
+    "bytes": 12898,
+    "sha256": "3cd629bb2931187933596b766de437402b96ec0fbfa8e7f7477243d9cd33784a"
+  },
+  {
+    "path": "06_sexto_basico/capitulos/21_consecuencias_de_la_guerra_del_pacifico.md",
+    "bytes": 12469,
+    "sha256": "187751a960c3da8768549e7044b67b49b2756ef290c6ddcaa60095c59262d334"
+  },
+  {
+    "path": "06_sexto_basico/capitulos/22_ocupacion_de_la_araucania.md",
+    "bytes": 12953,
+    "sha256": "1f97e65c4b7d66d3d67e37e140bf61b3737f25b0f9ad04957c50eba19965ea2a"
+  },
+  {
+    "path": "06_sexto_basico/capitulos/23_incorporacion_de_rapa_nui_al_estado_de_chile.md",
+    "bytes": 12385,
+    "sha256": "b31a96071ff3c23184757f8e549baf61456692fbef15fd77d0cb59cd7300b075"
+  },
+  {
+    "path": "06_sexto_basico/capitulos/24_ciclo_del_salitre.md",
+    "bytes": 11734,
+    "sha256": "7b8a306d68b116b1fd97ab89073be090ccd09d44817712ff3d469823303931bc"
+  },
+  {
+    "path": "06_sexto_basico/capitulos/25_cuestion_social.md",
+    "bytes": 12336,
+    "sha256": "0778a0de8fee1d50f2f3db0afa015c78a332248631b6c8bd0b3fee56d101e36e"
+  },
+  {
+    "path": "06_sexto_basico/capitulos/26_movimiento_obrero_y_organizaciones_populares.md",
+    "bytes": 12490,
+    "sha256": "c6ab893fdcc23500753fb68e5371a8baa468de7539d8c173ed2351ce74a0046e"
+  },
+  {
+    "path": "06_sexto_basico/capitulos/27_democratizacion_y_participacion_de_las_mujeres.md",
+    "bytes": 12698,
+    "sha256": "1c982b8d3835c26d81a44bfd51e4f5b68fc67189987e9b929406708dae7e1af5"
+  },
+  {
+    "path": "06_sexto_basico/capitulos/28_quiebre_democratico_dictadura_y_recuperacion_de_la_democracia.md",
+    "bytes": 13429,
+    "sha256": "8b04347df1a3673de70cab28873a9f236c600b3614e9c9fde0990ceff433de7d"
+  },
+  {
+    "path": "06_sexto_basico/evaluaciones/diagnostico.md",
+    "bytes": 1691,
+    "sha256": "ccccb6ac9e1c124cd26bd083e414b9b8e6e3dfd2d53087232d136d5c92a198bb"
+  },
+  {
+    "path": "06_sexto_basico/evaluaciones/respuestas_diagnostico.md",
+    "bytes": 2724,
+    "sha256": "84ae27d3fc9c59d6ffb3695e8e08308d1a5d4b55043823b449914e20038a7d32"
+  },
+  {
+    "path": "07_septimo_basico/00_indice.md",
+    "bytes": 3571,
+    "sha256": "19b52c5e899947fb16c122ac1843ae9fcbeef4037b97be366c2b3548cba1b11f"
+  },
+  {
+    "path": "07_septimo_basico/bancos/banco_preguntas.md",
+    "bytes": 3531,
+    "sha256": "26e4a5020a2173ad3b53e92095de19baa81c17e7052f16c73529308e7ca2900d"
+  },
+  {
+    "path": "07_septimo_basico/bancos/glosario.md",
+    "bytes": 4504,
+    "sha256": "20b302d303139fbcea28fbf40502fde90a3f58dea5fc42a96f440399eb6bebb9"
+  },
+  {
+    "path": "07_septimo_basico/bancos/tarjetas_repaso.md",
+    "bytes": 4030,
+    "sha256": "97406f7b94016c3b027313e2989b1d728730b642d9bf6a462b54e351fb202a4d"
+  },
+  {
+    "path": "07_septimo_basico/capitulos/01_poblamiento_de_america_y_del_territorio_chileno.md",
+    "bytes": 12802,
+    "sha256": "d329c545910cf2f58e7154acd2ff6a13df9f79145ac03b6957401c679b385272"
+  },
+  {
+    "path": "07_septimo_basico/capitulos/02_monte_verde_y_la_evidencia_de_ocupacion_temprana.md",
+    "bytes": 12367,
+    "sha256": "fc9b9fd30473132e702a3c702d1ee45f5d152d8fe0c4a58fca1351490e5715ab"
+  },
+  {
+    "path": "07_septimo_basico/capitulos/03_arqueologia_y_fuentes_para_la_historia_antigua_de_chile.md",
+    "bytes": 12120,
+    "sha256": "84b68f2b6f7b600868f7fdaf043b9887f00a965189a74f532b714e4f1c6ab676"
+  },
+  {
+    "path": "07_septimo_basico/capitulos/04_cultura_chinchorro_y_sociedades_costeras_del_norte.md",
+    "bytes": 12392,
+    "sha256": "794948459e68c6370156f199865b5ad8adba9721ae833182d60dce14802b0f11"
+  },
+  {
+    "path": "07_septimo_basico/capitulos/05_cazadores_recolectores_pescadores_y_agricultores_en_chile.md",
+    "bytes": 12287,
+    "sha256": "250f294c23dd60dadec49f97a37903c058d5459875e467c522535c411443f403"
+  },
+  {
+    "path": "07_septimo_basico/capitulos/06_sociedades_andinas_y_redes_de_intercambio.md",
+    "bytes": 12092,
+    "sha256": "94b9f2bc2664986178805b8124d24841af4fd4a6f987b1090e1c23c37dc8272c"
+  },
+  {
+    "path": "07_septimo_basico/capitulos/07_oasis_y_sociedades_del_desierto.md",
+    "bytes": 11855,
+    "sha256": "2d29a1ec70474bee759934448b27a96155e08f3b05d7420310fd8d5a8eda9f30"
+  },
+  {
+    "path": "07_septimo_basico/capitulos/08_agricultura_y_ceramica_en_los_valles_del_norte.md",
+    "bytes": 12076,
+    "sha256": "91511b69f7fbde25fb116eec51aa6e1374f10ee1dffc359b2cdb94cadea8228a"
+  },
+  {
+    "path": "07_septimo_basico/capitulos/09_formacion_historica_del_pueblo_mapuche.md",
+    "bytes": 12342,
+    "sha256": "aac470b654d80d02630f8816ef0bb3a6b66e2db4d3e9062de40f3fa38801a3ab"
+  },
+  {
+    "path": "07_septimo_basico/capitulos/10_sociedades_de_tierra_del_fuego_antes_del_estado_nacional.md",
+    "bytes": 13286,
+    "sha256": "1a7b3882d14b574d9d5dfbe889e87c96250791384d7f11d79118b57f6553a488"
+  },
+  {
+    "path": "07_septimo_basico/capitulos/11_culturas_maritimas_australes_y_ambiente.md",
+    "bytes": 12266,
+    "sha256": "5a25658367b20846fb93922273aa290f35ccb001a4a71abc87d5b19a48dd2e14"
+  },
+  {
+    "path": "07_septimo_basico/capitulos/12_rapa_nui_y_las_sociedades_polinesicas.md",
+    "bytes": 12140,
+    "sha256": "b52a75eaf4206cd091969188a3d065c434594e62b480da42973c034a4532ef07"
+  },
+  {
+    "path": "07_septimo_basico/capitulos/13_diversidad_prehispanica_y_poblamiento_del_territorio.md",
+    "bytes": 12220,
+    "sha256": "8bf37a4471c50523ee832cc9a92e8ed516fdfc9f0629ed32d5ce9af91eb09520"
+  },
+  {
+    "path": "07_septimo_basico/capitulos/14_continuidades_de_pueblos_originarios_hasta_el_presente.md",
+    "bytes": 12529,
+    "sha256": "ba61e336ad88eb969f43a549e0c73ec685ee2e5e65bcaee36b6807aae7d6cdec"
+  },
+  {
+    "path": "07_septimo_basico/evaluaciones/diagnostico.md",
+    "bytes": 1804,
+    "sha256": "816b2b4d8dc325ca5a5f8809cbbee19d133394a86a365b411e23fb3079d7aa1a"
+  },
+  {
+    "path": "07_septimo_basico/evaluaciones/respuestas_diagnostico.md",
+    "bytes": 2525,
+    "sha256": "e1c856f22e8d5ff735add85b85d37c5d0b939c1addce912e0c0c15857d6df05b"
+  },
+  {
+    "path": "08_octavo_basico/00_indice.md",
+    "bytes": 4483,
+    "sha256": "e5274c241fe4f11a36754457e01527a0a7769a8aef4826a625f4eac24309a215"
+  },
+  {
+    "path": "08_octavo_basico/bancos/banco_preguntas.md",
+    "bytes": 5378,
+    "sha256": "803990ffa0ee5ed7b87b7d39ab6d9a3d817d254fcb6c21532fa535e43bb934c8"
+  },
+  {
+    "path": "08_octavo_basico/bancos/glosario.md",
+    "bytes": 5325,
+    "sha256": "bbecc0ae36a2ef031d0575375d6eaa9f828cad1f91ba10ee1244a6b99b4e9f87"
+  },
+  {
+    "path": "08_octavo_basico/bancos/tarjetas_repaso.md",
+    "bytes": 6209,
+    "sha256": "9138ec11d46ddd1e77d9798571cf5c439520dc724fdd7c818b42ed61eca4edf5"
+  },
+  {
+    "path": "08_octavo_basico/capitulos/01_mundo_moderno_y_expansion_hacia_america.md",
+    "bytes": 12746,
+    "sha256": "65d8fa4d832a2fb02c6428310fa4d662f52a68578731cf5157c965f7acfec128"
+  },
+  {
+    "path": "08_octavo_basico/capitulos/02_el_estrecho_de_magallanes_en_la_expansion_global.md",
+    "bytes": 12522,
+    "sha256": "c4cbca10de424ab605a783cae2a009b80c5d56f6de5c65f05726eb995749ce67"
+  },
+  {
+    "path": "08_octavo_basico/capitulos/03_conquista_americana_y_catastrofe_demografica.md",
+    "bytes": 12479,
+    "sha256": "aecff3b2cdd167113e951af3fb1e407641da6a7b876adb3402cc221f484e699e"
+  },
+  {
+    "path": "08_octavo_basico/capitulos/04_almagro_y_la_primera_expedicion_a_chile.md",
+    "bytes": 12277,
+    "sha256": "fad3e23cbf5577e086fa4d039d2d5a5f749efcc051abb76654512f087d586c32"
+  },
+  {
+    "path": "08_octavo_basico/capitulos/05_valdivia_y_la_implantacion_colonial.md",
+    "bytes": 12794,
+    "sha256": "0eada44bb41fd66513f5f5a8eb2386c03488a14b56e72ebcf1e0e3e5d79bf0b5"
+  },
+  {
+    "path": "08_octavo_basico/capitulos/06_resistencia_mapuche_y_limites_de_la_conquista.md",
+    "bytes": 12834,
+    "sha256": "df98f944d8b52626addd69dafd5cd76845498e0a42f82380fb248bbcbf7cb84d"
+  },
+  {
+    "path": "08_octavo_basico/capitulos/07_debates_sobre_la_legitimidad_de_la_conquista.md",
+    "bytes": 12571,
+    "sha256": "4322a57363a4f78ec8fe73b98b71157cf90f48d34aac37341377433be8cfda5e"
+  },
+  {
+    "path": "08_octavo_basico/capitulos/08_monarquia_estado_moderno_y_gobierno_de_chile.md",
+    "bytes": 12794,
+    "sha256": "9999e4256f2b53bada24070e322329c893473f2dc0b5da55bfaabda1a689a796"
+  },
+  {
+    "path": "08_octavo_basico/capitulos/09_mercantilismo_y_economia_colonial_chilena.md",
+    "bytes": 12245,
+    "sha256": "4a5ef9ef3b3e00e717b8b2c05dc1aa5aabfe29665b63f20589e617ef8e0dcfc3"
+  },
+  {
+    "path": "08_octavo_basico/capitulos/10_encomienda_trabajo_y_evangelizacion.md",
+    "bytes": 12259,
+    "sha256": "c6994822fa0b6e900560bdbba40eb963f93473d485b0280498a998f112cd4eee"
+  },
+  {
+    "path": "08_octavo_basico/capitulos/11_hacienda_inquilinaje_y_mundo_rural.md",
+    "bytes": 12106,
+    "sha256": "eff393996a679147c5b8beec255fed431a96f6f0daf737936ae25decb39928ab"
+  },
+  {
+    "path": "08_octavo_basico/capitulos/12_sociedad_estamental_castas_y_mestizaje.md",
+    "bytes": 12461,
+    "sha256": "ff46c84072037791999be946afbda3855627b3f4ae6c33107a4e1eb212f8e3f9"
+  },
+  {
+    "path": "08_octavo_basico/capitulos/13_afrodescendientes_y_esclavitud_en_chile_colonial.md",
+    "bytes": 12984,
+    "sha256": "6c01b2adb2307c72e8594945453b1c27216b97d13ad7c4626b2f17c0a863a2f6"
+  },
+  {
+    "path": "08_octavo_basico/capitulos/14_iglesia_reforma_y_evangelizacion_en_chile.md",
+    "bytes": 12348,
+    "sha256": "ac383ddb8afbfd7fb89f9650f9386eeaf67467ec80c9eb87349ba10d57c4685e"
+  },
+  {
+    "path": "08_octavo_basico/capitulos/15_frontera_mapuche_en_el_mundo_colonial.md",
+    "bytes": 12400,
+    "sha256": "6e8a756c28c791ec4e9c6957637f4700a82f2d6e41ebd9f77f022e0337e20c97"
+  },
+  {
+    "path": "08_octavo_basico/capitulos/16_diplomacia_y_parlamentos_fronterizos.md",
+    "bytes": 12291,
+    "sha256": "73cc11c2befafde2d52a9a96d3cfee9728d55ed04bd891dfdb51dd2d9a0dd3d7"
+  },
+  {
+    "path": "08_octavo_basico/capitulos/17_reformas_borbonicas_y_crisis_del_orden_colonial.md",
+    "bytes": 12128,
+    "sha256": "6beada491b776702ec93816d0de284340a0dcdf975e2944f6b1d9ea8a8926a15"
+  },
+  {
+    "path": "08_octavo_basico/capitulos/18_crisis_imperial_e_independencia_hispanoamericana.md",
+    "bytes": 12953,
+    "sha256": "2f8d4da55104ee39af6ac56ed72b492c584f361eab6bce2e7354c9c5154d3f67"
+  },
+  {
+    "path": "08_octavo_basico/capitulos/19_chile_dentro_de_la_crisis_de_soberania.md",
+    "bytes": 12483,
+    "sha256": "4353c71fd5f284fcd35e49df38682ee8fa669ce04e946069a31920475b94587a"
+  },
+  {
+    "path": "08_octavo_basico/capitulos/20_guerra_e_independencia_de_chile.md",
+    "bytes": 12473,
+    "sha256": "a51f5fb15fb541b83c90754e5b5e3caf606ef64c95d87ab4784c53f38aec4a18"
+  },
+  {
+    "path": "08_octavo_basico/capitulos/21_transformaciones_y_desafios_de_la_independencia.md",
+    "bytes": 12484,
+    "sha256": "ceeed31c518120d06531fa4cf58b07475c871e03c5f229a4f30c32ef85623bac"
+  },
+  {
+    "path": "08_octavo_basico/capitulos/22_interpretaciones_de_conquista_colonia_e_independencia.md",
+    "bytes": 12212,
+    "sha256": "761ba819917a16bc322b5e301bc35bf7c2df0c662453581db44415d7cc083b17"
+  },
+  {
+    "path": "08_octavo_basico/evaluaciones/diagnostico.md",
+    "bytes": 1750,
+    "sha256": "259df0e11ab6417f351296a5b8f2932ab312691cf04e54475fed5dc366a695f0"
+  },
+  {
+    "path": "08_octavo_basico/evaluaciones/respuestas_diagnostico.md",
+    "bytes": 2632,
+    "sha256": "929eea4d8de25faf4cff45b10f0907c2120544b4c97bb454177cccad5596c39f"
+  },
+  {
+    "path": "09_primero_medio/00_indice.md",
+    "bytes": 5396,
+    "sha256": "5b67dd733612db48290e6e28f3c7b5277c38d28e067970161c7bd3d768be3b6f"
+  },
+  {
+    "path": "09_primero_medio/bancos/banco_preguntas.md",
+    "bytes": 6777,
+    "sha256": "2e1e488f1082e2d384b85a08e60a5ffcc8bfdb99f5d34253ea2a0468a8bbeada"
+  },
+  {
+    "path": "09_primero_medio/bancos/glosario.md",
+    "bytes": 6177,
+    "sha256": "6bb10284ee3fb5fa352eced6c8510692004b6d37f2a168eceefbdb4240dc316a"
+  },
+  {
+    "path": "09_primero_medio/bancos/tarjetas_repaso.md",
+    "bytes": 7917,
+    "sha256": "2da043260136e1ed42df900890d12b9414f4ccfed100d5bf66117756b06f3532"
+  },
+  {
+    "path": "09_primero_medio/capitulos/01_ideas_liberales_republicanismo_e_independencia_de_chile.md",
+    "bytes": 13377,
+    "sha256": "82ccd870017d0394cbbbb00187ee16867bea567f5f3d934a46e6e4fa397630a6"
+  },
+  {
+    "path": "09_primero_medio/capitulos/02_construccion_del_estado_nacional_chileno.md",
+    "bytes": 13022,
+    "sha256": "547c8c021e114f5d519b462a746680c09bf2a3cff2b581bf49ae34469fb7f3d0"
+  },
+  {
+    "path": "09_primero_medio/capitulos/03_ensayos_constitucionales_y_organizacion_republicana.md",
+    "bytes": 13179,
+    "sha256": "e0acb5957b10e964c194da7f82aa6127b25a80889315e9dcb65a86d9f006d137"
+  },
+  {
+    "path": "09_primero_medio/capitulos/04_constitucion_de_1833_y_orden_conservador.md",
+    "bytes": 12764,
+    "sha256": "f2126b2e4cef1db599c3d6c680a3e1142ea4c2b6fa971d492b06d88716f02c1d"
+  },
+  {
+    "path": "09_primero_medio/capitulos/05_diego_portales_y_el_ideario_de_autoridad.md",
+    "bytes": 13015,
+    "sha256": "9b9bea3b51865f4872a04628488e653450772e754d205b042023d5b715953603"
+  },
+  {
+    "path": "09_primero_medio/capitulos/06_republica_conservadora.md",
+    "bytes": 12746,
+    "sha256": "a7cc78dfc482894085772ca396404d21f189d8ddf6ef58ed3d4d39cf9981601a"
+  },
+  {
+    "path": "09_primero_medio/capitulos/07_republica_liberal_y_reformas_politicas.md",
+    "bytes": 12980,
+    "sha256": "6517687f209a86327c2d8c9a5dcc31ec92a726a96295d7e866b2b80a93001b08"
+  },
+  {
+    "path": "09_primero_medio/capitulos/08_ciudadania_y_exclusiones_en_el_estado_liberal.md",
+    "bytes": 12827,
+    "sha256": "e707955e2a4d02c9e83cb0606c1a3a1a73d9d0dc76131018270d072150015bef"
+  },
+  {
+    "path": "09_primero_medio/capitulos/09_iglesia_estado_y_secularizacion.md",
+    "bytes": 12978,
+    "sha256": "5520877dbf51fa776c3e1ab3ba987fa30ca24f8cd4dd6c51a78a86d405501dc4"
+  },
+  {
+    "path": "09_primero_medio/capitulos/10_educacion_ciencia_y_cultura_en_el_siglo_xix.md",
+    "bytes": 13255,
+    "sha256": "fb896af008ea4a3a504d99d27225409fdf8d4a2182b686a460377d9c27d14717"
+  },
+  {
+    "path": "09_primero_medio/capitulos/11_mujeres_educacion_y_esfera_publica_en_el_siglo_xix.md",
+    "bytes": 12790,
+    "sha256": "ce33392487fcfbf972a94868115fac6026d8a3626b35a4cab3f4b6330893744f"
+  },
+  {
+    "path": "09_primero_medio/capitulos/12_trigo_plata_y_cobre_en_la_economia_del_siglo_xix.md",
+    "bytes": 12374,
+    "sha256": "c101b741fa41dd6c9bf7fbbe3198bbee11d76f2d0ed22f9500954ddf2b7d67eb"
+  },
+  {
+    "path": "09_primero_medio/capitulos/13_ferrocarriles_telegrafo_y_transformacion_del_territorio.md",
+    "bytes": 12938,
+    "sha256": "cd2d036322288a551d9b25b7ff04a39403b7a5fd76cd064edb651113a07bb717"
+  },
+  {
+    "path": "09_primero_medio/capitulos/14_estado_frontera_y_territorio_durante_el_siglo_xix.md",
+    "bytes": 12810,
+    "sha256": "fa93993ec3da8943c3bf5f84cc315c9fe1a8735880823f036f35f643b04eaa10"
+  },
+  {
+    "path": "09_primero_medio/capitulos/15_colonizacion_estatal_e_inmigracion_en_el_sur.md",
+    "bytes": 13149,
+    "sha256": "f590925e74b33d55e3805a5ab147ce141fd7e90ee478069608af6d82cdce407b"
+  },
+  {
+    "path": "09_primero_medio/capitulos/16_ocupacion_de_la_araucania.md",
+    "bytes": 13606,
+    "sha256": "13097931ce5aff811cdf3ac1b8a89db9f36723547b06d9fadb33428b12f2d68b"
+  },
+  {
+    "path": "09_primero_medio/capitulos/17_incorporacion_de_rapa_nui_al_estado_de_chile.md",
+    "bytes": 13044,
+    "sha256": "b25d5781037fd405b6c3938f1b347eb0b6e8f536eb777e0971a4271349ef2220"
+  },
+  {
+    "path": "09_primero_medio/capitulos/18_causas_de_la_guerra_del_pacifico.md",
+    "bytes": 12853,
+    "sha256": "b17295b41c1977ce169151d11322b14ac2d6754ae76fbeb468f2dd0e8676aa92"
+  },
+  {
+    "path": "09_primero_medio/capitulos/19_campanas_de_la_guerra_del_pacifico.md",
+    "bytes": 13525,
+    "sha256": "65d6512bc85824e59665d1521cd8cfe4518da36fd697c4427ffa7974dc61683e"
+  },
+  {
+    "path": "09_primero_medio/capitulos/20_consecuencias_de_la_guerra_del_pacifico.md",
+    "bytes": 13118,
+    "sha256": "ee179e71c7824bad58be1398a5740f197771ec8d829aed86a5d8b724708a3d8f"
+  },
+  {
+    "path": "09_primero_medio/capitulos/21_ciclo_del_salitre.md",
+    "bytes": 12379,
+    "sha256": "c2d20979130a7f8cdb1c969ede8033c22ec1afcb5001f9d59a9a771b6b498639"
+  },
+  {
+    "path": "09_primero_medio/capitulos/22_republica_parlamentaria.md",
+    "bytes": 12642,
+    "sha256": "7c1b8ab4bcaaf255496d94f3db9fa6d616d74efc364aa99400cb5b55ca421a9f"
+  },
+  {
+    "path": "09_primero_medio/capitulos/23_cuestion_social.md",
+    "bytes": 12969,
+    "sha256": "898426b17291599fce2e9b5deb662857c1886ee6899959d5d5acf49389dc7ff5"
+  },
+  {
+    "path": "09_primero_medio/capitulos/24_movimiento_obrero_y_organizaciones_populares.md",
+    "bytes": 13115,
+    "sha256": "fccb99e36fe0813400fd7869ca7a10e70abfce754e2cce41275d37cbfdbf236a"
+  },
+  {
+    "path": "09_primero_medio/capitulos/25_matanza_de_la_escuela_santa_maria_de_iquique.md",
+    "bytes": 13496,
+    "sha256": "d34875cb44341365d3d4a5c1c41bf45e02206077cb87b2726988a034729fbd88"
+  },
+  {
+    "path": "09_primero_medio/capitulos/26_migraciones_y_formacion_de_la_sociedad_chilena_del_siglo_xix.md",
+    "bytes": 12640,
+    "sha256": "9b5dcd0cbe43bca93ecd9ce3df311f748266f2026d876acaf5b86600228ddade"
+  },
+  {
+    "path": "09_primero_medio/capitulos/27_pueblos_originarios_y_proyecto_nacional_del_siglo_xix.md",
+    "bytes": 12956,
+    "sha256": "80ad587455f1db5aec38b510fecc356d890075aa1156db5f47614b6c93eed79e"
+  },
+  {
+    "path": "09_primero_medio/capitulos/28_historiografia_del_siglo_xix_chileno.md",
+    "bytes": 12399,
+    "sha256": "e682a305cc4884824e2489d5ba16d3946f759cf10984a696a67307945ad798a0"
+  },
+  {
+    "path": "09_primero_medio/evaluaciones/diagnostico.md",
+    "bytes": 1767,
+    "sha256": "fee763675f799f3ce72c7224e59e403fae8da19cc5e803b10f3506c2f1b6219a"
+  },
+  {
+    "path": "09_primero_medio/evaluaciones/respuestas_diagnostico.md",
+    "bytes": 2727,
+    "sha256": "4bce0a5b759e1871b5eda356ee5ed55bfb6eaf89659973eb5e175ef741557758"
+  },
+  {
+    "path": "10_segundo_medio/00_indice.md",
+    "bytes": 6726,
+    "sha256": "0ce02acf39eea1cec2a3492e1d33cc8f3dbb09362f2a3199676570377718f9a6"
+  },
+  {
+    "path": "10_segundo_medio/bancos/banco_preguntas.md",
+    "bytes": 8651,
+    "sha256": "564a5069a17c8c8ac111196d63ef6ec2eb35963ba75c2b4b48f0cd9f79096ef6"
+  },
+  {
+    "path": "10_segundo_medio/bancos/glosario.md",
+    "bytes": 9054,
+    "sha256": "c9fa2c7b8486e28612bb1c0583c51e809d0193256f5f485fab8beff95c3fa6da"
+  },
+  {
+    "path": "10_segundo_medio/bancos/tarjetas_repaso.md",
+    "bytes": 10177,
+    "sha256": "09afec0a94bff89ae9a9ac5eaac2869ded094fccf6cef9ac64a1752ad3d3e613"
+  },
+  {
+    "path": "10_segundo_medio/capitulos/01_crisis_de_la_republica_parlamentaria.md",
+    "bytes": 12812,
+    "sha256": "5307229f0cd16501ca699be51339d07597d60cc4070194c2ef6f1bb57f1cbd2e"
+  },
+  {
+    "path": "10_segundo_medio/capitulos/02_centenario_pobreza_y_cuestion_social.md",
+    "bytes": 13276,
+    "sha256": "a6f86458bfedad2f5a46a59884cc3db6a012d0daefb1aba6d29544dbb4f8cfc2"
+  },
+  {
+    "path": "10_segundo_medio/capitulos/03_movimiento_obrero_y_organizaciones_populares.md",
+    "bytes": 13127,
+    "sha256": "6858749a48252051b3082b773e7081b162505460497bc46dd755cd25a178f5b0"
+  },
+  {
+    "path": "10_segundo_medio/capitulos/04_matanza_de_la_escuela_santa_maria_de_iquique.md",
+    "bytes": 13528,
+    "sha256": "afe155748e0f641da7c967af87b9394df5d72d6f05fd2bc41cd592b6a645268f"
+  },
+  {
+    "path": "10_segundo_medio/capitulos/05_crisis_del_sistema_oligarquico_y_decada_de_1920.md",
+    "bytes": 12959,
+    "sha256": "7b9ee71eb494d063489f89a8dc7cd31a0847d0360ca1b0eaab795029969fb870"
+  },
+  {
+    "path": "10_segundo_medio/capitulos/06_constitucion_de_1925.md",
+    "bytes": 12753,
+    "sha256": "1a75ed990a60c2029a86a45d9b460f14c15067e00b28edd278663ee9f7756680"
+  },
+  {
+    "path": "10_segundo_medio/capitulos/07_carlos_ibanez_y_autoritarismo_modernizador.md",
+    "bytes": 12975,
+    "sha256": "a706164b3aa8c5c10a2d51eaa083d13ca2388cac306aa42df3d35674687da5b5"
+  },
+  {
+    "path": "10_segundo_medio/capitulos/08_gran_depresion_y_crisis_chilena.md",
+    "bytes": 12140,
+    "sha256": "c206aa21c1df3a7e228b5e8c19d2780bbcf932087068154857307304f21cac79"
+  },
+  {
+    "path": "10_segundo_medio/capitulos/09_corfo_e_industrializacion_por_sustitucion_de_importaciones.md",
+    "bytes": 12712,
+    "sha256": "35990172b7dba96038004bbfc778aa77cef0381a00e89c1a54a2ed852b72e74b"
+  },
+  {
+    "path": "10_segundo_medio/capitulos/10_frente_popular_y_gobiernos_radicales.md",
+    "bytes": 12848,
+    "sha256": "067ee53d0d9c7f8e765f73e334133c7efade8c580841404d11808e4f806d7ecb"
+  },
+  {
+    "path": "10_segundo_medio/capitulos/11_urbanizacion_y_migracion_campo_ciudad.md",
+    "bytes": 12755,
+    "sha256": "ed9c39a5dcb1b648ab2c884b75c0dfa0bf0d5b3c5ef0439250b202b5d3566132"
+  },
+  {
+    "path": "10_segundo_medio/capitulos/12_movimiento_de_mujeres_y_sufragio_femenino.md",
+    "bytes": 13395,
+    "sha256": "5167a9bb402e2b9a05c38b5f4646d87b117116a73112f9cf8a63065bd01bdcf7"
+  },
+  {
+    "path": "10_segundo_medio/capitulos/13_cultura_de_masas_radio_cine_y_deporte.md",
+    "bytes": 12294,
+    "sha256": "7b19d66455b6bfbb954c5efac1d3da50dbe5fa2249576442b4384f020c68d7b9"
+  },
+  {
+    "path": "10_segundo_medio/capitulos/14_expansion_de_derechos_sociales_y_estado_de_bienestar.md",
+    "bytes": 12774,
+    "sha256": "228568c916c4ec68c1b750a796a298c84631cc9d4571473161e5862c6a40477a"
+  },
+  {
+    "path": "10_segundo_medio/capitulos/15_guerra_fria_y_politica_chilena.md",
+    "bytes": 12563,
+    "sha256": "2602b4b61b0803719d9d8bb4f5ab2680b1a3812c428b0f3a9f1d0e0e6ace0fcc"
+  },
+  {
+    "path": "10_segundo_medio/capitulos/16_reforma_agraria_y_sindicalizacion_campesina.md",
+    "bytes": 13321,
+    "sha256": "4015f5d5b9388290603f99a9b53ddd2d6e0023481266f0cb6df55b903453e9d4"
+  },
+  {
+    "path": "10_segundo_medio/capitulos/17_revolucion_en_libertad_y_reformas_de_los_anos_sesenta.md",
+    "bytes": 12862,
+    "sha256": "e0abbdfd1f2f29a5d724824368d3880e2f88eb9dceeebd4cfc82d8de8b2bf75a"
+  },
+  {
+    "path": "10_segundo_medio/capitulos/18_cobre_chilenizacion_y_nacionalizacion.md",
+    "bytes": 13183,
+    "sha256": "8f5e16edffd8c2c4852948db2b1608a984f83acf429f17ae7027c6a893711f94"
+  },
+  {
+    "path": "10_segundo_medio/capitulos/19_gobierno_de_la_unidad_popular.md",
+    "bytes": 14272,
+    "sha256": "d7f14531da92879e8140153d75c937015501f6215640932d4bbebfc4f801a48c"
+  },
+  {
+    "path": "10_segundo_medio/capitulos/20_golpe_de_estado_y_quiebre_democratico.md",
+    "bytes": 13842,
+    "sha256": "6fcd94beae716d177b3fe5680cf1607d3cba216e5fbad6717ffa255cb98c91ba"
+  },
+  {
+    "path": "10_segundo_medio/capitulos/21_instituciones_y_control_politico_durante_la_dictadura.md",
+    "bytes": 14124,
+    "sha256": "d2b1684b282525ec83672c7b248aded747354ed24b7d547a29c5aeeacab009aa"
+  },
+  {
+    "path": "10_segundo_medio/capitulos/22_violaciones_sistematicas_a_los_derechos_humanos.md",
+    "bytes": 14070,
+    "sha256": "1aa76bf028b0a54e0318cee37ddda874b6e43942a4f287c6eb7aaced702f7d92"
+  },
+  {
+    "path": "10_segundo_medio/capitulos/23_resistencia_protesta_exilio_y_solidaridad.md",
+    "bytes": 13390,
+    "sha256": "10a9d91648bd921441bffdf1a2d4b16883b2262f2185d87f0d0b07e291fd0c69"
+  },
+  {
+    "path": "10_segundo_medio/capitulos/24_transformaciones_economicas_neoliberales.md",
+    "bytes": 12952,
+    "sha256": "21db5b8ebc2b2e9c008603136a54d60a2ba27c031c5ed9af1cc5e636e73ea545"
+  },
+  {
+    "path": "10_segundo_medio/capitulos/25_constitucion_de_1980.md",
+    "bytes": 13237,
+    "sha256": "1647b98964ec5b8e3e0edf7c6f47d9b32e501b681f2781a12cfe3a3d16d0673e"
+  },
+  {
+    "path": "10_segundo_medio/capitulos/26_crisis_de_1982_y_jornadas_de_protesta.md",
+    "bytes": 13002,
+    "sha256": "8f78b88f4c916012f1ffbdf0afeb967b4e84fa64084dcf98aa620fa94c3290d8"
+  },
+  {
+    "path": "10_segundo_medio/capitulos/27_plebiscito_de_1988.md",
+    "bytes": 12671,
+    "sha256": "8a7df2a7f4c53ac985448238657927b95331e8fccd97cdeb4b8ba31c2c043a3d"
+  },
+  {
+    "path": "10_segundo_medio/capitulos/28_transicion_y_recuperacion_democratica.md",
+    "bytes": 13073,
+    "sha256": "fc2b26aac7a61dd5491399df46d5860c33128c80e65e116d94da2c42e20ad4ed"
+  },
+  {
+    "path": "10_segundo_medio/capitulos/29_verdad_reparacion_y_justicia.md",
+    "bytes": 13870,
+    "sha256": "6c05b41fe18e1c4e52a8acbaa67e56016c1947f4fada558c49595118fa59dcd9"
+  },
+  {
+    "path": "10_segundo_medio/capitulos/30_reformas_politicas_y_consolidacion_democratica.md",
+    "bytes": 13141,
+    "sha256": "6cfd51b8372add22d13527bbc049cb7f43c8bbb222325a64298dc37acc616d18"
+  },
+  {
+    "path": "10_segundo_medio/capitulos/31_transformaciones_sociales_desde_1990.md",
+    "bytes": 12728,
+    "sha256": "d56acef2b91a38e2ba8f84ec6d8b10f036369fd07683a7dbac137a5f3a98eb24"
+  },
+  {
+    "path": "10_segundo_medio/capitulos/32_pueblos_originarios_estado_y_democracia_reciente.md",
+    "bytes": 13056,
+    "sha256": "2ec8219153d97c8d7e2511f4b7e693606ad13ef8d429c2598e89a271ced0c6f9"
+  },
+  {
+    "path": "10_segundo_medio/capitulos/33_movimientos_estudiantiles_y_derecho_a_la_educacion.md",
+    "bytes": 12897,
+    "sha256": "1b4d1eadaa99cc28f7222d8ed9016c8e17a961a2d93a8d4ac3e3d445cf8ee8d2"
+  },
+  {
+    "path": "10_segundo_medio/capitulos/34_estallido_social_de_2019.md",
+    "bytes": 14293,
+    "sha256": "d9dfd51a9fcccbac26274ebe043188727c6f4b9a618ce9a041318a261c72856e"
+  },
+  {
+    "path": "10_segundo_medio/capitulos/35_procesos_constitucionales_de_2020_2023.md",
+    "bytes": 13511,
+    "sha256": "cfd51bbc7f6ad4e252b4dce597a5ccf8cfc75fa37613e4b55343d70c6f5ab133"
+  },
+  {
+    "path": "10_segundo_medio/capitulos/36_historiografia_memoria_y_fuentes_del_siglo_xx_chileno.md",
+    "bytes": 12704,
+    "sha256": "ce64c3bad03902287a596342aa6457e874f2ff5b20fb2f852189270334b72675"
+  },
+  {
+    "path": "10_segundo_medio/evaluaciones/diagnostico.md",
+    "bytes": 1733,
+    "sha256": "67074f62ed1c2068689f942f0e9857b3cf3b5199799e6d10969375346b69159d"
+  },
+  {
+    "path": "10_segundo_medio/evaluaciones/respuestas_diagnostico.md",
+    "bytes": 2613,
+    "sha256": "aeb5286ece71058d732809460da087a63115aaa9ab36b0d8a72e0b804354a64f"
+  },
+  {
+    "path": "11_tercero_medio/00_indice.md",
+    "bytes": 4466,
+    "sha256": "4c4885d472f2f81173897571f25ab95fa1959bd754fcb94c2fe7979ceffae82f"
+  },
+  {
+    "path": "11_tercero_medio/bancos/banco_preguntas.md",
+    "bytes": 4393,
+    "sha256": "5a2b083130b02efb57339b509a6d3e3ffc9f37671cf700ff5f5b54d63b02f6bd"
+  },
+  {
+    "path": "11_tercero_medio/bancos/glosario.md",
+    "bytes": 4008,
+    "sha256": "8fde7afaea5fb330178ca193d15207716cd22d6476383e7c0d31cf62c64e7479"
+  },
+  {
+    "path": "11_tercero_medio/bancos/tarjetas_repaso.md",
+    "bytes": 5083,
+    "sha256": "ed9dfe4c07d7773a08b0848ce8f7d70d2e9ed50eedc92b617acabdfd6eec0692"
+  },
+  {
+    "path": "11_tercero_medio/capitulos/01_que_es_la_historia_reciente_y_para_que_sirve.md",
+    "bytes": 12938,
+    "sha256": "c31f2072be3145ee997af7c2d1923c76d5045f42a7d98321054a36752d10622b"
+  },
+  {
+    "path": "11_tercero_medio/capitulos/02_memoria_historia_y_sitios_de_memoria.md",
+    "bytes": 13420,
+    "sha256": "3ba1fd924c6230015efa7b169ca8263cd6ab8541a7fd81db1fdc4a3e09f0dc6f"
+  },
+  {
+    "path": "11_tercero_medio/capitulos/03_historia_oral_y_entrevistas.md",
+    "bytes": 12869,
+    "sha256": "0c899a2142788e9747f1ffc2ab957d3488390a5f5ed7b197711bfb7ea47ee346"
+  },
+  {
+    "path": "11_tercero_medio/capitulos/04_diseno_de_una_investigacion_de_historia_local.md",
+    "bytes": 13462,
+    "sha256": "7a4e5f62b787f931819c6cff697a4d80099b4578e41f19caf48d7ddea8660077"
+  },
+  {
+    "path": "11_tercero_medio/capitulos/05_historia_de_la_democracia_chilena_y_ciudadania.md",
+    "bytes": 13053,
+    "sha256": "e9c24cb8cbf3a58ad6453ed8dab76546fda453c6b16f61910346e09ffe4536b5"
+  },
+  {
+    "path": "11_tercero_medio/capitulos/06_constituciones_y_cambios_del_poder_politico.md",
+    "bytes": 13343,
+    "sha256": "6e1ca344fe4b9232511cf231c0885ed5f55b0a5d314f5afbfe86ca7d7f108cb9"
+  },
+  {
+    "path": "11_tercero_medio/capitulos/07_derechos_humanos_y_defensa_de_las_victimas.md",
+    "bytes": 14362,
+    "sha256": "b8e636ecf5f5f2ff33e6e292bb1a54a6fa82375b36a6aa90277fd48c3c8bd613"
+  },
+  {
+    "path": "11_tercero_medio/capitulos/08_justicia_transicional_y_politicas_de_memoria.md",
+    "bytes": 14357,
+    "sha256": "1ecb6398965a4f8a22b0bee3470ffc9c1246ede13fa420ab7b8e98f81520bf79"
+  },
+  {
+    "path": "11_tercero_medio/capitulos/09_historia_de_las_relaciones_entre_estado_y_mercado.md",
+    "bytes": 13285,
+    "sha256": "670b7195ff93a0e2d83952e28b7a478a887eec56e7f95286d621fabe6a1df223"
+  },
+  {
+    "path": "11_tercero_medio/capitulos/10_historia_del_trabajo_y_los_derechos_laborales.md",
+    "bytes": 13130,
+    "sha256": "f6197809b5af605ffedac24500c3397e6f05aa33660e06673a30d4c894adec99"
+  },
+  {
+    "path": "11_tercero_medio/capitulos/11_movimientos_sociales_y_ampliacion_de_la_democracia.md",
+    "bytes": 13014,
+    "sha256": "ff9722f081707880e0098da802cd78506a0097c5c3c211ae112392800c0d2b5d"
+  },
+  {
+    "path": "11_tercero_medio/capitulos/12_mujeres_feminismos_y_ciudadania.md",
+    "bytes": 12966,
+    "sha256": "a936cf239d11a67fd7eb6deb44071befeb677164328af3859155a91f26f5aa62"
+  },
+  {
+    "path": "11_tercero_medio/capitulos/13_pueblos_originarios_estado_y_derechos.md",
+    "bytes": 13339,
+    "sha256": "c8842b41fffbbd63550183f372768c5650b134ae322fdd54b32e811f9d5fb4a0"
+  },
+  {
+    "path": "11_tercero_medio/capitulos/14_migracion_ciudadania_y_diversidad.md",
+    "bytes": 13031,
+    "sha256": "f512576aceb80d666004b5986266a5cfa3e5b3ff727be7bd26582e1c5f7de3f7"
+  },
+  {
+    "path": "11_tercero_medio/capitulos/15_historia_ambiental_territorio_y_justicia.md",
+    "bytes": 12801,
+    "sha256": "396bd0ba92bc59b4e63545100e89cc18d19d7acef8b1fed2772e3a61c4346550"
+  },
+  {
+    "path": "11_tercero_medio/capitulos/16_ciudad_segregacion_y_participacion.md",
+    "bytes": 12928,
+    "sha256": "14ffff75cb76d0b56b85f66c9f4cf8698d1a576eef857c988246bb8e0a5ae355"
+  },
+  {
+    "path": "11_tercero_medio/capitulos/17_salud_publica_epidemias_y_ciudadania.md",
+    "bytes": 12922,
+    "sha256": "aad659cf540da964c58f5b64307eb1af1306ac7c358e900112ec84146e893b6b"
+  },
+  {
+    "path": "11_tercero_medio/capitulos/18_pandemia_y_cambio_social_reciente.md",
+    "bytes": 13862,
+    "sha256": "bb615aeee02aca700dcbe3d43e2329de3ad827a47b617fc36df91b48462fb8ed"
+  },
+  {
+    "path": "11_tercero_medio/evaluaciones/diagnostico.md",
+    "bytes": 1761,
+    "sha256": "dbaa3caa721ca1bfa2172d24543997a95fc3d0a58c2cc39647066c8ee0ef7ac9"
+  },
+  {
+    "path": "11_tercero_medio/evaluaciones/respuestas_diagnostico.md",
+    "bytes": 2703,
+    "sha256": "98226bb00a0bed451f0ee029bfac7f66a1da0de95824273245eb1044bc2ecf3e"
+  },
+  {
+    "path": "12_cuarto_medio/00_indice.md",
+    "bytes": 4791,
+    "sha256": "f204a6140aba1277fa1dcf61a3407090a82e1d3c2f7a72f862153571208fb563"
+  },
+  {
+    "path": "12_cuarto_medio/bancos/banco_preguntas.md",
+    "bytes": 4545,
+    "sha256": "c446a830fb5c82a536100c7557a95f87cf813e30b1879d3ce7461ec01da3ee12"
+  },
+  {
+    "path": "12_cuarto_medio/bancos/glosario.md",
+    "bytes": 5623,
+    "sha256": "83ebe4db1ba2b5f8e7ed66c731fc38286e900fb7805a9a873205218b4731e03f"
+  },
+  {
+    "path": "12_cuarto_medio/bancos/tarjetas_repaso.md",
+    "bytes": 5406,
+    "sha256": "9f873a8e31ff63d3ac75295a661bc9e9e0dbb67a1695b60b449559b58fbe8543"
+  },
+  {
+    "path": "12_cuarto_medio/capitulos/01_perspectivas_historiograficas_sobre_el_chile_reciente.md",
+    "bytes": 13231,
+    "sha256": "02de7e4b9d711f02d1418c74fc0360f1d8254ea14138979ccc5e1bedd4eeb4ac"
+  },
+  {
+    "path": "12_cuarto_medio/capitulos/02_memoria_publica_monumentos_y_sitios_de_conciencia.md",
+    "bytes": 13619,
+    "sha256": "e06211958b76a2a50775db5ae3269651aeb1a8ad3aaef9852c29226c81093bd3"
+  },
+  {
+    "path": "12_cuarto_medio/capitulos/03_debates_historiograficos_sobre_1973_y_el_quiebre_democratico.md",
+    "bytes": 14430,
+    "sha256": "2731387027e0d1d8c3c0bc00a951c2bbe6dd10f8f4012a11736e9a746585ed9e"
+  },
+  {
+    "path": "12_cuarto_medio/capitulos/04_transicion_chilena_cambios_continuidades_y_debates.md",
+    "bytes": 13549,
+    "sha256": "72314684404daa40e14ae37662849964e4b3ec83d1772f48ae94b5fa3d671cbd"
+  },
+  {
+    "path": "12_cuarto_medio/capitulos/05_verdad_justicia_reparacion_y_no_repeticion.md",
+    "bytes": 14364,
+    "sha256": "437cd35ec75c076244a7a902e80460fe4e674f1adc62e82b91e24660947f7aa5"
+  },
+  {
+    "path": "12_cuarto_medio/capitulos/06_historia_constitucional_y_distribucion_del_poder.md",
+    "bytes": 13267,
+    "sha256": "63ee70ba25179a410acd703363644bdace8f8138f9507c28f0742b35837ed928"
+  },
+  {
+    "path": "12_cuarto_medio/capitulos/07_procesos_constitucionales_de_2020_2023.md",
+    "bytes": 13794,
+    "sha256": "9a1554ddfaa2cc7ce3acce9cd022ad6f9ba088346e84d22eaa4d0d062e0c4e0a"
+  },
+  {
+    "path": "12_cuarto_medio/capitulos/08_representacion_reformas_y_calidad_democratica.md",
+    "bytes": 13443,
+    "sha256": "101df586d1bf89151482d6ea9e84f08af2d7183b02d9163151eb5ab9ccf3029f"
+  },
+  {
+    "path": "12_cuarto_medio/capitulos/09_modelos_de_desarrollo_y_vida_cotidiana.md",
+    "bytes": 13263,
+    "sha256": "9755cad4036e1e338cfc09186138fe80b72b2d858e1de5831f0c8ef21f9555bc"
+  },
+  {
+    "path": "12_cuarto_medio/capitulos/10_desigualdad_chilena_en_perspectiva_historica.md",
+    "bytes": 13079,
+    "sha256": "670f92660a11907ad14b8734f0da975dcb00177fdbfa2a3eed55b2ca0ab51a7a"
+  },
+  {
+    "path": "12_cuarto_medio/capitulos/11_derechos_laborales_y_organizaciones_sociales.md",
+    "bytes": 13308,
+    "sha256": "902fb8f3b08a6b8e1ab873e0687836e4b1fa74c692e54dd6bc67f45710e42ec2"
+  },
+  {
+    "path": "12_cuarto_medio/capitulos/12_igualdad_de_genero_y_ciudadania_en_perspectiva_historica.md",
+    "bytes": 13161,
+    "sha256": "37a3045f2685e96477c923141fd2a52d9480c5f080f7fc0c063975feaf9bb250"
+  },
+  {
+    "path": "12_cuarto_medio/capitulos/13_relacion_historica_entre_estado_y_pueblos_originarios.md",
+    "bytes": 13404,
+    "sha256": "b71166729bf94efb9c2df98d3fd57dded8d3368d1ab2142991e90012f01be57b"
+  },
+  {
+    "path": "12_cuarto_medio/capitulos/14_migraciones_recientes_y_construccion_de_comunidad.md",
+    "bytes": 13212,
+    "sha256": "4758e23abedd3cf4bc59024b198725531422f84aba7b0aad008978d266df1e50"
+  },
+  {
+    "path": "12_cuarto_medio/capitulos/15_desarrollo_extractivismo_y_crisis_climatica.md",
+    "bytes": 12960,
+    "sha256": "41572a80ecb15d79813be54aa2bb1ac2a61efba204378db0cc9419d78110b498"
+  },
+  {
+    "path": "12_cuarto_medio/capitulos/16_2019_protesta_derechos_y_crisis_de_representacion.md",
+    "bytes": 14945,
+    "sha256": "08293b87bbfbd8676f0ea7f214fa9a26beaea71467771afca0adb077e47be5b1"
+  },
+  {
+    "path": "12_cuarto_medio/capitulos/17_chile_1990_2026_balance_historico_y_desafios.md",
+    "bytes": 13677,
+    "sha256": "e4e7fdea6071a781073c6fee4ef46ac648e8e31b9641803d57231a757c5cc8e8"
+  },
+  {
+    "path": "12_cuarto_medio/capitulos/18_proyecto_final_de_historia_local_y_propuesta_ciudadana.md",
+    "bytes": 13669,
+    "sha256": "7ac45d1b0fa149f961493b68f13e7ee0d5269ba43a9d992df599fa9cf8200d62"
+  },
+  {
+    "path": "12_cuarto_medio/evaluaciones/diagnostico.md",
+    "bytes": 1834,
+    "sha256": "192957836dec054548c0125d4b6efd27eacc71b552138a756149d5b870a9577f"
+  },
+  {
+    "path": "12_cuarto_medio/evaluaciones/respuestas_diagnostico.md",
+    "bytes": 2769,
+    "sha256": "f3fc1f7dff7e8fde601553fd73035c61f169d1631d5dbf30c23345386b3ef4b3"
+  },
+  {
+    "path": "13_tematicos_transversales/01_fuentes_historicas_y_construccion_del_conocimiento.md",
+    "bytes": 13133,
+    "sha256": "0f987f7da1f8a5a94d14b92ab18bad183ac8feb8c41bd12d6b4550944a5a1dcd"
+  },
+  {
+    "path": "13_tematicos_transversales/02_historia_oral_y_entrevistas.md",
+    "bytes": 12921,
+    "sha256": "81b28d63553901aeea012b8701935c8b2ec647d0265e573051943cbbc898a82b"
+  },
+  {
+    "path": "13_tematicos_transversales/03_historiografia_e_interpretaciones_del_pasado.md",
+    "bytes": 13212,
+    "sha256": "f0fe20dbec40d0c2c0d7a8ef3e434e77388f10bed47de82b58b77cfb8c45dec1"
+  },
+  {
+    "path": "13_tematicos_transversales/04_memoria_historia_y_sitios_de_memoria.md",
+    "bytes": 13472,
+    "sha256": "3151c798e88ea5e43edb018fafadd11456eff9c1efcae8e96fee393f54289e26"
+  },
+  {
+    "path": "13_tematicos_transversales/05_historia_constitucional_de_chile.md",
+    "bytes": 13156,
+    "sha256": "79f64dfb1498b56258c0e80faaea8038a61820bd85735319600fbf5ea15bd303"
+  },
+  {
+    "path": "13_tematicos_transversales/06_historia_de_la_democracia_y_la_ciudadania_en_chile.md",
+    "bytes": 13115,
+    "sha256": "10de56d475ab593c40bca68cdc4bf3fa0258af41462301ed3f57dbc5cdba60d6"
+  },
+  {
+    "path": "13_tematicos_transversales/07_historia_del_trabajo_y_los_derechos_laborales.md",
+    "bytes": 13245,
+    "sha256": "af6c0492db958fe1c78baed22e140534d1e07b8a4cd47c2e581a8f7d4eff705d"
+  },
+  {
+    "path": "13_tematicos_transversales/08_historia_de_mujeres_y_genero_en_chile.md",
+    "bytes": 12912,
+    "sha256": "aa94c310e77ac22e456f7f8bda25ac2e5f29e128e4107f5ef2e446c6a633390e"
+  },
+  {
+    "path": "13_tematicos_transversales/09_historia_de_migraciones_en_chile.md",
+    "bytes": 12862,
+    "sha256": "f24a281523e888c1016b8a99fa224f122e808ab14971fc6ffe5ef36c9855565c"
+  },
+  {
+    "path": "13_tematicos_transversales/10_historia_ambiental_de_chile.md",
+    "bytes": 12596,
+    "sha256": "fc6fed380a87419a3eb9e35bd40d8df52a070546689a7efd547a9ad81895c1f9"
+  },
+  {
+    "path": "13_tematicos_transversales/11_historia_urbana_de_chile.md",
+    "bytes": 12701,
+    "sha256": "78ed9cd37fc65fb086274b3fc4e7e229854ba1f493fd6bf08dd44d16b8aebcb5"
+  },
+  {
+    "path": "13_tematicos_transversales/12_historias_regionales_y_descentralizacion.md",
+    "bytes": 13125,
+    "sha256": "f94d06514727af5e83e9189d22d4e19a17295285a17faeee49049278631de911"
+  },
+  {
+    "path": "13_tematicos_transversales/13_movimientos_sociales_en_la_historia_de_chile.md",
+    "bytes": 12817,
+    "sha256": "2067ba7a9c7cd982329497335f836dd30c4d40ca9f3d8b5a731b1d68ae008e79"
+  },
+  {
+    "path": "13_tematicos_transversales/14_historia_de_la_educacion_en_chile.md",
+    "bytes": 12939,
+    "sha256": "d6e42a6720f297698650777349a5c93992e6f10a04c4dbde9e55731628c6764c"
+  },
+  {
+    "path": "13_tematicos_transversales/15_historia_de_la_salud_publica_en_chile.md",
+    "bytes": 12690,
+    "sha256": "39a629f162e7d2380794be88c8687da4e1ca60159f9275f12d29f3fb7b483cce"
+  },
+  {
+    "path": "13_tematicos_transversales/16_historia_del_cobre_y_la_economia_chilena.md",
+    "bytes": 13506,
+    "sha256": "b6cf2933b75573402698cc017c84050e6046578b3a4d349e5ae0cfece0e9dd7f"
+  },
+  {
+    "path": "13_tematicos_transversales/17_historia_de_la_desigualdad_social_en_chile.md",
+    "bytes": 13001,
+    "sha256": "ae82b6231a25f17baa9c2ded86310dba6d4bbca589f9b6f0af9fcc580a58c220"
+  },
+  {
+    "path": "14_bancos_generales/01_cronologia_maestra.md",
+    "bytes": 2083,
+    "sha256": "8ac780d050273052b5c89e2fce92b4df60a4c81ada13000557e8851b8b8da0d6"
+  },
+  {
+    "path": "14_bancos_generales/02_biografias_y_actores_colectivos.md",
+    "bytes": 4973,
+    "sha256": "0194bded868a40c0b7c4a40573bd0b7f6327787126ceb7f11f4a5b2cf7cfebc3"
+  },
+  {
+    "path": "14_bancos_generales/03_glosario_general.md",
+    "bytes": 1502,
+    "sha256": "b2ed5ce2d012f9bcd588b4f0b18cd9fdc7ecaba963a0d72ce82be33d7fae6845"
+  },
+  {
+    "path": "14_bancos_generales/04_plantillas_analisis_fuentes.md",
+    "bytes": 993,
+    "sha256": "1ea094afb5cbcb974e901aa54dd31afee64ac68a5e605d84a768ee6477edf049"
+  },
+  {
+    "path": "15_evaluaciones_generales/01_pueblos_originarios_y_periodo_prehispanico.md",
+    "bytes": 664,
+    "sha256": "4908f1010c63342c021fd37434f91ae26dfaf5ca34778a4b3edece2b70789b82"
+  },
+  {
+    "path": "15_evaluaciones_generales/01_pueblos_originarios_y_periodo_prehispanico_respuestas.md",
+    "bytes": 771,
+    "sha256": "44eddcaa038378aad7d95cef1c58fa6c2d3e3e6bb008645f48878baf352e1cfc"
+  },
+  {
+    "path": "15_evaluaciones_generales/02_conquista_y_colonia.md",
+    "bytes": 741,
+    "sha256": "7520e356109bafd211d4eaab5a4ec96fdf18c27a3aed54d93a5dfd758c5eb7f7"
+  },
+  {
+    "path": "15_evaluaciones_generales/02_conquista_y_colonia_respuestas.md",
+    "bytes": 969,
+    "sha256": "48778569986de04861815f1a34bac4f0506001552d39a0ab6ccc439d308d6669"
+  },
+  {
+    "path": "15_evaluaciones_generales/03_independencia_y_siglo_xix.md",
+    "bytes": 743,
+    "sha256": "e1ee0a15e6a771ad44136b5f49c74949c50fee6e633443f0b7ba00ce5fd6e5e8"
+  },
+  {
+    "path": "15_evaluaciones_generales/03_independencia_y_siglo_xix_respuestas.md",
+    "bytes": 1042,
+    "sha256": "b0ddec64969adb75d5cdfe4885eea59dedb743ec9c79e3a1ecff91fc141c1254"
+  },
+  {
+    "path": "15_evaluaciones_generales/04_siglo_xx_y_presente.md",
+    "bytes": 802,
+    "sha256": "8669fbbdbf3bfb822f7b557534e24ea0ba929853c70762c85b08cc8fdf6c0b19"
+  },
+  {
+    "path": "15_evaluaciones_generales/04_siglo_xx_y_presente_respuestas.md",
+    "bytes": 1232,
+    "sha256": "afd06901c475bc4b131612088077405a756bbb5f708aa11d7b13206b80fc2b9c"
+  },
+  {
+    "path": "16_apoyo_inclusivo/01_modos_de_respuesta.md",
+    "bytes": 535,
+    "sha256": "d95013a47b97a4be753c5912763d1cc61fc642d05db31df8f75ea3f0b2f2cb4e"
+  },
+  {
+    "path": "16_apoyo_inclusivo/02_adaptaciones_tea.md",
+    "bytes": 565,
+    "sha256": "03907f15734e75b8b3930db6e5e0872bbddec706d8cae73b115b9b880ca96c36"
+  },
+  {
+    "path": "16_apoyo_inclusivo/03_lectura_facil_por_ciclo.md",
+    "bytes": 566,
+    "sha256": "88e2de1ec63bb9fc744e5e231ad7fcddb47c55c41bc227f0d8a69b81acc18d42"
+  },
+  {
+    "path": "16_apoyo_inclusivo/04_temas_sensibles.md",
+    "bytes": 621,
+    "sha256": "4cc8791dbe1a6bbeabd496d217cf81c4e3de1a464992b01107f3b66c3d146b39"
+  },
+  {
+    "path": "16_apoyo_inclusivo/05_evaluacion_accesible.md",
+    "bytes": 443,
+    "sha256": "cd2a4ed98a8836e414318b94365d3a5e09543feed8d143cb21060f05b8c80291"
+  },
+  {
+    "path": "16_apoyo_inclusivo/06_guia_para_familias.md",
+    "bytes": 339,
+    "sha256": "9850c1aa6f6bfc5a3283c44af71ba4c10ab6ac4dc2d2887c7bebabb284a64039"
+  },
+  {
+    "path": "17_compendios/01_primer_ciclo_basico.md",
+    "bytes": 561335,
+    "sha256": "c093d837c454c7eeccea05339ab4f32f21eb14f5b9907892c15b4842cf4faca8"
+  },
+  {
+    "path": "17_compendios/02_segundo_ciclo_basico.md",
+    "bytes": 1029124,
+    "sha256": "ab0e3c0ab4bef538ef31d0cd4ba6f756670e9359b8847041f1e7b31741f27153"
+  },
+  {
+    "path": "17_compendios/03_ensenanza_media.md",
+    "bytes": 1248820,
+    "sha256": "cf305cfda863465067b6eb6f55d2cd92e7fe535bec2959e36c4997ff941cfcc9"
+  },
+  {
+    "path": "17_compendios/compendio_cuarto_basico.md",
+    "bytes": 158068,
+    "sha256": "198c81b3f5f916fc367835bdad2176df9c985350e8e8ca01cc461e1ee0d48419"
+  },
+  {
+    "path": "17_compendios/compendio_cuarto_medio.md",
+    "bytes": 230500,
+    "sha256": "73844cd9c1d425f29498011c201b15da0bae5b927022c5bd0537b81c9159001b"
+  },
+  {
+    "path": "17_compendios/compendio_octavo_basico.md",
+    "bytes": 259757,
+    "sha256": "bf4aa43c0b1fb5a80909798a7a1c193bfadad738e6af2fe4854a4232fcdf6fd9"
+  },
+  {
+    "path": "17_compendios/compendio_primero_basico.md",
+    "bytes": 113866,
+    "sha256": "e11550c6567924a3342e805ff546fa5c4e9d752c1ae432a91aae6a058d6cf669"
+  },
+  {
+    "path": "17_compendios/compendio_primero_medio.md",
+    "bytes": 344087,
+    "sha256": "12b8a6ac544811a2db402a8910b586afbf6bdac37a090162be6de1174d8283f8"
+  },
+  {
+    "path": "17_compendios/compendio_quinto_basico.md",
+    "bytes": 278240,
+    "sha256": "50656cf47427b94afff51b66723488ad01abae37134d0472442beb4ca63ed5b1"
+  },
+  {
+    "path": "17_compendios/compendio_segundo_basico.md",
+    "bytes": 176663,
+    "sha256": "bf723613e800bc4ba77c2ecffa1bd82b554549feec568cb038d7f449d8fbc0e9"
+  },
+  {
+    "path": "17_compendios/compendio_segundo_medio.md",
+    "bytes": 448157,
+    "sha256": "d9bfa073cd1cdfca94f7e6141490de409fb7824b1e875b4cc9b6724fedda1b38"
+  },
+  {
+    "path": "17_compendios/compendio_septimo_basico.md",
+    "bytes": 162580,
+    "sha256": "89dace912ffed1a80fb9f5d5c3bbde2ffdf872dac597a1d6394c38a53097e1b9"
+  },
+  {
+    "path": "17_compendios/compendio_sexto_basico.md",
+    "bytes": 328417,
+    "sha256": "020f48f64187e2a502e4b601438247d5fde7a80577af94caae55628ab48b5e0a"
+  },
+  {
+    "path": "17_compendios/compendio_tercero_basico.md",
+    "bytes": 112609,
+    "sha256": "c801690837bb2256b9630d7ffbb31f36404514e233e4115d3488f9deb4c613f5"
+  },
+  {
+    "path": "17_compendios/compendio_tercero_medio.md",
+    "bytes": 225951,
+    "sha256": "d30944bf4e4d1a3b4024815e8e9aec7612296bd577b07737e04b296af5b946e2"
+  },
+  {
+    "path": "18_rag/catalogo_capitulos.json",
+    "bytes": 139725,
+    "sha256": "2d03abded7bd4fdf81c61b8b5219c655aa59191f3faff308b7acd262f3bc57fc"
+  },
+  {
+    "path": "18_rag/catalogo_capitulos.jsonl",
+    "bytes": 120147,
+    "sha256": "7058611bac9f083ae57a56c87648a3de3ebf5f337d853644ba386f378748480e"
+  },
+  {
+    "path": "18_rag/chunks_historia_chile.jsonl",
+    "bytes": 6526267,
+    "sha256": "9f385b36530c4ef4e6d1923583ad9dd6091bdec51747759b26d8d41cff3540f6"
+  },
+  {
+    "path": "18_rag/manifiesto_archivos.json",
+    "bytes": 71318,
+    "sha256": "cfef94c4d10963bcb1ec576a326c55a493755f114b9d50376c18449be9820bd5"
+  },
+  {
+    "path": "CHANGELOG.md",
+    "bytes": 224,
+    "sha256": "2c5aad763cd600824574fe3b46a5c1e3862946762f0c16c8b3fbf096aec445b8"
+  },
+  {
+    "path": "README.md",
+    "bytes": 1328,
+    "sha256": "80082305b12c35055effc7f5882263d3cda8822cafc71d7214f25de14161af9d"
+  }
+]

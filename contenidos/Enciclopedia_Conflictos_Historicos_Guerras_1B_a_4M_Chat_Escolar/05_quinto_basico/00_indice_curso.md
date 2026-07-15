@@ -1,0 +1,18 @@
+# Índice — 5° básico
+
+- [Conquista de América](001_conquista_de_america.md)
+- [Conquista de Chile](002_conquista_de_chile.md)
+- [Guerra de Arauco](003_guerra_de_arauco.md)
+- [Relaciones hispano-mapuches](004_relaciones_hispano_mapuches.md)
+- [Parlamentos y diplomacia](005_parlamentos_y_diplomacia.md)
+- [Efectos de la conquista](006_efectos_de_la_conquista.md)
+- [Encomienda y violencia](007_encomienda_y_violencia.md)
+- [Resistencias indígenas](008_resistencias_indigenas.md)
+- [Piratería y guerra imperial](009_pirateria_y_guerra_imperial.md)
+- [Vida cotidiana colonial en conflicto](010_vida_cotidiana_colonial_en_conflicto.md)
+- [Mujeres en conquista y frontera](011_mujeres_en_conquista_y_frontera.md)
+- [Niñez colonial](012_ninez_colonial.md)
+- [Comparar versiones](013_comparar_versiones.md)
+- [No glorificar conquistadores](014_no_glorificar_conquistadores.md)
+- [Derechos humanos como criterio](015_derechos_humanos_como_criterio.md)
+- [Acuerdos comunitarios](016_acuerdos_comunitarios.md)

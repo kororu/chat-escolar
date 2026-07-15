@@ -1,0 +1,25 @@
+{
+  "version": "1.0",
+  "fecha": "2026-07-14",
+  "chapters": 220,
+  "course_chapters": {
+    "1° básico": 8,
+    "2° básico": 10,
+    "3° básico": 12,
+    "4° básico": 14,
+    "5° básico": 16,
+    "6° básico": 18,
+    "7° básico": 16,
+    "8° básico": 16,
+    "1° medio": 22,
+    "2° medio": 30,
+    "3° medio": 18,
+    "4° medio": 20
+  },
+  "transversal_chapters": 20,
+  "chunks": 3960,
+  "broken_links": 0,
+  "files_total": 294,
+  "markdown_files": 289,
+  "words_markdown": 460107
+}

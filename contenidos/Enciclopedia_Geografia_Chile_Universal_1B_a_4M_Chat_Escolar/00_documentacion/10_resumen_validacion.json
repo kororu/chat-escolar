@@ -1,0 +1,40 @@
+{
+  "root": "/mnt/data/Enciclopedia_Geografia_Chile_Universal_1B_a_4M_Chat_Escolar",
+  "zip": "/mnt/data/Enciclopedia_Geografia_Chile_Universal_1B_a_4M_Chat_Escolar_v1.zip",
+  "version": "1.0",
+  "verification_date": "2026-07-14",
+  "chapters": 194,
+  "course_chapters": {
+    "1° básico": 10,
+    "2° básico": 12,
+    "3° básico": 14,
+    "4° básico": 14,
+    "5° básico": 18,
+    "6° básico": 18,
+    "7° básico": 14,
+    "8° básico": 14,
+    "1° medio": 14,
+    "2° medio": 14,
+    "3° medio": 16,
+    "4° medio": 16
+  },
+  "transversal_chapters": 20,
+  "chunks": 4043,
+  "duplicate_ids": [],
+  "pending_markers": [],
+  "broken_links": 0,
+  "alignment_counts": {
+    "curricular_directa": 83,
+    "puente_curricular": 50,
+    "ampliacion_alineada": 12,
+    "formacion_general": 21,
+    "electivo_hc": 8,
+    "transversal": 20
+  },
+  "files_total": 269,
+  "markdown_files": 263,
+  "words_markdown": 899428,
+  "zip_bytes": 1273674,
+  "zip_integrity": true,
+  "broken_link_items": []
+}

@@ -1,0 +1,22 @@
+# Índice de Astronomía — 4° básico
+
+- [La Tierra como planeta](001_la_tierra_como_planeta.md) — sistema_solar
+- [Forma de la Tierra y evidencias](002_forma_de_la_tierra_y_evidencias.md) — astronomia_general
+- [Eje terrestre](003_eje_terrestre.md) — astronomia_general
+- [Rotación y husos horarios iniciales](004_rotacion_y_husos_horarios_iniciales.md) — astronomia_general
+- [Traslación y año](005_traslacion_y_ano.md) — astronomia_general
+- [Inclinación del eje y estaciones](006_inclinacion_del_eje_y_estaciones.md) — astronomia_general
+- [Órbita terrestre](007_orbita_terrestre.md) — gravedad_y_orbitas
+- [Gravedad inicial](008_gravedad_inicial.md) — gravedad_y_orbitas
+- [Masa y peso iniciales](009_masa_y_peso_iniciales.md) — astronomia_general
+- [La Luna y sus movimientos](010_la_luna_y_sus_movimientos.md) — tierra_luna
+- [Fases lunares detalladas](011_fases_lunares_detalladas.md) — tierra_luna
+- [Eclipses y alineación](012_eclipses_y_alineacion.md) — tierra_luna
+- [Mareas iniciales](013_mareas_iniciales.md) — tierra_luna
+- [Constelaciones y orientación](014_constelaciones_y_orientacion.md) — astronomia_general
+- [Estrellas de distinto brillo](015_estrellas_de_distinto_brillo.md) — estrellas
+- [Color de las estrellas inicial](016_color_de_las_estrellas_inicial.md) — estrellas
+- [La Vía Láctea](017_la_via_lactea.md) — galaxias
+- [Galaxias iniciales](018_galaxias_iniciales.md) — galaxias
+- [Satélites artificiales](019_satelites_artificiales.md) — exploracion_espacial
+- [Exploración espacial histórica](020_exploracion_espacial_historica.md) — exploracion_espacial

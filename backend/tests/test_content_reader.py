@@ -31,15 +31,26 @@ class QuestionNormalizationTests(unittest.TestCase):
                 self.assertEqual(analysis["possible_subject"], "ciencias_naturales")
                 self.assertIn("habitat", analysis["keywords"])
 
-    def test_vague_follow_up_requires_clarification(self):
+    def test_retrieval_does_not_decide_conversational_ambiguity(self):
         result = retrieve_local_content(
             "5° básico",
             "Ciencias Naturales",
             "cual fue el mas usado?",
             mode="Estudiar para el colegio",
         )
-        self.assertEqual(result["provenance_status"], "clarification_required")
+        self.assertEqual(result["provenance_status"], "no_local_content")
         self.assertEqual(result["results"], [])
+
+    def test_consiste_is_not_corrected_to_ecosistemas(self):
+        analysis = normalize_question(
+            "explicame en que consiste el combate naval de iquique"
+        )
+        self.assertEqual(
+            analysis["normalized_text"],
+            "explicame en que consiste el combate naval de iquique",
+        )
+        self.assertIsNone(analysis["possible_topic"])
+        self.assertNotIn("ecosistemas", analysis["keywords"])
 
     def test_detects_curricular_subjects_from_normalized_questions(self):
         examples = {
@@ -53,6 +64,41 @@ class QuestionNormalizationTests(unittest.TestCase):
                 subject, confidence = detect_subject_from_question(question)
                 self.assertEqual(subject, expected_subject)
                 self.assertGreaterEqual(confidence, 0.6)
+
+    def test_historical_naval_phrases_have_priority_over_other_subjects(self):
+        for question in (
+            "explicame el combate naval de iquique",
+            "quien fue Arturo Prat",
+            "que paso el 21 de mayo",
+            "guerra del pacífico",
+            "Esmeralda",
+            "Huáscar",
+            "Miguel Grau",
+        ):
+            with self.subTest(question=question):
+                subject, confidence = detect_subject_from_question(question)
+                self.assertEqual(subject, "Historia")
+                self.assertEqual(confidence, 1.0)
+
+    def test_historical_naval_queries_recover_the_verified_history_source(self):
+        for question in (
+            "explicame en que consiste el combate naval de iquique",
+            "quien fue Arturo Prat",
+            "que paso el 21 de mayo",
+            "Esmeralda",
+            "Huáscar",
+            "Miguel Grau",
+        ):
+            with self.subTest(question=question):
+                result = retrieve_local_content(
+                    "Todos los cursos",
+                    "Historia",
+                    question,
+                    mode="Estudiar para el colegio",
+                )
+                self.assertEqual(result["provenance_status"], "local_verified")
+                self.assertEqual(result["results"][0]["title"], "Combate Naval de Iquique")
+                self.assertEqual(result["source_course"], "6° básico")
 
     def test_ambiguous_question_does_not_invent_subject(self):
         subject, confidence = detect_subject_from_question("explícame esto mejor")

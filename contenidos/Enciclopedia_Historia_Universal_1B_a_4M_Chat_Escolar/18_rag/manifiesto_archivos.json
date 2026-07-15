@@ -1,0 +1,2042 @@
+[
+  {
+    "path": "00_documentacion/00_indice_maestro.md",
+    "bytes": 1186,
+    "sha256": "2f4dc74409e176e4e7c9c48b7e94d4247571ae5a1411abe0e8a63042c1631bb1"
+  },
+  {
+    "path": "00_documentacion/00_instalacion.md",
+    "bytes": 458,
+    "sha256": "22d43ba89414fb3ea110b3832c8f825454f2b891be117872dd67fc07caac8313"
+  },
+  {
+    "path": "00_documentacion/01_estado_curricular_y_fuentes.md",
+    "bytes": 3344,
+    "sha256": "a9e57ea98d302d78b707ec4b00609eef4ca5b9e7b2bd43f9ddb980731351bd25"
+  },
+  {
+    "path": "00_documentacion/02_arquitectura_de_contenidos.md",
+    "bytes": 678,
+    "sha256": "fa822b8b69ff4c251ae6bae17eebd12376463d26a619e8fbf32f68fcdaca28e2"
+  },
+  {
+    "path": "00_documentacion/03_guia_editorial_historiografica.md",
+    "bytes": 714,
+    "sha256": "caccebc6a0b9b7016d2bd86379a3138d963cf4e502aef3d38672e7f371777c04"
+  },
+  {
+    "path": "00_documentacion/04_mapa_vertical_curricular.md",
+    "bytes": 916,
+    "sha256": "1a99aca993cf645c7ba6c6ca8d837c54c43bdb905efcbedce1c23b3fda9cb679"
+  },
+  {
+    "path": "00_documentacion/05_integracion_ollama_rag.md",
+    "bytes": 825,
+    "sha256": "07c3df032d6611ac6636180a7759ccd4a011c46902faa07be84c1b61983c166d"
+  },
+  {
+    "path": "00_documentacion/06_prompt_sistema_ollama.md",
+    "bytes": 974,
+    "sha256": "de33dbf3b5649b8d82945c97fe19b79a7b82be58f25bca59f5a80fc0330dcda5"
+  },
+  {
+    "path": "00_documentacion/07_configuracion_rag.yaml",
+    "bytes": 898,
+    "sha256": "453d348f824389ac1034d4e3cbdf3302339c292e948d9fc2dc844276a493d48e"
+  },
+  {
+    "path": "00_documentacion/08_control_calidad.md",
+    "bytes": 533,
+    "sha256": "a20eeb8dddceff0a2f5a1a7c88f1c07d5f1c2b07efc2b15590047cb07298124a"
+  },
+  {
+    "path": "00_documentacion/09_pruebas_recuperacion.md",
+    "bytes": 939,
+    "sha256": "a428a53b3fbe052061267dcc773d756f487d57975cd41b49b47ade77fa0fe984"
+  },
+  {
+    "path": "00_documentacion/10_fuentes_institucionales_sugeridas.md",
+    "bytes": 812,
+    "sha256": "45bca1959e81c0c6e1f46e015e3903a68eb6f5e1b35f5217bec1b94ded1e3a58"
+  },
+  {
+    "path": "00_documentacion/11_resumen_validacion.json",
+    "bytes": 850,
+    "sha256": "615d52e49cd58987d69c180b69b1ca2583794168c8719e011bfbdb75031f7af7"
+  },
+  {
+    "path": "01_primero_basico/00_indice.md",
+    "bytes": 2346,
+    "sha256": "02f5e7f18a89ebdf1d53bd3e1749c619da57d825428a3517a2b0fb2ac6d9d167"
+  },
+  {
+    "path": "01_primero_basico/bancos/01_banco_preguntas.md",
+    "bytes": 2347,
+    "sha256": "172daf1295fce0ada142434431541c92db3125b7933b1dcdc87368cf407cc4c8"
+  },
+  {
+    "path": "01_primero_basico/bancos/02_glosario.md",
+    "bytes": 4462,
+    "sha256": "82d82b3f329d6592146292b48e6200430c2fa40265246493a5f19e5ab050b5d6"
+  },
+  {
+    "path": "01_primero_basico/bancos/03_tarjetas_repaso.md",
+    "bytes": 2794,
+    "sha256": "806746589b2a79d3855c9df6ef63a6a62c63b357529640106c369d2760478ffe"
+  },
+  {
+    "path": "01_primero_basico/capitulos/01_el_tiempo_en_la_vida_cotidiana_antes_ahora_y_despues.md",
+    "bytes": 11448,
+    "sha256": "1703bda7c90a9d5f95449b5491f426b5f962a7fb4ceb5af1c1dd4132ce472ba4"
+  },
+  {
+    "path": "01_primero_basico/capitulos/02_ninas_y_ninos_en_distintas_partes_del_mundo.md",
+    "bytes": 11359,
+    "sha256": "0b83fec4d289a70d60e2b65f87ad3fceed28da22719a7e4f153f97a029e7c9a3"
+  },
+  {
+    "path": "01_primero_basico/capitulos/03_familias_y_formas_de_vivir_en_diferentes_culturas.md",
+    "bytes": 11400,
+    "sha256": "41baaa0acc52f2c477be50ab46941528bbea60f006733cc401fbfe4072113025"
+  },
+  {
+    "path": "01_primero_basico/capitulos/04_viviendas_del_mundo_y_adaptacion_al_ambiente.md",
+    "bytes": 11364,
+    "sha256": "438bc365a8db01a774122e9dd09c75b1f8fe877856538158e4e26f2cc173c505"
+  },
+  {
+    "path": "01_primero_basico/capitulos/05_trabajos_y_oficios_en_distintas_sociedades.md",
+    "bytes": 11337,
+    "sha256": "fb5816a069c735bd525e65a97d24c10771f55e5e4f6609f364e42a2251031e89"
+  },
+  {
+    "path": "01_primero_basico/capitulos/06_juegos_celebraciones_y_comidas_del_mundo.md",
+    "bytes": 11325,
+    "sha256": "51a09bfedc797f4a07f0c6f5edfbf2b540a8f5dce74498b8605d47b1f5408a5a"
+  },
+  {
+    "path": "01_primero_basico/capitulos/07_mapas_sencillos_continentes_y_oceanos.md",
+    "bytes": 11309,
+    "sha256": "4b21efbb6759d254d6f1588e21b81a47773849dd9ff5ebaee1815a790adcdd45"
+  },
+  {
+    "path": "01_primero_basico/capitulos/08_respeto_por_la_diversidad_cultural.md",
+    "bytes": 11260,
+    "sha256": "2b3e23cda9c0aad91683594af09a27131f4f9af6a90824d48e63dbc5ce938e54"
+  },
+  {
+    "path": "01_primero_basico/evaluaciones/01_diagnostico.md",
+    "bytes": 1187,
+    "sha256": "a5c772527d9d62593f2150ffc0fb3a3dcf441295452b76bdec42d72c429a2d18"
+  },
+  {
+    "path": "01_primero_basico/evaluaciones/02_respuestas_diagnostico.md",
+    "bytes": 3464,
+    "sha256": "1e250f1059050c6dfca0ba0d83b4185060cf2cc8d3df971919b0aca59a6118fc"
+  },
+  {
+    "path": "02_segundo_basico/00_indice.md",
+    "bytes": 2693,
+    "sha256": "19b0486dc766912746d1b9281840c900a0874ed72475cb929e5ce4f0ae3153f8"
+  },
+  {
+    "path": "02_segundo_basico/bancos/01_banco_preguntas.md",
+    "bytes": 2965,
+    "sha256": "df45cb1141d90c8074caa9435f43c2d2484ca0281adab1c8ceb8da1a4c3c3572"
+  },
+  {
+    "path": "02_segundo_basico/bancos/02_glosario.md",
+    "bytes": 6512,
+    "sha256": "624c6cb4577d376dcf216efebcebe413a8cc4ac42d39a9321bc4c0f7f10bfd91"
+  },
+  {
+    "path": "02_segundo_basico/bancos/03_tarjetas_repaso.md",
+    "bytes": 3562,
+    "sha256": "bf3d5fc0149b48ffae5291d6c0b5a1cb7756842cbc42d70333c20c9b747ec58b"
+  },
+  {
+    "path": "02_segundo_basico/capitulos/01_como_sabemos_que_el_mundo_tiene_una_historia.md",
+    "bytes": 11358,
+    "sha256": "981eeac0a6dca1dcb877d621ed9ac245c13d8a27e8541211a5f365477da316f8"
+  },
+  {
+    "path": "02_segundo_basico/capitulos/02_fuentes_del_pasado_objetos_imagenes_y_relatos.md",
+    "bytes": 11387,
+    "sha256": "42f3027aeffd9afa41885a544101bb89761651be936725a0818e3484e8361087"
+  },
+  {
+    "path": "02_segundo_basico/capitulos/03_continentes_oceanos_y_grandes_regiones_culturales.md",
+    "bytes": 11420,
+    "sha256": "463f03246c1fadf3ccd1d51a6375532ee0b0f3bcbac62bf48802860a404542bd"
+  },
+  {
+    "path": "02_segundo_basico/capitulos/04_formas_de_vida_nomadas_y_sedentarias.md",
+    "bytes": 11290,
+    "sha256": "b9532f498e51ce6a9b064b7453290cd071ced2f2c568b94fb1e145dfbfd89f71"
+  },
+  {
+    "path": "02_segundo_basico/capitulos/05_comunidades_rurales_y_urbanas_en_distintas_epocas.md",
+    "bytes": 11410,
+    "sha256": "663ece05325ab0315eba5db9067883b8378d9bb189b2ab55dca09063115bc7ee"
+  },
+  {
+    "path": "02_segundo_basico/capitulos/06_medios_de_transporte_y_comunicacion_a_traves_del_tiempo.md",
+    "bytes": 11465,
+    "sha256": "4c96d4011afe0b9a25ae1824444f500b177a96eb41d5c369fbccef7d5f3ea663"
+  },
+  {
+    "path": "02_segundo_basico/capitulos/07_ninas_y_ninos_en_sociedades_del_pasado.md",
+    "bytes": 11311,
+    "sha256": "00c8635377fb3afb4edae5aae8f271e7a11c549371ce870fcdd42293168bb0dd"
+  },
+  {
+    "path": "02_segundo_basico/capitulos/08_tradiciones_y_patrimonio_de_distintas_culturas.md",
+    "bytes": 11373,
+    "sha256": "885628d0593c945e700382eb736611ffd94e32120ddadffb881d7697bda65aed"
+  },
+  {
+    "path": "02_segundo_basico/capitulos/09_aportes_de_personas_y_pueblos_al_bienestar_comun.md",
+    "bytes": 11404,
+    "sha256": "4433707490039729cfc966dcd79dccf3bc16e22fcb7e1c8f706324659ffae862"
+  },
+  {
+    "path": "02_segundo_basico/capitulos/10_comparar_pasado_y_presente_sin_juzgar_con_estereotipos.md",
+    "bytes": 11457,
+    "sha256": "8545e59c5d656b90214c3b10e1abf3e5168e16cbfe82e33bbff70780ce8cb3f4"
+  },
+  {
+    "path": "02_segundo_basico/evaluaciones/01_diagnostico.md",
+    "bytes": 1423,
+    "sha256": "ef054cad67f5d1a183fe7e9492a0e1dfed179fd73a5081dada1dad51f724f7b3"
+  },
+  {
+    "path": "02_segundo_basico/evaluaciones/02_respuestas_diagnostico.md",
+    "bytes": 4330,
+    "sha256": "e67a95ac38a1956b8f59a2adde59488043efd30b49e5e2983d5c8a83c211dbd5"
+  },
+  {
+    "path": "03_tercero_basico/00_indice.md",
+    "bytes": 4296,
+    "sha256": "157c798b8516889498e2052fcdf94216e135a5fd4d3877bcefca99f0860db55f"
+  },
+  {
+    "path": "03_tercero_basico/bancos/01_banco_preguntas.md",
+    "bytes": 6646,
+    "sha256": "02342dbaaa63182aa76e4557c786dfbc55144ff92613532045b3d88b3b4e7a4a"
+  },
+  {
+    "path": "03_tercero_basico/bancos/02_glosario.md",
+    "bytes": 9447,
+    "sha256": "5c02d05be0f498198b6cba22f38926a34e5e7be050722e222cc0374ae5c64be6"
+  },
+  {
+    "path": "03_tercero_basico/bancos/03_tarjetas_repaso.md",
+    "bytes": 7842,
+    "sha256": "3ed276c16366b3572e43cc2128f99ade6b45a4ed694b926c17c9244049c800e1"
+  },
+  {
+    "path": "03_tercero_basico/capitulos/01_la_peninsula_balcanica_el_mar_egeo_y_el_mundo_griego.md",
+    "bytes": 11350,
+    "sha256": "9af1edbdf20dbac189e97e56a94beef07136699082e148969b36a365d9b6398b"
+  },
+  {
+    "path": "03_tercero_basico/capitulos/02_la_polis_como_forma_de_organizacion.md",
+    "bytes": 11282,
+    "sha256": "a86ae2f92480b069e7468e35db94adab81da598e25ab68082ab071b620939382"
+  },
+  {
+    "path": "03_tercero_basico/capitulos/03_atenas_y_esparta_semejanzas_y_diferencias.md",
+    "bytes": 11264,
+    "sha256": "ace2a7656967b99d6896c9debd78c02c774384b6d48243296e8d2fcc29b6cd52"
+  },
+  {
+    "path": "03_tercero_basico/capitulos/04_la_democracia_ateniense_y_sus_exclusiones.md",
+    "bytes": 11290,
+    "sha256": "d9cfa99b7d538b2c78ed9530bd44b9b4793d717d67d310bc315f001da576873b"
+  },
+  {
+    "path": "03_tercero_basico/capitulos/05_la_vida_cotidiana_en_la_antigua_grecia.md",
+    "bytes": 11341,
+    "sha256": "0e589ba5485c194fd8bc4aa953cfd7f8fa7bcb909d0ae9ffddb12487cc825ce9"
+  },
+  {
+    "path": "03_tercero_basico/capitulos/06_familias_educacion_y_ninez_en_grecia.md",
+    "bytes": 11346,
+    "sha256": "ef6873e804b4b98a5968dc7cea6bfe62d6477d163c068d4333725ab4f36fc1d8"
+  },
+  {
+    "path": "03_tercero_basico/capitulos/07_trabajos_comercio_y_navegacion_griega.md",
+    "bytes": 11211,
+    "sha256": "e0ee76394416611a7902f33b9387773fd0770ec74074513545beee0d9288a0f8"
+  },
+  {
+    "path": "03_tercero_basico/capitulos/08_religion_mitologia_y_festividades_griegas.md",
+    "bytes": 11254,
+    "sha256": "0e809fbfb840d9f68f11142302f0a76b43f7ea7636754030598933cd9f49a123"
+  },
+  {
+    "path": "03_tercero_basico/capitulos/09_teatro_filosofia_ciencia_y_juegos_olimpicos.md",
+    "bytes": 11338,
+    "sha256": "5643a873b8ed8ea24cbe1d093b8682d393bd97bb30ec675dc77a50722dbd81ee"
+  },
+  {
+    "path": "03_tercero_basico/capitulos/10_arquitectura_y_arte_del_mundo_griego.md",
+    "bytes": 11184,
+    "sha256": "10a2ab810ef14e323972204efa6694a3455dd4689f93b3d0665414a851f54158"
+  },
+  {
+    "path": "03_tercero_basico/capitulos/11_la_peninsula_italica_y_el_mar_mediterraneo.md",
+    "bytes": 11365,
+    "sha256": "1ac29122cf8490a9cd5c91ad862f098fb16cb2a5efe9d2a2afab2bd6df973f47"
+  },
+  {
+    "path": "03_tercero_basico/capitulos/12_el_origen_y_crecimiento_de_roma.md",
+    "bytes": 11158,
+    "sha256": "98953c1f2ebdb6b855b65888b6546d1bc4737276d918be22ff74008bf19335da"
+  },
+  {
+    "path": "03_tercero_basico/capitulos/13_la_republica_romana_y_sus_instituciones.md",
+    "bytes": 11225,
+    "sha256": "a095c0159737d9e078d5e9eec5a85d51d5b78e836e681ba57b4f8fbd200d7a98"
+  },
+  {
+    "path": "03_tercero_basico/capitulos/14_patricios_plebeyos_mujeres_esclavos_y_extranjeros.md",
+    "bytes": 11365,
+    "sha256": "1733b493e28ef36a7593ca7b51072370114c53efd0815b1aab4b1b2ee1fd480f"
+  },
+  {
+    "path": "03_tercero_basico/capitulos/15_la_expansion_de_roma_y_el_imperio.md",
+    "bytes": 11174,
+    "sha256": "ff6c527abe833a51edda076929ae48b4c41d39cbce51c302091fab35d30d9fd2"
+  },
+  {
+    "path": "03_tercero_basico/capitulos/16_la_vida_cotidiana_en_una_ciudad_romana.md",
+    "bytes": 11208,
+    "sha256": "340d89ca7be2aeca5866014a52f34b15fc7988229ba236cd1ef7a9efd4f54b10"
+  },
+  {
+    "path": "03_tercero_basico/capitulos/17_familias_educacion_y_ninez_en_roma.md",
+    "bytes": 11200,
+    "sha256": "48c828f69db73e1d02e896aa0dfa6eb84ad96bb41d9380064169f167d65b3c47"
+  },
+  {
+    "path": "03_tercero_basico/capitulos/18_ejercito_caminos_comercio_y_ciudades_romanas.md",
+    "bytes": 11276,
+    "sha256": "7cb824456d08400fc4f035a47222fcdcdf7cfe37b26cd96ddcf90049b0a4466e"
+  },
+  {
+    "path": "03_tercero_basico/capitulos/19_religiones_romanas_y_expansion_del_cristianismo.md",
+    "bytes": 11280,
+    "sha256": "b095712542876170e75b22b6fc7942b2165bcdf531a3963ff0ec65e6b0a149fd"
+  },
+  {
+    "path": "03_tercero_basico/capitulos/20_derecho_lengua_ingenieria_y_legado_romano.md",
+    "bytes": 11255,
+    "sha256": "bcfffc05177621b18c6f50e607ee18716f8a721b8f463a1e80ca06a81762e3aa"
+  },
+  {
+    "path": "03_tercero_basico/capitulos/21_comparar_ciudades_griegas_y_romanas.md",
+    "bytes": 11195,
+    "sha256": "a33ece9f72f98bbf6bfe3eb2d4ece40290de55e861302290ad1953ea08839710"
+  },
+  {
+    "path": "03_tercero_basico/capitulos/22_comparar_democracia_antigua_y_democracia_actual.md",
+    "bytes": 11338,
+    "sha256": "9ce35402a8cb4cec44ba7b0995ef401e8f535c528e1f7339b9a62dd81e6f6055"
+  },
+  {
+    "path": "03_tercero_basico/capitulos/23_como_estudiar_grecia_y_roma_mediante_fuentes.md",
+    "bytes": 11285,
+    "sha256": "b7445ff39babbfd1f0481ca5dfd42fb8af7a76bfa6f6f12411589ff44e9dabaf"
+  },
+  {
+    "path": "03_tercero_basico/evaluaciones/01_diagnostico.md",
+    "bytes": 1549,
+    "sha256": "fe1c1b637f6e14c43a2836299fa867947eecc2c150ebf9e5f319abeaa0f0daf3"
+  },
+  {
+    "path": "03_tercero_basico/evaluaciones/02_respuestas_diagnostico.md",
+    "bytes": 5094,
+    "sha256": "6da51fbd037b0c480881b303906c802fc0c2726b9e2029a6267f9ad5ca1e4633"
+  },
+  {
+    "path": "04_cuarto_basico/00_indice.md",
+    "bytes": 4581,
+    "sha256": "26a16b5d70a1efdebe7bbd726bd651c123b13ec94f73c6f6c027a81a7f0fe9b9"
+  },
+  {
+    "path": "04_cuarto_basico/bancos/01_banco_preguntas.md",
+    "bytes": 7014,
+    "sha256": "ed847ee531700997196a076a5bb9174d1d705cb6f99895472855854df237211e"
+  },
+  {
+    "path": "04_cuarto_basico/bancos/02_glosario.md",
+    "bytes": 11361,
+    "sha256": "a0b8248c663bda3c59caa318bc8997abc364ce57387d8860d4f93e8ac673db93"
+  },
+  {
+    "path": "04_cuarto_basico/bancos/03_tarjetas_repaso.md",
+    "bytes": 8146,
+    "sha256": "0403b97e4d34f337523d57e58d379c9b0a7059c60a1361372138defce8362e95"
+  },
+  {
+    "path": "04_cuarto_basico/capitulos/01_america_antes_de_la_llegada_europea.md",
+    "bytes": 11296,
+    "sha256": "434de74305113fa0cce1cae35db305acf5eae20c5246f086bdc5472d1dfebcf6"
+  },
+  {
+    "path": "04_cuarto_basico/capitulos/02_ubicacion_y_diversidad_geografica_de_mesoamerica_y_los_andes.md",
+    "bytes": 11469,
+    "sha256": "394791097426bcd06d0c063be5a928e8c34339825f430288a65306f738e7e27d"
+  },
+  {
+    "path": "04_cuarto_basico/capitulos/03_la_civilizacion_maya_territorio_y_ciudades_estado.md",
+    "bytes": 11379,
+    "sha256": "42d2d70fc35c4981e6bd9df99d86150457cdc8d18d77d1b228f0cddc97a39c56"
+  },
+  {
+    "path": "04_cuarto_basico/capitulos/04_sociedad_gobierno_y_economia_maya.md",
+    "bytes": 11267,
+    "sha256": "d7c17bf080d52c6b16844ea720631af2c9b649866fb5bb295e616775d2f089f8"
+  },
+  {
+    "path": "04_cuarto_basico/capitulos/05_escritura_calendarios_matematicas_y_astronomia_maya.md",
+    "bytes": 11406,
+    "sha256": "131cd7d922bbad7eff3f91b0d0454457aae6a1194290127d591538bebec9d944"
+  },
+  {
+    "path": "04_cuarto_basico/capitulos/06_religion_arte_y_vida_cotidiana_maya.md",
+    "bytes": 11284,
+    "sha256": "cd459a08ca1e54e93e0f9ba3e512c98c9429dcb350898a368fc69e67f31a94d4"
+  },
+  {
+    "path": "04_cuarto_basico/capitulos/07_continuidad_de_los_pueblos_mayas_en_el_presente.md",
+    "bytes": 11408,
+    "sha256": "79292364968a7680ba3385f7762852d2d55155f832684dbeeb312b617e7e8e65"
+  },
+  {
+    "path": "04_cuarto_basico/capitulos/08_la_civilizacion_mexica_o_azteca_y_el_valle_de_mexico.md",
+    "bytes": 11311,
+    "sha256": "f43bec033ea02f80a15c4a768e9cc9088758977c6a3d1e32258698f05fe7caba"
+  },
+  {
+    "path": "04_cuarto_basico/capitulos/09_tenochtitlan_chinampas_y_organizacion_urbana.md",
+    "bytes": 11322,
+    "sha256": "a038118db80b0863378fcde634981a7c79857a1516fa5d908f35a1061b9495ae"
+  },
+  {
+    "path": "04_cuarto_basico/capitulos/10_sociedad_tributo_guerra_y_comercio_mexica.md",
+    "bytes": 11240,
+    "sha256": "664c2a9241a0b9d57d01a7786e5c1718646cb5c1405688b6df3d70870dd945a4"
+  },
+  {
+    "path": "04_cuarto_basico/capitulos/11_religion_educacion_y_vida_cotidiana_mexica.md",
+    "bytes": 11252,
+    "sha256": "121fb40167238530ad0d9fe22d8fdbbb3a395e54fb3a2105e22964dc63fcbd41"
+  },
+  {
+    "path": "04_cuarto_basico/capitulos/12_fuentes_para_estudiar_a_los_mexicas.md",
+    "bytes": 11173,
+    "sha256": "1184994c0956c74cddf39d08550c17069c26791ce8991cc2eb1417d2cbeafda5"
+  },
+  {
+    "path": "04_cuarto_basico/capitulos/13_el_mundo_andino_antes_del_tawantinsuyu.md",
+    "bytes": 11233,
+    "sha256": "990e159aa774e7ffdac21c4c78bb8c4e0b782cea4819e263a8e0c0a033ddf4a0"
+  },
+  {
+    "path": "04_cuarto_basico/capitulos/14_formacion_y_expansion_del_imperio_inca.md",
+    "bytes": 11244,
+    "sha256": "ac96fe08b581f3b589fadea91b70b15c1512dfbebc7c4dd0f03a2716202b5e3d"
+  },
+  {
+    "path": "04_cuarto_basico/capitulos/15_ayllu_reciprocidad_y_organizacion_social_inca.md",
+    "bytes": 11300,
+    "sha256": "27f797c6ea8d54c55d95ae06291e04fbda129c104b735956d29d8090c4990770"
+  },
+  {
+    "path": "04_cuarto_basico/capitulos/16_pisos_ecologicos_agricultura_y_almacenamiento_andino.md",
+    "bytes": 11349,
+    "sha256": "1d2609f771235489fbc596b0ae0b7417a7a4bf6d916bd278f6a5fc9f54d4b465"
+  },
+  {
+    "path": "04_cuarto_basico/capitulos/17_caminos_chasquis_quipus_y_administracion.md",
+    "bytes": 11331,
+    "sha256": "56bc77000dc923744d15dc6d9994cd1b17ff0065d48ab2873e0ab5b7782f931e"
+  },
+  {
+    "path": "04_cuarto_basico/capitulos/18_religion_arquitectura_y_vida_cotidiana_inca.md",
+    "bytes": 11286,
+    "sha256": "1f36ccfa165f94fc1a8c1c639b426524a9fa05a71bf5ce69fccbdf220d96c23f"
+  },
+  {
+    "path": "04_cuarto_basico/capitulos/19_continuidad_de_pueblos_andinos_en_el_presente.md",
+    "bytes": 11344,
+    "sha256": "011d12513939907288e1e8253cc80bd833740952e1d7bf72f2e4a748cb9e3e32"
+  },
+  {
+    "path": "04_cuarto_basico/capitulos/20_comparar_mayas_mexicas_e_incas.md",
+    "bytes": 11241,
+    "sha256": "7e5a056a0c71d121b02ed5e84aee5318cae5787855885bafde90b09f988e14ea"
+  },
+  {
+    "path": "04_cuarto_basico/capitulos/21_mujeres_ninas_y_ninos_en_civilizaciones_americanas.md",
+    "bytes": 11375,
+    "sha256": "224bc263b7fd441cdce4cb5441feb7f2aaa32027f9b8a319cd8f6526032367ea"
+  },
+  {
+    "path": "04_cuarto_basico/capitulos/22_patrimonio_arqueologico_y_cuidado_de_sitios.md",
+    "bytes": 11369,
+    "sha256": "99c5346c84a3f61e987d511c7a3eee53d05962a31ff3b304f0c36a22fe333bb7"
+  },
+  {
+    "path": "04_cuarto_basico/capitulos/23_interpretar_mapas_y_lineas_de_tiempo_americanas.md",
+    "bytes": 11408,
+    "sha256": "d483aa38eecfb45b0ef6b024c0c6c3cca6c7ba7fa6db62be909e10fa6dc3dc54"
+  },
+  {
+    "path": "04_cuarto_basico/capitulos/24_fuentes_indigenas_arqueologicas_y_coloniales.md",
+    "bytes": 11291,
+    "sha256": "fab0b0ce3110c82cf6f32b0b2ebd515290c7b599bd9d7d2be070b49ee273ab73"
+  },
+  {
+    "path": "04_cuarto_basico/evaluaciones/01_diagnostico.md",
+    "bytes": 1603,
+    "sha256": "1c7d6518eca73786e25f7311f594ab6adb151fb88417e5b9aae73d7a9b3eb242"
+  },
+  {
+    "path": "04_cuarto_basico/evaluaciones/02_respuestas_diagnostico.md",
+    "bytes": 5037,
+    "sha256": "a6719f5f5060001204570a24ba3a12afab3e57f9668bf6ec7e3dd7bbc7888069"
+  },
+  {
+    "path": "05_quinto_basico/00_indice.md",
+    "bytes": 3284,
+    "sha256": "b0a61c765fa57d604af27670b8c5f3d53488468461233d8c646baa3116601563"
+  },
+  {
+    "path": "05_quinto_basico/bancos/01_banco_preguntas.md",
+    "bytes": 4148,
+    "sha256": "4810ea08dbaacd58f4eb9dc90e5eb5bea8d51351d35e4291947611d1fc42a16e"
+  },
+  {
+    "path": "05_quinto_basico/bancos/02_glosario.md",
+    "bytes": 8402,
+    "sha256": "0630d5fb3e1da1060fbbd9cd4bd6cc8356989f81cb6dd3eb207bc28c8a4c508c"
+  },
+  {
+    "path": "05_quinto_basico/bancos/03_tarjetas_repaso.md",
+    "bytes": 4898,
+    "sha256": "552bd3a1cbc7aac1741c3f8d09ba9e7756622a4fb58f5f8a34005f5c28d043e7"
+  },
+  {
+    "path": "05_quinto_basico/capitulos/01_europa_africa_y_asia_a_fines_de_la_edad_media.md",
+    "bytes": 11311,
+    "sha256": "d294465e42dffff01b389bbe92402df7fc54dd27f6fb72b6c6ead3a3ac2d7ea9"
+  },
+  {
+    "path": "05_quinto_basico/capitulos/02_la_ruta_de_la_seda_y_los_intercambios_afroeurasiaticos.md",
+    "bytes": 11448,
+    "sha256": "31fa2f1010221b248b5b51685cb13d47ce962238548d32e737b97b21a6c742d5"
+  },
+  {
+    "path": "05_quinto_basico/capitulos/03_el_imperio_otomano_y_el_mediterraneo_oriental.md",
+    "bytes": 11374,
+    "sha256": "1b52dde1977a75cf5449affce6a6d1c6d418a253051a2446285f925be5d8e4a0"
+  },
+  {
+    "path": "05_quinto_basico/capitulos/04_renacimiento_urbano_comercio_y_navegacion.md",
+    "bytes": 11237,
+    "sha256": "9bc2884e45490bf6cb617c50d291acb164db8dc4c976b4346140d35102f3e8e3"
+  },
+  {
+    "path": "05_quinto_basico/capitulos/05_innovaciones_nauticas_y_cartograficas_de_los_siglos_xv_y_xvi.md",
+    "bytes": 11521,
+    "sha256": "fe17e6ba797282410600f172f2091a4ffc01942bc491586bab4c3be6401ee283"
+  },
+  {
+    "path": "05_quinto_basico/capitulos/06_expansion_portuguesa_por_africa_y_el_oceano_indico.md",
+    "bytes": 11444,
+    "sha256": "e3da766d3b21b039a5a3461a8fce3417885934851269cef8989a1cceb5bd489f"
+  },
+  {
+    "path": "05_quinto_basico/capitulos/07_expansion_castellana_hacia_el_atlantico.md",
+    "bytes": 11334,
+    "sha256": "2b0fbb237da859ef8edf6d8305ba1ec82b5a537e3ef2a0780c261424adf1d405"
+  },
+  {
+    "path": "05_quinto_basico/capitulos/08_encuentro_conquista_y_choque_de_sociedades.md",
+    "bytes": 11248,
+    "sha256": "87cd87d82d856e694b5054080a15f77d7286fb247c7c591162c9b37101441e9b"
+  },
+  {
+    "path": "05_quinto_basico/capitulos/09_intercambio_colombino_de_plantas_animales_y_enfermedades.md",
+    "bytes": 11481,
+    "sha256": "34146085aeede8e3f51dc2a8d3541ac7eabd116fafe918a1dee52ca7305a5b9e"
+  },
+  {
+    "path": "05_quinto_basico/capitulos/10_formacion_de_imperios_coloniales_atlanticos.md",
+    "bytes": 11266,
+    "sha256": "7e09c63fe1a6b91625c647f2c220bb2fac3e10634c1b0067b666ec71a0379fe3"
+  },
+  {
+    "path": "05_quinto_basico/capitulos/11_trata_transatlantica_y_esclavitud_africana.md",
+    "bytes": 11351,
+    "sha256": "fddb79007b4147e4f74703653c8871e8093d7cf29a2808bb658282bd09412ee8"
+  },
+  {
+    "path": "05_quinto_basico/capitulos/12_evangelizacion_resistencias_y_mestizajes.md",
+    "bytes": 11341,
+    "sha256": "b31db81b8d0e7c746f88523e9f4863d20b260dcc3e41a07939f33580608be268"
+  },
+  {
+    "path": "05_quinto_basico/capitulos/13_debates_sobre_conquista_humanidad_y_derechos.md",
+    "bytes": 11272,
+    "sha256": "4085bfc66854ce71a131c78413a734c0668f3c82a1e21f3e2e563888f924fb51"
+  },
+  {
+    "path": "05_quinto_basico/capitulos/14_primera_globalizacion_y_conexiones_entre_continentes.md",
+    "bytes": 11354,
+    "sha256": "3025b4fb8198f13fb0ce2a02bb3b23fbb0cc960bf7249830e069ef576f28a23f"
+  },
+  {
+    "path": "05_quinto_basico/evaluaciones/01_diagnostico.md",
+    "bytes": 1634,
+    "sha256": "40503385ea1489837e1ef847486d3b22b3e374c9f7fe981ba3f1052a891419bf"
+  },
+  {
+    "path": "05_quinto_basico/evaluaciones/02_respuestas_diagnostico.md",
+    "bytes": 5127,
+    "sha256": "0962987273387f8558201af8c5bf5a238cc92be00c16490f878433cd78d93501"
+  },
+  {
+    "path": "06_sexto_basico/00_indice.md",
+    "bytes": 3235,
+    "sha256": "dd46486f850edc0bdb0d937665b72e1f732f6ee9ee40687f6b0a9e7edefba8f8"
+  },
+  {
+    "path": "06_sexto_basico/bancos/01_banco_preguntas.md",
+    "bytes": 4124,
+    "sha256": "065cb6df4e3062a190782bdecb3b30ddd386cd8594a99f5b6ae45c23b083486d"
+  },
+  {
+    "path": "06_sexto_basico/bancos/02_glosario.md",
+    "bytes": 7081,
+    "sha256": "724e984c2506d256f389bb2d32723c27f2b4413f987ffd318e50e67b580d68ce"
+  },
+  {
+    "path": "06_sexto_basico/bancos/03_tarjetas_repaso.md",
+    "bytes": 4755,
+    "sha256": "80cd38756b47d1ce3d21e5ed170d5c6622f344cbcea6113ab4dbae919b71192f"
+  },
+  {
+    "path": "06_sexto_basico/capitulos/01_absolutismo_y_sociedades_del_antiguo_regimen.md",
+    "bytes": 11291,
+    "sha256": "e2febdb1be853cf44a9734b20a5fa8e0af3ce4f03c4026cfb3d68dfe5e14b529"
+  },
+  {
+    "path": "06_sexto_basico/capitulos/02_la_ilustracion_y_la_critica_al_poder_absoluto.md",
+    "bytes": 11256,
+    "sha256": "31abe4539c27fb996b8b1708709c1bac74ae425420fb7e640a1986053b6609fd"
+  },
+  {
+    "path": "06_sexto_basico/capitulos/03_independencia_de_las_trece_colonias.md",
+    "bytes": 11199,
+    "sha256": "54562b28b4950157806401ca25d525b125aa24ddc0ea9db9bc8b9b815b3f266f"
+  },
+  {
+    "path": "06_sexto_basico/capitulos/04_la_revolucion_francesa_y_la_declaracion_de_los_derechos.md",
+    "bytes": 11322,
+    "sha256": "9970b417e255a21021fe55a414ef76a2908d22fc960e82e78ee59d5b2d14f274"
+  },
+  {
+    "path": "06_sexto_basico/capitulos/05_la_revolucion_haitiana_y_la_abolicion_de_la_esclavitud.md",
+    "bytes": 11350,
+    "sha256": "66531f4117456c6ba40afd19195954de85af320fb6aa200470ebdf594b002580"
+  },
+  {
+    "path": "06_sexto_basico/capitulos/06_independencias_hispanoamericanas_en_contexto_atlantico.md",
+    "bytes": 11460,
+    "sha256": "e442ec9641913f6705a6059f90949d6b22d314288c11b93e2eaf326fcd4541ad"
+  },
+  {
+    "path": "06_sexto_basico/capitulos/07_liberalismo_republicanismo_y_constitucionalismo.md",
+    "bytes": 11395,
+    "sha256": "ac9b6639948fb9b05085d7e9f8abd8d850962cf3f45629141d0155ed4066f8b0"
+  },
+  {
+    "path": "06_sexto_basico/capitulos/08_nacionalismo_y_construccion_de_estados.md",
+    "bytes": 11271,
+    "sha256": "7090e8afd46d423d8a5f8fc33cc46545baf1db6b12f5604c5d16d6722023ff12"
+  },
+  {
+    "path": "06_sexto_basico/capitulos/09_primera_revolucion_industrial.md",
+    "bytes": 11151,
+    "sha256": "b35d862db7666a72c34d6f79c501e3d60e4fb86d4225bab48f5fd71317c860ae"
+  },
+  {
+    "path": "06_sexto_basico/capitulos/10_la_fabrica_la_ciudad_industrial_y_nuevas_clases_sociales.md",
+    "bytes": 11346,
+    "sha256": "4d7f8d3f8bfdfa304264d14c92c67f3870419c6fc466b7e667b2f059f28032d2"
+  },
+  {
+    "path": "06_sexto_basico/capitulos/11_trabajo_infantil_y_condiciones_obreras.md",
+    "bytes": 11310,
+    "sha256": "a4e169e1ece29eb1736a22a9b62d1190c5b2d70a7a1f663b1cc610f7b7284703"
+  },
+  {
+    "path": "06_sexto_basico/capitulos/12_abolicionismo_y_fin_gradual_de_la_esclavitud.md",
+    "bytes": 11352,
+    "sha256": "39d9649aaf2cf9342b30fd29f1c05d0af92bc992542163738a893ad74078b626"
+  },
+  {
+    "path": "06_sexto_basico/capitulos/13_primeros_movimientos_por_los_derechos_de_las_mujeres.md",
+    "bytes": 11351,
+    "sha256": "64c6dfeacd9b0981528483e052e1f6572fd12ee51888518a47aa52aba3e6de4c"
+  },
+  {
+    "path": "06_sexto_basico/capitulos/14_comparar_revoluciones_atlanticas_y_sus_limites.md",
+    "bytes": 11399,
+    "sha256": "dee40d343e2790c902a9f1778f8a5416b5da613783bf9062ddf3c0fd59429874"
+  },
+  {
+    "path": "06_sexto_basico/evaluaciones/01_diagnostico.md",
+    "bytes": 1608,
+    "sha256": "b69a4c19ea82fe1c71e1f639a544d591384b1c8c5c908b415aa76319f74aab42"
+  },
+  {
+    "path": "06_sexto_basico/evaluaciones/02_respuestas_diagnostico.md",
+    "bytes": 4996,
+    "sha256": "ac1d5b6a720d129afe26b691c6deea40de7d49cc8ad14bfb03ce75f9cc38f4a6"
+  },
+  {
+    "path": "07_septimo_basico/00_indice.md",
+    "bytes": 5277,
+    "sha256": "a7aad2d1bdac0a7a8d382b90ad0c9da9cbaeddef7fe605e1ad40de83a959e448"
+  },
+  {
+    "path": "07_septimo_basico/bancos/01_banco_preguntas.md",
+    "bytes": 8683,
+    "sha256": "eda525c22eeb2786cd8ee5d05733f1af9662a893a38917f8bcf617e04ca85986"
+  },
+  {
+    "path": "07_septimo_basico/bancos/02_glosario.md",
+    "bytes": 14659,
+    "sha256": "36d51d73d65e6f2b5a33fd1b4b4f18533a88daaf58851246948d202d078cb429"
+  },
+  {
+    "path": "07_septimo_basico/bancos/03_tarjetas_repaso.md",
+    "bytes": 10046,
+    "sha256": "21daa5200260427c5fec01bca60642e6fbe348a2ca6657144cb22561b0d1d91b"
+  },
+  {
+    "path": "07_septimo_basico/capitulos/01_la_evolucion_humana_y_el_proceso_de_hominizacion.md",
+    "bytes": 11233,
+    "sha256": "8a11946f476d90e6225a2808a412de56ef3da6177d20e93755580608a0ff6a77"
+  },
+  {
+    "path": "07_septimo_basico/capitulos/02_migraciones_humanas_y_poblamiento_de_continentes.md",
+    "bytes": 11315,
+    "sha256": "c2315b8dff4a407d8cf2802fe4bb6106179077e543271f3d58205be20874c6fa"
+  },
+  {
+    "path": "07_septimo_basico/capitulos/03_paleolitico_caza_recoleccion_y_vida_comunitaria.md",
+    "bytes": 11248,
+    "sha256": "db701b6f3e35b6fb27bd1716944c62ea3517f46483b2cc50c91bdabbc6443f8b"
+  },
+  {
+    "path": "07_septimo_basico/capitulos/04_arte_rupestre_tecnologia_y_pensamiento_simbolico.md",
+    "bytes": 11448,
+    "sha256": "d9610275f507d992373acaa83ab86dd673217f8a568916414c28bb982092f29c"
+  },
+  {
+    "path": "07_septimo_basico/capitulos/05_poblamiento_temprano_de_america.md",
+    "bytes": 11246,
+    "sha256": "1cb66886b72e2b75d9ed6af9e3c1ed4a5dffbc6a06fe2ea3d8e8a202848a9023"
+  },
+  {
+    "path": "07_septimo_basico/capitulos/06_revolucion_neolitica_y_domesticacion_de_plantas.md",
+    "bytes": 11367,
+    "sha256": "7692685a468d20eae41151195ccd5d483151605cd2255f3cb5df94eeb1b3429e"
+  },
+  {
+    "path": "07_septimo_basico/capitulos/07_domesticacion_de_animales_y_cambios_sociales.md",
+    "bytes": 11336,
+    "sha256": "47281d4387ba5564cbb1f19557d5eb6771ec6ae965055e0cc312662ef8966b73"
+  },
+  {
+    "path": "07_septimo_basico/capitulos/08_aldeas_excedentes_especializacion_y_desigualdad.md",
+    "bytes": 11358,
+    "sha256": "b3da53c74c1d02c57a5e062182952601735f0ba72f16437c2bb00bf959edfe8e"
+  },
+  {
+    "path": "07_septimo_basico/capitulos/09_metales_comercio_y_primeras_ciudades.md",
+    "bytes": 11217,
+    "sha256": "dd6353ec179b95f1f399bf11f2291b1d7809f7ab6abda9706d23b1a46d0bf189"
+  },
+  {
+    "path": "07_septimo_basico/capitulos/10_mesopotamia_ciudades_escritura_y_estado.md",
+    "bytes": 11107,
+    "sha256": "20ae3dc9f3fbda196e6d9dce5d0dfc9176663efad30778c41709f52a56929383"
+  },
+  {
+    "path": "07_septimo_basico/capitulos/11_egipto_nilo_faraones_y_sociedad.md",
+    "bytes": 11067,
+    "sha256": "cec0ce570ef40a2ac4a8394bfd56d94082950ff2c4847c7246e7de11045f6773"
+  },
+  {
+    "path": "07_septimo_basico/capitulos/12_civilizacion_del_valle_del_indo.md",
+    "bytes": 11109,
+    "sha256": "7aa48f7ceffbe1859a6d9a555f63dc039b279adc6cfd330147c256ca5d75188c"
+  },
+  {
+    "path": "07_septimo_basico/capitulos/13_china_antigua_dinastias_agricultura_y_escritura.md",
+    "bytes": 11319,
+    "sha256": "77dcbc25829cadc1631b462b9984735b544de8dcac9cea83484b059e3068a157"
+  },
+  {
+    "path": "07_septimo_basico/capitulos/14_fenicios_navegacion_y_alfabeto.md",
+    "bytes": 11113,
+    "sha256": "d756a0b925ed5305f3f6d644ce91e33aea0cf48d804675d27d50ea9e41cf20d0"
+  },
+  {
+    "path": "07_septimo_basico/capitulos/15_hebreos_y_tradiciones_monoteistas.md",
+    "bytes": 11133,
+    "sha256": "112357108cb707f29a28b03dfefdddcd4da3d2212dc9c83b71e8fa834e78e095"
+  },
+  {
+    "path": "07_septimo_basico/capitulos/16_olmecas_y_chavin_como_sociedades_complejas_americanas.md",
+    "bytes": 11314,
+    "sha256": "7e7cd1097c23a3893d848b3e2c93d8ff4be78f33612ed6aa82b407723f409515"
+  },
+  {
+    "path": "07_septimo_basico/capitulos/17_el_mediterraneo_como_espacio_de_intercambio.md",
+    "bytes": 11374,
+    "sha256": "057ea39b1ed086551cf83f33f4f36868f72f959db11cda9ad7af0c4714ab94ba"
+  },
+  {
+    "path": "07_septimo_basico/capitulos/18_grecia_clasica_polis_ciudadania_y_cultura.md",
+    "bytes": 11412,
+    "sha256": "45b610173caa54a1755f71cb1c4833f5cdf1472666f384440aa85fc3759a4962"
+  },
+  {
+    "path": "07_septimo_basico/capitulos/19_roma_republica_imperio_y_romanizacion.md",
+    "bytes": 11249,
+    "sha256": "b68b15dc7b7506cc8951093be023e4b0d0ea619d66bf0489258c127fb498104c"
+  },
+  {
+    "path": "07_septimo_basico/capitulos/20_esclavitud_en_el_mundo_antiguo.md",
+    "bytes": 11277,
+    "sha256": "9fbffe6926e8c1c2c95e389018d051b443ba30a6f196d48e562df9ffe4062d7a"
+  },
+  {
+    "path": "07_septimo_basico/capitulos/21_origen_y_expansion_del_cristianismo.md",
+    "bytes": 11307,
+    "sha256": "6cff15bcb117c9e12dacf435fde6e8d3f14f90c0976d782219bea7d9da805db2"
+  },
+  {
+    "path": "07_septimo_basico/capitulos/22_crisis_y_transformacion_del_imperio_romano.md",
+    "bytes": 11265,
+    "sha256": "3d91158edf4f624c897027ce103618f6abeff25e9d2cf1088bb7476018a17238"
+  },
+  {
+    "path": "07_septimo_basico/capitulos/23_imperio_bizantino_y_herencia_romana_oriental.md",
+    "bytes": 11277,
+    "sha256": "445727abb52d7ef7931ec5971be743b28e990f35f2a1384a05d247c738b23223"
+  },
+  {
+    "path": "07_septimo_basico/capitulos/24_nacimiento_y_expansion_del_islam.md",
+    "bytes": 11142,
+    "sha256": "99cc23e357b872e60f612ff56728858db4f10c3c577812621ddce26c408f98ea"
+  },
+  {
+    "path": "07_septimo_basico/capitulos/25_califatos_ciencia_y_circulacion_de_conocimientos.md",
+    "bytes": 11263,
+    "sha256": "e7bcf8bf492427b5aba9a05696cc914b9f622b12266dda7899feb9ef0a308905"
+  },
+  {
+    "path": "07_septimo_basico/capitulos/26_reinos_germanicos_y_formacion_de_europa_medieval.md",
+    "bytes": 11246,
+    "sha256": "beee8bebc656c4eed36f161ed0bfb46cd89517d9af66da944b1d214f7f3a434f"
+  },
+  {
+    "path": "07_septimo_basico/capitulos/27_feudalismo_senorios_y_sociedad_estamental.md",
+    "bytes": 11202,
+    "sha256": "17064155d666619d4ec9d93d0cb97b746bb57caa9e7e1fbff8d3e874f9f5c13e"
+  },
+  {
+    "path": "07_septimo_basico/capitulos/28_la_iglesia_y_la_cultura_medieval.md",
+    "bytes": 11115,
+    "sha256": "e724de5ce357dfd6973aa1a59826904b0235749d1bab983373c135600f93ff04"
+  },
+  {
+    "path": "07_septimo_basico/capitulos/29_renacimiento_urbano_gremios_y_universidades.md",
+    "bytes": 11270,
+    "sha256": "074c5f314db6763f405676d88c0a297c140449bbfc823899acc5340c019a7392"
+  },
+  {
+    "path": "07_septimo_basico/capitulos/30_cruzadas_al_andalus_y_contactos_interculturales.md",
+    "bytes": 11262,
+    "sha256": "4a1fd40d5d785c82ef60c6d0b6370a9b96a32067c12d00902071e012872be65c"
+  },
+  {
+    "path": "07_septimo_basico/evaluaciones/01_diagnostico.md",
+    "bytes": 1576,
+    "sha256": "7dd00d271ce8ffd1da61bcaf941c6d5cb4153ff32fdd2c812928e8a31325ba69"
+  },
+  {
+    "path": "07_septimo_basico/evaluaciones/02_respuestas_diagnostico.md",
+    "bytes": 4993,
+    "sha256": "a54aa150b2d2db4b7f33d57516e4d4b86995aaf78de9579e09d2d1698dc1353d"
+  },
+  {
+    "path": "08_octavo_basico/00_indice.md",
+    "bytes": 4934,
+    "sha256": "f65067320f3e7331e0aa168d57f33972ec2ec586ca22ed0a6c59157e045eb3a0"
+  },
+  {
+    "path": "08_octavo_basico/bancos/01_banco_preguntas.md",
+    "bytes": 8500,
+    "sha256": "5d23cdd114d64a7d3f7a86bea45551a4ef8e0eaa44ef98b142b1871de0ecc6ef"
+  },
+  {
+    "path": "08_octavo_basico/bancos/02_glosario.md",
+    "bytes": 12682,
+    "sha256": "b11e9ed339ee08ae723ce552867cb68bda6f75889460ed599461bfb85e3a6e2f"
+  },
+  {
+    "path": "08_octavo_basico/bancos/03_tarjetas_repaso.md",
+    "bytes": 9741,
+    "sha256": "e57a44d92b99655a86704a979e5ea7967ce2fcbd51ae2292d969df7b29a7d5a7"
+  },
+  {
+    "path": "08_octavo_basico/capitulos/01_humanismo_y_nuevas_formas_de_comprender_al_ser_humano.md",
+    "bytes": 11365,
+    "sha256": "d8af8abbe7ea2e0d2d5fce77a11c5459e9a4d089ee56310226230a446b983802"
+  },
+  {
+    "path": "08_octavo_basico/capitulos/02_renacimiento_artistico_y_cultural.md",
+    "bytes": 11221,
+    "sha256": "c2614933b3dc6ad761c08a332b73456f0b69a1a7b8e76c95a385b715a3e36007"
+  },
+  {
+    "path": "08_octavo_basico/capitulos/03_imprenta_y_circulacion_de_ideas.md",
+    "bytes": 11296,
+    "sha256": "46f2d40ad7a4826c3e36c876fb5f84b5a1dedc09c506e45c9971f0b799db6dbd"
+  },
+  {
+    "path": "08_octavo_basico/capitulos/04_reforma_protestante.md",
+    "bytes": 11041,
+    "sha256": "bc55b128ee259add1cffaca399feb5100249921da4dde22d2fbccf54d31fd2d5"
+  },
+  {
+    "path": "08_octavo_basico/capitulos/05_reforma_catolica_y_conflictos_religiosos.md",
+    "bytes": 11197,
+    "sha256": "b5b3ea63d65b444526d2fc585b7c2aeda8d037004bd488eb7b36ab2f33fae1b0"
+  },
+  {
+    "path": "08_octavo_basico/capitulos/06_revolucion_cientifica.md",
+    "bytes": 11107,
+    "sha256": "66731493551250d207d9b94224c66b777b920e24dcedf1ec897300c64d95872a"
+  },
+  {
+    "path": "08_octavo_basico/capitulos/07_nacimiento_del_estado_moderno.md",
+    "bytes": 11168,
+    "sha256": "fda003563bde56687e55767743987cbeea36388df3a452852bd85ca1619aadc3"
+  },
+  {
+    "path": "08_octavo_basico/capitulos/08_monarquias_absolutas_y_sociedad_estamental.md",
+    "bytes": 11401,
+    "sha256": "69ac6224f4c166f529146740f0e9045d927d19f97207feb8662b6a26cd266a6e"
+  },
+  {
+    "path": "08_octavo_basico/capitulos/09_mercantilismo_y_expansion_comercial.md",
+    "bytes": 11231,
+    "sha256": "6c43c084b2f510686e0e98117faf167992f14942f626b4a8dd7d0adac956fe40"
+  },
+  {
+    "path": "08_octavo_basico/capitulos/10_imperios_otomano_safavida_y_mogol.md",
+    "bytes": 11327,
+    "sha256": "7268923a56bef82433fc155ff3b0fe40af27a2bcfc50ebe9a6e752bc1cd558a6"
+  },
+  {
+    "path": "08_octavo_basico/capitulos/11_china_ming_y_qing.md",
+    "bytes": 11032,
+    "sha256": "b420ae581ee74dec3232d942daf7a8c36979bf0310800e0495b4a1300fba7f1d"
+  },
+  {
+    "path": "08_octavo_basico/capitulos/12_japon_tokugawa.md",
+    "bytes": 11011,
+    "sha256": "f7f6ee123965073f5ec8127507298a72a71b719addca56a7ba739552a97da1f3"
+  },
+  {
+    "path": "08_octavo_basico/capitulos/13_expansion_europea_y_conquista_de_america.md",
+    "bytes": 11283,
+    "sha256": "cc5981ef4d5d8d54ac70f7ac66f61ecc52dd7168375683db5346e5907f4ecdad"
+  },
+  {
+    "path": "08_octavo_basico/capitulos/14_epidemias_y_colapso_demografico_americano.md",
+    "bytes": 11392,
+    "sha256": "04de21223eccc2612b5a94620e42286bc1056ff22973f3a16f5bbc4b6c678cbd"
+  },
+  {
+    "path": "08_octavo_basico/capitulos/15_debates_sobre_la_humanidad_de_los_pueblos_conquistados.md",
+    "bytes": 11393,
+    "sha256": "c2035c1f80deac53440e7b404266445f630fbf4dde6b59e1ff44a83e4ed9fd6f"
+  },
+  {
+    "path": "08_octavo_basico/capitulos/16_ciudad_colonial_y_organizacion_del_territorio.md",
+    "bytes": 11320,
+    "sha256": "a505399f8e4f5404fb3370634c654c03255c8abd3a296b29f3435bfae119f4c8"
+  },
+  {
+    "path": "08_octavo_basico/capitulos/17_barroco_evangelizacion_y_cultura_colonial.md",
+    "bytes": 11295,
+    "sha256": "7b49d7701184bbb426643645c1475ea93e8086c1f8d62242bf4b2bbd454e4ead"
+  },
+  {
+    "path": "08_octavo_basico/capitulos/18_trata_atlantica_y_sociedades_esclavistas.md",
+    "bytes": 11279,
+    "sha256": "908df61efaaa627a0fe5f275d0349704846011a9a57ead7ec78bb9093c47a425"
+  },
+  {
+    "path": "08_octavo_basico/capitulos/19_castas_mestizaje_y_jerarquias_coloniales.md",
+    "bytes": 11286,
+    "sha256": "ceb19cd63e4c5a1ccccf472ee54efb06220254856ba7e20fcdabda775a0dd1eb"
+  },
+  {
+    "path": "08_octavo_basico/capitulos/20_resistencias_indigenas_y_afrodescendientes.md",
+    "bytes": 11398,
+    "sha256": "662e0c5e0dc9cdeda16b99d211d5ce26e36ec826cebb9b8f699238d671fb818d"
+  },
+  {
+    "path": "08_octavo_basico/capitulos/21_ilustracion_y_esfera_publica.md",
+    "bytes": 11185,
+    "sha256": "92a51d64c0dbab8541c8997c501572d365a5d1b059888cf4d59d18c2083ddf6b"
+  },
+  {
+    "path": "08_octavo_basico/capitulos/22_revolucion_de_las_trece_colonias.md",
+    "bytes": 11227,
+    "sha256": "342c445b9a84dc581ba28e09e4f9def42749d1f021550580bf6d85885ae2431b"
+  },
+  {
+    "path": "08_octavo_basico/capitulos/23_revolucion_francesa.md",
+    "bytes": 11122,
+    "sha256": "63032ce584fa1e03d28a61de53d6b3dbbb453ef8b2d4c875dc5e9970f365f7bd"
+  },
+  {
+    "path": "08_octavo_basico/capitulos/24_revolucion_haitiana.md",
+    "bytes": 11096,
+    "sha256": "d3a38a683a8334f23c3d592d3e43a594b169303cc7a191376a4d587248a67b64"
+  },
+  {
+    "path": "08_octavo_basico/capitulos/25_independencias_latinoamericanas.md",
+    "bytes": 11291,
+    "sha256": "25aa96a9f373f25b530798330050470b0740d78563e0bbda3d0eff33df2dad89"
+  },
+  {
+    "path": "08_octavo_basico/capitulos/26_derechos_naturales_ciudadania_y_soberania_popular.md",
+    "bytes": 11411,
+    "sha256": "b249c6c1828b90fed163f6deae5f12a9c4bb42353f1809b6711b229d2320d387"
+  },
+  {
+    "path": "08_octavo_basico/capitulos/27_mujeres_y_limites_de_la_ciudadania_revolucionaria.md",
+    "bytes": 11397,
+    "sha256": "ee9ea3fe8d46617ab8bcbf3bd81c3137a6e83ab022b58398d765c66d660c24b9"
+  },
+  {
+    "path": "08_octavo_basico/capitulos/28_origenes_del_capitalismo_moderno.md",
+    "bytes": 11306,
+    "sha256": "03904e1f7fd54048298f1114affc5f3726b9273c91f876a7886d8e85ac1e85e1"
+  },
+  {
+    "path": "08_octavo_basico/capitulos/29_comparar_sociedad_medieval_y_sociedad_moderna.md",
+    "bytes": 11242,
+    "sha256": "7768a0d0c14b3b94261059db2a8f8439528ff3f4b6049356d8e499c15aa702aa"
+  },
+  {
+    "path": "08_octavo_basico/capitulos/30_conexiones_globales_entre_los_siglos_xv_y_xviii.md",
+    "bytes": 11441,
+    "sha256": "358860d0545485e0d03161315cc749cd456b559bc1d7815496cbe10cd0df70da"
+  },
+  {
+    "path": "08_octavo_basico/evaluaciones/01_diagnostico.md",
+    "bytes": 1433,
+    "sha256": "5528284a6a8eb2b1af6e90552866382479f682f003651c4a1dca823e5fba1897"
+  },
+  {
+    "path": "08_octavo_basico/evaluaciones/02_respuestas_diagnostico.md",
+    "bytes": 4897,
+    "sha256": "8bca2df1bfa3d9947da9094c090eec5b45ebfef8cc4adf3aaa93607a313a2cd5"
+  },
+  {
+    "path": "09_primero_medio/00_indice.md",
+    "bytes": 5260,
+    "sha256": "0b7b8f3759ad408d8dc3f3932465b232fc9568e7b5c87d893876669b7c12eb8d"
+  },
+  {
+    "path": "09_primero_medio/bancos/01_banco_preguntas.md",
+    "bytes": 8884,
+    "sha256": "5697f6461e39352c8b16dfaa512d012c12a3cfbeb264318b7b2a4ffe7434e8db"
+  },
+  {
+    "path": "09_primero_medio/bancos/02_glosario.md",
+    "bytes": 13742,
+    "sha256": "afd22d8ae36f154e3807c928a7ec373287de692664452733e861dcc158f5bbf8"
+  },
+  {
+    "path": "09_primero_medio/bancos/03_tarjetas_repaso.md",
+    "bytes": 10016,
+    "sha256": "67c41fccf5264edbb61f9fc8726b5b8f5b1c2cd549a123df8e7ebb95690258e0"
+  },
+  {
+    "path": "09_primero_medio/capitulos/01_ilustracion_liberalismo_y_republicanismo_en_el_siglo_xix.md",
+    "bytes": 11375,
+    "sha256": "783c21028070b89eded21ad55576a1e5c6db2647fd759c2861042d99c4cf30e1"
+  },
+  {
+    "path": "09_primero_medio/capitulos/02_abolicion_del_antiguo_regimen_y_expansion_de_la_ciudadania.md",
+    "bytes": 11387,
+    "sha256": "5280b781ce3c35a78ce2213bee6d2eb16651e5fc273ae19257a5578ab893ffe0"
+  },
+  {
+    "path": "09_primero_medio/capitulos/03_cultura_burguesa_vida_privada_y_espacio_publico.md",
+    "bytes": 11413,
+    "sha256": "81d1d45d3597ba14fd7fe8f63e16c971c185bc0a4dfce6393d3a1adc5771f82b"
+  },
+  {
+    "path": "09_primero_medio/capitulos/04_formacion_de_estados_nacionales.md",
+    "bytes": 11292,
+    "sha256": "f78c7f75896d891713bf83220b4e42f887ac06f583b685533d5e9e0ce70956e1"
+  },
+  {
+    "path": "09_primero_medio/capitulos/05_unificacion_de_italia.md",
+    "bytes": 11159,
+    "sha256": "804d0405d5faa4332be40adfc5fcd3f5941a4f488c269c6e3f0f23cf359b5f3f"
+  },
+  {
+    "path": "09_primero_medio/capitulos/06_unificacion_de_alemania.md",
+    "bytes": 11177,
+    "sha256": "a974317490886beeb3684c53542beb30ecce6b223047034111c5175d630dc021"
+  },
+  {
+    "path": "09_primero_medio/capitulos/07_nacionalismo_romanticismo_e_identidades_colectivas.md",
+    "bytes": 11411,
+    "sha256": "05e011b910630e86690525b3f0ddc074565423303ac09d19563b444a0a247ff5"
+  },
+  {
+    "path": "09_primero_medio/capitulos/08_idea_de_progreso_y_positivismo.md",
+    "bytes": 11234,
+    "sha256": "c684e764aba769f0c20725f5373e8d747de759003a55813c575672ad4963209c"
+  },
+  {
+    "path": "09_primero_medio/capitulos/09_primera_y_segunda_revolucion_industrial.md",
+    "bytes": 11264,
+    "sha256": "944e2dc2003c62f02a159eddb60112f94cf9d6af6ca8b57a0876c0b6879aa82d"
+  },
+  {
+    "path": "09_primero_medio/capitulos/10_fabrica_mecanizacion_y_nuevas_fuentes_de_energia.md",
+    "bytes": 11382,
+    "sha256": "a9acf11d7a58a0e2ea87fd458005e55825a31073ce5c6e49640bfbf468c3cd4a"
+  },
+  {
+    "path": "09_primero_medio/capitulos/11_urbanizacion_y_transformacion_de_las_ciudades.md",
+    "bytes": 11419,
+    "sha256": "6fc7a0772396ef31772660f0e3f8041ef689199dde14f1f8dfb3f1a5dd9430cb"
+  },
+  {
+    "path": "09_primero_medio/capitulos/12_burguesia_proletariado_y_clases_medias.md",
+    "bytes": 11262,
+    "sha256": "3c7925171953f53294ca7d23463794fd5592c776a66b86bd51bd479100d36948"
+  },
+  {
+    "path": "09_primero_medio/capitulos/13_capitalismo_industrial_y_mercado_mundial.md",
+    "bytes": 11266,
+    "sha256": "f57f85d8329de4d441a105ddd29761b8aa1922b019e05f611f2d9b0eb9075c34"
+  },
+  {
+    "path": "09_primero_medio/capitulos/14_socialismo_marxismo_y_anarquismo.md",
+    "bytes": 11262,
+    "sha256": "9f51ce789434a25bea270e52c713622cd1dfd47ced5c593f88c43cf36cd9c891"
+  },
+  {
+    "path": "09_primero_medio/capitulos/15_sindicatos_huelgas_y_legislacion_social.md",
+    "bytes": 11375,
+    "sha256": "e3f3509027ea5bf8b82302903dec13ec4d85c1ce601a59df8296d07c774bd440"
+  },
+  {
+    "path": "09_primero_medio/capitulos/16_trabajo_infantil_y_vida_obrera.md",
+    "bytes": 11280,
+    "sha256": "544a237c5e4e4e12a20d4d963a9f0955f7820f952bc6030437d4b39699cc7a5f"
+  },
+  {
+    "path": "09_primero_medio/capitulos/17_movimientos_de_mujeres_y_sufragismo.md",
+    "bytes": 11241,
+    "sha256": "e22bf97c9b292b6861de8926c6727c1b25535155949ed2a5e91e45cac2663918"
+  },
+  {
+    "path": "09_primero_medio/capitulos/18_migraciones_masivas_del_siglo_xix.md",
+    "bytes": 11305,
+    "sha256": "92a94823482fcd3195b1a1f0b984233ac7c08d72c7dbea4a7c5b74bf68fff9fc"
+  },
+  {
+    "path": "09_primero_medio/capitulos/19_imperialismo_europeo_en_africa_y_asia.md",
+    "bytes": 11257,
+    "sha256": "4ac3027b7c84f090cc0d210a5db968067a8c865aec1b1a83036effcb3876e734"
+  },
+  {
+    "path": "09_primero_medio/capitulos/20_reparto_de_africa_y_conferencia_de_berlin.md",
+    "bytes": 11327,
+    "sha256": "c5dc6fcc7e1b4c6f9ee48962bb739319e70a377fd7fa81e9ee5e3a80fdb4da34"
+  },
+  {
+    "path": "09_primero_medio/capitulos/21_imperialismo_britanico_en_india.md",
+    "bytes": 11214,
+    "sha256": "8ab31c57ba95be8bec0d4fdd529596f2f65a31824d720c93ac5107fef53f74b1"
+  },
+  {
+    "path": "09_primero_medio/capitulos/22_china_frente_al_imperialismo_y_guerras_del_opio.md",
+    "bytes": 11327,
+    "sha256": "f35f2a540f3f60af00b753d0c93d75cf3898dfb04ea88180a1ecc87a236a8cb0"
+  },
+  {
+    "path": "09_primero_medio/capitulos/23_japon_meiji_y_modernizacion.md",
+    "bytes": 11264,
+    "sha256": "37bb9bca5ffb0bd4be556f5d8d662fb032393d3c55d1da0cb7a185a54808a5b2"
+  },
+  {
+    "path": "09_primero_medio/capitulos/24_resistencias_anticoloniales.md",
+    "bytes": 11145,
+    "sha256": "c44152643fbbf2f4a291bf94d85bb630aeb76fdec9c590e853f3fc8318d63609"
+  },
+  {
+    "path": "09_primero_medio/capitulos/25_racismo_cientifico_y_darwinismo_social.md",
+    "bytes": 11359,
+    "sha256": "10284a1bd7ef67e8cd67f93ef9f2b50f339c35e2406e65031510ef8b4a04a57e"
+  },
+  {
+    "path": "09_primero_medio/capitulos/26_belle_epoque_y_cultura_de_masas_inicial.md",
+    "bytes": 11368,
+    "sha256": "035622f8a95458964b987389aa40c5ea5da7e01c45ad720f6eb9cfad73dfcc40"
+  },
+  {
+    "path": "09_primero_medio/capitulos/27_causas_de_la_primera_guerra_mundial.md",
+    "bytes": 11255,
+    "sha256": "20a18575ddc8a168139f0bba6a6e754c0babed29ca136eef7537ecef696e3203"
+  },
+  {
+    "path": "09_primero_medio/capitulos/28_la_guerra_de_trincheras_y_la_experiencia_de_los_combatientes.md",
+    "bytes": 11590,
+    "sha256": "93a385385345d28736436e240572f663a6069440442bcfb4009be26094fdcf8e"
+  },
+  {
+    "path": "09_primero_medio/capitulos/29_guerra_total_poblacion_civil_y_genocidio_armenio.md",
+    "bytes": 11594,
+    "sha256": "99ab0652e86ad0b3dfe4c5858ccbc32a7ca37284fea868235b559b40e6877d23"
+  },
+  {
+    "path": "09_primero_medio/capitulos/30_revolucion_rusa_de_1917.md",
+    "bytes": 11188,
+    "sha256": "162b1a2cbc3e124d57edebef1b62460af773ce88cb30c82b3c7efbbb8bf0035c"
+  },
+  {
+    "path": "09_primero_medio/capitulos/31_tratado_de_versalles_y_consecuencias_de_la_guerra.md",
+    "bytes": 11388,
+    "sha256": "2558a2e4b999d586efcf416911ab1354fc0d00536acc7bd4528a63d4a9e645dc"
+  },
+  {
+    "path": "09_primero_medio/evaluaciones/01_diagnostico.md",
+    "bytes": 1561,
+    "sha256": "1690eb2447e9c97e75df9ec67ff38df452955e05d8eb8b0c628289235d7df8c7"
+  },
+  {
+    "path": "09_primero_medio/evaluaciones/02_respuestas_diagnostico.md",
+    "bytes": 4900,
+    "sha256": "1f69ec93ce4732fcb74ce75e3fb95e1b2db576f0f399c570316ec28f6cec0f57"
+  },
+  {
+    "path": "10_segundo_medio/00_indice.md",
+    "bytes": 6549,
+    "sha256": "a4d6dac80a266804f0e665c9cbd75c2d9566fe3be63e600ee4c4e1e5e9d47bf5"
+  },
+  {
+    "path": "10_segundo_medio/bancos/01_banco_preguntas.md",
+    "bytes": 11743,
+    "sha256": "0b6c179ee004762821330f4cbd66f62abd03b12403411b0c3308c8180f00e01a"
+  },
+  {
+    "path": "10_segundo_medio/bancos/02_glosario.md",
+    "bytes": 18175,
+    "sha256": "804b8008e0da89ca15ed76e28f1eea8986a5b6f48b2cf6626c2a551b2d02d7d2"
+  },
+  {
+    "path": "10_segundo_medio/bancos/03_tarjetas_repaso.md",
+    "bytes": 13512,
+    "sha256": "7e448fc452a5706ff7f9568e18612e2bf72eba9d3ba7437fffbeaea62e6a5a17"
+  },
+  {
+    "path": "10_segundo_medio/capitulos/01_sociedad_de_masas_y_nuevas_formas_de_comunicacion.md",
+    "bytes": 11455,
+    "sha256": "d41f7171bf770dc4eb17811205ae536e73c7e8cd4bca9fdd26bfbae62817c072"
+  },
+  {
+    "path": "10_segundo_medio/capitulos/02_los_anos_veinte_y_transformaciones_culturales.md",
+    "bytes": 11418,
+    "sha256": "a74556aa862e04b2c5f53c26e1ea3281a5686ce93338014a16c80347bc13e162"
+  },
+  {
+    "path": "10_segundo_medio/capitulos/03_la_union_sovietica_y_el_estalinismo.md",
+    "bytes": 11152,
+    "sha256": "af2a0e1d11ce4cd4bc11d3179de86b0c1f82bbcbf605c0c80076693fa19c5a3b"
+  },
+  {
+    "path": "10_segundo_medio/capitulos/04_fascismo_italiano.md",
+    "bytes": 11003,
+    "sha256": "4d4be2b507762646ac4fc3ea0275307d261a42e73db220df5120331a180b2118"
+  },
+  {
+    "path": "10_segundo_medio/capitulos/05_nazismo_aleman.md",
+    "bytes": 10987,
+    "sha256": "f07aa042d8e8e5774de841664c1f565940f72761064c3ddfe026462d683bd077"
+  },
+  {
+    "path": "10_segundo_medio/capitulos/06_la_gran_depresion_de_1929.md",
+    "bytes": 11115,
+    "sha256": "92f0216872fa27c20833aa08702062cc199292e22193a768b80e8e52842606aa"
+  },
+  {
+    "path": "10_segundo_medio/capitulos/07_new_deal_y_respuestas_a_la_crisis.md",
+    "bytes": 11302,
+    "sha256": "b829992b7e62dfdb50f20efa8bd1fe89a566e5cdf48932183112c4d52e812a71"
+  },
+  {
+    "path": "10_segundo_medio/capitulos/08_debilitamiento_de_las_democracias_liberales.md",
+    "bytes": 11337,
+    "sha256": "73a21b2d06598bd2e111524140a0e41a31fa33b76b994f44f3c7ebe02158239d"
+  },
+  {
+    "path": "10_segundo_medio/capitulos/09_causas_de_la_segunda_guerra_mundial.md",
+    "bytes": 11201,
+    "sha256": "209cd3d51cc28d3781698036394455baa149ce0b4c87f73c285cdc1cec4bcbbc"
+  },
+  {
+    "path": "10_segundo_medio/capitulos/10_expansion_del_eje_y_frentes_de_guerra.md",
+    "bytes": 11343,
+    "sha256": "c4eaa6032510e689119c2986801e603e0133d48dd903153e80941f1f6d5146f2"
+  },
+  {
+    "path": "10_segundo_medio/capitulos/11_la_guerra_en_asia_y_el_pacifico.md",
+    "bytes": 11284,
+    "sha256": "0b0e96edbb80fb53eea1beef7c49bae0491492bfa5941fa87077f62b13fd77d6"
+  },
+  {
+    "path": "10_segundo_medio/capitulos/12_ocupacion_resistencia_y_violencia_contra_civiles.md",
+    "bytes": 11591,
+    "sha256": "36b5bb87ef0e5c2730ab87e82b9d19b06f274d6bb9f8a3274ca04b013df25fb1"
+  },
+  {
+    "path": "10_segundo_medio/capitulos/13_holocausto_y_genocidio_de_los_judios_europeos.md",
+    "bytes": 11405,
+    "sha256": "1d112a80c3aacf60af02362f65d82f8a916c616ce84be850281b86068c03531e"
+  },
+  {
+    "path": "10_segundo_medio/capitulos/14_persecucion_de_gitanos_personas_con_discapacidad_y_otros_grupos.md",
+    "bytes": 11729,
+    "sha256": "32017d5115612cbc1b7c53409de77e9cae6ceae8aa5b051b4944ef0db034e8ea"
+  },
+  {
+    "path": "10_segundo_medio/capitulos/15_bombardeos_estrategicos_y_ciudades_en_guerra.md",
+    "bytes": 11542,
+    "sha256": "07d46a5e794177bf501ffa76e82ec62cf9b8e6a14b2a8ced28bb099d853678e5"
+  },
+  {
+    "path": "10_segundo_medio/capitulos/16_bombas_atomicas_sobre_hiroshima_y_nagasaki.md",
+    "bytes": 11514,
+    "sha256": "952ada118e4aa7619a18122ebac7736d581efe6fa424544ce40782663d32331d"
+  },
+  {
+    "path": "10_segundo_medio/capitulos/17_consecuencias_humanas_politicas_y_economicas_de_la_guerra.md",
+    "bytes": 11541,
+    "sha256": "dfeda6df949f546fbc4766f3be7c318a3086097b91089ce409038a5585a97532"
+  },
+  {
+    "path": "10_segundo_medio/capitulos/18_creacion_de_la_onu.md",
+    "bytes": 11057,
+    "sha256": "23e5f197711c4586f3cf88de7f776211c38ae271419db90f8ea844a3647ab94d"
+  },
+  {
+    "path": "10_segundo_medio/capitulos/19_declaracion_universal_de_derechos_humanos.md",
+    "bytes": 11347,
+    "sha256": "05def978410a031a7ba5bfce717de0028e9dd2939b98824fd4219b1102c09602"
+  },
+  {
+    "path": "10_segundo_medio/capitulos/20_descolonizacion_de_india_y_particion.md",
+    "bytes": 11118,
+    "sha256": "e22bfafa8131a81bd5082580421ae6b3c457e8b4cd7ace5ff6d7d5bd66dd5ac3"
+  },
+  {
+    "path": "10_segundo_medio/capitulos/21_independencias_y_descolonizacion_en_africa.md",
+    "bytes": 11160,
+    "sha256": "bd1ebcc43e5682de165dde853aed7671130985fbc892ac434caf9b6e89f738c7"
+  },
+  {
+    "path": "10_segundo_medio/capitulos/22_origenes_de_la_guerra_fria.md",
+    "bytes": 11125,
+    "sha256": "889c452a2e49cdb55ebca0533d69eb1e69de2e65a0bbdfe4fb831b07cfaae272"
+  },
+  {
+    "path": "10_segundo_medio/capitulos/23_bipolaridad_propaganda_y_carrera_nuclear.md",
+    "bytes": 11377,
+    "sha256": "ecfbae046346e9d6663e78ee81768ce71bbe8c357048e4f82d533c64fab34ec0"
+  },
+  {
+    "path": "10_segundo_medio/capitulos/24_guerra_de_corea.md",
+    "bytes": 11158,
+    "sha256": "5ed9a187ef4301c36a487999ec5a079329773ae345098ec50b86e5337547f07b"
+  },
+  {
+    "path": "10_segundo_medio/capitulos/25_guerra_de_vietnam.md",
+    "bytes": 11172,
+    "sha256": "3db39a5b0dc3c9694c2f9fb30db9c1f29370906f3aa0c7d55e1c67eecdca3e49"
+  },
+  {
+    "path": "10_segundo_medio/capitulos/26_revolucion_cubana_y_crisis_de_los_misiles.md",
+    "bytes": 11345,
+    "sha256": "2fba29cd4f6c61793687196ed9c567a1b009bd1ddb49151c7c7f89be29ed97ad"
+  },
+  {
+    "path": "10_segundo_medio/capitulos/27_movimiento_de_paises_no_alineados.md",
+    "bytes": 11313,
+    "sha256": "fa8233633183f40a9f8ff070da10dd49c9a50ac91509394b4efd8daf2b54b4f1"
+  },
+  {
+    "path": "10_segundo_medio/capitulos/28_estado_de_bienestar_y_sociedad_de_consumo.md",
+    "bytes": 11373,
+    "sha256": "47b56b0db6c06001faed2357e262d57e9c6d39e8f2d481042944d0c598b2870e"
+  },
+  {
+    "path": "10_segundo_medio/capitulos/29_movimiento_por_los_derechos_civiles_en_estados_unidos.md",
+    "bytes": 11481,
+    "sha256": "cdaf78079617fb22af69cddad0968049e3c2cad850585b96e615d9cff35ffd47"
+  },
+  {
+    "path": "10_segundo_medio/capitulos/30_segunda_ola_feminista.md",
+    "bytes": 11188,
+    "sha256": "6354aa1ac012fdd58687eb1fbddc6d9902e0f43772db29913559b37d1d562b4c"
+  },
+  {
+    "path": "10_segundo_medio/capitulos/31_movimientos_juveniles_y_protestas_de_1968.md",
+    "bytes": 11256,
+    "sha256": "940778697d8172104c1965cf71d145f6d203b96a5ac27084c8e310e7d4368cc2"
+  },
+  {
+    "path": "10_segundo_medio/capitulos/32_carrera_espacial_y_revolucion_cientifico_tecnologica.md",
+    "bytes": 11502,
+    "sha256": "d8d6816adb27f601c9f72b5effa2358ca0105e54acfb2d901b9a850b5bc313ad"
+  },
+  {
+    "path": "10_segundo_medio/capitulos/33_dictaduras_de_seguridad_nacional_en_america_latina.md",
+    "bytes": 11466,
+    "sha256": "6ae3dc2ca56c5629efc3e94bc8be691e16a5057196abf9dc7e77f5d6f32e8da9"
+  },
+  {
+    "path": "10_segundo_medio/capitulos/34_coordinacion_represiva_y_operacion_condor.md",
+    "bytes": 11532,
+    "sha256": "bbf88006f3a3ca9fca552da0d72eb6de2ebad8b43321a52f5837c713eded3d19"
+  },
+  {
+    "path": "10_segundo_medio/capitulos/35_crisis_del_socialismo_real_y_fin_de_la_guerra_fria.md",
+    "bytes": 11291,
+    "sha256": "5b84ee8c5ca1abd8b0cc8b5db180f386153c095b6edc53cf6d7ab2b23ee51f2f"
+  },
+  {
+    "path": "10_segundo_medio/capitulos/36_globalizacion_y_transformaciones_neoliberales.md",
+    "bytes": 11341,
+    "sha256": "587d522e102be1f2eb70fd2cbe856dc6186e1321dc603ef1c67359fd89869159"
+  },
+  {
+    "path": "10_segundo_medio/capitulos/37_integracion_europea_y_union_europea.md",
+    "bytes": 11309,
+    "sha256": "f95d50c515d94bad5c9af6f336e997f01e49ff1a52f2b1731df0ace108c77db6"
+  },
+  {
+    "path": "10_segundo_medio/capitulos/38_conflicto_arabe_israeli_y_cuestion_palestina.md",
+    "bytes": 11400,
+    "sha256": "70c003a7561cef74d9a5249923f913c37b618a503f7b0095a184f70c472a4ede"
+  },
+  {
+    "path": "10_segundo_medio/capitulos/39_genocidios_y_limpieza_etnica_despues_de_1945.md",
+    "bytes": 11522,
+    "sha256": "bd73779d0dd0726f2cbf1124e7e45e45cdaf0f1172f160b7a2acc25f08b9e78a"
+  },
+  {
+    "path": "10_segundo_medio/capitulos/40_revolucion_digital_y_sociedad_de_la_informacion.md",
+    "bytes": 11411,
+    "sha256": "ea496afc84c830642c62d58cf6cb19b3436857c2ffac638c819f0e3708674fe2"
+  },
+  {
+    "path": "10_segundo_medio/capitulos/41_cambio_climatico_como_proceso_historico_global.md",
+    "bytes": 11372,
+    "sha256": "345d32f54918fc351e60de0d985e0d75b7ad4d4c7a80d2f2a0af20713786fb62"
+  },
+  {
+    "path": "10_segundo_medio/evaluaciones/01_diagnostico.md",
+    "bytes": 1476,
+    "sha256": "e7453f30507a419d10c019bafe0bfd0cbde3468cca1a12234aeae6f4533f813d"
+  },
+  {
+    "path": "10_segundo_medio/evaluaciones/02_respuestas_diagnostico.md",
+    "bytes": 4924,
+    "sha256": "e97117691e4261c3b109c5160fcfac195afd451643b452b00a28a0f6cf77ca9b"
+  },
+  {
+    "path": "11_tercero_medio/00_indice.md",
+    "bytes": 3506,
+    "sha256": "f8d3b9a1674fe991d332774bc40a76b4f766976ed2b36a792116696ca6e26cfe"
+  },
+  {
+    "path": "11_tercero_medio/bancos/01_banco_preguntas.md",
+    "bytes": 4689,
+    "sha256": "740c351d70a7073deef2465a3345b94326de0c1556b93c818ca1b110f349c72a"
+  },
+  {
+    "path": "11_tercero_medio/bancos/02_glosario.md",
+    "bytes": 7714,
+    "sha256": "02f0f3f2f129363ff1a1e5144790385b61d6cf782e6b0a70a88bbb622e75bee8"
+  },
+  {
+    "path": "11_tercero_medio/bancos/03_tarjetas_repaso.md",
+    "bytes": 5341,
+    "sha256": "c0212539565d23f1b2bc91933ea3a2f1b4ee4b26ccfb168606d95bf61137bce2"
+  },
+  {
+    "path": "11_tercero_medio/capitulos/01_historia_del_tiempo_presente_y_problemas_globales.md",
+    "bytes": 11540,
+    "sha256": "b0567f7dae6c4e523f1b53e4af008833267144d0a880c49361804b317b051a1a"
+  },
+  {
+    "path": "11_tercero_medio/capitulos/02_democracia_y_ciudadania_en_perspectiva_comparada.md",
+    "bytes": 11472,
+    "sha256": "dca32d7dbfc707578737a681508bd79b80bca827b375a08763d34b5498bb66c2"
+  },
+  {
+    "path": "11_tercero_medio/capitulos/03_historia_de_los_derechos_humanos_y_sistemas_internacionales.md",
+    "bytes": 11555,
+    "sha256": "caf46fe66a834620b051f645d4444cc4aa7376388357dfdccb46f00d53097c2f"
+  },
+  {
+    "path": "11_tercero_medio/capitulos/04_organizaciones_internacionales_y_gobernanza_global.md",
+    "bytes": 11550,
+    "sha256": "00fb6bf911fc340073f67dd7f7320994fde3101eed81a360a39da6443531903d"
+  },
+  {
+    "path": "11_tercero_medio/capitulos/05_movimientos_sociales_transnacionales.md",
+    "bytes": 11423,
+    "sha256": "72a001042bc9f574bb94e7e29f89a247ee73b773197a34ad711d646a4b7b3f66"
+  },
+  {
+    "path": "11_tercero_medio/capitulos/06_cadenas_globales_de_produccion_y_consumo.md",
+    "bytes": 11396,
+    "sha256": "17a31afedeab16bff81dfcf907e56d25026b39fd666fa79fe95c9e718cafcaaf"
+  },
+  {
+    "path": "11_tercero_medio/capitulos/07_transformaciones_historicas_del_trabajo.md",
+    "bytes": 11453,
+    "sha256": "353d15f1dcb4e76395302629f94893fdf06073a0d807bbc1469e5fbd8a66f998"
+  },
+  {
+    "path": "11_tercero_medio/capitulos/08_migraciones_refugio_y_diasporas_contemporaneas.md",
+    "bytes": 11453,
+    "sha256": "983cfe6eb1a6091c7014f072c96fe9964d53fbbbce5ce5260b6b82ef0233fd77"
+  },
+  {
+    "path": "11_tercero_medio/capitulos/09_medios_propaganda_y_desinformacion.md",
+    "bytes": 11417,
+    "sha256": "fd45f8cc4aa1a476bab1c0013c10568504f1a11115c7d8cc683164ce307db09c"
+  },
+  {
+    "path": "11_tercero_medio/capitulos/10_datos_vigilancia_y_poder_en_la_era_digital.md",
+    "bytes": 11394,
+    "sha256": "62cec22b6235224004e7c34ff6894f93a2304ac108475cc9c072b1a456f480c9"
+  },
+  {
+    "path": "11_tercero_medio/capitulos/11_historia_global_de_la_salud_y_las_pandemias.md",
+    "bytes": 11401,
+    "sha256": "d940989b57b1e0feebf78284fd2642f6aabf5a9b451b51fb9552587a9545a828"
+  },
+  {
+    "path": "11_tercero_medio/capitulos/12_genero_diversidades_y_ampliacion_de_derechos.md",
+    "bytes": 11452,
+    "sha256": "f5b391484a425cd1def06e8c6da09ae341879b9ef0e765f1737ea9df3470d4a8"
+  },
+  {
+    "path": "11_tercero_medio/capitulos/13_justicia_transicional_y_memoria_despues_de_la_violencia.md",
+    "bytes": 11731,
+    "sha256": "cce727cd4812644f6789e4ed9951670f9b1615f314b345866d098d2222a035ee"
+  },
+  {
+    "path": "11_tercero_medio/capitulos/14_antropoceno_y_crisis_socioambiental.md",
+    "bytes": 11402,
+    "sha256": "bdaf7ee6b8f0d1b5433f77ee30ebda0b60219b47e1c56bfa00ebb316d26974d3"
+  },
+  {
+    "path": "11_tercero_medio/capitulos/15_perspectivas_poscoloniales_y_decoloniales.md",
+    "bytes": 11350,
+    "sha256": "4f61c19b49507ab92ee3839d9918948801e9db45d1276465f90664a9c4db14dc"
+  },
+  {
+    "path": "11_tercero_medio/capitulos/16_metodo_de_investigacion_en_historia_reciente_global.md",
+    "bytes": 11560,
+    "sha256": "a17836f8a9eedd4dd563c5f91d34dd43e3d815d1ff94c6ec1c866375256ca2f0"
+  },
+  {
+    "path": "11_tercero_medio/evaluaciones/01_diagnostico.md",
+    "bytes": 1596,
+    "sha256": "627f637d6bc4a3a14e73f529f1da6a1e11426fe3b4111f9bbf8eea5950c864b9"
+  },
+  {
+    "path": "11_tercero_medio/evaluaciones/02_respuestas_diagnostico.md",
+    "bytes": 4877,
+    "sha256": "52faccc53ff4a818720da75de004021ac5352864e48769574ecdc02000722f06"
+  },
+  {
+    "path": "12_cuarto_medio/00_indice.md",
+    "bytes": 3985,
+    "sha256": "0537f4cb66e667d0612d24f7c745da50a6d375c4496afed0ed647ef0fcb2047a"
+  },
+  {
+    "path": "12_cuarto_medio/bancos/01_banco_preguntas.md",
+    "bytes": 5376,
+    "sha256": "430a25625fd71d5e6e55c051b3b19a5c3a97aa514afcb8661d472fba8e9efab9"
+  },
+  {
+    "path": "12_cuarto_medio/bancos/02_glosario.md",
+    "bytes": 10796,
+    "sha256": "2db7531927a3340e83a479a50aaa6dce42f815310beab53fa5eb1289d37380db"
+  },
+  {
+    "path": "12_cuarto_medio/bancos/03_tarjetas_repaso.md",
+    "bytes": 6301,
+    "sha256": "39723caaefe3111295fa08bd7c6504e912250b779931b7d4845923f64ed87faf"
+  },
+  {
+    "path": "12_cuarto_medio/capitulos/01_instituciones_democraticas_en_perspectiva_historica_comparada.md",
+    "bytes": 11665,
+    "sha256": "b859d908500f235e5f68379070056917b7819fe4f1419c6de749afef0fc5b849"
+  },
+  {
+    "path": "12_cuarto_medio/capitulos/02_representacion_participacion_y_crisis_de_confianza.md",
+    "bytes": 11496,
+    "sha256": "07352ab4437ec84a3f27e44153055c979a14497c720ce90a9ef358aab176ce3e"
+  },
+  {
+    "path": "12_cuarto_medio/capitulos/03_modelos_de_desarrollo_y_economia_mundial.md",
+    "bytes": 11464,
+    "sha256": "faf18e0333475fe47e8f5ef2d802285613836805c338c8b1984bbe44f3857f2a"
+  },
+  {
+    "path": "12_cuarto_medio/capitulos/04_historia_de_los_derechos_laborales_y_proteccion_social.md",
+    "bytes": 11589,
+    "sha256": "fd753888e4cb56ab4b93ddaddbda736781ac12c99fc81756898ceada40d1ede4"
+  },
+  {
+    "path": "12_cuarto_medio/capitulos/05_libertad_igualdad_y_solidaridad_en_el_debate_contemporaneo.md",
+    "bytes": 11633,
+    "sha256": "70a83a6d8f580e356bec893a1cb8c077eeee0c6d652673d73d42d9118ec8b2f2"
+  },
+  {
+    "path": "12_cuarto_medio/capitulos/06_desigualdad_global_y_concentracion_de_riqueza.md",
+    "bytes": 11509,
+    "sha256": "4675443fca600d094cb33734f6056f379d377ee83374e66c5072bb2dd7657936"
+  },
+  {
+    "path": "12_cuarto_medio/capitulos/07_esfera_publica_digital_algoritmos_y_desinformacion.md",
+    "bytes": 11466,
+    "sha256": "5391680f5dc426d9397974a0a38c0adcdd7a81ca43a7d9977e0391a9145b296e"
+  },
+  {
+    "path": "12_cuarto_medio/capitulos/08_inteligencia_artificial_privacidad_y_ciudadania.md",
+    "bytes": 11473,
+    "sha256": "1d35e622048c53cd802a5b1e11a12c10ced0291fd2ae5513338f515f77deb431"
+  },
+  {
+    "path": "12_cuarto_medio/capitulos/09_orden_mundial_multipolar_y_nuevas_potencias.md",
+    "bytes": 11490,
+    "sha256": "b0597509fcb99cd29e7d33e43e546fadc26079e6e7e6051c5a78e9994a362e42"
+  },
+  {
+    "path": "12_cuarto_medio/capitulos/10_gobernanza_global_y_derecho_internacional.md",
+    "bytes": 11469,
+    "sha256": "8dd30ec70846e1456f60d886a85cc54c5355e2cd8bf6038f6aa17f64e513fd6f"
+  },
+  {
+    "path": "12_cuarto_medio/capitulos/11_conflictos_armados_construccion_de_paz_y_proteccion_civil.md",
+    "bytes": 11769,
+    "sha256": "b594f6ccfd44309f3dc5ba2e3617dc890a2d1cc7069ccd78c079409a37c7b0ac"
+  },
+  {
+    "path": "12_cuarto_medio/capitulos/12_terrorismo_seguridad_y_derechos_fundamentales.md",
+    "bytes": 11644,
+    "sha256": "eebe8465769cdcecb43091623b4e2c18c718860cc94f05f57ae7633c5a4f0c3c"
+  },
+  {
+    "path": "12_cuarto_medio/capitulos/13_migraciones_refugio_y_ciudadania_transnacional.md",
+    "bytes": 11466,
+    "sha256": "70b78074f0807cb285771bd9bee098d379d227f60c87e8e80c18485a90afb70d"
+  },
+  {
+    "path": "12_cuarto_medio/capitulos/14_derechos_de_pueblos_indigenas_en_perspectiva_global.md",
+    "bytes": 11565,
+    "sha256": "bfb1e2ab12a6c44af216d74d4f5007582e3858bf8a23f8652ef6eb902cfa7208"
+  },
+  {
+    "path": "12_cuarto_medio/capitulos/15_feminismos_globales_y_transformaciones_sociales.md",
+    "bytes": 11461,
+    "sha256": "2e81c4648730492e3226c220eabdb4eb65c61c366ba9477bcc4579abbbc20126"
+  },
+  {
+    "path": "12_cuarto_medio/capitulos/16_justicia_climatica_y_responsabilidades_historicas.md",
+    "bytes": 11513,
+    "sha256": "ade31ad2678aec4d100091db438cd2bcc09d2f835c481db95b88befcc4cdebf5"
+  },
+  {
+    "path": "12_cuarto_medio/capitulos/17_ciudades_segregacion_y_derecho_al_espacio_publico.md",
+    "bytes": 11568,
+    "sha256": "8ec31faa9670187808ab595415c4bd0a1c467b860541b43c96a1f467c1c5cae6"
+  },
+  {
+    "path": "12_cuarto_medio/capitulos/18_futuros_historicos_continuidad_cambio_y_escenarios_posibles.md",
+    "bytes": 11646,
+    "sha256": "5587032663651a5bb449a5bdc5f5bd5f13783aed0ad631d8f41afd09a0378e07"
+  },
+  {
+    "path": "12_cuarto_medio/evaluaciones/01_diagnostico.md",
+    "bytes": 1664,
+    "sha256": "0b2709a75a7b1ec0c13d59b92463561bb31775840e5795565f6112a22e31402b"
+  },
+  {
+    "path": "12_cuarto_medio/evaluaciones/02_respuestas_diagnostico.md",
+    "bytes": 5079,
+    "sha256": "49f3bca7c6005d361f90c715669446da66ad1040dac9d66da5c3fb7449774b60"
+  },
+  {
+    "path": "13_tematicos_transversales/00_indice.md",
+    "bytes": 1904,
+    "sha256": "28004f40e18080eab5898a358b39f118c741597a9a35e3e26c0bac4909578926"
+  },
+  {
+    "path": "13_tematicos_transversales/01_como_se_construye_el_conocimiento_historico.md",
+    "bytes": 11411,
+    "sha256": "ee83754752bafa753be5036d22944b5b83ddab5670bedfdc292ee2af231ad22d"
+  },
+  {
+    "path": "13_tematicos_transversales/02_tiempo_historico_cronologia_y_periodizacion.md",
+    "bytes": 11431,
+    "sha256": "3a34294c6c1489cf74b786581cdf43823eb7e323a250d4a401ce297be6b6a2c4"
+  },
+  {
+    "path": "13_tematicos_transversales/03_arqueologia_y_cultura_material.md",
+    "bytes": 11290,
+    "sha256": "8108b5060a51eef5a372077e2c1424d98e344ede6c2eba9fd1621d23b07a8b07"
+  },
+  {
+    "path": "13_tematicos_transversales/04_cartografia_historica_y_lectura_de_mapas.md",
+    "bytes": 11387,
+    "sha256": "15c89d92923c25ca3461e1c5941b25b52ee8386e85cf9b34fb5622cee23515b3"
+  },
+  {
+    "path": "13_tematicos_transversales/05_comparacion_entre_sociedades.md",
+    "bytes": 11274,
+    "sha256": "639f8ae684062ba024956f3225088084bbb7224dbe820ca93af37834aa89b979"
+  },
+  {
+    "path": "13_tematicos_transversales/06_historia_global_conectada_y_transnacional.md",
+    "bytes": 11392,
+    "sha256": "d773a63d31a2c5133df5a001528f0ccb495e36490719df411f35312ea6a86a72"
+  },
+  {
+    "path": "13_tematicos_transversales/07_imperios_colonialismos_y_resistencias.md",
+    "bytes": 11199,
+    "sha256": "51a1d7ab59bc955d4395d287e072f2e2e95c80707764618b5e56ef42fd814d23"
+  },
+  {
+    "path": "13_tematicos_transversales/08_esclavitud_y_otras_formas_de_trabajo_coercitivo.md",
+    "bytes": 11427,
+    "sha256": "5d6453aed7db2f8159a6317cd975e3e7e0c98f44423736b91e8fec24c69f505e"
+  },
+  {
+    "path": "13_tematicos_transversales/09_religiones_y_sociedades_en_perspectiva_historica.md",
+    "bytes": 11452,
+    "sha256": "a3e9abf6a2346a59ccd4ac5b5f6b87ddeab9a1b4e40fc4efc042c6858b3ba0ae"
+  },
+  {
+    "path": "13_tematicos_transversales/10_historia_de_las_mujeres_y_relaciones_de_genero.md",
+    "bytes": 11365,
+    "sha256": "10729017abcfa0e46d5c823dc267ff711b67b14e3475df33f46b58fa9fa71d0c"
+  },
+  {
+    "path": "13_tematicos_transversales/11_historia_de_la_infancia_y_la_juventud.md",
+    "bytes": 11337,
+    "sha256": "ca80ebcb20ed22f17a11e6da6e211a53e46663e1fd73771f33e915f380ea041c"
+  },
+  {
+    "path": "13_tematicos_transversales/12_migraciones_diasporas_y_circulacion_cultural.md",
+    "bytes": 11355,
+    "sha256": "bd3327992cf485e2c96e5dc5c61ce72d8ce63d29928d8364e519f0dd4f49c55c"
+  },
+  {
+    "path": "13_tematicos_transversales/13_historia_de_la_ciencia_y_la_tecnologia.md",
+    "bytes": 11317,
+    "sha256": "9fcf18ad700d742574ff136adcf9e9223c8661e1d6bb20622a4a15224c33e3a2"
+  },
+  {
+    "path": "13_tematicos_transversales/14_historia_ambiental_y_cambio_climatico.md",
+    "bytes": 11340,
+    "sha256": "b9c2b38b31aba9810fa2a4cf7683a1ec8af1d39ea3f7bc1fe37b551111c632c1"
+  },
+  {
+    "path": "13_tematicos_transversales/15_epidemias_salud_publica_y_sociedad.md",
+    "bytes": 11274,
+    "sha256": "c2be315f2d85484ed9474479abc7070a43d5d6516aaed816e08a25a4eee1e228"
+  },
+  {
+    "path": "13_tematicos_transversales/16_guerra_paz_y_poblacion_civil.md",
+    "bytes": 11414,
+    "sha256": "fde230733e40d57c2c530fdf5a1dfe61df9d38b798b666a38ca0a21e656ad489"
+  },
+  {
+    "path": "13_tematicos_transversales/17_genocidio_crimenes_de_masa_y_prevencion.md",
+    "bytes": 11517,
+    "sha256": "73fb1c00c19fba7ceca18bf39bb78f9a8b915a66d5f5a4768018c541e5d24b8c"
+  },
+  {
+    "path": "13_tematicos_transversales/18_historia_de_los_derechos_humanos.md",
+    "bytes": 11278,
+    "sha256": "6db8eb12e8d8f975bae59a336b625d16a72657e0e9a41641648f2965f9954d59"
+  },
+  {
+    "path": "13_tematicos_transversales/19_memoria_patrimonio_e_historia_publica.md",
+    "bytes": 11363,
+    "sha256": "86a186205a214664a24e1808ce448f05486a868106bc64e0a25c13d33aeaef87"
+  },
+  {
+    "path": "13_tematicos_transversales/20_eurocentrismo_y_perspectivas_decoloniales.md",
+    "bytes": 11278,
+    "sha256": "2059d9df7154331739c1733bb8951be0be32f9be5e4376a4db902ed606a72684"
+  },
+  {
+    "path": "14_bancos_generales/01_cronologia_maestra.md",
+    "bytes": 1823,
+    "sha256": "962a3c03691cabb5a23043fb7d6ea6d906f9da27aeeaad98c591a95a3f7368ef"
+  },
+  {
+    "path": "14_bancos_generales/02_atlas_historico_textual.md",
+    "bytes": 437,
+    "sha256": "6e2e32d299f8dd5daedc9db289da82659ec6d6eee6ebaace1e4bae34d9a1c1f5"
+  },
+  {
+    "path": "14_bancos_generales/03_biografias_y_actores_colectivos.md",
+    "bytes": 633,
+    "sha256": "a0178c8fb2d3dc21e5945544bb952d15300f23fddb7396057d58bd487d222f11"
+  },
+  {
+    "path": "14_bancos_generales/04_glosario_general.md",
+    "bytes": 1215,
+    "sha256": "7f0461efcaefe400ef048c0462eb7d14a47bc728312bfb5700b77026708d1f16"
+  },
+  {
+    "path": "14_bancos_generales/05_plantillas_analisis_fuentes.md",
+    "bytes": 723,
+    "sha256": "385993aa51bf526bf96937c0298340dab35d2f21041255a38c12e4a21df03500"
+  },
+  {
+    "path": "14_bancos_generales/06_banco_preguntas_comparativas.md",
+    "bytes": 557,
+    "sha256": "a5a8af320ab00e2f724ccf100881d8c1e597841ae6af22351b286cb5bee1b49c"
+  },
+  {
+    "path": "15_evaluaciones_generales/01_prehistoria_y_primeras_civilizaciones.md",
+    "bytes": 553,
+    "sha256": "7a10d4d649371951e7e8bf389f7e7e5ceccf22b28c3933bf078618a0e7fd8eb4"
+  },
+  {
+    "path": "15_evaluaciones_generales/01_prehistoria_y_primeras_civilizaciones_respuestas.md",
+    "bytes": 565,
+    "sha256": "5b66e154f34766d87a48afe12b6bef9fbe3f11e8e625e2f2d61d0f3d35e80e3b"
+  },
+  {
+    "path": "15_evaluaciones_generales/02_mundo_clasico_y_medieval.md",
+    "bytes": 526,
+    "sha256": "2228612ca790bbb89003b91bc5caf5aef2e0f08233371feca1f5e80af0f743f3"
+  },
+  {
+    "path": "15_evaluaciones_generales/02_mundo_clasico_y_medieval_respuestas.md",
+    "bytes": 538,
+    "sha256": "c99994915a1557038a2e2a20cde941dbe3664c3bdc25b57a26b6796d5e951c74"
+  },
+  {
+    "path": "15_evaluaciones_generales/03_edad_moderna_y_conexiones_atlanticas.md",
+    "bytes": 551,
+    "sha256": "163ea308ccc26a385b426820f462d5703894605240f7e2c62630170f1d7c445c"
+  },
+  {
+    "path": "15_evaluaciones_generales/03_edad_moderna_y_conexiones_atlanticas_respuestas.md",
+    "bytes": 563,
+    "sha256": "00cbd59e2befc0be7dd03140057369143fb6280af16b51051cb573d2f3da4bc6"
+  },
+  {
+    "path": "15_evaluaciones_generales/04_revoluciones_e_industrializacion.md",
+    "bytes": 580,
+    "sha256": "5e105731e064d88831f754af27024847ce8cd3360ce22d7c6103c6a1ad0ac69a"
+  },
+  {
+    "path": "15_evaluaciones_generales/04_revoluciones_e_industrializacion_respuestas.md",
+    "bytes": 592,
+    "sha256": "c5449afe08965a6765c0a05ceeafe78587670f334bf380388060a2831f56a981"
+  },
+  {
+    "path": "15_evaluaciones_generales/05_imperialismo_y_guerras_mundiales.md",
+    "bytes": 572,
+    "sha256": "93158371a90aa1251d304d1efb1fa728bfb9cf4695c5fa8b0a1bb8a87d401539"
+  },
+  {
+    "path": "15_evaluaciones_generales/05_imperialismo_y_guerras_mundiales_respuestas.md",
+    "bytes": 584,
+    "sha256": "3f700721e5e75a57f2eed08f9feeeb00e97dcb8bb6d9d7bc5a34fbbea19849c7"
+  },
+  {
+    "path": "15_evaluaciones_generales/06_guerra_fria_y_mundo_contemporaneo.md",
+    "bytes": 569,
+    "sha256": "1cd258eefbc9aad4c31c1b787a6fcf5b628fda4d57ee8424de1fbd74e68b0fc6"
+  },
+  {
+    "path": "15_evaluaciones_generales/06_guerra_fria_y_mundo_contemporaneo_respuestas.md",
+    "bytes": 581,
+    "sha256": "962e0637d106fafea9a9dbb3aa75553bdd4bc2350c86d4a1daf32c21df83da8b"
+  },
+  {
+    "path": "16_apoyo_inclusivo/01_modos_de_respuesta.md",
+    "bytes": 225,
+    "sha256": "fa3d230552d81c573fd14bd52d956a02c158a230e6aa051e083b9674be36508c"
+  },
+  {
+    "path": "16_apoyo_inclusivo/02_adaptaciones_tea.md",
+    "bytes": 526,
+    "sha256": "6ecf5d6915f90fa2a8898dd227576b169c44f5933ee557a0f98408759f33e2c6"
+  },
+  {
+    "path": "16_apoyo_inclusivo/03_lectura_facil_por_ciclo.md",
+    "bytes": 355,
+    "sha256": "296f729c171e65caa995fd7b7188f5df95777bccb47049165b66276d0a37de12"
+  },
+  {
+    "path": "16_apoyo_inclusivo/04_temas_sensibles.md",
+    "bytes": 647,
+    "sha256": "688ad26752876f9f5e162d59ef58b6baec1baac433497f5610a6e9ec6628ea31"
+  },
+  {
+    "path": "16_apoyo_inclusivo/05_evaluacion_accesible.md",
+    "bytes": 246,
+    "sha256": "fb8860fc219cfc113b442e77158624559e2c7ad15647dd397e113523c50251bd"
+  },
+  {
+    "path": "16_apoyo_inclusivo/06_guia_para_familias.md",
+    "bytes": 277,
+    "sha256": "ae5426bf83e7d35f91cc1ffa4f0f2816f23b9879740888dc7503397c10a68356"
+  },
+  {
+    "path": "17_compendios/compendio_1b.md",
+    "bytes": 90979,
+    "sha256": "861f2de1219827afdd074481c27edaaaac3f5618e5a1f37aec481ab467d889ac"
+  },
+  {
+    "path": "17_compendios/compendio_1m.md",
+    "bytes": 351116,
+    "sha256": "37979af357aad613cedb57e131863cc5c7c0d5e2c0c3563411dd9feac5cf1ba2"
+  },
+  {
+    "path": "17_compendios/compendio_2b.md",
+    "bytes": 114066,
+    "sha256": "4772e406d44f9e7d293b7c79901ff0da8debc72a07e488511b38b2c6b23c365c"
+  },
+  {
+    "path": "17_compendios/compendio_2m.md",
+    "bytes": 464941,
+    "sha256": "d12b50397433328f110b675261984cf4ba1fc55bf357a8365677fd9c4caccdd9"
+  },
+  {
+    "path": "17_compendios/compendio_3b.md",
+    "bytes": 259466,
+    "sha256": "1b110e2e2cb784c6481cbfbe4ad0c8e21e6650a60d7c4879aa5abd840183035f"
+  },
+  {
+    "path": "17_compendios/compendio_3m.md",
+    "bytes": 183780,
+    "sha256": "fbea5eb211d212894543f77106989d6f19fdeee5b4a266a6dd603315f27a9e67"
+  },
+  {
+    "path": "17_compendios/compendio_4b.md",
+    "bytes": 271867,
+    "sha256": "eb9d25d898b3fb8f3dcba1606f67e4ee5e899bcfdc0aa84959ebc5c8d5acfff7"
+  },
+  {
+    "path": "17_compendios/compendio_4m.md",
+    "bytes": 208131,
+    "sha256": "020683e828d3ddc18edb7a660b8b3738fbb30cf206d89e9a7bdfccac2f9434ea"
+  },
+  {
+    "path": "17_compendios/compendio_5b.md",
+    "bytes": 159201,
+    "sha256": "5b04eef8c1a56a9e25ca905212f0cd78994423472a01249bd2a196d59a5306b5"
+  },
+  {
+    "path": "17_compendios/compendio_6b.md",
+    "bytes": 158672,
+    "sha256": "83dac7ad1808d257448b913637b56d87ff752dbfe1c37a9b9f8c847cc19531c6"
+  },
+  {
+    "path": "17_compendios/compendio_7b.md",
+    "bytes": 337922,
+    "sha256": "f7a0564bcc6547a1be456b5a733cc6f9372aded95fb3d7c7c19f4d322f8a325b"
+  },
+  {
+    "path": "17_compendios/compendio_8b.md",
+    "bytes": 338092,
+    "sha256": "2e71bab5e37aa4384c673269150782da922989a93fcb1eb623678187af5d93c2"
+  },
+  {
+    "path": "17_compendios/enciclopedia_completa_historia_universal.md",
+    "bytes": 2938433,
+    "sha256": "df5b49d8d0a4e73a96ea85b2e1191a327f7acac0e6146d1c6fa50288d54b1997"
+  },
+  {
+    "path": "18_rag/catalogo_capitulos.json",
+    "bytes": 134351,
+    "sha256": "0f07626486467c764b7a0834b48bd543656d5f4e33c931831d06848ae0a87e5f"
+  },
+  {
+    "path": "18_rag/catalogo_capitulos.jsonl",
+    "bytes": 113849,
+    "sha256": "6efc844d1fa10a4b537b866bb1ab02e613fdc103a42756febfe1e63e6cd2540b"
+  },
+  {
+    "path": "18_rag/chunks_historia_universal.jsonl",
+    "bytes": 6879863,
+    "sha256": "437322e67458b1bbb1b64ee9e889b6ef7ff5c4c149125c44816b5b0a6f030130"
+  },
+  {
+    "path": "18_rag/manifiesto_archivos.json",
+    "bytes": 77438,
+    "sha256": "afe8c33131df7f1160a69e8b774a842cf56575dd868362a8ef7448cfe1ab7e8e"
+  },
+  {
+    "path": "CHANGELOG.md",
+    "bytes": 368,
+    "sha256": "8ae77a396e35459308b548b3e4e0469030ebe8567a1785bd82ea648927a414b6"
+  },
+  {
+    "path": "README.md",
+    "bytes": 1844,
+    "sha256": "5721f6a83c226c46343234888e85f09489b3852819f4443f357c2cbb4f5f7948"
+  }
+]

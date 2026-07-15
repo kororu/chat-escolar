@@ -1,0 +1,138 @@
+# Glosario inicial — 2° medio
+
+- **1929:** Concepto vinculado con la gran depresión de 1929; debe definirse dentro de su contexto histórico.
+- **1945:** Concepto vinculado con genocidios y limpieza étnica después de 1945; debe definirse dentro de su contexto histórico.
+- **1968:** Concepto vinculado con movimientos juveniles y protestas de 1968; debe definirse dentro de su contexto histórico.
+- **Africa:** Concepto vinculado con independencias y descolonización en áfrica; debe definirse dentro de su contexto histórico.
+- **Aleman:** Concepto vinculado con nazismo alemán; debe definirse dentro de su contexto histórico.
+- **Alineados:** Concepto vinculado con movimiento de países no alineados; debe definirse dentro de su contexto histórico.
+- **America:** Concepto vinculado con dictaduras de seguridad nacional en américa latina; debe definirse dentro de su contexto histórico.
+- **Anos:** Concepto vinculado con los años veinte y transformaciones culturales; debe definirse dentro de su contexto histórico.
+- **Arabe:** Concepto vinculado con conflicto árabe-israelí y cuestión palestina; debe definirse dentro de su contexto histórico.
+- **Asia:** Concepto vinculado con la guerra en asia y el pacífico; debe definirse dentro de su contexto histórico.
+- **Atomicas:** Concepto vinculado con bombas atómicas sobre hiroshima y nagasaki; debe definirse dentro de su contexto histórico.
+- **Bienestar:** Concepto vinculado con estado de bienestar y sociedad de consumo; debe definirse dentro de su contexto histórico.
+- **Bipolaridad:** Concepto vinculado con bipolaridad, propaganda y carrera nuclear; debe definirse dentro de su contexto histórico.
+- **Bombardeos:** Concepto vinculado con bombardeos estratégicos y ciudades en guerra; debe definirse dentro de su contexto histórico.
+- **Bombas:** Concepto vinculado con bombas atómicas sobre hiroshima y nagasaki; debe definirse dentro de su contexto histórico.
+- **Cambio:** Concepto vinculado con cambio climático como proceso histórico global; debe definirse dentro de su contexto histórico.
+- **Carrera:** Concepto vinculado con carrera espacial y revolución científico-tecnológica; debe definirse dentro de su contexto histórico.
+- **Causas:** Concepto vinculado con causas de la segunda guerra mundial; debe definirse dentro de su contexto histórico.
+- **Cientifico:** Concepto vinculado con carrera espacial y revolución científico-tecnológica; debe definirse dentro de su contexto histórico.
+- **Ciudades:** Concepto vinculado con bombardeos estratégicos y ciudades en guerra; debe definirse dentro de su contexto histórico.
+- **Civiles:** Concepto vinculado con movimiento por los derechos civiles en estados unidos; debe definirse dentro de su contexto histórico.
+- **Climatico:** Concepto vinculado con cambio climático como proceso histórico global; debe definirse dentro de su contexto histórico.
+- **Comunicacion:** Concepto vinculado con sociedad de masas y nuevas formas de comunicación; debe definirse dentro de su contexto histórico.
+- **Con:** Concepto vinculado con persecución de gitanos, personas con discapacidad y otros grupos; debe definirse dentro de su contexto histórico.
+- **Condor:** Concepto vinculado con coordinación represiva y operación cóndor; debe definirse dentro de su contexto histórico.
+- **Conflicto:** Concepto vinculado con conflicto árabe-israelí y cuestión palestina; debe definirse dentro de su contexto histórico.
+- **Consecuencias:** Concepto vinculado con consecuencias humanas, políticas y económicas de la guerra; debe definirse dentro de su contexto histórico.
+- **Consumo:** Concepto vinculado con estado de bienestar y sociedad de consumo; debe definirse dentro de su contexto histórico.
+- **Contra:** Concepto vinculado con ocupación, resistencia y violencia contra civiles; debe definirse dentro de su contexto histórico.
+- **Coordinacion:** Concepto vinculado con coordinación represiva y operación cóndor; debe definirse dentro de su contexto histórico.
+- **Corea:** Concepto vinculado con guerra de corea; debe definirse dentro de su contexto histórico.
+- **Creacion:** Concepto vinculado con creación de la onu; debe definirse dentro de su contexto histórico.
+- **Crisis:** Concepto vinculado con crisis del socialismo real y fin de la guerra fría; debe definirse dentro de su contexto histórico.
+- **Cubana:** Concepto vinculado con revolución cubana y crisis de los misiles; debe definirse dentro de su contexto histórico.
+- **Cuestion:** Concepto vinculado con conflicto árabe-israelí y cuestión palestina; debe definirse dentro de su contexto histórico.
+- **Culturales:** Concepto vinculado con los años veinte y transformaciones culturales; debe definirse dentro de su contexto histórico.
+- **Deal:** Concepto vinculado con new deal y respuestas a la crisis; debe definirse dentro de su contexto histórico.
+- **Debilitamiento:** Concepto vinculado con debilitamiento de las democracias liberales; debe definirse dentro de su contexto histórico.
+- **Declaracion:** Concepto vinculado con declaración universal de derechos humanos; debe definirse dentro de su contexto histórico.
+- **Democracias:** Concepto vinculado con debilitamiento de las democracias liberales; debe definirse dentro de su contexto histórico.
+- **Depresion:** Concepto vinculado con la gran depresión de 1929; debe definirse dentro de su contexto histórico.
+- **Derechos:** Concepto vinculado con movimiento por los derechos civiles en estados unidos; debe definirse dentro de su contexto histórico.
+- **Descolonizacion:** Concepto vinculado con independencias y descolonización en áfrica; debe definirse dentro de su contexto histórico.
+- **Despues:** Concepto vinculado con genocidios y limpieza étnica después de 1945; debe definirse dentro de su contexto histórico.
+- **Dictaduras:** Concepto vinculado con dictaduras de seguridad nacional en américa latina; debe definirse dentro de su contexto histórico.
+- **Digital:** Concepto vinculado con revolución digital y sociedad de la información; debe definirse dentro de su contexto histórico.
+- **Discapacidad:** Concepto vinculado con persecución de gitanos, personas con discapacidad y otros grupos; debe definirse dentro de su contexto histórico.
+- **Economicas:** Concepto vinculado con consecuencias humanas, políticas y económicas de la guerra; debe definirse dentro de su contexto histórico.
+- **Eje:** Concepto vinculado con expansión del eje y frentes de guerra; debe definirse dentro de su contexto histórico.
+- **Espacial:** Concepto vinculado con carrera espacial y revolución científico-tecnológica; debe definirse dentro de su contexto histórico.
+- **Estado:** Concepto vinculado con estado de bienestar y sociedad de consumo; debe definirse dentro de su contexto histórico.
+- **Estados:** Concepto vinculado con movimiento por los derechos civiles en estados unidos; debe definirse dentro de su contexto histórico.
+- **Estalinismo:** Concepto vinculado con la unión soviética y el estalinismo; debe definirse dentro de su contexto histórico.
+- **Estrategicos:** Concepto vinculado con bombardeos estratégicos y ciudades en guerra; debe definirse dentro de su contexto histórico.
+- **Etnica:** Concepto vinculado con genocidios y limpieza étnica después de 1945; debe definirse dentro de su contexto histórico.
+- **Europea:** Concepto vinculado con integración europea y unión europea; debe definirse dentro de su contexto histórico.
+- **Europeos:** Concepto vinculado con holocausto y genocidio de los judíos europeos; debe definirse dentro de su contexto histórico.
+- **Expansion:** Concepto vinculado con expansión del eje y frentes de guerra; debe definirse dentro de su contexto histórico.
+- **Fascismo:** Concepto vinculado con fascismo italiano; debe definirse dentro de su contexto histórico.
+- **Feminista:** Concepto vinculado con segunda ola feminista; debe definirse dentro de su contexto histórico.
+- **Fin:** Concepto vinculado con crisis del socialismo real y fin de la guerra fría; debe definirse dentro de su contexto histórico.
+- **Formas:** Concepto vinculado con sociedad de masas y nuevas formas de comunicación; debe definirse dentro de su contexto histórico.
+- **Frentes:** Concepto vinculado con expansión del eje y frentes de guerra; debe definirse dentro de su contexto histórico.
+- **Fria:** Concepto vinculado con crisis del socialismo real y fin de la guerra fría; debe definirse dentro de su contexto histórico.
+- **Genocidio:** Concepto vinculado con holocausto y genocidio de los judíos europeos; debe definirse dentro de su contexto histórico.
+- **Genocidios:** Concepto vinculado con genocidios y limpieza étnica después de 1945; debe definirse dentro de su contexto histórico.
+- **Gitanos:** Concepto vinculado con persecución de gitanos, personas con discapacidad y otros grupos; debe definirse dentro de su contexto histórico.
+- **Global:** Concepto vinculado con cambio climático como proceso histórico global; debe definirse dentro de su contexto histórico.
+- **Globalizacion:** Concepto vinculado con globalización y transformaciones neoliberales; debe definirse dentro de su contexto histórico.
+- **Gran:** Concepto vinculado con la gran depresión de 1929; debe definirse dentro de su contexto histórico.
+- **Grupos:** Concepto vinculado con persecución de gitanos, personas con discapacidad y otros grupos; debe definirse dentro de su contexto histórico.
+- **Guerra:** Concepto vinculado con crisis del socialismo real y fin de la guerra fría; debe definirse dentro de su contexto histórico.
+- **Hiroshima:** Concepto vinculado con bombas atómicas sobre hiroshima y nagasaki; debe definirse dentro de su contexto histórico.
+- **Historico:** Concepto vinculado con cambio climático como proceso histórico global; debe definirse dentro de su contexto histórico.
+- **Holocausto:** Concepto vinculado con holocausto y genocidio de los judíos europeos; debe definirse dentro de su contexto histórico.
+- **Humanas:** Concepto vinculado con consecuencias humanas, políticas y económicas de la guerra; debe definirse dentro de su contexto histórico.
+- **Humanos:** Concepto vinculado con declaración universal de derechos humanos; debe definirse dentro de su contexto histórico.
+- **Independencias:** Concepto vinculado con independencias y descolonización en áfrica; debe definirse dentro de su contexto histórico.
+- **India:** Concepto vinculado con descolonización de india y partición; debe definirse dentro de su contexto histórico.
+- **Informacion:** Concepto vinculado con revolución digital y sociedad de la información; debe definirse dentro de su contexto histórico.
+- **Integracion:** Concepto vinculado con integración europea y unión europea; debe definirse dentro de su contexto histórico.
+- **Israeli:** Concepto vinculado con conflicto árabe-israelí y cuestión palestina; debe definirse dentro de su contexto histórico.
+- **Italiano:** Concepto vinculado con fascismo italiano; debe definirse dentro de su contexto histórico.
+- **Judios:** Concepto vinculado con holocausto y genocidio de los judíos europeos; debe definirse dentro de su contexto histórico.
+- **Juveniles:** Concepto vinculado con movimientos juveniles y protestas de 1968; debe definirse dentro de su contexto histórico.
+- **Latina:** Concepto vinculado con dictaduras de seguridad nacional en américa latina; debe definirse dentro de su contexto histórico.
+- **Liberales:** Concepto vinculado con debilitamiento de las democracias liberales; debe definirse dentro de su contexto histórico.
+- **Limpieza:** Concepto vinculado con genocidios y limpieza étnica después de 1945; debe definirse dentro de su contexto histórico.
+- **Masas:** Concepto vinculado con sociedad de masas y nuevas formas de comunicación; debe definirse dentro de su contexto histórico.
+- **Misiles:** Concepto vinculado con revolución cubana y crisis de los misiles; debe definirse dentro de su contexto histórico.
+- **Movimiento:** Concepto vinculado con movimiento por los derechos civiles en estados unidos; debe definirse dentro de su contexto histórico.
+- **Movimientos:** Concepto vinculado con movimientos juveniles y protestas de 1968; debe definirse dentro de su contexto histórico.
+- **Mundial:** Concepto vinculado con causas de la segunda guerra mundial; debe definirse dentro de su contexto histórico.
+- **Nacional:** Concepto vinculado con dictaduras de seguridad nacional en américa latina; debe definirse dentro de su contexto histórico.
+- **Nagasaki:** Concepto vinculado con bombas atómicas sobre hiroshima y nagasaki; debe definirse dentro de su contexto histórico.
+- **Nazismo:** Concepto vinculado con nazismo alemán; debe definirse dentro de su contexto histórico.
+- **Neoliberales:** Concepto vinculado con globalización y transformaciones neoliberales; debe definirse dentro de su contexto histórico.
+- **New:** Concepto vinculado con new deal y respuestas a la crisis; debe definirse dentro de su contexto histórico.
+- **No:** Concepto vinculado con movimiento de países no alineados; debe definirse dentro de su contexto histórico.
+- **Nuclear:** Concepto vinculado con bipolaridad, propaganda y carrera nuclear; debe definirse dentro de su contexto histórico.
+- **Nuevas:** Concepto vinculado con sociedad de masas y nuevas formas de comunicación; debe definirse dentro de su contexto histórico.
+- **Ocupacion:** Concepto vinculado con ocupación, resistencia y violencia contra civiles; debe definirse dentro de su contexto histórico.
+- **Ola:** Concepto vinculado con segunda ola feminista; debe definirse dentro de su contexto histórico.
+- **Onu:** Concepto vinculado con creación de la onu; debe definirse dentro de su contexto histórico.
+- **Operacion:** Concepto vinculado con coordinación represiva y operación cóndor; debe definirse dentro de su contexto histórico.
+- **Origenes:** Concepto vinculado con orígenes de la guerra fría; debe definirse dentro de su contexto histórico.
+- **Otros:** Concepto vinculado con persecución de gitanos, personas con discapacidad y otros grupos; debe definirse dentro de su contexto histórico.
+- **Pacifico:** Concepto vinculado con la guerra en asia y el pacífico; debe definirse dentro de su contexto histórico.
+- **Paises:** Concepto vinculado con movimiento de países no alineados; debe definirse dentro de su contexto histórico.
+- **Palestina:** Concepto vinculado con conflicto árabe-israelí y cuestión palestina; debe definirse dentro de su contexto histórico.
+- **Particion:** Concepto vinculado con descolonización de india y partición; debe definirse dentro de su contexto histórico.
+- **Persecucion:** Concepto vinculado con persecución de gitanos, personas con discapacidad y otros grupos; debe definirse dentro de su contexto histórico.
+- **Personas:** Concepto vinculado con persecución de gitanos, personas con discapacidad y otros grupos; debe definirse dentro de su contexto histórico.
+- **Politicas:** Concepto vinculado con consecuencias humanas, políticas y económicas de la guerra; debe definirse dentro de su contexto histórico.
+- **Proceso:** Concepto vinculado con cambio climático como proceso histórico global; debe definirse dentro de su contexto histórico.
+- **Propaganda:** Concepto vinculado con bipolaridad, propaganda y carrera nuclear; debe definirse dentro de su contexto histórico.
+- **Protestas:** Concepto vinculado con movimientos juveniles y protestas de 1968; debe definirse dentro de su contexto histórico.
+- **Real:** Concepto vinculado con crisis del socialismo real y fin de la guerra fría; debe definirse dentro de su contexto histórico.
+- **Represiva:** Concepto vinculado con coordinación represiva y operación cóndor; debe definirse dentro de su contexto histórico.
+- **Resistencia:** Concepto vinculado con ocupación, resistencia y violencia contra civiles; debe definirse dentro de su contexto histórico.
+- **Respuestas:** Concepto vinculado con new deal y respuestas a la crisis; debe definirse dentro de su contexto histórico.
+- **Revolucion:** Concepto vinculado con revolución digital y sociedad de la información; debe definirse dentro de su contexto histórico.
+- **Segunda:** Concepto vinculado con segunda ola feminista; debe definirse dentro de su contexto histórico.
+- **Seguridad:** Concepto vinculado con dictaduras de seguridad nacional en américa latina; debe definirse dentro de su contexto histórico.
+- **Sobre:** Concepto vinculado con bombas atómicas sobre hiroshima y nagasaki; debe definirse dentro de su contexto histórico.
+- **Socialismo:** Concepto vinculado con crisis del socialismo real y fin de la guerra fría; debe definirse dentro de su contexto histórico.
+- **Sociedad:** Concepto vinculado con revolución digital y sociedad de la información; debe definirse dentro de su contexto histórico.
+- **Sovietica:** Concepto vinculado con la unión soviética y el estalinismo; debe definirse dentro de su contexto histórico.
+- **Tecnologica:** Concepto vinculado con carrera espacial y revolución científico-tecnológica; debe definirse dentro de su contexto histórico.
+- **Transformaciones:** Concepto vinculado con globalización y transformaciones neoliberales; debe definirse dentro de su contexto histórico.
+- **Unidos:** Concepto vinculado con movimiento por los derechos civiles en estados unidos; debe definirse dentro de su contexto histórico.
+- **Union:** Concepto vinculado con integración europea y unión europea; debe definirse dentro de su contexto histórico.
+- **Universal:** Concepto vinculado con declaración universal de derechos humanos; debe definirse dentro de su contexto histórico.
+- **Veinte:** Concepto vinculado con los años veinte y transformaciones culturales; debe definirse dentro de su contexto histórico.
+- **Vietnam:** Concepto vinculado con guerra de vietnam; debe definirse dentro de su contexto histórico.
+- **Violencia:** Concepto vinculado con ocupación, resistencia y violencia contra civiles; debe definirse dentro de su contexto histórico.

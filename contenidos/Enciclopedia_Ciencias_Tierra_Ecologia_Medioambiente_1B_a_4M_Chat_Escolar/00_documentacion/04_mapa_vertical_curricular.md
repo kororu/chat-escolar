@@ -1,0 +1,306 @@
+# Mapa vertical
+
+## 1° básico
+- La Tierra como hogar
+- Elementos naturales del entorno
+- Agua en la vida diaria
+- Aire y viento
+- Suelo y plantas
+- Animales y hábitats
+- Día y noche
+- Estaciones del año
+- Tiempo atmosférico inicial
+- Cuidado del agua
+- Cuidado de plantas y animales
+- No botar basura
+- Reutilizar materiales
+- Separar residuos inicial
+- Observar el entorno
+
+## 2° básico
+- Paisajes naturales
+- Ríos lagos y mar
+- Agua dulce y salada
+- Ciclo del agua inicial
+- Nubes y lluvia
+- Viento y temperatura
+- Suelo y seres vivos
+- Hábitats terrestres
+- Hábitats acuáticos
+- Adaptaciones simples
+- Recursos naturales cotidianos
+- Uso responsable del agua
+- Reciclaje básico
+- Contaminación visible
+- Cuidado de plazas y barrios
+- Registro del tiempo atmosférico
+
+## 3° básico
+- Planeta Tierra
+- Superficie terrestre y océanos
+- Continentes y océanos como marco natural
+- Rotación y día noche
+- Traslación y estaciones
+- Atmósfera inicial
+- Hidrosfera inicial
+- Litosfera inicial
+- Ciclo del agua
+- Evaporación condensación y precipitación
+- Tiempo y clima inicial
+- Temperatura lluvia y viento
+- Ecosistemas locales
+- Cadenas alimentarias simples
+- Contaminación del aire inicial
+- Contaminación del agua inicial
+- Reciclaje y reducción
+- Proyecto de cuidado ambiental
+
+## 4° básico
+- Capas internas de la Tierra inicial
+- Corteza manto y núcleo
+- Placas tectónicas iniciales
+- Sismos
+- Volcanes
+- Tsunamis
+- Cambios de la superficie terrestre
+- Rocas y minerales
+- Ciclo de las rocas inicial
+- Suelo y formación
+- Tipos de suelo
+- Erosión inicial
+- Ecosistemas terrestres
+- Ecosistemas acuáticos
+- Redes alimentarias iniciales
+- Biodiversidad local
+- Amenaza y prevención
+- Plan familiar de emergencia
+- Contaminación y residuos
+- Investigación del entorno
+
+## 5° básico
+- Estructura del planeta Tierra
+- Corteza continental y oceánica
+- Manto y núcleo
+- Campo magnético terrestre inicial
+- Rocas ígneas sedimentarias y metamórficas
+- Ciclo de las rocas
+- Minerales y recursos
+- Agua en la Tierra
+- Océanos y corrientes iniciales
+- Ríos lagos glaciares y acuíferos
+- Cuenca hidrográfica
+- Ciclo del agua avanzado
+- Ecosistemas acuáticos
+- Biodiversidad marina
+- Recursos renovables y no renovables
+- Minería y ambiente inicial
+- Energía y recursos naturales
+- Contaminación del agua
+- Contaminación del suelo
+- Residuos domiciliarios
+- Reciclaje y economía circular inicial
+- Conservación de especies
+- Áreas protegidas
+- Proyecto ambiental escolar
+
+## 6° básico
+- Atmósfera litósfera e hidrósfera
+- Capas que permiten la vida
+- Recursos de la atmósfera
+- Recursos de la hidrósfera
+- Recursos de la litósfera
+- Suelo como sistema
+- Horizontes del suelo
+- Textura y composición del suelo
+- Materia orgánica del suelo
+- Organismos del suelo
+- Erosión por agua
+- Erosión por viento
+- Erosión por actividades humanas
+- Conservación del suelo
+- Fotosíntesis y ecosistemas
+- Cadenas y redes alimentarias
+- Flujo de energía
+- Ciclos de materia iniciales
+- Clima y zonas climáticas
+- Atmósfera y efecto invernadero inicial
+- Uso sostenible de recursos
+- Contaminación y prevención
+- Cambio climático inicial
+- Diseño de experimento sobre erosión
+
+## 7° básico
+- Deriva continental
+- Tectónica de placas
+- Placas oceánicas y continentales
+- Límites convergentes
+- Límites divergentes
+- Límites transformantes
+- Subducción
+- Formación de cordilleras
+- Sismos y placas
+- Volcanismo y placas
+- Distribución global de sismos y volcanes
+- Cinturón de Fuego del Pacífico
+- Estructura de un volcán
+- Tipos de erupción iniciales
+- Ondas sísmicas iniciales
+- Epicentro e hipocentro
+- Magnitud e intensidad
+- Tsunamis y generación
+- Riesgo volcánico
+- Riesgo sísmico
+- Amenaza vulnerabilidad y exposición
+- Prevención y preparación
+- Historia geológica inicial
+- Modelos de tectónica
+
+## 8° básico
+- Sistema Tierra
+- Interacciones atmósfera hidrósfera geósfera biósfera
+- Balance energético terrestre
+- Radiación solar y clima
+- Efecto invernadero natural
+- Gases de efecto invernadero
+- Tiempo y clima
+- Circulación atmosférica inicial
+- Ciclo del carbono
+- Ciclo del nitrógeno
+- Ciclo del fósforo
+- Ciclo del agua avanzado
+- Ecosistemas y homeostasis ambiental
+- Biodiversidad genética de especies y ecosistemas
+- Servicios ecosistémicos
+- Contaminación atmosférica
+- Contaminación hídrica
+- Contaminación del suelo
+- Eutrofización inicial
+- Lluvia ácida
+- Ozono estratosférico y troposférico
+- Residuos y materiales
+- Huella ecológica inicial
+- Consumo responsable
+- Cambio climático y evidencia
+- Adaptación y mitigación inicial
+
+## 1° medio
+- Niveles de organización ecológica
+- Organismo población comunidad ecosistema
+- Hábitat y nicho ecológico
+- Factores bióticos y abióticos
+- Flujo de energía
+- Productividad primaria
+- Cadenas y redes tróficas
+- Pirámides ecológicas
+- Ciclos biogeoquímicos
+- Dinámica de poblaciones
+- Crecimiento poblacional
+- Capacidad de carga
+- Competencia
+- Depredación
+- Mutualismo
+- Parasitismo
+- Sucesión ecológica
+- Ecosistemas de Chile
+- Biomas del mundo
+- Biodiversidad de Chile
+- Endemismo
+- Servicios ecosistémicos
+- Pérdida de hábitat
+- Fragmentación
+- Especies invasoras
+- Sobreexplotación
+- Conservación y restauración
+- Cambio global y ecosistemas
+
+## 2° medio
+- Historia geológica de la Tierra
+- Tiempo geológico
+- Datación relativa
+- Datación radiométrica inicial
+- Fósiles y paleoambientes
+- Tectónica y evolución del relieve
+- Ciclo supercontinental
+- Océanos y clima
+- Atmósfera y clima global
+- Circulación oceánica
+- Fenómenos El Niño y La Niña
+- Variabilidad climática
+- Paleoclima
+- Evidencias del cambio climático
+- Gases de efecto invernadero
+- Forzamiento radiativo inicial
+- Acidificación del océano
+- Aumento del nivel del mar
+- Glaciares y criósfera
+- Sequías e inundaciones
+- Incendios forestales y riesgo
+- Desertificación
+- Seguridad hídrica
+- Gestión de cuencas
+- Energía y ambiente
+- Minería y sostenibilidad
+- Evaluación de impacto ambiental inicial
+- Conflictos socioambientales
+- Justicia ambiental inicial
+- Proyecto de análisis ambiental
+
+## 3° medio
+- Cambio climático como desafío urgente
+- Evidencias del cambio climático
+- Modelos climáticos iniciales
+- Escenarios de emisiones
+- Mitigación
+- Adaptación
+- Soluciones basadas en la naturaleza
+- Transición energética
+- Eficiencia energética
+- Movilidad sostenible
+- Consumo sostenible
+- Economía circular
+- Gestión de residuos
+- Contaminación del aire y salud
+- Calidad del agua
+- Seguridad hídrica
+- Biodiversidad y servicios ecosistémicos
+- Restauración ecológica
+- Agricultura sostenible
+- Ciudades resilientes
+- Riesgos socionaturales
+- Gestión del riesgo de desastres
+- Participación ambiental
+- Leyes e instituciones ambientales
+- Información y desinformación ambiental
+- Proyecto local de sostenibilidad
+
+## 4° medio
+- Sistema climático terrestre
+- Retroalimentaciones climáticas
+- Carbono y presupuesto global
+- Justicia climática
+- Pérdidas y daños
+- Adaptación basada en ecosistemas
+- Resiliencia comunitaria
+- Riesgo y vulnerabilidad territorial
+- Sistemas de alerta temprana
+- Planificación urbana sostenible
+- Soluciones hídricas
+- Desalinización y ambiente
+- Reúso de aguas
+- Energías renovables y territorio
+- Almacenamiento de energía
+- Minerales críticos y transición energética
+- Economía circular avanzada
+- Responsabilidad extendida del productor
+- Restauración de suelos
+- Conservación marina
+- Áreas protegidas y corredores ecológicos
+- Crisis de biodiversidad
+- Una Salud y ambiente
+- Contaminantes emergentes
+- Microplásticos
+- Evaluación ambiental estratégica
+- Derecho a un ambiente sano
+- Participación y justicia ambiental
+- Ciencia ciudadana ambiental
+- Proyecto final de intervención ambiental

@@ -1,0 +1,32 @@
+# Índice de Física — 2° medio
+
+- [Sistema de referencia](001_sistema_de_referencia.md) — fisica_general
+- [Posición y desplazamiento](002_posicion_y_desplazamiento.md) — fisica_general
+- [Distancia y trayectoria](003_distancia_y_trayectoria.md) — fisica_general
+- [Rapidez media](004_rapidez_media.md) — mecanica
+- [Velocidad media](005_velocidad_media.md) — mecanica
+- [Aceleración](006_aceleracion.md) — mecanica
+- [Movimiento rectilíneo uniforme](007_movimiento_rectilineo_uniforme.md) — mecanica
+- [Movimiento rectilíneo uniformemente acelerado](008_movimiento_rectilineo_uniformemente_acelerado.md) — mecanica
+- [Caída libre](009_caida_libre.md) — mecanica
+- [Gráficos posición-tiempo](010_graficos_posicion_tiempo.md) — fisica_general
+- [Gráficos velocidad-tiempo](011_graficos_velocidad_tiempo.md) — mecanica
+- [Vectores](012_vectores.md) — fisica_general
+- [Primera ley de Newton](013_primera_ley_de_newton.md) — mecanica
+- [Segunda ley de Newton](014_segunda_ley_de_newton.md) — mecanica
+- [Tercera ley de Newton](015_tercera_ley_de_newton.md) — mecanica
+- [Fuerzas de roce](016_fuerzas_de_roce.md) — mecanica
+- [Movimiento circular](017_movimiento_circular.md) — mecanica
+- [Gravitación universal](018_gravitacion_universal.md) — fisica_general
+- [Órbitas y satélites](019_orbitas_y_satelites.md) — astrofisica_fisica_moderna
+- [Trabajo](020_trabajo.md) — energia
+- [Energía cinética](021_energia_cinetica.md) — energia
+- [Energía potencial](022_energia_potencial.md) — energia
+- [Conservación de energía mecánica](023_conservacion_de_energia_mecanica.md) — energia
+- [Potencia](024_potencia.md) — energia
+- [Impulso](025_impulso.md) — fisica_general
+- [Cantidad de movimiento](026_cantidad_de_movimiento.md) — mecanica
+- [Conservación del momentum](027_conservacion_del_momentum.md) — mecanica
+- [Colisiones](028_colisiones.md) — fisica_general
+- [Electricidad y magnetismo integrados](029_electricidad_y_magnetismo_integrados.md) — electricidad
+- [Diseño y análisis de experimentos](030_diseno_y_analisis_de_experimentos.md) — fisica_general

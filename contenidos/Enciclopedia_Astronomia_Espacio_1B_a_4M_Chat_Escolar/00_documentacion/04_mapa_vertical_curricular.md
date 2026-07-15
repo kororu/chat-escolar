@@ -1,0 +1,316 @@
+# Mapa vertical
+
+## 1° básico
+- El cielo de día
+- El cielo de noche
+- El Sol como estrella cercana
+- La Luna en el cielo
+- Estrellas visibles
+- Cambios entre día y noche
+- Sombras producidas por el Sol
+- El Sol da luz y calor
+- Observar el cielo con seguridad
+- Formas de la Luna observadas
+- Nubes y objetos del cielo
+- La Tierra como nuestro hogar
+- Diferencia entre cielo y espacio
+- Preguntas frecuentes sobre el espacio
+- Registro de observaciones
+
+## 2° básico
+- El Sol, la Tierra y la Luna
+- Sucesión de día y noche
+- Movimiento aparente del Sol
+- La Luna cambia de apariencia
+- Fases lunares iniciales
+- Estrellas y constelaciones iniciales
+- Planetas como mundos
+- Satélites naturales
+- Objetos naturales y artificiales del cielo
+- Cohetes y exploración espacial
+- Astronautas y trabajo en el espacio
+- La Tierra vista desde el espacio
+- Importancia de la atmósfera
+- Contaminación lumínica inicial
+- Calendarios y observación del cielo
+- Preguntas infantiles sobre el universo
+
+## 3° básico
+- Componentes del Sistema Solar
+- El Sol
+- Mercurio
+- Venus
+- La Tierra
+- Marte
+- Júpiter
+- Saturno
+- Urano
+- Neptuno
+- Planetas enanos
+- Lunas del Sistema Solar
+- Asteroides
+- Cometas
+- Meteoroides meteoros y meteoritos
+- Orden y distancias relativas
+- Rotación de la Tierra
+- Traslación de la Tierra
+- Estaciones del año
+- Fases de la Luna
+- Eclipse de Sol
+- Eclipse de Luna
+- Modelos del Sistema Solar
+- Escalas y límites de los modelos
+
+## 4° básico
+- La Tierra como planeta
+- Forma de la Tierra y evidencias
+- Eje terrestre
+- Rotación y husos horarios iniciales
+- Traslación y año
+- Inclinación del eje y estaciones
+- Órbita terrestre
+- Gravedad inicial
+- Masa y peso iniciales
+- La Luna y sus movimientos
+- Fases lunares detalladas
+- Eclipses y alineación
+- Mareas iniciales
+- Constelaciones y orientación
+- Estrellas de distinto brillo
+- Color de las estrellas inicial
+- La Vía Láctea
+- Galaxias iniciales
+- Satélites artificiales
+- Exploración espacial histórica
+
+## 5° básico
+- Formación del Sistema Solar inicial
+- El Sol y sus capas
+- Energía solar
+- Planetas rocosos
+- Planetas gigantes
+- Atmósferas planetarias
+- Superficies planetarias
+- Agua en el Sistema Solar
+- Lunas destacadas
+- Anillos planetarios
+- Cinturón de asteroides
+- Cinturón de Kuiper
+- Nube de Oort inicial
+- Cometas y sus órbitas
+- Meteoritos y cráteres
+- Gravedad y órbitas
+- Velocidad orbital inicial
+- Satélites artificiales
+- Estación Espacial Internacional
+- Sondas espaciales
+- Rovers planetarios
+- Telescopios espaciales
+- Exploración de Marte
+- Protección planetaria inicial
+
+## 6° básico
+- Historia de los modelos del universo
+- Modelo geocéntrico
+- Modelo heliocéntrico
+- Aportes de Copérnico
+- Observaciones de Galileo
+- Leyes de Kepler iniciales
+- Gravitación de Newton inicial
+- Órbitas elípticas
+- Sistema Tierra-Luna
+- Mareas y gravedad
+- Eclipses y geometría
+- Escalas astronómicas
+- Unidad astronómica
+- Año luz
+- Distancia y tiempo de la luz
+- Estrellas y constelaciones
+- Nebulosas
+- Cúmulos estelares
+- Galaxias
+- Vía Láctea
+- Telescopios ópticos
+- Radiotelescopios
+- Astronomía en Chile
+- Cielos del norte de Chile
+
+## 7° básico
+- Estructuras del universo
+- Sistema planetario
+- Estrellas
+- Nebulosas
+- Cúmulos estelares
+- Galaxias
+- Cúmulos de galaxias
+- Supercúmulos
+- Escala del universo observable
+- Nacimiento de estrellas
+- Evolución estelar inicial
+- Gigantes rojas
+- Enanas blancas
+- Supernovas
+- Estrellas de neutrones
+- Agujeros negros iniciales
+- Espectro electromagnético y astronomía
+- Luz visible
+- Ondas de radio
+- Radiación infrarroja
+- Radiación ultravioleta
+- Rayos X y gamma
+- Instrumentos astronómicos
+- Preguntas sobre vida extraterrestre
+
+## 8° básico
+- Gravedad y movimiento orbital
+- Leyes de Kepler
+- Ley de gravitación universal
+- Velocidad de escape
+- Satélites y órbitas
+- Órbita geoestacionaria
+- Microgravedad
+- Mareas
+- Eclipses y planos orbitales
+- Libración lunar inicial
+- Estructura del Sol
+- Fusión nuclear solar inicial
+- Actividad solar
+- Manchas solares
+- Viento solar
+- Auroras
+- Campo magnético terrestre
+- Clima espacial
+- Formación del Sistema Solar
+- Discos protoplanetarios
+- Exoplanetas iniciales
+- Método de tránsito
+- Velocidad radial inicial
+- Zona habitable
+- Búsqueda de biofirmas inicial
+- Basura espacial
+
+## 1° medio
+- Sistema Tierra-Luna
+- Fases lunares y geometría
+- Eclipses solares y lunares
+- Estaciones y órbita terrestre
+- Comparación de planetas
+- Atmósferas planetarias
+- Períodos orbitales
+- Tamaños y densidades planetarias
+- Estructuras cósmicas
+- Micrometeoroides
+- Asteroides y cometas
+- Estrellas
+- Nebulosas
+- Cúmulos estelares
+- Galaxias
+- Cúmulos y supercúmulos
+- Evolución del universo inicial
+- Teoría del Big Bang
+- Expansión del universo
+- Radiación cósmica de fondo inicial
+- Investigación astronómica en Chile
+- Telescopios ópticos
+- Radiotelescopios
+- Espectroscopía astronómica
+- ALMA
+- Observatorios del norte de Chile
+- Aportes de astrónomas y astrónomos chilenos
+- Modelos históricos del cosmos
+
+## 2° medio
+- Mecánica orbital
+- Gravitación universal aplicada
+- Órbitas circulares y elípticas
+- Energía orbital
+- Velocidad de escape
+- Transferencias orbitales iniciales
+- Satélites de comunicaciones
+- Satélites meteorológicos
+- Sistemas de navegación por satélite
+- Teledetección terrestre
+- Cohetes y propulsión inicial
+- Etapas de un lanzamiento
+- Microgravedad y cuerpo humano
+- Vida en estaciones espaciales
+- Radiación espacial
+- Exploración lunar
+- Exploración de Marte
+- Sondas a planetas exteriores
+- Misiones a asteroides y cometas
+- Telescopios espaciales
+- Espectros y composición estelar
+- Diagrama Hertzsprung-Russell inicial
+- Evolución estelar
+- Supernovas
+- Estrellas de neutrones
+- Púlsares
+- Agujeros negros
+- Ondas gravitacionales iniciales
+- Exoplanetas
+- Astrobiología inicial
+
+## 3° medio
+- Relatividad especial conceptual
+- Espacio y tiempo
+- Velocidad de la luz
+- Dilatación temporal
+- Contracción de longitudes
+- Equivalencia masa energía
+- Relatividad general conceptual
+- Curvatura del espacio-tiempo
+- Lentes gravitacionales
+- Agujeros negros y horizonte de sucesos
+- Discos de acreción
+- Radiación de Hawking como hipótesis teórica
+- Ondas gravitacionales
+- Detectores de ondas gravitacionales
+- Cosmología moderna
+- Expansión acelerada
+- Materia oscura
+- Energía oscura
+- Formación de galaxias
+- Estructura a gran escala
+- Big Bang y evidencias
+- Nucleosíntesis primordial inicial
+- Radiación cósmica de fondo
+- Edad del universo
+- Exoplanetas y habitabilidad
+- Biofirmas
+- Ecuación de Drake como modelo
+- Paradoja de Fermi como pregunta
+- Ética de la exploración espacial
+- Proyecto de investigación astronómica
+
+## 4° medio
+- Cosmología observacional
+- Ley de Hubble-Lemaître
+- Corrimiento al rojo
+- Escalera de distancias cósmicas
+- Cefeidas
+- Supernovas tipo Ia
+- Radiación cósmica de fondo
+- Inflación cósmica inicial
+- Materia oscura: evidencias
+- Energía oscura: evidencias
+- Destino posible del universo
+- Agujeros negros estelares
+- Agujeros negros supermasivos
+- Fusión de agujeros negros
+- Información y agujeros negros
+- Galaxias activas y cuásares
+- Formación y evolución de galaxias
+- Medio interestelar
+- Química del universo
+- Origen de elementos químicos
+- Astrobiología avanzada
+- Habitabilidad planetaria
+- Extremófilos y analogías
+- Océanos subterráneos en lunas
+- SETI y tecnofirmas
+- Protección planetaria
+- Derecho y gobernanza espacial
+- Basura espacial y sostenibilidad orbital
+- Minería espacial y ética
+- Proyecto final sobre universo y sociedad

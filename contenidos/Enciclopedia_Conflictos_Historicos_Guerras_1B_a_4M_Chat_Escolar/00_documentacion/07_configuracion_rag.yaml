@@ -1,0 +1,6 @@
+coleccion: conflictos_historicos_guerras
+excluir:
+  - '17_compendios/**/*.md'
+chunking:
+  por_encabezados: true
+  max_caracteres: 1500

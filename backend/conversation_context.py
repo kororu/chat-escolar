@@ -7,6 +7,12 @@ except ImportError:
 
 
 FOLLOW_UP_PHRASES = {
+    "explicame eso",
+    "explicame esto",
+    "no entendi",
+    "no lo entendi",
+    "como funciona",
+    "dime mas",
     "cual fue el mas usado",
     "y el mas grande",
     "y el mas fuerte",
@@ -56,6 +62,12 @@ def reconstruct_follow_up(question: str, topic: str) -> str:
         return f"por que paso eso en {topic}"
     if normalized_question == "como funcionaba":
         return f"como funcionaba {topic}"
+    if normalized_question in {"explicame eso", "explicame esto", "no entendi", "no lo entendi"}:
+        return f"explicame de nuevo {topic}"
+    if normalized_question == "como funciona":
+        return f"como funciona {topic}"
+    if normalized_question == "dime mas":
+        return f"dime mas sobre {topic}"
     if normalized_question == "y despues que ocurrio":
         return f"y despues que ocurrio en {topic}"
     if normalized_question in {"y ese", "y eso", "cual era", "como era"}:

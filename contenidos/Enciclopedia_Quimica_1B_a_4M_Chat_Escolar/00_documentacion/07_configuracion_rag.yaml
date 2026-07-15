@@ -1,0 +1,7 @@
+version: 1
+coleccion: quimica
+excluir:
+  - '17_compendios/**/*.md'
+chunking:
+  max_caracteres: 1500
+  solapamiento: 150

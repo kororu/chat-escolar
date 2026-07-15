@@ -1,0 +1,1467 @@
+[
+  {
+    "path": "00_documentacion/00_indice_maestro.md",
+    "size": 2708,
+    "sha256": "2edecbca42957b33b9e03966563f512ccc1f14cab0dabdd251fb7c20c2f88f56"
+  },
+  {
+    "path": "00_documentacion/00_instalacion.md",
+    "size": 109,
+    "sha256": "52b17dc42724dd578824f6803718deba6cf8213506a9a4a3c539be638db07195"
+  },
+  {
+    "path": "00_documentacion/01_estado_curricular_y_fuentes.md",
+    "size": 470,
+    "sha256": "7b4d7c5202efeecd828f99728c9d55aff8bdd0403566cb39c6235ffab51f274a"
+  },
+  {
+    "path": "00_documentacion/02_arquitectura_de_contenidos.md",
+    "size": 101,
+    "sha256": "65663c85e5ea63aa2db9fa8b2685fac58aef3e5546f177d4288f7fc3432131bc"
+  },
+  {
+    "path": "00_documentacion/03_guia_editorial_etica.md",
+    "size": 144,
+    "sha256": "042476779b5b87eae8e6e293881e84a040b4a4d05292a130430af96d634fd5db"
+  },
+  {
+    "path": "00_documentacion/04_mapa_vertical_curricular.md",
+    "size": 6080,
+    "sha256": "837e18af1d07ada48b6b90ca18d866aa2efac0f5417383d5371975199b68e0ec"
+  },
+  {
+    "path": "00_documentacion/05_integracion_ollama_rag.md",
+    "size": 148,
+    "sha256": "78917e79a8fc1e0413415f0a4dc19bfbf28561daf3d176a79aae6663dd04ff5c"
+  },
+  {
+    "path": "00_documentacion/06_prompt_sistema_ollama.md",
+    "size": 142,
+    "sha256": "ebf7927fa9cb9e1a7dee41972f57339f15ce1ca0a81b742600e2b9dbb605762d"
+  },
+  {
+    "path": "00_documentacion/07_configuracion_rag.yaml",
+    "size": 135,
+    "sha256": "22d579484a878642e6ec6c4446af2697a4058d8754a2dcc50d82e817ba3e6ecb"
+  },
+  {
+    "path": "00_documentacion/08_control_calidad.md",
+    "size": 70,
+    "sha256": "3bb8612f5a145b36ff6fbb6fe1921f892cdce29798089b0552b536530e5a9ce9"
+  },
+  {
+    "path": "00_documentacion/09_pruebas_recuperacion.md",
+    "size": 131,
+    "sha256": "0a37433a6e6c78edebe66646c26fa5d4d7567a47b16b8379a76d4ac05df00ce5"
+  },
+  {
+    "path": "01_primero_basico/001_desacuerdo_conflicto_y_violencia.md",
+    "size": 5463,
+    "sha256": "316b8a75ce4b82b254e395d3a57ea6d420753062d6d64f5ac2b2f71403620cd1"
+  },
+  {
+    "path": "01_primero_basico/002_resolver_problemas_hablando.md",
+    "size": 5435,
+    "sha256": "6e743cce1066dce94c4978828405dfc116166b656495e0387c27fae92340d322"
+  },
+  {
+    "path": "01_primero_basico/003_pedir_ayuda_ante_peligro.md",
+    "size": 5420,
+    "sha256": "279827a63d5937c081725c6e4b17e69af2083887adee763a7302582ca9b64767"
+  },
+  {
+    "path": "01_primero_basico/004_normas_para_evitar_dano.md",
+    "size": 5418,
+    "sha256": "4b655cb9fae076c378854a0f0b7486f33fe7a36616c87921ee1377e30c4a1ecb"
+  },
+  {
+    "path": "01_primero_basico/005_derechos_de_la_ninez_en_situaciones_dificiles.md",
+    "size": 5531,
+    "sha256": "a9c9126180ac7ff41888a255a9b5279bec844231de287a4b90b37185b6a320b0"
+  },
+  {
+    "path": "01_primero_basico/006_la_paz_como_convivencia_justa.md",
+    "size": 5445,
+    "sha256": "bebb8f176e459a11f831950bd36ef2b95fb8b4a1da7442a2f66cf1dc55c8fbd7"
+  },
+  {
+    "path": "01_primero_basico/007_cooperacion_durante_emergencias.md",
+    "size": 5458,
+    "sha256": "c2a90c551a09459a101bf6e776a3f8dc193f520adc03ab20b2f287ea855586b0"
+  },
+  {
+    "path": "01_primero_basico/008_historias_de_cooperacion.md",
+    "size": 5423,
+    "sha256": "f5aacfc93a70f1a0ed59c03abf847eb892991b590b6e0bf3fef8893b0e7c5a10"
+  },
+  {
+    "path": "01_primero_basico/00_indice_curso.md",
+    "size": 614,
+    "sha256": "d0322088fcd284c536557b35cfd6c87a49d536e08ece0909ae28e6760a120e8d"
+  },
+  {
+    "path": "01_primero_basico/01_glosario_curso.md",
+    "size": 228,
+    "sha256": "df970b216fe7ee0e937e3a43ab52fc8342464a18b489a781c4dfc5c16cefee6f"
+  },
+  {
+    "path": "01_primero_basico/02_banco_preguntas.md",
+    "size": 1542,
+    "sha256": "71dd86a443fca8d9daee102160c30d70d35a030238611848dfa1c6adc5fbbf5b"
+  },
+  {
+    "path": "02_segundo_basico/001_causas_simples_de_un_conflicto.md",
+    "size": 5450,
+    "sha256": "ad6e0c1843e025165e58bab81084e1a8debc919d7fdd4814b35efc5e6e2864a3"
+  },
+  {
+    "path": "02_segundo_basico/002_emociones_intensas_y_decisiones_seguras.md",
+    "size": 5495,
+    "sha256": "645faa6ce190708c4349ef72fc1fd20ce3f23ec7ad795708880d94490c8fe485"
+  },
+  {
+    "path": "02_segundo_basico/003_negociar_turnos_y_recursos.md",
+    "size": 5430,
+    "sha256": "de40bd8c1ae935db41f6b4df4fa2da710c3b24e33246c6297a8fe9657d24543a"
+  },
+  {
+    "path": "02_segundo_basico/004_mediacion_escolar.md",
+    "size": 5388,
+    "sha256": "da288e601e5f2dece9e4647c689f0a5235274e1407279084415cccafa42f6b3e"
+  },
+  {
+    "path": "02_segundo_basico/005_derechos_de_la_ninez_en_emergencias.md",
+    "size": 5478,
+    "sha256": "00214da22a377709a2258e4b72538ac8315c27e32443babffa1b809413d8518a"
+  },
+  {
+    "path": "02_segundo_basico/006_rumores_que_aumentan_conflictos.md",
+    "size": 5455,
+    "sha256": "5d6cc50327f69156f1052b7679671f2383ab76cf25705f6f26950f849bb3cd7d"
+  },
+  {
+    "path": "02_segundo_basico/007_simbolos_de_paz.md",
+    "size": 5378,
+    "sha256": "c245014562d737ea25b1e16f2b96b72f05f8ed2095a9373fc06fd3848d562f38"
+  },
+  {
+    "path": "02_segundo_basico/008_cooperacion_entre_comunidades.md",
+    "size": 5448,
+    "sha256": "85a98cf6075c74bc825c1abbb9c92f2261859f56c253c179e84008125147a89f"
+  },
+  {
+    "path": "02_segundo_basico/009_reglas_justas_y_reparacion.md",
+    "size": 5433,
+    "sha256": "158365542e1d688f82de3fd993a7b3824d9235f6a23e114b5d9cfc20302cd8c3"
+  },
+  {
+    "path": "02_segundo_basico/00_indice_curso.md",
+    "size": 742,
+    "sha256": "a4ca2f93ef2573db779f9a6fc11ff413bce642ad1eacba3f458d981c2f027dc1"
+  },
+  {
+    "path": "02_segundo_basico/010_como_hablar_de_una_guerra_sin_asustar.md",
+    "size": 5488,
+    "sha256": "8bbe2660a91e4b611b5033609b86745e5d4ff9021a2d95e11e9136b916fabdac"
+  },
+  {
+    "path": "02_segundo_basico/01_glosario_curso.md",
+    "size": 228,
+    "sha256": "33241c66e92d2b117ca80037bf54e5b80e641b0ef40e94dc66f2534df38b23bd"
+  },
+  {
+    "path": "02_segundo_basico/02_banco_preguntas.md",
+    "size": 1908,
+    "sha256": "a7eacfb9bc9ba3e69a2dbd28b69397c51084d16ac08860b5d2fc6f4d7b205ada"
+  },
+  {
+    "path": "03_tercero_basico/001_conflictos_en_grecia_antigua.md",
+    "size": 5440,
+    "sha256": "707715b5f69be5bb6392f95335a2f76e119f3dfa459ba583dac92fc61daa0e78"
+  },
+  {
+    "path": "03_tercero_basico/002_guerras_medicas.md",
+    "size": 5378,
+    "sha256": "18535bf1661e9e9832ee1b0325375578487bd90a794bab5d62a853079807b3a6"
+  },
+  {
+    "path": "03_tercero_basico/003_guerra_del_peloponeso.md",
+    "size": 5405,
+    "sha256": "dc5a58ce1e080837a1210312794791ed1a3ae639c54567b4b12a253aaba4478d"
+  },
+  {
+    "path": "03_tercero_basico/004_roma_expansion_y_conflictos.md",
+    "size": 5441,
+    "sha256": "252776a2e38c6a81b8227a9da7d210a2747f8cf3e86fe267d5c91ddfb14a7bcf"
+  },
+  {
+    "path": "03_tercero_basico/005_conquista_y_resistencia.md",
+    "size": 5415,
+    "sha256": "e1079bf25ae4e975a42401de91b6373c9da032e00b8c546be85aeff90e01c104"
+  },
+  {
+    "path": "03_tercero_basico/006_esclavitud_y_dignidad.md",
+    "size": 5405,
+    "sha256": "51ce1386fd98155a39298fa7e70a0fa48179185423fbc6056a117956b13bc380"
+  },
+  {
+    "path": "03_tercero_basico/007_fuentes_sobre_batallas.md",
+    "size": 5410,
+    "sha256": "c89a424580e7e1b362e23c36c09052a1caee36c7e91b3529b03a96e9b9b6bf38"
+  },
+  {
+    "path": "03_tercero_basico/008_heroes_mitos_y_propaganda.md",
+    "size": 5431,
+    "sha256": "b14dc0eea65f3555b482a758e159b00be699c60ea8a487cb6d0cb6b4cb4dabe3"
+  },
+  {
+    "path": "03_tercero_basico/009_tratados_en_el_mundo_antiguo.md",
+    "size": 5440,
+    "sha256": "baeab7f4ee28b277ff89ffd63c15168fa1963c7c0458b99aeefab1a162789ad6"
+  },
+  {
+    "path": "03_tercero_basico/00_indice_curso.md",
+    "size": 754,
+    "sha256": "e628c2af6dadf33d058aaca205f9d4dc4dac1773c9b82db41401e419c04f00e8"
+  },
+  {
+    "path": "03_tercero_basico/010_ninez_en_tiempos_de_conflicto.md",
+    "size": 5448,
+    "sha256": "f3aa30d51ce8eb075f86130b99e935ad7141c91cacabc2c207051c212f2acae3"
+  },
+  {
+    "path": "03_tercero_basico/011_mapas_de_conflicto.md",
+    "size": 5390,
+    "sha256": "ef11f15ba8a230036cb513c2e495d37629347890fcf7031614ec83514f718503"
+  },
+  {
+    "path": "03_tercero_basico/012_reglas_comunes_y_paz.md",
+    "size": 5400,
+    "sha256": "b0f89aaba08c1a6aab2fcb3a7fb971beda5e70095e7a9baf9d7f2de3b3cfd076"
+  },
+  {
+    "path": "03_tercero_basico/01_glosario_curso.md",
+    "size": 228,
+    "sha256": "f60f2730b44b83e2e5fb318f7dc6a92f586d9d8591a1421dd3b2f6f812d2b512"
+  },
+  {
+    "path": "03_tercero_basico/02_banco_preguntas.md",
+    "size": 2216,
+    "sha256": "50416ffa96d58564bef055f00172668e5c5ea6f9aebd4417ea5d533d03455ab5"
+  },
+  {
+    "path": "04_cuarto_basico/001_conflictos_entre_mayas_mexicas_e_incas.md",
+    "size": 5493,
+    "sha256": "3da77c24ef04a076ef3c3ed283bc4c92e9a71a77e34e02202255a3a7197a729d"
+  },
+  {
+    "path": "04_cuarto_basico/002_guerras_y_alianzas_mesoamericanas.md",
+    "size": 5465,
+    "sha256": "ffae0992aaa50c62db3ace7dfe4536bf6437cc630d7ca8a0ea02439f0cce1a33"
+  },
+  {
+    "path": "04_cuarto_basico/003_expansion_inca_y_resistencia.md",
+    "size": 5443,
+    "sha256": "922adaf13ff1888c7c5ec7416a77076ddea9e52254583b9090a3a9b4da445507"
+  },
+  {
+    "path": "04_cuarto_basico/004_llegada_europea_y_conflicto.md",
+    "size": 5435,
+    "sha256": "b9477cbfd0f9779ab4bdc4c6ee2ddaf121824bc29ef416deedb8fea25b76294e"
+  },
+  {
+    "path": "04_cuarto_basico/005_epidemias_y_poblacion.md",
+    "size": 5408,
+    "sha256": "3e8af3bd885568ef77f1393dfda8a35a83d5203820cdbb4632530e019d73c1c3"
+  },
+  {
+    "path": "04_cuarto_basico/006_fuentes_indigenas_y_europeas.md",
+    "size": 5443,
+    "sha256": "353bfeac5a3b96b1767393547d6ef17bd0acfe440794ee670f0b74107ca557b4"
+  },
+  {
+    "path": "04_cuarto_basico/007_tributo_y_desigualdad.md",
+    "size": 5405,
+    "sha256": "6c8a9f3ccaef5889a9819452e92743e5b1e3223ca1bfdcce40b60e501e6c57d4"
+  },
+  {
+    "path": "04_cuarto_basico/008_acuerdos_y_parlamentos.md",
+    "size": 5410,
+    "sha256": "947b5221032cdfc81978a2cbfc1bdf32e8580637579f3f978e241684584aca0d"
+  },
+  {
+    "path": "04_cuarto_basico/009_derechos_de_la_ninez_en_conflictos.md",
+    "size": 5473,
+    "sha256": "cbc1df00ad063202f71a98831f03fce8a348305347109bd0fddee5b759d8cec9"
+  },
+  {
+    "path": "04_cuarto_basico/00_indice_curso.md",
+    "size": 943,
+    "sha256": "add4063fe87653c0361783932922aac41e7a4b0fcd1e56a4b38bfd1b7181cf9a"
+  },
+  {
+    "path": "04_cuarto_basico/010_justicia_y_reparacion.md",
+    "size": 5408,
+    "sha256": "9bb9a462f4c3113ac36cfddb2bc173a70741106a1523f03a00c1838146a5feee"
+  },
+  {
+    "path": "04_cuarto_basico/011_relatos_de_victoria.md",
+    "size": 5395,
+    "sha256": "2f392f521abaf9bb983fd0dfde7550d15f1996cc7f2cb1d2ce60b7eb62672a05"
+  },
+  {
+    "path": "04_cuarto_basico/012_patrimonio_en_conflicto.md",
+    "size": 5415,
+    "sha256": "b60eeea6700bf8c99097a82465feca579aa0c72a1d077dfd0654038c324e15c3"
+  },
+  {
+    "path": "04_cuarto_basico/013_ciberacoso_y_conflicto.md",
+    "size": 5409,
+    "sha256": "deac1be56432f200f5fbda56a94ba64765cdfa1c086b82b4106b6f7e6669df21"
+  },
+  {
+    "path": "04_cuarto_basico/014_mediacion_reparadora.md",
+    "size": 5403,
+    "sha256": "ee795ebd58edc0dacd2aa3e576c85a4a6a0a5f08e6cfbee923aa10ed2cc7f978"
+  },
+  {
+    "path": "04_cuarto_basico/01_glosario_curso.md",
+    "size": 228,
+    "sha256": "5f74a4ab96b74b9c91dd24ab3c8f16ca080660f2a30f8e1abb0176f1bed22939"
+  },
+  {
+    "path": "04_cuarto_basico/02_banco_preguntas.md",
+    "size": 2613,
+    "sha256": "2aba5c8cb945de401dc3b5b1b22abe60ad050f6a504cd7f0ea3d1789d9063cf6"
+  },
+  {
+    "path": "05_quinto_basico/001_conquista_de_america.md",
+    "size": 5406,
+    "sha256": "42ac1d362f025b378a3496040b1d04ab61c168a7167016f6c9616f25fc937f8e"
+  },
+  {
+    "path": "05_quinto_basico/002_conquista_de_chile.md",
+    "size": 5393,
+    "sha256": "b36badae62ff614fea15b8c67a166f138ad37904b9930d23e2b21d43b30aac24"
+  },
+  {
+    "path": "05_quinto_basico/003_guerra_de_arauco.md",
+    "size": 5383,
+    "sha256": "8eed7fd0465e79512bebba866ea4d24c903a3b790254011fd0510e51f316dd4d"
+  },
+  {
+    "path": "05_quinto_basico/004_relaciones_hispano_mapuches.md",
+    "size": 5438,
+    "sha256": "6b03662aa5ddb11f3998bb2d2e0d7889d97c3bb80608d316b30a25534d2935e1"
+  },
+  {
+    "path": "05_quinto_basico/005_parlamentos_y_diplomacia.md",
+    "size": 5423,
+    "sha256": "e5eb5c27c1d14aef52eb8cca7e4e1a904fee86e88786566b00a29898a0156a3a"
+  },
+  {
+    "path": "05_quinto_basico/006_efectos_de_la_conquista.md",
+    "size": 5418,
+    "sha256": "979fbe66634c9a9a6f5c5204c26824aa1a426eebdf2d0f32e396abd7ef6bde41"
+  },
+  {
+    "path": "05_quinto_basico/007_encomienda_y_violencia.md",
+    "size": 5413,
+    "sha256": "aa1259205df3f2c4dcf978050e321a7880e696ce8cd03e0641184edfa5a2e4dd"
+  },
+  {
+    "path": "05_quinto_basico/008_resistencias_indigenas.md",
+    "size": 5416,
+    "sha256": "a9c588d4e0003d0c7a93d19be93b508804f546b17d12296312a1bc3a905d7945"
+  },
+  {
+    "path": "05_quinto_basico/009_pirateria_y_guerra_imperial.md",
+    "size": 5441,
+    "sha256": "90fbf686724897e131077b4625b40eb23f12f3d6d34a534d23872f9c7a8d82b6"
+  },
+  {
+    "path": "05_quinto_basico/00_indice_curso.md",
+    "size": 1008,
+    "sha256": "3ac9ea9216041684dccc13e015b817ff50dba311336654339fed736693dbc47a"
+  },
+  {
+    "path": "05_quinto_basico/010_vida_cotidiana_colonial_en_conflicto.md",
+    "size": 5483,
+    "sha256": "03c115ef1f0f3c681937c0bddc420ad7d396163a4bdcabce9da57e6f1caf09c4"
+  },
+  {
+    "path": "05_quinto_basico/011_mujeres_en_conquista_y_frontera.md",
+    "size": 5458,
+    "sha256": "5d2e5e831efe4d409c26d504c40f0f4832a755c0f8f4ed62919dc9dd069a6f02"
+  },
+  {
+    "path": "05_quinto_basico/012_ninez_colonial.md",
+    "size": 5376,
+    "sha256": "7e16367693a90020b55ad654863dd4e376c66368cee827b36a66a74810f3a5ef"
+  },
+  {
+    "path": "05_quinto_basico/013_comparar_versiones.md",
+    "size": 5393,
+    "sha256": "21ae19ecbcb2b614ef98cb1f8a5d4a77698564869cf455d6c736dbc759541ded"
+  },
+  {
+    "path": "05_quinto_basico/014_no_glorificar_conquistadores.md",
+    "size": 5443,
+    "sha256": "9ebcd25b1315ec2a1045bb22c1e8ecf25f1223c95dc564f9700df1bcfbb124d8"
+  },
+  {
+    "path": "05_quinto_basico/015_derechos_humanos_como_criterio.md",
+    "size": 5453,
+    "sha256": "ac561959a7ff37000c2cd834ea3596b0ce2b1624567037bd5a65c858271ff6fa"
+  },
+  {
+    "path": "05_quinto_basico/016_acuerdos_comunitarios.md",
+    "size": 5408,
+    "sha256": "e9108b7e2e288de1267fb3a18acbdffeffceaf377962be0e08472aa3726b66d3"
+  },
+  {
+    "path": "05_quinto_basico/01_glosario_curso.md",
+    "size": 228,
+    "sha256": "a7bbd88db6b05e643811260a478ed68588bfa2d53c2a4a52887d5c693710dfb4"
+  },
+  {
+    "path": "05_quinto_basico/02_banco_preguntas.md",
+    "size": 2946,
+    "sha256": "49e24adb4a6a52810d4bea08f1d434c4a6f06af51151d6082990d247488a2a11"
+  },
+  {
+    "path": "06_sexto_basico/001_independencia_de_chile.md",
+    "size": 5413,
+    "sha256": "ea1174956155371f45ab40cd75c4f5758bb4a76c65e27a319bb19d1037b64271"
+  },
+  {
+    "path": "06_sexto_basico/002_patria_vieja_reconquista_y_patria_nueva.md",
+    "size": 5501,
+    "sha256": "bc94115bdc467fd904876c11d72b9577d7f462ef0b0c37248c56218672de686b"
+  },
+  {
+    "path": "06_sexto_basico/003_poblacion_civil_en_la_independencia.md",
+    "size": 5481,
+    "sha256": "35300bc053957d172b8a3858b48e63c053b17170c57304cc4f0b2e21dd5da322"
+  },
+  {
+    "path": "06_sexto_basico/004_actores_populares_indigenas_y_afrodescendientes.md",
+    "size": 5544,
+    "sha256": "e3290b3d683f1e133e535e4568d04f570ac3a23da81809e43edaa25afbbd7375"
+  },
+  {
+    "path": "06_sexto_basico/005_mujeres_en_la_independencia.md",
+    "size": 5438,
+    "sha256": "a3109f7df347fb14ef5d4034c7d3b90a5208abaf51062f136b44292b77304b56"
+  },
+  {
+    "path": "06_sexto_basico/006_guerra_civil_de_1829.md",
+    "size": 5403,
+    "sha256": "4884dd9a5e3b55568cba75fe816b2ca1dda8d3b77384bd303dee88ba877d5999"
+  },
+  {
+    "path": "06_sexto_basico/007_guerra_contra_la_confederacion.md",
+    "size": 5456,
+    "sha256": "a0bbfe3a92975e6be1714fe4f85000fdd8d4e4176cdff47cd7c5340785aa2c45"
+  },
+  {
+    "path": "06_sexto_basico/008_revoluciones_de_1851_y_1859.md",
+    "size": 5438,
+    "sha256": "214d6819b46aa2d204cb54883936179feb7cf36859fa2cd3c16c06266625915e"
+  },
+  {
+    "path": "06_sexto_basico/009_guerra_del_pacifico_introduccion.md",
+    "size": 5472,
+    "sha256": "b2cecc57b3a15d03e49658ef69c0a31a9551e7688f3a8554825840493f075b53"
+  },
+  {
+    "path": "06_sexto_basico/00_indice_curso.md",
+    "size": 1334,
+    "sha256": "a5bc296d165f2b313889b598a2d466cc14ac5887db0be44ef5dc3a23084ac698"
+  },
+  {
+    "path": "06_sexto_basico/010_causas_de_la_guerra_del_pacifico.md",
+    "size": 5466,
+    "sha256": "d739305808e61c226b0431bd5738fb9ebc74dd04a355ac0732c84d5286b19d2f"
+  },
+  {
+    "path": "06_sexto_basico/011_consecuencias_humanas_y_territoriales.md",
+    "size": 5488,
+    "sha256": "f7d2ca6b2de83ef8e4592cc8b7455ce394641f26fc09376279e5e9cefff36014"
+  },
+  {
+    "path": "06_sexto_basico/012_mujeres_y_civiles_en_la_guerra_del_pacifico.md",
+    "size": 5521,
+    "sha256": "c964be1d2354ac9c6c3d4cb62d062473f2bb2fc9a9dc475d1d5866988bb40e54"
+  },
+  {
+    "path": "06_sexto_basico/013_ocupacion_de_la_araucania.md",
+    "size": 5434,
+    "sha256": "562d249254cd3f460985a30d71680edb2ae77cef249645bb2a3f92629580d7af"
+  },
+  {
+    "path": "06_sexto_basico/014_resistencia_mapuche.md",
+    "size": 5398,
+    "sha256": "a8c72abb44201c212d24d084c9e9efa5aae4472125229c71d5a690ba077862a9"
+  },
+  {
+    "path": "06_sexto_basico/015_incorporacion_de_rapa_nui.md",
+    "size": 5431,
+    "sha256": "9454e2e5e49c26e62b8549e350398cab6d117d3bdc560de6be3bc3850af2514e"
+  },
+  {
+    "path": "06_sexto_basico/016_tratados_de_fronteras.md",
+    "size": 5408,
+    "sha256": "af93a16c3a1c1f282bbe66094df80a85166bafd6ebb953b89fc0ba7a4a4dfcf8"
+  },
+  {
+    "path": "06_sexto_basico/017_memoria_y_monumentos.md",
+    "size": 5403,
+    "sha256": "d315ae49e944648a9fa3303cf6e58295d01e8eb130788b1b6e36d80663454160"
+  },
+  {
+    "path": "06_sexto_basico/018_nacionalismo_critico.md",
+    "size": 5406,
+    "sha256": "8ca92cbe8b8e852be0bb0c8d0f97c74d8c2cfce62c70087c6acbd673eb4b0e7c"
+  },
+  {
+    "path": "06_sexto_basico/01_glosario_curso.md",
+    "size": 228,
+    "sha256": "f27d1440327a08a6f6e88daa1a82f443788f8cf3d771c664d3c09d484308128a"
+  },
+  {
+    "path": "06_sexto_basico/02_banco_preguntas.md",
+    "size": 3416,
+    "sha256": "b57fa30302f602b4d3ac02bacee9f4b3cf81fec525c85dd18c855e5fb22145fe"
+  },
+  {
+    "path": "07_septimo_basico/001_guerras_en_primeras_civilizaciones.md",
+    "size": 5473,
+    "sha256": "4b4b8598e219526244d909d534c4d29fa729ab7cf1a0d6d87d4c77647cf4bc5c"
+  },
+  {
+    "path": "07_septimo_basico/002_imperios_conquista_y_tributo.md",
+    "size": 5446,
+    "sha256": "0ac4baf6322ad984dc5e7de1a98d3fe298efa93d22b760e01ee4c7fb98cb0e77"
+  },
+  {
+    "path": "07_septimo_basico/003_guerras_medicas.md",
+    "size": 5381,
+    "sha256": "0df22dc874df5beef634edeef2d511d9e8eae0d0f1dbba945fdaf52622a13323"
+  },
+  {
+    "path": "07_septimo_basico/004_guerra_del_peloponeso.md",
+    "size": 5408,
+    "sha256": "6a6e6029fd010221446daa0bb51e38dedb809b2749628baf3aa70f1e50045a88"
+  },
+  {
+    "path": "07_septimo_basico/005_alejandro_magno.md",
+    "size": 5378,
+    "sha256": "09d5bda06d175c854b6ca08e4c4795046a54eaba32cf7e36d575963bd927f40c"
+  },
+  {
+    "path": "07_septimo_basico/006_guerras_punicas.md",
+    "size": 5381,
+    "sha256": "e6cd1e1a94f57ec6ce38a3783bd941383a13fa038bf1fa591e2da0baeb4720b5"
+  },
+  {
+    "path": "07_septimo_basico/007_conquista_romana_y_resistencias.md",
+    "size": 5458,
+    "sha256": "c63f497836747ff05252532cc163449ca65aa06a5ea5c3e12811435d7c084348"
+  },
+  {
+    "path": "07_septimo_basico/008_caida_de_roma.md",
+    "size": 5371,
+    "sha256": "0cf6e86eb35c0c9dc944eda276e022a334ce8e1be63579f6609fbb3e87dfb65a"
+  },
+  {
+    "path": "07_septimo_basico/009_expansion_islamica.md",
+    "size": 5399,
+    "sha256": "921cccc518b57100af606e517ce21eb431eace9d532db4e2cfb1d15593e43e1c"
+  },
+  {
+    "path": "07_septimo_basico/00_indice_curso.md",
+    "size": 986,
+    "sha256": "f7e8025e6f8a0df00e4ea972c99aaa1d178514b7a45d7c2c2814be2228106a5f"
+  },
+  {
+    "path": "07_septimo_basico/010_cruzadas.md",
+    "size": 5343,
+    "sha256": "0ddd68b6e1fbe147f70e97e6145030d9a924d3ef81d2d92051e9bab95e18914f"
+  },
+  {
+    "path": "07_septimo_basico/011_guerra_de_los_cien_anos.md",
+    "size": 5421,
+    "sha256": "f1ab8ee08e55c292c7b84ab011da571243be9b7a1f940d41d69313333b9f6338"
+  },
+  {
+    "path": "07_septimo_basico/012_conflictos_campesinos_medievales.md",
+    "size": 5463,
+    "sha256": "a37f0aae861fbede8c33b8574b6c3ec0830a431aff47ae4d48b340099c4d073c"
+  },
+  {
+    "path": "07_septimo_basico/013_tecnologia_militar_y_cambio_social.md",
+    "size": 5476,
+    "sha256": "96a5a3797823d2e9987b65774a7c8e07f43288988d68ba34cd5062b656c0dbfa"
+  },
+  {
+    "path": "07_septimo_basico/014_civiles_en_guerra_premoderna.md",
+    "size": 5443,
+    "sha256": "216398072231de2e6a5cbad07ba9674b1bdaf8ec40f0458042bfc1029fb93da4"
+  },
+  {
+    "path": "07_septimo_basico/015_fuentes_antiguas_y_medievales.md",
+    "size": 5448,
+    "sha256": "dccffc75a6e389fe079e00f25534c4328bed40ad1aab4cacfe9423c7fa8a82a5"
+  },
+  {
+    "path": "07_septimo_basico/016_treguas_y_diplomacia.md",
+    "size": 5403,
+    "sha256": "b3f7812d3d0e598031506a776f7ab94216d2291e52153a9e623e4ab292286df8"
+  },
+  {
+    "path": "07_septimo_basico/01_glosario_curso.md",
+    "size": 228,
+    "sha256": "1da5b04d6f4595a124458a8064129e7d18d293bac1293a89d4e28fee6c2e47ab"
+  },
+  {
+    "path": "07_septimo_basico/02_banco_preguntas.md",
+    "size": 2937,
+    "sha256": "40ad23b48d8969813f37d8cf32ffde9ae1ed34d497c4a70945419d4bebc9966f"
+  },
+  {
+    "path": "08_octavo_basico/001_guerras_de_religion.md",
+    "size": 5401,
+    "sha256": "27eebb7c8d292c84065eab25d8756ae46c55028a2b9ce05542ffcce572c690f7"
+  },
+  {
+    "path": "08_octavo_basico/002_guerra_de_los_treinta_anos.md",
+    "size": 5436,
+    "sha256": "a37d04885747a789ba513012f9262eebd6ef2ad6c7cab9691d8738b0f37d7ee4"
+  },
+  {
+    "path": "08_octavo_basico/003_paz_de_westfalia.md",
+    "size": 5383,
+    "sha256": "8b412a4ec677eecc0ae5b8dddcb0e96936d186f339bcf6ee11741a174860c7a4"
+  },
+  {
+    "path": "08_octavo_basico/004_conquista_europea_de_america.md",
+    "size": 5446,
+    "sha256": "3ee22d508c5931c9e739a67ad244657044e7822215031d3ec4d12ca46f8b6128"
+  },
+  {
+    "path": "08_octavo_basico/005_resistencias_indigenas_y_cimarronaje.md",
+    "size": 5486,
+    "sha256": "4781ddfa11dfad4ecfc9ff9326376bffb947aef13de40334ce20755a7e0ce496"
+  },
+  {
+    "path": "08_octavo_basico/006_trata_atlantica_y_violencia.md",
+    "size": 5441,
+    "sha256": "fdfb0ff3949be2f9232b8a5da64c58954d02b4e521cad7b39a2287179846a96b"
+  },
+  {
+    "path": "08_octavo_basico/007_guerra_civil_inglesa.md",
+    "size": 5403,
+    "sha256": "1575b39e105970f0a2cef8f8b1b715b27d53ee14955c75e4ffdce2e77492359c"
+  },
+  {
+    "path": "08_octavo_basico/008_independencia_de_estados_unidos.md",
+    "size": 5458,
+    "sha256": "638235a36bfa41c12b035713b573a550fc85cbf1e5a20318a12669cd8b85a4f7"
+  },
+  {
+    "path": "08_octavo_basico/009_revolucion_francesa_y_violencia.md",
+    "size": 5461,
+    "sha256": "6a65bd94113366cba7743850a176f671b94930b18ff69a43d07a5ddbe78e88f5"
+  },
+  {
+    "path": "08_octavo_basico/00_indice_curso.md",
+    "size": 1090,
+    "sha256": "1e6b3c62c75e89da7347adbc627fff986b43cf8317cb22de4c21e3be618fd078"
+  },
+  {
+    "path": "08_octavo_basico/010_guerras_napoleonicas.md",
+    "size": 5406,
+    "sha256": "89dd1013ead594225657d671468a9a91de27c593f80a602822f0925f6a84abae"
+  },
+  {
+    "path": "08_octavo_basico/011_revolucion_haitiana.md",
+    "size": 5401,
+    "sha256": "746eb26979160521ad85205576e507ac7bc7273d1ca046e3930b236aa830f10f"
+  },
+  {
+    "path": "08_octavo_basico/012_independencias_latinoamericanas.md",
+    "size": 5458,
+    "sha256": "11b607e56b1ebdcefc69b6653c8dc873a36891d7b51429b6cfc49b4dfe233764"
+  },
+  {
+    "path": "08_octavo_basico/013_imperialismo_y_violencia_colonial.md",
+    "size": 5468,
+    "sha256": "f1b3b60afea76bdc747a17bb99e726726745610d32a3c25eb4380daa34606d8d"
+  },
+  {
+    "path": "08_octavo_basico/014_resistencias_anticoloniales.md",
+    "size": 5438,
+    "sha256": "42bf69fe9ae2d4ace5de7656f11bc1670cc3306038ed8d44eabcf627bc913883"
+  },
+  {
+    "path": "08_octavo_basico/015_propaganda_y_nacionalismo.md",
+    "size": 5428,
+    "sha256": "a556502938399d2df32fa8b9363f144e4fddf877e64af4c2d9e96e5ad37c80c8"
+  },
+  {
+    "path": "08_octavo_basico/016_derecho_humanitario_inicial.md",
+    "size": 5438,
+    "sha256": "4b515205109b9b42c32c2198f088047f0e2148b7f890ebbe152d2725112c6173"
+  },
+  {
+    "path": "08_octavo_basico/01_glosario_curso.md",
+    "size": 228,
+    "sha256": "b1f834bf47fb0f629e3d05c1f5e5038b6b90abc12d555a8b833f719a6a8db13a"
+  },
+  {
+    "path": "08_octavo_basico/02_banco_preguntas.md",
+    "size": 2989,
+    "sha256": "4bf86e18b6ad1d9c51e604acd8768145a39c5bb1bef1b669ffb79079958a64c4"
+  },
+  {
+    "path": "09_primero_medio/001_guerra_del_pacifico_contexto.md",
+    "size": 5443,
+    "sha256": "45bfe9ac2a8be3294ecc3dc36cbf18abc8ff4a65d19169df31c7c2b1bfefaf15"
+  },
+  {
+    "path": "09_primero_medio/002_disputas_fronterizas_y_salitre.md",
+    "size": 5447,
+    "sha256": "16c0297caa52faa0cd774fb74d5e8d47bc233304aeb40ba7dceaa2a30d33a75e"
+  },
+  {
+    "path": "09_primero_medio/003_campana_maritima.md",
+    "size": 5383,
+    "sha256": "1cae24dac55f135217337813a9f2f7db396b5bf26920544267ca15c547b81786"
+  },
+  {
+    "path": "09_primero_medio/004_campanas_terrestres.md",
+    "size": 5395,
+    "sha256": "b83c27bbead363a9647b399e0a3f5013e6ebd712c986fbd39c1126977a0dca15"
+  },
+  {
+    "path": "09_primero_medio/005_poblacion_civil_y_ocupacion.md",
+    "size": 5438,
+    "sha256": "6c610fd7c545569b1fa7e44d9f09cb9c11217f2cda118a054c55c5b842c75a71"
+  },
+  {
+    "path": "09_primero_medio/006_mujeres_en_la_guerra_del_pacifico.md",
+    "size": 5465,
+    "sha256": "1c73712f25e296c476c3a2c40bbde5406206b8f38e383eac92791412957ce9c3"
+  },
+  {
+    "path": "09_primero_medio/007_perspectivas_de_peru_y_bolivia.md",
+    "size": 5450,
+    "sha256": "35f1699ba1a2065b72738b10a084414a3520079e21b789493b4d08b96a5609d6"
+  },
+  {
+    "path": "09_primero_medio/008_tratados_de_ancon_y_1904.md",
+    "size": 5420,
+    "sha256": "808e4147bbb100a15e16c6fcfe92682722e4789d8486a23c70a68e6e7f4d4013"
+  },
+  {
+    "path": "09_primero_medio/009_consecuencias_economicas_y_territoriales.md",
+    "size": 5500,
+    "sha256": "7f077feeb472159adaac6cd66924f139880c23135fda369d2f28894d72992c17"
+  },
+  {
+    "path": "09_primero_medio/00_indice_curso.md",
+    "size": 1495,
+    "sha256": "134722390b7f50a688c3ffa92b299215f728eedc2781dea9e87f2d0f7ac71fab"
+  },
+  {
+    "path": "09_primero_medio/010_memoria_y_relaciones_vecinales.md",
+    "size": 5447,
+    "sha256": "c51540dcf4fe5dec5d87f526736ecabdb632758709f27474d80020b7a94dfdd6"
+  },
+  {
+    "path": "09_primero_medio/011_primera_guerra_mundial_causas.md",
+    "size": 5445,
+    "sha256": "84141c9be8b0daeeb3dc4e946358083e513bd239173f7dd39dfc0a1db8d81cbd"
+  },
+  {
+    "path": "09_primero_medio/012_crisis_de_julio_y_sarajevo.md",
+    "size": 5427,
+    "sha256": "350b94735a56124d375626b086e650b22594d80f856fdf5b14687f7300cdddbd"
+  },
+  {
+    "path": "09_primero_medio/013_guerra_de_trincheras.md",
+    "size": 5397,
+    "sha256": "c25ec364ab8769f2ffcd29e6b516fbcb0a5d5595bc3efd6a978c178193fcbe49"
+  },
+  {
+    "path": "09_primero_medio/014_frentes_no_europeos.md",
+    "size": 5392,
+    "sha256": "9a15a2a8c246b68db7dc82f21618b8814f23dadbdb7263f397bb3b8367ee53c2"
+  },
+  {
+    "path": "09_primero_medio/015_civiles_hambre_y_desplazamiento.md",
+    "size": 5455,
+    "sha256": "db57e3325aea31a6679b28ccb0ed455eacefe248fa030b7a1f9de470bbd3c584"
+  },
+  {
+    "path": "09_primero_medio/016_mujeres_y_trabajo.md",
+    "size": 5382,
+    "sha256": "74ca18a4f3a39c5a6c7af1508f280a78fd5e9da7b0b3fcdfa7c5d1292a03ffa5"
+  },
+  {
+    "path": "09_primero_medio/017_tecnologia_y_guerra_industrial.md",
+    "size": 5450,
+    "sha256": "59ef22604fbd4e5f3beaec6204112be4c05bb7710610f3382c5c1fe9f624352b"
+  },
+  {
+    "path": "09_primero_medio/018_propaganda_y_censura.md",
+    "size": 5397,
+    "sha256": "8332075665f25f4ff07fbe8eebd85845d9dd7315e6b9912c051779630bc94fa1"
+  },
+  {
+    "path": "09_primero_medio/019_armisticio_y_versalles.md",
+    "size": 5407,
+    "sha256": "557fefc2c1aa0bb8159d839dc7e7d1ad452a22621f9e8a6d6d99232abe911447"
+  },
+  {
+    "path": "09_primero_medio/01_glosario_curso.md",
+    "size": 226,
+    "sha256": "73e977a6a13c5a9f06170138820590e40983ab38d5e239d3cd72926e322910fd"
+  },
+  {
+    "path": "09_primero_medio/020_consecuencias_geopoliticas.md",
+    "size": 5430,
+    "sha256": "292dccb41f6de24bb6c11e878046fad47403bd517e7e3f045b03e31c462d46ed"
+  },
+  {
+    "path": "09_primero_medio/021_chile_y_la_primera_guerra_mundial.md",
+    "size": 5462,
+    "sha256": "69ab7468041d4a910514839efe1dc30d7e0b08f32afe2063160066f29e6f725b"
+  },
+  {
+    "path": "09_primero_medio/022_sociedad_de_las_naciones.md",
+    "size": 5417,
+    "sha256": "281772af3bf230c3a903117440e8cf9092dbf850d66916253c38f49f0fbe3f9e"
+  },
+  {
+    "path": "09_primero_medio/02_banco_preguntas.md",
+    "size": 4100,
+    "sha256": "13036b192c1d4a45cc2da932faffe436e09c86005cd56607010a821c69cec0f2"
+  },
+  {
+    "path": "10_segundo_medio/001_crisis_de_entreguerras.md",
+    "size": 5407,
+    "sha256": "48d2713fc3bc94ab17ec46521a618a78624216d44d18b7c6ed8efa6cee53c88c"
+  },
+  {
+    "path": "10_segundo_medio/002_fascismo_nazismo_y_militarizacion.md",
+    "size": 5468,
+    "sha256": "191da137225c0f141949fcc7e3ab702bf52f2528b9d9ca1fe25d436506f484c6"
+  },
+  {
+    "path": "10_segundo_medio/003_estalinismo_y_represion.md",
+    "size": 5415,
+    "sha256": "8d4fbf6f77960c37c87d99572dcd0cf5ab27a3acee9f05f5014d859193dc602f"
+  },
+  {
+    "path": "10_segundo_medio/004_expansionismo_japones_e_italiano.md",
+    "size": 5460,
+    "sha256": "2ea454f7f0ad84d5398cedd04ac446d35d32ba7a6c2e004e70bc7764c78aab7c"
+  },
+  {
+    "path": "10_segundo_medio/005_guerra_civil_espanola.md",
+    "size": 5405,
+    "sha256": "479dffb437ec2553509234b7873d5c82446c9813f65d8601228748d50aada3f6"
+  },
+  {
+    "path": "10_segundo_medio/006_inicio_de_la_segunda_guerra_mundial.md",
+    "size": 5472,
+    "sha256": "e41353d1af2b7475e5311d9a9575bc10e9afc5128ee6e1f3efa86e3a79a111b0"
+  },
+  {
+    "path": "10_segundo_medio/007_guerra_relampago_y_ocupaciones.md",
+    "size": 5450,
+    "sha256": "9ce3ef70e31e9687fa1d4223a619522c527f4f2d14138581b02d23dda6d76f28"
+  },
+  {
+    "path": "10_segundo_medio/008_batalla_de_inglaterra.md",
+    "size": 5402,
+    "sha256": "041890084e9d724a9567ce442e5c6ae2b85a8d6eeb8c79fa6496a7dc42744965"
+  },
+  {
+    "path": "10_segundo_medio/009_frente_oriental.md",
+    "size": 5372,
+    "sha256": "0d88b700d32a53997fe647ccce5b9051e8f4fb74c9baf5105f91faa6092a5f1e"
+  },
+  {
+    "path": "10_segundo_medio/00_indice_curso.md",
+    "size": 1938,
+    "sha256": "cdc3981a9f5c1518beb8181acea3090545c4736b0eb9f8c120a034b42a31afe1"
+  },
+  {
+    "path": "10_segundo_medio/010_guerra_en_asia_y_pacifico.md",
+    "size": 5424,
+    "sha256": "1855fd6ba2aa23f6667083c91544d2b58e6b379d568c9c7c38535cda42bc7487"
+  },
+  {
+    "path": "10_segundo_medio/011_holocausto.md",
+    "size": 5347,
+    "sha256": "f4f71b602b9bd0b4cd5c239da3b13c8826cd378aad78e6f041d845599bf6bbb0"
+  },
+  {
+    "path": "10_segundo_medio/012_persecucion_de_otros_grupos.md",
+    "size": 5435,
+    "sha256": "36698a00598efb5312999a477cb22fd53df1d383fb4137b3a770a7bfb39e237a"
+  },
+  {
+    "path": "10_segundo_medio/013_colaboracion_resistencia_y_rescate.md",
+    "size": 5473,
+    "sha256": "5d19f909087272246929893f89494a4924725db5fa733b61b4894ed338c4e6f9"
+  },
+  {
+    "path": "10_segundo_medio/014_bombardeos_y_civiles.md",
+    "size": 5397,
+    "sha256": "2273d86ca0a5c73a002692f1cb07bcc6cb7f39a09bb88c2d2ba42404e46bdc3f"
+  },
+  {
+    "path": "10_segundo_medio/015_hiroshima_y_nagasaki.md",
+    "size": 5397,
+    "sha256": "8b8ab47e151724dd20ef628a5fcf8b1363be452c8a0ddbb82a6bea13acdcd387"
+  },
+  {
+    "path": "10_segundo_medio/016_juicios_de_nuremberg_y_tokio.md",
+    "size": 5440,
+    "sha256": "72fdb8d9a376996166fe62f9658d7013e9d62efe430c1dc1bc034394b3a50b3a"
+  },
+  {
+    "path": "10_segundo_medio/017_onu_y_declaracion_universal.md",
+    "size": 5435,
+    "sha256": "53be2c0c3471862e81da8b951b187eb878229d4bb756cdeebcc44cb56b9535f6"
+  },
+  {
+    "path": "10_segundo_medio/018_consecuencias_y_descolonizacion.md",
+    "size": 5455,
+    "sha256": "a3e7f4b2e9a3e3d78de4956951a1bb8e1462f5b6321e71f6d192f3ed020fbdbd"
+  },
+  {
+    "path": "10_segundo_medio/019_chile_ante_la_segunda_guerra_mundial.md",
+    "size": 5477,
+    "sha256": "3b8d68844bc88d1b3d9dcdc15e8df68204e8873d39db37371987f345c3892606"
+  },
+  {
+    "path": "10_segundo_medio/01_glosario_curso.md",
+    "size": 226,
+    "sha256": "d5cc020cd55717d9da2464df46c0ae2227dce7c95fe14c2d8208b73f91d2b564"
+  },
+  {
+    "path": "10_segundo_medio/020_guerra_fria_bloques.md",
+    "size": 5398,
+    "sha256": "212d7e0ab8d752e0b1d84648308e7d719327c6211e7868ca96c7de25386ad857"
+  },
+  {
+    "path": "10_segundo_medio/021_amenaza_nuclear.md",
+    "size": 5372,
+    "sha256": "871792942a6754b44ca07d0bb67378151babdc000ce0ec363b36a6702c6fb7c6"
+  },
+  {
+    "path": "10_segundo_medio/022_guerra_de_corea.md",
+    "size": 5372,
+    "sha256": "1de2abc56c349629c0091494df5911fd6ab17583e420db9bce5941ab50b17a8e"
+  },
+  {
+    "path": "10_segundo_medio/023_guerra_de_vietnam.md",
+    "size": 5382,
+    "sha256": "b6951eeb64e723b313feab4a7e08a0013401c816c6bb1c206fccbb7f11fab9c6"
+  },
+  {
+    "path": "10_segundo_medio/024_revolucion_cubana_y_misiles.md",
+    "size": 5435,
+    "sha256": "4e04c8d44f5668ac1e19bada62470f93949a35530790f53077d2b9f11f150f50"
+  },
+  {
+    "path": "10_segundo_medio/025_conflictos_en_medio_oriente.md",
+    "size": 5432,
+    "sha256": "e9a882f7a0945fe346e152b3eb39f14b94446d8734abfec18f4ebf4884c904be"
+  },
+  {
+    "path": "10_segundo_medio/026_afganistan_y_fin_de_la_guerra_fria.md",
+    "size": 5473,
+    "sha256": "7b816a39aff0e0ef487433f7929ca9c1a77d5325b42e0fe8d4a64a54e1b39bbf"
+  },
+  {
+    "path": "10_segundo_medio/027_dictaduras_latinoamericanas.md",
+    "size": 5432,
+    "sha256": "ca2c0841b2e315905844553ecf7459a7a04f79e9261a96887292a23bd7bcad26"
+  },
+  {
+    "path": "10_segundo_medio/028_chile_y_guerra_fria.md",
+    "size": 5395,
+    "sha256": "dfdad93a5ee652424827d24be256983d0afb70642f8a3f25d315e33a62e8e2dd"
+  },
+  {
+    "path": "10_segundo_medio/029_propaganda_de_guerra_fria.md",
+    "size": 5425,
+    "sha256": "d5e1d91cb540f4286709bcd52e1f5f670a700a4c5b42cdbbf777f6f6c57e43ac"
+  },
+  {
+    "path": "10_segundo_medio/02_banco_preguntas.md",
+    "size": 5532,
+    "sha256": "f10bc22f3a8da22bf0f2b96ab1510ff37b3eec5a8c7ad8aed9e4191c830b483b"
+  },
+  {
+    "path": "10_segundo_medio/030_movimientos_por_la_paz.md",
+    "size": 5407,
+    "sha256": "c6d60a37d43bc693c1129407b45d1b37d1d652f24d6a66186fb8d9bb5958cbc3"
+  },
+  {
+    "path": "11_tercero_medio/001_conflicto_violencia_y_paz.md",
+    "size": 5425,
+    "sha256": "de5459ed45c864a097221b9f65208dd5dc3c403ccbf844077ce5112963d14899"
+  },
+  {
+    "path": "11_tercero_medio/002_derechos_humanos_en_conflictos.md",
+    "size": 5447,
+    "sha256": "9da7c886d54e4fa619d4754a13ba0b41bf5fa8df8439f9a35acdace54e2574c0"
+  },
+  {
+    "path": "11_tercero_medio/003_derecho_internacional_humanitario.md",
+    "size": 5462,
+    "sha256": "c3e64d72ae3fffe7236e0285b47f021e2dc6215c1340a800786896aa7ad66cf2"
+  },
+  {
+    "path": "11_tercero_medio/004_proteccion_de_civiles.md",
+    "size": 5405,
+    "sha256": "db99d59ed9562eb96d2e22ff909d028dd4f7576cd80478342cd6a89023e33476"
+  },
+  {
+    "path": "11_tercero_medio/005_ninez_en_conflictos_armados.md",
+    "size": 5435,
+    "sha256": "02290bea4ca80db02c6a9eaaae09c3e82de27ba5ed824569b859adf05a64d2a5"
+  },
+  {
+    "path": "11_tercero_medio/006_refugiados_y_desplazamiento.md",
+    "size": 5432,
+    "sha256": "bdc2466e94e37d7af2fa94d1df965070034514af965e628a216f3954271ccbe6"
+  },
+  {
+    "path": "11_tercero_medio/007_crimenes_de_guerra_lesa_humanidad_y_genocidio.md",
+    "size": 5528,
+    "sha256": "b78b3e3dfd8132969ff31a64c3bdfca9ef396fb7d3d8db672f61ca9aee6ae968"
+  },
+  {
+    "path": "11_tercero_medio/008_corte_penal_internacional.md",
+    "size": 5422,
+    "sha256": "7da927c54b6585496b2de760c51dee724ca8af436259ea86cc5c4ed6608f3570"
+  },
+  {
+    "path": "11_tercero_medio/009_consejo_de_seguridad.md",
+    "size": 5397,
+    "sha256": "27d3873c0b5cd17c365b785b64a16f8e1304106af9750343819bc81a7d7b7768"
+  },
+  {
+    "path": "11_tercero_medio/00_indice_curso.md",
+    "size": 1229,
+    "sha256": "82faa68dd6c0e91f9a7a04a238733523260a46b5816ccaa2a5d2fd76d9eea8e1"
+  },
+  {
+    "path": "11_tercero_medio/010_operaciones_de_paz.md",
+    "size": 5387,
+    "sha256": "812ef65a89688a2cb0ebbf2e770ee520583f75dc45779a49688810cca54cddee"
+  },
+  {
+    "path": "11_tercero_medio/011_negociacion_y_acuerdos_de_paz.md",
+    "size": 5445,
+    "sha256": "6c9668b6522309cd44a8d0cbe33612e545580159ea5a14f2f9b5a0d540ba6a47"
+  },
+  {
+    "path": "11_tercero_medio/012_justicia_transicional.md",
+    "size": 5402,
+    "sha256": "639fe59a670ff2423e49fb76b5a89c64551e28930fa328337deb717bf169f6fc"
+  },
+  {
+    "path": "11_tercero_medio/013_memoria_trauma_y_reparacion.md",
+    "size": 5438,
+    "sha256": "7c9c78fd644195e94f54bac92491c9ecfb7bedfbbc9e37207624715e9e273b24"
+  },
+  {
+    "path": "11_tercero_medio/014_propaganda_y_discurso_de_odio.md",
+    "size": 5442,
+    "sha256": "805614a8cca6db47630a5522b0ad81a93093ae1e8891ce4816705a1312c01da1"
+  },
+  {
+    "path": "11_tercero_medio/015_desinformacion_contemporanea.md",
+    "size": 5442,
+    "sha256": "9be556926b49b502eb1958414ea36f8923b05ef09007fc3ad62f2ba83f47afa0"
+  },
+  {
+    "path": "11_tercero_medio/016_periodismo_y_etica.md",
+    "size": 5390,
+    "sha256": "8dd540fa6cd4ebba1a80dd67f6a84c83de4079be9fa4f06a4c83403d8498d1cf"
+  },
+  {
+    "path": "11_tercero_medio/017_seguridad_y_democracia.md",
+    "size": 5407,
+    "sha256": "dc884e228537fb896df8597b625b113edfd89623ade4ef93cfbf87116819d718"
+  },
+  {
+    "path": "11_tercero_medio/018_proyecto_de_cultura_de_paz.md",
+    "size": 5427,
+    "sha256": "bef83d65d35f4595179c4cfff7c12ce9158493f0f953400ed1a6986ec03efcbb"
+  },
+  {
+    "path": "11_tercero_medio/01_glosario_curso.md",
+    "size": 226,
+    "sha256": "03ad62de662da2945a9445bb28b15b4ac3055051a876f5c4399dd57095261f3e"
+  },
+  {
+    "path": "11_tercero_medio/02_banco_preguntas.md",
+    "size": 3361,
+    "sha256": "22fe357a182fca79dfc8991ca277ef2a98aaaad4c94bee4275c622247fec2c2a"
+  },
+  {
+    "path": "12_cuarto_medio/001_como_estudiar_conflictos_contemporaneos.md",
+    "size": 5497,
+    "sha256": "f638e7ee588296a146283cd78e4e0e3ce3ee8fa8738e8f6925da87b1d0597f31"
+  },
+  {
+    "path": "12_cuarto_medio/002_causas_multiples_de_conflictos_actuales.md",
+    "size": 5495,
+    "sha256": "69aeee30360fa03927852fc23e2f07117e6887268f2cabc53510783ec9559140"
+  },
+  {
+    "path": "12_cuarto_medio/003_guerras_civiles_y_fragmentacion_estatal.md",
+    "size": 5495,
+    "sha256": "fddc3de6ee17ddb1b343e0e30ccba0e1d022b44e884fcd99b62faea3fa2eb9db"
+  },
+  {
+    "path": "12_cuarto_medio/004_terrorismo_y_respuestas_estatales.md",
+    "size": 5462,
+    "sha256": "490708144f6f7428d54da09a171a9065352cc9bc9e36f5e0e464626e6c31267d"
+  },
+  {
+    "path": "12_cuarto_medio/005_guerra_hibrida.md",
+    "size": 5370,
+    "sha256": "1c3cccd14bdaa3c07e887a9b93e4fd28e48024dcf824d9ab29b2f2c9e70c083d"
+  },
+  {
+    "path": "12_cuarto_medio/006_armas_nucleares_y_desarme.md",
+    "size": 5422,
+    "sha256": "4a06fa8c0aa48a9fe84819c7c4458fc4ccb3c952247a24419591aa896c180d6f"
+  },
+  {
+    "path": "12_cuarto_medio/007_armas_quimicas_y_biologicas.md",
+    "size": 5438,
+    "sha256": "bccf4c287923cc88218d5713e7c600e93d145b7b8252f8aa2a2793afec70eced"
+  },
+  {
+    "path": "12_cuarto_medio/008_minas_antipersonales.md",
+    "size": 5397,
+    "sha256": "4f26bb82edf92915791230c416e40b5abca64ccb0e06c290a84fec9e4699adb7"
+  },
+  {
+    "path": "12_cuarto_medio/009_recursos_agua_y_territorio.md",
+    "size": 5430,
+    "sha256": "cddd2a594866b252f62473904885d62b4476cef6e4d7d8beac798e7ea89a2d76"
+  },
+  {
+    "path": "12_cuarto_medio/00_indice_curso.md",
+    "size": 1391,
+    "sha256": "a58fdfc9b04e079eaba5955b81a632b46e77828de28359c388c7451ccb930c2e"
+  },
+  {
+    "path": "12_cuarto_medio/010_cambio_climatico_y_seguridad_humana.md",
+    "size": 5475,
+    "sha256": "f9619aad1b2f777382e9478ba9bc73e495f4973133312ad3e47ee712b6a026cf"
+  },
+  {
+    "path": "12_cuarto_medio/011_conflicto_israeli_palestino.md",
+    "size": 5434,
+    "sha256": "02b471fbe80e376c26adb5555761c2cff7a5562c3257de2d1a3d500af40c2ab0"
+  },
+  {
+    "path": "12_cuarto_medio/012_conflictos_en_siria_e_irak.md",
+    "size": 5426,
+    "sha256": "a5668b80d041aaeb446194e93cb4012a59ae0d0ddf6cae2f1300e85fd88d8f0e"
+  },
+  {
+    "path": "12_cuarto_medio/013_rusia_y_ucrania.md",
+    "size": 5371,
+    "sha256": "9d9d961addf96cb9f331320baa026c5b4b1d53cd7aba8cddda4465a065c41628"
+  },
+  {
+    "path": "12_cuarto_medio/014_conflictos_en_africa.md",
+    "size": 5399,
+    "sha256": "84b3d9fc59e833bd3255d10458d18bd224320b982e54afd11fda580275289530"
+  },
+  {
+    "path": "12_cuarto_medio/015_conflictos_en_asia.md",
+    "size": 5386,
+    "sha256": "d51fb7bf7686ef5f0c68a6225d6eaa20751e482da01e3b1658e65b327af7ffe6"
+  },
+  {
+    "path": "12_cuarto_medio/016_america_latina_y_procesos_de_paz.md",
+    "size": 5460,
+    "sha256": "773b7c54869485301a2ae43d84aea9992b8720d95077d68a9d6c8a02d1b7105b"
+  },
+  {
+    "path": "12_cuarto_medio/017_ciberconflicto_y_plataformas.md",
+    "size": 5436,
+    "sha256": "afa0370763ea801b3a6bd989133e2046374b594e6983dfc79c020c233f6e2813"
+  },
+  {
+    "path": "12_cuarto_medio/018_diplomacia_y_sanciones.md",
+    "size": 5407,
+    "sha256": "fd07aaf210d3ff7fa6f35feea136c7b4d9bde023bf67fd44e54fe664db571ffd"
+  },
+  {
+    "path": "12_cuarto_medio/019_reconstruccion_posconflicto.md",
+    "size": 5435,
+    "sha256": "60a0bd1b9c777d805add063fe90497d9d10b81f3584183672f9b73411dc45707"
+  },
+  {
+    "path": "12_cuarto_medio/01_glosario_curso.md",
+    "size": 226,
+    "sha256": "5c8f9962a876dfc015dde33857c168fbee1394183fe619e328fd66a9b0e2d1fb"
+  },
+  {
+    "path": "12_cuarto_medio/020_proyecto_de_paz_y_memoria.md",
+    "size": 5422,
+    "sha256": "6c1c99eb4597ad7406e115bf61f7af501c5516a0473894fdc9722269d9249115"
+  },
+  {
+    "path": "12_cuarto_medio/02_banco_preguntas.md",
+    "size": 3745,
+    "sha256": "7387ec8c13e370e01673a6f279b85a35bf96ed96d7283e0956c19df560c4eb08"
+  },
+  {
+    "path": "13_tematicos_transversales/001_que_es_un_conflicto_historico.md",
+    "size": 5496,
+    "sha256": "52e3b35ee24b046857f0aed4ffc457b63c4d6221a916e564a1b3d2259c6fe66e"
+  },
+  {
+    "path": "13_tematicos_transversales/002_guerra_batalla_violencia_y_genocidio.md",
+    "size": 5531,
+    "sha256": "a6977d6d990b26248095993c951b10fafc053d3e293e9f6ce31fa1e28982e50d"
+  },
+  {
+    "path": "13_tematicos_transversales/003_causas_de_largo_y_corto_plazo.md",
+    "size": 5490,
+    "sha256": "72802fa8d7abe7509648d5ac1a5bf55407d0de481aa9445106d795db931d2656"
+  },
+  {
+    "path": "13_tematicos_transversales/004_consecuencias_humanas_politicas_y_ambientales.md",
+    "size": 5576,
+    "sha256": "e65ecdcf295268fa48ab4d5fb0e502c807ec8eed3077bf1cea2f8202b5ad68f2"
+  },
+  {
+    "path": "13_tematicos_transversales/005_poblacion_civil.md",
+    "size": 5423,
+    "sha256": "40bfea586cda140e08576b4d21197136187b1d881669dbb93c0d8940b9dc6833"
+  },
+  {
+    "path": "13_tematicos_transversales/006_ninez_y_conflictos_armados.md",
+    "size": 5478,
+    "sha256": "cffdbe38aaa2c17b323f0c5d17684b1555fe62f396c86e0639d423bc0b9a2dc6"
+  },
+  {
+    "path": "13_tematicos_transversales/007_mujeres_y_guerras.md",
+    "size": 5430,
+    "sha256": "98351fa0795abcee746abecd41d08051385c29f7bef6a26d06d6a7b69f2415d2"
+  },
+  {
+    "path": "13_tematicos_transversales/008_refugiados_y_desplazados.md",
+    "size": 5465,
+    "sha256": "cd630b8e84e5f4c2b1247bf9da0c307f94c354664e374a648db66973f853a7ac"
+  },
+  {
+    "path": "13_tematicos_transversales/009_propaganda_y_construccion_del_enemigo.md",
+    "size": 5533,
+    "sha256": "676cb17a0e0e4488f1ab765be018a558a81c8eb29df8116eca05f68bb217594e"
+  },
+  {
+    "path": "13_tematicos_transversales/010_mapas_de_guerra.md",
+    "size": 5420,
+    "sha256": "f7498736292f314345ffff62c37016fa08bcdf5bfcde53547fb75a633a470e6f"
+  },
+  {
+    "path": "13_tematicos_transversales/011_tecnologia_militar_sin_glorificacion.md",
+    "size": 5531,
+    "sha256": "7cb3fba1f9c23228f6f8d8972b6b1ffb8b23ae7c9d7d145ad8c3147e0ff37b4f"
+  },
+  {
+    "path": "13_tematicos_transversales/012_tratados_y_armisticios.md",
+    "size": 5455,
+    "sha256": "80752d06b1a79d017f97f5e1709e61e1bc118a3e4ee6c1f83f3163c5418c73a2"
+  },
+  {
+    "path": "13_tematicos_transversales/013_derecho_internacional_humanitario.md",
+    "size": 5510,
+    "sha256": "6d30832812dd38250b734af7e4f406e3cff4ccd5885fa5793e42988bee5a4958"
+  },
+  {
+    "path": "13_tematicos_transversales/014_crimenes_internacionales.md",
+    "size": 5468,
+    "sha256": "221039a91f004d92f1e6015e5a2483be1861c09788fa1ef0be31dbd29ab36e2c"
+  },
+  {
+    "path": "13_tematicos_transversales/015_memoria_y_conmemoraciones.md",
+    "size": 5470,
+    "sha256": "ab356e935a6ea93270842fd44eb240335fc5ff9f803dfaac894be464c1caaa54"
+  },
+  {
+    "path": "13_tematicos_transversales/016_justicia_transicional.md",
+    "size": 5450,
+    "sha256": "4d08cd84912e52ced52a21a62068b4caaf5877d654ca29cf7b7ca64c3fd44a10"
+  },
+  {
+    "path": "13_tematicos_transversales/017_resolucion_pacifica.md",
+    "size": 5446,
+    "sha256": "226ad2a062d275c112d976d665ab94c546a7c0607b65dd428004ebf7e58d6ab6"
+  },
+  {
+    "path": "13_tematicos_transversales/018_ciudadania_digital_en_conflictos.md",
+    "size": 5508,
+    "sha256": "1fa888ae97331b8b1dcff1ad67aca7ce47c65987c03863d4f192ea0a3cc72424"
+  },
+  {
+    "path": "13_tematicos_transversales/019_verificar_noticias_de_guerra.md",
+    "size": 5485,
+    "sha256": "e1601f91d7885103f8a55333e08aec3d3b8526345e46a5d60c04a444f579c691"
+  },
+  {
+    "path": "13_tematicos_transversales/020_cuidado_emocional_al_estudiar_violencia.md",
+    "size": 5540,
+    "sha256": "8249912639e7d7868c70247bc04563a60cff04fcbee17922afd83cd2b0c0b537"
+  },
+  {
+    "path": "14_bancos_generales/01_cronologia_maestra.md",
+    "size": 176,
+    "sha256": "b59be5a93c358abe85e311c0ea0e9e42236d863aede14c9def91b82d75898d16"
+  },
+  {
+    "path": "14_bancos_generales/02_glosario_general.md",
+    "size": 274,
+    "sha256": "9bba6c28c969b8b381a8943ba20d2b057cd48daa1397535114811b5ab00bdbcc"
+  },
+  {
+    "path": "14_bancos_generales/03_palabras_clave.md",
+    "size": 117,
+    "sha256": "878920f31336ce30e0fdba33812cf62ea1c1d6df32a91f5db18c925a5e7c84a5"
+  },
+  {
+    "path": "14_bancos_generales/04_mapa_relaciones_materias.md",
+    "size": 100,
+    "sha256": "0fd91dd69c42ed554a0197e8615d4deba3873eae23a764014f0518d5c3b3bc2b"
+  },
+  {
+    "path": "14_bancos_generales/05_plantilla_analisis_conflicto.md",
+    "size": 136,
+    "sha256": "9ee27eef207e49e9cd48b03096b2dbaf1bd34c1781dea50182c5eaa5ba78deb8"
+  },
+  {
+    "path": "15_evaluaciones_generales/01_evaluaciones_generales.md",
+    "size": 131,
+    "sha256": "c53a01aa3f8ab80ae14a9f14230e1ad5dbf417d1fd6c39f74662ea1f360f7bce"
+  },
+  {
+    "path": "16_apoyo_inclusivo/01_adaptaciones_tea.md",
+    "size": 135,
+    "sha256": "982ef69c8a86033bff1aa65225f08c733140cefa0bb7beb6ff400ffc46936dc6"
+  },
+  {
+    "path": "16_apoyo_inclusivo/02_reglas_por_perfil.md",
+    "size": 139,
+    "sha256": "ce2230529043f63ead0f905263a035780a9f1c6136bafc8c47a39e3837468d7b"
+  },
+  {
+    "path": "17_compendios/compendio_cuarto_basico.md",
+    "size": 76132,
+    "sha256": "268ac2e380dd5da38aad00b7f775765a6b42f3495a2fd581a0051d657ee77b0b"
+  },
+  {
+    "path": "17_compendios/compendio_cuarto_medio.md",
+    "size": 108824,
+    "sha256": "c06b06b694ea5e30f374664e0dda6ed60d26455820429b90c26455befc9d440f"
+  },
+  {
+    "path": "17_compendios/compendio_octavo_basico.md",
+    "size": 87093,
+    "sha256": "93913cd6fbd6a5301e50ab3392d93850a53368a5e3e0870dd83665139fa84f1d"
+  },
+  {
+    "path": "17_compendios/compendio_primero_basico.md",
+    "size": 43678,
+    "sha256": "4e40a0af491b7d5aa92380731cadde15921f879d962a4a6bca3519cc99fcbcc5"
+  },
+  {
+    "path": "17_compendios/compendio_primero_medio.md",
+    "size": 119630,
+    "sha256": "ea3bf1c06f62912141c90c4c075d8a8540ce92a6a1f953c5d82f80b7bf780335"
+  },
+  {
+    "path": "17_compendios/compendio_quinto_basico.md",
+    "size": 86886,
+    "sha256": "38c9adf14dff846419c69f0d174f3b79af2fe422c2bb760b3a1ae972286d45c9"
+  },
+  {
+    "path": "17_compendios/compendio_segundo_basico.md",
+    "size": 54542,
+    "sha256": "7b76bf2468cbbbf48d37f260a1640d3dc8fccb16e7f9306fe84e8afd8da5caff"
+  },
+  {
+    "path": "17_compendios/compendio_segundo_medio.md",
+    "size": 162891,
+    "sha256": "2c5b58fd4f2abb53b69c312c4c978db6a6971761d9fae35a505db4defa6ddfe9"
+  },
+  {
+    "path": "17_compendios/compendio_septimo_basico.md",
+    "size": 86833,
+    "sha256": "461f5f336954759b4e155d9c441172eaa7806347ae8a1674e033a052b202a7c9"
+  },
+  {
+    "path": "17_compendios/compendio_sexto_basico.md",
+    "size": 98256,
+    "sha256": "123acea96f11d1bb60c9d0f06ba587b8ef5f3062316df3614fc213a03f9ffc9d"
+  },
+  {
+    "path": "17_compendios/compendio_tercero_basico.md",
+    "size": 65116,
+    "sha256": "12971c7cc1229447cc89e3fea3818600b0723782104a7dd0c5304e332c1d77eb"
+  },
+  {
+    "path": "17_compendios/compendio_tercero_medio.md",
+    "size": 97886,
+    "sha256": "ec9d07eded5d3be3c0d96ed06cda1ba4e95b6268ea0dc50ff6c11637913ba384"
+  },
+  {
+    "path": "17_compendios/enciclopedia_completa_conflictos_guerras.md",
+    "size": 1087792,
+    "sha256": "c702651cc2c3bab3405f673cb101d671ee2ff08682758b79f5216a6ebca95f40"
+  },
+  {
+    "path": "18_rag/catalogo_capitulos.json",
+    "size": 60850,
+    "sha256": "faa9627bc9315790eb3d14c86a0b9a82988774db786a11b9a04b69b3cdc107b3"
+  },
+  {
+    "path": "18_rag/catalogo_capitulos.jsonl",
+    "size": 54027,
+    "sha256": "1569335e9875f92668b9eb736e0cd7176298c2bb5d84f87a23006a7a55b9a9c1"
+  },
+  {
+    "path": "18_rag/chunks_conflictos_guerras.jsonl",
+    "size": 2227065,
+    "sha256": "2cf6a3fbcc9ce1a65d529b364a132e5ba15d866f45e0cc08d89035d1022956df"
+  },
+  {
+    "path": "CHANGELOG.md",
+    "size": 65,
+    "sha256": "6ea52d47bfdf039e89357610bbf4b9aff94ee8df8f5763ddf063fba690d4543a"
+  },
+  {
+    "path": "README.md",
+    "size": 257,
+    "sha256": "ed15cb02c212003f74ff68e4cd1d7468ce6ceba486f8f8443626c5df4619272e"
+  }
+]

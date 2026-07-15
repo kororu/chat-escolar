@@ -1,0 +1,1897 @@
+[
+  {
+    "path": "00_documentacion/00_indice_maestro.md",
+    "size": 3334,
+    "sha256": "3069918c4805cf53dd290b82e85634c709c018abdd6a30c4a5b8134a6a9e4ba5"
+  },
+  {
+    "path": "00_documentacion/00_instalacion.md",
+    "size": 171,
+    "sha256": "2e721745fb807ba9d119feda6cc89ac8a2d54f9eb2cda03cf2febc2ac921180e"
+  },
+  {
+    "path": "00_documentacion/01_estado_curricular_y_fuentes.md",
+    "size": 561,
+    "sha256": "37ba11f1c7f4cdc09b28597312328bac694f7a7d3f157e95bf41fc9be493795e"
+  },
+  {
+    "path": "00_documentacion/02_arquitectura_de_contenidos.md",
+    "size": 140,
+    "sha256": "da785592572c0b68df25fc2e77613ea41b5deca2ad90b5f1eef68f6489bba015"
+  },
+  {
+    "path": "00_documentacion/03_guia_editorial_ambiental.md",
+    "size": 181,
+    "sha256": "85897b674b056ca4053351f179a735565c7eb7bd002508f9b3ee8735d0d9e3be"
+  },
+  {
+    "path": "00_documentacion/04_mapa_vertical_curricular.md",
+    "size": 7867,
+    "sha256": "8167bf87877f8f88537e2cbcdcd3f1969f95ab8e1829fa51d5a7603acda77b43"
+  },
+  {
+    "path": "00_documentacion/05_integracion_ollama_rag.md",
+    "size": 183,
+    "sha256": "75fff7238ffca5b7525b09d98f68c6fcfa253db9dd3b0f78092629d63d5d6461"
+  },
+  {
+    "path": "00_documentacion/06_prompt_sistema_ollama.md",
+    "size": 176,
+    "sha256": "eff0c7a7b30c68e319fdb78ee33fff58c2d17d68d50bcfd51c0ea56b4d578f1a"
+  },
+  {
+    "path": "00_documentacion/07_configuracion_rag.yaml",
+    "size": 175,
+    "sha256": "fa51dbb35e28de02225d8cae426fbea103d33f813b9a0eb1c86ea05314565f3c"
+  },
+  {
+    "path": "01_primero_basico/001_la_tierra_como_hogar.md",
+    "size": 8034,
+    "sha256": "9b3ba9e485a97252ee985a4f47a5c4ff0dd08cad70b285ceade2308833454030"
+  },
+  {
+    "path": "01_primero_basico/002_elementos_naturales_del_entorno.md",
+    "size": 8100,
+    "sha256": "1c27e9697df64d526165ba33745c7dd63a836263bb440ecc0d7a7446e6144024"
+  },
+  {
+    "path": "01_primero_basico/003_agua_en_la_vida_diaria.md",
+    "size": 8049,
+    "sha256": "b6997bedba1d27779b89bb85be0111bcaab7db89b695ae8334b3b60b618817b1"
+  },
+  {
+    "path": "01_primero_basico/004_aire_y_viento.md",
+    "size": 7992,
+    "sha256": "70ee83d41c8ec826abeead7bc7883d13f4e323ce1951f2d941d3c8e9911ccbcc"
+  },
+  {
+    "path": "01_primero_basico/005_suelo_y_plantas.md",
+    "size": 7998,
+    "sha256": "ffcf7bfda75e58d47931fabb2021fd2fd8f1d64bca9bae7a8d0bfb36e11b5b65"
+  },
+  {
+    "path": "01_primero_basico/006_animales_y_habitats.md",
+    "size": 8036,
+    "sha256": "6facf468a0b9572c365ea9ad4b8894fc7b26c99c757f9ae383ad40031a047774"
+  },
+  {
+    "path": "01_primero_basico/007_dia_y_noche.md",
+    "size": 7985,
+    "sha256": "6c722b07256281ea77154a586e616c76f509d7e01a2312187e76062379107c11"
+  },
+  {
+    "path": "01_primero_basico/008_estaciones_del_ano.md",
+    "size": 8027,
+    "sha256": "33e0b63e80fbc7fe8ebdfbc1682b8b96c08d71bcf8e91ff6ed622af6d6dbd876"
+  },
+  {
+    "path": "01_primero_basico/009_tiempo_atmosferico_inicial.md",
+    "size": 8071,
+    "sha256": "8cfbb40d73ce34b59a1b91812161c37d91e17d2094215c89d51b0d7e1b235606"
+  },
+  {
+    "path": "01_primero_basico/00_indice_curso.md",
+    "size": 1788,
+    "sha256": "4f84ad00efd3dc07da892e195215bfca5cad26faa56fc64b0b04260fe834e8ce"
+  },
+  {
+    "path": "01_primero_basico/010_cuidado_del_agua.md",
+    "size": 8013,
+    "sha256": "ac76be4fce4d6c40bef0fe86d6c05928ff4b63951f89b642e3286cddb7007f17"
+  },
+  {
+    "path": "01_primero_basico/011_cuidado_de_plantas_y_animales.md",
+    "size": 8088,
+    "sha256": "0920365d48a9c5271280d72b0a7c2cf825a77acbed1ad5403623581f4db208e9"
+  },
+  {
+    "path": "01_primero_basico/012_no_botar_basura.md",
+    "size": 8004,
+    "sha256": "531b33f3254263cc493c53564eb6edf9e847ae634e4d10b260aa1a2be959f5fa"
+  },
+  {
+    "path": "01_primero_basico/013_reutilizar_materiales.md",
+    "size": 8040,
+    "sha256": "c7baa50be21d2a3806f965f349df3d0ad3998a3a916c2ab9c2600edf145125d9"
+  },
+  {
+    "path": "01_primero_basico/014_separar_residuos_inicial.md",
+    "size": 8085,
+    "sha256": "153b46841ba67aa2087978ae15bc092d170d264acb1afb8617cbe9f26e4dac39"
+  },
+  {
+    "path": "01_primero_basico/015_observar_el_entorno.md",
+    "size": 8028,
+    "sha256": "d1e624a5698c7a8b8d02be3da60f40c4917f2e35d5d9b63102a4f5a858267b81"
+  },
+  {
+    "path": "01_primero_basico/01_glosario_curso.md",
+    "size": 317,
+    "sha256": "af555066c8a3dd92f0c58a8906d92ebf74328656bee07a1905ab139b07824183"
+  },
+  {
+    "path": "01_primero_basico/02_banco_preguntas.md",
+    "size": 2831,
+    "sha256": "7358b5e2f04d81ff868cdf1ec30e575c6b827aa11575352b6333198036c732cd"
+  },
+  {
+    "path": "02_segundo_basico/001_paisajes_naturales.md",
+    "size": 8022,
+    "sha256": "e555c8c46b83ccc30c2692f661eb5a65d75efec2fb458a8ef9512866e67d7c00"
+  },
+  {
+    "path": "02_segundo_basico/002_rios_lagos_y_mar.md",
+    "size": 8018,
+    "sha256": "e12533aedcaea2d00f14b61922a6755d032483a0c7cc6af39490527ff892d6fc"
+  },
+  {
+    "path": "02_segundo_basico/003_agua_dulce_y_salada.md",
+    "size": 8031,
+    "sha256": "95da2f0a8748ba6a65996a8153d4e6a126c82563780c7fd342be017be6b5e591"
+  },
+  {
+    "path": "02_segundo_basico/004_ciclo_del_agua_inicial.md",
+    "size": 8066,
+    "sha256": "c51bd34c09ef94320fd5d957599d1a718e689cc48c53b918c4992b986a2bb9ad"
+  },
+  {
+    "path": "02_segundo_basico/005_nubes_y_lluvia.md",
+    "size": 7998,
+    "sha256": "6bca973b1a0eb16c8026abee0e6bac77b568b08589e2af98cf68c6163bf8afaa"
+  },
+  {
+    "path": "02_segundo_basico/006_viento_y_temperatura.md",
+    "size": 8034,
+    "sha256": "874c1473c445cf469981dc58092cd2df416f2699779f1ec56adbb31fda711e93"
+  },
+  {
+    "path": "02_segundo_basico/007_suelo_y_seres_vivos.md",
+    "size": 8022,
+    "sha256": "c6c1d551f83970134509e5321c28805277c3bc01016b9a3cb23bd41cd831eb8a"
+  },
+  {
+    "path": "02_segundo_basico/008_habitats_terrestres.md",
+    "size": 8036,
+    "sha256": "c1526d3db25f9c3a3535734ee97d857bbc771d3cce38767445eff159ab12cfa2"
+  },
+  {
+    "path": "02_segundo_basico/009_habitats_acuaticos.md",
+    "size": 8035,
+    "sha256": "7cbcc356d428b8b0b01eb02e70876296a7ed97d2aff49e8066ab7812063393ae"
+  },
+  {
+    "path": "02_segundo_basico/00_indice_curso.md",
+    "size": 1915,
+    "sha256": "5e6a15ac0a0f50ff3497dedb8e808110e667f4ef8c20b61bdb597c0ece76b623"
+  },
+  {
+    "path": "02_segundo_basico/010_adaptaciones_simples.md",
+    "size": 8034,
+    "sha256": "c9edd2901e2f6724ec674b442df9b9473a1f25fdcb607101fc1d937cccebdb88"
+  },
+  {
+    "path": "02_segundo_basico/011_recursos_naturales_cotidianos.md",
+    "size": 8092,
+    "sha256": "464adb7be5b1f8f2d507bbb0a2565f38dbd51176e716ce8bfa8032de5de60a59"
+  },
+  {
+    "path": "02_segundo_basico/012_uso_responsable_del_agua.md",
+    "size": 8061,
+    "sha256": "7001c5da3c456c829321ba4834c118c720ff7ca8f438c51366bd36fb7af85aee"
+  },
+  {
+    "path": "02_segundo_basico/013_reciclaje_basico.md",
+    "size": 8042,
+    "sha256": "6a2598701e5e87fbecbfaf42065a778ae353f575d3b462e61a1400100730a0b3"
+  },
+  {
+    "path": "02_segundo_basico/014_contaminacion_visible.md",
+    "size": 8047,
+    "sha256": "124a38a4ea3d113ee249da3ab2920f023e6c8ca52a3e2738c43eba3e1eda18c5"
+  },
+  {
+    "path": "02_segundo_basico/015_cuidado_de_plazas_y_barrios.md",
+    "size": 8076,
+    "sha256": "8e25ab55c4ba8b1f15f2ac119a2c9ba15837612b79a0cb1dba6355fa79ea8222"
+  },
+  {
+    "path": "02_segundo_basico/016_registro_del_tiempo_atmosferico.md",
+    "size": 8101,
+    "sha256": "597fe3ebf20b737b223841417eeb08cf48a41c9da027609d2505184267fe54be"
+  },
+  {
+    "path": "02_segundo_basico/01_glosario_curso.md",
+    "size": 317,
+    "sha256": "ed3db6f9e7d21b4a0f5694fdbe9878b37d501d7c03cafab62d93fb53f3fdf93f"
+  },
+  {
+    "path": "02_segundo_basico/02_banco_preguntas.md",
+    "size": 3034,
+    "sha256": "cc2c07a50a8739a9af8bea9fe6cb996878eea8524969dea87d6162c3cac384cb"
+  },
+  {
+    "path": "03_tercero_basico/001_planeta_tierra.md",
+    "size": 7998,
+    "sha256": "ddb9b8db98a865b5e93049975e663f4a267831071248aaf5a400fdbfdfb9830c"
+  },
+  {
+    "path": "03_tercero_basico/002_superficie_terrestre_y_oceanos.md",
+    "size": 8102,
+    "sha256": "627c6dba243d3fef5bc0104eb3b62e79430f72a9215afc0393db85b874453ae0"
+  },
+  {
+    "path": "03_tercero_basico/003_continentes_y_oceanos_como_marco_natural.md",
+    "size": 8162,
+    "sha256": "21fcb489a62e688844667c9a2b75b6e1c67cd4c36177a6434ba18514e5a94987"
+  },
+  {
+    "path": "03_tercero_basico/004_rotacion_y_dia_noche.md",
+    "size": 8044,
+    "sha256": "d928acd76c328e21a358f87dbd11c2fd0e440f6a3d66999105aecd104de9a56b"
+  },
+  {
+    "path": "03_tercero_basico/005_traslacion_y_estaciones.md",
+    "size": 8057,
+    "sha256": "63c7f254f13dd51216855c8edabe5ad65766d095ee945b039916105cdc406ec1"
+  },
+  {
+    "path": "03_tercero_basico/006_atmosfera_inicial.md",
+    "size": 8017,
+    "sha256": "8a05a73b76bc639b963f3adb76236bad43389e0cd3ff1f027be6e1f6a407b290"
+  },
+  {
+    "path": "03_tercero_basico/007_hidrosfera_inicial.md",
+    "size": 8022,
+    "sha256": "c807fcb80494b3d466f79287dc189aaf8a4c53ee8fc25001501862a682d9f650"
+  },
+  {
+    "path": "03_tercero_basico/008_litosfera_inicial.md",
+    "size": 8016,
+    "sha256": "5be83864f15bdd240fe0286be4710a85fcafa45527db3c315b3a7f7ab00891d7"
+  },
+  {
+    "path": "03_tercero_basico/009_ciclo_del_agua.md",
+    "size": 8018,
+    "sha256": "574a3cceec7da9e891d4863d734b347759dd1cceab4ba8536a924726e6d3633e"
+  },
+  {
+    "path": "03_tercero_basico/00_indice_curso.md",
+    "size": 2210,
+    "sha256": "f133df91900c44d81315bd9148e909efd536601706e6e978cc1486bffabd94a4"
+  },
+  {
+    "path": "03_tercero_basico/010_evaporacion_condensacion_y_precipitacion.md",
+    "size": 8169,
+    "sha256": "040c3fc735ecb3d37492005e8f00fd26e41f02b1ed84a75a5bd114bc00044991"
+  },
+  {
+    "path": "03_tercero_basico/011_tiempo_y_clima_inicial.md",
+    "size": 8042,
+    "sha256": "90241913ae9a1d86aa6b6126ee51d68fad9ed0d148c9a3ae669bf0813764ba1b"
+  },
+  {
+    "path": "03_tercero_basico/012_temperatura_lluvia_y_viento.md",
+    "size": 8076,
+    "sha256": "07b8b362b6602a273cc5353f1ba62cd5474804302a4c492cc932093026d1b2cf"
+  },
+  {
+    "path": "03_tercero_basico/013_ecosistemas_locales.md",
+    "size": 8004,
+    "sha256": "3c5513eca8c06386db0fe519a9e1d89fe946d56c74eed925b327eae47506a080"
+  },
+  {
+    "path": "03_tercero_basico/014_cadenas_alimentarias_simples.md",
+    "size": 8085,
+    "sha256": "a5dda1c4418edb28f36caa2bbc5d85964ae644a41a83de9464712e063a883fc2"
+  },
+  {
+    "path": "03_tercero_basico/015_contaminacion_del_aire_inicial.md",
+    "size": 8101,
+    "sha256": "77c708ff2d5f4dbe2eb1d655e89a09c66f6f3b65f3da596ed64d27519a4da2a3"
+  },
+  {
+    "path": "03_tercero_basico/016_contaminacion_del_agua_inicial.md",
+    "size": 8101,
+    "sha256": "1eb95d8a6fc5dc1a2ffa3e5103725ffb741b306b74cfc4fd00222e9c807bd128"
+  },
+  {
+    "path": "03_tercero_basico/017_reciclaje_y_reduccion.md",
+    "size": 8072,
+    "sha256": "66d209cb40103430e9e7685611325b727954c0e9e18947c522cba9dac933cfc6"
+  },
+  {
+    "path": "03_tercero_basico/018_proyecto_de_cuidado_ambiental.md",
+    "size": 8088,
+    "sha256": "e2a81183532c7b60b648d87e2a7699eefd5a751620eea19bebe475d1397fe62d"
+  },
+  {
+    "path": "03_tercero_basico/01_glosario_curso.md",
+    "size": 317,
+    "sha256": "cb0df2e06b0654c0ef544a8a0dd9c2b433bf9ea842cb6a757562a5947f6dc189"
+  },
+  {
+    "path": "03_tercero_basico/02_banco_preguntas.md",
+    "size": 3477,
+    "sha256": "08d2115a5c0418f6e6d1c31ffd4943f720750a676d196de2b5befc309a043676"
+  },
+  {
+    "path": "04_cuarto_basico/001_capas_internas_de_la_tierra_inicial.md",
+    "size": 8124,
+    "sha256": "b43080bb0d11f4a6b7d97492d37303c9cff5789777a8a99e09a1fbe63de512d8"
+  },
+  {
+    "path": "04_cuarto_basico/002_corteza_manto_y_nucleo.md",
+    "size": 8048,
+    "sha256": "5dad91b8165e497f0ff23985c022a53d8a9c4f748f783aa3b739f698a8a09f94"
+  },
+  {
+    "path": "04_cuarto_basico/003_placas_tectonicas_iniciales.md",
+    "size": 8113,
+    "sha256": "fb1626f558858697f775944baabe4dd0a7bd56a289055729e6748e0210918aca"
+  },
+  {
+    "path": "04_cuarto_basico/004_sismos.md",
+    "size": 7978,
+    "sha256": "855bc0741114cafb133a1e055c17c82c42723f7cb43a295c82722c6752603341"
+  },
+  {
+    "path": "04_cuarto_basico/005_volcanes.md",
+    "size": 7959,
+    "sha256": "c45b509046a8cc7d8f495deb962673ffc5d09ba0e06819bb024349d30c329f7d"
+  },
+  {
+    "path": "04_cuarto_basico/006_tsunamis.md",
+    "size": 7958,
+    "sha256": "f603a0d0b4e8d7916ce7e17b3ee44c098088b76dd53b4766739ae859f6e341da"
+  },
+  {
+    "path": "04_cuarto_basico/007_cambios_de_la_superficie_terrestre.md",
+    "size": 8118,
+    "sha256": "e0e99eaa267a9ca5fc9252fb8f966f007aa961075241c9d9fc47411e9752643a"
+  },
+  {
+    "path": "04_cuarto_basico/008_rocas_y_minerales.md",
+    "size": 8013,
+    "sha256": "5978aad12e4cd835cad60d66207f3c64fc5eae577a5fab93c5c6e91f118e8426"
+  },
+  {
+    "path": "04_cuarto_basico/009_ciclo_de_las_rocas_inicial.md",
+    "size": 8067,
+    "sha256": "917d013deab99f80590d460d53896fe58434de4bd2beac726131ec5cc99680f7"
+  },
+  {
+    "path": "04_cuarto_basico/00_indice_curso.md",
+    "size": 2195,
+    "sha256": "4e8e6791851b2dd1ef78e7a25b56635759a922f13d65138b1fb745df4071a113"
+  },
+  {
+    "path": "04_cuarto_basico/010_suelo_y_formacion.md",
+    "size": 8015,
+    "sha256": "fddb0a471cfc9a4562715c8e1da11649e2be2128fed5e77f1883b8d357a8287a"
+  },
+  {
+    "path": "04_cuarto_basico/011_tipos_de_suelo.md",
+    "size": 7992,
+    "sha256": "daede6778d4441a567544829a293c623e769bca763d789479a0b79a633516926"
+  },
+  {
+    "path": "04_cuarto_basico/012_erosion_inicial.md",
+    "size": 8020,
+    "sha256": "87730d30b977268ddff2c3e44c419bf6ee9124eb773c511b4d8c1455f2556377"
+  },
+  {
+    "path": "04_cuarto_basico/013_ecosistemas_terrestres.md",
+    "size": 8022,
+    "sha256": "4da5e6cf074388e69d329dbd4fb4d373aa16c24df977cedca31b5e1e1e5a5f09"
+  },
+  {
+    "path": "04_cuarto_basico/014_ecosistemas_acuaticos.md",
+    "size": 8021,
+    "sha256": "f9063b4f1b9b4d0cad87f3b9353db6a6ceb37dde940f2954adc121ac5b8b2767"
+  },
+  {
+    "path": "04_cuarto_basico/015_redes_alimentarias_iniciales.md",
+    "size": 8082,
+    "sha256": "381393b7d2c7b24ef583a021485b8c5e1b7b5676f1a9af3d8965f0a214a37237"
+  },
+  {
+    "path": "04_cuarto_basico/016_biodiversidad_local.md",
+    "size": 8004,
+    "sha256": "c15b83831388ef4b7f2ae7a27e78c7e4f43889c492e2c0848dfe1db337a9bda7"
+  },
+  {
+    "path": "04_cuarto_basico/017_amenaza_y_prevencion.md",
+    "size": 8039,
+    "sha256": "f3cf1d27b4d2b11962185a3d2f8448b23315e2247f38712713657c0646c15001"
+  },
+  {
+    "path": "04_cuarto_basico/018_plan_familiar_de_emergencia.md",
+    "size": 8076,
+    "sha256": "02a4f4eca94ad212a6366be5cadd99c09a1da0a1657f4cbb56b04b273c83ae47"
+  },
+  {
+    "path": "04_cuarto_basico/019_contaminacion_y_residuos.md",
+    "size": 8089,
+    "sha256": "a4855b6a012a6fdf7705dc3713a2e13772baeb1a803a5bc34109e818f185973b"
+  },
+  {
+    "path": "04_cuarto_basico/01_glosario_curso.md",
+    "size": 317,
+    "sha256": "fffe515cce211bf88c1348f88f03a3e6c049bd0deb8fc9b59aeb3e2e86fe8966"
+  },
+  {
+    "path": "04_cuarto_basico/020_investigacion_del_entorno.md",
+    "size": 8069,
+    "sha256": "fa69d028c4d235d1af7ecdf43a9f2705a6dd630a0d0dcaae35b4791008fede05"
+  },
+  {
+    "path": "04_cuarto_basico/02_banco_preguntas.md",
+    "size": 3781,
+    "sha256": "5744de31c4085dacf1794e97b77673a4fdd6d036e200bd8ad21085a6cc795e84"
+  },
+  {
+    "path": "05_quinto_basico/001_estructura_del_planeta_tierra.md",
+    "size": 8091,
+    "sha256": "937add1d67422892fc9e0938306621d6561b603157fd53218bdc2fd1af381b6b"
+  },
+  {
+    "path": "05_quinto_basico/002_corteza_continental_y_oceanica.md",
+    "size": 8099,
+    "sha256": "adb79ec85e20d4303068f06535ca1da3ea8704379d7cb339ca34d4c8dc09d1ce"
+  },
+  {
+    "path": "05_quinto_basico/003_manto_y_nucleo.md",
+    "size": 8003,
+    "sha256": "9d1d62676328b543309a4a0b95c2bf3e4969e1339dfc06a7251cf42d17f8e260"
+  },
+  {
+    "path": "05_quinto_basico/004_campo_magnetico_terrestre_inicial.md",
+    "size": 8120,
+    "sha256": "60fa85b530f910f24293726fe467355843c0c15fa1738de0e1fb0364f831a47c"
+  },
+  {
+    "path": "05_quinto_basico/005_rocas_igneas_sedimentarias_y_metamorficas.md",
+    "size": 8170,
+    "sha256": "cf3a479685a2e9ae4000116651871471ab82ce7c00e33aee2bf12f414b556cd9"
+  },
+  {
+    "path": "05_quinto_basico/006_ciclo_de_las_rocas.md",
+    "size": 8022,
+    "sha256": "aafaa90e0afc571fb4bf092ae26c2c0e1a0dd6d06733a131af707f0efb3886c5"
+  },
+  {
+    "path": "05_quinto_basico/007_minerales_y_recursos.md",
+    "size": 8034,
+    "sha256": "c2c10d7398f5680e68a45a17c69af91dbf5f8ee13a08a78ffd63b3d6506b05b5"
+  },
+  {
+    "path": "05_quinto_basico/008_agua_en_la_tierra.md",
+    "size": 8022,
+    "sha256": "617963127f9ebbec181bcd8e36852c8595c602632e2b5a60eb88228447b31d14"
+  },
+  {
+    "path": "05_quinto_basico/009_oceanos_y_corrientes_iniciales.md",
+    "size": 8105,
+    "sha256": "8d0fcefcac092117475f49caadb84e51587a1ded6995c8c7806306f530acddbc"
+  },
+  {
+    "path": "05_quinto_basico/00_indice_curso.md",
+    "size": 2797,
+    "sha256": "210090477145209388cb0eeb77673d803ac9340148585559f90d50c476e25ab3"
+  },
+  {
+    "path": "05_quinto_basico/010_rios_lagos_glaciares_y_acuiferos.md",
+    "size": 8122,
+    "sha256": "289c69649839b069e6d74449b2c6db8b523e8b2b797ae3974a80f416edb68197"
+  },
+  {
+    "path": "05_quinto_basico/011_cuenca_hidrografica.md",
+    "size": 8039,
+    "sha256": "12bd0f3deaa4c813f835114d22c3a34eec0f1cccab62963f43ab25a5398af1e8"
+  },
+  {
+    "path": "05_quinto_basico/012_ciclo_del_agua_avanzado.md",
+    "size": 8075,
+    "sha256": "e4bb59a06c19857bd2ee8a1552c1133b1bd2a9090c2bbb30495152b934876f2b"
+  },
+  {
+    "path": "05_quinto_basico/013_ecosistemas_acuaticos.md",
+    "size": 8024,
+    "sha256": "3eb9becd686effd7193c40f04f0abdfbeeeab63a2dcab2577d064eb7d389de88"
+  },
+  {
+    "path": "05_quinto_basico/014_biodiversidad_marina.md",
+    "size": 8013,
+    "sha256": "9f82f11c700c463fc2a65e8d3393ee27d0470ba12ff6abc3a7a207fb63d30b9d"
+  },
+  {
+    "path": "05_quinto_basico/015_recursos_renovables_y_no_renovables.md",
+    "size": 8131,
+    "sha256": "d1bfe14b155448fe4a60ee3aec2a718b3698d960cfbe9542116504ac63351942"
+  },
+  {
+    "path": "05_quinto_basico/016_mineria_y_ambiente_inicial.md",
+    "size": 8082,
+    "sha256": "784dabc52574b6367e4c67d38b0780c2fd5312b9d74d7318094a6467e7db1920"
+  },
+  {
+    "path": "05_quinto_basico/017_energia_y_recursos_naturales.md",
+    "size": 8094,
+    "sha256": "00c68204b9b4a0e9b9e28a9f3b73473b4593245e54e007ca5a84f18339339e4b"
+  },
+  {
+    "path": "05_quinto_basico/018_contaminacion_del_agua.md",
+    "size": 8056,
+    "sha256": "8a64c29fe2b06c502460276141c07a8d3963a2a5bc6cd3e5510ab18c990c7c58"
+  },
+  {
+    "path": "05_quinto_basico/019_contaminacion_del_suelo.md",
+    "size": 8053,
+    "sha256": "8eb64b3f81547a51441d58e092cebf267c4fe3a2eccd7b8d8550223ed93daedd"
+  },
+  {
+    "path": "05_quinto_basico/01_glosario_curso.md",
+    "size": 317,
+    "sha256": "8b70e5e58e72675ce481f21d174a2ee2d5da2f46fb573d3a723f277c3fda92de"
+  },
+  {
+    "path": "05_quinto_basico/020_residuos_domiciliarios.md",
+    "size": 8076,
+    "sha256": "4c27194019e4ba65f2e0a39c2d49f1f2940b3fb7684196994172d2b6f0d629c7"
+  },
+  {
+    "path": "05_quinto_basico/021_reciclaje_y_economia_circular_inicial.md",
+    "size": 8171,
+    "sha256": "11667001698e8d8d14150d5b45ce2d217fabe164dfdf3adc0d23a8e755813a97"
+  },
+  {
+    "path": "05_quinto_basico/022_conservacion_de_especies.md",
+    "size": 8069,
+    "sha256": "535d70fa8bd056c8f93ef68bac327f98e802c4b8935f8bff3eef240a4383b8be"
+  },
+  {
+    "path": "05_quinto_basico/023_areas_protegidas.md",
+    "size": 8017,
+    "sha256": "49d9c73f3912d1d7c0e8171b827cdd486fa3c065dee40f3b3c3850e101be626e"
+  },
+  {
+    "path": "05_quinto_basico/024_proyecto_ambiental_escolar.md",
+    "size": 8073,
+    "sha256": "5afd2e5cc8b630a926394ea3a2d9ff7d1ac9b0f8935e5e9dd376e13216f7c696"
+  },
+  {
+    "path": "05_quinto_basico/02_banco_preguntas.md",
+    "size": 4645,
+    "sha256": "3c97bd85d9631382af8a89e021ca9cfb05f04e6b7af02859b836c67290eaac3f"
+  },
+  {
+    "path": "06_sexto_basico/001_atmosfera_litosfera_e_hidrosfera.md",
+    "size": 8120,
+    "sha256": "22ca5b465aa6b1ecf3dfdc5f891ddfe2405502a2ff69dc65ef1b022bc18e91b4"
+  },
+  {
+    "path": "06_sexto_basico/002_capas_que_permiten_la_vida.md",
+    "size": 8073,
+    "sha256": "341a9aa0412a81922cf979c5e78672a05c9406d1537b7dd825d27801d8fc0362"
+  },
+  {
+    "path": "06_sexto_basico/003_recursos_de_la_atmosfera.md",
+    "size": 8062,
+    "sha256": "57d317fef48595c12d3326f35f544166a868a6cd506dc182c9a87b83e9d56bad"
+  },
+  {
+    "path": "06_sexto_basico/004_recursos_de_la_hidrosfera.md",
+    "size": 8075,
+    "sha256": "84837c500813c29e7a1d5f3431d3aa64314fed9744298d8108c56627dc2579fb"
+  },
+  {
+    "path": "06_sexto_basico/005_recursos_de_la_litosfera.md",
+    "size": 8070,
+    "sha256": "3f55b3e71e1a6cb77650a4282ddcfdc75328e8427011faacf67615b08c76e2e5"
+  },
+  {
+    "path": "06_sexto_basico/006_suelo_como_sistema.md",
+    "size": 8019,
+    "sha256": "0ece7d1431a1f859c924fdd21358296c4a88bb61ef76ca949be72d31720220ec"
+  },
+  {
+    "path": "06_sexto_basico/007_horizontes_del_suelo.md",
+    "size": 8031,
+    "sha256": "ad1f8c106db5c2c68fd1b799f382ec4bc95f4f379e5c407844560053ee73d714"
+  },
+  {
+    "path": "06_sexto_basico/008_textura_y_composicion_del_suelo.md",
+    "size": 8102,
+    "sha256": "d35c1a02424389d9e56bf4c741be4ea0c59aaad97136c1a778e8efc0f578fcf4"
+  },
+  {
+    "path": "06_sexto_basico/009_materia_organica_del_suelo.md",
+    "size": 8072,
+    "sha256": "760b0d4653ffd7ac55a5490d50ea122422c4fcd5b93591480fb7cd426eb563c7"
+  },
+  {
+    "path": "06_sexto_basico/00_indice_curso.md",
+    "size": 2728,
+    "sha256": "cc4106c358138ba74f0dcaa18eb7fcad719c5ff426896784a982aa41dbea7c9c"
+  },
+  {
+    "path": "06_sexto_basico/010_organismos_del_suelo.md",
+    "size": 8031,
+    "sha256": "0741fe7be135f8e59c69809e0195a2bf42422b6578d59cc85b03f29c19588931"
+  },
+  {
+    "path": "06_sexto_basico/011_erosion_por_agua.md",
+    "size": 8038,
+    "sha256": "c87513c085f720e430c2ab3167d5996273c10e18c08f0831a18f3f97083a6f74"
+  },
+  {
+    "path": "06_sexto_basico/012_erosion_por_viento.md",
+    "size": 8041,
+    "sha256": "4106a59596abe19ed630c461d4f0c7f4f14c7ca7a3a8787ade5837f6f40b8da7"
+  },
+  {
+    "path": "06_sexto_basico/013_erosion_por_actividades_humanas.md",
+    "size": 8119,
+    "sha256": "0ded5f28999f583bc0d3f117bbe90c9df31f40ce12813c1b60c538634d3bb055"
+  },
+  {
+    "path": "06_sexto_basico/014_conservacion_del_suelo.md",
+    "size": 8048,
+    "sha256": "e9e9b5ecb5c29498d280277afaf043633951ce347fc399ef88f3ef7768aa5104"
+  },
+  {
+    "path": "06_sexto_basico/015_fotosintesis_y_ecosistemas.md",
+    "size": 8054,
+    "sha256": "a2d8b9237700e84d9fa7db9cdd1b238c1e3361bf64da36ccc08a402fc3c47190"
+  },
+  {
+    "path": "06_sexto_basico/016_cadenas_y_redes_alimentarias.md",
+    "size": 8088,
+    "sha256": "13c11493480094a4cb1d67a1f9c75cf28d51ed1939b0340bfc64b0c468c4eefb"
+  },
+  {
+    "path": "06_sexto_basico/017_flujo_de_energia.md",
+    "size": 8022,
+    "sha256": "667ca9b6e004af5fc8774569723c8db1e079dd3f244254d9f12ef7e70623bff1"
+  },
+  {
+    "path": "06_sexto_basico/018_ciclos_de_materia_iniciales.md",
+    "size": 8079,
+    "sha256": "befafd2e5076a0532d94ab87c3cc4bd567feec9265bc21cf69c915efc0455dac"
+  },
+  {
+    "path": "06_sexto_basico/019_clima_y_zonas_climaticas.md",
+    "size": 8062,
+    "sha256": "0fe299593c148df11152cc999bef39abfce124325fde6d8db313bd15e617031e"
+  },
+  {
+    "path": "06_sexto_basico/01_glosario_curso.md",
+    "size": 317,
+    "sha256": "dc335a8df749681053581ad55e80915d3af7d209ace029455962b2daa0882e20"
+  },
+  {
+    "path": "06_sexto_basico/020_atmosfera_y_efecto_invernadero_inicial.md",
+    "size": 8179,
+    "sha256": "d7c44c58d9b49de47c2d5e167adab93cd6418cfc9dc8faf717a200143ba54aba"
+  },
+  {
+    "path": "06_sexto_basico/021_uso_sostenible_de_recursos.md",
+    "size": 8077,
+    "sha256": "65914a79b92479c8d774a00102b9890eba960e972d4e102ea5e94e3f5c2828b5"
+  },
+  {
+    "path": "06_sexto_basico/022_contaminacion_y_prevencion.md",
+    "size": 8085,
+    "sha256": "97f037be315c24f3eba0c33f0b8f546345df80c45aba4d4989f085e3c8f29b82"
+  },
+  {
+    "path": "06_sexto_basico/023_cambio_climatico_inicial.md",
+    "size": 8065,
+    "sha256": "56c0844890302bc0c4bedfecf1b097992a53df6917e5dc632c08a8b70bbeb6ba"
+  },
+  {
+    "path": "06_sexto_basico/024_diseno_de_experimento_sobre_erosion.md",
+    "size": 8148,
+    "sha256": "48ba96f158e808a4b3764f2eb28553f5e88e0f5d949aec163eba5e4d735aabaa"
+  },
+  {
+    "path": "06_sexto_basico/02_banco_preguntas.md",
+    "size": 4646,
+    "sha256": "3f420555e9e9e848aa06427986f3370cc80a22b3800d2cbed508007cf5ccce8e"
+  },
+  {
+    "path": "07_septimo_basico/001_deriva_continental.md",
+    "size": 8025,
+    "sha256": "3e7b3f6343cd916fe38c39fa4f8cb4c4c0e0c6215844ec3246a997dfc861d8d8"
+  },
+  {
+    "path": "07_septimo_basico/002_tectonica_de_placas.md",
+    "size": 8068,
+    "sha256": "620860b3e379251c391f3345006b56818aec0ecc8ed0f0a66c0f862bb0d2a7e1"
+  },
+  {
+    "path": "07_septimo_basico/003_placas_oceanicas_y_continentales.md",
+    "size": 8146,
+    "sha256": "3ce8a956cefdd0ec0cace508d9718cedb608f0e57124a6ff4212057bf1411d29"
+  },
+  {
+    "path": "07_septimo_basico/004_limites_convergentes.md",
+    "size": 8042,
+    "sha256": "ffbb2b15e25b0517fedfd7c1746d7db73ae16678f7269671fca59091a7b0ad72"
+  },
+  {
+    "path": "07_septimo_basico/005_limites_divergentes.md",
+    "size": 8036,
+    "sha256": "24071622c98b7373620c4832eb3901b998ebb9dcee1abe628bffd3b6d7c368c4"
+  },
+  {
+    "path": "07_septimo_basico/006_limites_transformantes.md",
+    "size": 8054,
+    "sha256": "52dd0222c9cea696e50c94adc8d88185a9a0f53df66242381fa6f32d28971241"
+  },
+  {
+    "path": "07_septimo_basico/007_subduccion.md",
+    "size": 7982,
+    "sha256": "39d2ada2ce22e11eed9d9c3cae9a16d9c705446553b837f268533f8891cf35b1"
+  },
+  {
+    "path": "07_septimo_basico/008_formacion_de_cordilleras.md",
+    "size": 8066,
+    "sha256": "d042ff557b3260c64e001572fa2136db7d215e938ca51b83da8d5c14fdab0797"
+  },
+  {
+    "path": "07_septimo_basico/009_sismos_y_placas.md",
+    "size": 8038,
+    "sha256": "e313bf0bbe1e1438e9cc655b9d11449d938f288515734e7672a27338c8653608"
+  },
+  {
+    "path": "07_septimo_basico/00_indice_curso.md",
+    "size": 2611,
+    "sha256": "4ef42a8a90ec973554822f7f7ec501f05b93062c3c3e463739801a81e9c98b9b"
+  },
+  {
+    "path": "07_septimo_basico/010_volcanismo_y_placas.md",
+    "size": 8063,
+    "sha256": "45a021d3ed77400706f8bd47d3c7e66fdcea438a00b846837a971ad03bb8921e"
+  },
+  {
+    "path": "07_septimo_basico/011_distribucion_global_de_sismos_y_volcanes.md",
+    "size": 8190,
+    "sha256": "f59372f3755b456a3f51d34402fe7c600a7204d68c5a03df4f7a5d4afa9a7e30"
+  },
+  {
+    "path": "07_septimo_basico/012_cinturon_de_fuego_del_pacifico.md",
+    "size": 8107,
+    "sha256": "2d16e0d30bb23e8779185094fa7e957abfcf176de91bc83456d780cb7a321132"
+  },
+  {
+    "path": "07_septimo_basico/013_estructura_de_un_volcan.md",
+    "size": 8056,
+    "sha256": "a436f0d72b945eb8054c09cda530d37149531b78b642d2faa897180ea4926fe5"
+  },
+  {
+    "path": "07_septimo_basico/014_tipos_de_erupcion_iniciales.md",
+    "size": 8084,
+    "sha256": "afebd188c8e9cf162d6b799b752c1f5b73cfd4550001ae031dbe4d4d4aa7c473"
+  },
+  {
+    "path": "07_septimo_basico/015_ondas_sismicas_iniciales.md",
+    "size": 8066,
+    "sha256": "14c4c3bbd1ae6a20670a1c8462577a3794c230f13a6830154d91ba005fac3b96"
+  },
+  {
+    "path": "07_septimo_basico/016_epicentro_e_hipocentro.md",
+    "size": 8049,
+    "sha256": "1fd75de6e02acad85149d747fda2b4f136ad6289e214e1d89bd440ab7597ebad"
+  },
+  {
+    "path": "07_septimo_basico/017_magnitud_e_intensidad.md",
+    "size": 8043,
+    "sha256": "ec93cf7b2358383fc8fc6bf39a6a1396d094e96452796ad4b9d03f66b235fb78"
+  },
+  {
+    "path": "07_septimo_basico/018_tsunamis_y_generacion.md",
+    "size": 8044,
+    "sha256": "c43f8debcd4bb3916de595f909b1e97fc0ab871d555343bf389ee63eb7bea0eb"
+  },
+  {
+    "path": "07_septimo_basico/019_riesgo_volcanico.md",
+    "size": 8014,
+    "sha256": "c9937fcf7330a97dd933834692f065de1e8d10de625e2d4cd5775e78c5524612"
+  },
+  {
+    "path": "07_septimo_basico/01_glosario_curso.md",
+    "size": 317,
+    "sha256": "b1223ce1a4cfca0542878de4e92dd1edb5dfd6d7f9d0460c97d2e91537afb765"
+  },
+  {
+    "path": "07_septimo_basico/020_riesgo_sismico.md",
+    "size": 8003,
+    "sha256": "b6322b6d5f72c1aaf185621b060c165314c71c1edd2977341f93e97c9dd781be"
+  },
+  {
+    "path": "07_septimo_basico/021_amenaza_vulnerabilidad_y_exposicion.md",
+    "size": 8129,
+    "sha256": "5f4e22dbbb54f84c6b5175ebf88a419d74a206b1b2d8bbf930dfcae0bdb4696e"
+  },
+  {
+    "path": "07_septimo_basico/022_prevencion_y_preparacion.md",
+    "size": 8071,
+    "sha256": "c6a779153324074373c8b2682794e03e20eb7947f21e9c4e1ee2f799ccbb91cb"
+  },
+  {
+    "path": "07_septimo_basico/023_historia_geologica_inicial.md",
+    "size": 8075,
+    "sha256": "47059df84e67e4646b682aa962398303550ec11f7eaa53e18da4f60dcc7c9395"
+  },
+  {
+    "path": "07_septimo_basico/024_modelos_de_tectonica.md",
+    "size": 8074,
+    "sha256": "e07bbe312bb28545c5a10933b4915f2e1107d309f253b547564890137eb21699"
+  },
+  {
+    "path": "07_septimo_basico/02_banco_preguntas.md",
+    "size": 4584,
+    "sha256": "f48465a691737ed6e524716cace70bb49572b84944c4fbbf4b591a174dafb6f0"
+  },
+  {
+    "path": "08_octavo_basico/001_sistema_tierra.md",
+    "size": 8001,
+    "sha256": "8610b8b7ff2da272d3efaee1412144869eb15d2fd0bc9cb364631892809655e3"
+  },
+  {
+    "path": "08_octavo_basico/002_interacciones_atmosfera_hidrosfera_geosfera_biosfera.md",
+    "size": 8245,
+    "sha256": "1be1007bc569d8019872139512ef6c478ec689d58e98b46afce470600bccacf1"
+  },
+  {
+    "path": "08_octavo_basico/003_balance_energetico_terrestre.md",
+    "size": 8090,
+    "sha256": "e22139cbbd6feea5dcce7c9af228613e6bc0e12af53f7f89fe7de2956d761c2f"
+  },
+  {
+    "path": "08_octavo_basico/004_radiacion_solar_y_clima.md",
+    "size": 8056,
+    "sha256": "4818115207842d5de92a5789a4fa8630ad250fb7785a6530f7c8281b9b4f570b"
+  },
+  {
+    "path": "08_octavo_basico/005_efecto_invernadero_natural.md",
+    "size": 8102,
+    "sha256": "eb429eeee311ea69ca87644f071996729829d969af0af809129d75f91213c0a8"
+  },
+  {
+    "path": "08_octavo_basico/006_gases_de_efecto_invernadero.md",
+    "size": 8108,
+    "sha256": "c14ad65a86edd5371f3fab768ed37b5de30b0148f8f94aa36961fa60fdca0b25"
+  },
+  {
+    "path": "08_octavo_basico/007_tiempo_y_clima.md",
+    "size": 7997,
+    "sha256": "f718beb6353dc8a7ba580e4e4c8be2db08aa550a4018c391a760b740fda401b1"
+  },
+  {
+    "path": "08_octavo_basico/008_circulacion_atmosferica_inicial.md",
+    "size": 8113,
+    "sha256": "e88deeea5532e2c2e2edb962b899186201fff79332d155223d4c785d93eb6224"
+  },
+  {
+    "path": "08_octavo_basico/009_ciclo_del_carbono.md",
+    "size": 8019,
+    "sha256": "a6b0ec74bf3012c8870280f8bc22554cdbb6513f46353e05bba90778bec9a06f"
+  },
+  {
+    "path": "08_octavo_basico/00_indice_curso.md",
+    "size": 2961,
+    "sha256": "f19fec748b942d4bc7695871e5e568824797ea40bb20e087e383b16691ba8318"
+  },
+  {
+    "path": "08_octavo_basico/010_ciclo_del_nitrogeno.md",
+    "size": 8036,
+    "sha256": "9becc4a73647f1ebab1b3e6842f75fa24a24b34839720c0175d2c170d63a3995"
+  },
+  {
+    "path": "08_octavo_basico/011_ciclo_del_fosforo.md",
+    "size": 8024,
+    "sha256": "3e8132a1445cf4011c36e3c3eb91b177fb5756357738d3b719cd1d6ef0c662f2"
+  },
+  {
+    "path": "08_octavo_basico/012_ciclo_del_agua_avanzado.md",
+    "size": 8075,
+    "sha256": "1c781667d2e0d31e8b25ff1a6d2f24b2155344c025730d4fc7d2c58e4950b1f5"
+  },
+  {
+    "path": "08_octavo_basico/013_ecosistemas_y_homeostasis_ambiental.md",
+    "size": 8103,
+    "sha256": "0df075fcd6898480b1677696c50410fcaf27bd9bf2e59fccda34a8823f14de39"
+  },
+  {
+    "path": "08_octavo_basico/014_biodiversidad_genetica_de_especies_y_ecosistemas.md",
+    "size": 8186,
+    "sha256": "09b6b208b39f26282b8f76a42dbb8b213549faaec4b92201933d21fe8c8ca9ff"
+  },
+  {
+    "path": "08_octavo_basico/015_servicios_ecosistemicos.md",
+    "size": 8060,
+    "sha256": "3f29bb1ba693cd3425e24e29c580d9ea3ade2683da436fb90a55a7b86754d9ea"
+  },
+  {
+    "path": "08_octavo_basico/016_contaminacion_atmosferica.md",
+    "size": 8079,
+    "sha256": "e470df9372e797d9cd6c730a77d1d052782a9fa2d95618437e22dcc34c5733c4"
+  },
+  {
+    "path": "08_octavo_basico/017_contaminacion_hidrica.md",
+    "size": 8055,
+    "sha256": "879381a965ffa5522688e4c46b486748cc16cdd877fd04751d894f7bdcaa3c32"
+  },
+  {
+    "path": "08_octavo_basico/018_contaminacion_del_suelo.md",
+    "size": 8053,
+    "sha256": "09f97c833f4478e6b86021e1b1ffe7cfb9a135348f0310461b3ac807a0d8de69"
+  },
+  {
+    "path": "08_octavo_basico/019_eutrofizacion_inicial.md",
+    "size": 8048,
+    "sha256": "ced4003fc73f5e8fd16b1bff4350a1a845c457155e6e99b0b7ac9ba79cb0a968"
+  },
+  {
+    "path": "08_octavo_basico/01_glosario_curso.md",
+    "size": 317,
+    "sha256": "d77be8c11b5e7333c685daf3c0d307c8eeb8426b22c9432ece794b036ce7d7d9"
+  },
+  {
+    "path": "08_octavo_basico/020_lluvia_acida.md",
+    "size": 7994,
+    "sha256": "eaf0683660ef2c1663b65067fc1bceee0fb3e75f8b3c63c709b190b8150c409a"
+  },
+  {
+    "path": "08_octavo_basico/021_ozono_estratosferico_y_troposferico.md",
+    "size": 8137,
+    "sha256": "16a73971c2d90c5c2e4456fcb32a78e7005821ba9e51b5dfbc8911b587dfa180"
+  },
+  {
+    "path": "08_octavo_basico/022_residuos_y_materiales.md",
+    "size": 8070,
+    "sha256": "9f70693d21a76db05f3a7ae5f8d9efa3ba071cd2523f92be9e220c11b20aff87"
+  },
+  {
+    "path": "08_octavo_basico/023_huella_ecologica_inicial.md",
+    "size": 8069,
+    "sha256": "9e0b1c58d5495617a4a927a74ce8b86c275f75174c9860fc5ed160255e24b236"
+  },
+  {
+    "path": "08_octavo_basico/024_consumo_responsable.md",
+    "size": 8034,
+    "sha256": "30af838a3f596360ab4b28fecc1028efb5cd3e256d2b3853045c7bf7c45e6805"
+  },
+  {
+    "path": "08_octavo_basico/025_cambio_climatico_y_evidencia.md",
+    "size": 8089,
+    "sha256": "6ad02a7ae22e116593f8f4019e0290f0a669c38d3727f02cc8944d0f6157f21d"
+  },
+  {
+    "path": "08_octavo_basico/026_adaptacion_y_mitigacion_inicial.md",
+    "size": 8113,
+    "sha256": "ed130ccb22f733c2e3dfaa1303142307ce8c662d494941a2bdaa67adf7edd759"
+  },
+  {
+    "path": "08_octavo_basico/02_banco_preguntas.md",
+    "size": 5036,
+    "sha256": "5f2d72c8c347114f7bd489f27c1a34941c12db19345278bfe3f715bb7a9385e6"
+  },
+  {
+    "path": "09_primero_medio/001_niveles_de_organizacion_ecologica.md",
+    "size": 8119,
+    "sha256": "7f86103a68d87f7258045bc7d43469df02577a2516b9248c6dce8543f28ab8f8"
+  },
+  {
+    "path": "09_primero_medio/002_organismo_poblacion_comunidad_ecosistema.md",
+    "size": 8132,
+    "sha256": "c130ce1173dc89c8770af2d3fe429df7b98c2a113a19262d89f768880a3fb3d6"
+  },
+  {
+    "path": "09_primero_medio/003_habitat_y_nicho_ecologico.md",
+    "size": 8074,
+    "sha256": "793a5a6bcdbe3829db7199475fc27c151ec00384088bf4539b3fc97abdd3ee72"
+  },
+  {
+    "path": "09_primero_medio/004_factores_bioticos_y_abioticos.md",
+    "size": 8095,
+    "sha256": "6098b5587b9ef40b092e0150766c3e22f9b60816ec266102af521639cf36297e"
+  },
+  {
+    "path": "09_primero_medio/005_flujo_de_energia.md",
+    "size": 8016,
+    "sha256": "be153b52e07d072384e799314133a1cc9f34970b7fb9d9d1e84eb6596478f6cb"
+  },
+  {
+    "path": "09_primero_medio/006_productividad_primaria.md",
+    "size": 8043,
+    "sha256": "4011e6d96322d8a528e00515221b78836d39ba1a75034baa3b840f0fa2bd90a9"
+  },
+  {
+    "path": "09_primero_medio/007_cadenas_y_redes_troficas.md",
+    "size": 8063,
+    "sha256": "9bbc67df35937165ff295bb1bfa5087bff5e965c4aaa9a1eb60d86f81c2b314a"
+  },
+  {
+    "path": "09_primero_medio/008_piramides_ecologicas.md",
+    "size": 8041,
+    "sha256": "4aec7ec6216db70d08cdcaf5158d44ecfbef145626c00b9d70f04547ba9b4e3d"
+  },
+  {
+    "path": "09_primero_medio/009_ciclos_biogeoquimicos.md",
+    "size": 8042,
+    "sha256": "967706276053cb5fb76170d13eadacf1e3a6e4f844931452ce32b1b42e7f3d8d"
+  },
+  {
+    "path": "09_primero_medio/00_indice_curso.md",
+    "size": 2887,
+    "sha256": "9c89e9947b1f3ff2b9108d80a18d9c88379f8474fe73d7c04670f37e4cb90712"
+  },
+  {
+    "path": "09_primero_medio/010_dinamica_de_poblaciones.md",
+    "size": 8054,
+    "sha256": "018324c835ad9d82a942ba48374d6d508700c3fb78365c530a0c3f34bfcae0c3"
+  },
+  {
+    "path": "09_primero_medio/011_crecimiento_poblacional.md",
+    "size": 8049,
+    "sha256": "32443bb703747c20da0165bbf5c0866cc5bd526e2378011800586d868ee14fc3"
+  },
+  {
+    "path": "09_primero_medio/012_capacidad_de_carga.md",
+    "size": 8019,
+    "sha256": "9ecc056216ac50d4726aa46a26d6b145c4d98239bf9fd5bd8221f12b0c6938f1"
+  },
+  {
+    "path": "09_primero_medio/013_competencia.md",
+    "size": 7977,
+    "sha256": "31fd16725e0a2f6563d65125e6201569ffc4d9ca3cc1b76b30abf81e86bf4324"
+  },
+  {
+    "path": "09_primero_medio/014_depredacion.md",
+    "size": 7982,
+    "sha256": "866fc8f88acb00dae6a2e83d15e673d2d3171f4a270096ddce1ec2bc3ec66dc5"
+  },
+  {
+    "path": "09_primero_medio/015_mutualismo.md",
+    "size": 7971,
+    "sha256": "f4376d0558fe964145c90912918f5da2c1a7fac6c75c1b985b6abc7f3c509f50"
+  },
+  {
+    "path": "09_primero_medio/016_parasitismo.md",
+    "size": 7977,
+    "sha256": "00c772c8a8d19ef354e4159ef2ec0257c6645bb7c3f503d3cfc9ca77cdf42eca"
+  },
+  {
+    "path": "09_primero_medio/017_sucesion_ecologica.md",
+    "size": 8029,
+    "sha256": "c31bd4548e7fef5c778bea521767aaf784c7c3cb213bbb54c4e53b9e3c9aa07b"
+  },
+  {
+    "path": "09_primero_medio/018_ecosistemas_de_chile.md",
+    "size": 8007,
+    "sha256": "08dad93c17342ac9eb188c27632d9d1e612f2b79ef77ba44049196bb5f9dd0dd"
+  },
+  {
+    "path": "09_primero_medio/019_biomas_del_mundo.md",
+    "size": 8010,
+    "sha256": "a1c83e28146b053a892a10e094bd3633bc04afbcbc85f0217cf21c51c5a32288"
+  },
+  {
+    "path": "09_primero_medio/01_glosario_curso.md",
+    "size": 315,
+    "sha256": "4085e60dcab6eb79c9e0cc04c8449d91b198112f7ac6eda948fbda39b5bd3314"
+  },
+  {
+    "path": "09_primero_medio/020_biodiversidad_de_chile.md",
+    "size": 8019,
+    "sha256": "8f97835546499cf3ca9a5ffec626ef57662c32694aa765c5e454c95b3f2f5ef8"
+  },
+  {
+    "path": "09_primero_medio/021_endemismo.md",
+    "size": 7965,
+    "sha256": "6c83353640c34a1d0ef5fa977e657e9d19f56dad99e547582dd4d5a6d613bfef"
+  },
+  {
+    "path": "09_primero_medio/022_servicios_ecosistemicos.md",
+    "size": 8054,
+    "sha256": "9ba3f0c806d442b2d809116ad45211191bc8a32b8f374d9dfa73ad8414640edc"
+  },
+  {
+    "path": "09_primero_medio/023_perdida_de_habitat.md",
+    "size": 8032,
+    "sha256": "383d7f201881a74cc00aebdf86da3af1eb0bfcb0daea72f3ce1273d30674d7f8"
+  },
+  {
+    "path": "09_primero_medio/024_fragmentacion.md",
+    "size": 7994,
+    "sha256": "432773179db0682f8a1c109a943338bbb3865d34be13949e98f7b8a9250b2bfb"
+  },
+  {
+    "path": "09_primero_medio/025_especies_invasoras.md",
+    "size": 8022,
+    "sha256": "6491df9c4d2e0a034c14e7db40334d2dc42a2812e2cd1f675d35d9acda6b5e23"
+  },
+  {
+    "path": "09_primero_medio/026_sobreexplotacion.md",
+    "size": 8012,
+    "sha256": "7e8095f92dc4add23f1b8f0dd84398d2718e41134ffa0d7e39b7edf894e2995c"
+  },
+  {
+    "path": "09_primero_medio/027_conservacion_y_restauracion.md",
+    "size": 8086,
+    "sha256": "c63e432e29dc05315b1749daf4a228f9317c6d84ef4496fc49e5a06f842c4d5d"
+  },
+  {
+    "path": "09_primero_medio/028_cambio_global_y_ecosistemas.md",
+    "size": 8049,
+    "sha256": "46c35d34556f70879f669b5c53e2472355f92872eb7578619c2cfed38bb9d6c8"
+  },
+  {
+    "path": "09_primero_medio/02_banco_preguntas.md",
+    "size": 5271,
+    "sha256": "670e94fc59c2a4271d015150103ee05740343cc255e752b0b43a20a000659b90"
+  },
+  {
+    "path": "10_segundo_medio/001_historia_geologica_de_la_tierra.md",
+    "size": 8099,
+    "sha256": "43a9621c1c0043c3ecbad9eca0d5f6a4d0d4455d1fa0228e0fcf639534f45da6"
+  },
+  {
+    "path": "10_segundo_medio/002_tiempo_geologico.md",
+    "size": 8009,
+    "sha256": "3e57a1af76ca0a6efea270d85b87b9c28f93569311b4272a2b2873904c99e680"
+  },
+  {
+    "path": "10_segundo_medio/003_datacion_relativa.md",
+    "size": 8018,
+    "sha256": "1d32fd9fa00e020785e419d58baad2e1035d5e641c51cc2250f033608fb9cc37"
+  },
+  {
+    "path": "10_segundo_medio/004_datacion_radiometrica_inicial.md",
+    "size": 8095,
+    "sha256": "2c4eb97a5c1afcad14eabb28db3b38409c3cb49418c7c7983117489f43352249"
+  },
+  {
+    "path": "10_segundo_medio/005_fosiles_y_paleoambientes.md",
+    "size": 8060,
+    "sha256": "1e426ab24a11c4e93f228e2a00d46add3f6ba6d77a850138f4e0deadba6ff57e"
+  },
+  {
+    "path": "10_segundo_medio/006_tectonica_y_evolucion_del_relieve.md",
+    "size": 8151,
+    "sha256": "61b98062c72376bc6af9966d8d03ef54b1b0d8b62520cdf5edf76499c83d7da2"
+  },
+  {
+    "path": "10_segundo_medio/007_ciclo_supercontinental.md",
+    "size": 8043,
+    "sha256": "f75c7e398d4ab94836c09556cc7373c47b57cb6e64b09e585de9c8b60a15a436"
+  },
+  {
+    "path": "10_segundo_medio/008_oceanos_y_clima.md",
+    "size": 8002,
+    "sha256": "728b72a0b7f0853928b8651348c18215b964c6e3dd21caa187f60477e079b2eb"
+  },
+  {
+    "path": "10_segundo_medio/009_atmosfera_y_clima_global.md",
+    "size": 8056,
+    "sha256": "102b5da88fe914549ca01c11f2a7828493967fcbcaccb83115170a1ad8ee44eb"
+  },
+  {
+    "path": "10_segundo_medio/00_indice_curso.md",
+    "size": 3210,
+    "sha256": "3115160501bcf96a045bad97b67dc07438520c37230526e70788ac342c8da125"
+  },
+  {
+    "path": "10_segundo_medio/010_circulacion_oceanica.md",
+    "size": 8041,
+    "sha256": "330fee9a4b900e5c49132c5de1161ed9764e18bdaaeae8481047dfd4473da2a7"
+  },
+  {
+    "path": "10_segundo_medio/011_fenomenos_el_nino_y_la_nina.md",
+    "size": 8083,
+    "sha256": "1567a7a6c17aa6cd695ef619eb74692af13a31153f6c1dbff49053e56cc92045"
+  },
+  {
+    "path": "10_segundo_medio/012_variabilidad_climatica.md",
+    "size": 8048,
+    "sha256": "910fa39d7878e4e95d0e28029772fae75ba215abf5f58b53617a53e584bec187"
+  },
+  {
+    "path": "10_segundo_medio/013_paleoclima.md",
+    "size": 7967,
+    "sha256": "3984ebcf383c679ddf4cc3aaba3920a7e849a08a6bd8e484892ef72a1e59ba31"
+  },
+  {
+    "path": "10_segundo_medio/014_evidencias_del_cambio_climatico.md",
+    "size": 8101,
+    "sha256": "52068ce862f78d345d286376c8e1db2abc88fd63f21f21779f59579802e4ff2e"
+  },
+  {
+    "path": "10_segundo_medio/015_gases_de_efecto_invernadero.md",
+    "size": 8102,
+    "sha256": "1ca99f889ec32b6002b0f4989c0d088715c56a7b91ed0967b4c6d4e953b0207b"
+  },
+  {
+    "path": "10_segundo_medio/016_forzamiento_radiativo_inicial.md",
+    "size": 8085,
+    "sha256": "a4874cd9793c737ea753e403f31270e08c0e4a378cb83689a556216699a79585"
+  },
+  {
+    "path": "10_segundo_medio/017_acidificacion_del_oceano.md",
+    "size": 8068,
+    "sha256": "93f149e3a1f3cac667ebba280f97d7153148c7297bd021cc840469f2ef096187"
+  },
+  {
+    "path": "10_segundo_medio/018_aumento_del_nivel_del_mar.md",
+    "size": 8061,
+    "sha256": "4a6b33246d424bd5259a38bbf636a01e2a8b605dc6b1312e96c1726d168574a8"
+  },
+  {
+    "path": "10_segundo_medio/019_glaciares_y_criosfera.md",
+    "size": 8045,
+    "sha256": "0dcd2069d00fe4e5f030864403c5f61bdc89da60a0cca71c7639d317f25eacab"
+  },
+  {
+    "path": "10_segundo_medio/01_glosario_curso.md",
+    "size": 315,
+    "sha256": "912fa6d95c38a3b700d3ca3ea744a851fb67a2865c7041303786b8d12129dda2"
+  },
+  {
+    "path": "10_segundo_medio/020_sequias_e_inundaciones.md",
+    "size": 8043,
+    "sha256": "d1872f012e02445ed9ab0ff9d39758ece66af690b2cb3b9c17394d54159d6bff"
+  },
+  {
+    "path": "10_segundo_medio/021_incendios_forestales_y_riesgo.md",
+    "size": 8079,
+    "sha256": "8b269b315c879ad24011bb740bc3dae7efce458adf6ce8deacb42a9a8e5d4a14"
+  },
+  {
+    "path": "10_segundo_medio/022_desertificacion.md",
+    "size": 8000,
+    "sha256": "1b8f0591faae2354c1d10b2aa9b44aa8004bb062f91fbed49bb57a0eb729908a"
+  },
+  {
+    "path": "10_segundo_medio/023_seguridad_hidrica.md",
+    "size": 8021,
+    "sha256": "87d5f5832333ad68f41b39cde074a04a8ab2457541486816e83358ad5a6295f3"
+  },
+  {
+    "path": "10_segundo_medio/024_gestion_de_cuencas.md",
+    "size": 8027,
+    "sha256": "17440ec0329a465343820e6ad6a166f8b0f3a71c000350d48be28df2936b6e28"
+  },
+  {
+    "path": "10_segundo_medio/025_energia_y_ambiente.md",
+    "size": 8028,
+    "sha256": "e03a81c6939eaaf5d1fa4b0965f64c9e1a0ccc95cc85ea80289ab86a5bc5776e"
+  },
+  {
+    "path": "10_segundo_medio/026_mineria_y_sostenibilidad.md",
+    "size": 8064,
+    "sha256": "07f36c4ea0b7157dbf20fcc86b2b52b0ca9b12f2cab4911eb97cc50ca83114a5"
+  },
+  {
+    "path": "10_segundo_medio/027_evaluacion_de_impacto_ambiental_inicial.md",
+    "size": 8150,
+    "sha256": "aa5ac5b7eac0c15310900cb8274820baaa616926fc25a1c184d8bd57d69e0ddb"
+  },
+  {
+    "path": "10_segundo_medio/028_conflictos_socioambientales.md",
+    "size": 8073,
+    "sha256": "85cac2252da0b16f9755c81e0ebd797df5b29a75ada8c0f911ca60d438e9860c"
+  },
+  {
+    "path": "10_segundo_medio/029_justicia_ambiental_inicial.md",
+    "size": 8066,
+    "sha256": "56d51d75fea0a821f49cb5023eef40cf6d5a258bb4f9dfe5dd5c738859f3ed8b"
+  },
+  {
+    "path": "10_segundo_medio/02_banco_preguntas.md",
+    "size": 5756,
+    "sha256": "90a0591487a594743abfd59908f613954725b523048d2b34cc30470fcb398f84"
+  },
+  {
+    "path": "10_segundo_medio/030_proyecto_de_analisis_ambiental.md",
+    "size": 8096,
+    "sha256": "f803c508480a53dda5a39ee1f16196da4291598077963161bc0c5d14a56bc60e"
+  },
+  {
+    "path": "11_tercero_medio/001_cambio_climatico_como_desafio_urgente.md",
+    "size": 8141,
+    "sha256": "039f5225947770418b61fb87b4b79fdba152e731fa261661a1bd22f7ede0fa3d"
+  },
+  {
+    "path": "11_tercero_medio/002_evidencias_del_cambio_climatico.md",
+    "size": 8100,
+    "sha256": "216a9ec66d07168561cc0a551252341c664e64881de01dcef1866d461422b2c5"
+  },
+  {
+    "path": "11_tercero_medio/003_modelos_climaticos_iniciales.md",
+    "size": 8083,
+    "sha256": "9b35eb3f5afc960b4e577448ea98c590d9c12327435ecb4c1263749960a51b58"
+  },
+  {
+    "path": "11_tercero_medio/004_escenarios_de_emisiones.md",
+    "size": 8048,
+    "sha256": "39bf697e5ac52559b8f9692bf99c21be25b602dfab50d819f771adec320b28a2"
+  },
+  {
+    "path": "11_tercero_medio/005_mitigacion.md",
+    "size": 7975,
+    "sha256": "a101638f89f957c5a31226f1eb438543234c872ede01dee8d9d67e000ee7f2bb"
+  },
+  {
+    "path": "11_tercero_medio/006_adaptacion.md",
+    "size": 7975,
+    "sha256": "7016ae7e3394a7b91f700770bef64e76e82e4e7d97595f835fc3e9605c88994c"
+  },
+  {
+    "path": "11_tercero_medio/007_soluciones_basadas_en_la_naturaleza.md",
+    "size": 8120,
+    "sha256": "1853add48df621fbd3fa958835b7225b4227b01952a7cb1dc5ae2bc533ba5c6b"
+  },
+  {
+    "path": "11_tercero_medio/008_transicion_energetica.md",
+    "size": 8050,
+    "sha256": "f058e58270b9dcde7baa3dae9cd3c6ed052da2aeac7dffb738db5ac560f4a0c8"
+  },
+  {
+    "path": "11_tercero_medio/009_eficiencia_energetica.md",
+    "size": 8041,
+    "sha256": "98cfb98f2db0b992479c575804e039341b0d3e01369ff37d4da3079d7502d986"
+  },
+  {
+    "path": "11_tercero_medio/00_indice_curso.md",
+    "size": 2932,
+    "sha256": "48e27690d51798e557f40c34393b41c9cd3813a3dbcda0d4d5613065e4156670"
+  },
+  {
+    "path": "11_tercero_medio/010_movilidad_sostenible.md",
+    "size": 8030,
+    "sha256": "901b70824f5ae10867a27602518f68a55c3f267f96b510c2a7cef7ca89119b36"
+  },
+  {
+    "path": "11_tercero_medio/011_consumo_sostenible.md",
+    "size": 8021,
+    "sha256": "0ad4ebda2f8460f09313f29818017d2cc7b6681994df848407e609fd71d767ac"
+  },
+  {
+    "path": "11_tercero_medio/012_economia_circular.md",
+    "size": 8020,
+    "sha256": "dfa1b9ef00a542cfb68080dab8f9af555544ce5225602eb94cf1bc3f01e9f82c"
+  },
+  {
+    "path": "11_tercero_medio/013_gestion_de_residuos.md",
+    "size": 8056,
+    "sha256": "5b17e8c153cebecd3d475e099b9e2f45ca7eb99be1d6d5d12439d8df9be1eeae"
+  },
+  {
+    "path": "11_tercero_medio/014_contaminacion_del_aire_y_salud.md",
+    "size": 8097,
+    "sha256": "403ace339fc80038abfd89dd2e34d22e3faa6b337250e7e61220bd42e9d0212c"
+  },
+  {
+    "path": "11_tercero_medio/015_calidad_del_agua.md",
+    "size": 8008,
+    "sha256": "fb340fa1b3a1a44e996d32890687964fc04a896f05a20c9ab0aad2c9e62b55b4"
+  },
+  {
+    "path": "11_tercero_medio/016_seguridad_hidrica.md",
+    "size": 8020,
+    "sha256": "75cfff98fbac391ee5d674a229d4d90c1ef89be2d8c8d56f46925fc46767349b"
+  },
+  {
+    "path": "11_tercero_medio/017_biodiversidad_y_servicios_ecosistemicos.md",
+    "size": 8125,
+    "sha256": "912f8127b3d3510b733836aca65381e9d23c62190eecb13640197d32a3c1bb55"
+  },
+  {
+    "path": "11_tercero_medio/018_restauracion_ecologica.md",
+    "size": 8055,
+    "sha256": "5f4ab344c5cfaaec8931b8fd34de55d26f396bbb10834c1681849aa5c0acd707"
+  },
+  {
+    "path": "11_tercero_medio/019_agricultura_sostenible.md",
+    "size": 8042,
+    "sha256": "f6c7dd0716c134414d8179aa2d13f92d7613785ef6dc177a7e8effeb9efdf0b6"
+  },
+  {
+    "path": "11_tercero_medio/01_glosario_curso.md",
+    "size": 315,
+    "sha256": "a86a01d35ff89f9ce1e1e52de45a9f42116eae6968e928184ca830df390282cd"
+  },
+  {
+    "path": "11_tercero_medio/020_ciudades_resilientes.md",
+    "size": 8030,
+    "sha256": "caf18e9340919147f3fbd87de436c4a8bbcfeff305dda7c715824147e6f98c81"
+  },
+  {
+    "path": "11_tercero_medio/021_riesgos_socionaturales.md",
+    "size": 8039,
+    "sha256": "62670588661a3513be2d473dd90b595ba915c996bf22a0c85745ef5c933af197"
+  },
+  {
+    "path": "11_tercero_medio/022_gestion_del_riesgo_de_desastres.md",
+    "size": 8097,
+    "sha256": "eae988800697b5b68d88cd52bef3361fc8bb3e82b637b1f6d72996b944487220"
+  },
+  {
+    "path": "11_tercero_medio/023_participacion_ambiental.md",
+    "size": 8052,
+    "sha256": "319b3a0f2870f91a7dbe2e5abad00fcfee9925899106219ce4e00f15cfe021a8"
+  },
+  {
+    "path": "11_tercero_medio/024_leyes_e_instituciones_ambientales.md",
+    "size": 8106,
+    "sha256": "76451eceb28895ff0404eb5745f67b5f39af3860f18000abcaf4fd2a294e80e9"
+  },
+  {
+    "path": "11_tercero_medio/025_informacion_y_desinformacion_ambiental.md",
+    "size": 8148,
+    "sha256": "1062e777a924a5c4b9bd1ea2842b617c57d871c70e3eb53c2aeaf8bb729ace5f"
+  },
+  {
+    "path": "11_tercero_medio/026_proyecto_local_de_sostenibilidad.md",
+    "size": 8102,
+    "sha256": "a9793d933db142610786df85483e356d2ebb031d3776863073f894ae618ccd40"
+  },
+  {
+    "path": "11_tercero_medio/02_banco_preguntas.md",
+    "size": 5007,
+    "sha256": "2e3fe8e4e995ccdff8d126fc0bbf8d7af79ae71723ad7c8fa97ff1a4e6bc9285"
+  },
+  {
+    "path": "12_cuarto_medio/001_sistema_climatico_terrestre.md",
+    "size": 8077,
+    "sha256": "239a742c152c4194039556461efbcc48735d8fc74673638b0e26a363681500af"
+  },
+  {
+    "path": "12_cuarto_medio/002_retroalimentaciones_climaticas.md",
+    "size": 8095,
+    "sha256": "d88e6d709b191a6591dec3ce5a14dea4898ffd97d5290b092bda50127b404172"
+  },
+  {
+    "path": "12_cuarto_medio/003_carbono_y_presupuesto_global.md",
+    "size": 8078,
+    "sha256": "838485057fde73dccdc7b92578867a14b4a28abb67c5d0540122023c0b9fad99"
+  },
+  {
+    "path": "12_cuarto_medio/004_justicia_climatica.md",
+    "size": 8022,
+    "sha256": "6760e1c2966ec75233379e9be958a9a84eab1db5729b7418cca8288e606ea373"
+  },
+  {
+    "path": "12_cuarto_medio/005_perdidas_y_danos.md",
+    "size": 8016,
+    "sha256": "d67e3f2b90e18417fd6d19f36fa3d135d713b042863da3c926c4a3300a6e72fe"
+  },
+  {
+    "path": "12_cuarto_medio/006_adaptacion_basada_en_ecosistemas.md",
+    "size": 8083,
+    "sha256": "dd9f696c227e2e747361afddcf8399ac6d2b7d9936ee3aacbc02348845bc420c"
+  },
+  {
+    "path": "12_cuarto_medio/007_resiliencia_comunitaria.md",
+    "size": 8045,
+    "sha256": "effb5b4b28c32e7cf978f0a17c76239d0074946680aad3f54709f44e40cf4833"
+  },
+  {
+    "path": "12_cuarto_medio/008_riesgo_y_vulnerabilidad_territorial.md",
+    "size": 8117,
+    "sha256": "659fea83fc8ec2e93132418bcc4678ce1f431c583eb0f37af0a224530f738672"
+  },
+  {
+    "path": "12_cuarto_medio/009_sistemas_de_alerta_temprana.md",
+    "size": 8068,
+    "sha256": "d9a3ec2b658178879f6694f716275daac766ecf8e8bb5f68d890b120f798a073"
+  },
+  {
+    "path": "12_cuarto_medio/00_indice_curso.md",
+    "size": 3440,
+    "sha256": "6d3452a68e356d6b52492297aaa6cbbbc0c44b89fdb2f4ebf42223510618e554"
+  },
+  {
+    "path": "12_cuarto_medio/010_planificacion_urbana_sostenible.md",
+    "size": 8101,
+    "sha256": "e4627897f23db25bb8dfaa5041a613c51f05ee382fb2641d717f2ebdaafcde8d"
+  },
+  {
+    "path": "12_cuarto_medio/011_soluciones_hidricas.md",
+    "size": 8032,
+    "sha256": "6a9c47e334eb40e10d726fd689c343d45032889d1d9669b6415e99a2f6126a0a"
+  },
+  {
+    "path": "12_cuarto_medio/012_desalinizacion_y_ambiente.md",
+    "size": 8068,
+    "sha256": "da46b77728befa79b06df43e8f8103328d1de9424073f7088898660d39c3b833"
+  },
+  {
+    "path": "12_cuarto_medio/013_reuso_de_aguas.md",
+    "size": 8002,
+    "sha256": "42dfaf62b7b1e8b9e2c3f177295ce7d4cc3ee1d228cc440ed364875245293a79"
+  },
+  {
+    "path": "12_cuarto_medio/014_energias_renovables_y_territorio.md",
+    "size": 8111,
+    "sha256": "1fd17f40a1fb1e6b576de47047f6dff86278560648981ad2a7ed5cd329153187"
+  },
+  {
+    "path": "12_cuarto_medio/015_almacenamiento_de_energia.md",
+    "size": 8069,
+    "sha256": "5d2cfc6678c02dd1a47ec6815bbf69167b494ca9c04d9ace69381b0d60ecbaaa"
+  },
+  {
+    "path": "12_cuarto_medio/016_minerales_criticos_y_transicion_energetica.md",
+    "size": 8174,
+    "sha256": "374eee05916efc58954cfa1667fba829539f7fe8e3f44211390e000ba6be7740"
+  },
+  {
+    "path": "12_cuarto_medio/017_economia_circular_avanzada.md",
+    "size": 8074,
+    "sha256": "8d790dba3f89c0247fa0c3bf9070fa4097a406e8ba82efbe368c04c75a3f0dd3"
+  },
+  {
+    "path": "12_cuarto_medio/018_responsabilidad_extendida_del_productor.md",
+    "size": 8144,
+    "sha256": "40fe67dbcd07f8466318a0047c8176c4f4f9527828d5a398ee105d0a23c1ed42"
+  },
+  {
+    "path": "12_cuarto_medio/019_restauracion_de_suelos.md",
+    "size": 8041,
+    "sha256": "489f68ee4b40fb25a4f5099adbe117e47debfc399fb442377246c92b4edc0c5d"
+  },
+  {
+    "path": "12_cuarto_medio/01_glosario_curso.md",
+    "size": 315,
+    "sha256": "d160d40e86b019805cb7def724da0b0153818885a1724f900fb0ed117d4584ec"
+  },
+  {
+    "path": "12_cuarto_medio/020_conservacion_marina.md",
+    "size": 8032,
+    "sha256": "faa4c044747ca1092ca65c15dc03b9478c6b0e974f9ec2eec677be80a784f18e"
+  },
+  {
+    "path": "12_cuarto_medio/021_areas_protegidas_y_corredores_ecologicos.md",
+    "size": 8159,
+    "sha256": "029f0ccc1d6b1b871e1aea99a88c570400fbbe485570ee2b44ffeeec929fdcb6"
+  },
+  {
+    "path": "12_cuarto_medio/022_crisis_de_biodiversidad.md",
+    "size": 8022,
+    "sha256": "e7b2b15078c97ffd0075ea760960ce3949a71b2dd2f2426e60940bebdcd597e7"
+  },
+  {
+    "path": "12_cuarto_medio/023_una_salud_y_ambiente.md",
+    "size": 8030,
+    "sha256": "9621c26ac38ecbcfb565db1989f808a519a76b07f786fe092c78aff092757034"
+  },
+  {
+    "path": "12_cuarto_medio/024_contaminantes_emergentes.md",
+    "size": 8056,
+    "sha256": "c8315edc7043eac28f728717aed569b2fc341170f175283babc36fc85029f44e"
+  },
+  {
+    "path": "12_cuarto_medio/025_microplasticos.md",
+    "size": 8001,
+    "sha256": "5a3d870658dc59f5dfd0f47121d0d0df76cce07b25f7bf966502e559400c77ce"
+  },
+  {
+    "path": "12_cuarto_medio/026_evaluacion_ambiental_estrategica.md",
+    "size": 8112,
+    "sha256": "433ddd132793bbcd4e0afe48d6b1552aec82703295ca5fec8e1f2c646e2dc6ac"
+  },
+  {
+    "path": "12_cuarto_medio/027_derecho_a_un_ambiente_sano.md",
+    "size": 8065,
+    "sha256": "a3d725b5575276385213e7cb48ebe6ae823cb5526a3baf480cb920b4911a4a97"
+  },
+  {
+    "path": "12_cuarto_medio/028_participacion_y_justicia_ambiental.md",
+    "size": 8118,
+    "sha256": "00b57bbc6af188a9cdbe940ce74437124662aeafd884bd84513f857b62012021"
+  },
+  {
+    "path": "12_cuarto_medio/029_ciencia_ciudadana_ambiental.md",
+    "size": 8071,
+    "sha256": "d1c1424611d82f0131f90bf831a6dd77492a0837f08c5b4f1ba954df59b5971d"
+  },
+  {
+    "path": "12_cuarto_medio/02_banco_preguntas.md",
+    "size": 5851,
+    "sha256": "3ceb066c8ded7791caa1ba4884ede90f2f2951f8d74d03bb7fe029dfb2df43d2"
+  },
+  {
+    "path": "12_cuarto_medio/030_proyecto_final_de_intervencion_ambiental.md",
+    "size": 8155,
+    "sha256": "48dea0312b21feb9d28139a86c70168d3478d2f489c187146048907d07208bc0"
+  },
+  {
+    "path": "13_tematicos_transversales/001_planeta_tierra.md",
+    "size": 8043,
+    "sha256": "93efb00cc8262c6dd5cae06da83ac52b5c3baaf2fc5cb7344f16f444dfec134c"
+  },
+  {
+    "path": "13_tematicos_transversales/002_capas_internas_de_la_tierra.md",
+    "size": 8121,
+    "sha256": "6a7eba689b3cb4840889a9c36ea6e8e8c749e3342dfac5afc0133a2d364975ca"
+  },
+  {
+    "path": "13_tematicos_transversales/003_atmosfera.md",
+    "size": 8014,
+    "sha256": "14d3187c48db99a183b1a7c13a9ad724ce7c5fe413bfda3a84c4af64a2159b0e"
+  },
+  {
+    "path": "13_tematicos_transversales/004_hidrosfera.md",
+    "size": 8027,
+    "sha256": "56319af6fc3a4579aa43405f598fcfdbc540348ff56e36f53111d1bf7d81c5b1"
+  },
+  {
+    "path": "13_tematicos_transversales/005_litosfera.md",
+    "size": 8018,
+    "sha256": "4cab17bbb738923596c5e3adceaa581808067a83b742ab0529d1d257fab7b09a"
+  },
+  {
+    "path": "13_tematicos_transversales/006_biosfera.md",
+    "size": 8012,
+    "sha256": "408194f573f483e2b125e71a606400b3f10c91094bee0b5fc159d2c552c14563"
+  },
+  {
+    "path": "13_tematicos_transversales/007_tectonica_de_placas.md",
+    "size": 8110,
+    "sha256": "b456ef306f0e14e789a4787a2e4633eaed36dd1bbc4cf096f418f7437a678a5f"
+  },
+  {
+    "path": "13_tematicos_transversales/008_volcanes.md",
+    "size": 8004,
+    "sha256": "c1b94328e6478e5fba234a4ed281b682195fd276b68d025805e3f41c5c12330b"
+  },
+  {
+    "path": "13_tematicos_transversales/009_terremotos.md",
+    "size": 8047,
+    "sha256": "42bdc1d105e424d961f95407f6b57519e4767fcf8129abc813122eec3bbf1736"
+  },
+  {
+    "path": "13_tematicos_transversales/010_tsunamis.md",
+    "size": 8003,
+    "sha256": "cad915575a43e61207ed553d7756ff0b3acbfbfd99e6d722dab0dc04f5205fdf"
+  },
+  {
+    "path": "13_tematicos_transversales/011_rocas_y_minerales.md",
+    "size": 8058,
+    "sha256": "cd78d54205c285d8e12525a510e52bc1c597f7d4b114fb20eec09c7696652e5e"
+  },
+  {
+    "path": "13_tematicos_transversales/012_suelo.md",
+    "size": 7983,
+    "sha256": "9b6e1792307781bf7fb49f2ad88c497768ad23598cea4fecbc3a7f036e826aec"
+  },
+  {
+    "path": "13_tematicos_transversales/013_erosion.md",
+    "size": 8017,
+    "sha256": "620aa05de42a55e4b2d5d7ea2882b5341081ceba00967b951d69458ebf7efd60"
+  },
+  {
+    "path": "13_tematicos_transversales/014_ciclo_del_agua.md",
+    "size": 8063,
+    "sha256": "5d82bfb9c600944a7a24aeee29a1bfc8734124b20f99537008e131dd2cc94719"
+  },
+  {
+    "path": "13_tematicos_transversales/015_clima.md",
+    "size": 7985,
+    "sha256": "65990a028ff6650f430398898a8f4027756367ec548a779aa036b83ae4b959cd"
+  },
+  {
+    "path": "13_tematicos_transversales/016_tiempo_atmosferico.md",
+    "size": 8068,
+    "sha256": "10bf444f82347bb9571ae095af283c2c451a4e95d00dec1ff63f5a80f7e11986"
+  },
+  {
+    "path": "13_tematicos_transversales/017_ecosistemas.md",
+    "size": 8001,
+    "sha256": "e3887b3d3dfc137ce5b9581dfab3e11dd99cbae42f6ff3a8fc0f0377327203bd"
+  },
+  {
+    "path": "13_tematicos_transversales/018_cadenas_y_redes_alimentarias.md",
+    "size": 8130,
+    "sha256": "c03d71b0f3113bbf2c5b38f395f4b3a74082c993080a90155e765e1e71155301"
+  },
+  {
+    "path": "13_tematicos_transversales/019_biodiversidad.md",
+    "size": 8013,
+    "sha256": "6e5690b7b7a8f30d3aa2713a22de9d4248c1daad6d02d4d9c74c845466ff8a19"
+  },
+  {
+    "path": "13_tematicos_transversales/020_recursos_naturales.md",
+    "size": 8071,
+    "sha256": "9a89d5f62a18530bc3924ecf1eebb1b252e69b561da2c71173aee3983b730e8f"
+  },
+  {
+    "path": "13_tematicos_transversales/021_contaminacion_del_aire.md",
+    "size": 8098,
+    "sha256": "46745a1ec4fab7e390996f07d66e22d6110d405bcd9de187967d71847fb71183"
+  },
+  {
+    "path": "13_tematicos_transversales/022_contaminacion_del_agua.md",
+    "size": 8098,
+    "sha256": "cdae1b11fafe6a574fead7a6fcbfb49291fddd6b93ccec9f51f5ffc89d374147"
+  },
+  {
+    "path": "13_tematicos_transversales/023_contaminacion_del_suelo.md",
+    "size": 8095,
+    "sha256": "4e974f895b0e347bd9190510f8a1a9f74c572a6a30fb02e2691430a0a1f3c587"
+  },
+  {
+    "path": "13_tematicos_transversales/024_residuos_y_reciclaje.md",
+    "size": 8106,
+    "sha256": "58c3b545c4dac9ede2064990c695094d10c4a414852103c09881ce1fa60916e2"
+  },
+  {
+    "path": "13_tematicos_transversales/025_cambio_climatico.md",
+    "size": 8059,
+    "sha256": "de66a2f3b615777917a7dcd1a2022dc673223346eea73ec5875b42b4cd2724a2"
+  },
+  {
+    "path": "13_tematicos_transversales/026_riesgo_de_desastres.md",
+    "size": 8069,
+    "sha256": "b1ab6889080467d4bac980f7061ceaadafded50fb3a85cd0f7a9302d478850f5"
+  },
+  {
+    "path": "13_tematicos_transversales/027_justicia_ambiental.md",
+    "size": 8066,
+    "sha256": "43b0d18896562bca5704a3d22e61b9fe74b1eb0a262375c1b7ce4bbd04200285"
+  },
+  {
+    "path": "13_tematicos_transversales/028_cuidado_ambiental.md",
+    "size": 8061,
+    "sha256": "beb1662083980538daf084b2ba9ccff514dea627cc3ec7190a2043ff96d6ceec"
+  },
+  {
+    "path": "14_bancos_generales/01_glosario_general.md",
+    "size": 265,
+    "sha256": "20abc275f8d21d111d88364efc3b8be22e28a87efd01962913370f5669f9dd8b"
+  },
+  {
+    "path": "14_bancos_generales/02_palabras_clave.md",
+    "size": 8195,
+    "sha256": "04b67966c292622b2eb25cfd37ec2ccd0b335a275ec0eb87e7d16156edb687e8"
+  },
+  {
+    "path": "14_bancos_generales/03_mapa_relaciones_materias.md",
+    "size": 180,
+    "sha256": "f247e2affb6dbe63daab71efec37908ad439ae7f9c7cd81e91f00bd4f7e30ee5"
+  },
+  {
+    "path": "14_bancos_generales/04_plantilla_investigacion_ambiental.md",
+    "size": 125,
+    "sha256": "61456b0e2303e792558cf3f814d269d460e429144973d1b831b2adedac0c6cca"
+  },
+  {
+    "path": "15_evaluaciones_generales/01_evaluaciones_generales.md",
+    "size": 132,
+    "sha256": "63089e02bd1043e4f89f5a62ed3afa169361caca0b0121865c22670273113cf2"
+  },
+  {
+    "path": "16_apoyo_inclusivo/01_adaptaciones_tea.md",
+    "size": 159,
+    "sha256": "24db3ac27e11be04c9f1c2563e267dbfb4068dd969fdd8791f8727ea54a0fcc7"
+  },
+  {
+    "path": "16_apoyo_inclusivo/02_reglas_por_perfil.md",
+    "size": 128,
+    "sha256": "e03017a849b1766f47537bf6a21f859a1d5493b98fe242efbef2f68e7216f4ad"
+  },
+  {
+    "path": "17_compendios/compendio_cuarto_basico.md",
+    "size": 160976,
+    "sha256": "be07ff0b144b3a8dd78cbef04d2975e66d33b408377bbde4323b24900e455e2b"
+  },
+  {
+    "path": "17_compendios/compendio_cuarto_medio.md",
+    "size": 242475,
+    "sha256": "ca0fa17be3ab02f58279b49737f656657b09197260f4b9724c06ca06e20ce063"
+  },
+  {
+    "path": "17_compendios/compendio_octavo_basico.md",
+    "size": 210167,
+    "sha256": "d126b12087e0c696802a97100389f65a36012de79472484ab1efc1f6dfea6753"
+  },
+  {
+    "path": "17_compendios/compendio_primero_basico.md",
+    "size": 120684,
+    "sha256": "b2666023013c3154b155744e39b699fe878a2e6ebe0b476ea60fd4abd6fd65c1"
+  },
+  {
+    "path": "17_compendios/compendio_primero_medio.md",
+    "size": 225156,
+    "sha256": "6a7ce9f6991b5e101b48f57a9c81994e74faf8d104f1981df5a20448dbca575f"
+  },
+  {
+    "path": "17_compendios/compendio_quinto_basico.md",
+    "size": 193958,
+    "sha256": "f7d17e451936d090d8e1b044c6c86830ae8af1f7a89156aa71c615f166d73c4a"
+  },
+  {
+    "path": "17_compendios/compendio_segundo_basico.md",
+    "size": 128856,
+    "sha256": "8e5f33f6080362319c33de8cba5d97c6785516a39e673d14c93a4b2cd2a9266e"
+  },
+  {
+    "path": "17_compendios/compendio_segundo_medio.md",
+    "size": 242018,
+    "sha256": "252fab6ad3be1a6ae90dc9e03d5000ce6ebb692c7db1a229f11b7305dcfdafa1"
+  },
+  {
+    "path": "17_compendios/compendio_septimo_basico.md",
+    "size": 193722,
+    "sha256": "d47970b55b4bccecc950c94edb50eac7885a111e9c411d88dfebd1552fe3b691"
+  },
+  {
+    "path": "17_compendios/compendio_sexto_basico.md",
+    "size": 193957,
+    "sha256": "e53204a76c1941ea67a6ae35ff2577d0177a5e6080f9debece9a96c6afd2b729"
+  },
+  {
+    "path": "17_compendios/compendio_tercero_basico.md",
+    "size": 145329,
+    "sha256": "b08f310642dcc9944cfbbe711fe9404844b8b232d08ccfc218a35b25c83df5df"
+  },
+  {
+    "path": "17_compendios/compendio_tercero_medio.md",
+    "size": 209790,
+    "sha256": "299ce9aa6c7f2aae40837157650e900fb6de6e8ae5432ba96878783e397ea3f9"
+  },
+  {
+    "path": "17_compendios/enciclopedia_completa_ciencias_tierra_ecologia_medioambiente.md",
+    "size": 2267166,
+    "sha256": "f0a9bccb4878adfddfc7d50415e302255e531d1f28f69415235e3d08503f90dd"
+  },
+  {
+    "path": "18_rag/catalogo_capitulos.json",
+    "size": 115967,
+    "sha256": "2d7d40119bcc81406449aff0a4c8c2733cc9f52e009fd9bbc04aba88b0d056c6"
+  },
+  {
+    "path": "18_rag/catalogo_capitulos.jsonl",
+    "size": 102677,
+    "sha256": "ed06114f4dc54a0b0489aa699e9e82d8f09c6632716adea1082b7ec7e770b806"
+  },
+  {
+    "path": "18_rag/chunks_ciencias_tierra_ecologia_medioambiente.jsonl",
+    "size": 4256335,
+    "sha256": "aa82dde03d7a9834059b74db7569cd963526cec22ba0c0ecc7d6ea25e29c782d"
+  },
+  {
+    "path": "CHANGELOG.md",
+    "size": 82,
+    "sha256": "74746d3ed77177135fa79906e414da57fbd0ed2bfd62581efa9fd778dfbabce8"
+  },
+  {
+    "path": "README.md",
+    "size": 691,
+    "sha256": "7754cac00dbf512fcece51f1335925b56d75427f33c2cfe10728534087129515"
+  }
+]

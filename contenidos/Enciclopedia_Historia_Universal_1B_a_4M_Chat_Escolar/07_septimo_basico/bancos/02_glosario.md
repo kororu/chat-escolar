@@ -1,0 +1,111 @@
+# Glosario inicial — 7° básico
+
+- **Agricultura:** Concepto vinculado con china antigua: dinastías, agricultura y escritura; debe definirse dentro de su contexto histórico.
+- **Al:** Concepto vinculado con cruzadas, al-ándalus y contactos interculturales; debe definirse dentro de su contexto histórico.
+- **Aldeas:** Concepto vinculado con aldeas, excedentes, especialización y desigualdad; debe definirse dentro de su contexto histórico.
+- **Alfabeto:** Concepto vinculado con fenicios, navegación y alfabeto; debe definirse dentro de su contexto histórico.
+- **America:** Concepto vinculado con poblamiento temprano de américa; debe definirse dentro de su contexto histórico.
+- **Americanas:** Concepto vinculado con olmecas y chavín como sociedades complejas americanas; debe definirse dentro de su contexto histórico.
+- **Andalus:** Concepto vinculado con cruzadas, al-ándalus y contactos interculturales; debe definirse dentro de su contexto histórico.
+- **Animales:** Concepto vinculado con domesticación de animales y cambios sociales; debe definirse dentro de su contexto histórico.
+- **Antigua:** Concepto vinculado con china antigua: dinastías, agricultura y escritura; debe definirse dentro de su contexto histórico.
+- **Antiguo:** Concepto vinculado con esclavitud en el mundo antiguo; debe definirse dentro de su contexto histórico.
+- **Arte:** Concepto vinculado con arte rupestre, tecnología y pensamiento simbólico; debe definirse dentro de su contexto histórico.
+- **Bizantino:** Concepto vinculado con imperio bizantino y herencia romana oriental; debe definirse dentro de su contexto histórico.
+- **Califatos:** Concepto vinculado con califatos, ciencia y circulación de conocimientos; debe definirse dentro de su contexto histórico.
+- **Cambios:** Concepto vinculado con domesticación de animales y cambios sociales; debe definirse dentro de su contexto histórico.
+- **Caza:** Concepto vinculado con paleolítico: caza, recolección y vida comunitaria; debe definirse dentro de su contexto histórico.
+- **Chavin:** Concepto vinculado con olmecas y chavín como sociedades complejas americanas; debe definirse dentro de su contexto histórico.
+- **China:** Concepto vinculado con china antigua: dinastías, agricultura y escritura; debe definirse dentro de su contexto histórico.
+- **Ciencia:** Concepto vinculado con califatos, ciencia y circulación de conocimientos; debe definirse dentro de su contexto histórico.
+- **Circulacion:** Concepto vinculado con califatos, ciencia y circulación de conocimientos; debe definirse dentro de su contexto histórico.
+- **Ciudadania:** Concepto vinculado con grecia clásica: polis, ciudadanía y cultura; debe definirse dentro de su contexto histórico.
+- **Ciudades:** Concepto vinculado con mesopotamia: ciudades, escritura y estado; debe definirse dentro de su contexto histórico.
+- **Civilizacion:** Concepto vinculado con civilización del valle del indo; debe definirse dentro de su contexto histórico.
+- **Clasica:** Concepto vinculado con grecia clásica: polis, ciudadanía y cultura; debe definirse dentro de su contexto histórico.
+- **Comercio:** Concepto vinculado con metales, comercio y primeras ciudades; debe definirse dentro de su contexto histórico.
+- **Complejas:** Concepto vinculado con olmecas y chavín como sociedades complejas americanas; debe definirse dentro de su contexto histórico.
+- **Comunitaria:** Concepto vinculado con paleolítico: caza, recolección y vida comunitaria; debe definirse dentro de su contexto histórico.
+- **Conocimientos:** Concepto vinculado con califatos, ciencia y circulación de conocimientos; debe definirse dentro de su contexto histórico.
+- **Contactos:** Concepto vinculado con cruzadas, al-ándalus y contactos interculturales; debe definirse dentro de su contexto histórico.
+- **Continentes:** Concepto vinculado con migraciones humanas y poblamiento de continentes; debe definirse dentro de su contexto histórico.
+- **Crisis:** Concepto vinculado con crisis y transformación del imperio romano; debe definirse dentro de su contexto histórico.
+- **Cristianismo:** Concepto vinculado con origen y expansión del cristianismo; debe definirse dentro de su contexto histórico.
+- **Cruzadas:** Concepto vinculado con cruzadas, al-ándalus y contactos interculturales; debe definirse dentro de su contexto histórico.
+- **Cultura:** Concepto vinculado con la iglesia y la cultura medieval; debe definirse dentro de su contexto histórico.
+- **Desigualdad:** Concepto vinculado con aldeas, excedentes, especialización y desigualdad; debe definirse dentro de su contexto histórico.
+- **Dinastias:** Concepto vinculado con china antigua: dinastías, agricultura y escritura; debe definirse dentro de su contexto histórico.
+- **Domesticacion:** Concepto vinculado con domesticación de animales y cambios sociales; debe definirse dentro de su contexto histórico.
+- **Egipto:** Concepto vinculado con egipto: nilo, faraones y sociedad; debe definirse dentro de su contexto histórico.
+- **Esclavitud:** Concepto vinculado con esclavitud en el mundo antiguo; debe definirse dentro de su contexto histórico.
+- **Escritura:** Concepto vinculado con china antigua: dinastías, agricultura y escritura; debe definirse dentro de su contexto histórico.
+- **Espacio:** Concepto vinculado con el mediterráneo como espacio de intercambio; debe definirse dentro de su contexto histórico.
+- **Especializacion:** Concepto vinculado con aldeas, excedentes, especialización y desigualdad; debe definirse dentro de su contexto histórico.
+- **Estado:** Concepto vinculado con mesopotamia: ciudades, escritura y estado; debe definirse dentro de su contexto histórico.
+- **Estamental:** Concepto vinculado con feudalismo, señoríos y sociedad estamental; debe definirse dentro de su contexto histórico.
+- **Europa:** Concepto vinculado con reinos germánicos y formación de europa medieval; debe definirse dentro de su contexto histórico.
+- **Evolucion:** Concepto vinculado con la evolución humana y el proceso de hominización; debe definirse dentro de su contexto histórico.
+- **Excedentes:** Concepto vinculado con aldeas, excedentes, especialización y desigualdad; debe definirse dentro de su contexto histórico.
+- **Expansion:** Concepto vinculado con nacimiento y expansión del islam; debe definirse dentro de su contexto histórico.
+- **Faraones:** Concepto vinculado con egipto: nilo, faraones y sociedad; debe definirse dentro de su contexto histórico.
+- **Fenicios:** Concepto vinculado con fenicios, navegación y alfabeto; debe definirse dentro de su contexto histórico.
+- **Feudalismo:** Concepto vinculado con feudalismo, señoríos y sociedad estamental; debe definirse dentro de su contexto histórico.
+- **Formacion:** Concepto vinculado con reinos germánicos y formación de europa medieval; debe definirse dentro de su contexto histórico.
+- **Germanicos:** Concepto vinculado con reinos germánicos y formación de europa medieval; debe definirse dentro de su contexto histórico.
+- **Grecia:** Concepto vinculado con grecia clásica: polis, ciudadanía y cultura; debe definirse dentro de su contexto histórico.
+- **Gremios:** Concepto vinculado con renacimiento urbano, gremios y universidades; debe definirse dentro de su contexto histórico.
+- **Hebreos:** Concepto vinculado con hebreos y tradiciones monoteístas; debe definirse dentro de su contexto histórico.
+- **Herencia:** Concepto vinculado con imperio bizantino y herencia romana oriental; debe definirse dentro de su contexto histórico.
+- **Hominizacion:** Concepto vinculado con la evolución humana y el proceso de hominización; debe definirse dentro de su contexto histórico.
+- **Humana:** Concepto vinculado con la evolución humana y el proceso de hominización; debe definirse dentro de su contexto histórico.
+- **Humanas:** Concepto vinculado con migraciones humanas y poblamiento de continentes; debe definirse dentro de su contexto histórico.
+- **Iglesia:** Concepto vinculado con la iglesia y la cultura medieval; debe definirse dentro de su contexto histórico.
+- **Imperio:** Concepto vinculado con imperio bizantino y herencia romana oriental; debe definirse dentro de su contexto histórico.
+- **Indo:** Concepto vinculado con civilización del valle del indo; debe definirse dentro de su contexto histórico.
+- **Intercambio:** Concepto vinculado con el mediterráneo como espacio de intercambio; debe definirse dentro de su contexto histórico.
+- **Interculturales:** Concepto vinculado con cruzadas, al-ándalus y contactos interculturales; debe definirse dentro de su contexto histórico.
+- **Islam:** Concepto vinculado con nacimiento y expansión del islam; debe definirse dentro de su contexto histórico.
+- **Medieval:** Concepto vinculado con la iglesia y la cultura medieval; debe definirse dentro de su contexto histórico.
+- **Mediterraneo:** Concepto vinculado con el mediterráneo como espacio de intercambio; debe definirse dentro de su contexto histórico.
+- **Mesopotamia:** Concepto vinculado con mesopotamia: ciudades, escritura y estado; debe definirse dentro de su contexto histórico.
+- **Metales:** Concepto vinculado con metales, comercio y primeras ciudades; debe definirse dentro de su contexto histórico.
+- **Migraciones:** Concepto vinculado con migraciones humanas y poblamiento de continentes; debe definirse dentro de su contexto histórico.
+- **Monoteistas:** Concepto vinculado con hebreos y tradiciones monoteístas; debe definirse dentro de su contexto histórico.
+- **Mundo:** Concepto vinculado con esclavitud en el mundo antiguo; debe definirse dentro de su contexto histórico.
+- **Nacimiento:** Concepto vinculado con nacimiento y expansión del islam; debe definirse dentro de su contexto histórico.
+- **Navegacion:** Concepto vinculado con fenicios, navegación y alfabeto; debe definirse dentro de su contexto histórico.
+- **Neolitica:** Concepto vinculado con revolución neolítica y domesticación de plantas; debe definirse dentro de su contexto histórico.
+- **Nilo:** Concepto vinculado con egipto: nilo, faraones y sociedad; debe definirse dentro de su contexto histórico.
+- **Olmecas:** Concepto vinculado con olmecas y chavín como sociedades complejas americanas; debe definirse dentro de su contexto histórico.
+- **Oriental:** Concepto vinculado con imperio bizantino y herencia romana oriental; debe definirse dentro de su contexto histórico.
+- **Origen:** Concepto vinculado con origen y expansión del cristianismo; debe definirse dentro de su contexto histórico.
+- **Paleolitico:** Concepto vinculado con paleolítico: caza, recolección y vida comunitaria; debe definirse dentro de su contexto histórico.
+- **Pensamiento:** Concepto vinculado con arte rupestre, tecnología y pensamiento simbólico; debe definirse dentro de su contexto histórico.
+- **Plantas:** Concepto vinculado con revolución neolítica y domesticación de plantas; debe definirse dentro de su contexto histórico.
+- **Poblamiento:** Concepto vinculado con poblamiento temprano de américa; debe definirse dentro de su contexto histórico.
+- **Polis:** Concepto vinculado con grecia clásica: polis, ciudadanía y cultura; debe definirse dentro de su contexto histórico.
+- **Primeras:** Concepto vinculado con metales, comercio y primeras ciudades; debe definirse dentro de su contexto histórico.
+- **Proceso:** Concepto vinculado con la evolución humana y el proceso de hominización; debe definirse dentro de su contexto histórico.
+- **Recoleccion:** Concepto vinculado con paleolítico: caza, recolección y vida comunitaria; debe definirse dentro de su contexto histórico.
+- **Reinos:** Concepto vinculado con reinos germánicos y formación de europa medieval; debe definirse dentro de su contexto histórico.
+- **Renacimiento:** Concepto vinculado con renacimiento urbano, gremios y universidades; debe definirse dentro de su contexto histórico.
+- **Republica:** Concepto vinculado con roma: república, imperio y romanización; debe definirse dentro de su contexto histórico.
+- **Revolucion:** Concepto vinculado con revolución neolítica y domesticación de plantas; debe definirse dentro de su contexto histórico.
+- **Roma:** Concepto vinculado con roma: república, imperio y romanización; debe definirse dentro de su contexto histórico.
+- **Romana:** Concepto vinculado con imperio bizantino y herencia romana oriental; debe definirse dentro de su contexto histórico.
+- **Romanizacion:** Concepto vinculado con roma: república, imperio y romanización; debe definirse dentro de su contexto histórico.
+- **Romano:** Concepto vinculado con crisis y transformación del imperio romano; debe definirse dentro de su contexto histórico.
+- **Rupestre:** Concepto vinculado con arte rupestre, tecnología y pensamiento simbólico; debe definirse dentro de su contexto histórico.
+- **Senorios:** Concepto vinculado con feudalismo, señoríos y sociedad estamental; debe definirse dentro de su contexto histórico.
+- **Simbolico:** Concepto vinculado con arte rupestre, tecnología y pensamiento simbólico; debe definirse dentro de su contexto histórico.
+- **Sociales:** Concepto vinculado con domesticación de animales y cambios sociales; debe definirse dentro de su contexto histórico.
+- **Sociedad:** Concepto vinculado con feudalismo, señoríos y sociedad estamental; debe definirse dentro de su contexto histórico.
+- **Sociedades:** Concepto vinculado con olmecas y chavín como sociedades complejas americanas; debe definirse dentro de su contexto histórico.
+- **Tecnologia:** Concepto vinculado con arte rupestre, tecnología y pensamiento simbólico; debe definirse dentro de su contexto histórico.
+- **Temprano:** Concepto vinculado con poblamiento temprano de américa; debe definirse dentro de su contexto histórico.
+- **Tradiciones:** Concepto vinculado con hebreos y tradiciones monoteístas; debe definirse dentro de su contexto histórico.
+- **Transformacion:** Concepto vinculado con crisis y transformación del imperio romano; debe definirse dentro de su contexto histórico.
+- **Universidades:** Concepto vinculado con renacimiento urbano, gremios y universidades; debe definirse dentro de su contexto histórico.
+- **Urbano:** Concepto vinculado con renacimiento urbano, gremios y universidades; debe definirse dentro de su contexto histórico.
+- **Valle:** Concepto vinculado con civilización del valle del indo; debe definirse dentro de su contexto histórico.
+- **Vida:** Concepto vinculado con paleolítico: caza, recolección y vida comunitaria; debe definirse dentro de su contexto histórico.

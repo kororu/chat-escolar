@@ -55,7 +55,9 @@ const backendLabels = {
 
 const provenanceLabels = {
   ollama_with_local_content: 'Explicado con IA local usando contenido local verificado.',
-  ollama_generated: 'Explicación general de IA local, sin fuente local verificada.',
+  ollama_generated: 'Respuesta generada con IA local. No se encontró fuente local verificada.',
+  ollama_unverified: 'Respuesta generada con IA local sin fuente verificada. Puede contener errores.',
+  generation_blocked_unverified: 'No se generó una explicación porque falta una fuente curricular local verificada.',
   ollama_unavailable: 'IA local no disponible: se usó el modo básico.',
   local_content_fallback: 'Se utilizó el contenido local porque la IA local no respondió.',
   local_related: 'Tema relacionado encontrado: no es una fuente principal.',
@@ -211,14 +213,16 @@ function SourceNotice({ message }) {
   if (message.usedLocalContent) {
     return (
       <div className="local-content-note">
-        <strong>{message.provenanceStatus === 'ollama_with_local_content'
-          ? 'Explicado con IA local usando contenido local'
-          : 'Contenido local verificado'}</strong>
+        <strong>{message.localFallbackReason
+          ? 'Respuesta local segura basada en contenido verificado'
+          : message.provenanceStatus === 'ollama_with_local_content'
+            ? 'Explicado con IA local usando contenido local'
+            : 'Contenido local verificado'}</strong>
         {message.foundInOtherCourse && message.sourceCourse && (
           <small>Encontrado en otro curso: {message.sourceCourse}.</small>
         )}
-        {message.provenanceStatus === 'local_content_fallback' && (
-          <small>Se utilizó el contenido local porque la IA local no respondió.</small>
+        {message.provenanceStatus === 'local_content_fallback' && message.localFallbackReason && (
+          <small>Se usó una explicación local segura basada en contenido verificado.</small>
         )}
         {message.contentSources.length > 0 && (
           <div>
@@ -241,7 +245,9 @@ function SourceNotice({ message }) {
 
   return (
     <div className={`provenance-note ${message.provenanceStatus}`}>
-      {provenanceLabels[message.provenanceStatus] ?? 'No se usó una fuente local verificada.'}
+      {message.answerWarning ?? (message.provenanceStatus === 'no_local_content' && message.aiModeUsed === 'basic'
+        ? 'Modo básico: no se usó IA local.'
+        : provenanceLabels[message.provenanceStatus] ?? 'No se usó una fuente local verificada.')}
       {message.provenanceStatus === 'local_related' && message.relatedSources?.length > 0 && (
         <small>
           Relacionado: {message.relatedSources[0].title} ({message.relatedSources[0].section})
@@ -286,13 +292,13 @@ function AiLocalCard({ status, onTest, onSettingsChange, isTesting, isSavingSett
       <label className="ai-setting-label" htmlFor="ai-timeout">Timeout de IA</label>
       <select
         id="ai-timeout"
-        value={status?.ollama_timeout_seconds ?? 25}
+        value={status?.ollama_timeout_seconds ?? 90}
         disabled={isSavingSettings}
         onChange={(event) => onSettingsChange({ ollama_timeout_seconds: Number(event.target.value) })}
       >
-        <option value={15}>15 s</option>
-        <option value={25}>25 s</option>
         <option value={40}>40 s</option>
+        <option value={90}>90 s (recomendado)</option>
+        <option value={120}>120 s</option>
       </select>
       <button type="button" onClick={onTest} disabled={isTesting || aiMode === 'basic'}>
         {isTesting ? 'Probando...' : 'Probar IA local'}
@@ -956,6 +962,9 @@ function App() {
           detectedSubject: data.detected_subject,
           subjectMode: data.subject_mode,
           subjectUsed: data.subject_used,
+          aiModeUsed: data.ai_mode_used,
+          answerWarning: data.answer_warning,
+          localFallbackReason: data.local_fallback_reason,
           conversationContext: data.conversation_context,
         },
       ])

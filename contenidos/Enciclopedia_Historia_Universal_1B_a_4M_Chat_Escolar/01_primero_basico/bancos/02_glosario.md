@@ -1,0 +1,35 @@
+# Glosario inicial — 1° básico
+
+- **Adaptacion:** Concepto vinculado con viviendas del mundo y adaptación al ambiente; debe definirse dentro de su contexto histórico.
+- **Ahora:** Concepto vinculado con el tiempo en la vida cotidiana: antes, ahora y después; debe definirse dentro de su contexto histórico.
+- **Al:** Concepto vinculado con viviendas del mundo y adaptación al ambiente; debe definirse dentro de su contexto histórico.
+- **Ambiente:** Concepto vinculado con viviendas del mundo y adaptación al ambiente; debe definirse dentro de su contexto histórico.
+- **Antes:** Concepto vinculado con el tiempo en la vida cotidiana: antes, ahora y después; debe definirse dentro de su contexto histórico.
+- **Celebraciones:** Concepto vinculado con juegos, celebraciones y comidas del mundo; debe definirse dentro de su contexto histórico.
+- **Comidas:** Concepto vinculado con juegos, celebraciones y comidas del mundo; debe definirse dentro de su contexto histórico.
+- **Continentes:** Concepto vinculado con mapas sencillos, continentes y océanos; debe definirse dentro de su contexto histórico.
+- **Cotidiana:** Concepto vinculado con el tiempo en la vida cotidiana: antes, ahora y después; debe definirse dentro de su contexto histórico.
+- **Cultural:** Concepto vinculado con respeto por la diversidad cultural; debe definirse dentro de su contexto histórico.
+- **Culturas:** Concepto vinculado con familias y formas de vivir en diferentes culturas; debe definirse dentro de su contexto histórico.
+- **Despues:** Concepto vinculado con el tiempo en la vida cotidiana: antes, ahora y después; debe definirse dentro de su contexto histórico.
+- **Diferentes:** Concepto vinculado con familias y formas de vivir en diferentes culturas; debe definirse dentro de su contexto histórico.
+- **Distintas:** Concepto vinculado con trabajos y oficios en distintas sociedades; debe definirse dentro de su contexto histórico.
+- **Diversidad:** Concepto vinculado con respeto por la diversidad cultural; debe definirse dentro de su contexto histórico.
+- **Familias:** Concepto vinculado con familias y formas de vivir en diferentes culturas; debe definirse dentro de su contexto histórico.
+- **Formas:** Concepto vinculado con familias y formas de vivir en diferentes culturas; debe definirse dentro de su contexto histórico.
+- **Juegos:** Concepto vinculado con juegos, celebraciones y comidas del mundo; debe definirse dentro de su contexto histórico.
+- **Mapas:** Concepto vinculado con mapas sencillos, continentes y océanos; debe definirse dentro de su contexto histórico.
+- **Mundo:** Concepto vinculado con juegos, celebraciones y comidas del mundo; debe definirse dentro de su contexto histórico.
+- **Ninas:** Concepto vinculado con niñas y niños en distintas partes del mundo; debe definirse dentro de su contexto histórico.
+- **Ninos:** Concepto vinculado con niñas y niños en distintas partes del mundo; debe definirse dentro de su contexto histórico.
+- **Oceanos:** Concepto vinculado con mapas sencillos, continentes y océanos; debe definirse dentro de su contexto histórico.
+- **Oficios:** Concepto vinculado con trabajos y oficios en distintas sociedades; debe definirse dentro de su contexto histórico.
+- **Partes:** Concepto vinculado con niñas y niños en distintas partes del mundo; debe definirse dentro de su contexto histórico.
+- **Respeto:** Concepto vinculado con respeto por la diversidad cultural; debe definirse dentro de su contexto histórico.
+- **Sencillos:** Concepto vinculado con mapas sencillos, continentes y océanos; debe definirse dentro de su contexto histórico.
+- **Sociedades:** Concepto vinculado con trabajos y oficios en distintas sociedades; debe definirse dentro de su contexto histórico.
+- **Tiempo:** Concepto vinculado con el tiempo en la vida cotidiana: antes, ahora y después; debe definirse dentro de su contexto histórico.
+- **Trabajos:** Concepto vinculado con trabajos y oficios en distintas sociedades; debe definirse dentro de su contexto histórico.
+- **Vida:** Concepto vinculado con el tiempo en la vida cotidiana: antes, ahora y después; debe definirse dentro de su contexto histórico.
+- **Viviendas:** Concepto vinculado con viviendas del mundo y adaptación al ambiente; debe definirse dentro de su contexto histórico.
+- **Vivir:** Concepto vinculado con familias y formas de vivir en diferentes culturas; debe definirse dentro de su contexto histórico.

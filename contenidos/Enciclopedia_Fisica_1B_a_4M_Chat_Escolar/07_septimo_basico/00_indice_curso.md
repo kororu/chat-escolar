@@ -1,0 +1,26 @@
+# Índice de Física — 7° básico
+
+- [Fuerza peso](001_fuerza_peso.md) — mecanica
+- [Fuerza de roce](002_fuerza_de_roce.md) — mecanica
+- [Fuerza elástica](003_fuerza_elastica.md) — mecanica
+- [Fuerza normal](004_fuerza_normal.md) — mecanica
+- [Fuerza neta](005_fuerza_neta.md) — mecanica
+- [Diagramas de cuerpo libre](006_diagramas_de_cuerpo_libre.md) — fisica_general
+- [Deformación y movimiento](007_deformacion_y_movimiento.md) — mecanica
+- [Leyes de Newton iniciales](008_leyes_de_newton_iniciales.md) — mecanica
+- [Presión en sólidos](009_presion_en_solidos.md) — fluidos
+- [Presión en líquidos](010_presion_en_liquidos.md) — fluidos
+- [Principio de Pascal inicial](011_principio_de_pascal_inicial.md) — fluidos
+- [Empuje y flotación](012_empuje_y_flotacion.md) — fluidos
+- [Trabajo mecánico](013_trabajo_mecanico.md) — energia
+- [Potencia mecánica](014_potencia_mecanica.md) — energia
+- [Máquinas simples](015_maquinas_simples.md) — fisica_general
+- [Ventaja mecánica](016_ventaja_mecanica.md) — fisica_general
+- [Temperatura y escalas](017_temperatura_y_escalas.md) — termica
+- [Calor como transferencia de energía](018_calor_como_transferencia_de_energia.md) — energia
+- [Cambios de estado](019_cambios_de_estado.md) — fisica_general
+- [Modelo cinético de partículas](020_modelo_cinetico_de_particulas.md) — fisica_general
+- [Gases y presión](021_gases_y_presion.md) — fluidos
+- [Tectónica y fuerzas internas](022_tectonica_y_fuerzas_internas.md) — mecanica
+- [Ondas sísmicas iniciales](023_ondas_sismicas_iniciales.md) — ondas_sonido
+- [Investigación experimental en física](024_investigacion_experimental_en_fisica.md) — fisica_general

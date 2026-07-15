@@ -1,0 +1,3052 @@
+[
+  {
+    "id": "cng_1b_001_seres_vivos_y_elementos_no_vivos",
+    "titulo": "Seres vivos y elementos no vivos",
+    "curso": "1° básico",
+    "folder": "01_primero_basico",
+    "path": "01_primero_basico/001_seres_vivos_y_elementos_no_vivos.md",
+    "area": "Ciencias de la Vida",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_1b_002_necesidades_de_los_seres_vivos",
+    "titulo": "Necesidades de los seres vivos",
+    "curso": "1° básico",
+    "folder": "01_primero_basico",
+    "path": "01_primero_basico/002_necesidades_de_los_seres_vivos.md",
+    "area": "Ciencias de la Vida",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_1b_003_animales_y_sus_caracteristicas",
+    "titulo": "Animales y sus características",
+    "curso": "1° básico",
+    "folder": "01_primero_basico",
+    "path": "01_primero_basico/003_animales_y_sus_caracteristicas.md",
+    "area": "Ciencias de la Vida",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_1b_004_habitats_de_animales",
+    "titulo": "Hábitats de animales",
+    "curso": "1° básico",
+    "folder": "01_primero_basico",
+    "path": "01_primero_basico/004_habitats_de_animales.md",
+    "area": "Ciencias de la Vida",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_1b_005_plantas_y_sus_partes",
+    "titulo": "Plantas y sus partes",
+    "curso": "1° básico",
+    "folder": "01_primero_basico",
+    "path": "01_primero_basico/005_plantas_y_sus_partes.md",
+    "area": "Ciencias de la Vida",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_1b_006_cambios_de_las_plantas",
+    "titulo": "Cambios de las plantas",
+    "curso": "1° básico",
+    "folder": "01_primero_basico",
+    "path": "01_primero_basico/006_cambios_de_las_plantas.md",
+    "area": "Ciencias de la Vida",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_1b_007_los_cinco_sentidos",
+    "titulo": "Los cinco sentidos",
+    "curso": "1° básico",
+    "folder": "01_primero_basico",
+    "path": "01_primero_basico/007_los_cinco_sentidos.md",
+    "area": "Ciencia, tecnología, sociedad y ambiente",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_1b_008_habitos_de_vida_saludable",
+    "titulo": "Hábitos de vida saludable",
+    "curso": "1° básico",
+    "folder": "01_primero_basico",
+    "path": "01_primero_basico/008_habitos_de_vida_saludable.md",
+    "area": "Ciencias de la Vida",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_1b_009_materiales_de_los_objetos",
+    "titulo": "Materiales de los objetos",
+    "curso": "1° básico",
+    "folder": "01_primero_basico",
+    "path": "01_primero_basico/009_materiales_de_los_objetos.md",
+    "area": "Ciencias Físicas y Químicas",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_1b_010_propiedades_de_materiales",
+    "titulo": "Propiedades de materiales",
+    "curso": "1° básico",
+    "folder": "01_primero_basico",
+    "path": "01_primero_basico/010_propiedades_de_materiales.md",
+    "area": "Ciencias Físicas y Químicas",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_1b_011_el_sol_y_el_dia",
+    "titulo": "El Sol y el día",
+    "curso": "1° básico",
+    "folder": "01_primero_basico",
+    "path": "01_primero_basico/011_el_sol_y_el_dia.md",
+    "area": "Ciencia, tecnología, sociedad y ambiente",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_1b_012_la_noche_y_el_cielo",
+    "titulo": "La noche y el cielo",
+    "curso": "1° básico",
+    "folder": "01_primero_basico",
+    "path": "01_primero_basico/012_la_noche_y_el_cielo.md",
+    "area": "Ciencia, tecnología, sociedad y ambiente",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_1b_013_estaciones_del_ano",
+    "titulo": "Estaciones del año",
+    "curso": "1° básico",
+    "folder": "01_primero_basico",
+    "path": "01_primero_basico/013_estaciones_del_ano.md",
+    "area": "Ciencia, tecnología, sociedad y ambiente",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_1b_014_cuidado_del_entorno",
+    "titulo": "Cuidado del entorno",
+    "curso": "1° básico",
+    "folder": "01_primero_basico",
+    "path": "01_primero_basico/014_cuidado_del_entorno.md",
+    "area": "Ciencia, tecnología, sociedad y ambiente",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_1b_015_observar_y_registrar",
+    "titulo": "Observar y registrar",
+    "curso": "1° básico",
+    "folder": "01_primero_basico",
+    "path": "01_primero_basico/015_observar_y_registrar.md",
+    "area": "Ciencia, tecnología, sociedad y ambiente",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_2b_001_ciclos_de_vida",
+    "titulo": "Ciclos de vida",
+    "curso": "2° básico",
+    "folder": "02_segundo_basico",
+    "path": "02_segundo_basico/001_ciclos_de_vida.md",
+    "area": "Ciencia, tecnología, sociedad y ambiente",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_2b_002_animales_vertebrados_e_invertebrados",
+    "titulo": "Animales vertebrados e invertebrados",
+    "curso": "2° básico",
+    "folder": "02_segundo_basico",
+    "path": "02_segundo_basico/002_animales_vertebrados_e_invertebrados.md",
+    "area": "Ciencias de la Vida",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_2b_003_habitats_y_adaptaciones_simples",
+    "titulo": "Hábitats y adaptaciones simples",
+    "curso": "2° básico",
+    "folder": "02_segundo_basico",
+    "path": "02_segundo_basico/003_habitats_y_adaptaciones_simples.md",
+    "area": "Ciencia, tecnología, sociedad y ambiente",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_2b_004_plantas_con_flor_y_sin_flor",
+    "titulo": "Plantas con flor y sin flor",
+    "curso": "2° básico",
+    "folder": "02_segundo_basico",
+    "path": "02_segundo_basico/004_plantas_con_flor_y_sin_flor.md",
+    "area": "Ciencias de la Vida",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_2b_005_importancia_del_agua_para_la_vida",
+    "titulo": "Importancia del agua para la vida",
+    "curso": "2° básico",
+    "folder": "02_segundo_basico",
+    "path": "02_segundo_basico/005_importancia_del_agua_para_la_vida.md",
+    "area": "Ciencia, tecnología, sociedad y ambiente",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_2b_006_organos_principales_del_cuerpo",
+    "titulo": "Órganos principales del cuerpo",
+    "curso": "2° básico",
+    "folder": "02_segundo_basico",
+    "path": "02_segundo_basico/006_organos_principales_del_cuerpo.md",
+    "area": "Ciencia, tecnología, sociedad y ambiente",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_2b_007_actividad_fisica_y_salud",
+    "titulo": "Actividad física y salud",
+    "curso": "2° básico",
+    "folder": "02_segundo_basico",
+    "path": "02_segundo_basico/007_actividad_fisica_y_salud.md",
+    "area": "Ciencias de la Vida",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_2b_008_microbios_y_prevencion_basica",
+    "titulo": "Microbios y prevención básica",
+    "curso": "2° básico",
+    "folder": "02_segundo_basico",
+    "path": "02_segundo_basico/008_microbios_y_prevencion_basica.md",
+    "area": "Ciencia, tecnología, sociedad y ambiente",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_2b_009_estados_del_agua",
+    "titulo": "Estados del agua",
+    "curso": "2° básico",
+    "folder": "02_segundo_basico",
+    "path": "02_segundo_basico/009_estados_del_agua.md",
+    "area": "Ciencia, tecnología, sociedad y ambiente",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_2b_010_cambios_de_estado_cotidianos",
+    "titulo": "Cambios de estado cotidianos",
+    "curso": "2° básico",
+    "folder": "02_segundo_basico",
+    "path": "02_segundo_basico/010_cambios_de_estado_cotidianos.md",
+    "area": "Ciencia, tecnología, sociedad y ambiente",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_2b_011_fuerza_empujar_y_tirar",
+    "titulo": "Fuerza: empujar y tirar",
+    "curso": "2° básico",
+    "folder": "02_segundo_basico",
+    "path": "02_segundo_basico/011_fuerza_empujar_y_tirar.md",
+    "area": "Ciencias Físicas y Químicas",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_2b_012_movimiento_y_trayectoria",
+    "titulo": "Movimiento y trayectoria",
+    "curso": "2° básico",
+    "folder": "02_segundo_basico",
+    "path": "02_segundo_basico/012_movimiento_y_trayectoria.md",
+    "area": "Ciencias Físicas y Químicas",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_2b_013_tiempo_atmosferico",
+    "titulo": "Tiempo atmosférico",
+    "curso": "2° básico",
+    "folder": "02_segundo_basico",
+    "path": "02_segundo_basico/013_tiempo_atmosferico.md",
+    "area": "Ciencia, tecnología, sociedad y ambiente",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_2b_014_ciclo_del_agua_inicial",
+    "titulo": "Ciclo del agua inicial",
+    "curso": "2° básico",
+    "folder": "02_segundo_basico",
+    "path": "02_segundo_basico/014_ciclo_del_agua_inicial.md",
+    "area": "Ciencia, tecnología, sociedad y ambiente",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_2b_015_cuidado_de_ecosistemas",
+    "titulo": "Cuidado de ecosistemas",
+    "curso": "2° básico",
+    "folder": "02_segundo_basico",
+    "path": "02_segundo_basico/015_cuidado_de_ecosistemas.md",
+    "area": "Ciencias de la Vida",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_2b_016_preguntas_cientificas_simples",
+    "titulo": "Preguntas científicas simples",
+    "curso": "2° básico",
+    "folder": "02_segundo_basico",
+    "path": "02_segundo_basico/016_preguntas_cientificas_simples.md",
+    "area": "Ciencia, tecnología, sociedad y ambiente",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_3b_001_plantas_y_fotosintesis_inicial",
+    "titulo": "Plantas y fotosíntesis inicial",
+    "curso": "3° básico",
+    "folder": "03_tercero_basico",
+    "path": "03_tercero_basico/001_plantas_y_fotosintesis_inicial.md",
+    "area": "Ciencias de la Vida",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_3b_002_polinizacion_y_dispersion",
+    "titulo": "Polinización y dispersión",
+    "curso": "3° básico",
+    "folder": "03_tercero_basico",
+    "path": "03_tercero_basico/002_polinizacion_y_dispersion.md",
+    "area": "Ciencia, tecnología, sociedad y ambiente",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_3b_003_animales_y_alimentacion",
+    "titulo": "Animales y alimentación",
+    "curso": "3° básico",
+    "folder": "03_tercero_basico",
+    "path": "03_tercero_basico/003_animales_y_alimentacion.md",
+    "area": "Ciencias de la Vida",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_3b_004_cadenas_alimentarias_simples",
+    "titulo": "Cadenas alimentarias simples",
+    "curso": "3° básico",
+    "folder": "03_tercero_basico",
+    "path": "03_tercero_basico/004_cadenas_alimentarias_simples.md",
+    "area": "Ciencia, tecnología, sociedad y ambiente",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_3b_005_ecosistemas_locales",
+    "titulo": "Ecosistemas locales",
+    "curso": "3° básico",
+    "folder": "03_tercero_basico",
+    "path": "03_tercero_basico/005_ecosistemas_locales.md",
+    "area": "Ciencias de la Vida",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_3b_006_sistema_solar_inicial",
+    "titulo": "Sistema solar inicial",
+    "curso": "3° básico",
+    "folder": "03_tercero_basico",
+    "path": "03_tercero_basico/006_sistema_solar_inicial.md",
+    "area": "Ciencias de la Vida",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_3b_007_rotacion_de_la_tierra",
+    "titulo": "Rotación de la Tierra",
+    "curso": "3° básico",
+    "folder": "03_tercero_basico",
+    "path": "03_tercero_basico/007_rotacion_de_la_tierra.md",
+    "area": "Ciencias de la Tierra y el Universo",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_3b_008_traslacion_y_estaciones",
+    "titulo": "Traslación y estaciones",
+    "curso": "3° básico",
+    "folder": "03_tercero_basico",
+    "path": "03_tercero_basico/008_traslacion_y_estaciones.md",
+    "area": "Ciencia, tecnología, sociedad y ambiente",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_3b_009_luz_y_sombras",
+    "titulo": "Luz y sombras",
+    "curso": "3° básico",
+    "folder": "03_tercero_basico",
+    "path": "03_tercero_basico/009_luz_y_sombras.md",
+    "area": "Ciencias Físicas y Químicas",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_3b_010_sonido_y_vibracion",
+    "titulo": "Sonido y vibración",
+    "curso": "3° básico",
+    "folder": "03_tercero_basico",
+    "path": "03_tercero_basico/010_sonido_y_vibracion.md",
+    "area": "Ciencias Físicas y Químicas",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_3b_011_fuerza_y_movimiento",
+    "titulo": "Fuerza y movimiento",
+    "curso": "3° básico",
+    "folder": "03_tercero_basico",
+    "path": "03_tercero_basico/011_fuerza_y_movimiento.md",
+    "area": "Ciencias Físicas y Químicas",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_3b_012_maquinas_simples",
+    "titulo": "Máquinas simples",
+    "curso": "3° básico",
+    "folder": "03_tercero_basico",
+    "path": "03_tercero_basico/012_maquinas_simples.md",
+    "area": "Ciencia, tecnología, sociedad y ambiente",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_3b_013_materia_y_masa",
+    "titulo": "Materia y masa",
+    "curso": "3° básico",
+    "folder": "03_tercero_basico",
+    "path": "03_tercero_basico/013_materia_y_masa.md",
+    "area": "Ciencias Físicas y Químicas",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_3b_014_volumen_y_capacidad",
+    "titulo": "Volumen y capacidad",
+    "curso": "3° básico",
+    "folder": "03_tercero_basico",
+    "path": "03_tercero_basico/014_volumen_y_capacidad.md",
+    "area": "Ciencia, tecnología, sociedad y ambiente",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_3b_015_temperatura_y_calor_inicial",
+    "titulo": "Temperatura y calor inicial",
+    "curso": "3° básico",
+    "folder": "03_tercero_basico",
+    "path": "03_tercero_basico/015_temperatura_y_calor_inicial.md",
+    "area": "Ciencias Físicas y Químicas",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_3b_016_cambios_reversibles_e_irreversibles",
+    "titulo": "Cambios reversibles e irreversibles",
+    "curso": "3° básico",
+    "folder": "03_tercero_basico",
+    "path": "03_tercero_basico/016_cambios_reversibles_e_irreversibles.md",
+    "area": "Ciencia, tecnología, sociedad y ambiente",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_3b_017_habitos_de_higiene",
+    "titulo": "Hábitos de higiene",
+    "curso": "3° básico",
+    "folder": "03_tercero_basico",
+    "path": "03_tercero_basico/017_habitos_de_higiene.md",
+    "area": "Ciencia, tecnología, sociedad y ambiente",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_3b_018_investigacion_con_variables_simples",
+    "titulo": "Investigación con variables simples",
+    "curso": "3° básico",
+    "folder": "03_tercero_basico",
+    "path": "03_tercero_basico/018_investigacion_con_variables_simples.md",
+    "area": "Habilidades y naturaleza de la ciencia",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_4b_001_niveles_de_organizacion_de_los_seres_vivos",
+    "titulo": "Niveles de organización de los seres vivos",
+    "curso": "4° básico",
+    "folder": "04_cuarto_basico",
+    "path": "04_cuarto_basico/001_niveles_de_organizacion_de_los_seres_vivos.md",
+    "area": "Ciencias de la Vida",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_4b_002_ecosistemas_y_relaciones",
+    "titulo": "Ecosistemas y relaciones",
+    "curso": "4° básico",
+    "folder": "04_cuarto_basico",
+    "path": "04_cuarto_basico/002_ecosistemas_y_relaciones.md",
+    "area": "Ciencias de la Vida",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_4b_003_cadenas_y_redes_alimentarias",
+    "titulo": "Cadenas y redes alimentarias",
+    "curso": "4° básico",
+    "folder": "04_cuarto_basico",
+    "path": "04_cuarto_basico/003_cadenas_y_redes_alimentarias.md",
+    "area": "Ciencia, tecnología, sociedad y ambiente",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_4b_004_adaptaciones_al_ambiente",
+    "titulo": "Adaptaciones al ambiente",
+    "curso": "4° básico",
+    "folder": "04_cuarto_basico",
+    "path": "04_cuarto_basico/004_adaptaciones_al_ambiente.md",
+    "area": "Ciencia, tecnología, sociedad y ambiente",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_4b_005_sistema_locomotor",
+    "titulo": "Sistema locomotor",
+    "curso": "4° básico",
+    "folder": "04_cuarto_basico",
+    "path": "04_cuarto_basico/005_sistema_locomotor.md",
+    "area": "Ciencias de la Vida",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_4b_006_sistema_nervioso_inicial",
+    "titulo": "Sistema nervioso inicial",
+    "curso": "4° básico",
+    "folder": "04_cuarto_basico",
+    "path": "04_cuarto_basico/006_sistema_nervioso_inicial.md",
+    "area": "Ciencias de la Vida",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_4b_007_alimentacion_y_nutrientes",
+    "titulo": "Alimentación y nutrientes",
+    "curso": "4° básico",
+    "folder": "04_cuarto_basico",
+    "path": "04_cuarto_basico/007_alimentacion_y_nutrientes.md",
+    "area": "Ciencia, tecnología, sociedad y ambiente",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_4b_008_salud_y_prevencion",
+    "titulo": "Salud y prevención",
+    "curso": "4° básico",
+    "folder": "04_cuarto_basico",
+    "path": "04_cuarto_basico/008_salud_y_prevencion.md",
+    "area": "Ciencias de la Vida",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_4b_009_materia_y_particulas_inicial",
+    "titulo": "Materia y partículas inicial",
+    "curso": "4° básico",
+    "folder": "04_cuarto_basico",
+    "path": "04_cuarto_basico/009_materia_y_particulas_inicial.md",
+    "area": "Ciencias Físicas y Químicas",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_4b_010_solidos_liquidos_y_gases",
+    "titulo": "Sólidos, líquidos y gases",
+    "curso": "4° básico",
+    "folder": "04_cuarto_basico",
+    "path": "04_cuarto_basico/010_solidos_liquidos_y_gases.md",
+    "area": "Ciencia, tecnología, sociedad y ambiente",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_4b_011_cambios_de_estado",
+    "titulo": "Cambios de estado",
+    "curso": "4° básico",
+    "folder": "04_cuarto_basico",
+    "path": "04_cuarto_basico/011_cambios_de_estado.md",
+    "area": "Ciencia, tecnología, sociedad y ambiente",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_4b_012_fuerza_de_gravedad",
+    "titulo": "Fuerza de gravedad",
+    "curso": "4° básico",
+    "folder": "04_cuarto_basico",
+    "path": "04_cuarto_basico/012_fuerza_de_gravedad.md",
+    "area": "Ciencias Físicas y Químicas",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_4b_013_friccion",
+    "titulo": "Fricción",
+    "curso": "4° básico",
+    "folder": "04_cuarto_basico",
+    "path": "04_cuarto_basico/013_friccion.md",
+    "area": "Ciencia, tecnología, sociedad y ambiente",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_4b_014_movimiento_y_rapidez_inicial",
+    "titulo": "Movimiento y rapidez inicial",
+    "curso": "4° básico",
+    "folder": "04_cuarto_basico",
+    "path": "04_cuarto_basico/014_movimiento_y_rapidez_inicial.md",
+    "area": "Ciencias Físicas y Químicas",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_4b_015_circuitos_electricos_simples",
+    "titulo": "Circuitos eléctricos simples",
+    "curso": "4° básico",
+    "folder": "04_cuarto_basico",
+    "path": "04_cuarto_basico/015_circuitos_electricos_simples.md",
+    "area": "Ciencia, tecnología, sociedad y ambiente",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_4b_016_conductores_y_aislantes",
+    "titulo": "Conductores y aislantes",
+    "curso": "4° básico",
+    "folder": "04_cuarto_basico",
+    "path": "04_cuarto_basico/016_conductores_y_aislantes.md",
+    "area": "Ciencia, tecnología, sociedad y ambiente",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_4b_017_capas_de_la_tierra",
+    "titulo": "Capas de la Tierra",
+    "curso": "4° básico",
+    "folder": "04_cuarto_basico",
+    "path": "04_cuarto_basico/017_capas_de_la_tierra.md",
+    "area": "Ciencias de la Tierra y el Universo",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_4b_018_sismos_y_volcanes",
+    "titulo": "Sismos y volcanes",
+    "curso": "4° básico",
+    "folder": "04_cuarto_basico",
+    "path": "04_cuarto_basico/018_sismos_y_volcanes.md",
+    "area": "Ciencias de la Tierra y el Universo",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_4b_019_rocas_y_minerales",
+    "titulo": "Rocas y minerales",
+    "curso": "4° básico",
+    "folder": "04_cuarto_basico",
+    "path": "04_cuarto_basico/019_rocas_y_minerales.md",
+    "area": "Ciencias de la Tierra y el Universo",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_4b_020_metodo_cientifico_escolar",
+    "titulo": "Método científico escolar",
+    "curso": "4° básico",
+    "folder": "04_cuarto_basico",
+    "path": "04_cuarto_basico/020_metodo_cientifico_escolar.md",
+    "area": "Habilidades y naturaleza de la ciencia",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_5b_001_celula_como_unidad_de_vida",
+    "titulo": "Célula como unidad de vida",
+    "curso": "5° básico",
+    "folder": "05_quinto_basico",
+    "path": "05_quinto_basico/001_celula_como_unidad_de_vida.md",
+    "area": "Ciencias de la Vida",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_5b_002_organizacion_celular",
+    "titulo": "Organización celular",
+    "curso": "5° básico",
+    "folder": "05_quinto_basico",
+    "path": "05_quinto_basico/002_organizacion_celular.md",
+    "area": "Ciencia, tecnología, sociedad y ambiente",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_5b_003_microorganismos",
+    "titulo": "Microorganismos",
+    "curso": "5° básico",
+    "folder": "05_quinto_basico",
+    "path": "05_quinto_basico/003_microorganismos.md",
+    "area": "Ciencia, tecnología, sociedad y ambiente",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_5b_004_sistema_digestivo",
+    "titulo": "Sistema digestivo",
+    "curso": "5° básico",
+    "folder": "05_quinto_basico",
+    "path": "05_quinto_basico/004_sistema_digestivo.md",
+    "area": "Ciencias de la Vida",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_5b_005_sistema_respiratorio",
+    "titulo": "Sistema respiratorio",
+    "curso": "5° básico",
+    "folder": "05_quinto_basico",
+    "path": "05_quinto_basico/005_sistema_respiratorio.md",
+    "area": "Ciencias de la Vida",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_5b_006_sistema_circulatorio",
+    "titulo": "Sistema circulatorio",
+    "curso": "5° básico",
+    "folder": "05_quinto_basico",
+    "path": "05_quinto_basico/006_sistema_circulatorio.md",
+    "area": "Ciencias de la Vida",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_5b_007_sistema_excretor",
+    "titulo": "Sistema excretor",
+    "curso": "5° básico",
+    "folder": "05_quinto_basico",
+    "path": "05_quinto_basico/007_sistema_excretor.md",
+    "area": "Ciencias de la Vida",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_5b_008_alimentacion_equilibrada",
+    "titulo": "Alimentación equilibrada",
+    "curso": "5° básico",
+    "folder": "05_quinto_basico",
+    "path": "05_quinto_basico/008_alimentacion_equilibrada.md",
+    "area": "Ciencia, tecnología, sociedad y ambiente",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_5b_009_efectos_del_tabaco_y_contaminantes",
+    "titulo": "Efectos del tabaco y contaminantes",
+    "curso": "5° básico",
+    "folder": "05_quinto_basico",
+    "path": "05_quinto_basico/009_efectos_del_tabaco_y_contaminantes.md",
+    "area": "Ciencia, tecnología, sociedad y ambiente",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_5b_010_pubertad_y_cambios_corporales",
+    "titulo": "Pubertad y cambios corporales",
+    "curso": "5° básico",
+    "folder": "05_quinto_basico",
+    "path": "05_quinto_basico/010_pubertad_y_cambios_corporales.md",
+    "area": "Ciencia, tecnología, sociedad y ambiente",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_5b_011_ecosistemas_acuaticos",
+    "titulo": "Ecosistemas acuáticos",
+    "curso": "5° básico",
+    "folder": "05_quinto_basico",
+    "path": "05_quinto_basico/011_ecosistemas_acuaticos.md",
+    "area": "Ciencias de la Vida",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_5b_012_oceanos_y_vida_marina",
+    "titulo": "Océanos y vida marina",
+    "curso": "5° básico",
+    "folder": "05_quinto_basico",
+    "path": "05_quinto_basico/012_oceanos_y_vida_marina.md",
+    "area": "Ciencias de la Tierra y el Universo",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_5b_013_impacto_humano_en_ecosistemas",
+    "titulo": "Impacto humano en ecosistemas",
+    "curso": "5° básico",
+    "folder": "05_quinto_basico",
+    "path": "05_quinto_basico/013_impacto_humano_en_ecosistemas.md",
+    "area": "Ciencias de la Vida",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_5b_014_energia_y_sus_formas",
+    "titulo": "Energía y sus formas",
+    "curso": "5° básico",
+    "folder": "05_quinto_basico",
+    "path": "05_quinto_basico/014_energia_y_sus_formas.md",
+    "area": "Ciencias Físicas y Químicas",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_5b_015_electricidad_basica",
+    "titulo": "Electricidad básica",
+    "curso": "5° básico",
+    "folder": "05_quinto_basico",
+    "path": "05_quinto_basico/015_electricidad_basica.md",
+    "area": "Ciencias Físicas y Químicas",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_5b_016_circuitos_en_serie_y_paralelo",
+    "titulo": "Circuitos en serie y paralelo",
+    "curso": "5° básico",
+    "folder": "05_quinto_basico",
+    "path": "05_quinto_basico/016_circuitos_en_serie_y_paralelo.md",
+    "area": "Ciencia, tecnología, sociedad y ambiente",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_5b_017_fuerzas_y_movimiento",
+    "titulo": "Fuerzas y movimiento",
+    "curso": "5° básico",
+    "folder": "05_quinto_basico",
+    "path": "05_quinto_basico/017_fuerzas_y_movimiento.md",
+    "area": "Ciencias Físicas y Químicas",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_5b_018_maquinas_y_eficiencia",
+    "titulo": "Máquinas y eficiencia",
+    "curso": "5° básico",
+    "folder": "05_quinto_basico",
+    "path": "05_quinto_basico/018_maquinas_y_eficiencia.md",
+    "area": "Habilidades y naturaleza de la ciencia",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_5b_019_materia_y_mezclas",
+    "titulo": "Materia y mezclas",
+    "curso": "5° básico",
+    "folder": "05_quinto_basico",
+    "path": "05_quinto_basico/019_materia_y_mezclas.md",
+    "area": "Ciencias Físicas y Químicas",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_5b_020_separacion_de_mezclas",
+    "titulo": "Separación de mezclas",
+    "curso": "5° básico",
+    "folder": "05_quinto_basico",
+    "path": "05_quinto_basico/020_separacion_de_mezclas.md",
+    "area": "Ciencias Físicas y Químicas",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_5b_021_agua_en_la_tierra",
+    "titulo": "Agua en la Tierra",
+    "curso": "5° básico",
+    "folder": "05_quinto_basico",
+    "path": "05_quinto_basico/021_agua_en_la_tierra.md",
+    "area": "Ciencias de la Tierra y el Universo",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_5b_022_ciclo_del_agua_y_reservas",
+    "titulo": "Ciclo del agua y reservas",
+    "curso": "5° básico",
+    "folder": "05_quinto_basico",
+    "path": "05_quinto_basico/022_ciclo_del_agua_y_reservas.md",
+    "area": "Ciencia, tecnología, sociedad y ambiente",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_5b_023_tierra_luna_y_mareas",
+    "titulo": "Tierra, Luna y mareas",
+    "curso": "5° básico",
+    "folder": "05_quinto_basico",
+    "path": "05_quinto_basico/023_tierra_luna_y_mareas.md",
+    "area": "Ciencias de la Tierra y el Universo",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_5b_024_investigacion_experimental",
+    "titulo": "Investigación experimental",
+    "curso": "5° básico",
+    "folder": "05_quinto_basico",
+    "path": "05_quinto_basico/024_investigacion_experimental.md",
+    "area": "Habilidades y naturaleza de la ciencia",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_6b_001_fotosintesis",
+    "titulo": "Fotosíntesis",
+    "curso": "6° básico",
+    "folder": "06_sexto_basico",
+    "path": "06_sexto_basico/001_fotosintesis.md",
+    "area": "Ciencias de la Vida",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_6b_002_respiracion_celular_inicial",
+    "titulo": "Respiración celular inicial",
+    "curso": "6° básico",
+    "folder": "06_sexto_basico",
+    "path": "06_sexto_basico/002_respiracion_celular_inicial.md",
+    "area": "Ciencia, tecnología, sociedad y ambiente",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_6b_003_suelo_y_sus_capas",
+    "titulo": "Suelo y sus capas",
+    "curso": "6° básico",
+    "folder": "06_sexto_basico",
+    "path": "06_sexto_basico/003_suelo_y_sus_capas.md",
+    "area": "Ciencias de la Tierra y el Universo",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_6b_004_erosion_y_conservacion_del_suelo",
+    "titulo": "Erosión y conservación del suelo",
+    "curso": "6° básico",
+    "folder": "06_sexto_basico",
+    "path": "06_sexto_basico/004_erosion_y_conservacion_del_suelo.md",
+    "area": "Ciencias de la Tierra y el Universo",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_6b_005_relaciones_troficas",
+    "titulo": "Relaciones tróficas",
+    "curso": "6° básico",
+    "folder": "06_sexto_basico",
+    "path": "06_sexto_basico/005_relaciones_troficas.md",
+    "area": "Ciencia, tecnología, sociedad y ambiente",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_6b_006_redes_alimentarias",
+    "titulo": "Redes alimentarias",
+    "curso": "6° básico",
+    "folder": "06_sexto_basico",
+    "path": "06_sexto_basico/006_redes_alimentarias.md",
+    "area": "Ciencia, tecnología, sociedad y ambiente",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_6b_007_pubertad_y_sistema_reproductor",
+    "titulo": "Pubertad y sistema reproductor",
+    "curso": "6° básico",
+    "folder": "06_sexto_basico",
+    "path": "06_sexto_basico/007_pubertad_y_sistema_reproductor.md",
+    "area": "Ciencias de la Vida",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_6b_008_autocuidado_y_sexualidad_responsable_escolar",
+    "titulo": "Autocuidado y sexualidad responsable escolar",
+    "curso": "6° básico",
+    "folder": "06_sexto_basico",
+    "path": "06_sexto_basico/008_autocuidado_y_sexualidad_responsable_escolar.md",
+    "area": "Ciencia, tecnología, sociedad y ambiente",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_6b_009_alcohol_drogas_y_prevencion",
+    "titulo": "Alcohol, drogas y prevención",
+    "curso": "6° básico",
+    "folder": "06_sexto_basico",
+    "path": "06_sexto_basico/009_alcohol_drogas_y_prevencion.md",
+    "area": "Ciencia, tecnología, sociedad y ambiente",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_6b_010_energia_cinetica_y_potencial",
+    "titulo": "Energía cinética y potencial",
+    "curso": "6° básico",
+    "folder": "06_sexto_basico",
+    "path": "06_sexto_basico/010_energia_cinetica_y_potencial.md",
+    "area": "Ciencias Físicas y Químicas",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_6b_011_transformaciones_de_energia",
+    "titulo": "Transformaciones de energía",
+    "curso": "6° básico",
+    "folder": "06_sexto_basico",
+    "path": "06_sexto_basico/011_transformaciones_de_energia.md",
+    "area": "Ciencias Físicas y Químicas",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_6b_012_calor_y_temperatura",
+    "titulo": "Calor y temperatura",
+    "curso": "6° básico",
+    "folder": "06_sexto_basico",
+    "path": "06_sexto_basico/012_calor_y_temperatura.md",
+    "area": "Ciencias Físicas y Químicas",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_6b_013_transferencia_de_calor",
+    "titulo": "Transferencia de calor",
+    "curso": "6° básico",
+    "folder": "06_sexto_basico",
+    "path": "06_sexto_basico/013_transferencia_de_calor.md",
+    "area": "Ciencias Físicas y Químicas",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_6b_014_electricidad_y_consumo_responsable",
+    "titulo": "Electricidad y consumo responsable",
+    "curso": "6° básico",
+    "folder": "06_sexto_basico",
+    "path": "06_sexto_basico/014_electricidad_y_consumo_responsable.md",
+    "area": "Ciencias Físicas y Químicas",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_6b_015_materia_formada_por_particulas",
+    "titulo": "Materia formada por partículas",
+    "curso": "6° básico",
+    "folder": "06_sexto_basico",
+    "path": "06_sexto_basico/015_materia_formada_por_particulas.md",
+    "area": "Ciencias Físicas y Químicas",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_6b_016_estados_de_la_materia",
+    "titulo": "Estados de la materia",
+    "curso": "6° básico",
+    "folder": "06_sexto_basico",
+    "path": "06_sexto_basico/016_estados_de_la_materia.md",
+    "area": "Ciencias Físicas y Químicas",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_6b_017_cambios_fisicos_y_quimicos",
+    "titulo": "Cambios físicos y químicos",
+    "curso": "6° básico",
+    "folder": "06_sexto_basico",
+    "path": "06_sexto_basico/017_cambios_fisicos_y_quimicos.md",
+    "area": "Ciencias Físicas y Químicas",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_6b_018_mezclas_y_soluciones",
+    "titulo": "Mezclas y soluciones",
+    "curso": "6° básico",
+    "folder": "06_sexto_basico",
+    "path": "06_sexto_basico/018_mezclas_y_soluciones.md",
+    "area": "Ciencias Físicas y Químicas",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_6b_019_presion_atmosferica_inicial",
+    "titulo": "Presión atmosférica inicial",
+    "curso": "6° básico",
+    "folder": "06_sexto_basico",
+    "path": "06_sexto_basico/019_presion_atmosferica_inicial.md",
+    "area": "Ciencias Físicas y Químicas",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_6b_020_atmosfera_y_clima",
+    "titulo": "Atmósfera y clima",
+    "curso": "6° básico",
+    "folder": "06_sexto_basico",
+    "path": "06_sexto_basico/020_atmosfera_y_clima.md",
+    "area": "Ciencias de la Tierra y el Universo",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_6b_021_sistema_solar",
+    "titulo": "Sistema solar",
+    "curso": "6° básico",
+    "folder": "06_sexto_basico",
+    "path": "06_sexto_basico/021_sistema_solar.md",
+    "area": "Ciencias de la Vida",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_6b_022_eclipses",
+    "titulo": "Eclipses",
+    "curso": "6° básico",
+    "folder": "06_sexto_basico",
+    "path": "06_sexto_basico/022_eclipses.md",
+    "area": "Ciencia, tecnología, sociedad y ambiente",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_6b_023_gravedad_y_orbitas",
+    "titulo": "Gravedad y órbitas",
+    "curso": "6° básico",
+    "folder": "06_sexto_basico",
+    "path": "06_sexto_basico/023_gravedad_y_orbitas.md",
+    "area": "Ciencia, tecnología, sociedad y ambiente",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_6b_024_diseno_de_experimentos",
+    "titulo": "Diseño de experimentos",
+    "curso": "6° básico",
+    "folder": "06_sexto_basico",
+    "path": "06_sexto_basico/024_diseno_de_experimentos.md",
+    "area": "Ciencia, tecnología, sociedad y ambiente",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_7b_001_teoria_celular",
+    "titulo": "Teoría celular",
+    "curso": "7° básico",
+    "folder": "07_septimo_basico",
+    "path": "07_septimo_basico/001_teoria_celular.md",
+    "area": "Ciencia, tecnología, sociedad y ambiente",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_7b_002_celulas_procariontes_y_eucariontes",
+    "titulo": "Células procariontes y eucariontes",
+    "curso": "7° básico",
+    "folder": "07_septimo_basico",
+    "path": "07_septimo_basico/002_celulas_procariontes_y_eucariontes.md",
+    "area": "Ciencias de la Vida",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_7b_003_mitosis",
+    "titulo": "Mitosis",
+    "curso": "7° básico",
+    "folder": "07_septimo_basico",
+    "path": "07_septimo_basico/003_mitosis.md",
+    "area": "Ciencia, tecnología, sociedad y ambiente",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_7b_004_reproduccion_humana",
+    "titulo": "Reproducción humana",
+    "curso": "7° básico",
+    "folder": "07_septimo_basico",
+    "path": "07_septimo_basico/004_reproduccion_humana.md",
+    "area": "Ciencias de la Vida",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_7b_005_sistema_reproductor",
+    "titulo": "Sistema reproductor",
+    "curso": "7° básico",
+    "folder": "07_septimo_basico",
+    "path": "07_septimo_basico/005_sistema_reproductor.md",
+    "area": "Ciencias de la Vida",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_7b_006_sexualidad_afectividad_y_autocuidado",
+    "titulo": "Sexualidad, afectividad y autocuidado",
+    "curso": "7° básico",
+    "folder": "07_septimo_basico",
+    "path": "07_septimo_basico/006_sexualidad_afectividad_y_autocuidado.md",
+    "area": "Ciencia, tecnología, sociedad y ambiente",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_7b_007_microorganismos_y_salud",
+    "titulo": "Microorganismos y salud",
+    "curso": "7° básico",
+    "folder": "07_septimo_basico",
+    "path": "07_septimo_basico/007_microorganismos_y_salud.md",
+    "area": "Ciencias de la Vida",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_7b_008_vacunas_e_inmunidad_inicial",
+    "titulo": "Vacunas e inmunidad inicial",
+    "curso": "7° básico",
+    "folder": "07_septimo_basico",
+    "path": "07_septimo_basico/008_vacunas_e_inmunidad_inicial.md",
+    "area": "Ciencias de la Vida",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_7b_009_nutricion_y_metabolismo",
+    "titulo": "Nutrición y metabolismo",
+    "curso": "7° básico",
+    "folder": "07_septimo_basico",
+    "path": "07_septimo_basico/009_nutricion_y_metabolismo.md",
+    "area": "Ciencias de la Vida",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_7b_010_fuerzas_y_diagramas",
+    "titulo": "Fuerzas y diagramas",
+    "curso": "7° básico",
+    "folder": "07_septimo_basico",
+    "path": "07_septimo_basico/010_fuerzas_y_diagramas.md",
+    "area": "Ciencias Físicas y Químicas",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_7b_011_leyes_de_newton_iniciales",
+    "titulo": "Leyes de Newton iniciales",
+    "curso": "7° básico",
+    "folder": "07_septimo_basico",
+    "path": "07_septimo_basico/011_leyes_de_newton_iniciales.md",
+    "area": "Ciencia, tecnología, sociedad y ambiente",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": true
+  },
+  {
+    "id": "cng_7b_012_presion_en_fluidos",
+    "titulo": "Presión en fluidos",
+    "curso": "7° básico",
+    "folder": "07_septimo_basico",
+    "path": "07_septimo_basico/012_presion_en_fluidos.md",
+    "area": "Ciencias Físicas y Químicas",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_7b_013_maquinas_simples_y_trabajo",
+    "titulo": "Máquinas simples y trabajo",
+    "curso": "7° básico",
+    "folder": "07_septimo_basico",
+    "path": "07_septimo_basico/013_maquinas_simples_y_trabajo.md",
+    "area": "Ciencia, tecnología, sociedad y ambiente",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_7b_014_calor_y_cambios_de_estado",
+    "titulo": "Calor y cambios de estado",
+    "curso": "7° básico",
+    "folder": "07_septimo_basico",
+    "path": "07_septimo_basico/014_calor_y_cambios_de_estado.md",
+    "area": "Ciencias Físicas y Químicas",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_7b_015_gases_y_presion",
+    "titulo": "Gases y presión",
+    "curso": "7° básico",
+    "folder": "07_septimo_basico",
+    "path": "07_septimo_basico/015_gases_y_presion.md",
+    "area": "Ciencias Físicas y Químicas",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_7b_016_mezclas_y_sustancias_puras",
+    "titulo": "Mezclas y sustancias puras",
+    "curso": "7° básico",
+    "folder": "07_septimo_basico",
+    "path": "07_septimo_basico/016_mezclas_y_sustancias_puras.md",
+    "area": "Ciencias Físicas y Químicas",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_7b_017_elementos_y_compuestos",
+    "titulo": "Elementos y compuestos",
+    "curso": "7° básico",
+    "folder": "07_septimo_basico",
+    "path": "07_septimo_basico/017_elementos_y_compuestos.md",
+    "area": "Ciencia, tecnología, sociedad y ambiente",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_7b_018_tabla_periodica_inicial",
+    "titulo": "Tabla periódica inicial",
+    "curso": "7° básico",
+    "folder": "07_septimo_basico",
+    "path": "07_septimo_basico/018_tabla_periodica_inicial.md",
+    "area": "Ciencia, tecnología, sociedad y ambiente",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_7b_019_reacciones_quimicas",
+    "titulo": "Reacciones químicas",
+    "curso": "7° básico",
+    "folder": "07_septimo_basico",
+    "path": "07_septimo_basico/019_reacciones_quimicas.md",
+    "area": "Ciencias Físicas y Químicas",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_7b_020_ciclo_de_las_rocas",
+    "titulo": "Ciclo de las rocas",
+    "curso": "7° básico",
+    "folder": "07_septimo_basico",
+    "path": "07_septimo_basico/020_ciclo_de_las_rocas.md",
+    "area": "Ciencias de la Tierra y el Universo",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_7b_021_tectonica_de_placas",
+    "titulo": "Tectónica de placas",
+    "curso": "7° básico",
+    "folder": "07_septimo_basico",
+    "path": "07_septimo_basico/021_tectonica_de_placas.md",
+    "area": "Ciencia, tecnología, sociedad y ambiente",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_7b_022_sismos_y_volcanismo",
+    "titulo": "Sismos y volcanismo",
+    "curso": "7° básico",
+    "folder": "07_septimo_basico",
+    "path": "07_septimo_basico/022_sismos_y_volcanismo.md",
+    "area": "Ciencias de la Tierra y el Universo",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_7b_023_cambio_climatico_inicial",
+    "titulo": "Cambio climático inicial",
+    "curso": "7° básico",
+    "folder": "07_septimo_basico",
+    "path": "07_septimo_basico/023_cambio_climatico_inicial.md",
+    "area": "Ciencia, tecnología, sociedad y ambiente",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": true
+  },
+  {
+    "id": "cng_7b_024_investigacion_y_comunicacion_cientifica",
+    "titulo": "Investigación y comunicación científica",
+    "curso": "7° básico",
+    "folder": "07_septimo_basico",
+    "path": "07_septimo_basico/024_investigacion_y_comunicacion_cientifica.md",
+    "area": "Habilidades y naturaleza de la ciencia",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_8b_001_homeostasis",
+    "titulo": "Homeostasis",
+    "curso": "8° básico",
+    "folder": "08_octavo_basico",
+    "path": "08_octavo_basico/001_homeostasis.md",
+    "area": "Ciencia, tecnología, sociedad y ambiente",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_8b_002_sistema_digestivo_y_absorcion",
+    "titulo": "Sistema digestivo y absorción",
+    "curso": "8° básico",
+    "folder": "08_octavo_basico",
+    "path": "08_octavo_basico/002_sistema_digestivo_y_absorcion.md",
+    "area": "Ciencias de la Vida",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_8b_003_sistema_circulatorio",
+    "titulo": "Sistema circulatorio",
+    "curso": "8° básico",
+    "folder": "08_octavo_basico",
+    "path": "08_octavo_basico/003_sistema_circulatorio.md",
+    "area": "Ciencias de la Vida",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_8b_004_sistema_respiratorio",
+    "titulo": "Sistema respiratorio",
+    "curso": "8° básico",
+    "folder": "08_octavo_basico",
+    "path": "08_octavo_basico/004_sistema_respiratorio.md",
+    "area": "Ciencias de la Vida",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_8b_005_sistema_excretor",
+    "titulo": "Sistema excretor",
+    "curso": "8° básico",
+    "folder": "08_octavo_basico",
+    "path": "08_octavo_basico/005_sistema_excretor.md",
+    "area": "Ciencias de la Vida",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_8b_006_nutricion_y_salud",
+    "titulo": "Nutrición y salud",
+    "curso": "8° básico",
+    "folder": "08_octavo_basico",
+    "path": "08_octavo_basico/006_nutricion_y_salud.md",
+    "area": "Ciencias de la Vida",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_8b_007_enfermedades_no_transmisibles",
+    "titulo": "Enfermedades no transmisibles",
+    "curso": "8° básico",
+    "folder": "08_octavo_basico",
+    "path": "08_octavo_basico/007_enfermedades_no_transmisibles.md",
+    "area": "Ciencia, tecnología, sociedad y ambiente",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_8b_008_microbiota_humana",
+    "titulo": "Microbiota humana",
+    "curso": "8° básico",
+    "folder": "08_octavo_basico",
+    "path": "08_octavo_basico/008_microbiota_humana.md",
+    "area": "Ciencias de la Vida",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_8b_009_reproduccion_celular",
+    "titulo": "Reproducción celular",
+    "curso": "8° básico",
+    "folder": "08_octavo_basico",
+    "path": "08_octavo_basico/009_reproduccion_celular.md",
+    "area": "Ciencias de la Vida",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_8b_010_genetica_inicial",
+    "titulo": "Genética inicial",
+    "curso": "8° básico",
+    "folder": "08_octavo_basico",
+    "path": "08_octavo_basico/010_genetica_inicial.md",
+    "area": "Ciencias de la Vida",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_8b_011_electricidad_y_carga_electrica",
+    "titulo": "Electricidad y carga eléctrica",
+    "curso": "8° básico",
+    "folder": "08_octavo_basico",
+    "path": "08_octavo_basico/011_electricidad_y_carga_electrica.md",
+    "area": "Ciencias Físicas y Químicas",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_8b_012_electrizacion",
+    "titulo": "Electrización",
+    "curso": "8° básico",
+    "folder": "08_octavo_basico",
+    "path": "08_octavo_basico/012_electrizacion.md",
+    "area": "Ciencia, tecnología, sociedad y ambiente",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_8b_013_corriente_y_voltaje",
+    "titulo": "Corriente y voltaje",
+    "curso": "8° básico",
+    "folder": "08_octavo_basico",
+    "path": "08_octavo_basico/013_corriente_y_voltaje.md",
+    "area": "Ciencia, tecnología, sociedad y ambiente",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_8b_014_resistencia_electrica",
+    "titulo": "Resistencia eléctrica",
+    "curso": "8° básico",
+    "folder": "08_octavo_basico",
+    "path": "08_octavo_basico/014_resistencia_electrica.md",
+    "area": "Ciencia, tecnología, sociedad y ambiente",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": true
+  },
+  {
+    "id": "cng_8b_015_potencia_y_consumo",
+    "titulo": "Potencia y consumo",
+    "curso": "8° básico",
+    "folder": "08_octavo_basico",
+    "path": "08_octavo_basico/015_potencia_y_consumo.md",
+    "area": "Ciencia, tecnología, sociedad y ambiente",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_8b_016_calor_y_temperatura",
+    "titulo": "Calor y temperatura",
+    "curso": "8° básico",
+    "folder": "08_octavo_basico",
+    "path": "08_octavo_basico/016_calor_y_temperatura.md",
+    "area": "Ciencias Físicas y Químicas",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_8b_017_modelo_atomico",
+    "titulo": "Modelo atómico",
+    "curso": "8° básico",
+    "folder": "08_octavo_basico",
+    "path": "08_octavo_basico/017_modelo_atomico.md",
+    "area": "Ciencia, tecnología, sociedad y ambiente",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_8b_018_atomos_moleculas_e_iones",
+    "titulo": "Átomos, moléculas e iones",
+    "curso": "8° básico",
+    "folder": "08_octavo_basico",
+    "path": "08_octavo_basico/018_atomos_moleculas_e_iones.md",
+    "area": "Ciencias Físicas y Químicas",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_8b_019_enlaces_quimicos_iniciales",
+    "titulo": "Enlaces químicos iniciales",
+    "curso": "8° básico",
+    "folder": "08_octavo_basico",
+    "path": "08_octavo_basico/019_enlaces_quimicos_iniciales.md",
+    "area": "Ciencias Físicas y Químicas",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_8b_020_reacciones_quimicas",
+    "titulo": "Reacciones químicas",
+    "curso": "8° básico",
+    "folder": "08_octavo_basico",
+    "path": "08_octavo_basico/020_reacciones_quimicas.md",
+    "area": "Ciencias Físicas y Químicas",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_8b_021_conservacion_de_la_masa",
+    "titulo": "Conservación de la masa",
+    "curso": "8° básico",
+    "folder": "08_octavo_basico",
+    "path": "08_octavo_basico/021_conservacion_de_la_masa.md",
+    "area": "Ciencia, tecnología, sociedad y ambiente",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_8b_022_estructura_interna_de_la_tierra",
+    "titulo": "Estructura interna de la Tierra",
+    "curso": "8° básico",
+    "folder": "08_octavo_basico",
+    "path": "08_octavo_basico/022_estructura_interna_de_la_tierra.md",
+    "area": "Ciencias de la Tierra y el Universo",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_8b_023_tectonica_de_placas",
+    "titulo": "Tectónica de placas",
+    "curso": "8° básico",
+    "folder": "08_octavo_basico",
+    "path": "08_octavo_basico/023_tectonica_de_placas.md",
+    "area": "Ciencia, tecnología, sociedad y ambiente",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_8b_024_evidencias_de_evolucion",
+    "titulo": "Evidencias de evolución",
+    "curso": "8° básico",
+    "folder": "08_octavo_basico",
+    "path": "08_octavo_basico/024_evidencias_de_evolucion.md",
+    "area": "Ciencias de la Vida",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_8b_025_seleccion_natural_inicial",
+    "titulo": "Selección natural inicial",
+    "curso": "8° básico",
+    "folder": "08_octavo_basico",
+    "path": "08_octavo_basico/025_seleccion_natural_inicial.md",
+    "area": "Ciencia, tecnología, sociedad y ambiente",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_8b_026_metodo_cientifico_y_evaluacion_de_evidencia",
+    "titulo": "Método científico y evaluación de evidencia",
+    "curso": "8° básico",
+    "folder": "08_octavo_basico",
+    "path": "08_octavo_basico/026_metodo_cientifico_y_evaluacion_de_evidencia.md",
+    "area": "Habilidades y naturaleza de la ciencia",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_1m_001_biomoleculas",
+    "titulo": "Biomoléculas",
+    "curso": "1° medio",
+    "folder": "09_primero_medio",
+    "path": "09_primero_medio/001_biomoleculas.md",
+    "area": "Ciencia, tecnología, sociedad y ambiente",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_1m_002_estructura_y_funcion_celular",
+    "titulo": "Estructura y función celular",
+    "curso": "1° medio",
+    "folder": "09_primero_medio",
+    "path": "09_primero_medio/002_estructura_y_funcion_celular.md",
+    "area": "Ciencia, tecnología, sociedad y ambiente",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_1m_003_membrana_plasmatica",
+    "titulo": "Membrana plasmática",
+    "curso": "1° medio",
+    "folder": "09_primero_medio",
+    "path": "09_primero_medio/003_membrana_plasmatica.md",
+    "area": "Ciencia, tecnología, sociedad y ambiente",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_1m_004_transporte_celular",
+    "titulo": "Transporte celular",
+    "curso": "1° medio",
+    "folder": "09_primero_medio",
+    "path": "09_primero_medio/004_transporte_celular.md",
+    "area": "Ciencia, tecnología, sociedad y ambiente",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_1m_005_metabolismo_celular",
+    "titulo": "Metabolismo celular",
+    "curso": "1° medio",
+    "folder": "09_primero_medio",
+    "path": "09_primero_medio/005_metabolismo_celular.md",
+    "area": "Ciencia, tecnología, sociedad y ambiente",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_1m_006_division_celular_y_cancer",
+    "titulo": "División celular y cáncer",
+    "curso": "1° medio",
+    "folder": "09_primero_medio",
+    "path": "09_primero_medio/006_division_celular_y_cancer.md",
+    "area": "Ciencia, tecnología, sociedad y ambiente",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_1m_007_genetica_mendeliana",
+    "titulo": "Genética mendeliana",
+    "curso": "1° medio",
+    "folder": "09_primero_medio",
+    "path": "09_primero_medio/007_genetica_mendeliana.md",
+    "area": "Ciencias de la Vida",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_1m_008_adn_y_genes",
+    "titulo": "ADN y genes",
+    "curso": "1° medio",
+    "folder": "09_primero_medio",
+    "path": "09_primero_medio/008_adn_y_genes.md",
+    "area": "Ciencia, tecnología, sociedad y ambiente",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_1m_009_evolucion_y_seleccion_natural",
+    "titulo": "Evolución y selección natural",
+    "curso": "1° medio",
+    "folder": "09_primero_medio",
+    "path": "09_primero_medio/009_evolucion_y_seleccion_natural.md",
+    "area": "Ciencias de la Vida",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_1m_010_ecosistemas_y_flujo_de_energia",
+    "titulo": "Ecosistemas y flujo de energía",
+    "curso": "1° medio",
+    "folder": "09_primero_medio",
+    "path": "09_primero_medio/010_ecosistemas_y_flujo_de_energia.md",
+    "area": "Ciencias de la Vida",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_1m_011_ciclos_biogeoquimicos",
+    "titulo": "Ciclos biogeoquímicos",
+    "curso": "1° medio",
+    "folder": "09_primero_medio",
+    "path": "09_primero_medio/011_ciclos_biogeoquimicos.md",
+    "area": "Ciencias Físicas y Químicas",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_1m_012_biodiversidad_y_conservacion",
+    "titulo": "Biodiversidad y conservación",
+    "curso": "1° medio",
+    "folder": "09_primero_medio",
+    "path": "09_primero_medio/012_biodiversidad_y_conservacion.md",
+    "area": "Ciencia, tecnología, sociedad y ambiente",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_1m_013_movimiento_rectilineo",
+    "titulo": "Movimiento rectilíneo",
+    "curso": "1° medio",
+    "folder": "09_primero_medio",
+    "path": "09_primero_medio/013_movimiento_rectilineo.md",
+    "area": "Ciencias Físicas y Químicas",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_1m_014_rapidez_y_velocidad",
+    "titulo": "Rapidez y velocidad",
+    "curso": "1° medio",
+    "folder": "09_primero_medio",
+    "path": "09_primero_medio/014_rapidez_y_velocidad.md",
+    "area": "Ciencia, tecnología, sociedad y ambiente",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_1m_015_aceleracion",
+    "titulo": "Aceleración",
+    "curso": "1° medio",
+    "folder": "09_primero_medio",
+    "path": "09_primero_medio/015_aceleracion.md",
+    "area": "Ciencia, tecnología, sociedad y ambiente",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_1m_016_leyes_de_newton",
+    "titulo": "Leyes de Newton",
+    "curso": "1° medio",
+    "folder": "09_primero_medio",
+    "path": "09_primero_medio/016_leyes_de_newton.md",
+    "area": "Ciencia, tecnología, sociedad y ambiente",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": true
+  },
+  {
+    "id": "cng_1m_017_trabajo_y_energia",
+    "titulo": "Trabajo y energía",
+    "curso": "1° medio",
+    "folder": "09_primero_medio",
+    "path": "09_primero_medio/017_trabajo_y_energia.md",
+    "area": "Ciencias Físicas y Químicas",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_1m_018_impulso_y_cantidad_de_movimiento",
+    "titulo": "Impulso y cantidad de movimiento",
+    "curso": "1° medio",
+    "folder": "09_primero_medio",
+    "path": "09_primero_medio/018_impulso_y_cantidad_de_movimiento.md",
+    "area": "Ciencias Físicas y Químicas",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_1m_019_ondas",
+    "titulo": "Ondas",
+    "curso": "1° medio",
+    "folder": "09_primero_medio",
+    "path": "09_primero_medio/019_ondas.md",
+    "area": "Ciencias Físicas y Químicas",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_1m_020_sonido",
+    "titulo": "Sonido",
+    "curso": "1° medio",
+    "folder": "09_primero_medio",
+    "path": "09_primero_medio/020_sonido.md",
+    "area": "Ciencias Físicas y Químicas",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_1m_021_luz_y_optica",
+    "titulo": "Luz y óptica",
+    "curso": "1° medio",
+    "folder": "09_primero_medio",
+    "path": "09_primero_medio/021_luz_y_optica.md",
+    "area": "Ciencias Físicas y Químicas",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_1m_022_estructura_atomica",
+    "titulo": "Estructura atómica",
+    "curso": "1° medio",
+    "folder": "09_primero_medio",
+    "path": "09_primero_medio/022_estructura_atomica.md",
+    "area": "Ciencia, tecnología, sociedad y ambiente",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_1m_023_tabla_periodica",
+    "titulo": "Tabla periódica",
+    "curso": "1° medio",
+    "folder": "09_primero_medio",
+    "path": "09_primero_medio/023_tabla_periodica.md",
+    "area": "Ciencia, tecnología, sociedad y ambiente",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_1m_024_enlace_quimico",
+    "titulo": "Enlace químico",
+    "curso": "1° medio",
+    "folder": "09_primero_medio",
+    "path": "09_primero_medio/024_enlace_quimico.md",
+    "area": "Ciencias Físicas y Químicas",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_1m_025_reacciones_y_estequiometria_inicial",
+    "titulo": "Reacciones y estequiometría inicial",
+    "curso": "1° medio",
+    "folder": "09_primero_medio",
+    "path": "09_primero_medio/025_reacciones_y_estequiometria_inicial.md",
+    "area": "Ciencia, tecnología, sociedad y ambiente",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_1m_026_tierra_dinamica",
+    "titulo": "Tierra dinámica",
+    "curso": "1° medio",
+    "folder": "09_primero_medio",
+    "path": "09_primero_medio/026_tierra_dinamica.md",
+    "area": "Ciencias de la Tierra y el Universo",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_1m_027_astronomia_y_escalas_del_universo",
+    "titulo": "Astronomía y escalas del universo",
+    "curso": "1° medio",
+    "folder": "09_primero_medio",
+    "path": "09_primero_medio/027_astronomia_y_escalas_del_universo.md",
+    "area": "Ciencias de la Tierra y el Universo",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_1m_028_investigacion_cientifica_escolar_avanzada",
+    "titulo": "Investigación científica escolar avanzada",
+    "curso": "1° medio",
+    "folder": "09_primero_medio",
+    "path": "09_primero_medio/028_investigacion_cientifica_escolar_avanzada.md",
+    "area": "Habilidades y naturaleza de la ciencia",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_2m_001_sistema_nervioso",
+    "titulo": "Sistema nervioso",
+    "curso": "2° medio",
+    "folder": "10_segundo_medio",
+    "path": "10_segundo_medio/001_sistema_nervioso.md",
+    "area": "Ciencias de la Vida",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_2m_002_sistema_endocrino",
+    "titulo": "Sistema endocrino",
+    "curso": "2° medio",
+    "folder": "10_segundo_medio",
+    "path": "10_segundo_medio/002_sistema_endocrino.md",
+    "area": "Ciencias de la Vida",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_2m_003_homeostasis_avanzada",
+    "titulo": "Homeostasis avanzada",
+    "curso": "2° medio",
+    "folder": "10_segundo_medio",
+    "path": "10_segundo_medio/003_homeostasis_avanzada.md",
+    "area": "Ciencia, tecnología, sociedad y ambiente",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_2m_004_reproduccion_y_desarrollo",
+    "titulo": "Reproducción y desarrollo",
+    "curso": "2° medio",
+    "folder": "10_segundo_medio",
+    "path": "10_segundo_medio/004_reproduccion_y_desarrollo.md",
+    "area": "Ciencias de la Vida",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_2m_005_genetica_y_herencia",
+    "titulo": "Genética y herencia",
+    "curso": "2° medio",
+    "folder": "10_segundo_medio",
+    "path": "10_segundo_medio/005_genetica_y_herencia.md",
+    "area": "Ciencias de la Vida",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_2m_006_mutaciones",
+    "titulo": "Mutaciones",
+    "curso": "2° medio",
+    "folder": "10_segundo_medio",
+    "path": "10_segundo_medio/006_mutaciones.md",
+    "area": "Ciencia, tecnología, sociedad y ambiente",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_2m_007_biotecnologia",
+    "titulo": "Biotecnología",
+    "curso": "2° medio",
+    "folder": "10_segundo_medio",
+    "path": "10_segundo_medio/007_biotecnologia.md",
+    "area": "Ciencia, tecnología, sociedad y ambiente",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": true
+  },
+  {
+    "id": "cng_2m_008_evolucion_humana",
+    "titulo": "Evolución humana",
+    "curso": "2° medio",
+    "folder": "10_segundo_medio",
+    "path": "10_segundo_medio/008_evolucion_humana.md",
+    "area": "Ciencias de la Vida",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_2m_009_ecologia_de_poblaciones",
+    "titulo": "Ecología de poblaciones",
+    "curso": "2° medio",
+    "folder": "10_segundo_medio",
+    "path": "10_segundo_medio/009_ecologia_de_poblaciones.md",
+    "area": "Ciencia, tecnología, sociedad y ambiente",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_2m_010_comunidades_y_sucesion",
+    "titulo": "Comunidades y sucesión",
+    "curso": "2° medio",
+    "folder": "10_segundo_medio",
+    "path": "10_segundo_medio/010_comunidades_y_sucesion.md",
+    "area": "Ciencia, tecnología, sociedad y ambiente",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_2m_011_conservacion_de_biodiversidad",
+    "titulo": "Conservación de biodiversidad",
+    "curso": "2° medio",
+    "folder": "10_segundo_medio",
+    "path": "10_segundo_medio/011_conservacion_de_biodiversidad.md",
+    "area": "Ciencia, tecnología, sociedad y ambiente",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_2m_012_movimiento_circular",
+    "titulo": "Movimiento circular",
+    "curso": "2° medio",
+    "folder": "10_segundo_medio",
+    "path": "10_segundo_medio/012_movimiento_circular.md",
+    "area": "Ciencias Físicas y Químicas",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_2m_013_gravitacion_universal",
+    "titulo": "Gravitación universal",
+    "curso": "2° medio",
+    "folder": "10_segundo_medio",
+    "path": "10_segundo_medio/013_gravitacion_universal.md",
+    "area": "Ciencia, tecnología, sociedad y ambiente",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_2m_014_energia_mecanica",
+    "titulo": "Energía mecánica",
+    "curso": "2° medio",
+    "folder": "10_segundo_medio",
+    "path": "10_segundo_medio/014_energia_mecanica.md",
+    "area": "Ciencias Físicas y Químicas",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_2m_015_electricidad_y_magnetismo",
+    "titulo": "Electricidad y magnetismo",
+    "curso": "2° medio",
+    "folder": "10_segundo_medio",
+    "path": "10_segundo_medio/015_electricidad_y_magnetismo.md",
+    "area": "Ciencias Físicas y Químicas",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_2m_016_circuitos_electricos",
+    "titulo": "Circuitos eléctricos",
+    "curso": "2° medio",
+    "folder": "10_segundo_medio",
+    "path": "10_segundo_medio/016_circuitos_electricos.md",
+    "area": "Ciencia, tecnología, sociedad y ambiente",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_2m_017_electromagnetismo",
+    "titulo": "Electromagnetismo",
+    "curso": "2° medio",
+    "folder": "10_segundo_medio",
+    "path": "10_segundo_medio/017_electromagnetismo.md",
+    "area": "Ciencia, tecnología, sociedad y ambiente",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_2m_018_ondas_electromagneticas",
+    "titulo": "Ondas electromagnéticas",
+    "curso": "2° medio",
+    "folder": "10_segundo_medio",
+    "path": "10_segundo_medio/018_ondas_electromagneticas.md",
+    "area": "Ciencias Físicas y Químicas",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_2m_019_optica_geometrica",
+    "titulo": "Óptica geométrica",
+    "curso": "2° medio",
+    "folder": "10_segundo_medio",
+    "path": "10_segundo_medio/019_optica_geometrica.md",
+    "area": "Ciencia, tecnología, sociedad y ambiente",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_2m_020_termodinamica_inicial",
+    "titulo": "Termodinámica inicial",
+    "curso": "2° medio",
+    "folder": "10_segundo_medio",
+    "path": "10_segundo_medio/020_termodinamica_inicial.md",
+    "area": "Ciencia, tecnología, sociedad y ambiente",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_2m_021_estructura_de_la_materia",
+    "titulo": "Estructura de la materia",
+    "curso": "2° medio",
+    "folder": "10_segundo_medio",
+    "path": "10_segundo_medio/021_estructura_de_la_materia.md",
+    "area": "Ciencias Físicas y Químicas",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_2m_022_mol_y_cantidad_de_sustancia",
+    "titulo": "Mol y cantidad de sustancia",
+    "curso": "2° medio",
+    "folder": "10_segundo_medio",
+    "path": "10_segundo_medio/022_mol_y_cantidad_de_sustancia.md",
+    "area": "Ciencia, tecnología, sociedad y ambiente",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_2m_023_soluciones_y_concentracion",
+    "titulo": "Soluciones y concentración",
+    "curso": "2° medio",
+    "folder": "10_segundo_medio",
+    "path": "10_segundo_medio/023_soluciones_y_concentracion.md",
+    "area": "Ciencia, tecnología, sociedad y ambiente",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_2m_024_acidos_y_bases",
+    "titulo": "Ácidos y bases",
+    "curso": "2° medio",
+    "folder": "10_segundo_medio",
+    "path": "10_segundo_medio/024_acidos_y_bases.md",
+    "area": "Ciencia, tecnología, sociedad y ambiente",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_2m_025_reacciones_redox",
+    "titulo": "Reacciones redox",
+    "curso": "2° medio",
+    "folder": "10_segundo_medio",
+    "path": "10_segundo_medio/025_reacciones_redox.md",
+    "area": "Ciencia, tecnología, sociedad y ambiente",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_2m_026_quimica_organica_inicial",
+    "titulo": "Química orgánica inicial",
+    "curso": "2° medio",
+    "folder": "10_segundo_medio",
+    "path": "10_segundo_medio/026_quimica_organica_inicial.md",
+    "area": "Ciencias Físicas y Químicas",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_2m_027_geologia_y_tectonica",
+    "titulo": "Geología y tectónica",
+    "curso": "2° medio",
+    "folder": "10_segundo_medio",
+    "path": "10_segundo_medio/027_geologia_y_tectonica.md",
+    "area": "Ciencia, tecnología, sociedad y ambiente",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_2m_028_origen_y_evolucion_del_universo",
+    "titulo": "Origen y evolución del universo",
+    "curso": "2° medio",
+    "folder": "10_segundo_medio",
+    "path": "10_segundo_medio/028_origen_y_evolucion_del_universo.md",
+    "area": "Ciencias de la Vida",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_2m_029_ciencia_tecnologia_y_sociedad",
+    "titulo": "Ciencia, tecnología y sociedad",
+    "curso": "2° medio",
+    "folder": "10_segundo_medio",
+    "path": "10_segundo_medio/029_ciencia_tecnologia_y_sociedad.md",
+    "area": "Habilidades y naturaleza de la ciencia",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": true
+  },
+  {
+    "id": "cng_2m_030_diseno_experimental_y_analisis_de_datos",
+    "titulo": "Diseño experimental y análisis de datos",
+    "curso": "2° medio",
+    "folder": "10_segundo_medio",
+    "path": "10_segundo_medio/030_diseno_experimental_y_analisis_de_datos.md",
+    "area": "Habilidades y naturaleza de la ciencia",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_3m_001_bienestar_y_salud",
+    "titulo": "Bienestar y salud",
+    "curso": "3° medio",
+    "folder": "11_tercero_medio",
+    "path": "11_tercero_medio/001_bienestar_y_salud.md",
+    "area": "Ciencias de la Vida",
+    "alineacion": "formacion_general",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_3m_002_factores_biologicos_de_la_salud",
+    "titulo": "Factores biológicos de la salud",
+    "curso": "3° medio",
+    "folder": "11_tercero_medio",
+    "path": "11_tercero_medio/002_factores_biologicos_de_la_salud.md",
+    "area": "Ciencias de la Vida",
+    "alineacion": "formacion_general",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_3m_003_factores_ambientales_de_la_salud",
+    "titulo": "Factores ambientales de la salud",
+    "curso": "3° medio",
+    "folder": "11_tercero_medio",
+    "path": "11_tercero_medio/003_factores_ambientales_de_la_salud.md",
+    "area": "Ciencias de la Vida",
+    "alineacion": "formacion_general",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_3m_004_factores_sociales_de_la_salud",
+    "titulo": "Factores sociales de la salud",
+    "curso": "3° medio",
+    "folder": "11_tercero_medio",
+    "path": "11_tercero_medio/004_factores_sociales_de_la_salud.md",
+    "area": "Ciencias de la Vida",
+    "alineacion": "formacion_general",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_3m_005_nutricion_y_salud_publica",
+    "titulo": "Nutrición y salud pública",
+    "curso": "3° medio",
+    "folder": "11_tercero_medio",
+    "path": "11_tercero_medio/005_nutricion_y_salud_publica.md",
+    "area": "Ciencias de la Vida",
+    "alineacion": "formacion_general",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_3m_006_actividad_fisica_y_salud",
+    "titulo": "Actividad física y salud",
+    "curso": "3° medio",
+    "folder": "11_tercero_medio",
+    "path": "11_tercero_medio/006_actividad_fisica_y_salud.md",
+    "area": "Ciencias de la Vida",
+    "alineacion": "formacion_general",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_3m_007_estres_y_salud_mental",
+    "titulo": "Estrés y salud mental",
+    "curso": "3° medio",
+    "folder": "11_tercero_medio",
+    "path": "11_tercero_medio/007_estres_y_salud_mental.md",
+    "area": "Ciencias de la Vida",
+    "alineacion": "formacion_general",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_3m_008_alcohol_drogas_y_prevencion",
+    "titulo": "Alcohol, drogas y prevención",
+    "curso": "3° medio",
+    "folder": "11_tercero_medio",
+    "path": "11_tercero_medio/008_alcohol_drogas_y_prevencion.md",
+    "area": "Ciencia, tecnología, sociedad y ambiente",
+    "alineacion": "formacion_general",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_3m_009_radiacion_uv_y_prevencion",
+    "titulo": "Radiación UV y prevención",
+    "curso": "3° medio",
+    "folder": "11_tercero_medio",
+    "path": "11_tercero_medio/009_radiacion_uv_y_prevencion.md",
+    "area": "Ciencia, tecnología, sociedad y ambiente",
+    "alineacion": "formacion_general",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_3m_010_patogenos_y_enfermedades_infecciosas",
+    "titulo": "Patógenos y enfermedades infecciosas",
+    "curso": "3° medio",
+    "folder": "11_tercero_medio",
+    "path": "11_tercero_medio/010_patogenos_y_enfermedades_infecciosas.md",
+    "area": "Ciencia, tecnología, sociedad y ambiente",
+    "alineacion": "formacion_general",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_3m_011_vacunas_y_salud_colectiva",
+    "titulo": "Vacunas y salud colectiva",
+    "curso": "3° medio",
+    "folder": "11_tercero_medio",
+    "path": "11_tercero_medio/011_vacunas_y_salud_colectiva.md",
+    "area": "Ciencias de la Vida",
+    "alineacion": "formacion_general",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_3m_012_ambiente_y_sostenibilidad",
+    "titulo": "Ambiente y sostenibilidad",
+    "curso": "3° medio",
+    "folder": "11_tercero_medio",
+    "path": "11_tercero_medio/012_ambiente_y_sostenibilidad.md",
+    "area": "Ciencia, tecnología, sociedad y ambiente",
+    "alineacion": "formacion_general",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_3m_013_cambio_climatico_y_evidencia",
+    "titulo": "Cambio climático y evidencia",
+    "curso": "3° medio",
+    "folder": "11_tercero_medio",
+    "path": "11_tercero_medio/013_cambio_climatico_y_evidencia.md",
+    "area": "Habilidades y naturaleza de la ciencia",
+    "alineacion": "formacion_general",
+    "requiere_fuente_verificada": true
+  },
+  {
+    "id": "cng_3m_014_contaminacion_del_aire",
+    "titulo": "Contaminación del aire",
+    "curso": "3° medio",
+    "folder": "11_tercero_medio",
+    "path": "11_tercero_medio/014_contaminacion_del_aire.md",
+    "area": "Ciencia, tecnología, sociedad y ambiente",
+    "alineacion": "formacion_general",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_3m_015_contaminacion_del_agua",
+    "titulo": "Contaminación del agua",
+    "curso": "3° medio",
+    "folder": "11_tercero_medio",
+    "path": "11_tercero_medio/015_contaminacion_del_agua.md",
+    "area": "Ciencia, tecnología, sociedad y ambiente",
+    "alineacion": "formacion_general",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_3m_016_residuos_y_economia_circular",
+    "titulo": "Residuos y economía circular",
+    "curso": "3° medio",
+    "folder": "11_tercero_medio",
+    "path": "11_tercero_medio/016_residuos_y_economia_circular.md",
+    "area": "Ciencia, tecnología, sociedad y ambiente",
+    "alineacion": "formacion_general",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_3m_017_biodiversidad_y_servicios_ecosistemicos",
+    "titulo": "Biodiversidad y servicios ecosistémicos",
+    "curso": "3° medio",
+    "folder": "11_tercero_medio",
+    "path": "11_tercero_medio/017_biodiversidad_y_servicios_ecosistemicos.md",
+    "area": "Ciencia, tecnología, sociedad y ambiente",
+    "alineacion": "formacion_general",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_3m_018_seguridad_prevencion_y_autocuidado",
+    "titulo": "Seguridad, prevención y autocuidado",
+    "curso": "3° medio",
+    "folder": "11_tercero_medio",
+    "path": "11_tercero_medio/018_seguridad_prevencion_y_autocuidado.md",
+    "area": "Ciencia, tecnología, sociedad y ambiente",
+    "alineacion": "formacion_general",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_3m_019_riesgos_naturales_y_tecnologicos",
+    "titulo": "Riesgos naturales y tecnológicos",
+    "curso": "3° medio",
+    "folder": "11_tercero_medio",
+    "path": "11_tercero_medio/019_riesgos_naturales_y_tecnologicos.md",
+    "area": "Ciencia, tecnología, sociedad y ambiente",
+    "alineacion": "formacion_general",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_3m_020_tecnologia_y_sociedad",
+    "titulo": "Tecnología y sociedad",
+    "curso": "3° medio",
+    "folder": "11_tercero_medio",
+    "path": "11_tercero_medio/020_tecnologia_y_sociedad.md",
+    "area": "Ciencia, tecnología, sociedad y ambiente",
+    "alineacion": "formacion_general",
+    "requiere_fuente_verificada": true
+  },
+  {
+    "id": "cng_3m_021_inteligencia_artificial_y_ciencia",
+    "titulo": "Inteligencia artificial y ciencia",
+    "curso": "3° medio",
+    "folder": "11_tercero_medio",
+    "path": "11_tercero_medio/021_inteligencia_artificial_y_ciencia.md",
+    "area": "Habilidades y naturaleza de la ciencia",
+    "alineacion": "formacion_general",
+    "requiere_fuente_verificada": true
+  },
+  {
+    "id": "cng_3m_022_datos_evidencia_y_decisiones",
+    "titulo": "Datos, evidencia y decisiones",
+    "curso": "3° medio",
+    "folder": "11_tercero_medio",
+    "path": "11_tercero_medio/022_datos_evidencia_y_decisiones.md",
+    "area": "Habilidades y naturaleza de la ciencia",
+    "alineacion": "formacion_general",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_3m_023_etica_de_la_investigacion",
+    "titulo": "Ética de la investigación",
+    "curso": "3° medio",
+    "folder": "11_tercero_medio",
+    "path": "11_tercero_medio/023_etica_de_la_investigacion.md",
+    "area": "Habilidades y naturaleza de la ciencia",
+    "alineacion": "formacion_general",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_3m_024_proyecto_cientifico_ciudadano",
+    "titulo": "Proyecto científico ciudadano",
+    "curso": "3° medio",
+    "folder": "11_tercero_medio",
+    "path": "11_tercero_medio/024_proyecto_cientifico_ciudadano.md",
+    "area": "Ciencia, tecnología, sociedad y ambiente",
+    "alineacion": "formacion_general",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_4m_001_salud_y_decisiones_informadas",
+    "titulo": "Salud y decisiones informadas",
+    "curso": "4° medio",
+    "folder": "12_cuarto_medio",
+    "path": "12_cuarto_medio/001_salud_y_decisiones_informadas.md",
+    "area": "Ciencias de la Vida",
+    "alineacion": "formacion_general",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_4m_002_epidemiologia_basica",
+    "titulo": "Epidemiología básica",
+    "curso": "4° medio",
+    "folder": "12_cuarto_medio",
+    "path": "12_cuarto_medio/002_epidemiologia_basica.md",
+    "area": "Ciencia, tecnología, sociedad y ambiente",
+    "alineacion": "formacion_general",
+    "requiere_fuente_verificada": true
+  },
+  {
+    "id": "cng_4m_003_salud_ambiental",
+    "titulo": "Salud ambiental",
+    "curso": "4° medio",
+    "folder": "12_cuarto_medio",
+    "path": "12_cuarto_medio/003_salud_ambiental.md",
+    "area": "Ciencias de la Vida",
+    "alineacion": "formacion_general",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_4m_004_seguridad_alimentaria",
+    "titulo": "Seguridad alimentaria",
+    "curso": "4° medio",
+    "folder": "12_cuarto_medio",
+    "path": "12_cuarto_medio/004_seguridad_alimentaria.md",
+    "area": "Ciencia, tecnología, sociedad y ambiente",
+    "alineacion": "formacion_general",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_4m_005_biotecnologia_y_sociedad",
+    "titulo": "Biotecnología y sociedad",
+    "curso": "4° medio",
+    "folder": "12_cuarto_medio",
+    "path": "12_cuarto_medio/005_biotecnologia_y_sociedad.md",
+    "area": "Ciencia, tecnología, sociedad y ambiente",
+    "alineacion": "formacion_general",
+    "requiere_fuente_verificada": true
+  },
+  {
+    "id": "cng_4m_006_genetica_privacidad_y_etica",
+    "titulo": "Genética, privacidad y ética",
+    "curso": "4° medio",
+    "folder": "12_cuarto_medio",
+    "path": "12_cuarto_medio/006_genetica_privacidad_y_etica.md",
+    "area": "Ciencias de la Vida",
+    "alineacion": "formacion_general",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_4m_007_medicina_personalizada",
+    "titulo": "Medicina personalizada",
+    "curso": "4° medio",
+    "folder": "12_cuarto_medio",
+    "path": "12_cuarto_medio/007_medicina_personalizada.md",
+    "area": "Ciencia, tecnología, sociedad y ambiente",
+    "alineacion": "formacion_general",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_4m_008_antibioticos_y_resistencia",
+    "titulo": "Antibióticos y resistencia",
+    "curso": "4° medio",
+    "folder": "12_cuarto_medio",
+    "path": "12_cuarto_medio/008_antibioticos_y_resistencia.md",
+    "area": "Ciencia, tecnología, sociedad y ambiente",
+    "alineacion": "formacion_general",
+    "requiere_fuente_verificada": true
+  },
+  {
+    "id": "cng_4m_009_pandemias_y_comunicacion_de_riesgo",
+    "titulo": "Pandemias y comunicación de riesgo",
+    "curso": "4° medio",
+    "folder": "12_cuarto_medio",
+    "path": "12_cuarto_medio/009_pandemias_y_comunicacion_de_riesgo.md",
+    "area": "Ciencia, tecnología, sociedad y ambiente",
+    "alineacion": "formacion_general",
+    "requiere_fuente_verificada": true
+  },
+  {
+    "id": "cng_4m_010_crisis_climatica",
+    "titulo": "Crisis climática",
+    "curso": "4° medio",
+    "folder": "12_cuarto_medio",
+    "path": "12_cuarto_medio/010_crisis_climatica.md",
+    "area": "Ciencia, tecnología, sociedad y ambiente",
+    "alineacion": "formacion_general",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_4m_011_mitigacion_y_adaptacion",
+    "titulo": "Mitigación y adaptación",
+    "curso": "4° medio",
+    "folder": "12_cuarto_medio",
+    "path": "12_cuarto_medio/011_mitigacion_y_adaptacion.md",
+    "area": "Ciencia, tecnología, sociedad y ambiente",
+    "alineacion": "formacion_general",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_4m_012_transicion_energetica",
+    "titulo": "Transición energética",
+    "curso": "4° medio",
+    "folder": "12_cuarto_medio",
+    "path": "12_cuarto_medio/012_transicion_energetica.md",
+    "area": "Habilidades y naturaleza de la ciencia",
+    "alineacion": "formacion_general",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_4m_013_energias_renovables",
+    "titulo": "Energías renovables",
+    "curso": "4° medio",
+    "folder": "12_cuarto_medio",
+    "path": "12_cuarto_medio/013_energias_renovables.md",
+    "area": "Ciencias Físicas y Químicas",
+    "alineacion": "formacion_general",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_4m_014_agua_y_seguridad_hidrica",
+    "titulo": "Agua y seguridad hídrica",
+    "curso": "4° medio",
+    "folder": "12_cuarto_medio",
+    "path": "12_cuarto_medio/014_agua_y_seguridad_hidrica.md",
+    "area": "Ciencia, tecnología, sociedad y ambiente",
+    "alineacion": "formacion_general",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_4m_015_suelos_y_produccion_sostenible",
+    "titulo": "Suelos y producción sostenible",
+    "curso": "4° medio",
+    "folder": "12_cuarto_medio",
+    "path": "12_cuarto_medio/015_suelos_y_produccion_sostenible.md",
+    "area": "Ciencias de la Tierra y el Universo",
+    "alineacion": "formacion_general",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_4m_016_oceanos_y_cambio_global",
+    "titulo": "Océanos y cambio global",
+    "curso": "4° medio",
+    "folder": "12_cuarto_medio",
+    "path": "12_cuarto_medio/016_oceanos_y_cambio_global.md",
+    "area": "Ciencias de la Tierra y el Universo",
+    "alineacion": "formacion_general",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_4m_017_ciudades_sostenibles",
+    "titulo": "Ciudades sostenibles",
+    "curso": "4° medio",
+    "folder": "12_cuarto_medio",
+    "path": "12_cuarto_medio/017_ciudades_sostenibles.md",
+    "area": "Ciencia, tecnología, sociedad y ambiente",
+    "alineacion": "formacion_general",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_4m_018_riesgo_y_resiliencia",
+    "titulo": "Riesgo y resiliencia",
+    "curso": "4° medio",
+    "folder": "12_cuarto_medio",
+    "path": "12_cuarto_medio/018_riesgo_y_resiliencia.md",
+    "area": "Ciencia, tecnología, sociedad y ambiente",
+    "alineacion": "formacion_general",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_4m_019_tecnologias_emergentes",
+    "titulo": "Tecnologías emergentes",
+    "curso": "4° medio",
+    "folder": "12_cuarto_medio",
+    "path": "12_cuarto_medio/019_tecnologias_emergentes.md",
+    "area": "Ciencia, tecnología, sociedad y ambiente",
+    "alineacion": "formacion_general",
+    "requiere_fuente_verificada": true
+  },
+  {
+    "id": "cng_4m_020_automatizacion_y_trabajo",
+    "titulo": "Automatización y trabajo",
+    "curso": "4° medio",
+    "folder": "12_cuarto_medio",
+    "path": "12_cuarto_medio/020_automatizacion_y_trabajo.md",
+    "area": "Ciencia, tecnología, sociedad y ambiente",
+    "alineacion": "formacion_general",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_4m_021_ciencia_abierta_y_datos",
+    "titulo": "Ciencia abierta y datos",
+    "curso": "4° medio",
+    "folder": "12_cuarto_medio",
+    "path": "12_cuarto_medio/021_ciencia_abierta_y_datos.md",
+    "area": "Habilidades y naturaleza de la ciencia",
+    "alineacion": "formacion_general",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_4m_022_desinformacion_cientifica",
+    "titulo": "Desinformación científica",
+    "curso": "4° medio",
+    "folder": "12_cuarto_medio",
+    "path": "12_cuarto_medio/022_desinformacion_cientifica.md",
+    "area": "Ciencia, tecnología, sociedad y ambiente",
+    "alineacion": "formacion_general",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_4m_023_instituciones_cientificas_del_estado",
+    "titulo": "Instituciones científicas del Estado",
+    "curso": "4° medio",
+    "folder": "12_cuarto_medio",
+    "path": "12_cuarto_medio/023_instituciones_cientificas_del_estado.md",
+    "area": "Ciencia, tecnología, sociedad y ambiente",
+    "alineacion": "formacion_general",
+    "requiere_fuente_verificada": true
+  },
+  {
+    "id": "cng_4m_024_leyes_ambientales_y_participacion",
+    "titulo": "Leyes ambientales y participación",
+    "curso": "4° medio",
+    "folder": "12_cuarto_medio",
+    "path": "12_cuarto_medio/024_leyes_ambientales_y_participacion.md",
+    "area": "Ciencia, tecnología, sociedad y ambiente",
+    "alineacion": "formacion_general",
+    "requiere_fuente_verificada": true
+  },
+  {
+    "id": "cng_4m_025_justicia_ambiental",
+    "titulo": "Justicia ambiental",
+    "curso": "4° medio",
+    "folder": "12_cuarto_medio",
+    "path": "12_cuarto_medio/025_justicia_ambiental.md",
+    "area": "Ciencia, tecnología, sociedad y ambiente",
+    "alineacion": "formacion_general",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_4m_026_derechos_de_la_ninez_y_ambiente_sano",
+    "titulo": "Derechos de la niñez y ambiente sano",
+    "curso": "4° medio",
+    "folder": "12_cuarto_medio",
+    "path": "12_cuarto_medio/026_derechos_de_la_ninez_y_ambiente_sano.md",
+    "area": "Ciencia, tecnología, sociedad y ambiente",
+    "alineacion": "formacion_general",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_4m_027_ciencia_democracia_y_politicas_publicas",
+    "titulo": "Ciencia, democracia y políticas públicas",
+    "curso": "4° medio",
+    "folder": "12_cuarto_medio",
+    "path": "12_cuarto_medio/027_ciencia_democracia_y_politicas_publicas.md",
+    "area": "Habilidades y naturaleza de la ciencia",
+    "alineacion": "formacion_general",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_4m_028_proyecto_de_investigacion_aplicada",
+    "titulo": "Proyecto de investigación aplicada",
+    "curso": "4° medio",
+    "folder": "12_cuarto_medio",
+    "path": "12_cuarto_medio/028_proyecto_de_investigacion_aplicada.md",
+    "area": "Habilidades y naturaleza de la ciencia",
+    "alineacion": "formacion_general",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_tr_001_que_es_la_ciencia",
+    "titulo": "Qué es la ciencia",
+    "curso": "Transversal 1° básico a 4° medio",
+    "folder": "13_tematicos_transversales",
+    "path": "13_tematicos_transversales/001_que_es_la_ciencia.md",
+    "area": "Habilidades y naturaleza de la ciencia",
+    "alineacion": "transversal",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_tr_002_metodo_cientifico",
+    "titulo": "Método científico",
+    "curso": "Transversal 1° básico a 4° medio",
+    "folder": "13_tematicos_transversales",
+    "path": "13_tematicos_transversales/002_metodo_cientifico.md",
+    "area": "Habilidades y naturaleza de la ciencia",
+    "alineacion": "transversal",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_tr_003_observacion_inferencia_y_evidencia",
+    "titulo": "Observación, inferencia y evidencia",
+    "curso": "Transversal 1° básico a 4° medio",
+    "folder": "13_tematicos_transversales",
+    "path": "13_tematicos_transversales/003_observacion_inferencia_y_evidencia.md",
+    "area": "Habilidades y naturaleza de la ciencia",
+    "alineacion": "transversal",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_tr_004_hipotesis_y_prediccion",
+    "titulo": "Hipótesis y predicción",
+    "curso": "Transversal 1° básico a 4° medio",
+    "folder": "13_tematicos_transversales",
+    "path": "13_tematicos_transversales/004_hipotesis_y_prediccion.md",
+    "area": "Habilidades y naturaleza de la ciencia",
+    "alineacion": "transversal",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_tr_005_variables_y_control_experimental",
+    "titulo": "Variables y control experimental",
+    "curso": "Transversal 1° básico a 4° medio",
+    "folder": "13_tematicos_transversales",
+    "path": "13_tematicos_transversales/005_variables_y_control_experimental.md",
+    "area": "Habilidades y naturaleza de la ciencia",
+    "alineacion": "transversal",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_tr_006_medicion_y_unidades",
+    "titulo": "Medición y unidades",
+    "curso": "Transversal 1° básico a 4° medio",
+    "folder": "13_tematicos_transversales",
+    "path": "13_tematicos_transversales/006_medicion_y_unidades.md",
+    "area": "Ciencia, tecnología, sociedad y ambiente",
+    "alineacion": "transversal",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_tr_007_tablas_graficos_y_comunicacion",
+    "titulo": "Tablas, gráficos y comunicación",
+    "curso": "Transversal 1° básico a 4° medio",
+    "folder": "13_tematicos_transversales",
+    "path": "13_tematicos_transversales/007_tablas_graficos_y_comunicacion.md",
+    "area": "Ciencia, tecnología, sociedad y ambiente",
+    "alineacion": "transversal",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_tr_008_seguridad_en_experimentos",
+    "titulo": "Seguridad en experimentos",
+    "curso": "Transversal 1° básico a 4° medio",
+    "folder": "13_tematicos_transversales",
+    "path": "13_tematicos_transversales/008_seguridad_en_experimentos.md",
+    "area": "Ciencia, tecnología, sociedad y ambiente",
+    "alineacion": "transversal",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_tr_009_etica_cientifica",
+    "titulo": "Ética científica",
+    "curso": "Transversal 1° básico a 4° medio",
+    "folder": "13_tematicos_transversales",
+    "path": "13_tematicos_transversales/009_etica_cientifica.md",
+    "area": "Habilidades y naturaleza de la ciencia",
+    "alineacion": "transversal",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_tr_010_seres_vivos_y_celula",
+    "titulo": "Seres vivos y célula",
+    "curso": "Transversal 1° básico a 4° medio",
+    "folder": "13_tematicos_transversales",
+    "path": "13_tematicos_transversales/010_seres_vivos_y_celula.md",
+    "area": "Ciencias de la Vida",
+    "alineacion": "transversal",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_tr_011_cuerpo_humano_y_salud",
+    "titulo": "Cuerpo humano y salud",
+    "curso": "Transversal 1° básico a 4° medio",
+    "folder": "13_tematicos_transversales",
+    "path": "13_tematicos_transversales/011_cuerpo_humano_y_salud.md",
+    "area": "Ciencias de la Vida",
+    "alineacion": "transversal",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_tr_012_materia_y_particulas",
+    "titulo": "Materia y partículas",
+    "curso": "Transversal 1° básico a 4° medio",
+    "folder": "13_tematicos_transversales",
+    "path": "13_tematicos_transversales/012_materia_y_particulas.md",
+    "area": "Ciencias Físicas y Químicas",
+    "alineacion": "transversal",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_tr_013_energia_y_transformaciones",
+    "titulo": "Energía y transformaciones",
+    "curso": "Transversal 1° básico a 4° medio",
+    "folder": "13_tematicos_transversales",
+    "path": "13_tematicos_transversales/013_energia_y_transformaciones.md",
+    "area": "Ciencias Físicas y Químicas",
+    "alineacion": "transversal",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_tr_014_fuerza_movimiento_y_gravedad",
+    "titulo": "Fuerza, movimiento y gravedad",
+    "curso": "Transversal 1° básico a 4° medio",
+    "folder": "13_tematicos_transversales",
+    "path": "13_tematicos_transversales/014_fuerza_movimiento_y_gravedad.md",
+    "area": "Ciencias Físicas y Químicas",
+    "alineacion": "transversal",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_tr_015_luz_sonido_y_ondas",
+    "titulo": "Luz, sonido y ondas",
+    "curso": "Transversal 1° básico a 4° medio",
+    "folder": "13_tematicos_transversales",
+    "path": "13_tematicos_transversales/015_luz_sonido_y_ondas.md",
+    "area": "Ciencias Físicas y Químicas",
+    "alineacion": "transversal",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_tr_016_electricidad_y_magnetismo",
+    "titulo": "Electricidad y magnetismo",
+    "curso": "Transversal 1° básico a 4° medio",
+    "folder": "13_tematicos_transversales",
+    "path": "13_tematicos_transversales/016_electricidad_y_magnetismo.md",
+    "area": "Ciencias Físicas y Químicas",
+    "alineacion": "transversal",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_tr_017_tierra_y_sus_sistemas",
+    "titulo": "Tierra y sus sistemas",
+    "curso": "Transversal 1° básico a 4° medio",
+    "folder": "13_tematicos_transversales",
+    "path": "13_tematicos_transversales/017_tierra_y_sus_sistemas.md",
+    "area": "Ciencias de la Tierra y el Universo",
+    "alineacion": "transversal",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_tr_018_sistema_solar_y_universo",
+    "titulo": "Sistema solar y universo",
+    "curso": "Transversal 1° básico a 4° medio",
+    "folder": "13_tematicos_transversales",
+    "path": "13_tematicos_transversales/018_sistema_solar_y_universo.md",
+    "area": "Ciencias de la Vida",
+    "alineacion": "transversal",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_tr_019_ecosistemas_y_biodiversidad",
+    "titulo": "Ecosistemas y biodiversidad",
+    "curso": "Transversal 1° básico a 4° medio",
+    "folder": "13_tematicos_transversales",
+    "path": "13_tematicos_transversales/019_ecosistemas_y_biodiversidad.md",
+    "area": "Ciencias de la Vida",
+    "alineacion": "transversal",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_tr_020_cambio_climatico",
+    "titulo": "Cambio climático",
+    "curso": "Transversal 1° básico a 4° medio",
+    "folder": "13_tematicos_transversales",
+    "path": "13_tematicos_transversales/020_cambio_climatico.md",
+    "area": "Ciencia, tecnología, sociedad y ambiente",
+    "alineacion": "transversal",
+    "requiere_fuente_verificada": true
+  },
+  {
+    "id": "cng_tr_021_cuidado_del_medioambiente",
+    "titulo": "Cuidado del medioambiente",
+    "curso": "Transversal 1° básico a 4° medio",
+    "folder": "13_tematicos_transversales",
+    "path": "13_tematicos_transversales/021_cuidado_del_medioambiente.md",
+    "area": "Ciencia, tecnología, sociedad y ambiente",
+    "alineacion": "transversal",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_tr_022_ciencia_y_vida_diaria",
+    "titulo": "Ciencia y vida diaria",
+    "curso": "Transversal 1° básico a 4° medio",
+    "folder": "13_tematicos_transversales",
+    "path": "13_tematicos_transversales/022_ciencia_y_vida_diaria.md",
+    "area": "Habilidades y naturaleza de la ciencia",
+    "alineacion": "transversal",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_tr_023_ciencia_tecnologia_y_sociedad",
+    "titulo": "Ciencia, tecnología y sociedad",
+    "curso": "Transversal 1° básico a 4° medio",
+    "folder": "13_tematicos_transversales",
+    "path": "13_tematicos_transversales/023_ciencia_tecnologia_y_sociedad.md",
+    "area": "Habilidades y naturaleza de la ciencia",
+    "alineacion": "transversal",
+    "requiere_fuente_verificada": true
+  },
+  {
+    "id": "cng_tr_024_ciudadania_cientifica",
+    "titulo": "Ciudadanía científica",
+    "curso": "Transversal 1° básico a 4° medio",
+    "folder": "13_tematicos_transversales",
+    "path": "13_tematicos_transversales/024_ciudadania_cientifica.md",
+    "area": "Ciencia, tecnología, sociedad y ambiente",
+    "alineacion": "transversal",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_tr_025_leyes_ambientales_e_instituciones",
+    "titulo": "Leyes ambientales e instituciones",
+    "curso": "Transversal 1° básico a 4° medio",
+    "folder": "13_tematicos_transversales",
+    "path": "13_tematicos_transversales/025_leyes_ambientales_e_instituciones.md",
+    "area": "Ciencia, tecnología, sociedad y ambiente",
+    "alineacion": "transversal",
+    "requiere_fuente_verificada": true
+  },
+  {
+    "id": "cng_tr_026_derechos_de_la_ninez_salud_y_ambiente",
+    "titulo": "Derechos de la niñez, salud y ambiente",
+    "curso": "Transversal 1° básico a 4° medio",
+    "folder": "13_tematicos_transversales",
+    "path": "13_tematicos_transversales/026_derechos_de_la_ninez_salud_y_ambiente.md",
+    "area": "Ciencias de la Vida",
+    "alineacion": "transversal",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_tr_027_resolucion_pacifica_de_controversias_cientificas",
+    "titulo": "Resolución pacífica de controversias científicas",
+    "curso": "Transversal 1° básico a 4° medio",
+    "folder": "13_tematicos_transversales",
+    "path": "13_tematicos_transversales/027_resolucion_pacifica_de_controversias_cientificas.md",
+    "area": "Ciencias Físicas y Químicas",
+    "alineacion": "transversal",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "cng_tr_028_ciudadania_digital_y_desinformacion_cientifica",
+    "titulo": "Ciudadanía digital y desinformación científica",
+    "curso": "Transversal 1° básico a 4° medio",
+    "folder": "13_tematicos_transversales",
+    "path": "13_tematicos_transversales/028_ciudadania_digital_y_desinformacion_cientifica.md",
+    "area": "Ciencia, tecnología, sociedad y ambiente",
+    "alineacion": "transversal",
+    "requiere_fuente_verificada": false
+  }
+]

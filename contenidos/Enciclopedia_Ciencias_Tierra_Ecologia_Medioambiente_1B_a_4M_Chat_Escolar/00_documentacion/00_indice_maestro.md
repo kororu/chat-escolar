@@ -1,0 +1,48 @@
+# Índice maestro
+
+> **Referencia curricular:** colección organizada el 2026-07-14. Integra contenidos de Ciencias Naturales, ecología y Ciencias para la Ciudadanía. En 4° básico se explican sismos, tsunamis y erupciones; en 6° se estudian capas de la Tierra, suelo y erosión; en 7° se profundiza tectónica de placas; en 1° medio se desarrollan ecosistemas y biodiversidad; y en 3°–4° medio se abordan cambio climático, consumo sostenible y proyectos ambientales. Las cifras, alertas, normas, estados de ecosistemas y eventos actuales requieren verificación.
+
+
+- [1° básico](../01_primero_basico/00_indice_curso.md)
+- [2° básico](../02_segundo_basico/00_indice_curso.md)
+- [3° básico](../03_tercero_basico/00_indice_curso.md)
+- [4° básico](../04_cuarto_basico/00_indice_curso.md)
+- [5° básico](../05_quinto_basico/00_indice_curso.md)
+- [6° básico](../06_sexto_basico/00_indice_curso.md)
+- [7° básico](../07_septimo_basico/00_indice_curso.md)
+- [8° básico](../08_octavo_basico/00_indice_curso.md)
+- [1° medio](../09_primero_medio/00_indice_curso.md)
+- [2° medio](../10_segundo_medio/00_indice_curso.md)
+- [3° medio](../11_tercero_medio/00_indice_curso.md)
+- [4° medio](../12_cuarto_medio/00_indice_curso.md)
+
+## Transversales
+
+- [Planeta Tierra](../13_tematicos_transversales/001_planeta_tierra.md)
+- [Capas internas de la Tierra](../13_tematicos_transversales/002_capas_internas_de_la_tierra.md)
+- [Atmósfera](../13_tematicos_transversales/003_atmosfera.md)
+- [Hidrósfera](../13_tematicos_transversales/004_hidrosfera.md)
+- [Litósfera](../13_tematicos_transversales/005_litosfera.md)
+- [Biósfera](../13_tematicos_transversales/006_biosfera.md)
+- [Tectónica de placas](../13_tematicos_transversales/007_tectonica_de_placas.md)
+- [Volcanes](../13_tematicos_transversales/008_volcanes.md)
+- [Terremotos](../13_tematicos_transversales/009_terremotos.md)
+- [Tsunamis](../13_tematicos_transversales/010_tsunamis.md)
+- [Rocas y minerales](../13_tematicos_transversales/011_rocas_y_minerales.md)
+- [Suelo](../13_tematicos_transversales/012_suelo.md)
+- [Erosión](../13_tematicos_transversales/013_erosion.md)
+- [Ciclo del agua](../13_tematicos_transversales/014_ciclo_del_agua.md)
+- [Clima](../13_tematicos_transversales/015_clima.md)
+- [Tiempo atmosférico](../13_tematicos_transversales/016_tiempo_atmosferico.md)
+- [Ecosistemas](../13_tematicos_transversales/017_ecosistemas.md)
+- [Cadenas y redes alimentarias](../13_tematicos_transversales/018_cadenas_y_redes_alimentarias.md)
+- [Biodiversidad](../13_tematicos_transversales/019_biodiversidad.md)
+- [Recursos naturales](../13_tematicos_transversales/020_recursos_naturales.md)
+- [Contaminación del aire](../13_tematicos_transversales/021_contaminacion_del_aire.md)
+- [Contaminación del agua](../13_tematicos_transversales/022_contaminacion_del_agua.md)
+- [Contaminación del suelo](../13_tematicos_transversales/023_contaminacion_del_suelo.md)
+- [Residuos y reciclaje](../13_tematicos_transversales/024_residuos_y_reciclaje.md)
+- [Cambio climático](../13_tematicos_transversales/025_cambio_climatico.md)
+- [Riesgo de desastres](../13_tematicos_transversales/026_riesgo_de_desastres.md)
+- [Justicia ambiental](../13_tematicos_transversales/027_justicia_ambiental.md)
+- [Cuidado ambiental](../13_tematicos_transversales/028_cuidado_ambiental.md)

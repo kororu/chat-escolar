@@ -1,0 +1,37 @@
+{
+  "version": "1.0",
+  "verification_date": "2026-07-14",
+  "chapters": 238,
+  "chunks": 7140,
+  "chapters_by_course": {
+    "1° básico": 10,
+    "2° básico": 16,
+    "3° básico": 10,
+    "4° básico": 14,
+    "5° básico": 24,
+    "6° básico": 28,
+    "7° básico": 14,
+    "8° básico": 22,
+    "1° medio": 28,
+    "2° medio": 36,
+    "3° medio": 18,
+    "4° medio": 18
+  },
+  "files_before_zip": 378,
+  "broken_links": 0,
+  "duplicate_ids": 0,
+  "alignment_counts": {
+    "curricular_directa": 144,
+    "puente_curricular": 19,
+    "ampliacion_alineada": 22,
+    "profundizacion": 21,
+    "electivo_hc": 14,
+    "formacion_general": 18
+  },
+  "sensitive_chapters": 28,
+  "files_total": 379,
+  "markdown_files": 373,
+  "words_markdown": 1208381,
+  "zip_bytes": 1915244,
+  "zip_integrity": true
+}

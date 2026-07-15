@@ -1,0 +1,497 @@
+# Listado general de palabras clave
+
+- Amazonas
+- América
+- América Central
+- América Latina
+- América del Norte
+- América del Sur
+- Andes
+- Antártica
+- Antártica Chilena
+- Asia
+- Atlántico
+- Chile
+- Chile continental
+- China
+- Cordillera de los Andes
+- Ecuador
+- Egipto
+- Estado
+- Europa
+- GPS
+- Indo
+- Mediterráneo
+- Mesoamérica
+- Mesopotamia
+- Mississippi
+- Norte Chico
+- Norte Grande
+- Oceanía
+- Orinoco
+- Pacífico
+- Península itálica
+- Rapa Nui
+- Rocosas
+- SIG
+- Santiago
+- Zona Austral
+- Zona Central
+- Zona Sur
+- abajo
+- accesibilidad
+- accidente industrial
+- actividad
+- actividad económica
+- actividad humana
+- adaptación
+- aduana
+- aeropuerto
+- agricultura
+- agua
+- agua dulce
+- agua salada
+- al norte
+- al sur
+- aldea
+- alianza
+- alimento
+- altiplano
+- altitud
+- aluvión
+- ambiente
+- ambiente sano
+- amenaza
+- animal
+- aridez
+- arriba
+- atmósfera
+- baja densidad
+- barrio
+- barrios obreros
+- base científica
+- basura
+- bien común
+- bien común global
+- bioma
+- bosque
+- bosque templado
+- cadena
+- cadena alimentaria
+- cadena de suministro
+- cadena productiva
+- cafés
+- calle
+- calor
+- calor extremo
+- cambio climático
+- cambio de uso de suelo
+- camino
+- caminos
+- campo
+- canal
+- capa
+- capital
+- capital regional
+- caravana
+- carbón
+- carretera
+- centro
+- cerca
+- chinampa
+- ciencia
+- ciudad
+- ciudad colonial
+- ciudad sostenible
+- ciudadanía global
+- clima
+- clima mediterráneo
+- cobre
+- colonia
+- color
+- comercio
+- comercio mundial
+- comuna
+- comunicación
+- comunidad
+- concentración
+- conclusión
+- conectividad
+- conexión
+- conflicto
+- conflicto socioambiental
+- conocimiento
+- conservación
+- consulta
+- contaminación
+- continente
+- conurbación
+- cooperación
+- coordenada
+- cordillera
+- cordillera de la Costa
+- cordillera de los Andes
+- corredor bioceánico
+- corriente marina
+- cosmovisión
+- costa
+- crecimiento poblacional
+- crisis
+- crisis climática
+- cuenca
+- cuidado
+- cultivo
+- cultura
+- cultural
+- círculo polar
+- dato
+- dato abierto
+- dato geoespacial
+- dato geográfico
+- datos
+- demografía
+- densidad
+- dependencia
+- depresión intermedia
+- derecha
+- derecho
+- derechos
+- desarrollo
+- desarrollo humano
+- desarrollo sostenible
+- desastre
+- descentralización
+- desempleo
+- desierto
+- desierto de Atacama
+- desigualdad
+- desigualdad espacial
+- desigualdad territorial
+- destino
+- dispersión
+- distancia
+- distribución
+- diversidad
+- dominio
+- economía local
+- ecosistema
+- edificio
+- educación
+- electricidad
+- embalse
+- emisión
+- empleo
+- energía
+- energía renovable
+- enfermedad
+- entorno
+- entre
+- equidad
+- equilibrio
+- equipamiento
+- escala
+- escala local
+- escuela
+- espacio
+- espacio geográfico
+- espacio público
+- esperanza de vida
+- estepa
+- estudio
+- evacuación
+- evidencia
+- excedente
+- expansión
+- explotación
+- exportación
+- exposición
+- extracción
+- extractivismo
+- familia
+- fauna
+- feudo
+- fiordo
+- flecha
+- flujo
+- forestal
+- forma de vida
+- frente
+- frontera
+- frío
+- fuente
+- futuro
+- fábrica
+- ganadería
+- geopolítica
+- glaciar
+- global
+- globalización
+- globo
+- globo terráqueo
+- gobernador regional
+- gobernanza
+- gráfico
+- guerra mundial
+- hacinamiento
+- hemisferio
+- hidrografía
+- hielo
+- hierro
+- huracán
+- identidad
+- imagen
+- impacto
+- impacto ambiental
+- imperialismo
+- imprenta
+- incendio
+- indicador
+- industria
+- industrialización
+- infraestructura
+- infraestructura crítica
+- institución
+- integración
+- interacción
+- intercambio
+- intercambio colombino
+- interculturalidad
+- internet
+- inundación
+- investigación
+- isla
+- izquierda
+- justicia ambiental
+- justicia climática
+- justicia social
+- lago
+- latitud
+- lejos
+- leyenda
+- limitación
+- litio
+- llanura
+- lluvia
+- localidad
+- longitud
+- lugar
+- línea imaginaria
+- madera
+- manufactura
+- mapa
+- mapa coroplético
+- mapa de flujos
+- mapa de riesgo
+- mapa digital
+- mapa físico
+- mapa moderno
+- mapa político
+- mapa regional
+- mapa simple
+- mapa temático
+- mar
+- mar territorial
+- maritimidad
+- materia prima
+- matriz energética
+- medición
+- megalópolis
+- memoria
+- mercado
+- mercado mundial
+- mercancía
+- meridiano
+- meseta
+- metrópolis
+- migración
+- migración forzada
+- migración internacional
+- mineral
+- minería
+- mitigación
+- monitoreo
+- montaña
+- movilidad
+- municipio
+- muralla
+- método
+- nacional
+- natural
+- naturaleza
+- navegación
+- nexo
+- no renovable
+- norma
+- norte
+- nubes
+- oasis
+- observación
+- ocupación
+- océano
+- océano Austral
+- océano Pacífico
+- ola de calor
+- opinión
+- ordenamiento territorial
+- orientación
+- origen
+- paisaje
+- paisaje construido
+- paisaje cultural
+- paisaje natural
+- pandemia
+- paralelo
+- participación
+- patagonia
+- patrimonio
+- país
+- península
+- periferia
+- pesca
+- petróleo
+- plan regulador
+- planicie litoral
+- planificación
+- plano
+- plataforma
+- plaza
+- población
+- poblamiento
+- pobreza
+- poder
+- polis
+- polo
+- polo norte
+- polo sur
+- portulano
+- pradera
+- precipitación
+- pregunta geográfica
+- prevención
+- privacidad
+- problema espacial
+- problema planetario
+- problema territorial
+- producción
+- provincia
+- pueblo originario
+- puente
+- puerto
+- recurso
+- recurso estratégico
+- recurso natural
+- recursos
+- red
+- red eléctrica
+- red global
+- redes
+- reducción
+- referencia
+- refugio
+- regional
+- región
+- región natural
+- relieve
+- remesa
+- renovable
+- reposición
+- representación
+- resiliencia
+- respeto
+- responsabilidad
+- riego
+- riesgo
+- riesgo tecnológico
+- rural
+- ruralidad
+- ruta
+- ruta comercial
+- ruta marítima
+- ruta oceánica
+- rutas
+- río
+- río Tíber
+- salitre
+- salud
+- salud pública
+- satélite
+- sedentarización
+- segregación
+- seguridad
+- seguridad alimentaria
+- seguridad hídrica
+- selva
+- semiárido
+- sequía
+- servicio
+- servicios
+- sesgo
+- señal
+- sismo
+- soberanía
+- sociedad
+- sol
+- sostenibilidad
+- suelo
+- suelo urbano
+- sur
+- sustentabilidad
+- símbolo
+- tabla
+- tecnología
+- teledetección
+- temperatura
+- templado
+- terraza
+- terremoto
+- territorio
+- tiempo
+- tiempo atmosférico
+- tiempo de viaje
+- tierra
+- trabajo
+- trabajo digital
+- traducción
+- transformación
+- transición demográfica
+- transición justa
+- transporte
+- transporte público
+- tratado
+- tratado antártico
+- tricontinental
+- trinchera
+- tropical
+- trópico
+- tsunami
+- tundra
+- título
+- urbanización
+- urbano
+- uso
+- uso de agua
+- uso de suelo
+- vacío demográfico
+- valle
+- valle central
+- valle transversal
+- variable
+- vegetación
+- vestimenta
+- vida cotidiana
+- viento
+- vigilancia
+- vivienda
+- volcán
+- vulnerabilidad
+- zona climática
+- zona cálida
+- zona fría
+- zona natural
+- zona segura
+- zona templada
+- África
+- área metropolitana
+- área verde
+- áreas verdes
+- ética

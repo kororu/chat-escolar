@@ -1,0 +1,4488 @@
+[
+  {
+    "id": "hu_1b_01_el_tiempo_en_la_vida_cotidiana_antes_ahora_y_despues",
+    "course_id": "1b",
+    "course": "1° básico",
+    "title": "El tiempo en la vida cotidiana: antes, ahora y después",
+    "alignment": "puente_curricular",
+    "sensitive": false,
+    "period": "Historia mundial y conexiones globales",
+    "path": "01_primero_basico/capitulos/01_el_tiempo_en_la_vida_cotidiana_antes_ahora_y_despues.md",
+    "keywords": [
+      "tiempo",
+      "vida",
+      "cotidiana",
+      "antes",
+      "ahora",
+      "despues"
+    ]
+  },
+  {
+    "id": "hu_1b_02_ninas_y_ninos_en_distintas_partes_del_mundo",
+    "course_id": "1b",
+    "course": "1° básico",
+    "title": "Niñas y niños en distintas partes del mundo",
+    "alignment": "puente_curricular",
+    "sensitive": false,
+    "period": "Historia mundial y conexiones globales",
+    "path": "01_primero_basico/capitulos/02_ninas_y_ninos_en_distintas_partes_del_mundo.md",
+    "keywords": [
+      "ninas",
+      "ninos",
+      "distintas",
+      "partes",
+      "mundo"
+    ]
+  },
+  {
+    "id": "hu_1b_03_familias_y_formas_de_vivir_en_diferentes_culturas",
+    "course_id": "1b",
+    "course": "1° básico",
+    "title": "Familias y formas de vivir en diferentes culturas",
+    "alignment": "puente_curricular",
+    "sensitive": false,
+    "period": "Historia mundial y conexiones globales",
+    "path": "01_primero_basico/capitulos/03_familias_y_formas_de_vivir_en_diferentes_culturas.md",
+    "keywords": [
+      "familias",
+      "formas",
+      "vivir",
+      "diferentes",
+      "culturas"
+    ]
+  },
+  {
+    "id": "hu_1b_04_viviendas_del_mundo_y_adaptacion_al_ambiente",
+    "course_id": "1b",
+    "course": "1° básico",
+    "title": "Viviendas del mundo y adaptación al ambiente",
+    "alignment": "puente_curricular",
+    "sensitive": false,
+    "period": "Historia mundial y conexiones globales",
+    "path": "01_primero_basico/capitulos/04_viviendas_del_mundo_y_adaptacion_al_ambiente.md",
+    "keywords": [
+      "viviendas",
+      "mundo",
+      "adaptacion",
+      "al",
+      "ambiente"
+    ]
+  },
+  {
+    "id": "hu_1b_05_trabajos_y_oficios_en_distintas_sociedades",
+    "course_id": "1b",
+    "course": "1° básico",
+    "title": "Trabajos y oficios en distintas sociedades",
+    "alignment": "puente_curricular",
+    "sensitive": false,
+    "period": "Historia mundial y conexiones globales",
+    "path": "01_primero_basico/capitulos/05_trabajos_y_oficios_en_distintas_sociedades.md",
+    "keywords": [
+      "trabajos",
+      "oficios",
+      "distintas",
+      "sociedades"
+    ]
+  },
+  {
+    "id": "hu_1b_06_juegos_celebraciones_y_comidas_del_mundo",
+    "course_id": "1b",
+    "course": "1° básico",
+    "title": "Juegos, celebraciones y comidas del mundo",
+    "alignment": "puente_curricular",
+    "sensitive": false,
+    "period": "Historia mundial y conexiones globales",
+    "path": "01_primero_basico/capitulos/06_juegos_celebraciones_y_comidas_del_mundo.md",
+    "keywords": [
+      "juegos",
+      "celebraciones",
+      "comidas",
+      "mundo"
+    ]
+  },
+  {
+    "id": "hu_1b_07_mapas_sencillos_continentes_y_oceanos",
+    "course_id": "1b",
+    "course": "1° básico",
+    "title": "Mapas sencillos, continentes y océanos",
+    "alignment": "puente_curricular",
+    "sensitive": false,
+    "period": "Historia mundial y conexiones globales",
+    "path": "01_primero_basico/capitulos/07_mapas_sencillos_continentes_y_oceanos.md",
+    "keywords": [
+      "mapas",
+      "sencillos",
+      "continentes",
+      "oceanos"
+    ]
+  },
+  {
+    "id": "hu_1b_08_respeto_por_la_diversidad_cultural",
+    "course_id": "1b",
+    "course": "1° básico",
+    "title": "Respeto por la diversidad cultural",
+    "alignment": "puente_curricular",
+    "sensitive": false,
+    "period": "Historia mundial y conexiones globales",
+    "path": "01_primero_basico/capitulos/08_respeto_por_la_diversidad_cultural.md",
+    "keywords": [
+      "respeto",
+      "diversidad",
+      "cultural"
+    ]
+  },
+  {
+    "id": "hu_2b_01_como_sabemos_que_el_mundo_tiene_una_historia",
+    "course_id": "2b",
+    "course": "2° básico",
+    "title": "Cómo sabemos que el mundo tiene una historia",
+    "alignment": "puente_curricular",
+    "sensitive": false,
+    "period": "Historia mundial y conexiones globales",
+    "path": "02_segundo_basico/capitulos/01_como_sabemos_que_el_mundo_tiene_una_historia.md",
+    "keywords": [
+      "sabemos",
+      "que",
+      "mundo",
+      "tiene",
+      "historia"
+    ]
+  },
+  {
+    "id": "hu_2b_02_fuentes_del_pasado_objetos_imagenes_y_relatos",
+    "course_id": "2b",
+    "course": "2° básico",
+    "title": "Fuentes del pasado: objetos, imágenes y relatos",
+    "alignment": "puente_curricular",
+    "sensitive": false,
+    "period": "Historia mundial y conexiones globales",
+    "path": "02_segundo_basico/capitulos/02_fuentes_del_pasado_objetos_imagenes_y_relatos.md",
+    "keywords": [
+      "fuentes",
+      "pasado",
+      "objetos",
+      "imagenes",
+      "relatos"
+    ]
+  },
+  {
+    "id": "hu_2b_03_continentes_oceanos_y_grandes_regiones_culturales",
+    "course_id": "2b",
+    "course": "2° básico",
+    "title": "Continentes, océanos y grandes regiones culturales",
+    "alignment": "puente_curricular",
+    "sensitive": false,
+    "period": "Historia mundial y conexiones globales",
+    "path": "02_segundo_basico/capitulos/03_continentes_oceanos_y_grandes_regiones_culturales.md",
+    "keywords": [
+      "continentes",
+      "oceanos",
+      "grandes",
+      "regiones",
+      "culturales"
+    ]
+  },
+  {
+    "id": "hu_2b_04_formas_de_vida_nomadas_y_sedentarias",
+    "course_id": "2b",
+    "course": "2° básico",
+    "title": "Formas de vida nómadas y sedentarias",
+    "alignment": "puente_curricular",
+    "sensitive": false,
+    "period": "Historia mundial y conexiones globales",
+    "path": "02_segundo_basico/capitulos/04_formas_de_vida_nomadas_y_sedentarias.md",
+    "keywords": [
+      "formas",
+      "vida",
+      "nomadas",
+      "sedentarias"
+    ]
+  },
+  {
+    "id": "hu_2b_05_comunidades_rurales_y_urbanas_en_distintas_epocas",
+    "course_id": "2b",
+    "course": "2° básico",
+    "title": "Comunidades rurales y urbanas en distintas épocas",
+    "alignment": "puente_curricular",
+    "sensitive": false,
+    "period": "Historia mundial y conexiones globales",
+    "path": "02_segundo_basico/capitulos/05_comunidades_rurales_y_urbanas_en_distintas_epocas.md",
+    "keywords": [
+      "comunidades",
+      "rurales",
+      "urbanas",
+      "distintas",
+      "epocas"
+    ]
+  },
+  {
+    "id": "hu_2b_06_medios_de_transporte_y_comunicacion_a_traves_del_tiempo",
+    "course_id": "2b",
+    "course": "2° básico",
+    "title": "Medios de transporte y comunicación a través del tiempo",
+    "alignment": "puente_curricular",
+    "sensitive": false,
+    "period": "Historia mundial y conexiones globales",
+    "path": "02_segundo_basico/capitulos/06_medios_de_transporte_y_comunicacion_a_traves_del_tiempo.md",
+    "keywords": [
+      "medios",
+      "transporte",
+      "comunicacion",
+      "traves",
+      "tiempo"
+    ]
+  },
+  {
+    "id": "hu_2b_07_ninas_y_ninos_en_sociedades_del_pasado",
+    "course_id": "2b",
+    "course": "2° básico",
+    "title": "Niñas y niños en sociedades del pasado",
+    "alignment": "puente_curricular",
+    "sensitive": false,
+    "period": "Historia mundial y conexiones globales",
+    "path": "02_segundo_basico/capitulos/07_ninas_y_ninos_en_sociedades_del_pasado.md",
+    "keywords": [
+      "ninas",
+      "ninos",
+      "sociedades",
+      "pasado"
+    ]
+  },
+  {
+    "id": "hu_2b_08_tradiciones_y_patrimonio_de_distintas_culturas",
+    "course_id": "2b",
+    "course": "2° básico",
+    "title": "Tradiciones y patrimonio de distintas culturas",
+    "alignment": "puente_curricular",
+    "sensitive": false,
+    "period": "Historia mundial y conexiones globales",
+    "path": "02_segundo_basico/capitulos/08_tradiciones_y_patrimonio_de_distintas_culturas.md",
+    "keywords": [
+      "tradiciones",
+      "patrimonio",
+      "distintas",
+      "culturas"
+    ]
+  },
+  {
+    "id": "hu_2b_09_aportes_de_personas_y_pueblos_al_bienestar_comun",
+    "course_id": "2b",
+    "course": "2° básico",
+    "title": "Aportes de personas y pueblos al bienestar común",
+    "alignment": "puente_curricular",
+    "sensitive": false,
+    "period": "Historia mundial y conexiones globales",
+    "path": "02_segundo_basico/capitulos/09_aportes_de_personas_y_pueblos_al_bienestar_comun.md",
+    "keywords": [
+      "aportes",
+      "personas",
+      "pueblos",
+      "al",
+      "bienestar",
+      "comun"
+    ]
+  },
+  {
+    "id": "hu_2b_10_comparar_pasado_y_presente_sin_juzgar_con_estereotipos",
+    "course_id": "2b",
+    "course": "2° básico",
+    "title": "Comparar pasado y presente sin juzgar con estereotipos",
+    "alignment": "puente_curricular",
+    "sensitive": false,
+    "period": "Mundo contemporáneo y tiempo presente",
+    "path": "02_segundo_basico/capitulos/10_comparar_pasado_y_presente_sin_juzgar_con_estereotipos.md",
+    "keywords": [
+      "comparar",
+      "pasado",
+      "presente",
+      "sin",
+      "juzgar",
+      "con",
+      "estereotipos"
+    ]
+  },
+  {
+    "id": "hu_3b_01_la_peninsula_balcanica_el_mar_egeo_y_el_mundo_griego",
+    "course_id": "3b",
+    "course": "3° básico",
+    "title": "La península balcánica, el mar Egeo y el mundo griego",
+    "alignment": "curricular_directa",
+    "sensitive": false,
+    "period": "Antigüedad",
+    "path": "03_tercero_basico/capitulos/01_la_peninsula_balcanica_el_mar_egeo_y_el_mundo_griego.md",
+    "keywords": [
+      "peninsula",
+      "balcanica",
+      "mar",
+      "egeo",
+      "mundo",
+      "griego"
+    ]
+  },
+  {
+    "id": "hu_3b_02_la_polis_como_forma_de_organizacion",
+    "course_id": "3b",
+    "course": "3° básico",
+    "title": "La polis como forma de organización",
+    "alignment": "curricular_directa",
+    "sensitive": false,
+    "period": "Historia mundial y conexiones globales",
+    "path": "03_tercero_basico/capitulos/02_la_polis_como_forma_de_organizacion.md",
+    "keywords": [
+      "polis",
+      "forma",
+      "organizacion"
+    ]
+  },
+  {
+    "id": "hu_3b_03_atenas_y_esparta_semejanzas_y_diferencias",
+    "course_id": "3b",
+    "course": "3° básico",
+    "title": "Atenas y Esparta: semejanzas y diferencias",
+    "alignment": "curricular_directa",
+    "sensitive": false,
+    "period": "Antigüedad",
+    "path": "03_tercero_basico/capitulos/03_atenas_y_esparta_semejanzas_y_diferencias.md",
+    "keywords": [
+      "atenas",
+      "esparta",
+      "semejanzas",
+      "diferencias"
+    ]
+  },
+  {
+    "id": "hu_3b_04_la_democracia_ateniense_y_sus_exclusiones",
+    "course_id": "3b",
+    "course": "3° básico",
+    "title": "La democracia ateniense y sus exclusiones",
+    "alignment": "curricular_directa",
+    "sensitive": false,
+    "period": "Historia mundial y conexiones globales",
+    "path": "03_tercero_basico/capitulos/04_la_democracia_ateniense_y_sus_exclusiones.md",
+    "keywords": [
+      "democracia",
+      "ateniense",
+      "sus",
+      "exclusiones"
+    ]
+  },
+  {
+    "id": "hu_3b_05_la_vida_cotidiana_en_la_antigua_grecia",
+    "course_id": "3b",
+    "course": "3° básico",
+    "title": "La vida cotidiana en la antigua Grecia",
+    "alignment": "curricular_directa",
+    "sensitive": false,
+    "period": "Historia mundial y conexiones globales",
+    "path": "03_tercero_basico/capitulos/05_la_vida_cotidiana_en_la_antigua_grecia.md",
+    "keywords": [
+      "vida",
+      "cotidiana",
+      "antigua",
+      "grecia"
+    ]
+  },
+  {
+    "id": "hu_3b_06_familias_educacion_y_ninez_en_grecia",
+    "course_id": "3b",
+    "course": "3° básico",
+    "title": "Familias, educación y niñez en Grecia",
+    "alignment": "curricular_directa",
+    "sensitive": false,
+    "period": "Historia mundial y conexiones globales",
+    "path": "03_tercero_basico/capitulos/06_familias_educacion_y_ninez_en_grecia.md",
+    "keywords": [
+      "familias",
+      "educacion",
+      "ninez",
+      "grecia"
+    ]
+  },
+  {
+    "id": "hu_3b_07_trabajos_comercio_y_navegacion_griega",
+    "course_id": "3b",
+    "course": "3° básico",
+    "title": "Trabajos, comercio y navegación griega",
+    "alignment": "curricular_directa",
+    "sensitive": false,
+    "period": "Antigüedad",
+    "path": "03_tercero_basico/capitulos/07_trabajos_comercio_y_navegacion_griega.md",
+    "keywords": [
+      "trabajos",
+      "comercio",
+      "navegacion",
+      "griega"
+    ]
+  },
+  {
+    "id": "hu_3b_08_religion_mitologia_y_festividades_griegas",
+    "course_id": "3b",
+    "course": "3° básico",
+    "title": "Religión, mitología y festividades griegas",
+    "alignment": "curricular_directa",
+    "sensitive": false,
+    "period": "Antigüedad",
+    "path": "03_tercero_basico/capitulos/08_religion_mitologia_y_festividades_griegas.md",
+    "keywords": [
+      "religion",
+      "mitologia",
+      "festividades",
+      "griegas"
+    ]
+  },
+  {
+    "id": "hu_3b_09_teatro_filosofia_ciencia_y_juegos_olimpicos",
+    "course_id": "3b",
+    "course": "3° básico",
+    "title": "Teatro, filosofía, ciencia y Juegos Olímpicos",
+    "alignment": "curricular_directa",
+    "sensitive": false,
+    "period": "Historia mundial y conexiones globales",
+    "path": "03_tercero_basico/capitulos/09_teatro_filosofia_ciencia_y_juegos_olimpicos.md",
+    "keywords": [
+      "teatro",
+      "filosofia",
+      "ciencia",
+      "juegos",
+      "olimpicos"
+    ]
+  },
+  {
+    "id": "hu_3b_10_arquitectura_y_arte_del_mundo_griego",
+    "course_id": "3b",
+    "course": "3° básico",
+    "title": "Arquitectura y arte del mundo griego",
+    "alignment": "curricular_directa",
+    "sensitive": false,
+    "period": "Antigüedad",
+    "path": "03_tercero_basico/capitulos/10_arquitectura_y_arte_del_mundo_griego.md",
+    "keywords": [
+      "arquitectura",
+      "arte",
+      "mundo",
+      "griego"
+    ]
+  },
+  {
+    "id": "hu_3b_11_la_peninsula_italica_y_el_mar_mediterraneo",
+    "course_id": "3b",
+    "course": "3° básico",
+    "title": "La península itálica y el mar Mediterráneo",
+    "alignment": "curricular_directa",
+    "sensitive": false,
+    "period": "Historia mundial y conexiones globales",
+    "path": "03_tercero_basico/capitulos/11_la_peninsula_italica_y_el_mar_mediterraneo.md",
+    "keywords": [
+      "peninsula",
+      "italica",
+      "mar",
+      "mediterraneo"
+    ]
+  },
+  {
+    "id": "hu_3b_12_el_origen_y_crecimiento_de_roma",
+    "course_id": "3b",
+    "course": "3° básico",
+    "title": "El origen y crecimiento de Roma",
+    "alignment": "curricular_directa",
+    "sensitive": false,
+    "period": "Antigüedad",
+    "path": "03_tercero_basico/capitulos/12_el_origen_y_crecimiento_de_roma.md",
+    "keywords": [
+      "origen",
+      "crecimiento",
+      "roma"
+    ]
+  },
+  {
+    "id": "hu_3b_13_la_republica_romana_y_sus_instituciones",
+    "course_id": "3b",
+    "course": "3° básico",
+    "title": "La República romana y sus instituciones",
+    "alignment": "curricular_directa",
+    "sensitive": false,
+    "period": "Antigüedad",
+    "path": "03_tercero_basico/capitulos/13_la_republica_romana_y_sus_instituciones.md",
+    "keywords": [
+      "republica",
+      "romana",
+      "sus",
+      "instituciones"
+    ]
+  },
+  {
+    "id": "hu_3b_14_patricios_plebeyos_mujeres_esclavos_y_extranjeros",
+    "course_id": "3b",
+    "course": "3° básico",
+    "title": "Patricios, plebeyos, mujeres, esclavos y extranjeros",
+    "alignment": "curricular_directa",
+    "sensitive": false,
+    "period": "Historia mundial y conexiones globales",
+    "path": "03_tercero_basico/capitulos/14_patricios_plebeyos_mujeres_esclavos_y_extranjeros.md",
+    "keywords": [
+      "patricios",
+      "plebeyos",
+      "mujeres",
+      "esclavos",
+      "extranjeros"
+    ]
+  },
+  {
+    "id": "hu_3b_15_la_expansion_de_roma_y_el_imperio",
+    "course_id": "3b",
+    "course": "3° básico",
+    "title": "La expansión de Roma y el Imperio",
+    "alignment": "curricular_directa",
+    "sensitive": false,
+    "period": "Antigüedad",
+    "path": "03_tercero_basico/capitulos/15_la_expansion_de_roma_y_el_imperio.md",
+    "keywords": [
+      "expansion",
+      "roma",
+      "imperio"
+    ]
+  },
+  {
+    "id": "hu_3b_16_la_vida_cotidiana_en_una_ciudad_romana",
+    "course_id": "3b",
+    "course": "3° básico",
+    "title": "La vida cotidiana en una ciudad romana",
+    "alignment": "curricular_directa",
+    "sensitive": false,
+    "period": "Antigüedad",
+    "path": "03_tercero_basico/capitulos/16_la_vida_cotidiana_en_una_ciudad_romana.md",
+    "keywords": [
+      "vida",
+      "cotidiana",
+      "ciudad",
+      "romana"
+    ]
+  },
+  {
+    "id": "hu_3b_17_familias_educacion_y_ninez_en_roma",
+    "course_id": "3b",
+    "course": "3° básico",
+    "title": "Familias, educación y niñez en Roma",
+    "alignment": "curricular_directa",
+    "sensitive": false,
+    "period": "Antigüedad",
+    "path": "03_tercero_basico/capitulos/17_familias_educacion_y_ninez_en_roma.md",
+    "keywords": [
+      "familias",
+      "educacion",
+      "ninez",
+      "roma"
+    ]
+  },
+  {
+    "id": "hu_3b_18_ejercito_caminos_comercio_y_ciudades_romanas",
+    "course_id": "3b",
+    "course": "3° básico",
+    "title": "Ejército, caminos, comercio y ciudades romanas",
+    "alignment": "curricular_directa",
+    "sensitive": false,
+    "period": "Antigüedad",
+    "path": "03_tercero_basico/capitulos/18_ejercito_caminos_comercio_y_ciudades_romanas.md",
+    "keywords": [
+      "ejercito",
+      "caminos",
+      "comercio",
+      "ciudades",
+      "romanas"
+    ]
+  },
+  {
+    "id": "hu_3b_19_religiones_romanas_y_expansion_del_cristianismo",
+    "course_id": "3b",
+    "course": "3° básico",
+    "title": "Religiones romanas y expansión del cristianismo",
+    "alignment": "curricular_directa",
+    "sensitive": false,
+    "period": "Antigüedad",
+    "path": "03_tercero_basico/capitulos/19_religiones_romanas_y_expansion_del_cristianismo.md",
+    "keywords": [
+      "religiones",
+      "romanas",
+      "expansion",
+      "cristianismo"
+    ]
+  },
+  {
+    "id": "hu_3b_20_derecho_lengua_ingenieria_y_legado_romano",
+    "course_id": "3b",
+    "course": "3° básico",
+    "title": "Derecho, lengua, ingeniería y legado romano",
+    "alignment": "curricular_directa",
+    "sensitive": false,
+    "period": "Antigüedad",
+    "path": "03_tercero_basico/capitulos/20_derecho_lengua_ingenieria_y_legado_romano.md",
+    "keywords": [
+      "derecho",
+      "lengua",
+      "ingenieria",
+      "legado",
+      "romano"
+    ]
+  },
+  {
+    "id": "hu_3b_21_comparar_ciudades_griegas_y_romanas",
+    "course_id": "3b",
+    "course": "3° básico",
+    "title": "Comparar ciudades griegas y romanas",
+    "alignment": "curricular_directa",
+    "sensitive": false,
+    "period": "Antigüedad",
+    "path": "03_tercero_basico/capitulos/21_comparar_ciudades_griegas_y_romanas.md",
+    "keywords": [
+      "comparar",
+      "ciudades",
+      "griegas",
+      "romanas"
+    ]
+  },
+  {
+    "id": "hu_3b_22_comparar_democracia_antigua_y_democracia_actual",
+    "course_id": "3b",
+    "course": "3° básico",
+    "title": "Comparar democracia antigua y democracia actual",
+    "alignment": "curricular_directa",
+    "sensitive": false,
+    "period": "Historia mundial y conexiones globales",
+    "path": "03_tercero_basico/capitulos/22_comparar_democracia_antigua_y_democracia_actual.md",
+    "keywords": [
+      "comparar",
+      "democracia",
+      "antigua",
+      "democracia",
+      "actual"
+    ]
+  },
+  {
+    "id": "hu_3b_23_como_estudiar_grecia_y_roma_mediante_fuentes",
+    "course_id": "3b",
+    "course": "3° básico",
+    "title": "Cómo estudiar Grecia y Roma mediante fuentes",
+    "alignment": "curricular_directa",
+    "sensitive": false,
+    "period": "Antigüedad",
+    "path": "03_tercero_basico/capitulos/23_como_estudiar_grecia_y_roma_mediante_fuentes.md",
+    "keywords": [
+      "estudiar",
+      "grecia",
+      "roma",
+      "mediante",
+      "fuentes"
+    ]
+  },
+  {
+    "id": "hu_4b_01_america_antes_de_la_llegada_europea",
+    "course_id": "4b",
+    "course": "4° básico",
+    "title": "América antes de la llegada europea",
+    "alignment": "curricular_directa",
+    "sensitive": false,
+    "period": "Historia mundial y conexiones globales",
+    "path": "04_cuarto_basico/capitulos/01_america_antes_de_la_llegada_europea.md",
+    "keywords": [
+      "america",
+      "antes",
+      "llegada",
+      "europea"
+    ]
+  },
+  {
+    "id": "hu_4b_02_ubicacion_y_diversidad_geografica_de_mesoamerica_y_los_andes",
+    "course_id": "4b",
+    "course": "4° básico",
+    "title": "Ubicación y diversidad geográfica de Mesoamérica y los Andes",
+    "alignment": "curricular_directa",
+    "sensitive": false,
+    "period": "América prehispánica",
+    "path": "04_cuarto_basico/capitulos/02_ubicacion_y_diversidad_geografica_de_mesoamerica_y_los_andes.md",
+    "keywords": [
+      "ubicacion",
+      "diversidad",
+      "geografica",
+      "mesoamerica",
+      "andes"
+    ]
+  },
+  {
+    "id": "hu_4b_03_la_civilizacion_maya_territorio_y_ciudades_estado",
+    "course_id": "4b",
+    "course": "4° básico",
+    "title": "La civilización maya: territorio y ciudades-Estado",
+    "alignment": "curricular_directa",
+    "sensitive": false,
+    "period": "América prehispánica",
+    "path": "04_cuarto_basico/capitulos/03_la_civilizacion_maya_territorio_y_ciudades_estado.md",
+    "keywords": [
+      "civilizacion",
+      "maya",
+      "territorio",
+      "ciudades",
+      "estado"
+    ]
+  },
+  {
+    "id": "hu_4b_04_sociedad_gobierno_y_economia_maya",
+    "course_id": "4b",
+    "course": "4° básico",
+    "title": "Sociedad, gobierno y economía maya",
+    "alignment": "curricular_directa",
+    "sensitive": false,
+    "period": "América prehispánica",
+    "path": "04_cuarto_basico/capitulos/04_sociedad_gobierno_y_economia_maya.md",
+    "keywords": [
+      "sociedad",
+      "gobierno",
+      "economia",
+      "maya"
+    ]
+  },
+  {
+    "id": "hu_4b_05_escritura_calendarios_matematicas_y_astronomia_maya",
+    "course_id": "4b",
+    "course": "4° básico",
+    "title": "Escritura, calendarios, matemáticas y astronomía maya",
+    "alignment": "curricular_directa",
+    "sensitive": false,
+    "period": "América prehispánica",
+    "path": "04_cuarto_basico/capitulos/05_escritura_calendarios_matematicas_y_astronomia_maya.md",
+    "keywords": [
+      "escritura",
+      "calendarios",
+      "matematicas",
+      "astronomia",
+      "maya"
+    ]
+  },
+  {
+    "id": "hu_4b_06_religion_arte_y_vida_cotidiana_maya",
+    "course_id": "4b",
+    "course": "4° básico",
+    "title": "Religión, arte y vida cotidiana maya",
+    "alignment": "curricular_directa",
+    "sensitive": false,
+    "period": "América prehispánica",
+    "path": "04_cuarto_basico/capitulos/06_religion_arte_y_vida_cotidiana_maya.md",
+    "keywords": [
+      "religion",
+      "arte",
+      "vida",
+      "cotidiana",
+      "maya"
+    ]
+  },
+  {
+    "id": "hu_4b_07_continuidad_de_los_pueblos_mayas_en_el_presente",
+    "course_id": "4b",
+    "course": "4° básico",
+    "title": "Continuidad de los pueblos mayas en el presente",
+    "alignment": "curricular_directa",
+    "sensitive": false,
+    "period": "Mundo contemporáneo y tiempo presente",
+    "path": "04_cuarto_basico/capitulos/07_continuidad_de_los_pueblos_mayas_en_el_presente.md",
+    "keywords": [
+      "continuidad",
+      "pueblos",
+      "mayas",
+      "presente"
+    ]
+  },
+  {
+    "id": "hu_4b_08_la_civilizacion_mexica_o_azteca_y_el_valle_de_mexico",
+    "course_id": "4b",
+    "course": "4° básico",
+    "title": "La civilización mexica o azteca y el valle de México",
+    "alignment": "curricular_directa",
+    "sensitive": false,
+    "period": "América prehispánica",
+    "path": "04_cuarto_basico/capitulos/08_la_civilizacion_mexica_o_azteca_y_el_valle_de_mexico.md",
+    "keywords": [
+      "civilizacion",
+      "mexica",
+      "o",
+      "azteca",
+      "valle",
+      "mexico"
+    ]
+  },
+  {
+    "id": "hu_4b_09_tenochtitlan_chinampas_y_organizacion_urbana",
+    "course_id": "4b",
+    "course": "4° básico",
+    "title": "Tenochtitlan, chinampas y organización urbana",
+    "alignment": "curricular_directa",
+    "sensitive": false,
+    "period": "Historia mundial y conexiones globales",
+    "path": "04_cuarto_basico/capitulos/09_tenochtitlan_chinampas_y_organizacion_urbana.md",
+    "keywords": [
+      "tenochtitlan",
+      "chinampas",
+      "organizacion",
+      "urbana"
+    ]
+  },
+  {
+    "id": "hu_4b_10_sociedad_tributo_guerra_y_comercio_mexica",
+    "course_id": "4b",
+    "course": "4° básico",
+    "title": "Sociedad, tributo, guerra y comercio mexica",
+    "alignment": "curricular_directa",
+    "sensitive": false,
+    "period": "América prehispánica",
+    "path": "04_cuarto_basico/capitulos/10_sociedad_tributo_guerra_y_comercio_mexica.md",
+    "keywords": [
+      "sociedad",
+      "tributo",
+      "guerra",
+      "comercio",
+      "mexica"
+    ]
+  },
+  {
+    "id": "hu_4b_11_religion_educacion_y_vida_cotidiana_mexica",
+    "course_id": "4b",
+    "course": "4° básico",
+    "title": "Religión, educación y vida cotidiana mexica",
+    "alignment": "curricular_directa",
+    "sensitive": false,
+    "period": "América prehispánica",
+    "path": "04_cuarto_basico/capitulos/11_religion_educacion_y_vida_cotidiana_mexica.md",
+    "keywords": [
+      "religion",
+      "educacion",
+      "vida",
+      "cotidiana",
+      "mexica"
+    ]
+  },
+  {
+    "id": "hu_4b_12_fuentes_para_estudiar_a_los_mexicas",
+    "course_id": "4b",
+    "course": "4° básico",
+    "title": "Fuentes para estudiar a los mexicas",
+    "alignment": "curricular_directa",
+    "sensitive": false,
+    "period": "América prehispánica",
+    "path": "04_cuarto_basico/capitulos/12_fuentes_para_estudiar_a_los_mexicas.md",
+    "keywords": [
+      "fuentes",
+      "estudiar",
+      "mexicas"
+    ]
+  },
+  {
+    "id": "hu_4b_13_el_mundo_andino_antes_del_tawantinsuyu",
+    "course_id": "4b",
+    "course": "4° básico",
+    "title": "El mundo andino antes del Tawantinsuyu",
+    "alignment": "curricular_directa",
+    "sensitive": false,
+    "period": "América prehispánica",
+    "path": "04_cuarto_basico/capitulos/13_el_mundo_andino_antes_del_tawantinsuyu.md",
+    "keywords": [
+      "mundo",
+      "andino",
+      "antes",
+      "tawantinsuyu"
+    ]
+  },
+  {
+    "id": "hu_4b_14_formacion_y_expansion_del_imperio_inca",
+    "course_id": "4b",
+    "course": "4° básico",
+    "title": "Formación y expansión del Imperio inca",
+    "alignment": "curricular_directa",
+    "sensitive": false,
+    "period": "América prehispánica",
+    "path": "04_cuarto_basico/capitulos/14_formacion_y_expansion_del_imperio_inca.md",
+    "keywords": [
+      "formacion",
+      "expansion",
+      "imperio",
+      "inca"
+    ]
+  },
+  {
+    "id": "hu_4b_15_ayllu_reciprocidad_y_organizacion_social_inca",
+    "course_id": "4b",
+    "course": "4° básico",
+    "title": "Ayllu, reciprocidad y organización social inca",
+    "alignment": "curricular_directa",
+    "sensitive": false,
+    "period": "América prehispánica",
+    "path": "04_cuarto_basico/capitulos/15_ayllu_reciprocidad_y_organizacion_social_inca.md",
+    "keywords": [
+      "ayllu",
+      "reciprocidad",
+      "organizacion",
+      "social",
+      "inca"
+    ]
+  },
+  {
+    "id": "hu_4b_16_pisos_ecologicos_agricultura_y_almacenamiento_andino",
+    "course_id": "4b",
+    "course": "4° básico",
+    "title": "Pisos ecológicos, agricultura y almacenamiento andino",
+    "alignment": "curricular_directa",
+    "sensitive": false,
+    "period": "América prehispánica",
+    "path": "04_cuarto_basico/capitulos/16_pisos_ecologicos_agricultura_y_almacenamiento_andino.md",
+    "keywords": [
+      "pisos",
+      "ecologicos",
+      "agricultura",
+      "almacenamiento",
+      "andino"
+    ]
+  },
+  {
+    "id": "hu_4b_17_caminos_chasquis_quipus_y_administracion",
+    "course_id": "4b",
+    "course": "4° básico",
+    "title": "Caminos, chasquis, quipus y administración",
+    "alignment": "curricular_directa",
+    "sensitive": false,
+    "period": "Historia mundial y conexiones globales",
+    "path": "04_cuarto_basico/capitulos/17_caminos_chasquis_quipus_y_administracion.md",
+    "keywords": [
+      "caminos",
+      "chasquis",
+      "quipus",
+      "administracion"
+    ]
+  },
+  {
+    "id": "hu_4b_18_religion_arquitectura_y_vida_cotidiana_inca",
+    "course_id": "4b",
+    "course": "4° básico",
+    "title": "Religión, arquitectura y vida cotidiana inca",
+    "alignment": "curricular_directa",
+    "sensitive": false,
+    "period": "América prehispánica",
+    "path": "04_cuarto_basico/capitulos/18_religion_arquitectura_y_vida_cotidiana_inca.md",
+    "keywords": [
+      "religion",
+      "arquitectura",
+      "vida",
+      "cotidiana",
+      "inca"
+    ]
+  },
+  {
+    "id": "hu_4b_19_continuidad_de_pueblos_andinos_en_el_presente",
+    "course_id": "4b",
+    "course": "4° básico",
+    "title": "Continuidad de pueblos andinos en el presente",
+    "alignment": "curricular_directa",
+    "sensitive": false,
+    "period": "Mundo contemporáneo y tiempo presente",
+    "path": "04_cuarto_basico/capitulos/19_continuidad_de_pueblos_andinos_en_el_presente.md",
+    "keywords": [
+      "continuidad",
+      "pueblos",
+      "andinos",
+      "presente"
+    ]
+  },
+  {
+    "id": "hu_4b_20_comparar_mayas_mexicas_e_incas",
+    "course_id": "4b",
+    "course": "4° básico",
+    "title": "Comparar mayas, mexicas e incas",
+    "alignment": "curricular_directa",
+    "sensitive": false,
+    "period": "América prehispánica",
+    "path": "04_cuarto_basico/capitulos/20_comparar_mayas_mexicas_e_incas.md",
+    "keywords": [
+      "comparar",
+      "mayas",
+      "mexicas",
+      "incas"
+    ]
+  },
+  {
+    "id": "hu_4b_21_mujeres_ninas_y_ninos_en_civilizaciones_americanas",
+    "course_id": "4b",
+    "course": "4° básico",
+    "title": "Mujeres, niñas y niños en civilizaciones americanas",
+    "alignment": "curricular_directa",
+    "sensitive": false,
+    "period": "Historia mundial y conexiones globales",
+    "path": "04_cuarto_basico/capitulos/21_mujeres_ninas_y_ninos_en_civilizaciones_americanas.md",
+    "keywords": [
+      "mujeres",
+      "ninas",
+      "ninos",
+      "civilizaciones",
+      "americanas"
+    ]
+  },
+  {
+    "id": "hu_4b_22_patrimonio_arqueologico_y_cuidado_de_sitios",
+    "course_id": "4b",
+    "course": "4° básico",
+    "title": "Patrimonio arqueológico y cuidado de sitios",
+    "alignment": "curricular_directa",
+    "sensitive": false,
+    "period": "Historia mundial y conexiones globales",
+    "path": "04_cuarto_basico/capitulos/22_patrimonio_arqueologico_y_cuidado_de_sitios.md",
+    "keywords": [
+      "patrimonio",
+      "arqueologico",
+      "cuidado",
+      "sitios"
+    ]
+  },
+  {
+    "id": "hu_4b_23_interpretar_mapas_y_lineas_de_tiempo_americanas",
+    "course_id": "4b",
+    "course": "4° básico",
+    "title": "Interpretar mapas y líneas de tiempo americanas",
+    "alignment": "curricular_directa",
+    "sensitive": false,
+    "period": "Historia mundial y conexiones globales",
+    "path": "04_cuarto_basico/capitulos/23_interpretar_mapas_y_lineas_de_tiempo_americanas.md",
+    "keywords": [
+      "interpretar",
+      "mapas",
+      "lineas",
+      "tiempo",
+      "americanas"
+    ]
+  },
+  {
+    "id": "hu_4b_24_fuentes_indigenas_arqueologicas_y_coloniales",
+    "course_id": "4b",
+    "course": "4° básico",
+    "title": "Fuentes indígenas, arqueológicas y coloniales",
+    "alignment": "curricular_directa",
+    "sensitive": false,
+    "period": "Edad Moderna",
+    "path": "04_cuarto_basico/capitulos/24_fuentes_indigenas_arqueologicas_y_coloniales.md",
+    "keywords": [
+      "fuentes",
+      "indigenas",
+      "arqueologicas",
+      "coloniales"
+    ]
+  },
+  {
+    "id": "hu_5b_01_europa_africa_y_asia_a_fines_de_la_edad_media",
+    "course_id": "5b",
+    "course": "5° básico",
+    "title": "Europa, África y Asia a fines de la Edad Media",
+    "alignment": "puente_curricular",
+    "sensitive": false,
+    "period": "Historia mundial y conexiones globales",
+    "path": "05_quinto_basico/capitulos/01_europa_africa_y_asia_a_fines_de_la_edad_media.md",
+    "keywords": [
+      "europa",
+      "africa",
+      "asia",
+      "fines",
+      "edad",
+      "media"
+    ]
+  },
+  {
+    "id": "hu_5b_02_la_ruta_de_la_seda_y_los_intercambios_afroeurasiaticos",
+    "course_id": "5b",
+    "course": "5° básico",
+    "title": "La Ruta de la Seda y los intercambios afroeurasiáticos",
+    "alignment": "puente_curricular",
+    "sensitive": false,
+    "period": "Historia mundial y conexiones globales",
+    "path": "05_quinto_basico/capitulos/02_la_ruta_de_la_seda_y_los_intercambios_afroeurasiaticos.md",
+    "keywords": [
+      "ruta",
+      "seda",
+      "intercambios",
+      "afroeurasiaticos"
+    ]
+  },
+  {
+    "id": "hu_5b_03_el_imperio_otomano_y_el_mediterraneo_oriental",
+    "course_id": "5b",
+    "course": "5° básico",
+    "title": "El Imperio otomano y el Mediterráneo oriental",
+    "alignment": "puente_curricular",
+    "sensitive": false,
+    "period": "Historia mundial y conexiones globales",
+    "path": "05_quinto_basico/capitulos/03_el_imperio_otomano_y_el_mediterraneo_oriental.md",
+    "keywords": [
+      "imperio",
+      "otomano",
+      "mediterraneo",
+      "oriental"
+    ]
+  },
+  {
+    "id": "hu_5b_04_renacimiento_urbano_comercio_y_navegacion",
+    "course_id": "5b",
+    "course": "5° básico",
+    "title": "Renacimiento urbano, comercio y navegación",
+    "alignment": "puente_curricular",
+    "sensitive": false,
+    "period": "Edad Moderna",
+    "path": "05_quinto_basico/capitulos/04_renacimiento_urbano_comercio_y_navegacion.md",
+    "keywords": [
+      "renacimiento",
+      "urbano",
+      "comercio",
+      "navegacion"
+    ]
+  },
+  {
+    "id": "hu_5b_05_innovaciones_nauticas_y_cartograficas_de_los_siglos_xv_y_xvi",
+    "course_id": "5b",
+    "course": "5° básico",
+    "title": "Innovaciones náuticas y cartográficas de los siglos XV y XVI",
+    "alignment": "curricular_directa",
+    "sensitive": false,
+    "period": "Historia mundial y conexiones globales",
+    "path": "05_quinto_basico/capitulos/05_innovaciones_nauticas_y_cartograficas_de_los_siglos_xv_y_xvi.md",
+    "keywords": [
+      "innovaciones",
+      "nauticas",
+      "cartograficas",
+      "siglos",
+      "xv",
+      "xvi"
+    ]
+  },
+  {
+    "id": "hu_5b_06_expansion_portuguesa_por_africa_y_el_oceano_indico",
+    "course_id": "5b",
+    "course": "5° básico",
+    "title": "Expansión portuguesa por África y el océano Índico",
+    "alignment": "curricular_directa",
+    "sensitive": false,
+    "period": "Historia mundial y conexiones globales",
+    "path": "05_quinto_basico/capitulos/06_expansion_portuguesa_por_africa_y_el_oceano_indico.md",
+    "keywords": [
+      "expansion",
+      "portuguesa",
+      "africa",
+      "oceano",
+      "indico"
+    ]
+  },
+  {
+    "id": "hu_5b_07_expansion_castellana_hacia_el_atlantico",
+    "course_id": "5b",
+    "course": "5° básico",
+    "title": "Expansión castellana hacia el Atlántico",
+    "alignment": "curricular_directa",
+    "sensitive": false,
+    "period": "Historia mundial y conexiones globales",
+    "path": "05_quinto_basico/capitulos/07_expansion_castellana_hacia_el_atlantico.md",
+    "keywords": [
+      "expansion",
+      "castellana",
+      "hacia",
+      "atlantico"
+    ]
+  },
+  {
+    "id": "hu_5b_08_encuentro_conquista_y_choque_de_sociedades",
+    "course_id": "5b",
+    "course": "5° básico",
+    "title": "Encuentro, conquista y choque de sociedades",
+    "alignment": "curricular_directa",
+    "sensitive": false,
+    "period": "Edad Moderna",
+    "path": "05_quinto_basico/capitulos/08_encuentro_conquista_y_choque_de_sociedades.md",
+    "keywords": [
+      "encuentro",
+      "conquista",
+      "choque",
+      "sociedades"
+    ]
+  },
+  {
+    "id": "hu_5b_09_intercambio_colombino_de_plantas_animales_y_enfermedades",
+    "course_id": "5b",
+    "course": "5° básico",
+    "title": "Intercambio colombino de plantas, animales y enfermedades",
+    "alignment": "curricular_directa",
+    "sensitive": false,
+    "period": "Historia mundial y conexiones globales",
+    "path": "05_quinto_basico/capitulos/09_intercambio_colombino_de_plantas_animales_y_enfermedades.md",
+    "keywords": [
+      "intercambio",
+      "colombino",
+      "plantas",
+      "animales",
+      "enfermedades"
+    ]
+  },
+  {
+    "id": "hu_5b_10_formacion_de_imperios_coloniales_atlanticos",
+    "course_id": "5b",
+    "course": "5° básico",
+    "title": "Formación de imperios coloniales atlánticos",
+    "alignment": "curricular_directa",
+    "sensitive": false,
+    "period": "Edad Moderna",
+    "path": "05_quinto_basico/capitulos/10_formacion_de_imperios_coloniales_atlanticos.md",
+    "keywords": [
+      "formacion",
+      "imperios",
+      "coloniales",
+      "atlanticos"
+    ]
+  },
+  {
+    "id": "hu_5b_11_trata_transatlantica_y_esclavitud_africana",
+    "course_id": "5b",
+    "course": "5° básico",
+    "title": "Trata transatlántica y esclavitud africana",
+    "alignment": "curricular_directa",
+    "sensitive": false,
+    "period": "Historia mundial y conexiones globales",
+    "path": "05_quinto_basico/capitulos/11_trata_transatlantica_y_esclavitud_africana.md",
+    "keywords": [
+      "trata",
+      "transatlantica",
+      "esclavitud",
+      "africana"
+    ]
+  },
+  {
+    "id": "hu_5b_12_evangelizacion_resistencias_y_mestizajes",
+    "course_id": "5b",
+    "course": "5° básico",
+    "title": "Evangelización, resistencias y mestizajes",
+    "alignment": "curricular_directa",
+    "sensitive": false,
+    "period": "Historia mundial y conexiones globales",
+    "path": "05_quinto_basico/capitulos/12_evangelizacion_resistencias_y_mestizajes.md",
+    "keywords": [
+      "evangelizacion",
+      "resistencias",
+      "mestizajes"
+    ]
+  },
+  {
+    "id": "hu_5b_13_debates_sobre_conquista_humanidad_y_derechos",
+    "course_id": "5b",
+    "course": "5° básico",
+    "title": "Debates sobre conquista, humanidad y derechos",
+    "alignment": "curricular_directa",
+    "sensitive": false,
+    "period": "Edad Moderna",
+    "path": "05_quinto_basico/capitulos/13_debates_sobre_conquista_humanidad_y_derechos.md",
+    "keywords": [
+      "debates",
+      "sobre",
+      "conquista",
+      "humanidad",
+      "derechos"
+    ]
+  },
+  {
+    "id": "hu_5b_14_primera_globalizacion_y_conexiones_entre_continentes",
+    "course_id": "5b",
+    "course": "5° básico",
+    "title": "Primera globalización y conexiones entre continentes",
+    "alignment": "puente_curricular",
+    "sensitive": false,
+    "period": "Mundo contemporáneo y tiempo presente",
+    "path": "05_quinto_basico/capitulos/14_primera_globalizacion_y_conexiones_entre_continentes.md",
+    "keywords": [
+      "primera",
+      "globalizacion",
+      "conexiones",
+      "entre",
+      "continentes"
+    ]
+  },
+  {
+    "id": "hu_6b_01_absolutismo_y_sociedades_del_antiguo_regimen",
+    "course_id": "6b",
+    "course": "6° básico",
+    "title": "Absolutismo y sociedades del Antiguo Régimen",
+    "alignment": "puente_curricular",
+    "sensitive": false,
+    "period": "Siglos XVII y XVIII",
+    "path": "06_sexto_basico/capitulos/01_absolutismo_y_sociedades_del_antiguo_regimen.md",
+    "keywords": [
+      "absolutismo",
+      "sociedades",
+      "antiguo",
+      "regimen"
+    ]
+  },
+  {
+    "id": "hu_6b_02_la_ilustracion_y_la_critica_al_poder_absoluto",
+    "course_id": "6b",
+    "course": "6° básico",
+    "title": "La Ilustración y la crítica al poder absoluto",
+    "alignment": "puente_curricular",
+    "sensitive": false,
+    "period": "Siglos XVII y XVIII",
+    "path": "06_sexto_basico/capitulos/02_la_ilustracion_y_la_critica_al_poder_absoluto.md",
+    "keywords": [
+      "ilustracion",
+      "critica",
+      "al",
+      "poder",
+      "absoluto"
+    ]
+  },
+  {
+    "id": "hu_6b_03_independencia_de_las_trece_colonias",
+    "course_id": "6b",
+    "course": "6° básico",
+    "title": "Independencia de las Trece Colonias",
+    "alignment": "puente_curricular",
+    "sensitive": false,
+    "period": "Siglos XVII y XVIII",
+    "path": "06_sexto_basico/capitulos/03_independencia_de_las_trece_colonias.md",
+    "keywords": [
+      "independencia",
+      "trece",
+      "colonias"
+    ]
+  },
+  {
+    "id": "hu_6b_04_la_revolucion_francesa_y_la_declaracion_de_los_derechos",
+    "course_id": "6b",
+    "course": "6° básico",
+    "title": "La Revolución francesa y la Declaración de los Derechos",
+    "alignment": "puente_curricular",
+    "sensitive": false,
+    "period": "Siglos XVII y XVIII",
+    "path": "06_sexto_basico/capitulos/04_la_revolucion_francesa_y_la_declaracion_de_los_derechos.md",
+    "keywords": [
+      "revolucion",
+      "francesa",
+      "declaracion",
+      "derechos"
+    ]
+  },
+  {
+    "id": "hu_6b_05_la_revolucion_haitiana_y_la_abolicion_de_la_esclavitud",
+    "course_id": "6b",
+    "course": "6° básico",
+    "title": "La Revolución haitiana y la abolición de la esclavitud",
+    "alignment": "puente_curricular",
+    "sensitive": false,
+    "period": "Siglos XVII y XVIII",
+    "path": "06_sexto_basico/capitulos/05_la_revolucion_haitiana_y_la_abolicion_de_la_esclavitud.md",
+    "keywords": [
+      "revolucion",
+      "haitiana",
+      "abolicion",
+      "esclavitud"
+    ]
+  },
+  {
+    "id": "hu_6b_06_independencias_hispanoamericanas_en_contexto_atlantico",
+    "course_id": "6b",
+    "course": "6° básico",
+    "title": "Independencias hispanoamericanas en contexto atlántico",
+    "alignment": "puente_curricular",
+    "sensitive": false,
+    "period": "Historia mundial y conexiones globales",
+    "path": "06_sexto_basico/capitulos/06_independencias_hispanoamericanas_en_contexto_atlantico.md",
+    "keywords": [
+      "independencias",
+      "hispanoamericanas",
+      "contexto",
+      "atlantico"
+    ]
+  },
+  {
+    "id": "hu_6b_07_liberalismo_republicanismo_y_constitucionalismo",
+    "course_id": "6b",
+    "course": "6° básico",
+    "title": "Liberalismo, republicanismo y constitucionalismo",
+    "alignment": "puente_curricular",
+    "sensitive": false,
+    "period": "Historia mundial y conexiones globales",
+    "path": "06_sexto_basico/capitulos/07_liberalismo_republicanismo_y_constitucionalismo.md",
+    "keywords": [
+      "liberalismo",
+      "republicanismo",
+      "constitucionalismo"
+    ]
+  },
+  {
+    "id": "hu_6b_08_nacionalismo_y_construccion_de_estados",
+    "course_id": "6b",
+    "course": "6° básico",
+    "title": "Nacionalismo y construcción de Estados",
+    "alignment": "puente_curricular",
+    "sensitive": false,
+    "period": "Siglo XIX y comienzos del XX",
+    "path": "06_sexto_basico/capitulos/08_nacionalismo_y_construccion_de_estados.md",
+    "keywords": [
+      "nacionalismo",
+      "construccion",
+      "estados"
+    ]
+  },
+  {
+    "id": "hu_6b_09_primera_revolucion_industrial",
+    "course_id": "6b",
+    "course": "6° básico",
+    "title": "Primera Revolución Industrial",
+    "alignment": "puente_curricular",
+    "sensitive": false,
+    "period": "Siglo XIX y comienzos del XX",
+    "path": "06_sexto_basico/capitulos/09_primera_revolucion_industrial.md",
+    "keywords": [
+      "primera",
+      "revolucion",
+      "industrial"
+    ]
+  },
+  {
+    "id": "hu_6b_10_la_fabrica_la_ciudad_industrial_y_nuevas_clases_sociales",
+    "course_id": "6b",
+    "course": "6° básico",
+    "title": "La fábrica, la ciudad industrial y nuevas clases sociales",
+    "alignment": "puente_curricular",
+    "sensitive": false,
+    "period": "Siglo XIX y comienzos del XX",
+    "path": "06_sexto_basico/capitulos/10_la_fabrica_la_ciudad_industrial_y_nuevas_clases_sociales.md",
+    "keywords": [
+      "fabrica",
+      "ciudad",
+      "industrial",
+      "nuevas",
+      "clases",
+      "sociales"
+    ]
+  },
+  {
+    "id": "hu_6b_11_trabajo_infantil_y_condiciones_obreras",
+    "course_id": "6b",
+    "course": "6° básico",
+    "title": "Trabajo infantil y condiciones obreras",
+    "alignment": "puente_curricular",
+    "sensitive": false,
+    "period": "Historia mundial y conexiones globales",
+    "path": "06_sexto_basico/capitulos/11_trabajo_infantil_y_condiciones_obreras.md",
+    "keywords": [
+      "trabajo",
+      "infantil",
+      "condiciones",
+      "obreras"
+    ]
+  },
+  {
+    "id": "hu_6b_12_abolicionismo_y_fin_gradual_de_la_esclavitud",
+    "course_id": "6b",
+    "course": "6° básico",
+    "title": "Abolicionismo y fin gradual de la esclavitud",
+    "alignment": "puente_curricular",
+    "sensitive": false,
+    "period": "Historia mundial y conexiones globales",
+    "path": "06_sexto_basico/capitulos/12_abolicionismo_y_fin_gradual_de_la_esclavitud.md",
+    "keywords": [
+      "abolicionismo",
+      "fin",
+      "gradual",
+      "esclavitud"
+    ]
+  },
+  {
+    "id": "hu_6b_13_primeros_movimientos_por_los_derechos_de_las_mujeres",
+    "course_id": "6b",
+    "course": "6° básico",
+    "title": "Primeros movimientos por los derechos de las mujeres",
+    "alignment": "puente_curricular",
+    "sensitive": false,
+    "period": "Historia mundial y conexiones globales",
+    "path": "06_sexto_basico/capitulos/13_primeros_movimientos_por_los_derechos_de_las_mujeres.md",
+    "keywords": [
+      "primeros",
+      "movimientos",
+      "derechos",
+      "mujeres"
+    ]
+  },
+  {
+    "id": "hu_6b_14_comparar_revoluciones_atlanticas_y_sus_limites",
+    "course_id": "6b",
+    "course": "6° básico",
+    "title": "Comparar revoluciones atlánticas y sus límites",
+    "alignment": "puente_curricular",
+    "sensitive": false,
+    "period": "Historia mundial y conexiones globales",
+    "path": "06_sexto_basico/capitulos/14_comparar_revoluciones_atlanticas_y_sus_limites.md",
+    "keywords": [
+      "comparar",
+      "revoluciones",
+      "atlanticas",
+      "sus",
+      "limites"
+    ]
+  },
+  {
+    "id": "hu_7b_01_la_evolucion_humana_y_el_proceso_de_hominizacion",
+    "course_id": "7b",
+    "course": "7° básico",
+    "title": "La evolución humana y el proceso de hominización",
+    "alignment": "curricular_directa",
+    "sensitive": false,
+    "period": "Prehistoria e historia temprana",
+    "path": "07_septimo_basico/capitulos/01_la_evolucion_humana_y_el_proceso_de_hominizacion.md",
+    "keywords": [
+      "evolucion",
+      "humana",
+      "proceso",
+      "hominizacion"
+    ]
+  },
+  {
+    "id": "hu_7b_02_migraciones_humanas_y_poblamiento_de_continentes",
+    "course_id": "7b",
+    "course": "7° básico",
+    "title": "Migraciones humanas y poblamiento de continentes",
+    "alignment": "curricular_directa",
+    "sensitive": false,
+    "period": "Prehistoria e historia temprana",
+    "path": "07_septimo_basico/capitulos/02_migraciones_humanas_y_poblamiento_de_continentes.md",
+    "keywords": [
+      "migraciones",
+      "humanas",
+      "poblamiento",
+      "continentes"
+    ]
+  },
+  {
+    "id": "hu_7b_03_paleolitico_caza_recoleccion_y_vida_comunitaria",
+    "course_id": "7b",
+    "course": "7° básico",
+    "title": "Paleolítico: caza, recolección y vida comunitaria",
+    "alignment": "curricular_directa",
+    "sensitive": false,
+    "period": "Prehistoria e historia temprana",
+    "path": "07_septimo_basico/capitulos/03_paleolitico_caza_recoleccion_y_vida_comunitaria.md",
+    "keywords": [
+      "paleolitico",
+      "caza",
+      "recoleccion",
+      "vida",
+      "comunitaria"
+    ]
+  },
+  {
+    "id": "hu_7b_04_arte_rupestre_tecnologia_y_pensamiento_simbolico",
+    "course_id": "7b",
+    "course": "7° básico",
+    "title": "Arte rupestre, tecnología y pensamiento simbólico",
+    "alignment": "curricular_directa",
+    "sensitive": false,
+    "period": "Historia mundial y conexiones globales",
+    "path": "07_septimo_basico/capitulos/04_arte_rupestre_tecnologia_y_pensamiento_simbolico.md",
+    "keywords": [
+      "arte",
+      "rupestre",
+      "tecnologia",
+      "pensamiento",
+      "simbolico"
+    ]
+  },
+  {
+    "id": "hu_7b_05_poblamiento_temprano_de_america",
+    "course_id": "7b",
+    "course": "7° básico",
+    "title": "Poblamiento temprano de América",
+    "alignment": "curricular_directa",
+    "sensitive": false,
+    "period": "Prehistoria e historia temprana",
+    "path": "07_septimo_basico/capitulos/05_poblamiento_temprano_de_america.md",
+    "keywords": [
+      "poblamiento",
+      "temprano",
+      "america"
+    ]
+  },
+  {
+    "id": "hu_7b_06_revolucion_neolitica_y_domesticacion_de_plantas",
+    "course_id": "7b",
+    "course": "7° básico",
+    "title": "Revolución neolítica y domesticación de plantas",
+    "alignment": "curricular_directa",
+    "sensitive": false,
+    "period": "Prehistoria e historia temprana",
+    "path": "07_septimo_basico/capitulos/06_revolucion_neolitica_y_domesticacion_de_plantas.md",
+    "keywords": [
+      "revolucion",
+      "neolitica",
+      "domesticacion",
+      "plantas"
+    ]
+  },
+  {
+    "id": "hu_7b_07_domesticacion_de_animales_y_cambios_sociales",
+    "course_id": "7b",
+    "course": "7° básico",
+    "title": "Domesticación de animales y cambios sociales",
+    "alignment": "curricular_directa",
+    "sensitive": false,
+    "period": "Prehistoria e historia temprana",
+    "path": "07_septimo_basico/capitulos/07_domesticacion_de_animales_y_cambios_sociales.md",
+    "keywords": [
+      "domesticacion",
+      "animales",
+      "cambios",
+      "sociales"
+    ]
+  },
+  {
+    "id": "hu_7b_08_aldeas_excedentes_especializacion_y_desigualdad",
+    "course_id": "7b",
+    "course": "7° básico",
+    "title": "Aldeas, excedentes, especialización y desigualdad",
+    "alignment": "curricular_directa",
+    "sensitive": false,
+    "period": "Historia mundial y conexiones globales",
+    "path": "07_septimo_basico/capitulos/08_aldeas_excedentes_especializacion_y_desigualdad.md",
+    "keywords": [
+      "aldeas",
+      "excedentes",
+      "especializacion",
+      "desigualdad"
+    ]
+  },
+  {
+    "id": "hu_7b_09_metales_comercio_y_primeras_ciudades",
+    "course_id": "7b",
+    "course": "7° básico",
+    "title": "Metales, comercio y primeras ciudades",
+    "alignment": "curricular_directa",
+    "sensitive": false,
+    "period": "Prehistoria e historia temprana",
+    "path": "07_septimo_basico/capitulos/09_metales_comercio_y_primeras_ciudades.md",
+    "keywords": [
+      "metales",
+      "comercio",
+      "primeras",
+      "ciudades"
+    ]
+  },
+  {
+    "id": "hu_7b_10_mesopotamia_ciudades_escritura_y_estado",
+    "course_id": "7b",
+    "course": "7° básico",
+    "title": "Mesopotamia: ciudades, escritura y Estado",
+    "alignment": "curricular_directa",
+    "sensitive": false,
+    "period": "Antigüedad",
+    "path": "07_septimo_basico/capitulos/10_mesopotamia_ciudades_escritura_y_estado.md",
+    "keywords": [
+      "mesopotamia",
+      "ciudades",
+      "escritura",
+      "estado"
+    ]
+  },
+  {
+    "id": "hu_7b_11_egipto_nilo_faraones_y_sociedad",
+    "course_id": "7b",
+    "course": "7° básico",
+    "title": "Egipto: Nilo, faraones y sociedad",
+    "alignment": "curricular_directa",
+    "sensitive": false,
+    "period": "Antigüedad",
+    "path": "07_septimo_basico/capitulos/11_egipto_nilo_faraones_y_sociedad.md",
+    "keywords": [
+      "egipto",
+      "nilo",
+      "faraones",
+      "sociedad"
+    ]
+  },
+  {
+    "id": "hu_7b_12_civilizacion_del_valle_del_indo",
+    "course_id": "7b",
+    "course": "7° básico",
+    "title": "Civilización del valle del Indo",
+    "alignment": "curricular_directa",
+    "sensitive": false,
+    "period": "Antigüedad",
+    "path": "07_septimo_basico/capitulos/12_civilizacion_del_valle_del_indo.md",
+    "keywords": [
+      "civilizacion",
+      "valle",
+      "indo"
+    ]
+  },
+  {
+    "id": "hu_7b_13_china_antigua_dinastias_agricultura_y_escritura",
+    "course_id": "7b",
+    "course": "7° básico",
+    "title": "China antigua: dinastías, agricultura y escritura",
+    "alignment": "curricular_directa",
+    "sensitive": false,
+    "period": "Antigüedad",
+    "path": "07_septimo_basico/capitulos/13_china_antigua_dinastias_agricultura_y_escritura.md",
+    "keywords": [
+      "china",
+      "antigua",
+      "dinastias",
+      "agricultura",
+      "escritura"
+    ]
+  },
+  {
+    "id": "hu_7b_14_fenicios_navegacion_y_alfabeto",
+    "course_id": "7b",
+    "course": "7° básico",
+    "title": "Fenicios, navegación y alfabeto",
+    "alignment": "curricular_directa",
+    "sensitive": false,
+    "period": "Antigüedad",
+    "path": "07_septimo_basico/capitulos/14_fenicios_navegacion_y_alfabeto.md",
+    "keywords": [
+      "fenicios",
+      "navegacion",
+      "alfabeto"
+    ]
+  },
+  {
+    "id": "hu_7b_15_hebreos_y_tradiciones_monoteistas",
+    "course_id": "7b",
+    "course": "7° básico",
+    "title": "Hebreos y tradiciones monoteístas",
+    "alignment": "curricular_directa",
+    "sensitive": false,
+    "period": "Antigüedad",
+    "path": "07_septimo_basico/capitulos/15_hebreos_y_tradiciones_monoteistas.md",
+    "keywords": [
+      "hebreos",
+      "tradiciones",
+      "monoteistas"
+    ]
+  },
+  {
+    "id": "hu_7b_16_olmecas_y_chavin_como_sociedades_complejas_americanas",
+    "course_id": "7b",
+    "course": "7° básico",
+    "title": "Olmecas y Chavín como sociedades complejas americanas",
+    "alignment": "curricular_directa",
+    "sensitive": false,
+    "period": "Antigüedad",
+    "path": "07_septimo_basico/capitulos/16_olmecas_y_chavin_como_sociedades_complejas_americanas.md",
+    "keywords": [
+      "olmecas",
+      "chavin",
+      "sociedades",
+      "complejas",
+      "americanas"
+    ]
+  },
+  {
+    "id": "hu_7b_17_el_mediterraneo_como_espacio_de_intercambio",
+    "course_id": "7b",
+    "course": "7° básico",
+    "title": "El Mediterráneo como espacio de intercambio",
+    "alignment": "curricular_directa",
+    "sensitive": false,
+    "period": "Historia mundial y conexiones globales",
+    "path": "07_septimo_basico/capitulos/17_el_mediterraneo_como_espacio_de_intercambio.md",
+    "keywords": [
+      "mediterraneo",
+      "espacio",
+      "intercambio"
+    ]
+  },
+  {
+    "id": "hu_7b_18_grecia_clasica_polis_ciudadania_y_cultura",
+    "course_id": "7b",
+    "course": "7° básico",
+    "title": "Grecia clásica: polis, ciudadanía y cultura",
+    "alignment": "curricular_directa",
+    "sensitive": false,
+    "period": "Historia mundial y conexiones globales",
+    "path": "07_septimo_basico/capitulos/18_grecia_clasica_polis_ciudadania_y_cultura.md",
+    "keywords": [
+      "grecia",
+      "clasica",
+      "polis",
+      "ciudadania",
+      "cultura"
+    ]
+  },
+  {
+    "id": "hu_7b_19_roma_republica_imperio_y_romanizacion",
+    "course_id": "7b",
+    "course": "7° básico",
+    "title": "Roma: República, Imperio y romanización",
+    "alignment": "curricular_directa",
+    "sensitive": false,
+    "period": "Antigüedad",
+    "path": "07_septimo_basico/capitulos/19_roma_republica_imperio_y_romanizacion.md",
+    "keywords": [
+      "roma",
+      "republica",
+      "imperio",
+      "romanizacion"
+    ]
+  },
+  {
+    "id": "hu_7b_20_esclavitud_en_el_mundo_antiguo",
+    "course_id": "7b",
+    "course": "7° básico",
+    "title": "Esclavitud en el mundo antiguo",
+    "alignment": "curricular_directa",
+    "sensitive": false,
+    "period": "Historia mundial y conexiones globales",
+    "path": "07_septimo_basico/capitulos/20_esclavitud_en_el_mundo_antiguo.md",
+    "keywords": [
+      "esclavitud",
+      "mundo",
+      "antiguo"
+    ]
+  },
+  {
+    "id": "hu_7b_21_origen_y_expansion_del_cristianismo",
+    "course_id": "7b",
+    "course": "7° básico",
+    "title": "Origen y expansión del cristianismo",
+    "alignment": "curricular_directa",
+    "sensitive": false,
+    "period": "Historia mundial y conexiones globales",
+    "path": "07_septimo_basico/capitulos/21_origen_y_expansion_del_cristianismo.md",
+    "keywords": [
+      "origen",
+      "expansion",
+      "cristianismo"
+    ]
+  },
+  {
+    "id": "hu_7b_22_crisis_y_transformacion_del_imperio_romano",
+    "course_id": "7b",
+    "course": "7° básico",
+    "title": "Crisis y transformación del Imperio romano",
+    "alignment": "curricular_directa",
+    "sensitive": false,
+    "period": "Antigüedad",
+    "path": "07_septimo_basico/capitulos/22_crisis_y_transformacion_del_imperio_romano.md",
+    "keywords": [
+      "crisis",
+      "transformacion",
+      "imperio",
+      "romano"
+    ]
+  },
+  {
+    "id": "hu_7b_23_imperio_bizantino_y_herencia_romana_oriental",
+    "course_id": "7b",
+    "course": "7° básico",
+    "title": "Imperio bizantino y herencia romana oriental",
+    "alignment": "curricular_directa",
+    "sensitive": false,
+    "period": "Edad Media",
+    "path": "07_septimo_basico/capitulos/23_imperio_bizantino_y_herencia_romana_oriental.md",
+    "keywords": [
+      "imperio",
+      "bizantino",
+      "herencia",
+      "romana",
+      "oriental"
+    ]
+  },
+  {
+    "id": "hu_7b_24_nacimiento_y_expansion_del_islam",
+    "course_id": "7b",
+    "course": "7° básico",
+    "title": "Nacimiento y expansión del islam",
+    "alignment": "curricular_directa",
+    "sensitive": false,
+    "period": "Edad Media",
+    "path": "07_septimo_basico/capitulos/24_nacimiento_y_expansion_del_islam.md",
+    "keywords": [
+      "nacimiento",
+      "expansion",
+      "islam"
+    ]
+  },
+  {
+    "id": "hu_7b_25_califatos_ciencia_y_circulacion_de_conocimientos",
+    "course_id": "7b",
+    "course": "7° básico",
+    "title": "Califatos, ciencia y circulación de conocimientos",
+    "alignment": "curricular_directa",
+    "sensitive": false,
+    "period": "Edad Media",
+    "path": "07_septimo_basico/capitulos/25_califatos_ciencia_y_circulacion_de_conocimientos.md",
+    "keywords": [
+      "califatos",
+      "ciencia",
+      "circulacion",
+      "conocimientos"
+    ]
+  },
+  {
+    "id": "hu_7b_26_reinos_germanicos_y_formacion_de_europa_medieval",
+    "course_id": "7b",
+    "course": "7° básico",
+    "title": "Reinos germánicos y formación de Europa medieval",
+    "alignment": "curricular_directa",
+    "sensitive": false,
+    "period": "Edad Media",
+    "path": "07_septimo_basico/capitulos/26_reinos_germanicos_y_formacion_de_europa_medieval.md",
+    "keywords": [
+      "reinos",
+      "germanicos",
+      "formacion",
+      "europa",
+      "medieval"
+    ]
+  },
+  {
+    "id": "hu_7b_27_feudalismo_senorios_y_sociedad_estamental",
+    "course_id": "7b",
+    "course": "7° básico",
+    "title": "Feudalismo, señoríos y sociedad estamental",
+    "alignment": "curricular_directa",
+    "sensitive": false,
+    "period": "Edad Media",
+    "path": "07_septimo_basico/capitulos/27_feudalismo_senorios_y_sociedad_estamental.md",
+    "keywords": [
+      "feudalismo",
+      "senorios",
+      "sociedad",
+      "estamental"
+    ]
+  },
+  {
+    "id": "hu_7b_28_la_iglesia_y_la_cultura_medieval",
+    "course_id": "7b",
+    "course": "7° básico",
+    "title": "La Iglesia y la cultura medieval",
+    "alignment": "curricular_directa",
+    "sensitive": false,
+    "period": "Edad Media",
+    "path": "07_septimo_basico/capitulos/28_la_iglesia_y_la_cultura_medieval.md",
+    "keywords": [
+      "iglesia",
+      "cultura",
+      "medieval"
+    ]
+  },
+  {
+    "id": "hu_7b_29_renacimiento_urbano_gremios_y_universidades",
+    "course_id": "7b",
+    "course": "7° básico",
+    "title": "Renacimiento urbano, gremios y universidades",
+    "alignment": "curricular_directa",
+    "sensitive": false,
+    "period": "Edad Moderna",
+    "path": "07_septimo_basico/capitulos/29_renacimiento_urbano_gremios_y_universidades.md",
+    "keywords": [
+      "renacimiento",
+      "urbano",
+      "gremios",
+      "universidades"
+    ]
+  },
+  {
+    "id": "hu_7b_30_cruzadas_al_andalus_y_contactos_interculturales",
+    "course_id": "7b",
+    "course": "7° básico",
+    "title": "Cruzadas, Al-Ándalus y contactos interculturales",
+    "alignment": "curricular_directa",
+    "sensitive": false,
+    "period": "Edad Media",
+    "path": "07_septimo_basico/capitulos/30_cruzadas_al_andalus_y_contactos_interculturales.md",
+    "keywords": [
+      "cruzadas",
+      "al",
+      "andalus",
+      "contactos",
+      "interculturales"
+    ]
+  },
+  {
+    "id": "hu_8b_01_humanismo_y_nuevas_formas_de_comprender_al_ser_humano",
+    "course_id": "8b",
+    "course": "8° básico",
+    "title": "Humanismo y nuevas formas de comprender al ser humano",
+    "alignment": "curricular_directa",
+    "sensitive": false,
+    "period": "Edad Moderna",
+    "path": "08_octavo_basico/capitulos/01_humanismo_y_nuevas_formas_de_comprender_al_ser_humano.md",
+    "keywords": [
+      "humanismo",
+      "nuevas",
+      "formas",
+      "comprender",
+      "al",
+      "ser",
+      "humano"
+    ]
+  },
+  {
+    "id": "hu_8b_02_renacimiento_artistico_y_cultural",
+    "course_id": "8b",
+    "course": "8° básico",
+    "title": "Renacimiento artístico y cultural",
+    "alignment": "curricular_directa",
+    "sensitive": false,
+    "period": "Edad Moderna",
+    "path": "08_octavo_basico/capitulos/02_renacimiento_artistico_y_cultural.md",
+    "keywords": [
+      "renacimiento",
+      "artistico",
+      "cultural"
+    ]
+  },
+  {
+    "id": "hu_8b_03_imprenta_y_circulacion_de_ideas",
+    "course_id": "8b",
+    "course": "8° básico",
+    "title": "Imprenta y circulación de ideas",
+    "alignment": "curricular_directa",
+    "sensitive": false,
+    "period": "Historia mundial y conexiones globales",
+    "path": "08_octavo_basico/capitulos/03_imprenta_y_circulacion_de_ideas.md",
+    "keywords": [
+      "imprenta",
+      "circulacion",
+      "ideas"
+    ]
+  },
+  {
+    "id": "hu_8b_04_reforma_protestante",
+    "course_id": "8b",
+    "course": "8° básico",
+    "title": "Reforma protestante",
+    "alignment": "curricular_directa",
+    "sensitive": false,
+    "period": "Edad Moderna",
+    "path": "08_octavo_basico/capitulos/04_reforma_protestante.md",
+    "keywords": [
+      "reforma",
+      "protestante"
+    ]
+  },
+  {
+    "id": "hu_8b_05_reforma_catolica_y_conflictos_religiosos",
+    "course_id": "8b",
+    "course": "8° básico",
+    "title": "Reforma católica y conflictos religiosos",
+    "alignment": "curricular_directa",
+    "sensitive": false,
+    "period": "Edad Moderna",
+    "path": "08_octavo_basico/capitulos/05_reforma_catolica_y_conflictos_religiosos.md",
+    "keywords": [
+      "reforma",
+      "catolica",
+      "conflictos",
+      "religiosos"
+    ]
+  },
+  {
+    "id": "hu_8b_06_revolucion_cientifica",
+    "course_id": "8b",
+    "course": "8° básico",
+    "title": "Revolución científica",
+    "alignment": "curricular_directa",
+    "sensitive": false,
+    "period": "Edad Moderna",
+    "path": "08_octavo_basico/capitulos/06_revolucion_cientifica.md",
+    "keywords": [
+      "revolucion",
+      "cientifica"
+    ]
+  },
+  {
+    "id": "hu_8b_07_nacimiento_del_estado_moderno",
+    "course_id": "8b",
+    "course": "8° básico",
+    "title": "Nacimiento del Estado moderno",
+    "alignment": "curricular_directa",
+    "sensitive": false,
+    "period": "Edad Moderna",
+    "path": "08_octavo_basico/capitulos/07_nacimiento_del_estado_moderno.md",
+    "keywords": [
+      "nacimiento",
+      "estado",
+      "moderno"
+    ]
+  },
+  {
+    "id": "hu_8b_08_monarquias_absolutas_y_sociedad_estamental",
+    "course_id": "8b",
+    "course": "8° básico",
+    "title": "Monarquías absolutas y sociedad estamental",
+    "alignment": "curricular_directa",
+    "sensitive": false,
+    "period": "Historia mundial y conexiones globales",
+    "path": "08_octavo_basico/capitulos/08_monarquias_absolutas_y_sociedad_estamental.md",
+    "keywords": [
+      "monarquias",
+      "absolutas",
+      "sociedad",
+      "estamental"
+    ]
+  },
+  {
+    "id": "hu_8b_09_mercantilismo_y_expansion_comercial",
+    "course_id": "8b",
+    "course": "8° básico",
+    "title": "Mercantilismo y expansión comercial",
+    "alignment": "curricular_directa",
+    "sensitive": false,
+    "period": "Edad Moderna",
+    "path": "08_octavo_basico/capitulos/09_mercantilismo_y_expansion_comercial.md",
+    "keywords": [
+      "mercantilismo",
+      "expansion",
+      "comercial"
+    ]
+  },
+  {
+    "id": "hu_8b_10_imperios_otomano_safavida_y_mogol",
+    "course_id": "8b",
+    "course": "8° básico",
+    "title": "Imperios otomano, safávida y mogol",
+    "alignment": "curricular_directa",
+    "sensitive": false,
+    "period": "Historia mundial y conexiones globales",
+    "path": "08_octavo_basico/capitulos/10_imperios_otomano_safavida_y_mogol.md",
+    "keywords": [
+      "imperios",
+      "otomano",
+      "safavida",
+      "mogol"
+    ]
+  },
+  {
+    "id": "hu_8b_11_china_ming_y_qing",
+    "course_id": "8b",
+    "course": "8° básico",
+    "title": "China Ming y Qing",
+    "alignment": "ampliacion_alineada",
+    "sensitive": false,
+    "period": "Edad Moderna",
+    "path": "08_octavo_basico/capitulos/11_china_ming_y_qing.md",
+    "keywords": [
+      "china",
+      "ming",
+      "qing"
+    ]
+  },
+  {
+    "id": "hu_8b_12_japon_tokugawa",
+    "course_id": "8b",
+    "course": "8° básico",
+    "title": "Japón Tokugawa",
+    "alignment": "ampliacion_alineada",
+    "sensitive": false,
+    "period": "Edad Moderna",
+    "path": "08_octavo_basico/capitulos/12_japon_tokugawa.md",
+    "keywords": [
+      "japon",
+      "tokugawa"
+    ]
+  },
+  {
+    "id": "hu_8b_13_expansion_europea_y_conquista_de_america",
+    "course_id": "8b",
+    "course": "8° básico",
+    "title": "Expansión europea y conquista de América",
+    "alignment": "curricular_directa",
+    "sensitive": false,
+    "period": "Edad Moderna",
+    "path": "08_octavo_basico/capitulos/13_expansion_europea_y_conquista_de_america.md",
+    "keywords": [
+      "expansion",
+      "europea",
+      "conquista",
+      "america"
+    ]
+  },
+  {
+    "id": "hu_8b_14_epidemias_y_colapso_demografico_americano",
+    "course_id": "8b",
+    "course": "8° básico",
+    "title": "Epidemias y colapso demográfico americano",
+    "alignment": "curricular_directa",
+    "sensitive": false,
+    "period": "Historia mundial y conexiones globales",
+    "path": "08_octavo_basico/capitulos/14_epidemias_y_colapso_demografico_americano.md",
+    "keywords": [
+      "epidemias",
+      "colapso",
+      "demografico",
+      "americano"
+    ]
+  },
+  {
+    "id": "hu_8b_15_debates_sobre_la_humanidad_de_los_pueblos_conquistados",
+    "course_id": "8b",
+    "course": "8° básico",
+    "title": "Debates sobre la humanidad de los pueblos conquistados",
+    "alignment": "curricular_directa",
+    "sensitive": false,
+    "period": "Edad Moderna",
+    "path": "08_octavo_basico/capitulos/15_debates_sobre_la_humanidad_de_los_pueblos_conquistados.md",
+    "keywords": [
+      "debates",
+      "sobre",
+      "humanidad",
+      "pueblos",
+      "conquistados"
+    ]
+  },
+  {
+    "id": "hu_8b_16_ciudad_colonial_y_organizacion_del_territorio",
+    "course_id": "8b",
+    "course": "8° básico",
+    "title": "Ciudad colonial y organización del territorio",
+    "alignment": "curricular_directa",
+    "sensitive": false,
+    "period": "Edad Moderna",
+    "path": "08_octavo_basico/capitulos/16_ciudad_colonial_y_organizacion_del_territorio.md",
+    "keywords": [
+      "ciudad",
+      "colonial",
+      "organizacion",
+      "territorio"
+    ]
+  },
+  {
+    "id": "hu_8b_17_barroco_evangelizacion_y_cultura_colonial",
+    "course_id": "8b",
+    "course": "8° básico",
+    "title": "Barroco, evangelización y cultura colonial",
+    "alignment": "curricular_directa",
+    "sensitive": false,
+    "period": "Edad Moderna",
+    "path": "08_octavo_basico/capitulos/17_barroco_evangelizacion_y_cultura_colonial.md",
+    "keywords": [
+      "barroco",
+      "evangelizacion",
+      "cultura",
+      "colonial"
+    ]
+  },
+  {
+    "id": "hu_8b_18_trata_atlantica_y_sociedades_esclavistas",
+    "course_id": "8b",
+    "course": "8° básico",
+    "title": "Trata atlántica y sociedades esclavistas",
+    "alignment": "curricular_directa",
+    "sensitive": false,
+    "period": "Edad Moderna",
+    "path": "08_octavo_basico/capitulos/18_trata_atlantica_y_sociedades_esclavistas.md",
+    "keywords": [
+      "trata",
+      "atlantica",
+      "sociedades",
+      "esclavistas"
+    ]
+  },
+  {
+    "id": "hu_8b_19_castas_mestizaje_y_jerarquias_coloniales",
+    "course_id": "8b",
+    "course": "8° básico",
+    "title": "Castas, mestizaje y jerarquías coloniales",
+    "alignment": "curricular_directa",
+    "sensitive": false,
+    "period": "Edad Moderna",
+    "path": "08_octavo_basico/capitulos/19_castas_mestizaje_y_jerarquias_coloniales.md",
+    "keywords": [
+      "castas",
+      "mestizaje",
+      "jerarquias",
+      "coloniales"
+    ]
+  },
+  {
+    "id": "hu_8b_20_resistencias_indigenas_y_afrodescendientes",
+    "course_id": "8b",
+    "course": "8° básico",
+    "title": "Resistencias indígenas y afrodescendientes",
+    "alignment": "curricular_directa",
+    "sensitive": false,
+    "period": "Historia mundial y conexiones globales",
+    "path": "08_octavo_basico/capitulos/20_resistencias_indigenas_y_afrodescendientes.md",
+    "keywords": [
+      "resistencias",
+      "indigenas",
+      "afrodescendientes"
+    ]
+  },
+  {
+    "id": "hu_8b_21_ilustracion_y_esfera_publica",
+    "course_id": "8b",
+    "course": "8° básico",
+    "title": "Ilustración y esfera pública",
+    "alignment": "curricular_directa",
+    "sensitive": false,
+    "period": "Siglos XVII y XVIII",
+    "path": "08_octavo_basico/capitulos/21_ilustracion_y_esfera_publica.md",
+    "keywords": [
+      "ilustracion",
+      "esfera",
+      "publica"
+    ]
+  },
+  {
+    "id": "hu_8b_22_revolucion_de_las_trece_colonias",
+    "course_id": "8b",
+    "course": "8° básico",
+    "title": "Revolución de las Trece Colonias",
+    "alignment": "curricular_directa",
+    "sensitive": false,
+    "period": "Siglos XVII y XVIII",
+    "path": "08_octavo_basico/capitulos/22_revolucion_de_las_trece_colonias.md",
+    "keywords": [
+      "revolucion",
+      "trece",
+      "colonias"
+    ]
+  },
+  {
+    "id": "hu_8b_23_revolucion_francesa",
+    "course_id": "8b",
+    "course": "8° básico",
+    "title": "Revolución francesa",
+    "alignment": "curricular_directa",
+    "sensitive": false,
+    "period": "Siglos XVII y XVIII",
+    "path": "08_octavo_basico/capitulos/23_revolucion_francesa.md",
+    "keywords": [
+      "revolucion",
+      "francesa"
+    ]
+  },
+  {
+    "id": "hu_8b_24_revolucion_haitiana",
+    "course_id": "8b",
+    "course": "8° básico",
+    "title": "Revolución haitiana",
+    "alignment": "curricular_directa",
+    "sensitive": false,
+    "period": "Siglos XVII y XVIII",
+    "path": "08_octavo_basico/capitulos/24_revolucion_haitiana.md",
+    "keywords": [
+      "revolucion",
+      "haitiana"
+    ]
+  },
+  {
+    "id": "hu_8b_25_independencias_latinoamericanas",
+    "course_id": "8b",
+    "course": "8° básico",
+    "title": "Independencias latinoamericanas",
+    "alignment": "curricular_directa",
+    "sensitive": false,
+    "period": "Historia mundial y conexiones globales",
+    "path": "08_octavo_basico/capitulos/25_independencias_latinoamericanas.md",
+    "keywords": [
+      "independencias",
+      "latinoamericanas"
+    ]
+  },
+  {
+    "id": "hu_8b_26_derechos_naturales_ciudadania_y_soberania_popular",
+    "course_id": "8b",
+    "course": "8° básico",
+    "title": "Derechos naturales, ciudadanía y soberanía popular",
+    "alignment": "curricular_directa",
+    "sensitive": false,
+    "period": "Historia mundial y conexiones globales",
+    "path": "08_octavo_basico/capitulos/26_derechos_naturales_ciudadania_y_soberania_popular.md",
+    "keywords": [
+      "derechos",
+      "naturales",
+      "ciudadania",
+      "soberania",
+      "popular"
+    ]
+  },
+  {
+    "id": "hu_8b_27_mujeres_y_limites_de_la_ciudadania_revolucionaria",
+    "course_id": "8b",
+    "course": "8° básico",
+    "title": "Mujeres y límites de la ciudadanía revolucionaria",
+    "alignment": "curricular_directa",
+    "sensitive": false,
+    "period": "Historia mundial y conexiones globales",
+    "path": "08_octavo_basico/capitulos/27_mujeres_y_limites_de_la_ciudadania_revolucionaria.md",
+    "keywords": [
+      "mujeres",
+      "limites",
+      "ciudadania",
+      "revolucionaria"
+    ]
+  },
+  {
+    "id": "hu_8b_28_origenes_del_capitalismo_moderno",
+    "course_id": "8b",
+    "course": "8° básico",
+    "title": "Orígenes del capitalismo moderno",
+    "alignment": "curricular_directa",
+    "sensitive": false,
+    "period": "Historia mundial y conexiones globales",
+    "path": "08_octavo_basico/capitulos/28_origenes_del_capitalismo_moderno.md",
+    "keywords": [
+      "origenes",
+      "capitalismo",
+      "moderno"
+    ]
+  },
+  {
+    "id": "hu_8b_29_comparar_sociedad_medieval_y_sociedad_moderna",
+    "course_id": "8b",
+    "course": "8° básico",
+    "title": "Comparar sociedad medieval y sociedad moderna",
+    "alignment": "curricular_directa",
+    "sensitive": false,
+    "period": "Edad Media",
+    "path": "08_octavo_basico/capitulos/29_comparar_sociedad_medieval_y_sociedad_moderna.md",
+    "keywords": [
+      "comparar",
+      "sociedad",
+      "medieval",
+      "sociedad",
+      "moderna"
+    ]
+  },
+  {
+    "id": "hu_8b_30_conexiones_globales_entre_los_siglos_xv_y_xviii",
+    "course_id": "8b",
+    "course": "8° básico",
+    "title": "Conexiones globales entre los siglos XV y XVIII",
+    "alignment": "curricular_directa",
+    "sensitive": false,
+    "period": "Historia mundial y conexiones globales",
+    "path": "08_octavo_basico/capitulos/30_conexiones_globales_entre_los_siglos_xv_y_xviii.md",
+    "keywords": [
+      "conexiones",
+      "globales",
+      "entre",
+      "siglos",
+      "xv",
+      "xviii"
+    ]
+  },
+  {
+    "id": "hu_1m_01_ilustracion_liberalismo_y_republicanismo_en_el_siglo_xix",
+    "course_id": "1m",
+    "course": "1° medio",
+    "title": "Ilustración, liberalismo y republicanismo en el siglo XIX",
+    "alignment": "curricular_directa",
+    "sensitive": false,
+    "period": "Siglos XVII y XVIII",
+    "path": "09_primero_medio/capitulos/01_ilustracion_liberalismo_y_republicanismo_en_el_siglo_xix.md",
+    "keywords": [
+      "ilustracion",
+      "liberalismo",
+      "republicanismo",
+      "siglo",
+      "xix"
+    ]
+  },
+  {
+    "id": "hu_1m_02_abolicion_del_antiguo_regimen_y_expansion_de_la_ciudadania",
+    "course_id": "1m",
+    "course": "1° medio",
+    "title": "Abolición del Antiguo Régimen y expansión de la ciudadanía",
+    "alignment": "curricular_directa",
+    "sensitive": false,
+    "period": "Siglos XVII y XVIII",
+    "path": "09_primero_medio/capitulos/02_abolicion_del_antiguo_regimen_y_expansion_de_la_ciudadania.md",
+    "keywords": [
+      "abolicion",
+      "antiguo",
+      "regimen",
+      "expansion",
+      "ciudadania"
+    ]
+  },
+  {
+    "id": "hu_1m_03_cultura_burguesa_vida_privada_y_espacio_publico",
+    "course_id": "1m",
+    "course": "1° medio",
+    "title": "Cultura burguesa, vida privada y espacio público",
+    "alignment": "curricular_directa",
+    "sensitive": false,
+    "period": "Siglo XIX y comienzos del XX",
+    "path": "09_primero_medio/capitulos/03_cultura_burguesa_vida_privada_y_espacio_publico.md",
+    "keywords": [
+      "cultura",
+      "burguesa",
+      "vida",
+      "privada",
+      "espacio",
+      "publico"
+    ]
+  },
+  {
+    "id": "hu_1m_04_formacion_de_estados_nacionales",
+    "course_id": "1m",
+    "course": "1° medio",
+    "title": "Formación de Estados nacionales",
+    "alignment": "curricular_directa",
+    "sensitive": false,
+    "period": "Historia mundial y conexiones globales",
+    "path": "09_primero_medio/capitulos/04_formacion_de_estados_nacionales.md",
+    "keywords": [
+      "formacion",
+      "estados",
+      "nacionales"
+    ]
+  },
+  {
+    "id": "hu_1m_05_unificacion_de_italia",
+    "course_id": "1m",
+    "course": "1° medio",
+    "title": "Unificación de Italia",
+    "alignment": "curricular_directa",
+    "sensitive": false,
+    "period": "Siglo XIX y comienzos del XX",
+    "path": "09_primero_medio/capitulos/05_unificacion_de_italia.md",
+    "keywords": [
+      "unificacion",
+      "italia"
+    ]
+  },
+  {
+    "id": "hu_1m_06_unificacion_de_alemania",
+    "course_id": "1m",
+    "course": "1° medio",
+    "title": "Unificación de Alemania",
+    "alignment": "curricular_directa",
+    "sensitive": false,
+    "period": "Siglo XIX y comienzos del XX",
+    "path": "09_primero_medio/capitulos/06_unificacion_de_alemania.md",
+    "keywords": [
+      "unificacion",
+      "alemania"
+    ]
+  },
+  {
+    "id": "hu_1m_07_nacionalismo_romanticismo_e_identidades_colectivas",
+    "course_id": "1m",
+    "course": "1° medio",
+    "title": "Nacionalismo, romanticismo e identidades colectivas",
+    "alignment": "curricular_directa",
+    "sensitive": false,
+    "period": "Siglo XIX y comienzos del XX",
+    "path": "09_primero_medio/capitulos/07_nacionalismo_romanticismo_e_identidades_colectivas.md",
+    "keywords": [
+      "nacionalismo",
+      "romanticismo",
+      "identidades",
+      "colectivas"
+    ]
+  },
+  {
+    "id": "hu_1m_08_idea_de_progreso_y_positivismo",
+    "course_id": "1m",
+    "course": "1° medio",
+    "title": "Idea de progreso y positivismo",
+    "alignment": "curricular_directa",
+    "sensitive": false,
+    "period": "Siglo XIX y comienzos del XX",
+    "path": "09_primero_medio/capitulos/08_idea_de_progreso_y_positivismo.md",
+    "keywords": [
+      "idea",
+      "progreso",
+      "positivismo"
+    ]
+  },
+  {
+    "id": "hu_1m_09_primera_y_segunda_revolucion_industrial",
+    "course_id": "1m",
+    "course": "1° medio",
+    "title": "Primera y Segunda Revolución Industrial",
+    "alignment": "curricular_directa",
+    "sensitive": false,
+    "period": "Siglo XIX y comienzos del XX",
+    "path": "09_primero_medio/capitulos/09_primera_y_segunda_revolucion_industrial.md",
+    "keywords": [
+      "primera",
+      "segunda",
+      "revolucion",
+      "industrial"
+    ]
+  },
+  {
+    "id": "hu_1m_10_fabrica_mecanizacion_y_nuevas_fuentes_de_energia",
+    "course_id": "1m",
+    "course": "1° medio",
+    "title": "Fábrica, mecanización y nuevas fuentes de energía",
+    "alignment": "curricular_directa",
+    "sensitive": false,
+    "period": "Historia mundial y conexiones globales",
+    "path": "09_primero_medio/capitulos/10_fabrica_mecanizacion_y_nuevas_fuentes_de_energia.md",
+    "keywords": [
+      "fabrica",
+      "mecanizacion",
+      "nuevas",
+      "fuentes",
+      "energia"
+    ]
+  },
+  {
+    "id": "hu_1m_11_urbanizacion_y_transformacion_de_las_ciudades",
+    "course_id": "1m",
+    "course": "1° medio",
+    "title": "Urbanización y transformación de las ciudades",
+    "alignment": "curricular_directa",
+    "sensitive": false,
+    "period": "Historia mundial y conexiones globales",
+    "path": "09_primero_medio/capitulos/11_urbanizacion_y_transformacion_de_las_ciudades.md",
+    "keywords": [
+      "urbanizacion",
+      "transformacion",
+      "ciudades"
+    ]
+  },
+  {
+    "id": "hu_1m_12_burguesia_proletariado_y_clases_medias",
+    "course_id": "1m",
+    "course": "1° medio",
+    "title": "Burguesía, proletariado y clases medias",
+    "alignment": "curricular_directa",
+    "sensitive": false,
+    "period": "Siglo XIX y comienzos del XX",
+    "path": "09_primero_medio/capitulos/12_burguesia_proletariado_y_clases_medias.md",
+    "keywords": [
+      "burguesia",
+      "proletariado",
+      "clases",
+      "medias"
+    ]
+  },
+  {
+    "id": "hu_1m_13_capitalismo_industrial_y_mercado_mundial",
+    "course_id": "1m",
+    "course": "1° medio",
+    "title": "Capitalismo industrial y mercado mundial",
+    "alignment": "curricular_directa",
+    "sensitive": false,
+    "period": "Siglo XIX y comienzos del XX",
+    "path": "09_primero_medio/capitulos/13_capitalismo_industrial_y_mercado_mundial.md",
+    "keywords": [
+      "capitalismo",
+      "industrial",
+      "mercado",
+      "mundial"
+    ]
+  },
+  {
+    "id": "hu_1m_14_socialismo_marxismo_y_anarquismo",
+    "course_id": "1m",
+    "course": "1° medio",
+    "title": "Socialismo, marxismo y anarquismo",
+    "alignment": "curricular_directa",
+    "sensitive": false,
+    "period": "Siglo XIX y comienzos del XX",
+    "path": "09_primero_medio/capitulos/14_socialismo_marxismo_y_anarquismo.md",
+    "keywords": [
+      "socialismo",
+      "marxismo",
+      "anarquismo"
+    ]
+  },
+  {
+    "id": "hu_1m_15_sindicatos_huelgas_y_legislacion_social",
+    "course_id": "1m",
+    "course": "1° medio",
+    "title": "Sindicatos, huelgas y legislación social",
+    "alignment": "curricular_directa",
+    "sensitive": false,
+    "period": "Historia mundial y conexiones globales",
+    "path": "09_primero_medio/capitulos/15_sindicatos_huelgas_y_legislacion_social.md",
+    "keywords": [
+      "sindicatos",
+      "huelgas",
+      "legislacion",
+      "social"
+    ]
+  },
+  {
+    "id": "hu_1m_16_trabajo_infantil_y_vida_obrera",
+    "course_id": "1m",
+    "course": "1° medio",
+    "title": "Trabajo infantil y vida obrera",
+    "alignment": "curricular_directa",
+    "sensitive": false,
+    "period": "Historia mundial y conexiones globales",
+    "path": "09_primero_medio/capitulos/16_trabajo_infantil_y_vida_obrera.md",
+    "keywords": [
+      "trabajo",
+      "infantil",
+      "vida",
+      "obrera"
+    ]
+  },
+  {
+    "id": "hu_1m_17_movimientos_de_mujeres_y_sufragismo",
+    "course_id": "1m",
+    "course": "1° medio",
+    "title": "Movimientos de mujeres y sufragismo",
+    "alignment": "curricular_directa",
+    "sensitive": false,
+    "period": "Siglo XIX y comienzos del XX",
+    "path": "09_primero_medio/capitulos/17_movimientos_de_mujeres_y_sufragismo.md",
+    "keywords": [
+      "movimientos",
+      "mujeres",
+      "sufragismo"
+    ]
+  },
+  {
+    "id": "hu_1m_18_migraciones_masivas_del_siglo_xix",
+    "course_id": "1m",
+    "course": "1° medio",
+    "title": "Migraciones masivas del siglo XIX",
+    "alignment": "curricular_directa",
+    "sensitive": false,
+    "period": "Historia mundial y conexiones globales",
+    "path": "09_primero_medio/capitulos/18_migraciones_masivas_del_siglo_xix.md",
+    "keywords": [
+      "migraciones",
+      "masivas",
+      "siglo",
+      "xix"
+    ]
+  },
+  {
+    "id": "hu_1m_19_imperialismo_europeo_en_africa_y_asia",
+    "course_id": "1m",
+    "course": "1° medio",
+    "title": "Imperialismo europeo en África y Asia",
+    "alignment": "curricular_directa",
+    "sensitive": false,
+    "period": "Siglo XIX y comienzos del XX",
+    "path": "09_primero_medio/capitulos/19_imperialismo_europeo_en_africa_y_asia.md",
+    "keywords": [
+      "imperialismo",
+      "europeo",
+      "africa",
+      "asia"
+    ]
+  },
+  {
+    "id": "hu_1m_20_reparto_de_africa_y_conferencia_de_berlin",
+    "course_id": "1m",
+    "course": "1° medio",
+    "title": "Reparto de África y Conferencia de Berlín",
+    "alignment": "curricular_directa",
+    "sensitive": false,
+    "period": "Historia mundial y conexiones globales",
+    "path": "09_primero_medio/capitulos/20_reparto_de_africa_y_conferencia_de_berlin.md",
+    "keywords": [
+      "reparto",
+      "africa",
+      "conferencia",
+      "berlin"
+    ]
+  },
+  {
+    "id": "hu_1m_21_imperialismo_britanico_en_india",
+    "course_id": "1m",
+    "course": "1° medio",
+    "title": "Imperialismo británico en India",
+    "alignment": "curricular_directa",
+    "sensitive": false,
+    "period": "Siglo XIX y comienzos del XX",
+    "path": "09_primero_medio/capitulos/21_imperialismo_britanico_en_india.md",
+    "keywords": [
+      "imperialismo",
+      "britanico",
+      "india"
+    ]
+  },
+  {
+    "id": "hu_1m_22_china_frente_al_imperialismo_y_guerras_del_opio",
+    "course_id": "1m",
+    "course": "1° medio",
+    "title": "China frente al imperialismo y guerras del opio",
+    "alignment": "curricular_directa",
+    "sensitive": false,
+    "period": "Siglo XIX y comienzos del XX",
+    "path": "09_primero_medio/capitulos/22_china_frente_al_imperialismo_y_guerras_del_opio.md",
+    "keywords": [
+      "china",
+      "frente",
+      "al",
+      "imperialismo",
+      "guerras",
+      "opio"
+    ]
+  },
+  {
+    "id": "hu_1m_23_japon_meiji_y_modernizacion",
+    "course_id": "1m",
+    "course": "1° medio",
+    "title": "Japón Meiji y modernización",
+    "alignment": "curricular_directa",
+    "sensitive": false,
+    "period": "Historia mundial y conexiones globales",
+    "path": "09_primero_medio/capitulos/23_japon_meiji_y_modernizacion.md",
+    "keywords": [
+      "japon",
+      "meiji",
+      "modernizacion"
+    ]
+  },
+  {
+    "id": "hu_1m_24_resistencias_anticoloniales",
+    "course_id": "1m",
+    "course": "1° medio",
+    "title": "Resistencias anticoloniales",
+    "alignment": "curricular_directa",
+    "sensitive": false,
+    "period": "Edad Moderna",
+    "path": "09_primero_medio/capitulos/24_resistencias_anticoloniales.md",
+    "keywords": [
+      "resistencias",
+      "anticoloniales"
+    ]
+  },
+  {
+    "id": "hu_1m_25_racismo_cientifico_y_darwinismo_social",
+    "course_id": "1m",
+    "course": "1° medio",
+    "title": "Racismo científico y darwinismo social",
+    "alignment": "curricular_directa",
+    "sensitive": false,
+    "period": "Historia mundial y conexiones globales",
+    "path": "09_primero_medio/capitulos/25_racismo_cientifico_y_darwinismo_social.md",
+    "keywords": [
+      "racismo",
+      "cientifico",
+      "darwinismo",
+      "social"
+    ]
+  },
+  {
+    "id": "hu_1m_26_belle_epoque_y_cultura_de_masas_inicial",
+    "course_id": "1m",
+    "course": "1° medio",
+    "title": "Belle Époque y cultura de masas inicial",
+    "alignment": "curricular_directa",
+    "sensitive": false,
+    "period": "Historia mundial y conexiones globales",
+    "path": "09_primero_medio/capitulos/26_belle_epoque_y_cultura_de_masas_inicial.md",
+    "keywords": [
+      "belle",
+      "epoque",
+      "cultura",
+      "masas",
+      "inicial"
+    ]
+  },
+  {
+    "id": "hu_1m_27_causas_de_la_primera_guerra_mundial",
+    "course_id": "1m",
+    "course": "1° medio",
+    "title": "Causas de la Primera Guerra Mundial",
+    "alignment": "curricular_directa",
+    "sensitive": false,
+    "period": "Siglo XIX y comienzos del XX",
+    "path": "09_primero_medio/capitulos/27_causas_de_la_primera_guerra_mundial.md",
+    "keywords": [
+      "causas",
+      "primera",
+      "guerra",
+      "mundial"
+    ]
+  },
+  {
+    "id": "hu_1m_28_la_guerra_de_trincheras_y_la_experiencia_de_los_combatientes",
+    "course_id": "1m",
+    "course": "1° medio",
+    "title": "La guerra de trincheras y la experiencia de los combatientes",
+    "alignment": "curricular_directa",
+    "sensitive": true,
+    "period": "Historia mundial y conexiones globales",
+    "path": "09_primero_medio/capitulos/28_la_guerra_de_trincheras_y_la_experiencia_de_los_combatientes.md",
+    "keywords": [
+      "guerra",
+      "trincheras",
+      "experiencia",
+      "combatientes"
+    ]
+  },
+  {
+    "id": "hu_1m_29_guerra_total_poblacion_civil_y_genocidio_armenio",
+    "course_id": "1m",
+    "course": "1° medio",
+    "title": "Guerra total, población civil y genocidio armenio",
+    "alignment": "curricular_directa",
+    "sensitive": true,
+    "period": "Historia mundial y conexiones globales",
+    "path": "09_primero_medio/capitulos/29_guerra_total_poblacion_civil_y_genocidio_armenio.md",
+    "keywords": [
+      "guerra",
+      "total",
+      "poblacion",
+      "civil",
+      "genocidio",
+      "armenio"
+    ]
+  },
+  {
+    "id": "hu_1m_30_revolucion_rusa_de_1917",
+    "course_id": "1m",
+    "course": "1° medio",
+    "title": "Revolución rusa de 1917",
+    "alignment": "curricular_directa",
+    "sensitive": false,
+    "period": "Historia mundial y conexiones globales",
+    "path": "09_primero_medio/capitulos/30_revolucion_rusa_de_1917.md",
+    "keywords": [
+      "revolucion",
+      "rusa",
+      "1917"
+    ]
+  },
+  {
+    "id": "hu_1m_31_tratado_de_versalles_y_consecuencias_de_la_guerra",
+    "course_id": "1m",
+    "course": "1° medio",
+    "title": "Tratado de Versalles y consecuencias de la guerra",
+    "alignment": "curricular_directa",
+    "sensitive": false,
+    "period": "Historia mundial y conexiones globales",
+    "path": "09_primero_medio/capitulos/31_tratado_de_versalles_y_consecuencias_de_la_guerra.md",
+    "keywords": [
+      "tratado",
+      "versalles",
+      "consecuencias",
+      "guerra"
+    ]
+  },
+  {
+    "id": "hu_2m_01_sociedad_de_masas_y_nuevas_formas_de_comunicacion",
+    "course_id": "2m",
+    "course": "2° medio",
+    "title": "Sociedad de masas y nuevas formas de comunicación",
+    "alignment": "curricular_directa",
+    "sensitive": false,
+    "period": "Historia mundial y conexiones globales",
+    "path": "10_segundo_medio/capitulos/01_sociedad_de_masas_y_nuevas_formas_de_comunicacion.md",
+    "keywords": [
+      "sociedad",
+      "masas",
+      "nuevas",
+      "formas",
+      "comunicacion"
+    ]
+  },
+  {
+    "id": "hu_2m_02_los_anos_veinte_y_transformaciones_culturales",
+    "course_id": "2m",
+    "course": "2° medio",
+    "title": "Los años veinte y transformaciones culturales",
+    "alignment": "curricular_directa",
+    "sensitive": false,
+    "period": "Historia mundial y conexiones globales",
+    "path": "10_segundo_medio/capitulos/02_los_anos_veinte_y_transformaciones_culturales.md",
+    "keywords": [
+      "anos",
+      "veinte",
+      "transformaciones",
+      "culturales"
+    ]
+  },
+  {
+    "id": "hu_2m_03_la_union_sovietica_y_el_estalinismo",
+    "course_id": "2m",
+    "course": "2° medio",
+    "title": "La Unión Soviética y el estalinismo",
+    "alignment": "curricular_directa",
+    "sensitive": false,
+    "period": "Siglo XX",
+    "path": "10_segundo_medio/capitulos/03_la_union_sovietica_y_el_estalinismo.md",
+    "keywords": [
+      "union",
+      "sovietica",
+      "estalinismo"
+    ]
+  },
+  {
+    "id": "hu_2m_04_fascismo_italiano",
+    "course_id": "2m",
+    "course": "2° medio",
+    "title": "Fascismo italiano",
+    "alignment": "curricular_directa",
+    "sensitive": false,
+    "period": "Siglo XX",
+    "path": "10_segundo_medio/capitulos/04_fascismo_italiano.md",
+    "keywords": [
+      "fascismo",
+      "italiano"
+    ]
+  },
+  {
+    "id": "hu_2m_05_nazismo_aleman",
+    "course_id": "2m",
+    "course": "2° medio",
+    "title": "Nazismo alemán",
+    "alignment": "curricular_directa",
+    "sensitive": false,
+    "period": "Siglo XX",
+    "path": "10_segundo_medio/capitulos/05_nazismo_aleman.md",
+    "keywords": [
+      "nazismo",
+      "aleman"
+    ]
+  },
+  {
+    "id": "hu_2m_06_la_gran_depresion_de_1929",
+    "course_id": "2m",
+    "course": "2° medio",
+    "title": "La Gran Depresión de 1929",
+    "alignment": "curricular_directa",
+    "sensitive": false,
+    "period": "Siglo XX",
+    "path": "10_segundo_medio/capitulos/06_la_gran_depresion_de_1929.md",
+    "keywords": [
+      "gran",
+      "depresion",
+      "1929"
+    ]
+  },
+  {
+    "id": "hu_2m_07_new_deal_y_respuestas_a_la_crisis",
+    "course_id": "2m",
+    "course": "2° medio",
+    "title": "New Deal y respuestas a la crisis",
+    "alignment": "curricular_directa",
+    "sensitive": false,
+    "period": "Historia mundial y conexiones globales",
+    "path": "10_segundo_medio/capitulos/07_new_deal_y_respuestas_a_la_crisis.md",
+    "keywords": [
+      "new",
+      "deal",
+      "respuestas",
+      "crisis"
+    ]
+  },
+  {
+    "id": "hu_2m_08_debilitamiento_de_las_democracias_liberales",
+    "course_id": "2m",
+    "course": "2° medio",
+    "title": "Debilitamiento de las democracias liberales",
+    "alignment": "curricular_directa",
+    "sensitive": false,
+    "period": "Historia mundial y conexiones globales",
+    "path": "10_segundo_medio/capitulos/08_debilitamiento_de_las_democracias_liberales.md",
+    "keywords": [
+      "debilitamiento",
+      "democracias",
+      "liberales"
+    ]
+  },
+  {
+    "id": "hu_2m_09_causas_de_la_segunda_guerra_mundial",
+    "course_id": "2m",
+    "course": "2° medio",
+    "title": "Causas de la Segunda Guerra Mundial",
+    "alignment": "curricular_directa",
+    "sensitive": false,
+    "period": "Siglo XX",
+    "path": "10_segundo_medio/capitulos/09_causas_de_la_segunda_guerra_mundial.md",
+    "keywords": [
+      "causas",
+      "segunda",
+      "guerra",
+      "mundial"
+    ]
+  },
+  {
+    "id": "hu_2m_10_expansion_del_eje_y_frentes_de_guerra",
+    "course_id": "2m",
+    "course": "2° medio",
+    "title": "Expansión del Eje y frentes de guerra",
+    "alignment": "curricular_directa",
+    "sensitive": false,
+    "period": "Historia mundial y conexiones globales",
+    "path": "10_segundo_medio/capitulos/10_expansion_del_eje_y_frentes_de_guerra.md",
+    "keywords": [
+      "expansion",
+      "eje",
+      "frentes",
+      "guerra"
+    ]
+  },
+  {
+    "id": "hu_2m_11_la_guerra_en_asia_y_el_pacifico",
+    "course_id": "2m",
+    "course": "2° medio",
+    "title": "La guerra en Asia y el Pacífico",
+    "alignment": "curricular_directa",
+    "sensitive": false,
+    "period": "Historia mundial y conexiones globales",
+    "path": "10_segundo_medio/capitulos/11_la_guerra_en_asia_y_el_pacifico.md",
+    "keywords": [
+      "guerra",
+      "asia",
+      "pacifico"
+    ]
+  },
+  {
+    "id": "hu_2m_12_ocupacion_resistencia_y_violencia_contra_civiles",
+    "course_id": "2m",
+    "course": "2° medio",
+    "title": "Ocupación, resistencia y violencia contra civiles",
+    "alignment": "curricular_directa",
+    "sensitive": true,
+    "period": "Historia mundial y conexiones globales",
+    "path": "10_segundo_medio/capitulos/12_ocupacion_resistencia_y_violencia_contra_civiles.md",
+    "keywords": [
+      "ocupacion",
+      "resistencia",
+      "violencia",
+      "contra",
+      "civiles"
+    ]
+  },
+  {
+    "id": "hu_2m_13_holocausto_y_genocidio_de_los_judios_europeos",
+    "course_id": "2m",
+    "course": "2° medio",
+    "title": "Holocausto y genocidio de los judíos europeos",
+    "alignment": "curricular_directa",
+    "sensitive": true,
+    "period": "Siglo XX",
+    "path": "10_segundo_medio/capitulos/13_holocausto_y_genocidio_de_los_judios_europeos.md",
+    "keywords": [
+      "holocausto",
+      "genocidio",
+      "judios",
+      "europeos"
+    ]
+  },
+  {
+    "id": "hu_2m_14_persecucion_de_gitanos_personas_con_discapacidad_y_otros_grupos",
+    "course_id": "2m",
+    "course": "2° medio",
+    "title": "Persecución de gitanos, personas con discapacidad y otros grupos",
+    "alignment": "curricular_directa",
+    "sensitive": true,
+    "period": "Historia mundial y conexiones globales",
+    "path": "10_segundo_medio/capitulos/14_persecucion_de_gitanos_personas_con_discapacidad_y_otros_grupos.md",
+    "keywords": [
+      "persecucion",
+      "gitanos",
+      "personas",
+      "con",
+      "discapacidad",
+      "otros",
+      "grupos"
+    ]
+  },
+  {
+    "id": "hu_2m_15_bombardeos_estrategicos_y_ciudades_en_guerra",
+    "course_id": "2m",
+    "course": "2° medio",
+    "title": "Bombardeos estratégicos y ciudades en guerra",
+    "alignment": "curricular_directa",
+    "sensitive": true,
+    "period": "Historia mundial y conexiones globales",
+    "path": "10_segundo_medio/capitulos/15_bombardeos_estrategicos_y_ciudades_en_guerra.md",
+    "keywords": [
+      "bombardeos",
+      "estrategicos",
+      "ciudades",
+      "guerra"
+    ]
+  },
+  {
+    "id": "hu_2m_16_bombas_atomicas_sobre_hiroshima_y_nagasaki",
+    "course_id": "2m",
+    "course": "2° medio",
+    "title": "Bombas atómicas sobre Hiroshima y Nagasaki",
+    "alignment": "curricular_directa",
+    "sensitive": true,
+    "period": "Historia mundial y conexiones globales",
+    "path": "10_segundo_medio/capitulos/16_bombas_atomicas_sobre_hiroshima_y_nagasaki.md",
+    "keywords": [
+      "bombas",
+      "atomicas",
+      "sobre",
+      "hiroshima",
+      "nagasaki"
+    ]
+  },
+  {
+    "id": "hu_2m_17_consecuencias_humanas_politicas_y_economicas_de_la_guerra",
+    "course_id": "2m",
+    "course": "2° medio",
+    "title": "Consecuencias humanas, políticas y económicas de la guerra",
+    "alignment": "curricular_directa",
+    "sensitive": false,
+    "period": "Historia mundial y conexiones globales",
+    "path": "10_segundo_medio/capitulos/17_consecuencias_humanas_politicas_y_economicas_de_la_guerra.md",
+    "keywords": [
+      "consecuencias",
+      "humanas",
+      "politicas",
+      "economicas",
+      "guerra"
+    ]
+  },
+  {
+    "id": "hu_2m_18_creacion_de_la_onu",
+    "course_id": "2m",
+    "course": "2° medio",
+    "title": "Creación de la ONU",
+    "alignment": "curricular_directa",
+    "sensitive": false,
+    "period": "Siglo XX",
+    "path": "10_segundo_medio/capitulos/18_creacion_de_la_onu.md",
+    "keywords": [
+      "creacion",
+      "onu"
+    ]
+  },
+  {
+    "id": "hu_2m_19_declaracion_universal_de_derechos_humanos",
+    "course_id": "2m",
+    "course": "2° medio",
+    "title": "Declaración Universal de Derechos Humanos",
+    "alignment": "curricular_directa",
+    "sensitive": false,
+    "period": "Historia mundial y conexiones globales",
+    "path": "10_segundo_medio/capitulos/19_declaracion_universal_de_derechos_humanos.md",
+    "keywords": [
+      "declaracion",
+      "universal",
+      "derechos",
+      "humanos"
+    ]
+  },
+  {
+    "id": "hu_2m_20_descolonizacion_de_india_y_particion",
+    "course_id": "2m",
+    "course": "2° medio",
+    "title": "Descolonización de India y partición",
+    "alignment": "curricular_directa",
+    "sensitive": false,
+    "period": "Siglo XX",
+    "path": "10_segundo_medio/capitulos/20_descolonizacion_de_india_y_particion.md",
+    "keywords": [
+      "descolonizacion",
+      "india",
+      "particion"
+    ]
+  },
+  {
+    "id": "hu_2m_21_independencias_y_descolonizacion_en_africa",
+    "course_id": "2m",
+    "course": "2° medio",
+    "title": "Independencias y descolonización en África",
+    "alignment": "curricular_directa",
+    "sensitive": false,
+    "period": "Siglo XX",
+    "path": "10_segundo_medio/capitulos/21_independencias_y_descolonizacion_en_africa.md",
+    "keywords": [
+      "independencias",
+      "descolonizacion",
+      "africa"
+    ]
+  },
+  {
+    "id": "hu_2m_22_origenes_de_la_guerra_fria",
+    "course_id": "2m",
+    "course": "2° medio",
+    "title": "Orígenes de la Guerra Fría",
+    "alignment": "curricular_directa",
+    "sensitive": false,
+    "period": "Siglo XX",
+    "path": "10_segundo_medio/capitulos/22_origenes_de_la_guerra_fria.md",
+    "keywords": [
+      "origenes",
+      "guerra",
+      "fria"
+    ]
+  },
+  {
+    "id": "hu_2m_23_bipolaridad_propaganda_y_carrera_nuclear",
+    "course_id": "2m",
+    "course": "2° medio",
+    "title": "Bipolaridad, propaganda y carrera nuclear",
+    "alignment": "curricular_directa",
+    "sensitive": false,
+    "period": "Historia mundial y conexiones globales",
+    "path": "10_segundo_medio/capitulos/23_bipolaridad_propaganda_y_carrera_nuclear.md",
+    "keywords": [
+      "bipolaridad",
+      "propaganda",
+      "carrera",
+      "nuclear"
+    ]
+  },
+  {
+    "id": "hu_2m_24_guerra_de_corea",
+    "course_id": "2m",
+    "course": "2° medio",
+    "title": "Guerra de Corea",
+    "alignment": "curricular_directa",
+    "sensitive": false,
+    "period": "Historia mundial y conexiones globales",
+    "path": "10_segundo_medio/capitulos/24_guerra_de_corea.md",
+    "keywords": [
+      "guerra",
+      "corea"
+    ]
+  },
+  {
+    "id": "hu_2m_25_guerra_de_vietnam",
+    "course_id": "2m",
+    "course": "2° medio",
+    "title": "Guerra de Vietnam",
+    "alignment": "curricular_directa",
+    "sensitive": false,
+    "period": "Historia mundial y conexiones globales",
+    "path": "10_segundo_medio/capitulos/25_guerra_de_vietnam.md",
+    "keywords": [
+      "guerra",
+      "vietnam"
+    ]
+  },
+  {
+    "id": "hu_2m_26_revolucion_cubana_y_crisis_de_los_misiles",
+    "course_id": "2m",
+    "course": "2° medio",
+    "title": "Revolución cubana y crisis de los misiles",
+    "alignment": "curricular_directa",
+    "sensitive": false,
+    "period": "Historia mundial y conexiones globales",
+    "path": "10_segundo_medio/capitulos/26_revolucion_cubana_y_crisis_de_los_misiles.md",
+    "keywords": [
+      "revolucion",
+      "cubana",
+      "crisis",
+      "misiles"
+    ]
+  },
+  {
+    "id": "hu_2m_27_movimiento_de_paises_no_alineados",
+    "course_id": "2m",
+    "course": "2° medio",
+    "title": "Movimiento de Países No Alineados",
+    "alignment": "curricular_directa",
+    "sensitive": false,
+    "period": "Historia mundial y conexiones globales",
+    "path": "10_segundo_medio/capitulos/27_movimiento_de_paises_no_alineados.md",
+    "keywords": [
+      "movimiento",
+      "paises",
+      "no",
+      "alineados"
+    ]
+  },
+  {
+    "id": "hu_2m_28_estado_de_bienestar_y_sociedad_de_consumo",
+    "course_id": "2m",
+    "course": "2° medio",
+    "title": "Estado de bienestar y sociedad de consumo",
+    "alignment": "curricular_directa",
+    "sensitive": false,
+    "period": "Historia mundial y conexiones globales",
+    "path": "10_segundo_medio/capitulos/28_estado_de_bienestar_y_sociedad_de_consumo.md",
+    "keywords": [
+      "estado",
+      "bienestar",
+      "sociedad",
+      "consumo"
+    ]
+  },
+  {
+    "id": "hu_2m_29_movimiento_por_los_derechos_civiles_en_estados_unidos",
+    "course_id": "2m",
+    "course": "2° medio",
+    "title": "Movimiento por los derechos civiles en Estados Unidos",
+    "alignment": "curricular_directa",
+    "sensitive": false,
+    "period": "Historia mundial y conexiones globales",
+    "path": "10_segundo_medio/capitulos/29_movimiento_por_los_derechos_civiles_en_estados_unidos.md",
+    "keywords": [
+      "movimiento",
+      "derechos",
+      "civiles",
+      "estados",
+      "unidos"
+    ]
+  },
+  {
+    "id": "hu_2m_30_segunda_ola_feminista",
+    "course_id": "2m",
+    "course": "2° medio",
+    "title": "Segunda ola feminista",
+    "alignment": "curricular_directa",
+    "sensitive": false,
+    "period": "Historia mundial y conexiones globales",
+    "path": "10_segundo_medio/capitulos/30_segunda_ola_feminista.md",
+    "keywords": [
+      "segunda",
+      "ola",
+      "feminista"
+    ]
+  },
+  {
+    "id": "hu_2m_31_movimientos_juveniles_y_protestas_de_1968",
+    "course_id": "2m",
+    "course": "2° medio",
+    "title": "Movimientos juveniles y protestas de 1968",
+    "alignment": "curricular_directa",
+    "sensitive": false,
+    "period": "Siglo XX",
+    "path": "10_segundo_medio/capitulos/31_movimientos_juveniles_y_protestas_de_1968.md",
+    "keywords": [
+      "movimientos",
+      "juveniles",
+      "protestas",
+      "1968"
+    ]
+  },
+  {
+    "id": "hu_2m_32_carrera_espacial_y_revolucion_cientifico_tecnologica",
+    "course_id": "2m",
+    "course": "2° medio",
+    "title": "Carrera espacial y revolución científico-tecnológica",
+    "alignment": "curricular_directa",
+    "sensitive": false,
+    "period": "Historia mundial y conexiones globales",
+    "path": "10_segundo_medio/capitulos/32_carrera_espacial_y_revolucion_cientifico_tecnologica.md",
+    "keywords": [
+      "carrera",
+      "espacial",
+      "revolucion",
+      "cientifico",
+      "tecnologica"
+    ]
+  },
+  {
+    "id": "hu_2m_33_dictaduras_de_seguridad_nacional_en_america_latina",
+    "course_id": "2m",
+    "course": "2° medio",
+    "title": "Dictaduras de seguridad nacional en América Latina",
+    "alignment": "curricular_directa",
+    "sensitive": false,
+    "period": "Historia mundial y conexiones globales",
+    "path": "10_segundo_medio/capitulos/33_dictaduras_de_seguridad_nacional_en_america_latina.md",
+    "keywords": [
+      "dictaduras",
+      "seguridad",
+      "nacional",
+      "america",
+      "latina"
+    ]
+  },
+  {
+    "id": "hu_2m_34_coordinacion_represiva_y_operacion_condor",
+    "course_id": "2m",
+    "course": "2° medio",
+    "title": "Coordinación represiva y Operación Cóndor",
+    "alignment": "curricular_directa",
+    "sensitive": true,
+    "period": "Historia mundial y conexiones globales",
+    "path": "10_segundo_medio/capitulos/34_coordinacion_represiva_y_operacion_condor.md",
+    "keywords": [
+      "coordinacion",
+      "represiva",
+      "operacion",
+      "condor"
+    ]
+  },
+  {
+    "id": "hu_2m_35_crisis_del_socialismo_real_y_fin_de_la_guerra_fria",
+    "course_id": "2m",
+    "course": "2° medio",
+    "title": "Crisis del socialismo real y fin de la Guerra Fría",
+    "alignment": "curricular_directa",
+    "sensitive": false,
+    "period": "Siglo XX",
+    "path": "10_segundo_medio/capitulos/35_crisis_del_socialismo_real_y_fin_de_la_guerra_fria.md",
+    "keywords": [
+      "crisis",
+      "socialismo",
+      "real",
+      "fin",
+      "guerra",
+      "fria"
+    ]
+  },
+  {
+    "id": "hu_2m_36_globalizacion_y_transformaciones_neoliberales",
+    "course_id": "2m",
+    "course": "2° medio",
+    "title": "Globalización y transformaciones neoliberales",
+    "alignment": "curricular_directa",
+    "sensitive": false,
+    "period": "Mundo contemporáneo y tiempo presente",
+    "path": "10_segundo_medio/capitulos/36_globalizacion_y_transformaciones_neoliberales.md",
+    "keywords": [
+      "globalizacion",
+      "transformaciones",
+      "neoliberales"
+    ]
+  },
+  {
+    "id": "hu_2m_37_integracion_europea_y_union_europea",
+    "course_id": "2m",
+    "course": "2° medio",
+    "title": "Integración europea y Unión Europea",
+    "alignment": "ampliacion_alineada",
+    "sensitive": false,
+    "period": "Historia mundial y conexiones globales",
+    "path": "10_segundo_medio/capitulos/37_integracion_europea_y_union_europea.md",
+    "keywords": [
+      "integracion",
+      "europea",
+      "union",
+      "europea"
+    ]
+  },
+  {
+    "id": "hu_2m_38_conflicto_arabe_israeli_y_cuestion_palestina",
+    "course_id": "2m",
+    "course": "2° medio",
+    "title": "Conflicto árabe-israelí y cuestión palestina",
+    "alignment": "ampliacion_alineada",
+    "sensitive": false,
+    "period": "Historia mundial y conexiones globales",
+    "path": "10_segundo_medio/capitulos/38_conflicto_arabe_israeli_y_cuestion_palestina.md",
+    "keywords": [
+      "conflicto",
+      "arabe",
+      "israeli",
+      "cuestion",
+      "palestina"
+    ]
+  },
+  {
+    "id": "hu_2m_39_genocidios_y_limpieza_etnica_despues_de_1945",
+    "course_id": "2m",
+    "course": "2° medio",
+    "title": "Genocidios y limpieza étnica después de 1945",
+    "alignment": "ampliacion_alineada",
+    "sensitive": true,
+    "period": "Historia mundial y conexiones globales",
+    "path": "10_segundo_medio/capitulos/39_genocidios_y_limpieza_etnica_despues_de_1945.md",
+    "keywords": [
+      "genocidios",
+      "limpieza",
+      "etnica",
+      "despues",
+      "1945"
+    ]
+  },
+  {
+    "id": "hu_2m_40_revolucion_digital_y_sociedad_de_la_informacion",
+    "course_id": "2m",
+    "course": "2° medio",
+    "title": "Revolución digital y sociedad de la información",
+    "alignment": "ampliacion_alineada",
+    "sensitive": false,
+    "period": "Mundo contemporáneo y tiempo presente",
+    "path": "10_segundo_medio/capitulos/40_revolucion_digital_y_sociedad_de_la_informacion.md",
+    "keywords": [
+      "revolucion",
+      "digital",
+      "sociedad",
+      "informacion"
+    ]
+  },
+  {
+    "id": "hu_2m_41_cambio_climatico_como_proceso_historico_global",
+    "course_id": "2m",
+    "course": "2° medio",
+    "title": "Cambio climático como proceso histórico global",
+    "alignment": "ampliacion_alineada",
+    "sensitive": false,
+    "period": "Mundo contemporáneo y tiempo presente",
+    "path": "10_segundo_medio/capitulos/41_cambio_climatico_como_proceso_historico_global.md",
+    "keywords": [
+      "cambio",
+      "climatico",
+      "proceso",
+      "historico",
+      "global"
+    ]
+  },
+  {
+    "id": "hu_3m_01_historia_del_tiempo_presente_y_problemas_globales",
+    "course_id": "3m",
+    "course": "3° medio",
+    "title": "Historia del tiempo presente y problemas globales",
+    "alignment": "formacion_general",
+    "sensitive": false,
+    "period": "Mundo contemporáneo y tiempo presente",
+    "path": "11_tercero_medio/capitulos/01_historia_del_tiempo_presente_y_problemas_globales.md",
+    "keywords": [
+      "historia",
+      "tiempo",
+      "presente",
+      "problemas",
+      "globales"
+    ]
+  },
+  {
+    "id": "hu_3m_02_democracia_y_ciudadania_en_perspectiva_comparada",
+    "course_id": "3m",
+    "course": "3° medio",
+    "title": "Democracia y ciudadanía en perspectiva comparada",
+    "alignment": "formacion_general",
+    "sensitive": false,
+    "period": "Historia mundial y conexiones globales",
+    "path": "11_tercero_medio/capitulos/02_democracia_y_ciudadania_en_perspectiva_comparada.md",
+    "keywords": [
+      "democracia",
+      "ciudadania",
+      "perspectiva",
+      "comparada"
+    ]
+  },
+  {
+    "id": "hu_3m_03_historia_de_los_derechos_humanos_y_sistemas_internacionales",
+    "course_id": "3m",
+    "course": "3° medio",
+    "title": "Historia de los derechos humanos y sistemas internacionales",
+    "alignment": "formacion_general",
+    "sensitive": false,
+    "period": "Historia mundial y conexiones globales",
+    "path": "11_tercero_medio/capitulos/03_historia_de_los_derechos_humanos_y_sistemas_internacionales.md",
+    "keywords": [
+      "historia",
+      "derechos",
+      "humanos",
+      "sistemas",
+      "internacionales"
+    ]
+  },
+  {
+    "id": "hu_3m_04_organizaciones_internacionales_y_gobernanza_global",
+    "course_id": "3m",
+    "course": "3° medio",
+    "title": "Organizaciones internacionales y gobernanza global",
+    "alignment": "formacion_general",
+    "sensitive": false,
+    "period": "Historia mundial y conexiones globales",
+    "path": "11_tercero_medio/capitulos/04_organizaciones_internacionales_y_gobernanza_global.md",
+    "keywords": [
+      "organizaciones",
+      "internacionales",
+      "gobernanza",
+      "global"
+    ]
+  },
+  {
+    "id": "hu_3m_05_movimientos_sociales_transnacionales",
+    "course_id": "3m",
+    "course": "3° medio",
+    "title": "Movimientos sociales transnacionales",
+    "alignment": "formacion_general",
+    "sensitive": false,
+    "period": "Historia mundial y conexiones globales",
+    "path": "11_tercero_medio/capitulos/05_movimientos_sociales_transnacionales.md",
+    "keywords": [
+      "movimientos",
+      "sociales",
+      "transnacionales"
+    ]
+  },
+  {
+    "id": "hu_3m_06_cadenas_globales_de_produccion_y_consumo",
+    "course_id": "3m",
+    "course": "3° medio",
+    "title": "Cadenas globales de producción y consumo",
+    "alignment": "formacion_general",
+    "sensitive": false,
+    "period": "Historia mundial y conexiones globales",
+    "path": "11_tercero_medio/capitulos/06_cadenas_globales_de_produccion_y_consumo.md",
+    "keywords": [
+      "cadenas",
+      "globales",
+      "produccion",
+      "consumo"
+    ]
+  },
+  {
+    "id": "hu_3m_07_transformaciones_historicas_del_trabajo",
+    "course_id": "3m",
+    "course": "3° medio",
+    "title": "Transformaciones históricas del trabajo",
+    "alignment": "formacion_general",
+    "sensitive": false,
+    "period": "Historia mundial y conexiones globales",
+    "path": "11_tercero_medio/capitulos/07_transformaciones_historicas_del_trabajo.md",
+    "keywords": [
+      "transformaciones",
+      "historicas",
+      "trabajo"
+    ]
+  },
+  {
+    "id": "hu_3m_08_migraciones_refugio_y_diasporas_contemporaneas",
+    "course_id": "3m",
+    "course": "3° medio",
+    "title": "Migraciones, refugio y diásporas contemporáneas",
+    "alignment": "formacion_general",
+    "sensitive": false,
+    "period": "Historia mundial y conexiones globales",
+    "path": "11_tercero_medio/capitulos/08_migraciones_refugio_y_diasporas_contemporaneas.md",
+    "keywords": [
+      "migraciones",
+      "refugio",
+      "diasporas",
+      "contemporaneas"
+    ]
+  },
+  {
+    "id": "hu_3m_09_medios_propaganda_y_desinformacion",
+    "course_id": "3m",
+    "course": "3° medio",
+    "title": "Medios, propaganda y desinformación",
+    "alignment": "formacion_general",
+    "sensitive": false,
+    "period": "Historia mundial y conexiones globales",
+    "path": "11_tercero_medio/capitulos/09_medios_propaganda_y_desinformacion.md",
+    "keywords": [
+      "medios",
+      "propaganda",
+      "desinformacion"
+    ]
+  },
+  {
+    "id": "hu_3m_10_datos_vigilancia_y_poder_en_la_era_digital",
+    "course_id": "3m",
+    "course": "3° medio",
+    "title": "Datos, vigilancia y poder en la era digital",
+    "alignment": "formacion_general",
+    "sensitive": false,
+    "period": "Mundo contemporáneo y tiempo presente",
+    "path": "11_tercero_medio/capitulos/10_datos_vigilancia_y_poder_en_la_era_digital.md",
+    "keywords": [
+      "datos",
+      "vigilancia",
+      "poder",
+      "era",
+      "digital"
+    ]
+  },
+  {
+    "id": "hu_3m_11_historia_global_de_la_salud_y_las_pandemias",
+    "course_id": "3m",
+    "course": "3° medio",
+    "title": "Historia global de la salud y las pandemias",
+    "alignment": "formacion_general",
+    "sensitive": false,
+    "period": "Mundo contemporáneo y tiempo presente",
+    "path": "11_tercero_medio/capitulos/11_historia_global_de_la_salud_y_las_pandemias.md",
+    "keywords": [
+      "historia",
+      "global",
+      "salud",
+      "pandemias"
+    ]
+  },
+  {
+    "id": "hu_3m_12_genero_diversidades_y_ampliacion_de_derechos",
+    "course_id": "3m",
+    "course": "3° medio",
+    "title": "Género, diversidades y ampliación de derechos",
+    "alignment": "formacion_general",
+    "sensitive": false,
+    "period": "Historia mundial y conexiones globales",
+    "path": "11_tercero_medio/capitulos/12_genero_diversidades_y_ampliacion_de_derechos.md",
+    "keywords": [
+      "genero",
+      "diversidades",
+      "ampliacion",
+      "derechos"
+    ]
+  },
+  {
+    "id": "hu_3m_13_justicia_transicional_y_memoria_despues_de_la_violencia",
+    "course_id": "3m",
+    "course": "3° medio",
+    "title": "Justicia transicional y memoria después de la violencia",
+    "alignment": "formacion_general",
+    "sensitive": true,
+    "period": "Historia mundial y conexiones globales",
+    "path": "11_tercero_medio/capitulos/13_justicia_transicional_y_memoria_despues_de_la_violencia.md",
+    "keywords": [
+      "justicia",
+      "transicional",
+      "memoria",
+      "despues",
+      "violencia"
+    ]
+  },
+  {
+    "id": "hu_3m_14_antropoceno_y_crisis_socioambiental",
+    "course_id": "3m",
+    "course": "3° medio",
+    "title": "Antropoceno y crisis socioambiental",
+    "alignment": "formacion_general",
+    "sensitive": false,
+    "period": "Historia mundial y conexiones globales",
+    "path": "11_tercero_medio/capitulos/14_antropoceno_y_crisis_socioambiental.md",
+    "keywords": [
+      "antropoceno",
+      "crisis",
+      "socioambiental"
+    ]
+  },
+  {
+    "id": "hu_3m_15_perspectivas_poscoloniales_y_decoloniales",
+    "course_id": "3m",
+    "course": "3° medio",
+    "title": "Perspectivas poscoloniales y decoloniales",
+    "alignment": "electivo_hc",
+    "sensitive": false,
+    "period": "Edad Moderna",
+    "path": "11_tercero_medio/capitulos/15_perspectivas_poscoloniales_y_decoloniales.md",
+    "keywords": [
+      "perspectivas",
+      "poscoloniales",
+      "decoloniales"
+    ]
+  },
+  {
+    "id": "hu_3m_16_metodo_de_investigacion_en_historia_reciente_global",
+    "course_id": "3m",
+    "course": "3° medio",
+    "title": "Método de investigación en historia reciente global",
+    "alignment": "electivo_hc",
+    "sensitive": false,
+    "period": "Historia mundial y conexiones globales",
+    "path": "11_tercero_medio/capitulos/16_metodo_de_investigacion_en_historia_reciente_global.md",
+    "keywords": [
+      "metodo",
+      "investigacion",
+      "historia",
+      "reciente",
+      "global"
+    ]
+  },
+  {
+    "id": "hu_4m_01_instituciones_democraticas_en_perspectiva_historica_comparada",
+    "course_id": "4m",
+    "course": "4° medio",
+    "title": "Instituciones democráticas en perspectiva histórica comparada",
+    "alignment": "formacion_general",
+    "sensitive": false,
+    "period": "Historia mundial y conexiones globales",
+    "path": "12_cuarto_medio/capitulos/01_instituciones_democraticas_en_perspectiva_historica_comparada.md",
+    "keywords": [
+      "instituciones",
+      "democraticas",
+      "perspectiva",
+      "historica",
+      "comparada"
+    ]
+  },
+  {
+    "id": "hu_4m_02_representacion_participacion_y_crisis_de_confianza",
+    "course_id": "4m",
+    "course": "4° medio",
+    "title": "Representación, participación y crisis de confianza",
+    "alignment": "formacion_general",
+    "sensitive": false,
+    "period": "Historia mundial y conexiones globales",
+    "path": "12_cuarto_medio/capitulos/02_representacion_participacion_y_crisis_de_confianza.md",
+    "keywords": [
+      "representacion",
+      "participacion",
+      "crisis",
+      "confianza"
+    ]
+  },
+  {
+    "id": "hu_4m_03_modelos_de_desarrollo_y_economia_mundial",
+    "course_id": "4m",
+    "course": "4° medio",
+    "title": "Modelos de desarrollo y economía mundial",
+    "alignment": "formacion_general",
+    "sensitive": false,
+    "period": "Historia mundial y conexiones globales",
+    "path": "12_cuarto_medio/capitulos/03_modelos_de_desarrollo_y_economia_mundial.md",
+    "keywords": [
+      "modelos",
+      "desarrollo",
+      "economia",
+      "mundial"
+    ]
+  },
+  {
+    "id": "hu_4m_04_historia_de_los_derechos_laborales_y_proteccion_social",
+    "course_id": "4m",
+    "course": "4° medio",
+    "title": "Historia de los derechos laborales y protección social",
+    "alignment": "formacion_general",
+    "sensitive": false,
+    "period": "Historia mundial y conexiones globales",
+    "path": "12_cuarto_medio/capitulos/04_historia_de_los_derechos_laborales_y_proteccion_social.md",
+    "keywords": [
+      "historia",
+      "derechos",
+      "laborales",
+      "proteccion",
+      "social"
+    ]
+  },
+  {
+    "id": "hu_4m_05_libertad_igualdad_y_solidaridad_en_el_debate_contemporaneo",
+    "course_id": "4m",
+    "course": "4° medio",
+    "title": "Libertad, igualdad y solidaridad en el debate contemporáneo",
+    "alignment": "formacion_general",
+    "sensitive": false,
+    "period": "Historia mundial y conexiones globales",
+    "path": "12_cuarto_medio/capitulos/05_libertad_igualdad_y_solidaridad_en_el_debate_contemporaneo.md",
+    "keywords": [
+      "libertad",
+      "igualdad",
+      "solidaridad",
+      "debate",
+      "contemporaneo"
+    ]
+  },
+  {
+    "id": "hu_4m_06_desigualdad_global_y_concentracion_de_riqueza",
+    "course_id": "4m",
+    "course": "4° medio",
+    "title": "Desigualdad global y concentración de riqueza",
+    "alignment": "formacion_general",
+    "sensitive": false,
+    "period": "Historia mundial y conexiones globales",
+    "path": "12_cuarto_medio/capitulos/06_desigualdad_global_y_concentracion_de_riqueza.md",
+    "keywords": [
+      "desigualdad",
+      "global",
+      "concentracion",
+      "riqueza"
+    ]
+  },
+  {
+    "id": "hu_4m_07_esfera_publica_digital_algoritmos_y_desinformacion",
+    "course_id": "4m",
+    "course": "4° medio",
+    "title": "Esfera pública digital, algoritmos y desinformación",
+    "alignment": "formacion_general",
+    "sensitive": false,
+    "period": "Mundo contemporáneo y tiempo presente",
+    "path": "12_cuarto_medio/capitulos/07_esfera_publica_digital_algoritmos_y_desinformacion.md",
+    "keywords": [
+      "esfera",
+      "publica",
+      "digital",
+      "algoritmos",
+      "desinformacion"
+    ]
+  },
+  {
+    "id": "hu_4m_08_inteligencia_artificial_privacidad_y_ciudadania",
+    "course_id": "4m",
+    "course": "4° medio",
+    "title": "Inteligencia artificial, privacidad y ciudadanía",
+    "alignment": "formacion_general",
+    "sensitive": false,
+    "period": "Mundo contemporáneo y tiempo presente",
+    "path": "12_cuarto_medio/capitulos/08_inteligencia_artificial_privacidad_y_ciudadania.md",
+    "keywords": [
+      "inteligencia",
+      "artificial",
+      "privacidad",
+      "ciudadania"
+    ]
+  },
+  {
+    "id": "hu_4m_09_orden_mundial_multipolar_y_nuevas_potencias",
+    "course_id": "4m",
+    "course": "4° medio",
+    "title": "Orden mundial multipolar y nuevas potencias",
+    "alignment": "formacion_general",
+    "sensitive": false,
+    "period": "Mundo contemporáneo y tiempo presente",
+    "path": "12_cuarto_medio/capitulos/09_orden_mundial_multipolar_y_nuevas_potencias.md",
+    "keywords": [
+      "orden",
+      "mundial",
+      "multipolar",
+      "nuevas",
+      "potencias"
+    ]
+  },
+  {
+    "id": "hu_4m_10_gobernanza_global_y_derecho_internacional",
+    "course_id": "4m",
+    "course": "4° medio",
+    "title": "Gobernanza global y derecho internacional",
+    "alignment": "formacion_general",
+    "sensitive": false,
+    "period": "Historia mundial y conexiones globales",
+    "path": "12_cuarto_medio/capitulos/10_gobernanza_global_y_derecho_internacional.md",
+    "keywords": [
+      "gobernanza",
+      "global",
+      "derecho",
+      "internacional"
+    ]
+  },
+  {
+    "id": "hu_4m_11_conflictos_armados_construccion_de_paz_y_proteccion_civil",
+    "course_id": "4m",
+    "course": "4° medio",
+    "title": "Conflictos armados, construcción de paz y protección civil",
+    "alignment": "formacion_general",
+    "sensitive": true,
+    "period": "Historia mundial y conexiones globales",
+    "path": "12_cuarto_medio/capitulos/11_conflictos_armados_construccion_de_paz_y_proteccion_civil.md",
+    "keywords": [
+      "conflictos",
+      "armados",
+      "construccion",
+      "paz",
+      "proteccion",
+      "civil"
+    ]
+  },
+  {
+    "id": "hu_4m_12_terrorismo_seguridad_y_derechos_fundamentales",
+    "course_id": "4m",
+    "course": "4° medio",
+    "title": "Terrorismo, seguridad y derechos fundamentales",
+    "alignment": "formacion_general",
+    "sensitive": true,
+    "period": "Historia mundial y conexiones globales",
+    "path": "12_cuarto_medio/capitulos/12_terrorismo_seguridad_y_derechos_fundamentales.md",
+    "keywords": [
+      "terrorismo",
+      "seguridad",
+      "derechos",
+      "fundamentales"
+    ]
+  },
+  {
+    "id": "hu_4m_13_migraciones_refugio_y_ciudadania_transnacional",
+    "course_id": "4m",
+    "course": "4° medio",
+    "title": "Migraciones, refugio y ciudadanía transnacional",
+    "alignment": "formacion_general",
+    "sensitive": false,
+    "period": "Historia mundial y conexiones globales",
+    "path": "12_cuarto_medio/capitulos/13_migraciones_refugio_y_ciudadania_transnacional.md",
+    "keywords": [
+      "migraciones",
+      "refugio",
+      "ciudadania",
+      "transnacional"
+    ]
+  },
+  {
+    "id": "hu_4m_14_derechos_de_pueblos_indigenas_en_perspectiva_global",
+    "course_id": "4m",
+    "course": "4° medio",
+    "title": "Derechos de pueblos indígenas en perspectiva global",
+    "alignment": "formacion_general",
+    "sensitive": false,
+    "period": "Historia mundial y conexiones globales",
+    "path": "12_cuarto_medio/capitulos/14_derechos_de_pueblos_indigenas_en_perspectiva_global.md",
+    "keywords": [
+      "derechos",
+      "pueblos",
+      "indigenas",
+      "perspectiva",
+      "global"
+    ]
+  },
+  {
+    "id": "hu_4m_15_feminismos_globales_y_transformaciones_sociales",
+    "course_id": "4m",
+    "course": "4° medio",
+    "title": "Feminismos globales y transformaciones sociales",
+    "alignment": "formacion_general",
+    "sensitive": false,
+    "period": "Historia mundial y conexiones globales",
+    "path": "12_cuarto_medio/capitulos/15_feminismos_globales_y_transformaciones_sociales.md",
+    "keywords": [
+      "feminismos",
+      "globales",
+      "transformaciones",
+      "sociales"
+    ]
+  },
+  {
+    "id": "hu_4m_16_justicia_climatica_y_responsabilidades_historicas",
+    "course_id": "4m",
+    "course": "4° medio",
+    "title": "Justicia climática y responsabilidades históricas",
+    "alignment": "formacion_general",
+    "sensitive": false,
+    "period": "Mundo contemporáneo y tiempo presente",
+    "path": "12_cuarto_medio/capitulos/16_justicia_climatica_y_responsabilidades_historicas.md",
+    "keywords": [
+      "justicia",
+      "climatica",
+      "responsabilidades",
+      "historicas"
+    ]
+  },
+  {
+    "id": "hu_4m_17_ciudades_segregacion_y_derecho_al_espacio_publico",
+    "course_id": "4m",
+    "course": "4° medio",
+    "title": "Ciudades, segregación y derecho al espacio público",
+    "alignment": "formacion_general",
+    "sensitive": false,
+    "period": "Historia mundial y conexiones globales",
+    "path": "12_cuarto_medio/capitulos/17_ciudades_segregacion_y_derecho_al_espacio_publico.md",
+    "keywords": [
+      "ciudades",
+      "segregacion",
+      "derecho",
+      "al",
+      "espacio",
+      "publico"
+    ]
+  },
+  {
+    "id": "hu_4m_18_futuros_historicos_continuidad_cambio_y_escenarios_posibles",
+    "course_id": "4m",
+    "course": "4° medio",
+    "title": "Futuros históricos: continuidad, cambio y escenarios posibles",
+    "alignment": "electivo_hc",
+    "sensitive": false,
+    "period": "Historia mundial y conexiones globales",
+    "path": "12_cuarto_medio/capitulos/18_futuros_historicos_continuidad_cambio_y_escenarios_posibles.md",
+    "keywords": [
+      "futuros",
+      "historicos",
+      "continuidad",
+      "cambio",
+      "escenarios",
+      "posibles"
+    ]
+  },
+  {
+    "id": "hu_trans_01_como_se_construye_el_conocimiento_historico",
+    "course_id": "transversal",
+    "course": "Transversal",
+    "title": "Cómo se construye el conocimiento histórico",
+    "alignment": "profundizacion",
+    "sensitive": false,
+    "period": "Historia mundial y conexiones globales",
+    "path": "13_tematicos_transversales/01_como_se_construye_el_conocimiento_historico.md",
+    "keywords": [
+      "se",
+      "construye",
+      "conocimiento",
+      "historico"
+    ]
+  },
+  {
+    "id": "hu_trans_02_tiempo_historico_cronologia_y_periodizacion",
+    "course_id": "transversal",
+    "course": "Transversal",
+    "title": "Tiempo histórico, cronología y periodización",
+    "alignment": "profundizacion",
+    "sensitive": false,
+    "period": "Historia mundial y conexiones globales",
+    "path": "13_tematicos_transversales/02_tiempo_historico_cronologia_y_periodizacion.md",
+    "keywords": [
+      "tiempo",
+      "historico",
+      "cronologia",
+      "periodizacion"
+    ]
+  },
+  {
+    "id": "hu_trans_03_arqueologia_y_cultura_material",
+    "course_id": "transversal",
+    "course": "Transversal",
+    "title": "Arqueología y cultura material",
+    "alignment": "profundizacion",
+    "sensitive": false,
+    "period": "Historia mundial y conexiones globales",
+    "path": "13_tematicos_transversales/03_arqueologia_y_cultura_material.md",
+    "keywords": [
+      "arqueologia",
+      "cultura",
+      "material"
+    ]
+  },
+  {
+    "id": "hu_trans_04_cartografia_historica_y_lectura_de_mapas",
+    "course_id": "transversal",
+    "course": "Transversal",
+    "title": "Cartografía histórica y lectura de mapas",
+    "alignment": "profundizacion",
+    "sensitive": false,
+    "period": "Historia mundial y conexiones globales",
+    "path": "13_tematicos_transversales/04_cartografia_historica_y_lectura_de_mapas.md",
+    "keywords": [
+      "cartografia",
+      "historica",
+      "lectura",
+      "mapas"
+    ]
+  },
+  {
+    "id": "hu_trans_05_comparacion_entre_sociedades",
+    "course_id": "transversal",
+    "course": "Transversal",
+    "title": "Comparación entre sociedades",
+    "alignment": "profundizacion",
+    "sensitive": false,
+    "period": "Historia mundial y conexiones globales",
+    "path": "13_tematicos_transversales/05_comparacion_entre_sociedades.md",
+    "keywords": [
+      "comparacion",
+      "entre",
+      "sociedades"
+    ]
+  },
+  {
+    "id": "hu_trans_06_historia_global_conectada_y_transnacional",
+    "course_id": "transversal",
+    "course": "Transversal",
+    "title": "Historia global, conectada y transnacional",
+    "alignment": "profundizacion",
+    "sensitive": false,
+    "period": "Historia mundial y conexiones globales",
+    "path": "13_tematicos_transversales/06_historia_global_conectada_y_transnacional.md",
+    "keywords": [
+      "historia",
+      "global",
+      "conectada",
+      "transnacional"
+    ]
+  },
+  {
+    "id": "hu_trans_07_imperios_colonialismos_y_resistencias",
+    "course_id": "transversal",
+    "course": "Transversal",
+    "title": "Imperios, colonialismos y resistencias",
+    "alignment": "profundizacion",
+    "sensitive": false,
+    "period": "Edad Moderna",
+    "path": "13_tematicos_transversales/07_imperios_colonialismos_y_resistencias.md",
+    "keywords": [
+      "imperios",
+      "colonialismos",
+      "resistencias"
+    ]
+  },
+  {
+    "id": "hu_trans_08_esclavitud_y_otras_formas_de_trabajo_coercitivo",
+    "course_id": "transversal",
+    "course": "Transversal",
+    "title": "Esclavitud y otras formas de trabajo coercitivo",
+    "alignment": "profundizacion",
+    "sensitive": false,
+    "period": "Historia mundial y conexiones globales",
+    "path": "13_tematicos_transversales/08_esclavitud_y_otras_formas_de_trabajo_coercitivo.md",
+    "keywords": [
+      "esclavitud",
+      "otras",
+      "formas",
+      "trabajo",
+      "coercitivo"
+    ]
+  },
+  {
+    "id": "hu_trans_09_religiones_y_sociedades_en_perspectiva_historica",
+    "course_id": "transversal",
+    "course": "Transversal",
+    "title": "Religiones y sociedades en perspectiva histórica",
+    "alignment": "profundizacion",
+    "sensitive": false,
+    "period": "Historia mundial y conexiones globales",
+    "path": "13_tematicos_transversales/09_religiones_y_sociedades_en_perspectiva_historica.md",
+    "keywords": [
+      "religiones",
+      "sociedades",
+      "perspectiva",
+      "historica"
+    ]
+  },
+  {
+    "id": "hu_trans_10_historia_de_las_mujeres_y_relaciones_de_genero",
+    "course_id": "transversal",
+    "course": "Transversal",
+    "title": "Historia de las mujeres y relaciones de género",
+    "alignment": "profundizacion",
+    "sensitive": false,
+    "period": "Historia mundial y conexiones globales",
+    "path": "13_tematicos_transversales/10_historia_de_las_mujeres_y_relaciones_de_genero.md",
+    "keywords": [
+      "historia",
+      "mujeres",
+      "relaciones",
+      "genero"
+    ]
+  },
+  {
+    "id": "hu_trans_11_historia_de_la_infancia_y_la_juventud",
+    "course_id": "transversal",
+    "course": "Transversal",
+    "title": "Historia de la infancia y la juventud",
+    "alignment": "profundizacion",
+    "sensitive": false,
+    "period": "Historia mundial y conexiones globales",
+    "path": "13_tematicos_transversales/11_historia_de_la_infancia_y_la_juventud.md",
+    "keywords": [
+      "historia",
+      "infancia",
+      "juventud"
+    ]
+  },
+  {
+    "id": "hu_trans_12_migraciones_diasporas_y_circulacion_cultural",
+    "course_id": "transversal",
+    "course": "Transversal",
+    "title": "Migraciones, diásporas y circulación cultural",
+    "alignment": "profundizacion",
+    "sensitive": false,
+    "period": "Historia mundial y conexiones globales",
+    "path": "13_tematicos_transversales/12_migraciones_diasporas_y_circulacion_cultural.md",
+    "keywords": [
+      "migraciones",
+      "diasporas",
+      "circulacion",
+      "cultural"
+    ]
+  },
+  {
+    "id": "hu_trans_13_historia_de_la_ciencia_y_la_tecnologia",
+    "course_id": "transversal",
+    "course": "Transversal",
+    "title": "Historia de la ciencia y la tecnología",
+    "alignment": "profundizacion",
+    "sensitive": false,
+    "period": "Historia mundial y conexiones globales",
+    "path": "13_tematicos_transversales/13_historia_de_la_ciencia_y_la_tecnologia.md",
+    "keywords": [
+      "historia",
+      "ciencia",
+      "tecnologia"
+    ]
+  },
+  {
+    "id": "hu_trans_14_historia_ambiental_y_cambio_climatico",
+    "course_id": "transversal",
+    "course": "Transversal",
+    "title": "Historia ambiental y cambio climático",
+    "alignment": "profundizacion",
+    "sensitive": false,
+    "period": "Mundo contemporáneo y tiempo presente",
+    "path": "13_tematicos_transversales/14_historia_ambiental_y_cambio_climatico.md",
+    "keywords": [
+      "historia",
+      "ambiental",
+      "cambio",
+      "climatico"
+    ]
+  },
+  {
+    "id": "hu_trans_15_epidemias_salud_publica_y_sociedad",
+    "course_id": "transversal",
+    "course": "Transversal",
+    "title": "Epidemias, salud pública y sociedad",
+    "alignment": "profundizacion",
+    "sensitive": false,
+    "period": "Historia mundial y conexiones globales",
+    "path": "13_tematicos_transversales/15_epidemias_salud_publica_y_sociedad.md",
+    "keywords": [
+      "epidemias",
+      "salud",
+      "publica",
+      "sociedad"
+    ]
+  },
+  {
+    "id": "hu_trans_16_guerra_paz_y_poblacion_civil",
+    "course_id": "transversal",
+    "course": "Transversal",
+    "title": "Guerra, paz y población civil",
+    "alignment": "profundizacion",
+    "sensitive": true,
+    "period": "Historia mundial y conexiones globales",
+    "path": "13_tematicos_transversales/16_guerra_paz_y_poblacion_civil.md",
+    "keywords": [
+      "guerra",
+      "paz",
+      "poblacion",
+      "civil"
+    ]
+  },
+  {
+    "id": "hu_trans_17_genocidio_crimenes_de_masa_y_prevencion",
+    "course_id": "transversal",
+    "course": "Transversal",
+    "title": "Genocidio, crímenes de masa y prevención",
+    "alignment": "profundizacion",
+    "sensitive": true,
+    "period": "Historia mundial y conexiones globales",
+    "path": "13_tematicos_transversales/17_genocidio_crimenes_de_masa_y_prevencion.md",
+    "keywords": [
+      "genocidio",
+      "crimenes",
+      "masa",
+      "prevencion"
+    ]
+  },
+  {
+    "id": "hu_trans_18_historia_de_los_derechos_humanos",
+    "course_id": "transversal",
+    "course": "Transversal",
+    "title": "Historia de los derechos humanos",
+    "alignment": "profundizacion",
+    "sensitive": false,
+    "period": "Historia mundial y conexiones globales",
+    "path": "13_tematicos_transversales/18_historia_de_los_derechos_humanos.md",
+    "keywords": [
+      "historia",
+      "derechos",
+      "humanos"
+    ]
+  },
+  {
+    "id": "hu_trans_19_memoria_patrimonio_e_historia_publica",
+    "course_id": "transversal",
+    "course": "Transversal",
+    "title": "Memoria, patrimonio e historia pública",
+    "alignment": "profundizacion",
+    "sensitive": false,
+    "period": "Historia mundial y conexiones globales",
+    "path": "13_tematicos_transversales/19_memoria_patrimonio_e_historia_publica.md",
+    "keywords": [
+      "memoria",
+      "patrimonio",
+      "historia",
+      "publica"
+    ]
+  },
+  {
+    "id": "hu_trans_20_eurocentrismo_y_perspectivas_decoloniales",
+    "course_id": "transversal",
+    "course": "Transversal",
+    "title": "Eurocentrismo y perspectivas decoloniales",
+    "alignment": "profundizacion",
+    "sensitive": false,
+    "period": "Edad Moderna",
+    "path": "13_tematicos_transversales/20_eurocentrismo_y_perspectivas_decoloniales.md",
+    "keywords": [
+      "eurocentrismo",
+      "perspectivas",
+      "decoloniales"
+    ]
+  }
+]

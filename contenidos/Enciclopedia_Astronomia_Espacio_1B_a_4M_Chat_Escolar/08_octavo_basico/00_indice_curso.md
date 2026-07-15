@@ -1,0 +1,28 @@
+# Índice de Astronomía — 8° básico
+
+- [Gravedad y movimiento orbital](001_gravedad_y_movimiento_orbital.md) — gravedad_y_orbitas
+- [Leyes de Kepler](002_leyes_de_kepler.md) — gravedad_y_orbitas
+- [Ley de gravitación universal](003_ley_de_gravitacion_universal.md) — astronomia_general
+- [Velocidad de escape](004_velocidad_de_escape.md) — gravedad_y_orbitas
+- [Satélites y órbitas](005_satelites_y_orbitas.md) — exploracion_espacial
+- [Órbita geoestacionaria](006_orbita_geoestacionaria.md) — gravedad_y_orbitas
+- [Microgravedad](007_microgravedad.md) — gravedad_y_orbitas
+- [Mareas](008_mareas.md) — tierra_luna
+- [Eclipses y planos orbitales](009_eclipses_y_planos_orbitales.md) — tierra_luna
+- [Libración lunar inicial](010_libracion_lunar_inicial.md) — tierra_luna
+- [Estructura del Sol](011_estructura_del_sol.md) — sol
+- [Fusión nuclear solar inicial](012_fusion_nuclear_solar_inicial.md) — sol
+- [Actividad solar](013_actividad_solar.md) — sol
+- [Manchas solares](014_manchas_solares.md) — sol
+- [Viento solar](015_viento_solar.md) — sol
+- [Auroras](016_auroras.md) — astronomia_general
+- [Campo magnético terrestre](017_campo_magnetico_terrestre.md) — astronomia_general
+- [Clima espacial](018_clima_espacial.md) — astronomia_general
+- [Formación del Sistema Solar](019_formacion_del_sistema_solar.md) — sol
+- [Discos protoplanetarios](020_discos_protoplanetarios.md) — sistema_solar
+- [Exoplanetas iniciales](021_exoplanetas_iniciales.md) — sistema_solar
+- [Método de tránsito](022_metodo_de_transito.md) — astronomia_general
+- [Velocidad radial inicial](023_velocidad_radial_inicial.md) — astronomia_general
+- [Zona habitable](024_zona_habitable.md) — astronomia_general
+- [Búsqueda de biofirmas inicial](025_busqueda_de_biofirmas_inicial.md) — astrobiologia
+- [Basura espacial](026_basura_espacial.md) — exploracion_espacial

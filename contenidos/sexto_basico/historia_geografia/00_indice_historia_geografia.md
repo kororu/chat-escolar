@@ -24,6 +24,7 @@ Esta carpeta contiene explicaciones originales, ejemplos, actividades, preguntas
 | 03 | [Organización de la República, conservadores y liberales](03_organizacion_de_la_republica_conservadores_y_liberales.md) | Historia | HI06 OA 03 |
 | 04 | [Cultura, educación, ciencia y tecnología en el siglo XIX](04_cultura_educacion_ciencia_y_tecnologia_en_el_siglo_xix.md) | Historia | HI06 OA 04 |
 | 05 | [Conformación territorial de Chile en el siglo XIX](05_conformacion_territorial_de_chile_en_el_siglo_xix.md) | Historia | HI06 OA 05 |
+| 05A | [Combate Naval de Iquique](05a_combate_naval_de_iquique.md) | Historia | HI06 OA 05 |
 | 06 | [Ciclo del salitre y cuestión social](06_ciclo_del_salitre_y_cuestion_social.md) | Historia | HI06 OA 06 |
 | 07 | [Democratización y participación durante el siglo XX](07_democratizacion_y_participacion_durante_el_siglo_xx.md) | Historia | HI06 OA 07 |
 | 08 | [Quiebre democrático, dictadura y recuperación de la democracia](08_quiebre_democratico_dictadura_y_recuperacion_de_la_democracia.md) | Historia | HI06 OA 08 |

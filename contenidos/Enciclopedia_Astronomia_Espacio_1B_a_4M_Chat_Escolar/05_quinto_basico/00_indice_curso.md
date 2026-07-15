@@ -1,0 +1,26 @@
+# Índice de Astronomía — 5° básico
+
+- [Formación del Sistema Solar inicial](001_formacion_del_sistema_solar_inicial.md) — sol
+- [El Sol y sus capas](002_el_sol_y_sus_capas.md) — sol
+- [Energía solar](003_energia_solar.md) — sol
+- [Planetas rocosos](004_planetas_rocosos.md) — sistema_solar
+- [Planetas gigantes](005_planetas_gigantes.md) — sistema_solar
+- [Atmósferas planetarias](006_atmosferas_planetarias.md) — sistema_solar
+- [Superficies planetarias](007_superficies_planetarias.md) — sistema_solar
+- [Agua en el Sistema Solar](008_agua_en_el_sistema_solar.md) — sol
+- [Lunas destacadas](009_lunas_destacadas.md) — tierra_luna
+- [Anillos planetarios](010_anillos_planetarios.md) — sistema_solar
+- [Cinturón de asteroides](011_cinturon_de_asteroides.md) — sistema_solar
+- [Cinturón de Kuiper](012_cinturon_de_kuiper.md) — sistema_solar
+- [Nube de Oort inicial](013_nube_de_oort_inicial.md) — sistema_solar
+- [Cometas y sus órbitas](014_cometas_y_sus_orbitas.md) — sistema_solar
+- [Meteoritos y cráteres](015_meteoritos_y_crateres.md) — sistema_solar
+- [Gravedad y órbitas](016_gravedad_y_orbitas.md) — gravedad_y_orbitas
+- [Velocidad orbital inicial](017_velocidad_orbital_inicial.md) — astronomia_general
+- [Satélites artificiales](018_satelites_artificiales.md) — exploracion_espacial
+- [Estación Espacial Internacional](019_estacion_espacial_internacional.md) — exploracion_espacial
+- [Sondas espaciales](020_sondas_espaciales.md) — exploracion_espacial
+- [Rovers planetarios](021_rovers_planetarios.md) — sistema_solar
+- [Telescopios espaciales](022_telescopios_espaciales.md) — astronomia_general
+- [Exploración de Marte](023_exploracion_de_marte.md) — exploracion_espacial
+- [Protección planetaria inicial](024_proteccion_planetaria_inicial.md) — sistema_solar

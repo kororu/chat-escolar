@@ -1,0 +1,26 @@
+# Índice de Física — 5° básico
+
+- [Fuerzas equilibradas y no equilibradas](001_fuerzas_equilibradas_y_no_equilibradas.md) — mecanica
+- [Peso y masa](002_peso_y_masa.md) — fisica_general
+- [Movimiento uniforme inicial](003_movimiento_uniforme_inicial.md) — mecanica
+- [Gráficos distancia-tiempo iniciales](004_graficos_distancia_tiempo_iniciales.md) — fisica_general
+- [Trabajo mecánico inicial](005_trabajo_mecanico_inicial.md) — energia
+- [Energía cinética](006_energia_cinetica.md) — energia
+- [Energía potencial gravitatoria](007_energia_potencial_gravitatoria.md) — energia
+- [Energía potencial elástica](008_energia_potencial_elastica.md) — energia
+- [Conservación de energía inicial](009_conservacion_de_energia_inicial.md) — energia
+- [Electricidad y carga](010_electricidad_y_carga.md) — electricidad
+- [Corriente eléctrica](011_corriente_electrica.md) — electricidad
+- [Voltaje inicial](012_voltaje_inicial.md) — electricidad
+- [Resistencia inicial](013_resistencia_inicial.md) — fisica_general
+- [Circuitos en serie](014_circuitos_en_serie.md) — electricidad
+- [Circuitos en paralelo](015_circuitos_en_paralelo.md) — electricidad
+- [Potencia eléctrica inicial](016_potencia_electrica_inicial.md) — energia
+- [Consumo eléctrico](017_consumo_electrico.md) — fisica_general
+- [Magnetismo](018_magnetismo.md) — magnetismo
+- [Electroimanes](019_electroimanes.md) — fisica_general
+- [Ondas en cuerdas](020_ondas_en_cuerdas.md) — ondas_sonido
+- [Sonido y audición](021_sonido_y_audicion.md) — ondas_sonido
+- [Luz y visión](022_luz_y_vision.md) — optica
+- [Mareas y gravedad](023_mareas_y_gravedad.md) — fisica_general
+- [Experimentos de física seguros](024_experimentos_de_fisica_seguros.md) — fisica_general

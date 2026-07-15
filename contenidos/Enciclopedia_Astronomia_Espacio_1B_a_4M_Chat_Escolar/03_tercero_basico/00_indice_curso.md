@@ -1,0 +1,26 @@
+# Índice de Astronomía — 3° básico
+
+- [Componentes del Sistema Solar](001_componentes_del_sistema_solar.md) — sol
+- [El Sol](002_el_sol.md) — sol
+- [Mercurio](003_mercurio.md) — astronomia_general
+- [Venus](004_venus.md) — astronomia_general
+- [La Tierra](005_la_tierra.md) — astronomia_general
+- [Marte](006_marte.md) — astronomia_general
+- [Júpiter](007_jupiter.md) — astronomia_general
+- [Saturno](008_saturno.md) — astronomia_general
+- [Urano](009_urano.md) — astronomia_general
+- [Neptuno](010_neptuno.md) — astronomia_general
+- [Planetas enanos](011_planetas_enanos.md) — sistema_solar
+- [Lunas del Sistema Solar](012_lunas_del_sistema_solar.md) — sol
+- [Asteroides](013_asteroides.md) — sistema_solar
+- [Cometas](014_cometas.md) — sistema_solar
+- [Meteoroides meteoros y meteoritos](015_meteoroides_meteoros_y_meteoritos.md) — sistema_solar
+- [Orden y distancias relativas](016_orden_y_distancias_relativas.md) — astronomia_general
+- [Rotación de la Tierra](017_rotacion_de_la_tierra.md) — astronomia_general
+- [Traslación de la Tierra](018_traslacion_de_la_tierra.md) — astronomia_general
+- [Estaciones del año](019_estaciones_del_ano.md) — astronomia_general
+- [Fases de la Luna](020_fases_de_la_luna.md) — tierra_luna
+- [Eclipse de Sol](021_eclipse_de_sol.md) — sol
+- [Eclipse de Luna](022_eclipse_de_luna.md) — tierra_luna
+- [Modelos del Sistema Solar](023_modelos_del_sistema_solar.md) — sol
+- [Escalas y límites de los modelos](024_escalas_y_limites_de_los_modelos.md) — astronomia_general

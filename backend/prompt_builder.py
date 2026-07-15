@@ -9,6 +9,7 @@ except ImportError:
 
 
 MAX_LOCAL_CONTEXT_CHARACTERS = 3200
+SOURCE_INSUFFICIENT_MARKER = "FUENTE_INSUFICIENTE"
 
 
 def _local_context(sources: list[dict]) -> str:
@@ -28,7 +29,15 @@ def build_ollama_prompt(payload, educational_context: dict, *, use_local_source:
     contextual_question = educational_context["conversation_context"].get("contextual_question") or payload.question
     student_name = (payload.user_name or "Estudiante").strip()
     level = get_educational_level(educational_context.get("active_course") or payload.course)
-    common = f"""Eres Chat Escolar, un tutor educativo local.
+    role = (payload.user_role or "estudiante").strip().lower()
+    format_instruction = (
+        "Si el perfil es estudiante, usa: 1. Explicación corta. 2. Ejemplo de la vida diaria. 3. Imagen mental o comparación simple, indicando que es una comparación. 4. Mini resumen. 5. Pregunta de práctica."
+        if role == "estudiante" else
+        "Si el perfil es apoderado, usa: 1. Qué debe entender el niño. 2. Cómo explicárselo. 3. Ejemplo cotidiano. 4. Actividad breve. 5. Pregunta para comprobar comprensión."
+        if role == "apoderado" else
+        "Si el perfil es docente, usa: 1. Objetivo de aprendizaje. 2. Explicación breve. 3. Estrategia didáctica. 4. Adecuación TEA. 5. Pregunta de evaluación rápida."
+    )
+    common = f"""Eres Nexo, un tutor escolar de Chat Escolar.
 Responde solo en español de Chile, claro, amable y apropiado para el curso.
 No muestres razonamiento interno, análisis, pasos internos, ni escribas 'Thinking'.
 No inventes fuentes. Estudiante de {level['course']}, edad aproximada {level['approx_age']}.
@@ -39,25 +48,33 @@ Estudiante: {student_name}.
 Curso: {educational_context.get('active_course') or payload.course}.
 Materia: {payload.subject}.
 Modo: {payload.mode}.
+Perfil activo: {role}.
 Pregunta original: {payload.question}
 Consulta de apoyo: {contextual_question}
+{format_instruction}
 """
     if use_local_source:
         context = _local_context(educational_context.get("verified_sources", []))
         return f"""{common}
-Usa SOLO la fuente local verificada entregada. No agregues datos externos.
+REGLA DE FUNDAMENTACIÓN OBLIGATORIA:
+Responde únicamente usando la información incluida en FUENTE LOCAL.
+No uses conocimiento general, memoria externa o interna ni datos externos.
+No agregues personas, países, fechas, cargos, barcos, causas, consecuencias, ganadores, derrotados ni ejemplos que no estén escritos en la fuente.
+No agregues enemigos o países no mencionados. No uses lenguaje nacionalista, bélico exagerado ni juicios sobre pueblos o países.
+No digas quién ganó si la fuente no lo indica. Si una parte no está en la fuente, omítela.
+Si necesitas inventar o completar información, responde exactamente:
+{SOURCE_INSUFFICIENT_MARKER}
 
-Fuente local verificada:
+FUENTE LOCAL:
 {context}
+FIN DE FUENTE LOCAL.
 
-Responde con:
-1. Explicación corta.
-2. Ejemplo.
-3. Mini resumen.
-4. Una sola pregunta de práctica.
+Respeta exactamente el formato indicado para el perfil activo.
 """
     return f"""{common}
-No hay fuente local verificada para esta pregunta. Entrega una explicación general segura y educativa, e indica brevemente que no usaste una fuente local verificada. Evita detalles violentos o gráficos.
+MODO EXPLORAR: no hay fuente local verificada para esta pregunta.
+Puedes entregar una orientación exploratoria, pero no la presentes como contenido curricular confirmado.
+Evita detalles violentos o gráficos y reconoce que la respuesta puede contener errores.
 
 Responde con:
 1. Explicación corta.
@@ -65,6 +82,10 @@ Responde con:
 3. Dato interesante.
 4. Una sola pregunta para seguir explorando.
 """
+
+
+def is_source_insufficient_response(answer: str) -> bool:
+    return SOURCE_INSUFFICIENT_MARKER in answer.upper()
 
 
 def clean_ollama_response(answer: str) -> str:

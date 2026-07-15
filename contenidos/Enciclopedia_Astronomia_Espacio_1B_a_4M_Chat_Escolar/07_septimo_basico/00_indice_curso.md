@@ -1,0 +1,26 @@
+# Índice de Astronomía — 7° básico
+
+- [Estructuras del universo](001_estructuras_del_universo.md) — astronomia_general
+- [Sistema planetario](002_sistema_planetario.md) — sistema_solar
+- [Estrellas](003_estrellas.md) — estrellas
+- [Nebulosas](004_nebulosas.md) — estrellas
+- [Cúmulos estelares](005_cumulos_estelares.md) — galaxias
+- [Galaxias](006_galaxias.md) — galaxias
+- [Cúmulos de galaxias](007_cumulos_de_galaxias.md) — galaxias
+- [Supercúmulos](008_supercumulos.md) — galaxias
+- [Escala del universo observable](009_escala_del_universo_observable.md) — astronomia_general
+- [Nacimiento de estrellas](010_nacimiento_de_estrellas.md) — estrellas
+- [Evolución estelar inicial](011_evolucion_estelar_inicial.md) — astronomia_general
+- [Gigantes rojas](012_gigantes_rojas.md) — astronomia_general
+- [Enanas blancas](013_enanas_blancas.md) — astronomia_general
+- [Supernovas](014_supernovas.md) — estrellas
+- [Estrellas de neutrones](015_estrellas_de_neutrones.md) — estrellas
+- [Agujeros negros iniciales](016_agujeros_negros_iniciales.md) — astronomia_general
+- [Espectro electromagnético y astronomía](017_espectro_electromagnetico_y_astronomia.md) — astronomia_general
+- [Luz visible](018_luz_visible.md) — astronomia_general
+- [Ondas de radio](019_ondas_de_radio.md) — astronomia_general
+- [Radiación infrarroja](020_radiacion_infrarroja.md) — astronomia_general
+- [Radiación ultravioleta](021_radiacion_ultravioleta.md) — astronomia_general
+- [Rayos X y gamma](022_rayos_x_y_gamma.md) — astronomia_general
+- [Instrumentos astronómicos](023_instrumentos_astronomicos.md) — astronomia_general
+- [Preguntas sobre vida extraterrestre](024_preguntas_sobre_vida_extraterrestre.md) — astrobiologia

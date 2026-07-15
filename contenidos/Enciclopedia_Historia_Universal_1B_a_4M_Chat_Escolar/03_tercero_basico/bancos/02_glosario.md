@@ -1,0 +1,73 @@
+# Glosario inicial — 3° básico
+
+- **Actual:** Concepto vinculado con comparar democracia antigua y democracia actual; debe definirse dentro de su contexto histórico.
+- **Antigua:** Concepto vinculado con comparar democracia antigua y democracia actual; debe definirse dentro de su contexto histórico.
+- **Arquitectura:** Concepto vinculado con arquitectura y arte del mundo griego; debe definirse dentro de su contexto histórico.
+- **Arte:** Concepto vinculado con arquitectura y arte del mundo griego; debe definirse dentro de su contexto histórico.
+- **Atenas:** Concepto vinculado con atenas y esparta: semejanzas y diferencias; debe definirse dentro de su contexto histórico.
+- **Ateniense:** Concepto vinculado con la democracia ateniense y sus exclusiones; debe definirse dentro de su contexto histórico.
+- **Balcanica:** Concepto vinculado con la península balcánica, el mar egeo y el mundo griego; debe definirse dentro de su contexto histórico.
+- **Caminos:** Concepto vinculado con ejército, caminos, comercio y ciudades romanas; debe definirse dentro de su contexto histórico.
+- **Ciencia:** Concepto vinculado con teatro, filosofía, ciencia y juegos olímpicos; debe definirse dentro de su contexto histórico.
+- **Ciudad:** Concepto vinculado con la vida cotidiana en una ciudad romana; debe definirse dentro de su contexto histórico.
+- **Ciudades:** Concepto vinculado con comparar ciudades griegas y romanas; debe definirse dentro de su contexto histórico.
+- **Comercio:** Concepto vinculado con ejército, caminos, comercio y ciudades romanas; debe definirse dentro de su contexto histórico.
+- **Comparar:** Concepto vinculado con comparar democracia antigua y democracia actual; debe definirse dentro de su contexto histórico.
+- **Cotidiana:** Concepto vinculado con la vida cotidiana en una ciudad romana; debe definirse dentro de su contexto histórico.
+- **Crecimiento:** Concepto vinculado con el origen y crecimiento de roma; debe definirse dentro de su contexto histórico.
+- **Cristianismo:** Concepto vinculado con religiones romanas y expansión del cristianismo; debe definirse dentro de su contexto histórico.
+- **Democracia:** Concepto vinculado con comparar democracia antigua y democracia actual; debe definirse dentro de su contexto histórico.
+- **Derecho:** Concepto vinculado con derecho, lengua, ingeniería y legado romano; debe definirse dentro de su contexto histórico.
+- **Diferencias:** Concepto vinculado con atenas y esparta: semejanzas y diferencias; debe definirse dentro de su contexto histórico.
+- **Educacion:** Concepto vinculado con familias, educación y niñez en roma; debe definirse dentro de su contexto histórico.
+- **Egeo:** Concepto vinculado con la península balcánica, el mar egeo y el mundo griego; debe definirse dentro de su contexto histórico.
+- **Ejercito:** Concepto vinculado con ejército, caminos, comercio y ciudades romanas; debe definirse dentro de su contexto histórico.
+- **Esclavos:** Concepto vinculado con patricios, plebeyos, mujeres, esclavos y extranjeros; debe definirse dentro de su contexto histórico.
+- **Esparta:** Concepto vinculado con atenas y esparta: semejanzas y diferencias; debe definirse dentro de su contexto histórico.
+- **Estudiar:** Concepto vinculado con cómo estudiar grecia y roma mediante fuentes; debe definirse dentro de su contexto histórico.
+- **Exclusiones:** Concepto vinculado con la democracia ateniense y sus exclusiones; debe definirse dentro de su contexto histórico.
+- **Expansion:** Concepto vinculado con religiones romanas y expansión del cristianismo; debe definirse dentro de su contexto histórico.
+- **Extranjeros:** Concepto vinculado con patricios, plebeyos, mujeres, esclavos y extranjeros; debe definirse dentro de su contexto histórico.
+- **Familias:** Concepto vinculado con familias, educación y niñez en roma; debe definirse dentro de su contexto histórico.
+- **Festividades:** Concepto vinculado con religión, mitología y festividades griegas; debe definirse dentro de su contexto histórico.
+- **Filosofia:** Concepto vinculado con teatro, filosofía, ciencia y juegos olímpicos; debe definirse dentro de su contexto histórico.
+- **Forma:** Concepto vinculado con la polis como forma de organización; debe definirse dentro de su contexto histórico.
+- **Fuentes:** Concepto vinculado con cómo estudiar grecia y roma mediante fuentes; debe definirse dentro de su contexto histórico.
+- **Grecia:** Concepto vinculado con cómo estudiar grecia y roma mediante fuentes; debe definirse dentro de su contexto histórico.
+- **Griega:** Concepto vinculado con trabajos, comercio y navegación griega; debe definirse dentro de su contexto histórico.
+- **Griegas:** Concepto vinculado con comparar ciudades griegas y romanas; debe definirse dentro de su contexto histórico.
+- **Griego:** Concepto vinculado con arquitectura y arte del mundo griego; debe definirse dentro de su contexto histórico.
+- **Imperio:** Concepto vinculado con la expansión de roma y el imperio; debe definirse dentro de su contexto histórico.
+- **Ingenieria:** Concepto vinculado con derecho, lengua, ingeniería y legado romano; debe definirse dentro de su contexto histórico.
+- **Instituciones:** Concepto vinculado con la república romana y sus instituciones; debe definirse dentro de su contexto histórico.
+- **Italica:** Concepto vinculado con la península itálica y el mar mediterráneo; debe definirse dentro de su contexto histórico.
+- **Juegos:** Concepto vinculado con teatro, filosofía, ciencia y juegos olímpicos; debe definirse dentro de su contexto histórico.
+- **Legado:** Concepto vinculado con derecho, lengua, ingeniería y legado romano; debe definirse dentro de su contexto histórico.
+- **Lengua:** Concepto vinculado con derecho, lengua, ingeniería y legado romano; debe definirse dentro de su contexto histórico.
+- **Mar:** Concepto vinculado con la península itálica y el mar mediterráneo; debe definirse dentro de su contexto histórico.
+- **Mediante:** Concepto vinculado con cómo estudiar grecia y roma mediante fuentes; debe definirse dentro de su contexto histórico.
+- **Mediterraneo:** Concepto vinculado con la península itálica y el mar mediterráneo; debe definirse dentro de su contexto histórico.
+- **Mitologia:** Concepto vinculado con religión, mitología y festividades griegas; debe definirse dentro de su contexto histórico.
+- **Mujeres:** Concepto vinculado con patricios, plebeyos, mujeres, esclavos y extranjeros; debe definirse dentro de su contexto histórico.
+- **Mundo:** Concepto vinculado con arquitectura y arte del mundo griego; debe definirse dentro de su contexto histórico.
+- **Navegacion:** Concepto vinculado con trabajos, comercio y navegación griega; debe definirse dentro de su contexto histórico.
+- **Ninez:** Concepto vinculado con familias, educación y niñez en roma; debe definirse dentro de su contexto histórico.
+- **Olimpicos:** Concepto vinculado con teatro, filosofía, ciencia y juegos olímpicos; debe definirse dentro de su contexto histórico.
+- **Organizacion:** Concepto vinculado con la polis como forma de organización; debe definirse dentro de su contexto histórico.
+- **Origen:** Concepto vinculado con el origen y crecimiento de roma; debe definirse dentro de su contexto histórico.
+- **Patricios:** Concepto vinculado con patricios, plebeyos, mujeres, esclavos y extranjeros; debe definirse dentro de su contexto histórico.
+- **Peninsula:** Concepto vinculado con la península itálica y el mar mediterráneo; debe definirse dentro de su contexto histórico.
+- **Plebeyos:** Concepto vinculado con patricios, plebeyos, mujeres, esclavos y extranjeros; debe definirse dentro de su contexto histórico.
+- **Polis:** Concepto vinculado con la polis como forma de organización; debe definirse dentro de su contexto histórico.
+- **Religion:** Concepto vinculado con religión, mitología y festividades griegas; debe definirse dentro de su contexto histórico.
+- **Religiones:** Concepto vinculado con religiones romanas y expansión del cristianismo; debe definirse dentro de su contexto histórico.
+- **Republica:** Concepto vinculado con la república romana y sus instituciones; debe definirse dentro de su contexto histórico.
+- **Roma:** Concepto vinculado con cómo estudiar grecia y roma mediante fuentes; debe definirse dentro de su contexto histórico.
+- **Romana:** Concepto vinculado con la vida cotidiana en una ciudad romana; debe definirse dentro de su contexto histórico.
+- **Romanas:** Concepto vinculado con comparar ciudades griegas y romanas; debe definirse dentro de su contexto histórico.
+- **Romano:** Concepto vinculado con derecho, lengua, ingeniería y legado romano; debe definirse dentro de su contexto histórico.
+- **Semejanzas:** Concepto vinculado con atenas y esparta: semejanzas y diferencias; debe definirse dentro de su contexto histórico.
+- **Sus:** Concepto vinculado con la república romana y sus instituciones; debe definirse dentro de su contexto histórico.
+- **Teatro:** Concepto vinculado con teatro, filosofía, ciencia y juegos olímpicos; debe definirse dentro de su contexto histórico.
+- **Trabajos:** Concepto vinculado con trabajos, comercio y navegación griega; debe definirse dentro de su contexto histórico.
+- **Vida:** Concepto vinculado con la vida cotidiana en una ciudad romana; debe definirse dentro de su contexto histórico.

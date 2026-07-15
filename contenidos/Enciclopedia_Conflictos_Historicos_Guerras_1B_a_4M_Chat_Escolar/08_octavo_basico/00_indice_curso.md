@@ -1,0 +1,18 @@
+# Índice — 8° básico
+
+- [Guerras de religión](001_guerras_de_religion.md)
+- [Guerra de los Treinta Años](002_guerra_de_los_treinta_anos.md)
+- [Paz de Westfalia](003_paz_de_westfalia.md)
+- [Conquista europea de América](004_conquista_europea_de_america.md)
+- [Resistencias indígenas y cimarronaje](005_resistencias_indigenas_y_cimarronaje.md)
+- [Trata atlántica y violencia](006_trata_atlantica_y_violencia.md)
+- [Guerra civil inglesa](007_guerra_civil_inglesa.md)
+- [Independencia de Estados Unidos](008_independencia_de_estados_unidos.md)
+- [Revolución francesa y violencia](009_revolucion_francesa_y_violencia.md)
+- [Guerras napoleónicas](010_guerras_napoleonicas.md)
+- [Revolución haitiana](011_revolucion_haitiana.md)
+- [Independencias latinoamericanas](012_independencias_latinoamericanas.md)
+- [Imperialismo y violencia colonial](013_imperialismo_y_violencia_colonial.md)
+- [Resistencias anticoloniales](014_resistencias_anticoloniales.md)
+- [Propaganda y nacionalismo](015_propaganda_y_nacionalismo.md)
+- [Derecho humanitario inicial](016_derecho_humanitario_inicial.md)

@@ -1,0 +1,31 @@
+# Índice — 4° medio
+
+> **Referencia curricular:** colección organizada el 2026-07-14. Sigue la progresión chilena de Ciencias Naturales y Ciencias para la Ciudadanía. Los datos médicos, ambientales, astronómicos o tecnológicos actuales requieren fuente reciente.
+- [Salud y decisiones informadas](001_salud_y_decisiones_informadas.md) — Ciencias de la Vida
+- [Epidemiología básica](002_epidemiologia_basica.md) — Ciencia, tecnología, sociedad y ambiente
+- [Salud ambiental](003_salud_ambiental.md) — Ciencias de la Vida
+- [Seguridad alimentaria](004_seguridad_alimentaria.md) — Ciencia, tecnología, sociedad y ambiente
+- [Biotecnología y sociedad](005_biotecnologia_y_sociedad.md) — Ciencia, tecnología, sociedad y ambiente
+- [Genética, privacidad y ética](006_genetica_privacidad_y_etica.md) — Ciencias de la Vida
+- [Medicina personalizada](007_medicina_personalizada.md) — Ciencia, tecnología, sociedad y ambiente
+- [Antibióticos y resistencia](008_antibioticos_y_resistencia.md) — Ciencia, tecnología, sociedad y ambiente
+- [Pandemias y comunicación de riesgo](009_pandemias_y_comunicacion_de_riesgo.md) — Ciencia, tecnología, sociedad y ambiente
+- [Crisis climática](010_crisis_climatica.md) — Ciencia, tecnología, sociedad y ambiente
+- [Mitigación y adaptación](011_mitigacion_y_adaptacion.md) — Ciencia, tecnología, sociedad y ambiente
+- [Transición energética](012_transicion_energetica.md) — Habilidades y naturaleza de la ciencia
+- [Energías renovables](013_energias_renovables.md) — Ciencias Físicas y Químicas
+- [Agua y seguridad hídrica](014_agua_y_seguridad_hidrica.md) — Ciencia, tecnología, sociedad y ambiente
+- [Suelos y producción sostenible](015_suelos_y_produccion_sostenible.md) — Ciencias de la Tierra y el Universo
+- [Océanos y cambio global](016_oceanos_y_cambio_global.md) — Ciencias de la Tierra y el Universo
+- [Ciudades sostenibles](017_ciudades_sostenibles.md) — Ciencia, tecnología, sociedad y ambiente
+- [Riesgo y resiliencia](018_riesgo_y_resiliencia.md) — Ciencia, tecnología, sociedad y ambiente
+- [Tecnologías emergentes](019_tecnologias_emergentes.md) — Ciencia, tecnología, sociedad y ambiente
+- [Automatización y trabajo](020_automatizacion_y_trabajo.md) — Ciencia, tecnología, sociedad y ambiente
+- [Ciencia abierta y datos](021_ciencia_abierta_y_datos.md) — Habilidades y naturaleza de la ciencia
+- [Desinformación científica](022_desinformacion_cientifica.md) — Ciencia, tecnología, sociedad y ambiente
+- [Instituciones científicas del Estado](023_instituciones_cientificas_del_estado.md) — Ciencia, tecnología, sociedad y ambiente
+- [Leyes ambientales y participación](024_leyes_ambientales_y_participacion.md) — Ciencia, tecnología, sociedad y ambiente
+- [Justicia ambiental](025_justicia_ambiental.md) — Ciencia, tecnología, sociedad y ambiente
+- [Derechos de la niñez y ambiente sano](026_derechos_de_la_ninez_y_ambiente_sano.md) — Ciencia, tecnología, sociedad y ambiente
+- [Ciencia, democracia y políticas públicas](027_ciencia_democracia_y_politicas_publicas.md) — Habilidades y naturaleza de la ciencia
+- [Proyecto de investigación aplicada](028_proyecto_de_investigacion_aplicada.md) — Habilidades y naturaleza de la ciencia

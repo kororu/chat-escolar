@@ -1,0 +1,307 @@
+# Palabras clave
+
+- seres vivos y elementos no vivos
+- necesidades de los seres vivos
+- animales y sus características
+- hábitats de animales
+- plantas y sus partes
+- cambios de las plantas
+- los cinco sentidos
+- hábitos de vida saludable
+- materiales de los objetos
+- propiedades de materiales
+- el sol y el día
+- la noche y el cielo
+- estaciones del año
+- cuidado del entorno
+- observar y registrar
+- ciclos de vida
+- animales vertebrados e invertebrados
+- hábitats y adaptaciones simples
+- plantas con flor y sin flor
+- importancia del agua para la vida
+- órganos principales del cuerpo
+- actividad física y salud
+- microbios y prevención básica
+- estados del agua
+- cambios de estado cotidianos
+- fuerza: empujar y tirar
+- movimiento y trayectoria
+- tiempo atmosférico
+- ciclo del agua inicial
+- cuidado de ecosistemas
+- preguntas científicas simples
+- plantas y fotosíntesis inicial
+- polinización y dispersión
+- animales y alimentación
+- cadenas alimentarias simples
+- ecosistemas locales
+- sistema solar inicial
+- rotación de la tierra
+- traslación y estaciones
+- luz y sombras
+- sonido y vibración
+- fuerza y movimiento
+- máquinas simples
+- materia y masa
+- volumen y capacidad
+- temperatura y calor inicial
+- cambios reversibles e irreversibles
+- hábitos de higiene
+- investigación con variables simples
+- niveles de organización de los seres vivos
+- ecosistemas y relaciones
+- cadenas y redes alimentarias
+- adaptaciones al ambiente
+- sistema locomotor
+- sistema nervioso inicial
+- alimentación y nutrientes
+- salud y prevención
+- materia y partículas inicial
+- sólidos, líquidos y gases
+- cambios de estado
+- fuerza de gravedad
+- fricción
+- movimiento y rapidez inicial
+- circuitos eléctricos simples
+- conductores y aislantes
+- capas de la tierra
+- sismos y volcanes
+- rocas y minerales
+- método científico escolar
+- célula como unidad de vida
+- organización celular
+- microorganismos
+- sistema digestivo
+- sistema respiratorio
+- sistema circulatorio
+- sistema excretor
+- alimentación equilibrada
+- efectos del tabaco y contaminantes
+- pubertad y cambios corporales
+- ecosistemas acuáticos
+- océanos y vida marina
+- impacto humano en ecosistemas
+- energía y sus formas
+- electricidad básica
+- circuitos en serie y paralelo
+- fuerzas y movimiento
+- máquinas y eficiencia
+- materia y mezclas
+- separación de mezclas
+- agua en la tierra
+- ciclo del agua y reservas
+- tierra, luna y mareas
+- investigación experimental
+- fotosíntesis
+- respiración celular inicial
+- suelo y sus capas
+- erosión y conservación del suelo
+- relaciones tróficas
+- redes alimentarias
+- pubertad y sistema reproductor
+- autocuidado y sexualidad responsable escolar
+- alcohol, drogas y prevención
+- energía cinética y potencial
+- transformaciones de energía
+- calor y temperatura
+- transferencia de calor
+- electricidad y consumo responsable
+- materia formada por partículas
+- estados de la materia
+- cambios físicos y químicos
+- mezclas y soluciones
+- presión atmosférica inicial
+- atmósfera y clima
+- sistema solar
+- eclipses
+- gravedad y órbitas
+- diseño de experimentos
+- teoría celular
+- células procariontes y eucariontes
+- mitosis
+- reproducción humana
+- sistema reproductor
+- sexualidad, afectividad y autocuidado
+- microorganismos y salud
+- vacunas e inmunidad inicial
+- nutrición y metabolismo
+- fuerzas y diagramas
+- leyes de newton iniciales
+- presión en fluidos
+- máquinas simples y trabajo
+- calor y cambios de estado
+- gases y presión
+- mezclas y sustancias puras
+- elementos y compuestos
+- tabla periódica inicial
+- reacciones químicas
+- ciclo de las rocas
+- tectónica de placas
+- sismos y volcanismo
+- cambio climático inicial
+- investigación y comunicación científica
+- homeostasis
+- sistema digestivo y absorción
+- sistema circulatorio
+- sistema respiratorio
+- sistema excretor
+- nutrición y salud
+- enfermedades no transmisibles
+- microbiota humana
+- reproducción celular
+- genética inicial
+- electricidad y carga eléctrica
+- electrización
+- corriente y voltaje
+- resistencia eléctrica
+- potencia y consumo
+- calor y temperatura
+- modelo atómico
+- átomos, moléculas e iones
+- enlaces químicos iniciales
+- reacciones químicas
+- conservación de la masa
+- estructura interna de la tierra
+- tectónica de placas
+- evidencias de evolución
+- selección natural inicial
+- método científico y evaluación de evidencia
+- biomoléculas
+- estructura y función celular
+- membrana plasmática
+- transporte celular
+- metabolismo celular
+- división celular y cáncer
+- genética mendeliana
+- adn y genes
+- evolución y selección natural
+- ecosistemas y flujo de energía
+- ciclos biogeoquímicos
+- biodiversidad y conservación
+- movimiento rectilíneo
+- rapidez y velocidad
+- aceleración
+- leyes de newton
+- trabajo y energía
+- impulso y cantidad de movimiento
+- ondas
+- sonido
+- luz y óptica
+- estructura atómica
+- tabla periódica
+- enlace químico
+- reacciones y estequiometría inicial
+- tierra dinámica
+- astronomía y escalas del universo
+- investigación científica escolar avanzada
+- sistema nervioso
+- sistema endocrino
+- homeostasis avanzada
+- reproducción y desarrollo
+- genética y herencia
+- mutaciones
+- biotecnología
+- evolución humana
+- ecología de poblaciones
+- comunidades y sucesión
+- conservación de biodiversidad
+- movimiento circular
+- gravitación universal
+- energía mecánica
+- electricidad y magnetismo
+- circuitos eléctricos
+- electromagnetismo
+- ondas electromagnéticas
+- óptica geométrica
+- termodinámica inicial
+- estructura de la materia
+- mol y cantidad de sustancia
+- soluciones y concentración
+- ácidos y bases
+- reacciones redox
+- química orgánica inicial
+- geología y tectónica
+- origen y evolución del universo
+- ciencia, tecnología y sociedad
+- diseño experimental y análisis de datos
+- bienestar y salud
+- factores biológicos de la salud
+- factores ambientales de la salud
+- factores sociales de la salud
+- nutrición y salud pública
+- actividad física y salud
+- estrés y salud mental
+- alcohol, drogas y prevención
+- radiación uv y prevención
+- patógenos y enfermedades infecciosas
+- vacunas y salud colectiva
+- ambiente y sostenibilidad
+- cambio climático y evidencia
+- contaminación del aire
+- contaminación del agua
+- residuos y economía circular
+- biodiversidad y servicios ecosistémicos
+- seguridad, prevención y autocuidado
+- riesgos naturales y tecnológicos
+- tecnología y sociedad
+- inteligencia artificial y ciencia
+- datos, evidencia y decisiones
+- ética de la investigación
+- proyecto científico ciudadano
+- salud y decisiones informadas
+- epidemiología básica
+- salud ambiental
+- seguridad alimentaria
+- biotecnología y sociedad
+- genética, privacidad y ética
+- medicina personalizada
+- antibióticos y resistencia
+- pandemias y comunicación de riesgo
+- crisis climática
+- mitigación y adaptación
+- transición energética
+- energías renovables
+- agua y seguridad hídrica
+- suelos y producción sostenible
+- océanos y cambio global
+- ciudades sostenibles
+- riesgo y resiliencia
+- tecnologías emergentes
+- automatización y trabajo
+- ciencia abierta y datos
+- desinformación científica
+- instituciones científicas del estado
+- leyes ambientales y participación
+- justicia ambiental
+- derechos de la niñez y ambiente sano
+- ciencia, democracia y políticas públicas
+- proyecto de investigación aplicada
+- qué es la ciencia
+- método científico
+- observación, inferencia y evidencia
+- hipótesis y predicción
+- variables y control experimental
+- medición y unidades
+- tablas, gráficos y comunicación
+- seguridad en experimentos
+- ética científica
+- seres vivos y célula
+- cuerpo humano y salud
+- materia y partículas
+- energía y transformaciones
+- fuerza, movimiento y gravedad
+- luz, sonido y ondas
+- electricidad y magnetismo
+- tierra y sus sistemas
+- sistema solar y universo
+- ecosistemas y biodiversidad
+- cambio climático
+- cuidado del medioambiente
+- ciencia y vida diaria
+- ciencia, tecnología y sociedad
+- ciudadanía científica
+- leyes ambientales e instituciones
+- derechos de la niñez, salud y ambiente
+- resolución pacífica de controversias científicas
+- ciudadanía digital y desinformación científica

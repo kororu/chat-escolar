@@ -1,0 +1,28 @@
+# Índice de Física — 8° básico
+
+- [Carga eléctrica](001_carga_electrica.md) — electricidad
+- [Electricidad positiva y negativa](002_electricidad_positiva_y_negativa.md) — electricidad
+- [Electrización por fricción](003_electrizacion_por_friccion.md) — fisica_general
+- [Electrización por contacto](004_electrizacion_por_contacto.md) — fisica_general
+- [Electrización por inducción](005_electrizacion_por_induccion.md) — fisica_general
+- [Fuerza eléctrica](006_fuerza_electrica.md) — mecanica
+- [Campo eléctrico inicial](007_campo_electrico_inicial.md) — fisica_general
+- [Corriente eléctrica](008_corriente_electrica.md) — electricidad
+- [Voltaje](009_voltaje.md) — electricidad
+- [Resistencia](010_resistencia.md) — fisica_general
+- [Ley de Ohm inicial](011_ley_de_ohm_inicial.md) — fisica_general
+- [Circuitos serie y paralelo](012_circuitos_serie_y_paralelo.md) — electricidad
+- [Potencia y energía eléctrica](013_potencia_y_energia_electrica.md) — energia
+- [Generación de electricidad](014_generacion_de_electricidad.md) — electricidad
+- [Pilas y baterías](015_pilas_y_baterias.md) — electricidad
+- [Paneles fotovoltaicos](016_paneles_fotovoltaicos.md) — electricidad
+- [Generadores eólicos e hidroeléctricos](017_generadores_eolicos_e_hidroelectricos.md) — fisica_general
+- [Riesgos eléctricos](018_riesgos_electricos.md) — fisica_general
+- [Calor y temperatura](019_calor_y_temperatura.md) — termica
+- [Equilibrio térmico](020_equilibrio_termico.md) — fisica_general
+- [Conducción](021_conduccion.md) — fisica_general
+- [Convección](022_conveccion.md) — fisica_general
+- [Radiación térmica](023_radiacion_termica.md) — termica
+- [Capacidad térmica inicial](024_capacidad_termica_inicial.md) — termica
+- [Dilatación térmica](025_dilatacion_termica.md) — termica
+- [Tecnologías térmicas](026_tecnologias_termicas.md) — termica

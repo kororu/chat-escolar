@@ -1,0 +1,29 @@
+version: 1
+coleccion: geografia_chile_universal
+indexar:
+  incluir:
+    - "01_primero_basico/**/*.md"
+    - "02_segundo_basico/**/*.md"
+    - "03_tercero_basico/**/*.md"
+    - "04_cuarto_basico/**/*.md"
+    - "05_quinto_basico/**/*.md"
+    - "06_sexto_basico/**/*.md"
+    - "07_septimo_basico/**/*.md"
+    - "08_octavo_basico/**/*.md"
+    - "09_primero_medio/**/*.md"
+    - "10_segundo_medio/**/*.md"
+    - "11_tercero_medio/**/*.md"
+    - "12_cuarto_medio/**/*.md"
+    - "13_tematicos_transversales/**/*.md"
+  excluir:
+    - "17_compendios/**/*.md"
+prioridad:
+  - curso_activo
+  - curso_origen
+  - apto_desde
+  - categoria
+  - requiere_fuente_verificada
+chunking:
+  por_encabezados: true
+  max_caracteres: 1600
+  solapamiento: 150

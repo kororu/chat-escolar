@@ -1,0 +1,1887 @@
+[
+  {
+    "path": "00_documentacion/00_indice_maestro.md",
+    "size": 3768,
+    "sha256": "3578c7f0c785c279b204802f5069121cc1a896cc44bd1c6e4f0457e597331c02"
+  },
+  {
+    "path": "00_documentacion/00_instalacion.md",
+    "size": 171,
+    "sha256": "a1bb6dd58ef184f6a99c27576853b81b055eee43df627242b4a9373b528bd82b"
+  },
+  {
+    "path": "00_documentacion/01_estado_curricular_y_fuentes.md",
+    "size": 1520,
+    "sha256": "a1b11525ff2e8fd8e535d2eb76e9d7a0d34b1db58543b8335ab7e11c38bdd079"
+  },
+  {
+    "path": "00_documentacion/02_arquitectura_de_contenidos.md",
+    "size": 166,
+    "sha256": "38ca0008eac472aef001700be5e31a7690ecc4bda48466ec3633674c79ccc6de"
+  },
+  {
+    "path": "00_documentacion/03_guia_editorial_biologica.md",
+    "size": 422,
+    "sha256": "23d9ed7079092358c3a70ef534f2b18724d19540c9888bb93da64fbb34411722"
+  },
+  {
+    "path": "00_documentacion/04_mapa_vertical_curricular.md",
+    "size": 7963,
+    "sha256": "fbbcd23d7e44fa3b22df0f04a0509b51827cea294b1074f691d099333472d203"
+  },
+  {
+    "path": "00_documentacion/05_integracion_ollama_rag.md",
+    "size": 360,
+    "sha256": "6901f23af327e656d13b99d79e218d635bd934bb05876379094cf0f8b316ec14"
+  },
+  {
+    "path": "00_documentacion/06_prompt_sistema_ollama.md",
+    "size": 325,
+    "sha256": "c9b4a5f4b760a80b2cadef0db8e856101dde01489ecc029cf572d13b3be7483b"
+  },
+  {
+    "path": "00_documentacion/07_configuracion_rag.yaml",
+    "size": 610,
+    "sha256": "ce4345a7214c3ceb09d1f7c438a06de57031e5f83f3801ea7912ef1ca5ec6003"
+  },
+  {
+    "path": "00_documentacion/08_control_calidad.md",
+    "size": 149,
+    "sha256": "e89055467068bf9372ae420f51b98baea5acbe7fa2fe20e877e04349b1f9bda1"
+  },
+  {
+    "path": "00_documentacion/09_pruebas_recuperacion.md",
+    "size": 363,
+    "sha256": "58c7bca2d425fb662fbe15c8084df274a5b1aa7bad923c98e88d219219b4d42c"
+  },
+  {
+    "path": "01_primero_basico/001_seres_vivos_y_objetos_no_vivos.md",
+    "size": 7968,
+    "sha256": "4adca4b84ddd07a5b85aecfb640958c09bed3e82dc83543e224fc2140095126f"
+  },
+  {
+    "path": "01_primero_basico/002_necesidades_de_los_seres_vivos.md",
+    "size": 7968,
+    "sha256": "c1ad2a1d3731e864ffabbd4b7ee2aba9ac5143959c303e649c11f9f32fa0360e"
+  },
+  {
+    "path": "01_primero_basico/003_crecimiento_y_cambios_en_los_seres_vivos.md",
+    "size": 8028,
+    "sha256": "2d245e7c8095127d5f980b8a424a3d3b17505c1f5620924c89fa9aceaa135c8a"
+  },
+  {
+    "path": "01_primero_basico/004_respuesta_a_estimulos.md",
+    "size": 7919,
+    "sha256": "a89d94d250f3b58cf22a4261c3a93e9e87d58af917f0bca8d9c4dfa2cdb93757"
+  },
+  {
+    "path": "01_primero_basico/005_animales_segun_cubierta_corporal.md",
+    "size": 7977,
+    "sha256": "8458743193b6f4c3a48b6896ceed0d6820761ad46a4abb714fd6b5e28c04b569"
+  },
+  {
+    "path": "01_primero_basico/006_animales_segun_desplazamiento.md",
+    "size": 7959,
+    "sha256": "4717018e13365320c9ead6ddaa58dc7f9fdef75b44c216646b8cc0f191b4b2c1"
+  },
+  {
+    "path": "01_primero_basico/007_habitats_de_animales.md",
+    "size": 7919,
+    "sha256": "5c9d350204fe9250845e23dba1045d049aaf2bcf062deffd8ac6076b867a7f86"
+  },
+  {
+    "path": "01_primero_basico/008_animales_nativos_de_chile.md",
+    "size": 7930,
+    "sha256": "82ae9927280b0e2cd3901c636f5a62a5d66ec1ea7b62df948777532db37adac4"
+  },
+  {
+    "path": "01_primero_basico/009_plantas_y_sus_partes.md",
+    "size": 7900,
+    "sha256": "02303be9484207f45d807f2f752438136bfa6b6513aefc549f90da4cceb1a6c9"
+  },
+  {
+    "path": "01_primero_basico/00_indice_curso.md",
+    "size": 2039,
+    "sha256": "c497792a1683b5cf64bb289d12405fb5ca66943783b222d2d935b973ceb443d4"
+  },
+  {
+    "path": "01_primero_basico/010_necesidades_de_las_plantas.md",
+    "size": 7936,
+    "sha256": "b96d3462159e1e1d2e660df9dcf4ee1798de07e641158846c1cf512f7f7a149c"
+  },
+  {
+    "path": "01_primero_basico/011_cambios_estacionales_en_plantas_y_animales.md",
+    "size": 8032,
+    "sha256": "c43c80c6cad976855afbb900070d8cb66c3da8c6ade48682fbed9f5b3ba62061"
+  },
+  {
+    "path": "01_primero_basico/012_los_sentidos.md",
+    "size": 7860,
+    "sha256": "af91b0c50b1ec4c083c518aeb9aac547c8ecca54a351687b0e14a62f0f1333a5"
+  },
+  {
+    "path": "01_primero_basico/013_cuidado_de_los_sentidos.md",
+    "size": 7926,
+    "sha256": "ef619a3cac0220b2c51839d90bf87a85c0d2a93b1f03a6dfc16efef9c6f934e5"
+  },
+  {
+    "path": "01_primero_basico/014_habitos_de_higiene.md",
+    "size": 7901,
+    "sha256": "92c659bb63cd88c0496426d5fb66b8fc49ac47ab20d188e895a1d4affe137aff"
+  },
+  {
+    "path": "01_primero_basico/015_cuidado_de_seres_vivos.md",
+    "size": 7920,
+    "sha256": "7e02de1a9d8ac90ff67dec4d62a5deb4e587acd283784641955279d7a1d6c1d8"
+  },
+  {
+    "path": "01_primero_basico/01_glosario_curso.md",
+    "size": 378,
+    "sha256": "6d839507600eec600671ad9096440c99a50bde21251d6b220d9c9c85261edab5"
+  },
+  {
+    "path": "01_primero_basico/02_banco_preguntas.md",
+    "size": 3593,
+    "sha256": "eb104e020de60cc3554beb524f582e44af98589a94ec1a52869bb515dabccc48"
+  },
+  {
+    "path": "02_segundo_basico/001_ciclos_de_vida_de_animales.md",
+    "size": 7950,
+    "sha256": "507c916acfc35f10da04059d47abd98779f15ff95a567f011e1f1e7b1ced4452"
+  },
+  {
+    "path": "02_segundo_basico/002_ciclo_de_vida_de_plantas.md",
+    "size": 7938,
+    "sha256": "66d4a1a152342f06a2ecbe3f250dfd1483a569e58c5dbce91fe912c96d73d0fa"
+  },
+  {
+    "path": "02_segundo_basico/003_vertebrados_e_invertebrados.md",
+    "size": 7942,
+    "sha256": "2f2fe28c832f47c65d035928fd086f3227df25008aeac8c56412c8523fffa55f"
+  },
+  {
+    "path": "02_segundo_basico/004_mamiferos_aves_reptiles_anfibios_y_peces.md",
+    "size": 8040,
+    "sha256": "05697c846fdb67f2c83ee540c59f29b5d5ec1d18c322a7f231a36751d38a8280"
+  },
+  {
+    "path": "02_segundo_basico/005_adaptaciones_simples_al_habitat.md",
+    "size": 7985,
+    "sha256": "0dedbbf179a40f077e4aac8a1fad901f363159a41ad55c6b15153b8308e3b014"
+  },
+  {
+    "path": "02_segundo_basico/006_animales_en_peligro_de_extincion.md",
+    "size": 7977,
+    "sha256": "f167ac6b0a65512c9f109980873721dc994fcb981082ce491edffce2d5a1dbdd"
+  },
+  {
+    "path": "02_segundo_basico/007_impacto_humano_en_habitats.md",
+    "size": 7955,
+    "sha256": "0888106986af9a85057c535c0eeb98bd21052d3c63f941ba2f8a06974c0bb9fb"
+  },
+  {
+    "path": "02_segundo_basico/008_partes_internas_principales_del_cuerpo.md",
+    "size": 8021,
+    "sha256": "f0b0c5df9c02462db5fdb1a64febc3f2ce6e544046edcfa53dcef2eba1405a3b"
+  },
+  {
+    "path": "02_segundo_basico/009_corazon_y_circulacion_inicial.md",
+    "size": 7972,
+    "sha256": "4a54e85f1bb645f0eab532122f96928fbdf38f336af486bbc852347ee92ec034"
+  },
+  {
+    "path": "02_segundo_basico/00_indice_curso.md",
+    "size": 2310,
+    "sha256": "c4c922621e095128e6e3c28470eec10a34f0eaabb7685f7101c39904e4d3d0fb"
+  },
+  {
+    "path": "02_segundo_basico/010_pulmones_y_respiracion_inicial.md",
+    "size": 7973,
+    "sha256": "c62740f14279cf3ce54b684b034bf00e5f15fe44ce7f727aa0efaf11aa294b83"
+  },
+  {
+    "path": "02_segundo_basico/011_estomago_y_digestion_inicial.md",
+    "size": 7966,
+    "sha256": "0a83cef8c998fbf5db53fc3d8ed5db5cab4c2248f05cc22330050fdbb246bb60"
+  },
+  {
+    "path": "02_segundo_basico/012_actividad_fisica_y_cuerpo.md",
+    "size": 7948,
+    "sha256": "a2432b2250f219ea94ea6c258183ab59b0daf4b1394e24d5301f28f64d572869"
+  },
+  {
+    "path": "02_segundo_basico/013_alimentacion_saludable.md",
+    "size": 7925,
+    "sha256": "6001ea0650f11d1c8f88675dc8ae0358c689f86113eabdc1663a70e6967947c7"
+  },
+  {
+    "path": "02_segundo_basico/014_microorganismos_primera_aproximacion.md",
+    "size": 8017,
+    "sha256": "5ef46fa8e53998468953b3d80d06be47ec1273a67b32efc09dee0e886a151427"
+  },
+  {
+    "path": "02_segundo_basico/015_prevencion_de_enfermedades.md",
+    "size": 7953,
+    "sha256": "0e06b239415ee49f8b42087b3b192786f78872e899275872d8d642ef89db5b06"
+  },
+  {
+    "path": "02_segundo_basico/016_cuidado_de_ecosistemas_locales.md",
+    "size": 7971,
+    "sha256": "863d99c77f8a05b62a28f31644acc8cfd17631df4150a22891dade54d3e0a0ff"
+  },
+  {
+    "path": "02_segundo_basico/01_glosario_curso.md",
+    "size": 378,
+    "sha256": "2407b67b08fb1de191055aceb421c2a1ef141b4c87de2e414bd6fe7f76fd086d"
+  },
+  {
+    "path": "02_segundo_basico/02_banco_preguntas.md",
+    "size": 3895,
+    "sha256": "7ce1eef2b849d29dd60429126d68cfbf8639459b60b2b736133ba82d00cd4e64"
+  },
+  {
+    "path": "03_tercero_basico/001_plantas_con_flor.md",
+    "size": 7876,
+    "sha256": "50a13f7055080eb173e4e65fec251b05a389f7a69a81f54c6cb464a6a389c532"
+  },
+  {
+    "path": "03_tercero_basico/002_polinizacion.md",
+    "size": 7857,
+    "sha256": "2b7abda283d372c0096f0b17cae92d575f3b613ac0cc1ba85adeec2feabcb1ae"
+  },
+  {
+    "path": "03_tercero_basico/003_formacion_de_frutos_y_semillas.md",
+    "size": 7965,
+    "sha256": "086a401f97995c8b7a875bdf6fa6e3908f918577e2afeedc5e50eae7dc0ca94d"
+  },
+  {
+    "path": "03_tercero_basico/004_dispersion_de_semillas.md",
+    "size": 7917,
+    "sha256": "25bef9cc2f5d3df49a21b5157462ee52d384cf4c99dca3b38543d7e58db30683"
+  },
+  {
+    "path": "03_tercero_basico/005_germinacion.md",
+    "size": 7851,
+    "sha256": "20601f37173ccea033e70d16e19d7da27e3ebe1cce02064591b6c4e657ec6073"
+  },
+  {
+    "path": "03_tercero_basico/006_fotosintesis_inicial.md",
+    "size": 7986,
+    "sha256": "d393c14a0d6e224a44b442e2d5e0eca4d51bdea8b6db04cfee037b5784a05826"
+  },
+  {
+    "path": "03_tercero_basico/007_clasificacion_de_animales_por_alimentacion.md",
+    "size": 8042,
+    "sha256": "bf57fdcf0da4af183f6a53a87635e00e4d8bc60c838c3e732181762b307be1bb"
+  },
+  {
+    "path": "03_tercero_basico/008_herbivoros_carnivoros_y_omnivoros.md",
+    "size": 8006,
+    "sha256": "c1492c134c412c31d44cdfffeb52c8c56e0794c7e6709b1f6e9131cf88838ba0"
+  },
+  {
+    "path": "03_tercero_basico/009_cadenas_alimentarias_simples.md",
+    "size": 7956,
+    "sha256": "cb53f9c6cc3d445ed1aeb35943cdaf1baa5788a8c6ad0b7910f73c4af86070bc"
+  },
+  {
+    "path": "03_tercero_basico/00_indice_curso.md",
+    "size": 2285,
+    "sha256": "3a0f5c52f79df0d53381765fc8582967c4f666b213b1135d60abb56d9112cf9c"
+  },
+  {
+    "path": "03_tercero_basico/010_productores_consumidores_y_descomponedores.md",
+    "size": 8045,
+    "sha256": "048fe08fb25db3a7ab5aadc7607f32c67c4bc30294d808a25905037e790d4557"
+  },
+  {
+    "path": "03_tercero_basico/011_ecosistemas_de_chile.md",
+    "size": 7911,
+    "sha256": "91d6f1fbd9443c8dc9822bbe3dcd848fc7859b07fab8589549f549116c3a3c12"
+  },
+  {
+    "path": "03_tercero_basico/012_relaciones_entre_seres_vivos.md",
+    "size": 7956,
+    "sha256": "17ed16f09ac0570510a7401fd0c868284ecaad91007694cb5f6ab01dac79527b"
+  },
+  {
+    "path": "03_tercero_basico/013_adaptaciones_estructurales.md",
+    "size": 7944,
+    "sha256": "c85e0af32ae045dfef071c5f8975753aa9b2566cdea96cb846fb20abdf952099"
+  },
+  {
+    "path": "03_tercero_basico/014_adaptaciones_de_comportamiento.md",
+    "size": 7968,
+    "sha256": "873fe6ba1aacf7cc1701fd2dbf3f24bc211b5aa931ad97eb9355aeb26d6151a2"
+  },
+  {
+    "path": "03_tercero_basico/015_sistema_locomotor_inicial.md",
+    "size": 7938,
+    "sha256": "1c3b404779497858617a0aa71b66f64cbe066ecc904e85cb5381dbf2a2202894"
+  },
+  {
+    "path": "03_tercero_basico/016_huesos_y_articulaciones.md",
+    "size": 7926,
+    "sha256": "9a7cdae7336f3e6ee37aa3481e9a6af8cd4cbe5037438bc75b72d92a942126aa"
+  },
+  {
+    "path": "03_tercero_basico/017_musculos_y_movimiento.md",
+    "size": 7919,
+    "sha256": "c9abf8bddf1376c8903c2a1239e1054cc8e6077e607483f4166090aab3ba0b21"
+  },
+  {
+    "path": "03_tercero_basico/018_salud_higiene_y_prevencion.md",
+    "size": 7954,
+    "sha256": "0fcb80b4813530b5ae29910e85ee5339768c91cfea9965d9813a60cf2e79b2bc"
+  },
+  {
+    "path": "03_tercero_basico/01_glosario_curso.md",
+    "size": 378,
+    "sha256": "297eb301c329eaad3f8e324c6ca954bc37e233a985cb68690f65740e8e3a5e4b"
+  },
+  {
+    "path": "03_tercero_basico/02_banco_preguntas.md",
+    "size": 4298,
+    "sha256": "57d232f699ff0bd8dd4390846e341734b46a939926e52e490505e4f5e883a359"
+  },
+  {
+    "path": "04_cuarto_basico/001_niveles_de_organizacion_inicial.md",
+    "size": 7980,
+    "sha256": "307b60da1cd349d0e573338362ceb8b7e5ba23bb570581c25616a6574f3a5748"
+  },
+  {
+    "path": "04_cuarto_basico/002_organos_y_sistemas.md",
+    "size": 7902,
+    "sha256": "4621bd73f3130ad33be101a5dda0220680041c2571fa19055c3ea78e626b813e"
+  },
+  {
+    "path": "04_cuarto_basico/003_sistema_locomotor.md",
+    "size": 7891,
+    "sha256": "4c4719e2731d2eddaa5cd71b898274cf753e06663c7d80b0eafd64e71e755135"
+  },
+  {
+    "path": "04_cuarto_basico/004_sistema_nervioso_inicial.md",
+    "size": 7933,
+    "sha256": "33f61d1d93b0edc66cf1870c211907fa90c3b03469db51beeb1cedee14fede02"
+  },
+  {
+    "path": "04_cuarto_basico/005_respuesta_a_estimulos.md",
+    "size": 7920,
+    "sha256": "e9892aec2e8c276d8210ac6c670659f033fec4ab8e168f10e28f655d3b5f09a8"
+  },
+  {
+    "path": "04_cuarto_basico/006_nutrientes_y_alimentacion.md",
+    "size": 7944,
+    "sha256": "55e1170e08d218bc0250b947065d67a29197fdaa3f4bfa1dd918548ba3c06021"
+  },
+  {
+    "path": "04_cuarto_basico/007_digestion_y_absorcion_inicial.md",
+    "size": 7973,
+    "sha256": "3056390fa7404b05fbde761f664d10b4ca3f753933b1a69733cb0b681a2334ce"
+  },
+  {
+    "path": "04_cuarto_basico/008_respiracion_y_oxigeno.md",
+    "size": 7954,
+    "sha256": "bb365d3434c33bc5fdf43625850fd50c9fe8523597165e0c9603e0d5f9005672"
+  },
+  {
+    "path": "04_cuarto_basico/009_circulacion_y_transporte.md",
+    "size": 7938,
+    "sha256": "384801101db5555f11d7ef9479f9da1dbea603458f5c5734a4c64bc9c62db5d4"
+  },
+  {
+    "path": "04_cuarto_basico/00_indice_curso.md",
+    "size": 2442,
+    "sha256": "e03e43a80cfc3e40eb4bfd5e2045c315fcbac440400c64011c20f52b79ef91fb"
+  },
+  {
+    "path": "04_cuarto_basico/010_excrecion_inicial.md",
+    "size": 7896,
+    "sha256": "591432495b1720716fd3d3f6d2872d161963859e16f0ab5db2465119b704d85d"
+  },
+  {
+    "path": "04_cuarto_basico/011_cadenas_alimentarias.md",
+    "size": 7909,
+    "sha256": "880729456e22ede71720b9d943edcd9cda7662e452d53b389dabb2393cca073f"
+  },
+  {
+    "path": "04_cuarto_basico/012_redes_alimentarias.md",
+    "size": 7897,
+    "sha256": "3ee0e5dbcb0fc8aecccf1f92c9731d78d1002e28d1694e009dabef69c5bc5afb"
+  },
+  {
+    "path": "04_cuarto_basico/013_flujo_de_energia_inicial.md",
+    "size": 7938,
+    "sha256": "fe181fa7477b6f628d370058d15a0bdc3f7b87ae96120318a9e6687af8b40a27"
+  },
+  {
+    "path": "04_cuarto_basico/014_ecosistemas_terrestres.md",
+    "size": 7924,
+    "sha256": "46042cfd3b7413175a74b6ea7634c17762ed0724d23cb884d6f58aab1e1e0ea0"
+  },
+  {
+    "path": "04_cuarto_basico/015_ecosistemas_acuaticos.md",
+    "size": 7923,
+    "sha256": "45e86ac91995571a7c50835c480fc85da5aece5eaaa0437a778bd6914d82ee6e"
+  },
+  {
+    "path": "04_cuarto_basico/016_adaptacion_y_supervivencia.md",
+    "size": 7950,
+    "sha256": "5c832fd6d8c80f2f821b012cf215ed6847b6025baf7f890d4ba25221833d85b4"
+  },
+  {
+    "path": "04_cuarto_basico/017_cambios_ambientales.md",
+    "size": 7903,
+    "sha256": "bf39dda55c0a5ee974edca7ec1a18dd20b053259350801bf2acfdbba878c4b0c"
+  },
+  {
+    "path": "04_cuarto_basico/018_impacto_humano_y_conservacion.md",
+    "size": 7974,
+    "sha256": "2052a00f749d017a31f3dde1da1dbbfff529c76625b937673cdeeb3b17ba0531"
+  },
+  {
+    "path": "04_cuarto_basico/019_biodiversidad_local.md",
+    "size": 7907,
+    "sha256": "30623b10c4b1e55830a27c6ef94c42b6b2ba4f1eb854a3ea6374abcefe99cce1"
+  },
+  {
+    "path": "04_cuarto_basico/01_glosario_curso.md",
+    "size": 378,
+    "sha256": "4ec37dd2b3dd255276ae97e028177208bab5f497f19dcdeae5ea2c60b8b13279"
+  },
+  {
+    "path": "04_cuarto_basico/020_investigacion_biologica_escolar.md",
+    "size": 7985,
+    "sha256": "7ffd3e90e85a1df3bc364cc34744c16948af9e93e7c21451fad829b2695c559e"
+  },
+  {
+    "path": "04_cuarto_basico/02_banco_preguntas.md",
+    "size": 4720,
+    "sha256": "bcc4e7a17ff5628d692fe47c6c5fe1887a1760a9ed91007337a8895f6cd4300a"
+  },
+  {
+    "path": "05_quinto_basico/001_la_celula_como_unidad_de_vida.md",
+    "size": 8019,
+    "sha256": "3202dce0fb1e30c64c7249e817d8ed543710702e54ffe67bb19cde8b94e191fa"
+  },
+  {
+    "path": "05_quinto_basico/002_celulas_animales_y_vegetales.md",
+    "size": 8013,
+    "sha256": "a8407db51b78e2d20325bd013f7106b25d8ab11ff566185303decafc5a8c8198"
+  },
+  {
+    "path": "05_quinto_basico/003_nucleo_citoplasma_y_membrana.md",
+    "size": 7971,
+    "sha256": "afc8fc216e236e0f9dfe01004cc2d4a5352993134f0377733d274f456377ce2a"
+  },
+  {
+    "path": "05_quinto_basico/004_microscopio_y_observacion_celular.md",
+    "size": 8002,
+    "sha256": "48c65b600d6ee6b784f2d2d0252ce664e125edc1449853ae82a542e539cb27e8"
+  },
+  {
+    "path": "05_quinto_basico/005_niveles_de_organizacion_biologica.md",
+    "size": 8001,
+    "sha256": "4a0549ac59506e0a228018586d30b8060cde81e42fc81f039fdf67213520bf57"
+  },
+  {
+    "path": "05_quinto_basico/006_sistema_digestivo.md",
+    "size": 7933,
+    "sha256": "292f360c71880d34ab346e5d72e10875de535c8d16116802f16df587620aba80"
+  },
+  {
+    "path": "05_quinto_basico/007_sistema_respiratorio.md",
+    "size": 7913,
+    "sha256": "3b064ab58535391096607014ac1d54276bba7e820ae15a1d7f55514cf07e5b27"
+  },
+  {
+    "path": "05_quinto_basico/008_sistema_circulatorio.md",
+    "size": 7913,
+    "sha256": "3dc5f41df1e7d5c2b6d131cb8ed10e802ad4f483d797536315ccc7257d964d64"
+  },
+  {
+    "path": "05_quinto_basico/009_sistema_excretor.md",
+    "size": 7889,
+    "sha256": "0c67119b873448248023679d3f8d34750017bf0758eccf12fb714a5d6155158e"
+  },
+  {
+    "path": "05_quinto_basico/00_indice_curso.md",
+    "size": 2996,
+    "sha256": "551c753e8d10dbe23b74bcf084a4c0731a98c790c0673238015bf647febffc93"
+  },
+  {
+    "path": "05_quinto_basico/010_interaccion_entre_sistemas_corporales.md",
+    "size": 8020,
+    "sha256": "ae058030ad272af23d8bda6e24bf92244b06c8e4d5124518a3a1a2c72073ffe5"
+  },
+  {
+    "path": "05_quinto_basico/011_nutricion_equilibrada.md",
+    "size": 7929,
+    "sha256": "60aee47ecf3dc93df9b4bd96a0a377cb0d3ec047cb205395b8e271f0e4ea3306"
+  },
+  {
+    "path": "05_quinto_basico/012_habitos_y_salud_corporal.md",
+    "size": 7942,
+    "sha256": "39ca9b1525f8dbd95567d39508d6f20fbc1fd68e579163257f539fec3c9c44e6"
+  },
+  {
+    "path": "05_quinto_basico/013_microorganismos_beneficiosos.md",
+    "size": 7964,
+    "sha256": "0165c5b593f477881b6b298a7ab56db060428162ff22e4bfbba397bb9afe0cb3"
+  },
+  {
+    "path": "05_quinto_basico/014_microorganismos_patogenos.md",
+    "size": 7976,
+    "sha256": "e9fb181e456e31b17ab94b9d005af660ffc1745903392ff3037b55b66209b7bc"
+  },
+  {
+    "path": "05_quinto_basico/015_higiene_y_prevencion_de_infecciones.md",
+    "size": 8008,
+    "sha256": "8ab477042dbbd115df8c1830f4edcdb2cde307973ba80a802fe8f5f71c2771d5"
+  },
+  {
+    "path": "05_quinto_basico/016_pubertad_cambios_fisicos.md",
+    "size": 7951,
+    "sha256": "50cdd888eded7dd07bc63ce1b8c0e82cd31da315e0dd70b503a60e8b0f53f3f3"
+  },
+  {
+    "path": "05_quinto_basico/017_pubertad_cambios_emocionales.md",
+    "size": 7970,
+    "sha256": "671f835222927366121f78c006e094e6cc3f86baa53933ebcb603621824b4b7d"
+  },
+  {
+    "path": "05_quinto_basico/018_respeto_privacidad_y_autocuidado.md",
+    "size": 7990,
+    "sha256": "08aec862a88db3dbd4408071e4ceb611df6a3d126209b269ec723bdb4c898310"
+  },
+  {
+    "path": "05_quinto_basico/019_ecosistemas_acuaticos.md",
+    "size": 7927,
+    "sha256": "469ff38a5202d2fc77a69b88bb7f2432cd5605f530e037daef5e2da3c399b345"
+  },
+  {
+    "path": "05_quinto_basico/01_glosario_curso.md",
+    "size": 378,
+    "sha256": "21a93e002727abd1fb1ef5d03d6af1b43c19d204ebe814f92eea980a03bdbc88"
+  },
+  {
+    "path": "05_quinto_basico/020_oceanos_y_biodiversidad.md",
+    "size": 7940,
+    "sha256": "a78d038941dfc8f2d931f35a8dfdb5bd80fe96b09da7bb0b30603ce4a804b7b3"
+  },
+  {
+    "path": "05_quinto_basico/021_cadenas_troficas_acuaticas.md",
+    "size": 7965,
+    "sha256": "ebde0b86c0ee98d8934a7eba38655f046fa49a31dbc5da45cb6f2ba4d6d9feeb"
+  },
+  {
+    "path": "05_quinto_basico/022_impacto_humano_en_ambientes_acuaticos.md",
+    "size": 8020,
+    "sha256": "49a9ae468b940f82f6fd17ec956e49427a2a9475a1fbe0b10f91c1a0c3c0b55e"
+  },
+  {
+    "path": "05_quinto_basico/023_conservacion_de_especies.md",
+    "size": 7948,
+    "sha256": "5e42808229acbf523ff79840826b5f39155b2e95502a1dda8b327c64be4a9223"
+  },
+  {
+    "path": "05_quinto_basico/024_diseno_de_investigaciones_biologicas.md",
+    "size": 8019,
+    "sha256": "e48e6879c44f6188c5ea8c5ad5b270edf7340e0321a5c3f6e46846ffb810f3d7"
+  },
+  {
+    "path": "05_quinto_basico/02_banco_preguntas.md",
+    "size": 5757,
+    "sha256": "abaf88688bb629808fbc93a95d0a2d4d30bf63d9235fa9199e01f2d3243b1908"
+  },
+  {
+    "path": "06_sexto_basico/001_fotosintesis.md",
+    "size": 7943,
+    "sha256": "08217597ef649f70b211f7739719edd353b341139ec744600f0b72498aba5a1c"
+  },
+  {
+    "path": "06_sexto_basico/002_intercambio_de_gases_en_plantas.md",
+    "size": 7971,
+    "sha256": "99e2d83a67258b535230b6c2cb6fec80454a3378ae0c981c5969f3b98890b218"
+  },
+  {
+    "path": "06_sexto_basico/003_transporte_de_agua_en_plantas.md",
+    "size": 7959,
+    "sha256": "aaedefc3d3a9c6cfe6f8fbb3769b6d9bb77b7f5dc4e45d46e5ca14537b1af684"
+  },
+  {
+    "path": "06_sexto_basico/004_respiracion_celular_inicial.md",
+    "size": 7960,
+    "sha256": "1cf5f3b1b498360bc50257198e4ff60d51efebbec16c4acd0a5420359ba0437d"
+  },
+  {
+    "path": "06_sexto_basico/005_materia_y_energia_en_ecosistemas.md",
+    "size": 7993,
+    "sha256": "3573d7dd7a6da17cd41b53c89505cd7103fc2cf4243fafc6d29e081de169ce0d"
+  },
+  {
+    "path": "06_sexto_basico/006_cadenas_y_redes_alimentarias.md",
+    "size": 7961,
+    "sha256": "52bc929c4dfae5046befe2c689f3bfbf45dfcd8c448e5cb96e60335bd23f3d61"
+  },
+  {
+    "path": "06_sexto_basico/007_piramides_ecologicas_iniciales.md",
+    "size": 7983,
+    "sha256": "d2d30e3c705bbfae14f68cdfa03af07a25fbcf14c7949635a13efc3af561abe1"
+  },
+  {
+    "path": "06_sexto_basico/008_descomponedores_y_reciclaje_de_materia.md",
+    "size": 8021,
+    "sha256": "4e9ad8f04452005bc00e8b9c86e7d1d9818644be50209a086ddadebfe8cf6b9f"
+  },
+  {
+    "path": "06_sexto_basico/009_relaciones_interespecificas.md",
+    "size": 7960,
+    "sha256": "2f47eacd006a7bbea6e3ead195d765b57cffa9f927a0151688164bc60803a143"
+  },
+  {
+    "path": "06_sexto_basico/00_indice_curso.md",
+    "size": 2961,
+    "sha256": "0c0448e34c08b1842212e9058ecc52cf64ede5f5e965a7f948a7ea0e399d9b03"
+  },
+  {
+    "path": "06_sexto_basico/010_competencia_y_cooperacion.md",
+    "size": 7948,
+    "sha256": "b78ca70a7811ce73a1b609ba4a7a36ea85384982a489b0af3ffeca62a095dac1"
+  },
+  {
+    "path": "06_sexto_basico/011_depredacion.md",
+    "size": 7864,
+    "sha256": "a93e8ccf8982f4b23fee01a1723a8bd69b5fbf46336474767d95db402ce0a978"
+  },
+  {
+    "path": "06_sexto_basico/012_mutualismo_comensalismo_y_parasitismo.md",
+    "size": 8020,
+    "sha256": "3c4780a75d292fce472c629ac7a2a4688658a2c4120c63fd17b9ab29bf9c7600"
+  },
+  {
+    "path": "06_sexto_basico/013_sistema_reproductor_humano.md",
+    "size": 7949,
+    "sha256": "c2b4054fdcfd421213bab67da250ff6c1ef382adc4de063d8491c9043948a39f"
+  },
+  {
+    "path": "06_sexto_basico/014_cambios_de_la_pubertad.md",
+    "size": 7929,
+    "sha256": "5044baaab056edc533da450126540650d7d3133ca7b3f9eb02acab8a9c8029e7"
+  },
+  {
+    "path": "06_sexto_basico/015_fecundacion_y_desarrollo_inicial.md",
+    "size": 7990,
+    "sha256": "54e259a945990a54fe962899867a6ffc4e2b7769b6c733b74b4d8e611860e8c0"
+  },
+  {
+    "path": "06_sexto_basico/016_autocuidado_y_sexualidad_responsable.md",
+    "size": 8008,
+    "sha256": "85a3b9a1a1609fbeff69cf7caa63fe5a13538b9a2bae5db502e17edd7c41db99"
+  },
+  {
+    "path": "06_sexto_basico/017_prevencion_de_infecciones_de_transmision_sexual.md",
+    "size": 8085,
+    "sha256": "6076f81249ae9c9b4b5034c1ddcad41f3a360e6382e9329a41a4b3ee7068a5df"
+  },
+  {
+    "path": "06_sexto_basico/018_alcohol_tabaco_y_drogas.md",
+    "size": 7935,
+    "sha256": "5927df65016c4617230a20d044b9df5b2ffe6d84473395e017eaba474c877c11"
+  },
+  {
+    "path": "06_sexto_basico/019_sistema_nervioso_y_sustancias.md",
+    "size": 7967,
+    "sha256": "836b271114a36179d387c0820326d76c266a5bf834bac4b5964cbc85e91252b1"
+  },
+  {
+    "path": "06_sexto_basico/01_glosario_curso.md",
+    "size": 378,
+    "sha256": "2a0d35ddbf2dffd1f956764c4cde14184ea05c9edf2ae61a9732694c59b86600"
+  },
+  {
+    "path": "06_sexto_basico/020_suelo_como_ecosistema.md",
+    "size": 7922,
+    "sha256": "ce1f1b9273a26d1f1b7a18af59b2991c87694797c65a720dd176aa18cbd933aa"
+  },
+  {
+    "path": "06_sexto_basico/021_microorganismos_del_suelo.md",
+    "size": 7955,
+    "sha256": "729412e92f29555173f185af42421c4052bb7aada39e79bcbc051c9b151ddaec"
+  },
+  {
+    "path": "06_sexto_basico/022_erosion_y_biodiversidad.md",
+    "size": 7940,
+    "sha256": "bb319bf786ba8fcb09d8f17aebe974dc6bcaa7eeb5a99e02fd9bb0c2c12a2ae1"
+  },
+  {
+    "path": "06_sexto_basico/023_cambio_climatico_y_seres_vivos.md",
+    "size": 7977,
+    "sha256": "51f0c4ebe664f060b81503878159f59ac6c6f759d15f5249034503285d7f34ad"
+  },
+  {
+    "path": "06_sexto_basico/024_experimentos_con_plantas.md",
+    "size": 7929,
+    "sha256": "490aa14fb21fa4b7e354717706d9f21b7344b51c767963ab35ef8d335fb7afbc"
+  },
+  {
+    "path": "06_sexto_basico/02_banco_preguntas.md",
+    "size": 5768,
+    "sha256": "1734f936b33ba418b8cabf1bf174facc9d91cf147bc2bc104bdfa6f94ccee9df"
+  },
+  {
+    "path": "07_septimo_basico/001_teoria_celular.md",
+    "size": 7882,
+    "sha256": "ced756e4f3cee0ea941ace260115a47c72f177c6d18924117b93c11a0eada660"
+  },
+  {
+    "path": "07_septimo_basico/002_celulas_procariontes_y_eucariontes.md",
+    "size": 8049,
+    "sha256": "b93cee0d2575bb46a95969c30d7721690d70f4612b7f2385a278cb0d6a2d38a8"
+  },
+  {
+    "path": "07_septimo_basico/003_organelos_celulares.md",
+    "size": 7907,
+    "sha256": "66973f19cfb83b6edfc711117037e3bec41855b1449b329c438901f75e8aac93"
+  },
+  {
+    "path": "07_septimo_basico/004_celula_animal_y_vegetal.md",
+    "size": 7983,
+    "sha256": "00810ac1f63fe06650c16ba6b94413bb8aa286482fdfd4cd3c63da74451ac3fb"
+  },
+  {
+    "path": "07_septimo_basico/005_especializacion_celular.md",
+    "size": 7936,
+    "sha256": "12bc4bf270623c27a1f663856f979c02df87258c47275c21a5424d174aa8192b"
+  },
+  {
+    "path": "07_septimo_basico/006_mitosis.md",
+    "size": 7835,
+    "sha256": "e832dd97b2b30a7f496e8dd2e0123738b1a47dec3dff8ad58e739d04370cebc6"
+  },
+  {
+    "path": "07_septimo_basico/007_crecimiento_y_reparacion_de_tejidos.md",
+    "size": 8008,
+    "sha256": "658b5222be9a26791a7ff397157cc85fd70ae5b700a576b2a26f6cd724965011"
+  },
+  {
+    "path": "07_septimo_basico/008_reproduccion_sexual_y_asexual.md",
+    "size": 7976,
+    "sha256": "b227ad00742f6a8cc428bdf0f1e263f4a20df9760e676adb6c5ce285b2c80969"
+  },
+  {
+    "path": "07_septimo_basico/009_sistema_reproductor_femenino.md",
+    "size": 7961,
+    "sha256": "65712112f73ac17ec01f53d1e8450ea6f733f087034ed29bc49db36e3ed63d6a"
+  },
+  {
+    "path": "07_septimo_basico/00_indice_curso.md",
+    "size": 2826,
+    "sha256": "094bbe1f45247b1dfa0dd01a4c85886c37f4897a49ee73268688128c096babb3"
+  },
+  {
+    "path": "07_septimo_basico/010_sistema_reproductor_masculino.md",
+    "size": 7967,
+    "sha256": "c33779b28d47ff32dcb183016ec33e1d2984a6235e17fc2b45de79b94885be4b"
+  },
+  {
+    "path": "07_septimo_basico/011_ciclo_menstrual.md",
+    "size": 7889,
+    "sha256": "106d620fc8987cbcfde418beda5f9f0340663096372b85723ce9c72b5d4f802e"
+  },
+  {
+    "path": "07_septimo_basico/012_fecundacion_embarazo_y_nacimiento.md",
+    "size": 8000,
+    "sha256": "96438006159b447e44ec8810057a6ac98747f30614e78d600a3c4e158c53e159"
+  },
+  {
+    "path": "07_septimo_basico/013_sexualidad_afectividad_y_respeto.md",
+    "size": 7989,
+    "sha256": "2cbf4dbe48150e52839da19057db692a95533de8608d8a44e203dc7f1e066029"
+  },
+  {
+    "path": "07_septimo_basico/014_consentimiento_y_limites_personales.md",
+    "size": 8008,
+    "sha256": "30e93b8a576e60aa212696bc93a79188eeb52dedeefd9ca154f33323a908d003"
+  },
+  {
+    "path": "07_septimo_basico/015_metodos_de_prevencion_del_embarazo_marco_educativo.md",
+    "size": 8107,
+    "sha256": "f93e6f429afcefb1ee04943b3d800d5f47c2e3ddda5c7700e624514d9af97b53"
+  },
+  {
+    "path": "07_septimo_basico/016_infecciones_de_transmision_sexual.md",
+    "size": 7996,
+    "sha256": "58aebc1a3b5b699143d257fc2abce601df2833b918b2cce2e03a89bef8b7d997"
+  },
+  {
+    "path": "07_septimo_basico/017_microorganismos_y_enfermedad.md",
+    "size": 7971,
+    "sha256": "abfd8fcdabb260971427a824512aded23d9dfebc55bd10f771b449b6475358f6"
+  },
+  {
+    "path": "07_septimo_basico/018_bacterias.md",
+    "size": 7850,
+    "sha256": "289b346c3f00bc65694e5c15876333ea9653fa0dd718f6085901f9f12504ae80"
+  },
+  {
+    "path": "07_septimo_basico/019_virus.md",
+    "size": 7826,
+    "sha256": "74a64351ff208bd4c0a53b517528bbf2dc14b4eff385a806fdf3aaca407fa497"
+  },
+  {
+    "path": "07_septimo_basico/01_glosario_curso.md",
+    "size": 378,
+    "sha256": "8cb7001307fa361b59205d972f210b04e1655f25e238e598fff087e2079679b2"
+  },
+  {
+    "path": "07_septimo_basico/020_hongos_microscopicos.md",
+    "size": 7921,
+    "sha256": "fe62129b0bc89bfe05d6d1d7313919666a0b120c1e53a462de605e0c5a4549f3"
+  },
+  {
+    "path": "07_septimo_basico/021_sistema_inmune_inicial.md",
+    "size": 7925,
+    "sha256": "dfcd6cc7f67a52c05011999e03327a3f97e934476656c673141b4927629b18bc"
+  },
+  {
+    "path": "07_septimo_basico/022_vacunas.md",
+    "size": 7839,
+    "sha256": "4df32217bf0669a9c69311b8ff69d6d64b04cd603e26288dd0177bc4c86dcfac"
+  },
+  {
+    "path": "07_septimo_basico/023_antibioticos_y_uso_responsable.md",
+    "size": 7978,
+    "sha256": "d8065a465933bd42117596ea2c5e4ff5bdd496062b550412fa5c994939e7158c"
+  },
+  {
+    "path": "07_septimo_basico/024_nutricion_y_metabolismo.md",
+    "size": 7941,
+    "sha256": "6e9e8513634ebf5f46fe617aa843535603707d79aa91b7be180336efcae33165"
+  },
+  {
+    "path": "07_septimo_basico/02_banco_preguntas.md",
+    "size": 5688,
+    "sha256": "1c70739b7fccb6039db584642bb86a3abe5c7440a315478307cc6f1cb0f9be28"
+  },
+  {
+    "path": "08_octavo_basico/001_historia_de_la_teoria_celular.md",
+    "size": 7972,
+    "sha256": "41d995d7fb9428ade616fccaeaa800376cbd449609f922e9847b1017feed741b"
+  },
+  {
+    "path": "08_octavo_basico/002_microscopia_y_evidencia.md",
+    "size": 7942,
+    "sha256": "54bdffd9a8846a206955b9270f016b01946ea1dfa8128c0f944963502eebf053"
+  },
+  {
+    "path": "08_octavo_basico/003_estructura_y_funcion_celular.md",
+    "size": 7966,
+    "sha256": "7c3d1dc343e3d92faaf460b6096438ed46b985dd366ac0cb035adf8d16579845"
+  },
+  {
+    "path": "08_octavo_basico/004_membrana_celular.md",
+    "size": 7889,
+    "sha256": "33248b15f6f008515ec328aa8d8b356bc8ea76bdb8320690cb27f2ef972a2f3a"
+  },
+  {
+    "path": "08_octavo_basico/005_nucleo_y_material_genetico.md",
+    "size": 7988,
+    "sha256": "2dd25027f6bdc22b20406374d9dae4888da4268bdaa4a21fa9096f54316f3caf"
+  },
+  {
+    "path": "08_octavo_basico/006_mitocondrias_y_energia.md",
+    "size": 7930,
+    "sha256": "8bfcddcb936ed48f0e0b4f276290a9a3c861eefedfcf9cfb0935101ada6fe48e"
+  },
+  {
+    "path": "08_octavo_basico/007_cloroplastos_y_fotosintesis.md",
+    "size": 8033,
+    "sha256": "94508e8f3779d5f997d8a77775b41b416f0b0cc5cfb962d8785fc8a97ef05a4b"
+  },
+  {
+    "path": "08_octavo_basico/008_celulas_especializadas.md",
+    "size": 7977,
+    "sha256": "ab1cbb68044b22d49dbf206458b6a125cfc32d4daba2fc99afd3f3c347830a5b"
+  },
+  {
+    "path": "08_octavo_basico/009_tejidos_organos_y_sistemas.md",
+    "size": 7959,
+    "sha256": "e9f3d303b0ef3bc38a7c1551a93703dc4aeefa1162502775a2897366602a991d"
+  },
+  {
+    "path": "08_octavo_basico/00_indice_curso.md",
+    "size": 2926,
+    "sha256": "d02c69fc1712c826e492cde06e9fb6463fc3e8af5d64d301355aa123ce3eab8f"
+  },
+  {
+    "path": "08_octavo_basico/010_transporte_de_sustancias_en_plantas.md",
+    "size": 7995,
+    "sha256": "7234274acb0f37017428557c192dc4399b2c8536f53686fd69caf264929e0cde"
+  },
+  {
+    "path": "08_octavo_basico/011_intercambio_gaseoso_en_plantas.md",
+    "size": 7965,
+    "sha256": "2f72a71a2d19cc331816d604c4cbfe8b52dadebccf591dc4b1bd3c2c94fb2654"
+  },
+  {
+    "path": "08_octavo_basico/012_sistema_digestivo_y_absorcion.md",
+    "size": 8010,
+    "sha256": "f5a95ca20791cf71424a6eda55d5e44ab8cfe75e9044ffd2840b07a4bf0aab32"
+  },
+  {
+    "path": "08_octavo_basico/013_sistema_respiratorio.md",
+    "size": 7913,
+    "sha256": "cf90ba73502e51bfff0d804a94d3aa7d34c3e64ad516900b3b58c1feff9f564c"
+  },
+  {
+    "path": "08_octavo_basico/014_sistema_circulatorio.md",
+    "size": 7913,
+    "sha256": "c2befc17c6e5b7ccc7b775764aa8576357a8fc8d82b435984b7a057bdd9acfad"
+  },
+  {
+    "path": "08_octavo_basico/015_sistema_excretor.md",
+    "size": 7889,
+    "sha256": "5f312c7102b3013f4926273c3bf776ab89f6918c27e756128b5bdd1e21a1a342"
+  },
+  {
+    "path": "08_octavo_basico/016_homeostasis.md",
+    "size": 7859,
+    "sha256": "8e6daf1eafc5751af7f8d87aa49e01bdbc1e332df62cca8f59a434daf5034b4c"
+  },
+  {
+    "path": "08_octavo_basico/017_nutrientes_y_metabolismo.md",
+    "size": 7937,
+    "sha256": "77b2b093f3fe14c8ba619ea9936fe59516884e72c6c9ba502f29adbb6772df82"
+  },
+  {
+    "path": "08_octavo_basico/018_microbiota_humana.md",
+    "size": 7898,
+    "sha256": "956deac6bde203c404a413abdcd4f3cd927b57815048dd31ecefba368ebf84bf"
+  },
+  {
+    "path": "08_octavo_basico/019_enfermedades_no_transmisibles.md",
+    "size": 7971,
+    "sha256": "7af008ca923f9fbff6a36fd6e17ab5ccc8ed4042e7faa201d96b6e857382f0c3"
+  },
+  {
+    "path": "08_octavo_basico/01_glosario_curso.md",
+    "size": 378,
+    "sha256": "3bb46e3b106342eda1de5e4378c04c59dc08ff3f90e52752da029a3436b953c8"
+  },
+  {
+    "path": "08_octavo_basico/020_prevencion_cardiovascular.md",
+    "size": 7948,
+    "sha256": "87691588109eacfa82ddefad88dc51cb67219f11e17e243acd721186fafeaafc"
+  },
+  {
+    "path": "08_octavo_basico/021_reproduccion_celular.md",
+    "size": 7917,
+    "sha256": "80953f618cc34067d0b7219576c6051dbbab52026c82a65c6d78d4ea6ef54ed2"
+  },
+  {
+    "path": "08_octavo_basico/022_adn_primera_aproximacion.md",
+    "size": 7976,
+    "sha256": "0146ad9a01db9108d5123cc778074ae3fc761a86f050a81d6d95b18d0e64d014"
+  },
+  {
+    "path": "08_octavo_basico/023_genes_y_caracteristicas.md",
+    "size": 7965,
+    "sha256": "bc4e4d7123708d1872cdd67c7cbc8e2aafc470bc9b44ddee69784731001ed562"
+  },
+  {
+    "path": "08_octavo_basico/024_variacion_biologica.md",
+    "size": 7917,
+    "sha256": "0357633061d5eda3bc5b3b2a5950fe4bbebe0bab8e85acf6ad23bb6a2f121c81"
+  },
+  {
+    "path": "08_octavo_basico/025_evidencias_de_evolucion.md",
+    "size": 8006,
+    "sha256": "25fda5475497d8b1c5d67c056553017448e2fa1a1d460ccb1311c415c8edb519"
+  },
+  {
+    "path": "08_octavo_basico/026_seleccion_natural_inicial.md",
+    "size": 8018,
+    "sha256": "46749d94ed24684bf5eec1646140954b5ce91e99ca1d50ee7d61e2d47ebccae3"
+  },
+  {
+    "path": "08_octavo_basico/02_banco_preguntas.md",
+    "size": 6137,
+    "sha256": "d9a7cfdf97a71ce04d40aa5e1e05ccb43a8d93de85eddffebe784b3818d6dd9e"
+  },
+  {
+    "path": "09_primero_medio/001_origen_y_diversidad_de_la_vida.md",
+    "size": 7996,
+    "sha256": "253b23e6b6cd20e0fe1866ffa0fd69d0d4ac364a4738c9d4c79e6b1e79e59c4c"
+  },
+  {
+    "path": "09_primero_medio/002_evidencias_de_evolucion.md",
+    "size": 8000,
+    "sha256": "5523ca459468538f674df3813b88c9eb6f6908931c1e3557d17518999d26213a"
+  },
+  {
+    "path": "09_primero_medio/003_registro_fosil.md",
+    "size": 7869,
+    "sha256": "179a333521edf20e488371a3252263d41d7f83a8cc97f2a04073bf7aaee824e9"
+  },
+  {
+    "path": "09_primero_medio/004_anatomia_comparada.md",
+    "size": 7900,
+    "sha256": "5294e88105efaf9a95e26b5e90e4ef06a4b98c94b424846bd5904c9b71bd073f"
+  },
+  {
+    "path": "09_primero_medio/005_biogeografia.md",
+    "size": 7864,
+    "sha256": "db0f68c703ea990f98308b5e2724e27ad8c693b12b77bfdd438d84ab0eb36c47"
+  },
+  {
+    "path": "09_primero_medio/006_seleccion_natural.md",
+    "size": 7964,
+    "sha256": "76cbba0c3ebae4d9ecc32796e53cb85130e23bf9b05cda34a6d7d45092720899"
+  },
+  {
+    "path": "09_primero_medio/007_adaptacion_evolutiva.md",
+    "size": 7982,
+    "sha256": "02af193f2cbdbb1d4dc5364042def18608bd153bee7c79636363b674d984d49c"
+  },
+  {
+    "path": "09_primero_medio/008_especiacion.md",
+    "size": 7851,
+    "sha256": "0a62b85a9daddc7808b05fa5110f0cb7edaeb5931b70df1a5de3d0b831488854"
+  },
+  {
+    "path": "09_primero_medio/009_parentesco_evolutivo.md",
+    "size": 7977,
+    "sha256": "56f83792e23eb32f29a105f31e45e15368175bccebad514906d618d2a2f5c2c8"
+  },
+  {
+    "path": "09_primero_medio/00_indice_curso.md",
+    "size": 2869,
+    "sha256": "b2869028c4ff96333eaa5204130c0024fc6c52af6bbf06dc38eadb123a754fd7"
+  },
+  {
+    "path": "09_primero_medio/010_arboles_filogeneticos.md",
+    "size": 7952,
+    "sha256": "974da55ea8f8e04f7efbdd8a4484fb19fe52220e54bef4a0accd2b96c4c38ea6"
+  },
+  {
+    "path": "09_primero_medio/011_biodiversidad_de_chile.md",
+    "size": 7923,
+    "sha256": "802e065066925c04946fa33e25bbc02e3009ac9845af54bf51c6408056d5c9e1"
+  },
+  {
+    "path": "09_primero_medio/012_niveles_de_organizacion_ecologica.md",
+    "size": 7995,
+    "sha256": "955dfa72722895ce8a558313ecf9d8a54c76ba95f9459b16dfdcba8d835925f2"
+  },
+  {
+    "path": "09_primero_medio/013_poblaciones.md",
+    "size": 7853,
+    "sha256": "265ddfb71e5723f44417ece46cfba3d08f762fdd5cfa09e85222cf649137922b"
+  },
+  {
+    "path": "09_primero_medio/014_comunidades.md",
+    "size": 7859,
+    "sha256": "21bd5917fa788e659a9bb85b5583e196f32ef8ed07dad7a1984026c1ca8a419d"
+  },
+  {
+    "path": "09_primero_medio/015_ecosistemas.md",
+    "size": 7856,
+    "sha256": "8d10765a6921e45001f1b6cca2692f16e6702d6dd379a857876f7df8408e4c15"
+  },
+  {
+    "path": "09_primero_medio/016_habitat_y_nicho_ecologico.md",
+    "size": 7953,
+    "sha256": "2768b31026addf5ebd95d782fbf067c3cf99e1d6c7b46cd9f33949ad0c259e40"
+  },
+  {
+    "path": "09_primero_medio/017_competencia.md",
+    "size": 7853,
+    "sha256": "c92c9c063318921ad6017da7406331dca3089eb8b70d9d0509fadda8f4019d98"
+  },
+  {
+    "path": "09_primero_medio/018_depredacion.md",
+    "size": 7858,
+    "sha256": "4ab1494a5dd9a392bca578d229a8154b1e67cca0eb3b28c904160212f06a10e9"
+  },
+  {
+    "path": "09_primero_medio/019_mutualismo.md",
+    "size": 7847,
+    "sha256": "18c15146fdc4affeb8872320b3c4818b924207f672f8315b6e570f4061ab72eb"
+  },
+  {
+    "path": "09_primero_medio/01_glosario_curso.md",
+    "size": 376,
+    "sha256": "6bae549c6ccb59bbd783ecbbab1091eaaeb64e6ce69e34da8f5017b2c600891e"
+  },
+  {
+    "path": "09_primero_medio/020_parasitismo.md",
+    "size": 7853,
+    "sha256": "c766f17d938b391eddcb51302599ddf8d51e6d6cb64e8d492cc3785d9d1fae70"
+  },
+  {
+    "path": "09_primero_medio/021_flujo_de_energia.md",
+    "size": 7888,
+    "sha256": "601a8f267850bdf9d0dd5e566b55b750534a7b9fed717c0547bb018ae68da61b"
+  },
+  {
+    "path": "09_primero_medio/022_productividad_primaria.md",
+    "size": 7919,
+    "sha256": "fad7499d546ad442da32b614975ab4a1925f9a688e33f0ae4644e4152995a5b7"
+  },
+  {
+    "path": "09_primero_medio/023_cadenas_y_redes_troficas.md",
+    "size": 7942,
+    "sha256": "cfa2087f207903815e82f17b38b19a9dff032b3b5c79622281d930dc09cdfff4"
+  },
+  {
+    "path": "09_primero_medio/024_ciclos_del_carbono_y_nitrogeno.md",
+    "size": 8001,
+    "sha256": "ebf12cae0bce64df1126237137a522289a861981e643efd3e62308dd61e78a92"
+  },
+  {
+    "path": "09_primero_medio/025_ciclo_del_agua_y_fosforo.md",
+    "size": 7942,
+    "sha256": "595b7a76fff0a5059a89a2b8cf97986a53e679385a7e2f5ddfe36578eefb43f0"
+  },
+  {
+    "path": "09_primero_medio/026_dinamica_de_poblaciones.md",
+    "size": 7930,
+    "sha256": "2a767e9374e85d55182050996b1eda71de90ec6280cabaa43672661471641c40"
+  },
+  {
+    "path": "09_primero_medio/027_conservacion_de_biodiversidad.md",
+    "size": 7970,
+    "sha256": "c2f56f2df7b6a0806a77acebdf46094fe5a250f6294c1b6b6a8791c9beb59d12"
+  },
+  {
+    "path": "09_primero_medio/028_impacto_humano_en_ecosistemas.md",
+    "size": 7964,
+    "sha256": "0ea004ecda5d3a441d901691054147d31686e07d5aad4dfd6544933c40868ad5"
+  },
+  {
+    "path": "09_primero_medio/02_banco_preguntas.md",
+    "size": 6485,
+    "sha256": "5ad0eb55bc5c8419272173873f263b7ae3f2816d495375af644c25516ff114ef"
+  },
+  {
+    "path": "10_segundo_medio/001_adn_y_cromosomas.md",
+    "size": 7912,
+    "sha256": "c4f031102ac153a8744558575a8fd0e07b224bce287b63a2ac566c266efe2c4f"
+  },
+  {
+    "path": "10_segundo_medio/002_genes_y_alelos.md",
+    "size": 7900,
+    "sha256": "368e3a5a098365d85164b99f346c58201235f3f165b71aff03a674a14e7cea31"
+  },
+  {
+    "path": "10_segundo_medio/003_genotipo_y_fenotipo.md",
+    "size": 7930,
+    "sha256": "9d054f837adab09d005eb78edee5533530442fc329d50ec48bdf4f7a343d130f"
+  },
+  {
+    "path": "10_segundo_medio/004_herencia_mendeliana.md",
+    "size": 7930,
+    "sha256": "d1971623e7a30def0e45d7d5c26e3c74867a26887d0c567d8befb315bde9c95b"
+  },
+  {
+    "path": "10_segundo_medio/005_dominancia_y_recesividad.md",
+    "size": 7931,
+    "sha256": "dc4cdeb9f7b3211eec33b53d6cd54669c8d698410acc720132ee24f4bb751638"
+  },
+  {
+    "path": "10_segundo_medio/006_cuadros_de_punnett.md",
+    "size": 7895,
+    "sha256": "0d27153cb35cd762dcc6e96041c4fc63b5e1feed848fc10b86ed8b1fa503d8a2"
+  },
+  {
+    "path": "10_segundo_medio/007_herencia_ligada_al_sexo_inicial.md",
+    "size": 8002,
+    "sha256": "9ac4f7f2cf251095f6abe7373a085cbdd570ce0c0b64f75a83dbd26628b218d9"
+  },
+  {
+    "path": "10_segundo_medio/008_mutaciones.md",
+    "size": 7847,
+    "sha256": "eebd68daff71b14a10383847d92a797825b0df6037f99f342e5d2c101adb31cb"
+  },
+  {
+    "path": "10_segundo_medio/009_variacion_genetica.md",
+    "size": 7934,
+    "sha256": "aa8b3806b2b304f63207cc3200329b537fae08f6b380f8d6d56b0bbbda475bd4"
+  },
+  {
+    "path": "10_segundo_medio/00_indice_curso.md",
+    "size": 3197,
+    "sha256": "3c1fd306c4716f734c3a86b7ebe40f15d186a7c43df9c765af05ce59b3002ca5"
+  },
+  {
+    "path": "10_segundo_medio/010_meiosis.md",
+    "size": 7835,
+    "sha256": "1915a1a75cf8263063003dc00eed57a7c3c26dacf81143efd4e20efb3d5fd97b"
+  },
+  {
+    "path": "10_segundo_medio/011_formacion_de_gametos.md",
+    "size": 7912,
+    "sha256": "359c53840265cc979dd3dabcd25c2e425b84861a319e7757ac60ac746b1ed3d2"
+  },
+  {
+    "path": "10_segundo_medio/012_fecundacion_y_desarrollo_embrionario.md",
+    "size": 8008,
+    "sha256": "defe09d3f31f7ee669a6b046290bc89d9b8c0cf4ce463dbcc1d39eb1ea9b8f2c"
+  },
+  {
+    "path": "10_segundo_medio/013_regulacion_hormonal.md",
+    "size": 7911,
+    "sha256": "d9586ee532d10d0dcc24fd801212ca92cdfcb55a381a46f128a984cf438fe715"
+  },
+  {
+    "path": "10_segundo_medio/014_sistema_nervioso.md",
+    "size": 7883,
+    "sha256": "ad11b15d7bb58dcdf0872b5aae42fe5d6fee14ff526042d50c4894b7d898d3d8"
+  },
+  {
+    "path": "10_segundo_medio/015_neuronas_y_sinapsis.md",
+    "size": 7901,
+    "sha256": "34963cbf82063c592b11d054e81db76a2ad1300ef4575c98e4ef784925a80cad"
+  },
+  {
+    "path": "10_segundo_medio/016_sistema_endocrino.md",
+    "size": 7889,
+    "sha256": "f42331def705b5e7f3840d7182868930e267b349096066ce82786b42d9d59ffd"
+  },
+  {
+    "path": "10_segundo_medio/017_homeostasis_avanzada.md",
+    "size": 7907,
+    "sha256": "c958fc9452c191be92c29a374b40ec7ee0fadb6a6904b6284978faa9de2007ff"
+  },
+  {
+    "path": "10_segundo_medio/018_respuesta_inmune.md",
+    "size": 7888,
+    "sha256": "27aba37fcbc1d0e88715696fde61b6294a02123cf496547ae2d10bd55ed3cec6"
+  },
+  {
+    "path": "10_segundo_medio/019_inmunidad_innata_y_adaptativa.md",
+    "size": 7961,
+    "sha256": "8c21fe6172adf0bc04ccf145774fb998c5e7fe8feed999437416d6952b2db32b"
+  },
+  {
+    "path": "10_segundo_medio/01_glosario_curso.md",
+    "size": 376,
+    "sha256": "5962395f198dc1b95d47c91db935f5e87d2120dcd991ee4bc07a4b1c3aa97a6a"
+  },
+  {
+    "path": "10_segundo_medio/020_vacunas_y_memoria_inmune.md",
+    "size": 7935,
+    "sha256": "67f3294e9015b7fdabf9f8a6338646447d718f172b4ce972b1be7b6febb3fbf2"
+  },
+  {
+    "path": "10_segundo_medio/021_biotecnologia.md",
+    "size": 7875,
+    "sha256": "93d203bd26e35bbad29520a9d1d4be37c5cc4e6a39f8ee780830c80cd10b4fa4"
+  },
+  {
+    "path": "10_segundo_medio/022_ingenieria_genetica_inicial.md",
+    "size": 7988,
+    "sha256": "41b45974f25d5a449f1deedf4144de6bc818741ffaae7d8db649c2429b6bae31"
+  },
+  {
+    "path": "10_segundo_medio/023_organismos_geneticamente_modificados.md",
+    "size": 8037,
+    "sha256": "ae09462b9525e82073ac6c1dd91c4715ca2e7624c39b25eb0855c334fec66b9a"
+  },
+  {
+    "path": "10_segundo_medio/024_clonacion_conceptos_y_etica.md",
+    "size": 7970,
+    "sha256": "8ba4530c7c34add98183659a6484a9b022ca7e042e0d35e05fa7b77c9519bb7b"
+  },
+  {
+    "path": "10_segundo_medio/025_evolucion_humana.md",
+    "size": 7958,
+    "sha256": "facf1df364e60d5b057f010932c719a4c56c21741192b0a076092c192857ac8e"
+  },
+  {
+    "path": "10_segundo_medio/026_ecologia_de_poblaciones.md",
+    "size": 7930,
+    "sha256": "04c8269388c80ade4d019c843f85e84fb87cb727d8f73a14403a8389fa9854d0"
+  },
+  {
+    "path": "10_segundo_medio/027_sucesion_ecologica.md",
+    "size": 7905,
+    "sha256": "a0b7a564b23722d4720a916e05093c9a84d1bd3dbb4a98fd4cedfbadf886bacd"
+  },
+  {
+    "path": "10_segundo_medio/028_conservacion_genetica.md",
+    "size": 7952,
+    "sha256": "a92bccc7a29218ac06734dba897fbc4d46c9fbb17e5ac9144bf4a19cd3bfd37a"
+  },
+  {
+    "path": "10_segundo_medio/029_salud_sexual_y_reproductiva.md",
+    "size": 7949,
+    "sha256": "b53135bbaa236c35f824d86930b9cf76991fa3862a69344abdd58ff1c4cadcf0"
+  },
+  {
+    "path": "10_segundo_medio/02_banco_preguntas.md",
+    "size": 6997,
+    "sha256": "a6fd1b5fcfffff8e1748f17bda353920614e50e12c81fefd9dae8c194d8caef1"
+  },
+  {
+    "path": "10_segundo_medio/030_bioetica_y_decisiones_informadas.md",
+    "size": 7984,
+    "sha256": "2f7ce8c076e60fdd4adbb977f8c4fb14ece358efb8da7feffa15678c2daf65c6"
+  },
+  {
+    "path": "11_tercero_medio/001_factores_biologicos_de_la_salud.md",
+    "size": 7977,
+    "sha256": "eac13fe0b8dd3168532de274e39dfbf683cbb92ba653e6f8e3712f45b0894f1b"
+  },
+  {
+    "path": "11_tercero_medio/002_factores_ambientales_de_la_salud.md",
+    "size": 7978,
+    "sha256": "6afc3ab8f33397143958108665eff66e3464ece46fa463fba56977665c1aac88"
+  },
+  {
+    "path": "11_tercero_medio/003_factores_sociales_de_la_salud.md",
+    "size": 7960,
+    "sha256": "dbf8cfc0261b55a1ebe92c252181303bf79c55695b761135d3f73967e0f2c35f"
+  },
+  {
+    "path": "11_tercero_medio/004_nutricion_y_salud_publica.md",
+    "size": 7945,
+    "sha256": "95188114a515d1b1751e2b703ad8ee06fc4044dc76e0c72e10df08a4cf2c5a14"
+  },
+  {
+    "path": "11_tercero_medio/005_actividad_fisica_y_bienestar.md",
+    "size": 7959,
+    "sha256": "6097f496be687c35a66537b4c71cf4e509998e3ba20dbb90b8c62a4759692ad9"
+  },
+  {
+    "path": "11_tercero_medio/006_estres_y_salud_mental.md",
+    "size": 7916,
+    "sha256": "eadfb8977283a8638d9c8ed5aca3fcad4eabfc80d23ac02fd5554de663d3bbba"
+  },
+  {
+    "path": "11_tercero_medio/007_sueno_y_salud.md",
+    "size": 7869,
+    "sha256": "a6fcc8943933ccc836ac0c50c02f66ce17ff240fb7db58dc937ce5b04842fe7d"
+  },
+  {
+    "path": "11_tercero_medio/008_alcohol_y_drogas.md",
+    "size": 7881,
+    "sha256": "708f0e93980afd15b292eaa316cf2ff32ecaaef93cd1979b421ec33800f06b93"
+  },
+  {
+    "path": "11_tercero_medio/009_radiacion_uv.md",
+    "size": 7863,
+    "sha256": "20f8f4da32adf487b0bd93dec990100639049cf004c3e8ebad7654d5ccf64f7a"
+  },
+  {
+    "path": "11_tercero_medio/00_indice_curso.md",
+    "size": 2894,
+    "sha256": "224ced2daf9fbfca778db265bf7a7cde8b454ec55f12f195207ebca2e41e0d8b"
+  },
+  {
+    "path": "11_tercero_medio/010_patogenos_emergentes.md",
+    "size": 7939,
+    "sha256": "bc1e258b2f6b947260d65bffed0b9f12a8efac67493dea10a71bd95a606cb55a"
+  },
+  {
+    "path": "11_tercero_medio/011_vacunas_y_salud_colectiva.md",
+    "size": 7935,
+    "sha256": "50ce4228c8bd686ee7b85b90dd2ee3c37289ecd0f3a987121c5f5ac15a4c3fdb"
+  },
+  {
+    "path": "11_tercero_medio/012_resistencia_antimicrobiana.md",
+    "size": 7944,
+    "sha256": "aedc94a689a0e64bdae6da7039050165e784110559c0302ed1651f0f9ec37468"
+  },
+  {
+    "path": "11_tercero_medio/013_epidemiologia_inicial.md",
+    "size": 7916,
+    "sha256": "17e0777b11da49e86d33c07cc450ae66b850ade6024dd581649e21e864f0909a"
+  },
+  {
+    "path": "11_tercero_medio/014_biodiversidad_y_servicios_ecosistemicos.md",
+    "size": 8029,
+    "sha256": "9e24e52f6b1eec27cdd08a17b60ac450c2e9b55636ab8d6994ac5d590f3d7eef"
+  },
+  {
+    "path": "11_tercero_medio/015_perdida_de_habitat.md",
+    "size": 7910,
+    "sha256": "0fd9be632c6e157bedd92b177e5ccce67112e61f87765e7a7e6a47120b47223f"
+  },
+  {
+    "path": "11_tercero_medio/016_especies_invasoras.md",
+    "size": 7900,
+    "sha256": "6840a79ab18cae7a3bb6c230111408799ec3050c026e0356cc700627da7ab46b"
+  },
+  {
+    "path": "11_tercero_medio/017_cambio_climatico_y_biodiversidad.md",
+    "size": 7986,
+    "sha256": "959eb2082879a096d7d7edf93e11156bbf739502341d52a4f8e4f61ed4c314b3"
+  },
+  {
+    "path": "11_tercero_medio/018_contaminacion_y_salud.md",
+    "size": 7917,
+    "sha256": "6561b188b03dbfffbe6a060ffe62749c7b4471393d250eb5aa391f9ec1405114"
+  },
+  {
+    "path": "11_tercero_medio/019_alimentos_transgenicos.md",
+    "size": 7923,
+    "sha256": "8ed964166bed11a10125cea6c4d8eb146dd410086ad55b19185677a91b2ccd3a"
+  },
+  {
+    "path": "11_tercero_medio/01_glosario_curso.md",
+    "size": 376,
+    "sha256": "4895c4f76c77da880820f59822ffa4e8cd57230b7d51627cdf12b89f070839cc"
+  },
+  {
+    "path": "11_tercero_medio/020_biotecnologia_en_salud.md",
+    "size": 7922,
+    "sha256": "2636187d3eb9a856cbad6fb6a7c996472f5e3780d43ebedee683fcef894a14a5"
+  },
+  {
+    "path": "11_tercero_medio/021_genetica_y_privacidad.md",
+    "size": 7945,
+    "sha256": "920d46f68c8f7e8c5e26fa5657721440a1625451b0618edf45c079fbe6237cc3"
+  },
+  {
+    "path": "11_tercero_medio/022_ciencia_de_datos_en_biologia.md",
+    "size": 7959,
+    "sha256": "1f0b4726211d4ef5b01c7826ecae45abb0389b983575d1802c3d8128d344ba60"
+  },
+  {
+    "path": "11_tercero_medio/023_etica_de_investigacion_con_seres_vivos.md",
+    "size": 8024,
+    "sha256": "26eca418b95d45ac461d7c459bc83379707944b64ebbf7885c2e97b82ca47e41"
+  },
+  {
+    "path": "11_tercero_medio/024_proyecto_de_salud_o_biodiversidad.md",
+    "size": 7987,
+    "sha256": "c41dbb7ca07be5d1666b9a84cd0e829bfae64c662750c02b7cad3b0d12a0c154"
+  },
+  {
+    "path": "11_tercero_medio/02_banco_preguntas.md",
+    "size": 5697,
+    "sha256": "d63874b6dd2efc2258dde4d97795f5550006a66bc58a9a6a47b59be6086cf1e1"
+  },
+  {
+    "path": "12_cuarto_medio/001_salud_y_toma_de_decisiones.md",
+    "size": 7942,
+    "sha256": "903306e433bdce414c1506e73051952e73682961703112a588a82f82f7e9e88b"
+  },
+  {
+    "path": "12_cuarto_medio/002_epidemiologia_aplicada.md",
+    "size": 7922,
+    "sha256": "8099e3e5a8efc6dae21ace5a2a5e4524652ded1dc0770648e24570345a81d979"
+  },
+  {
+    "path": "12_cuarto_medio/003_prevencion_de_enfermedades_cronicas.md",
+    "size": 8010,
+    "sha256": "ddc1d9e74317103f5090b28c8a86f7ced29076873a1bc725e6ccc236c85b951a"
+  },
+  {
+    "path": "12_cuarto_medio/004_salud_ambiental.md",
+    "size": 7876,
+    "sha256": "f896712681dda92672ab4ae7cf148262b79949f21d9aafc86002f24d73aff921"
+  },
+  {
+    "path": "12_cuarto_medio/005_seguridad_alimentaria.md",
+    "size": 7912,
+    "sha256": "c7cc05dbcbbcceb7a08c1630909dfa1190ec58ca85d304252d47c688ee77db87"
+  },
+  {
+    "path": "12_cuarto_medio/006_microbioma_humano.md",
+    "size": 7891,
+    "sha256": "ae89ef1ab40067d12c4ff07004eaf8ac2ecbf573280825b5fdf6c850b8b9be06"
+  },
+  {
+    "path": "12_cuarto_medio/007_resistencia_a_antibioticos.md",
+    "size": 7946,
+    "sha256": "f07fb1ac637c2e215594363f13fb3b2861c3219a8b94f6b1af8b33a6512fa35b"
+  },
+  {
+    "path": "12_cuarto_medio/008_vacunas_y_comunicacion_de_riesgo.md",
+    "size": 7987,
+    "sha256": "2dc3d125c9d9c57465939d54765acedeb8947ae9f5157adf19a6378246f5d3f3"
+  },
+  {
+    "path": "12_cuarto_medio/009_genomica.md",
+    "size": 7867,
+    "sha256": "99e9db18c9882b9b6ca1a85824fadf4f5eeade82cdb10f288dbfb1c3cb410ec4"
+  },
+  {
+    "path": "12_cuarto_medio/00_indice_curso.md",
+    "size": 3168,
+    "sha256": "b88acb8ac946e200cd3d4e5266723c4d5c093e3c0e7645df9fa06cf76e18d7a8"
+  },
+  {
+    "path": "12_cuarto_medio/010_medicina_personalizada.md",
+    "size": 7917,
+    "sha256": "755df441ddfbfaab925261b04d1d2c83da540c12fc6ab98807da49cd514016c6"
+  },
+  {
+    "path": "12_cuarto_medio/011_edicion_genetica.md",
+    "size": 7920,
+    "sha256": "20a1dc2c3641898f36b69da9c619871fb44e24d38e3e2f2cda9d51bd2cf57cf4"
+  },
+  {
+    "path": "12_cuarto_medio/012_terapia_genica.md",
+    "size": 7880,
+    "sha256": "d9ae2a9ae87102d42cc54f0fadcd4a7ca45de0bebae69b09b35581b1f1ba81b5"
+  },
+  {
+    "path": "12_cuarto_medio/013_celulas_madre.md",
+    "size": 7916,
+    "sha256": "6d97042f84fa683cc6b6ac499aeed8a0543242953259dcaaecef1bc7c6869de0"
+  },
+  {
+    "path": "12_cuarto_medio/014_reproduccion_asistida.md",
+    "size": 7921,
+    "sha256": "5a2d598d4d3928b125f44614fd669498d96b280351d9fb4e6a26f75720ac135c"
+  },
+  {
+    "path": "12_cuarto_medio/015_bioetica_reproductiva.md",
+    "size": 7922,
+    "sha256": "6e2c1963d5af348a978b20789711a1eb150187bc135dab85d6408ecc36b8f975"
+  },
+  {
+    "path": "12_cuarto_medio/016_origen_de_la_vida_hipotesis_cientificas.md",
+    "size": 8064,
+    "sha256": "d0bb9571ff15ef4939676706f9ad0a50baaf7eb0f80da59c8666e39f45d6bd40"
+  },
+  {
+    "path": "12_cuarto_medio/017_evolucion_y_desarrollo.md",
+    "size": 7993,
+    "sha256": "059da4960de1f658d75c7df82e9e52f24a70b8cf62ecc136aa6fb7fb048a3ad8"
+  },
+  {
+    "path": "12_cuarto_medio/018_extinciones_masivas.md",
+    "size": 7900,
+    "sha256": "9d48c4d35e9e02f71f74555f3206ffa18dea90309b2aa4b3b4dbb4941394a4d1"
+  },
+  {
+    "path": "12_cuarto_medio/019_crisis_de_biodiversidad.md",
+    "size": 7927,
+    "sha256": "b9f3d40ce450a515d5ed5208db84dd14f3a20a7f05e3b7ab772dfcc00ce127ca"
+  },
+  {
+    "path": "12_cuarto_medio/01_glosario_curso.md",
+    "size": 376,
+    "sha256": "f125751b3148f4327649c8d32d869ab8170e1d690145dc681ccbe9ebf3f2021b"
+  },
+  {
+    "path": "12_cuarto_medio/020_restauracion_ecologica.md",
+    "size": 7928,
+    "sha256": "6b7ec3a9ae9f6a639b03197480ffbfb4d5d41ca86c9509450d445f3520cc014d"
+  },
+  {
+    "path": "12_cuarto_medio/021_conservacion_basada_en_evidencia.md",
+    "size": 7989,
+    "sha256": "6053770e3f285af81e7b36c5571a6b14b48cd353bcc6fcabe5323049ccb026c6"
+  },
+  {
+    "path": "12_cuarto_medio/022_una_salud_personas_animales_y_ambiente.md",
+    "size": 8024,
+    "sha256": "b8bc927cfe9e15131e0c8ac96bc0c4cf7cf6359905e820cafc2be9c51140618d"
+  },
+  {
+    "path": "12_cuarto_medio/023_zoonosis.md",
+    "size": 7831,
+    "sha256": "3f715ba3a7a09a352059e53e2c8fb21a64698512173e502f338385db157733d4"
+  },
+  {
+    "path": "12_cuarto_medio/024_cambio_global_y_salud.md",
+    "size": 7912,
+    "sha256": "a73f9412893dbb5a442a840e5973f4379a06746c31bae7ca813ff0983c628648"
+  },
+  {
+    "path": "12_cuarto_medio/025_justicia_ambiental.md",
+    "size": 7894,
+    "sha256": "8c011175893138cf5e0d40df817b54fe195960b129f0c171f54e2332eadb7e41"
+  },
+  {
+    "path": "12_cuarto_medio/026_derecho_a_salud_y_ambiente_sano.md",
+    "size": 7972,
+    "sha256": "9b94bdee1f70bed1d7e5701230c9cde7b50b454658c0023b57f10544d667af87"
+  },
+  {
+    "path": "12_cuarto_medio/027_instituciones_sanitarias_y_ambientales.md",
+    "size": 8013,
+    "sha256": "cf60f65248f4430a8624e7131fb85a69a2dbe5e4d4b7e15b522831b315c09640"
+  },
+  {
+    "path": "12_cuarto_medio/028_proyecto_de_investigacion_biologica_aplicada.md",
+    "size": 8060,
+    "sha256": "815a3e9338c7536cd870454fd53fc113232a41324bb8e14c1473b0bfe296b82f"
+  },
+  {
+    "path": "12_cuarto_medio/02_banco_preguntas.md",
+    "size": 6613,
+    "sha256": "de67e535275494b2356bf65f634e78b9afe5096ea67f737509a2c88683ab4c27"
+  },
+  {
+    "path": "13_tematicos_transversales/001_que_estudia_la_biologia.md",
+    "size": 7979,
+    "sha256": "0a309d359213c9dea84c8c16aa0654ea6af64142a0b0e3715c2e414faecbe7b6"
+  },
+  {
+    "path": "13_tematicos_transversales/002_caracteristicas_de_los_seres_vivos.md",
+    "size": 8040,
+    "sha256": "449d1386d237c6017623340f62fd06771029cad4c1a5b89276d304fa842e0756"
+  },
+  {
+    "path": "13_tematicos_transversales/003_niveles_de_organizacion_biologica.md",
+    "size": 8039,
+    "sha256": "21a4ea0d161141c10c7614b26e781b38cf5afd6313dc40af1fe34ecd45f6db43"
+  },
+  {
+    "path": "13_tematicos_transversales/004_celula_y_teoria_celular.md",
+    "size": 8026,
+    "sha256": "e0527e38ffb2fddb603c024cb9529864efaf768c864bca46c9fd8eaeb3f689fa"
+  },
+  {
+    "path": "13_tematicos_transversales/005_plantas_estructura_y_funcion.md",
+    "size": 8001,
+    "sha256": "df57d8ce8404d6bcaad4997be6f47951842ee26b7cec39a991f6c285e2d17a07"
+  },
+  {
+    "path": "13_tematicos_transversales/006_animales_diversidad_y_clasificacion.md",
+    "size": 8043,
+    "sha256": "720f8976f0c9adfccfdc972f5ddfc2c29675ea5446d52fd4a01b9f33d996cc47"
+  },
+  {
+    "path": "13_tematicos_transversales/007_cuerpo_humano_y_sistemas.md",
+    "size": 7975,
+    "sha256": "7c8644ca2f850bd62a48c9e5d9a07047d2361258681ab1cf8b4a867f3fa83515"
+  },
+  {
+    "path": "13_tematicos_transversales/008_homeostasis.md",
+    "size": 7897,
+    "sha256": "f7ae40d34a1808b9cc443a763f136cf6efd09420a5ba6c9ebf370acadd430adb"
+  },
+  {
+    "path": "13_tematicos_transversales/009_salud_y_prevencion.md",
+    "size": 7944,
+    "sha256": "321dec9c0801adbb854a685ececfad6c49757811c62b0969cf641740a517d4c8"
+  },
+  {
+    "path": "13_tematicos_transversales/010_pubertad_reproduccion_y_autocuidado.md",
+    "size": 8055,
+    "sha256": "d3bcbdb845f6d13b115e145ada711d7e1fb0db2aaec3e76dfee57637fd34b93f"
+  },
+  {
+    "path": "13_tematicos_transversales/011_genetica_basica.md",
+    "size": 7960,
+    "sha256": "4e9eadca3c9566705b4083db52f8cad94efb4d34e9a066782623bc48cd677fbf"
+  },
+  {
+    "path": "13_tematicos_transversales/012_adn_genes_y_cromosomas.md",
+    "size": 7997,
+    "sha256": "993d3ad4f3ce14f60b1c61250047f9471f9f2d75bdc1e30d3f2db4d5dd9031a0"
+  },
+  {
+    "path": "13_tematicos_transversales/013_evolucion_y_seleccion_natural.md",
+    "size": 8085,
+    "sha256": "b3af6704dbab0afd096a4aae364bf5ba0251078526db161e6463025729349bfb"
+  },
+  {
+    "path": "13_tematicos_transversales/014_ecosistemas.md",
+    "size": 7900,
+    "sha256": "45df3154b7161ed04d3c1fc6041e56784a4238cd7c1d32c562a61b49ee9d832f"
+  },
+  {
+    "path": "13_tematicos_transversales/015_cadenas_y_redes_alimentarias.md",
+    "size": 7999,
+    "sha256": "8895e534caef10413f4bbf1e59eda011aba104afd235c13b5715b3f4207b75c8"
+  },
+  {
+    "path": "13_tematicos_transversales/016_ciclos_biogeoquimicos.md",
+    "size": 7968,
+    "sha256": "235da376b06dfc782f5d4eedd990e5faa468a4f9061bb3d94da81ac2eef58704"
+  },
+  {
+    "path": "13_tematicos_transversales/017_biodiversidad.md",
+    "size": 7913,
+    "sha256": "e88896011aa124c8f9defa94413539a4b0015a2c9a8bc72d370f1115fbea1508"
+  },
+  {
+    "path": "13_tematicos_transversales/018_microorganismos.md",
+    "size": 7924,
+    "sha256": "bd70385f189adcf366a4d59a5cd47b25df8d58bfd3bad3d2836f7328f2a19a40"
+  },
+  {
+    "path": "13_tematicos_transversales/019_sistema_inmune_y_vacunas.md",
+    "size": 7974,
+    "sha256": "4a35194171bcf8a5d6c30307621c16aa6fb887e44a65b4dc640c6ca0d3fe8389"
+  },
+  {
+    "path": "13_tematicos_transversales/020_biotecnologia.md",
+    "size": 7919,
+    "sha256": "8166a68f2be0fdc8ebcbbf500cd5b11ac878f753ecbc0963f6123ebecfa7e483"
+  },
+  {
+    "path": "13_tematicos_transversales/021_bioetica.md",
+    "size": 7884,
+    "sha256": "912d25356c5f0968ad6f85549f0096d64845de99003d3fb13d9f6b93bc488998"
+  },
+  {
+    "path": "13_tematicos_transversales/022_metodo_cientifico_en_biologia.md",
+    "size": 8020,
+    "sha256": "6c46b83d7d8d834e56d65ff59591a1e1dd9aaa1db6e9ac43821dc147317e4e90"
+  },
+  {
+    "path": "13_tematicos_transversales/023_microscopia.md",
+    "size": 7908,
+    "sha256": "fcae55db96bd757c5d2f1f5c32a67c0a535fe322763a76835861ea9637e9c984"
+  },
+  {
+    "path": "13_tematicos_transversales/024_experimentos_seguros_con_seres_vivos.md",
+    "size": 8047,
+    "sha256": "679fefaca78410028a771fca99cd2672e6a4f2175c41c12aa425129c7714c258"
+  },
+  {
+    "path": "13_tematicos_transversales/025_cambio_climatico_y_vida.md",
+    "size": 7973,
+    "sha256": "ecf94a49701c653a0f6b7565cba8d0266cb2d64bf3760bd0c00a5fa2470b0b4d"
+  },
+  {
+    "path": "13_tematicos_transversales/026_conservacion_de_especies.md",
+    "size": 7986,
+    "sha256": "35c2c590bf7688d60e081d599181461df773571092d469a712c59391bda728d1"
+  },
+  {
+    "path": "13_tematicos_transversales/027_una_salud.md",
+    "size": 7885,
+    "sha256": "4accfdcfa60e32c1adc9b2c8ed1e05e4da1c6c294703c4d3b7da3f049f2284be"
+  },
+  {
+    "path": "13_tematicos_transversales/028_ciudadania_cientifica_y_salud.md",
+    "size": 8015,
+    "sha256": "6ca0aed6f82ffb3582c93c33eff70a11061f991465fad5c5cd42d5507268a514"
+  },
+  {
+    "path": "14_bancos_generales/01_glosario_general.md",
+    "size": 626,
+    "sha256": "2085088029f8ec173f9edcdf943caf2a3dcb4c5371c4f00296889e8a51347a79"
+  },
+  {
+    "path": "14_bancos_generales/02_palabras_clave.md",
+    "size": 8496,
+    "sha256": "374c887e6e46205ed7184c232d8a95558fa973785774aadff9cfbdd4c10250da"
+  },
+  {
+    "path": "14_bancos_generales/03_mapa_relaciones_materias.md",
+    "size": 503,
+    "sha256": "3b1d7054ebff448b5f24d850e0fbcaafbd52ca603ac8d9f7b0bc8a43225c7034"
+  },
+  {
+    "path": "14_bancos_generales/04_plantilla_investigacion_biologica.md",
+    "size": 286,
+    "sha256": "9d3aa9b493f764c89b106ce45e8e52b0abc50aa9aaa7e422e7595f1d64665674"
+  },
+  {
+    "path": "15_evaluaciones_generales/01_evaluaciones_generales.md",
+    "size": 205,
+    "sha256": "269eebeab7ff44e74a73accd77f15188790175fbfa3d83fda94f49cdc087af0b"
+  },
+  {
+    "path": "16_apoyo_inclusivo/01_adaptaciones_tea.md",
+    "size": 318,
+    "sha256": "57c6a4b0ce0ed35a44b326a12cce78e2f3cf46ee3ec652f3dae0ec53f8dcbe9a"
+  },
+  {
+    "path": "16_apoyo_inclusivo/02_reglas_por_perfil.md",
+    "size": 235,
+    "sha256": "4c8103f47a7352188a1c28fb367b54f68c4ebbbca40c74767771652e2c33dabf"
+  },
+  {
+    "path": "17_compendios/compendio_cuarto_basico.md",
+    "size": 158810,
+    "sha256": "2a89a00cb5b01b5460bd0c56652272c7b59aba75f7bafdca765c30d899df2c67"
+  },
+  {
+    "path": "17_compendios/compendio_cuarto_medio.md",
+    "size": 222559,
+    "sha256": "d28e6f0e94d41e543e54210ceeac7be23be7974e9a55863a78b4cb14d2b7746a"
+  },
+  {
+    "path": "17_compendios/compendio_octavo_basico.md",
+    "size": 206964,
+    "sha256": "85b595db588b2a2b6d9dc2e9fbaa3a2ed7e3e5cc3dc020e2b9a7947c12c52cc5"
+  },
+  {
+    "path": "17_compendios/compendio_primero_basico.md",
+    "size": 119277,
+    "sha256": "49d03c6252dbb375cf33cecf45f2fa1d412e200dedd6cc855b70162416d7716e"
+  },
+  {
+    "path": "17_compendios/compendio_primero_medio.md",
+    "size": 221984,
+    "sha256": "b13800c9a5a99d6d963258570a3ebd1acf48b17b7d4ffb3df6a57b3b555bf2c7"
+  },
+  {
+    "path": "17_compendios/compendio_quinto_basico.md",
+    "size": 191420,
+    "sha256": "dad503075f742c85224aafbf5ea45aa18ecb94db70c0f6b3049fe604652a1dae"
+  },
+  {
+    "path": "17_compendios/compendio_segundo_basico.md",
+    "size": 127674,
+    "sha256": "717899d6bdb34c1e64915efc55625781409f7ecb68864fc76c10d3e1140c1723"
+  },
+  {
+    "path": "17_compendios/compendio_segundo_medio.md",
+    "size": 238096,
+    "sha256": "26e3cc9d9c3cb1ffcb1b9e3ac587f1030498c4c38f5edd3d991e1094cd6d5015"
+  },
+  {
+    "path": "17_compendios/compendio_septimo_basico.md",
+    "size": 190941,
+    "sha256": "022a6443b1bfbb11558ea356d8ef15f7e3b0ede079eb5466b700f8d4473d0f29"
+  },
+  {
+    "path": "17_compendios/compendio_sexto_basico.md",
+    "size": 191366,
+    "sha256": "909d7cb4a4deb7570c8805c86aebada5e05a7cc9b16b7dd7a2c6e4a8805384e3"
+  },
+  {
+    "path": "17_compendios/compendio_tercero_basico.md",
+    "size": 143172,
+    "sha256": "6299fb8c2369a216a0e10f8d4f044e580d01f74cedca91b938a26517771f46d0"
+  },
+  {
+    "path": "17_compendios/compendio_tercero_medio.md",
+    "size": 190779,
+    "sha256": "0233b7a07f18869d4c26533f010eee6c8378e70ca0581c0bdeea0809c8dbf527"
+  },
+  {
+    "path": "17_compendios/enciclopedia_completa_biologia.md",
+    "size": 2203080,
+    "sha256": "f309dc86ef9bebcf6efad5bb1b6066404c4505b11d00332ce7261745d13d139f"
+  },
+  {
+    "path": "18_rag/catalogo_capitulos.json",
+    "size": 114580,
+    "sha256": "6ee4f2615e4a2d21c716ba79503892a5c195c06fe6fa2e160f310fbc75afeeae"
+  },
+  {
+    "path": "18_rag/catalogo_capitulos.jsonl",
+    "size": 101462,
+    "sha256": "bdcaed5c2ca89f2bac871e55e1c4ed06a6d14f9390809d7ac2f1e417d713b0be"
+  },
+  {
+    "path": "18_rag/chunks_biologia.jsonl",
+    "size": 4095887,
+    "sha256": "0a01c1580f941113164de22c3fe3b1c6ae047fb3ed87034064a98a6291ef0354"
+  },
+  {
+    "path": "CHANGELOG.md",
+    "size": 150,
+    "sha256": "71400f52b506f972249a1bdee22b7ba5c4c00d6cfa0403b7f3ae48ab04e236e3"
+  },
+  {
+    "path": "README.md",
+    "size": 1135,
+    "sha256": "b5b7820c57ed5692278710b9a9316ad708355aaa8bb6aa9dc98256b3fb86dfbd"
+  }
+]

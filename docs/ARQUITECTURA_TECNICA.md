@@ -20,9 +20,9 @@ Usuario pregunta → Frontend envía mensaje → Backend detecta materia
 
 ## Flujo educativo
 
-`educational_config.py` traduce etiquetas visibles a carpetas. `content_reader.py` detecta materia automática, analiza la pregunta y busca fuentes; `conversation_context.py` reconstruye seguimientos prudentes. `demo_tutor.py` crea el fallback pedagógico por curso usando `educational_level.py`. Los estados de procedencia están centralizados en `response_states.py`.
+`educational_config.py` traduce etiquetas visibles a carpetas. `content_reader.py` detecta materia automática, prioriza frases históricas específicas y busca fuentes; `conversation_context.py` reconstruye seguimientos prudentes. `demo_tutor.py` crea el fallback pedagógico por curso usando `educational_level.py`. Los estados de procedencia están centralizados en `response_states.py`.
 
-Cuando la configuración lo permite, `prompt_builder.py` prepara un prompt acotado y `ollama_client.py` llama a Ollama local. Si falla, el backend mantiene contenido local o fallback demo, registra procedencia y no expone razonamiento interno.
+En Modo Escolar, `prompt_builder.py` permite usar Ollama solo sobre una fuente local verificada y le prohíbe completar hechos desde su memoria. Sin fuente verificada, `main.py` bloquea la generación factual. En Modo Explorar puede haber generación sin fuente cuando la configuración lo permite, siempre con procedencia y advertencia de respuesta no verificada.
 
 ## Experiencia visual y operaciones
 

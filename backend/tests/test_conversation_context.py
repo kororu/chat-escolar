@@ -125,6 +125,18 @@ class ConversationContextIntegrationTests(unittest.TestCase):
         self.assertFalse(response["conversation_context"]["used_context"])
         self.assertIn("¿Puedes decirme qué quieres repasar?", response["answer"])
 
+    def test_explicitly_vague_question_without_context_requests_clarification(self):
+        for question in ("explícame eso", "no entendí", "cómo funciona", "dime más"):
+            with self.subTest(question=question):
+                response = self.ask(
+                    self.erik,
+                    question,
+                    conversation_id=f"vague-{question}",
+                )
+                self.assertEqual(response["provenance_status"], "clarification_required")
+                self.assertFalse(response["conversation_context"]["used_context"])
+                self.assertFalse(response["ollama_attempted"])
+
     def test_active_course_from_frontend_overrides_profile_course_for_search(self):
         response = self.ask(
             self.erik,

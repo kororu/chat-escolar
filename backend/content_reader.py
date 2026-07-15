@@ -58,7 +58,7 @@ STOP_WORDS = {
 # Se puede ampliar sin incorporar un corrector ortográfico agresivo.
 EDUCATIONAL_CONCEPTS = {
     "habitat": {
-        "aliases": {"habitat", "habitats"},
+        "aliases": {"habitat", "habitats", "havitat", "abitad"},
         "subject": "ciencias_naturales",
         "external": False,
     },
@@ -143,6 +143,38 @@ SUBJECT_KEYWORDS = {
     "Lenguaje": ("sustantivo", "verbo", "adjetivo", "oracion", "texto", "cuento", "poema", "fabula", "leyenda", "mito", "resumen", "comprension lectora", "lectura", "escritura", "sinonimo", "antonimo", "narrador", "personaje", "parrafo", "acento", "tilde", "puntuacion"),
 }
 
+# Frases históricas específicas: se revisan antes de los términos generales para
+# evitar que un desempate de búsqueda cambie la materia cuando no hay fuente local.
+HISTORY_PRIORITY_PHRASES = (
+    "combate naval de iquique",
+    "combate naval",
+    "arturo prat",
+    "21 de mayo",
+    "guerra del pacifico",
+    "esmeralda",
+    "covadonga",
+    "miguel grau",
+    "huascar",
+    "heroes navales",
+    "historia de chile",
+    "iquique",
+)
+
+HISTORY_CANONICAL_TOPICS = {
+    phrase: "combate naval de iquique"
+    for phrase in (
+        "combate naval de iquique",
+        "combate naval",
+        "arturo prat",
+        "21 de mayo",
+        "guerra del pacifico",
+        "esmeralda",
+        "miguel grau",
+        "huascar",
+        "iquique",
+    )
+}
+
 # Equivalencias deliberadamente pequeñas: ayudan a recuperar contenido escolar
 # sin convertir palabras genéricas en una coincidencia fuerte por sí solas.
 SEARCH_EQUIVALENCES = {
@@ -168,6 +200,50 @@ SEARCH_EQUIVALENCES = {
 # explícita para conservar un comportamiento predecible al editar contenidos.
 _content_index: dict[tuple[str, str], tuple[dict, ...]] = {}
 _content_index_lock = Lock()
+_library_index: tuple[dict, ...] = ()
+_library_term_index: dict[str, tuple[dict, ...]] = {}
+
+
+def _metadata_value(metadata: str, key: str) -> str:
+    match = re.search(rf"(?m)^{re.escape(key)}:\s*[\"']?([^\"'\n]+)", metadata)
+    if not match:
+        return ""
+    value = match.group(1).strip()
+    try:
+        return value.encode("latin-1").decode("utf-8") if "Â" in value else value
+    except UnicodeError:
+        return value
+
+
+def _course_number(value: str | None) -> int | None:
+    """Orden común para básico y medio, incluso si el documento no usa la ruta antigua."""
+    normalized = normalize_text(value or "")
+    number = re.search(r"\b([1-8])\D*basico", normalized)
+    if number:
+        return int(number.group(1))
+    number = re.search(r"\b([1-4])\D*medio", normalized)
+    return 8 + int(number.group(1)) if number else None
+
+
+def _infer_library_subject(relative_path: Path, metadata: dict) -> str:
+    area = normalize_text(metadata.get("area") or metadata.get("asignatura") or "")
+    path = normalize_text(" ".join(relative_path.parts))
+    if any(term in f"{area} {path}" for term in ("historia", "geografia", "ciudadana", "conflictos")):
+        return "Historia"
+    if any(term in f"{area} {path}" for term in ("matematica", "aritmetica", "algebra", "geometria")):
+        return "Matemática"
+    if any(term in f"{area} {path}" for term in ("lenguaje", "literatura", "comunicacion")):
+        return "Lenguaje"
+    return "Ciencias Naturales"
+
+
+def _infer_library_course(relative_path: Path, metadata: dict) -> str:
+    return (
+        metadata.get("curso_origen")
+        or metadata.get("apto_desde")
+        or next((folder_to_course_label(part) for part in relative_path.parts if part in COURSE_LABELS), "")
+        or "Sin curso declarado"
+    )
 
 
 def _single_word_aliases() -> dict[str, str]:
@@ -197,7 +273,10 @@ def _correct_known_token(token: str) -> tuple[str, float]:
             best_alias = alias
             best_ratio = ratio
 
-    if best_alias and best_ratio >= 0.72:
+    # Un umbral bajo confundía palabras válidas (por ejemplo, "consiste") con
+    # conceptos no mencionados ("ecosistemas"). Los errores frecuentes que
+    # requieren más tolerancia se mantienen como alias explícitos arriba.
+    if best_alias and best_ratio >= 0.82:
         canonical = aliases[best_alias]
         return canonical if " " not in canonical else best_alias, best_ratio
     return token, 1.0
@@ -250,6 +329,14 @@ def normalize_question(question: str) -> dict:
     if possible_topic:
         keywords.extend(possible_topic.split())
 
+    # Las entidades del mismo hecho histórico convergen al título canónico para
+    # que una consulta breve ("Esmeralda" o "21 de mayo") recupere la fuente
+    # específica y no una coincidencia débil de otra materia.
+    for phrase, canonical_topic in HISTORY_CANONICAL_TOPICS.items():
+        if phrase in normalized_question:
+            keywords.append(canonical_topic)
+            break
+
     # Las equivalencias se conservan como contexto relacionado, pero no se
     # mezclan con las palabras principales: así una mención de "plantas" no
     # puede convertir una referencia secundaria a fotosíntesis en fuente exacta.
@@ -279,6 +366,8 @@ def normalize_question(question: str) -> dict:
 def detect_subject_from_question(question: str) -> tuple[str | None, float]:
     """Return a conservative local subject guess and its keyword confidence."""
     normalized = normalize_question(question)["normalized_text"]
+    if any(phrase in normalized for phrase in HISTORY_PRIORITY_PHRASES):
+        return "Historia", 1.0
     scores = {
         subject: sum(1 for keyword in keywords if keyword in normalized)
         for subject, keywords in SUBJECT_KEYWORDS.items()
@@ -310,8 +399,8 @@ def parse_front_matter(content: str) -> dict:
         return {"topic": "", "subject": "", "keywords": []}
 
     metadata = parts[1]
-    topic_match = re.search(r'(?m)^tema:\s*["\']?([^"\'\n]+)', metadata)
-    subject_match = re.search(r'(?m)^asignatura:\s*["\']?([^"\'\n]+)', metadata)
+    topic = _metadata_value(metadata, "tema") or _metadata_value(metadata, "titulo")
+    subject = _metadata_value(metadata, "asignatura") or _metadata_value(metadata, "area")
     keyword_block = re.search(r"(?ms)^palabras_clave:\s*\n((?:\s+-[^\n]*\n?)*)", metadata)
     keywords = []
     if keyword_block:
@@ -320,9 +409,16 @@ def parse_front_matter(content: str) -> dict:
             for item in re.findall(r"(?m)^\s+-\s*(.+)$", keyword_block.group(1))
         ]
     return {
-        "topic": topic_match.group(1).strip() if topic_match else "",
-        "subject": subject_match.group(1).strip() if subject_match else "",
+        "topic": topic,
+        "subject": subject,
         "keywords": keywords,
+        "area": _metadata_value(metadata, "area"),
+        "category": _metadata_value(metadata, "categoria"),
+        "course_origin": _metadata_value(metadata, "curso_origen"),
+        "origin_level": _metadata_value(metadata, "nivel_origen") or _metadata_value(metadata, "nivel"),
+        "suitable_from": _metadata_value(metadata, "apto_desde"),
+        "content_type": _metadata_value(metadata, "tipo_contenido"),
+        "requires_verified_source": _metadata_value(metadata, "requiere_fuente_verificada"),
     }
 
 
@@ -482,6 +578,12 @@ def _score_document(document: dict, keywords: list[str]) -> dict:
     if high_signal_matches:
         score += 4  # La carpeta de materia ya fue validada antes de puntuar.
 
+    # Analizar todas las secciones de miles de documentos solo es necesario
+    # cuando no existe una señal principal; de otro modo la búsqueda transversal
+    # se vuelve innecesariamente lenta.
+    related_section = None if high_signal_matches else find_related_section(
+        content, keywords, sections=document["sections"]
+    )
     return {
         "title": document["title"],
         "content": content,
@@ -492,7 +594,7 @@ def _score_document(document: dict, keywords: list[str]) -> dict:
             keyword in fields["title"] or keyword in fields["topic"]
             for keyword in keywords
         ),
-        "related_section": find_related_section(content, keywords, sections=document["sections"]),
+        "related_section": related_section,
     }
 
 
@@ -575,12 +677,97 @@ def _build_content_index(search_scopes: list[tuple[str, str]] | None = None) -> 
     }
 
 
+def _is_library_document(relative_path: Path) -> bool:
+    """Exclude navigation and maintenance files, never a curricular Markdown by folder name."""
+    normalized_parts = {normalize_text(part) for part in relative_path.parts}
+    if normalized_parts.intersection({"00_documentacion", "documentacion", "bancos"}):
+        return False
+    name = normalize_text(relative_path.name)
+    return not (
+        name.startswith(("00_indice", "readme", "changelog"))
+        or "indice_maestro" in name
+    )
+
+
+def _build_library_index() -> tuple[dict, ...]:
+    if not CONTENT_ROOT.is_dir():
+        return ()
+    documents = []
+    for file_path in sorted(CONTENT_ROOT.rglob("*.md")):
+        try:
+            relative_path = file_path.relative_to(CONTENT_ROOT)
+        except ValueError:
+            continue
+        if not _is_library_document(relative_path):
+            continue
+        try:
+            raw_content = file_path.read_text(encoding="utf-8")
+        except (OSError, UnicodeError):
+            continue
+        content = strip_front_matter(raw_content)
+        metadata = parse_front_matter(raw_content)
+        title = extract_title(content, file_path.stem)
+        headings = [heading for heading in extract_headings(content) if not _is_related_section(heading)]
+        course = _infer_library_course(relative_path, metadata)
+        subject = _infer_library_subject(relative_path, metadata)
+        documents.append({
+            "file_path": file_path,
+            "relative_path": relative_path.as_posix(),
+            "content": content,
+            "title": title,
+            "course": course,
+            "course_number": _course_number(course),
+            "subject": subject,
+            "metadata": metadata,
+            "sections": [
+                {**section, "normalized_heading": normalize_text(section["heading"]),
+                 "normalized_text": normalize_text(section["text"]),
+                 "explicit_related_section": _is_related_section(section["heading"])}
+                for section in extract_sections(content)
+            ],
+            "fields": {
+                "filename": normalize_text(file_path.stem), "title": normalize_text(title),
+                "topic": normalize_text(metadata.get("topic", "")),
+                "headings": normalize_text(" ".join(headings)),
+                "explicit_keywords": normalize_text(" ".join(metadata.get("keywords", []))),
+                "body": normalize_text(content),
+            },
+        })
+    return tuple(documents)
+
+
 def reload_local_content_index() -> int:
     """Recarga el índice local después de editar archivos Markdown en caliente."""
-    global _content_index
+    global _content_index, _library_index, _library_term_index
     with _content_index_lock:
-        _content_index = _build_content_index()
-        return sum(len(documents) for documents in _content_index.values())
+        # La búsqueda actual usa el índice transversal; conservar el contenedor
+        # antiguo vacío evita leer dos veces los mismos Markdown al recargar.
+        _content_index = {}
+        _library_index = _build_library_index()
+        _library_term_index = _build_library_term_index(_library_index)
+        return len(_library_index)
+
+
+def _get_library_index() -> tuple[dict, ...]:
+    global _library_index, _library_term_index
+    if not _library_index:
+        with _content_index_lock:
+            if not _library_index:
+                _library_index = _build_library_index()
+                _library_term_index = _build_library_term_index(_library_index)
+    return _library_index
+
+
+def _build_library_term_index(documents: tuple[dict, ...]) -> dict[str, tuple[dict, ...]]:
+    terms: dict[str, list[dict]] = {}
+    for document in documents:
+        # El índice inverso usa solo señales editoriales. El cuerpo se evalúa
+        # después, únicamente para los documentos candidatos.
+        signal = " ".join(document["fields"][field] for field in ("filename", "title", "topic", "headings", "explicit_keywords"))
+        for term in set(signal.split()):
+            if len(term) >= 3:
+                terms.setdefault(term, []).append(document)
+    return {term: tuple(items) for term, items in terms.items()}
 
 
 def _get_content_index(search_scopes: list[tuple[str, str]]) -> tuple[dict, ...]:
@@ -649,6 +836,51 @@ def _rank_candidates(candidates: list[dict], preferred_course_folder: str | None
     )
 
 
+def _collect_library_candidates(keywords: list[str], selected_subject: str, profile_course: str) -> list[dict]:
+    """Search every installed collection; profile course only affects ranking, never scope."""
+    candidates = []
+    preferred_number = _course_number(profile_course)
+    selected_subject_normalized = normalize_text(selected_subject)
+    _get_library_index()
+    matching_documents = {
+        id(document): document
+        for keyword in keywords
+        for document in _library_term_index.get(keyword, ())
+    }
+    # Sin una señal editorial no se recorre el cuerpo completo de la biblioteca.
+    # Esto evita que una pregunta sin fuente tarde lo mismo que una coincidencia real.
+    for document in matching_documents.values():
+        scored = _score_document(document, keywords)
+        if scored["score"] <= 0:
+            continue
+        score = scored["score"]
+        if normalize_text(document["subject"]) == selected_subject_normalized:
+            score += 6
+        distance = 99
+        if preferred_number is not None and document["course_number"] is not None:
+            distance = abs(document["course_number"] - preferred_number)
+            score += max(0, 4 - distance)
+        metadata = document["metadata"]
+        candidates.append({
+            "title": scored["title"], "path": document["relative_path"], "score": score,
+            "excerpt": make_excerpt(scored["content"], keywords),
+            "coherent": bool(scored["high_signal_matches"]),
+            "matched_terms": sorted(scored["matched_terms"]), "is_exact_match": scored["is_exact_match"],
+            "related_section": scored["related_section"], "course": document["course"],
+            "course_folder": "", "subject": document["subject"], "course_distance": distance,
+            "_document": document,
+            "metadata": {
+                "title": document["title"], "area": metadata.get("area", ""),
+                "category": metadata.get("category", ""), "course_origin": document["course"],
+                "origin_level": metadata.get("origin_level", ""), "suitable_from": metadata.get("suitable_from", ""),
+                "keywords": metadata.get("keywords", []), "related_subjects": metadata.get("related_subjects", []),
+                "content_type": metadata.get("content_type", ""),
+                "requires_verified_source": metadata.get("requires_verified_source", ""),
+            },
+        })
+    return sorted(candidates, key=lambda item: (-item["score"], item["course_distance"], item["path"]))
+
+
 def _format_retrieval_result(
     base_result: dict,
     candidates: list[dict],
@@ -684,6 +916,8 @@ def _format_retrieval_result(
             key: candidate[key]
             for key in ("title", "path", "score", "excerpt", "course", "subject", "matched_terms", "is_exact_match")
         })
+        if candidate.get("metadata"):
+            verified[-1]["metadata"] = candidate["metadata"]
         if len(verified) >= max(1, min(limit, MAX_RESULTS)):
             break
 
@@ -703,6 +937,16 @@ def _format_retrieval_result(
         }
 
     if candidates:
+        # Solo si no hubo fuente principal se inspeccionan las secciones de las
+        # mejores coincidencias para informar una relación secundaria.
+        for candidate in candidates[:20]:
+            if candidate["related_section"] is None:
+                document = candidate.get("_document")
+                if document:
+                    candidate["related_section"] = find_related_section(
+                        document["content"], base_result["query_analysis"]["keywords"],
+                        sections=document["sections"],
+                    )
         related_candidates = [
             {
                 "title": candidate["title"],
@@ -766,9 +1010,9 @@ def retrieve_local_content(
     topic_config = EDUCATIONAL_CONCEPTS.get(possible_topic or "", {})
 
     base_result = _make_base_result(analysis, minimum_score)
-    effective_course = "Todos los cursos" if global_search else folder_to_course_label(course_folder or "")
+    effective_course = "Todos los cursos" if global_search else (folder_to_course_label(course_folder) if course_folder else course)
 
-    if (not course_folder and not global_search) or not selected_subject:
+    if not selected_subject:
         return {
             **base_result,
             "provenance_status": NO_LOCAL_CONTENT,
@@ -777,34 +1021,13 @@ def retrieve_local_content(
     if not analysis["keywords"]:
         return {
             **base_result,
-            "provenance_status": CLARIFICATION_REQUIRED,
-            "effective_course": effective_course,
-        }
-
-    if topic_config.get("external"):
-        return {
-            **base_result,
             "provenance_status": NO_LOCAL_CONTENT,
             "effective_course": effective_course,
         }
 
-    possible_subject = analysis["possible_subject"]
-    if possible_subject and possible_subject != selected_subject:
-        return {
-            **base_result,
-            "provenance_status": CLARIFICATION_REQUIRED,
-            "effective_course": effective_course,
-        }
-
-    if global_search or explorer_mode:
-        search_scopes = [
-            (course_name, selected_subject)
-            for course_name in COURSE_LABELS
-        ]
-    else:
-        search_scopes = [(course_folder, selected_subject)]
-
-    candidates = _collect_candidates(search_scopes, analysis["keywords"])
+    # La biblioteca es transversal: nunca se filtra por el curso o materia del perfil.
+    # Esos datos son señales suaves de ordenamiento y de adaptación de la respuesta.
+    candidates = _collect_library_candidates(analysis["keywords"], selected_subject, course)
     return _format_retrieval_result(
         base_result,
         candidates,

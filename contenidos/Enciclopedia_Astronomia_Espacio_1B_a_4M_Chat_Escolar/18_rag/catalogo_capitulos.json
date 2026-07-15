@@ -1,0 +1,3192 @@
+[
+  {
+    "id": "ast_1b_001_el_cielo_de_dia",
+    "titulo": "El cielo de día",
+    "curso": "1° básico",
+    "folder": "01_primero_basico",
+    "path": "01_primero_basico/001_el_cielo_de_dia.md",
+    "categoria": "astronomia_general",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_1b_002_el_cielo_de_noche",
+    "titulo": "El cielo de noche",
+    "curso": "1° básico",
+    "folder": "01_primero_basico",
+    "path": "01_primero_basico/002_el_cielo_de_noche.md",
+    "categoria": "astronomia_general",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_1b_003_el_sol_como_estrella_cercana",
+    "titulo": "El Sol como estrella cercana",
+    "curso": "1° básico",
+    "folder": "01_primero_basico",
+    "path": "01_primero_basico/003_el_sol_como_estrella_cercana.md",
+    "categoria": "sol",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_1b_004_la_luna_en_el_cielo",
+    "titulo": "La Luna en el cielo",
+    "curso": "1° básico",
+    "folder": "01_primero_basico",
+    "path": "01_primero_basico/004_la_luna_en_el_cielo.md",
+    "categoria": "tierra_luna",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_1b_005_estrellas_visibles",
+    "titulo": "Estrellas visibles",
+    "curso": "1° básico",
+    "folder": "01_primero_basico",
+    "path": "01_primero_basico/005_estrellas_visibles.md",
+    "categoria": "estrellas",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_1b_006_cambios_entre_dia_y_noche",
+    "titulo": "Cambios entre día y noche",
+    "curso": "1° básico",
+    "folder": "01_primero_basico",
+    "path": "01_primero_basico/006_cambios_entre_dia_y_noche.md",
+    "categoria": "astronomia_general",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_1b_007_sombras_producidas_por_el_sol",
+    "titulo": "Sombras producidas por el Sol",
+    "curso": "1° básico",
+    "folder": "01_primero_basico",
+    "path": "01_primero_basico/007_sombras_producidas_por_el_sol.md",
+    "categoria": "sol",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_1b_008_el_sol_da_luz_y_calor",
+    "titulo": "El Sol da luz y calor",
+    "curso": "1° básico",
+    "folder": "01_primero_basico",
+    "path": "01_primero_basico/008_el_sol_da_luz_y_calor.md",
+    "categoria": "sol",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_1b_009_observar_el_cielo_con_seguridad",
+    "titulo": "Observar el cielo con seguridad",
+    "curso": "1° básico",
+    "folder": "01_primero_basico",
+    "path": "01_primero_basico/009_observar_el_cielo_con_seguridad.md",
+    "categoria": "astronomia_general",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_1b_010_formas_de_la_luna_observadas",
+    "titulo": "Formas de la Luna observadas",
+    "curso": "1° básico",
+    "folder": "01_primero_basico",
+    "path": "01_primero_basico/010_formas_de_la_luna_observadas.md",
+    "categoria": "tierra_luna",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_1b_011_nubes_y_objetos_del_cielo",
+    "titulo": "Nubes y objetos del cielo",
+    "curso": "1° básico",
+    "folder": "01_primero_basico",
+    "path": "01_primero_basico/011_nubes_y_objetos_del_cielo.md",
+    "categoria": "astronomia_general",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_1b_012_la_tierra_como_nuestro_hogar",
+    "titulo": "La Tierra como nuestro hogar",
+    "curso": "1° básico",
+    "folder": "01_primero_basico",
+    "path": "01_primero_basico/012_la_tierra_como_nuestro_hogar.md",
+    "categoria": "astronomia_general",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_1b_013_diferencia_entre_cielo_y_espacio",
+    "titulo": "Diferencia entre cielo y espacio",
+    "curso": "1° básico",
+    "folder": "01_primero_basico",
+    "path": "01_primero_basico/013_diferencia_entre_cielo_y_espacio.md",
+    "categoria": "astronomia_general",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_1b_014_preguntas_frecuentes_sobre_el_espacio",
+    "titulo": "Preguntas frecuentes sobre el espacio",
+    "curso": "1° básico",
+    "folder": "01_primero_basico",
+    "path": "01_primero_basico/014_preguntas_frecuentes_sobre_el_espacio.md",
+    "categoria": "astronomia_general",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_1b_015_registro_de_observaciones",
+    "titulo": "Registro de observaciones",
+    "curso": "1° básico",
+    "folder": "01_primero_basico",
+    "path": "01_primero_basico/015_registro_de_observaciones.md",
+    "categoria": "astronomia_general",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_2b_001_el_sol_la_tierra_y_la_luna",
+    "titulo": "El Sol, la Tierra y la Luna",
+    "curso": "2° básico",
+    "folder": "02_segundo_basico",
+    "path": "02_segundo_basico/001_el_sol_la_tierra_y_la_luna.md",
+    "categoria": "sol",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_2b_002_sucesion_de_dia_y_noche",
+    "titulo": "Sucesión de día y noche",
+    "curso": "2° básico",
+    "folder": "02_segundo_basico",
+    "path": "02_segundo_basico/002_sucesion_de_dia_y_noche.md",
+    "categoria": "astronomia_general",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_2b_003_movimiento_aparente_del_sol",
+    "titulo": "Movimiento aparente del Sol",
+    "curso": "2° básico",
+    "folder": "02_segundo_basico",
+    "path": "02_segundo_basico/003_movimiento_aparente_del_sol.md",
+    "categoria": "sol",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_2b_004_la_luna_cambia_de_apariencia",
+    "titulo": "La Luna cambia de apariencia",
+    "curso": "2° básico",
+    "folder": "02_segundo_basico",
+    "path": "02_segundo_basico/004_la_luna_cambia_de_apariencia.md",
+    "categoria": "tierra_luna",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_2b_005_fases_lunares_iniciales",
+    "titulo": "Fases lunares iniciales",
+    "curso": "2° básico",
+    "folder": "02_segundo_basico",
+    "path": "02_segundo_basico/005_fases_lunares_iniciales.md",
+    "categoria": "tierra_luna",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_2b_006_estrellas_y_constelaciones_iniciales",
+    "titulo": "Estrellas y constelaciones iniciales",
+    "curso": "2° básico",
+    "folder": "02_segundo_basico",
+    "path": "02_segundo_basico/006_estrellas_y_constelaciones_iniciales.md",
+    "categoria": "estrellas",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_2b_007_planetas_como_mundos",
+    "titulo": "Planetas como mundos",
+    "curso": "2° básico",
+    "folder": "02_segundo_basico",
+    "path": "02_segundo_basico/007_planetas_como_mundos.md",
+    "categoria": "sistema_solar",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_2b_008_satelites_naturales",
+    "titulo": "Satélites naturales",
+    "curso": "2° básico",
+    "folder": "02_segundo_basico",
+    "path": "02_segundo_basico/008_satelites_naturales.md",
+    "categoria": "exploracion_espacial",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_2b_009_objetos_naturales_y_artificiales_del_cielo",
+    "titulo": "Objetos naturales y artificiales del cielo",
+    "curso": "2° básico",
+    "folder": "02_segundo_basico",
+    "path": "02_segundo_basico/009_objetos_naturales_y_artificiales_del_cielo.md",
+    "categoria": "astronomia_general",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_2b_010_cohetes_y_exploracion_espacial",
+    "titulo": "Cohetes y exploración espacial",
+    "curso": "2° básico",
+    "folder": "02_segundo_basico",
+    "path": "02_segundo_basico/010_cohetes_y_exploracion_espacial.md",
+    "categoria": "exploracion_espacial",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": true
+  },
+  {
+    "id": "ast_2b_011_astronautas_y_trabajo_en_el_espacio",
+    "titulo": "Astronautas y trabajo en el espacio",
+    "curso": "2° básico",
+    "folder": "02_segundo_basico",
+    "path": "02_segundo_basico/011_astronautas_y_trabajo_en_el_espacio.md",
+    "categoria": "astronomia_general",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_2b_012_la_tierra_vista_desde_el_espacio",
+    "titulo": "La Tierra vista desde el espacio",
+    "curso": "2° básico",
+    "folder": "02_segundo_basico",
+    "path": "02_segundo_basico/012_la_tierra_vista_desde_el_espacio.md",
+    "categoria": "astronomia_general",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_2b_013_importancia_de_la_atmosfera",
+    "titulo": "Importancia de la atmósfera",
+    "curso": "2° básico",
+    "folder": "02_segundo_basico",
+    "path": "02_segundo_basico/013_importancia_de_la_atmosfera.md",
+    "categoria": "astronomia_general",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_2b_014_contaminacion_luminica_inicial",
+    "titulo": "Contaminación lumínica inicial",
+    "curso": "2° básico",
+    "folder": "02_segundo_basico",
+    "path": "02_segundo_basico/014_contaminacion_luminica_inicial.md",
+    "categoria": "astronomia_general",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_2b_015_calendarios_y_observacion_del_cielo",
+    "titulo": "Calendarios y observación del cielo",
+    "curso": "2° básico",
+    "folder": "02_segundo_basico",
+    "path": "02_segundo_basico/015_calendarios_y_observacion_del_cielo.md",
+    "categoria": "astronomia_general",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_2b_016_preguntas_infantiles_sobre_el_universo",
+    "titulo": "Preguntas infantiles sobre el universo",
+    "curso": "2° básico",
+    "folder": "02_segundo_basico",
+    "path": "02_segundo_basico/016_preguntas_infantiles_sobre_el_universo.md",
+    "categoria": "astronomia_general",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_3b_001_componentes_del_sistema_solar",
+    "titulo": "Componentes del Sistema Solar",
+    "curso": "3° básico",
+    "folder": "03_tercero_basico",
+    "path": "03_tercero_basico/001_componentes_del_sistema_solar.md",
+    "categoria": "sol",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_3b_002_el_sol",
+    "titulo": "El Sol",
+    "curso": "3° básico",
+    "folder": "03_tercero_basico",
+    "path": "03_tercero_basico/002_el_sol.md",
+    "categoria": "sol",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_3b_003_mercurio",
+    "titulo": "Mercurio",
+    "curso": "3° básico",
+    "folder": "03_tercero_basico",
+    "path": "03_tercero_basico/003_mercurio.md",
+    "categoria": "astronomia_general",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_3b_004_venus",
+    "titulo": "Venus",
+    "curso": "3° básico",
+    "folder": "03_tercero_basico",
+    "path": "03_tercero_basico/004_venus.md",
+    "categoria": "astronomia_general",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_3b_005_la_tierra",
+    "titulo": "La Tierra",
+    "curso": "3° básico",
+    "folder": "03_tercero_basico",
+    "path": "03_tercero_basico/005_la_tierra.md",
+    "categoria": "astronomia_general",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_3b_006_marte",
+    "titulo": "Marte",
+    "curso": "3° básico",
+    "folder": "03_tercero_basico",
+    "path": "03_tercero_basico/006_marte.md",
+    "categoria": "astronomia_general",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_3b_007_jupiter",
+    "titulo": "Júpiter",
+    "curso": "3° básico",
+    "folder": "03_tercero_basico",
+    "path": "03_tercero_basico/007_jupiter.md",
+    "categoria": "astronomia_general",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_3b_008_saturno",
+    "titulo": "Saturno",
+    "curso": "3° básico",
+    "folder": "03_tercero_basico",
+    "path": "03_tercero_basico/008_saturno.md",
+    "categoria": "astronomia_general",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_3b_009_urano",
+    "titulo": "Urano",
+    "curso": "3° básico",
+    "folder": "03_tercero_basico",
+    "path": "03_tercero_basico/009_urano.md",
+    "categoria": "astronomia_general",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_3b_010_neptuno",
+    "titulo": "Neptuno",
+    "curso": "3° básico",
+    "folder": "03_tercero_basico",
+    "path": "03_tercero_basico/010_neptuno.md",
+    "categoria": "astronomia_general",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_3b_011_planetas_enanos",
+    "titulo": "Planetas enanos",
+    "curso": "3° básico",
+    "folder": "03_tercero_basico",
+    "path": "03_tercero_basico/011_planetas_enanos.md",
+    "categoria": "sistema_solar",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_3b_012_lunas_del_sistema_solar",
+    "titulo": "Lunas del Sistema Solar",
+    "curso": "3° básico",
+    "folder": "03_tercero_basico",
+    "path": "03_tercero_basico/012_lunas_del_sistema_solar.md",
+    "categoria": "sol",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_3b_013_asteroides",
+    "titulo": "Asteroides",
+    "curso": "3° básico",
+    "folder": "03_tercero_basico",
+    "path": "03_tercero_basico/013_asteroides.md",
+    "categoria": "sistema_solar",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_3b_014_cometas",
+    "titulo": "Cometas",
+    "curso": "3° básico",
+    "folder": "03_tercero_basico",
+    "path": "03_tercero_basico/014_cometas.md",
+    "categoria": "sistema_solar",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_3b_015_meteoroides_meteoros_y_meteoritos",
+    "titulo": "Meteoroides meteoros y meteoritos",
+    "curso": "3° básico",
+    "folder": "03_tercero_basico",
+    "path": "03_tercero_basico/015_meteoroides_meteoros_y_meteoritos.md",
+    "categoria": "sistema_solar",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_3b_016_orden_y_distancias_relativas",
+    "titulo": "Orden y distancias relativas",
+    "curso": "3° básico",
+    "folder": "03_tercero_basico",
+    "path": "03_tercero_basico/016_orden_y_distancias_relativas.md",
+    "categoria": "astronomia_general",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_3b_017_rotacion_de_la_tierra",
+    "titulo": "Rotación de la Tierra",
+    "curso": "3° básico",
+    "folder": "03_tercero_basico",
+    "path": "03_tercero_basico/017_rotacion_de_la_tierra.md",
+    "categoria": "astronomia_general",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_3b_018_traslacion_de_la_tierra",
+    "titulo": "Traslación de la Tierra",
+    "curso": "3° básico",
+    "folder": "03_tercero_basico",
+    "path": "03_tercero_basico/018_traslacion_de_la_tierra.md",
+    "categoria": "astronomia_general",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_3b_019_estaciones_del_ano",
+    "titulo": "Estaciones del año",
+    "curso": "3° básico",
+    "folder": "03_tercero_basico",
+    "path": "03_tercero_basico/019_estaciones_del_ano.md",
+    "categoria": "astronomia_general",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_3b_020_fases_de_la_luna",
+    "titulo": "Fases de la Luna",
+    "curso": "3° básico",
+    "folder": "03_tercero_basico",
+    "path": "03_tercero_basico/020_fases_de_la_luna.md",
+    "categoria": "tierra_luna",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_3b_021_eclipse_de_sol",
+    "titulo": "Eclipse de Sol",
+    "curso": "3° básico",
+    "folder": "03_tercero_basico",
+    "path": "03_tercero_basico/021_eclipse_de_sol.md",
+    "categoria": "sol",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_3b_022_eclipse_de_luna",
+    "titulo": "Eclipse de Luna",
+    "curso": "3° básico",
+    "folder": "03_tercero_basico",
+    "path": "03_tercero_basico/022_eclipse_de_luna.md",
+    "categoria": "tierra_luna",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_3b_023_modelos_del_sistema_solar",
+    "titulo": "Modelos del Sistema Solar",
+    "curso": "3° básico",
+    "folder": "03_tercero_basico",
+    "path": "03_tercero_basico/023_modelos_del_sistema_solar.md",
+    "categoria": "sol",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_3b_024_escalas_y_limites_de_los_modelos",
+    "titulo": "Escalas y límites de los modelos",
+    "curso": "3° básico",
+    "folder": "03_tercero_basico",
+    "path": "03_tercero_basico/024_escalas_y_limites_de_los_modelos.md",
+    "categoria": "astronomia_general",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_4b_001_la_tierra_como_planeta",
+    "titulo": "La Tierra como planeta",
+    "curso": "4° básico",
+    "folder": "04_cuarto_basico",
+    "path": "04_cuarto_basico/001_la_tierra_como_planeta.md",
+    "categoria": "sistema_solar",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_4b_002_forma_de_la_tierra_y_evidencias",
+    "titulo": "Forma de la Tierra y evidencias",
+    "curso": "4° básico",
+    "folder": "04_cuarto_basico",
+    "path": "04_cuarto_basico/002_forma_de_la_tierra_y_evidencias.md",
+    "categoria": "astronomia_general",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_4b_003_eje_terrestre",
+    "titulo": "Eje terrestre",
+    "curso": "4° básico",
+    "folder": "04_cuarto_basico",
+    "path": "04_cuarto_basico/003_eje_terrestre.md",
+    "categoria": "astronomia_general",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_4b_004_rotacion_y_husos_horarios_iniciales",
+    "titulo": "Rotación y husos horarios iniciales",
+    "curso": "4° básico",
+    "folder": "04_cuarto_basico",
+    "path": "04_cuarto_basico/004_rotacion_y_husos_horarios_iniciales.md",
+    "categoria": "astronomia_general",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_4b_005_traslacion_y_ano",
+    "titulo": "Traslación y año",
+    "curso": "4° básico",
+    "folder": "04_cuarto_basico",
+    "path": "04_cuarto_basico/005_traslacion_y_ano.md",
+    "categoria": "astronomia_general",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_4b_006_inclinacion_del_eje_y_estaciones",
+    "titulo": "Inclinación del eje y estaciones",
+    "curso": "4° básico",
+    "folder": "04_cuarto_basico",
+    "path": "04_cuarto_basico/006_inclinacion_del_eje_y_estaciones.md",
+    "categoria": "astronomia_general",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_4b_007_orbita_terrestre",
+    "titulo": "Órbita terrestre",
+    "curso": "4° básico",
+    "folder": "04_cuarto_basico",
+    "path": "04_cuarto_basico/007_orbita_terrestre.md",
+    "categoria": "gravedad_y_orbitas",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_4b_008_gravedad_inicial",
+    "titulo": "Gravedad inicial",
+    "curso": "4° básico",
+    "folder": "04_cuarto_basico",
+    "path": "04_cuarto_basico/008_gravedad_inicial.md",
+    "categoria": "gravedad_y_orbitas",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_4b_009_masa_y_peso_iniciales",
+    "titulo": "Masa y peso iniciales",
+    "curso": "4° básico",
+    "folder": "04_cuarto_basico",
+    "path": "04_cuarto_basico/009_masa_y_peso_iniciales.md",
+    "categoria": "astronomia_general",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_4b_010_la_luna_y_sus_movimientos",
+    "titulo": "La Luna y sus movimientos",
+    "curso": "4° básico",
+    "folder": "04_cuarto_basico",
+    "path": "04_cuarto_basico/010_la_luna_y_sus_movimientos.md",
+    "categoria": "tierra_luna",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_4b_011_fases_lunares_detalladas",
+    "titulo": "Fases lunares detalladas",
+    "curso": "4° básico",
+    "folder": "04_cuarto_basico",
+    "path": "04_cuarto_basico/011_fases_lunares_detalladas.md",
+    "categoria": "tierra_luna",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_4b_012_eclipses_y_alineacion",
+    "titulo": "Eclipses y alineación",
+    "curso": "4° básico",
+    "folder": "04_cuarto_basico",
+    "path": "04_cuarto_basico/012_eclipses_y_alineacion.md",
+    "categoria": "tierra_luna",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_4b_013_mareas_iniciales",
+    "titulo": "Mareas iniciales",
+    "curso": "4° básico",
+    "folder": "04_cuarto_basico",
+    "path": "04_cuarto_basico/013_mareas_iniciales.md",
+    "categoria": "tierra_luna",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_4b_014_constelaciones_y_orientacion",
+    "titulo": "Constelaciones y orientación",
+    "curso": "4° básico",
+    "folder": "04_cuarto_basico",
+    "path": "04_cuarto_basico/014_constelaciones_y_orientacion.md",
+    "categoria": "astronomia_general",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_4b_015_estrellas_de_distinto_brillo",
+    "titulo": "Estrellas de distinto brillo",
+    "curso": "4° básico",
+    "folder": "04_cuarto_basico",
+    "path": "04_cuarto_basico/015_estrellas_de_distinto_brillo.md",
+    "categoria": "estrellas",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_4b_016_color_de_las_estrellas_inicial",
+    "titulo": "Color de las estrellas inicial",
+    "curso": "4° básico",
+    "folder": "04_cuarto_basico",
+    "path": "04_cuarto_basico/016_color_de_las_estrellas_inicial.md",
+    "categoria": "estrellas",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_4b_017_la_via_lactea",
+    "titulo": "La Vía Láctea",
+    "curso": "4° básico",
+    "folder": "04_cuarto_basico",
+    "path": "04_cuarto_basico/017_la_via_lactea.md",
+    "categoria": "galaxias",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_4b_018_galaxias_iniciales",
+    "titulo": "Galaxias iniciales",
+    "curso": "4° básico",
+    "folder": "04_cuarto_basico",
+    "path": "04_cuarto_basico/018_galaxias_iniciales.md",
+    "categoria": "galaxias",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_4b_019_satelites_artificiales",
+    "titulo": "Satélites artificiales",
+    "curso": "4° básico",
+    "folder": "04_cuarto_basico",
+    "path": "04_cuarto_basico/019_satelites_artificiales.md",
+    "categoria": "exploracion_espacial",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_4b_020_exploracion_espacial_historica",
+    "titulo": "Exploración espacial histórica",
+    "curso": "4° básico",
+    "folder": "04_cuarto_basico",
+    "path": "04_cuarto_basico/020_exploracion_espacial_historica.md",
+    "categoria": "exploracion_espacial",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": true
+  },
+  {
+    "id": "ast_5b_001_formacion_del_sistema_solar_inicial",
+    "titulo": "Formación del Sistema Solar inicial",
+    "curso": "5° básico",
+    "folder": "05_quinto_basico",
+    "path": "05_quinto_basico/001_formacion_del_sistema_solar_inicial.md",
+    "categoria": "sol",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_5b_002_el_sol_y_sus_capas",
+    "titulo": "El Sol y sus capas",
+    "curso": "5° básico",
+    "folder": "05_quinto_basico",
+    "path": "05_quinto_basico/002_el_sol_y_sus_capas.md",
+    "categoria": "sol",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_5b_003_energia_solar",
+    "titulo": "Energía solar",
+    "curso": "5° básico",
+    "folder": "05_quinto_basico",
+    "path": "05_quinto_basico/003_energia_solar.md",
+    "categoria": "sol",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_5b_004_planetas_rocosos",
+    "titulo": "Planetas rocosos",
+    "curso": "5° básico",
+    "folder": "05_quinto_basico",
+    "path": "05_quinto_basico/004_planetas_rocosos.md",
+    "categoria": "sistema_solar",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_5b_005_planetas_gigantes",
+    "titulo": "Planetas gigantes",
+    "curso": "5° básico",
+    "folder": "05_quinto_basico",
+    "path": "05_quinto_basico/005_planetas_gigantes.md",
+    "categoria": "sistema_solar",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_5b_006_atmosferas_planetarias",
+    "titulo": "Atmósferas planetarias",
+    "curso": "5° básico",
+    "folder": "05_quinto_basico",
+    "path": "05_quinto_basico/006_atmosferas_planetarias.md",
+    "categoria": "sistema_solar",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_5b_007_superficies_planetarias",
+    "titulo": "Superficies planetarias",
+    "curso": "5° básico",
+    "folder": "05_quinto_basico",
+    "path": "05_quinto_basico/007_superficies_planetarias.md",
+    "categoria": "sistema_solar",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_5b_008_agua_en_el_sistema_solar",
+    "titulo": "Agua en el Sistema Solar",
+    "curso": "5° básico",
+    "folder": "05_quinto_basico",
+    "path": "05_quinto_basico/008_agua_en_el_sistema_solar.md",
+    "categoria": "sol",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_5b_009_lunas_destacadas",
+    "titulo": "Lunas destacadas",
+    "curso": "5° básico",
+    "folder": "05_quinto_basico",
+    "path": "05_quinto_basico/009_lunas_destacadas.md",
+    "categoria": "tierra_luna",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_5b_010_anillos_planetarios",
+    "titulo": "Anillos planetarios",
+    "curso": "5° básico",
+    "folder": "05_quinto_basico",
+    "path": "05_quinto_basico/010_anillos_planetarios.md",
+    "categoria": "sistema_solar",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_5b_011_cinturon_de_asteroides",
+    "titulo": "Cinturón de asteroides",
+    "curso": "5° básico",
+    "folder": "05_quinto_basico",
+    "path": "05_quinto_basico/011_cinturon_de_asteroides.md",
+    "categoria": "sistema_solar",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_5b_012_cinturon_de_kuiper",
+    "titulo": "Cinturón de Kuiper",
+    "curso": "5° básico",
+    "folder": "05_quinto_basico",
+    "path": "05_quinto_basico/012_cinturon_de_kuiper.md",
+    "categoria": "sistema_solar",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_5b_013_nube_de_oort_inicial",
+    "titulo": "Nube de Oort inicial",
+    "curso": "5° básico",
+    "folder": "05_quinto_basico",
+    "path": "05_quinto_basico/013_nube_de_oort_inicial.md",
+    "categoria": "sistema_solar",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_5b_014_cometas_y_sus_orbitas",
+    "titulo": "Cometas y sus órbitas",
+    "curso": "5° básico",
+    "folder": "05_quinto_basico",
+    "path": "05_quinto_basico/014_cometas_y_sus_orbitas.md",
+    "categoria": "sistema_solar",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_5b_015_meteoritos_y_crateres",
+    "titulo": "Meteoritos y cráteres",
+    "curso": "5° básico",
+    "folder": "05_quinto_basico",
+    "path": "05_quinto_basico/015_meteoritos_y_crateres.md",
+    "categoria": "sistema_solar",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_5b_016_gravedad_y_orbitas",
+    "titulo": "Gravedad y órbitas",
+    "curso": "5° básico",
+    "folder": "05_quinto_basico",
+    "path": "05_quinto_basico/016_gravedad_y_orbitas.md",
+    "categoria": "gravedad_y_orbitas",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_5b_017_velocidad_orbital_inicial",
+    "titulo": "Velocidad orbital inicial",
+    "curso": "5° básico",
+    "folder": "05_quinto_basico",
+    "path": "05_quinto_basico/017_velocidad_orbital_inicial.md",
+    "categoria": "astronomia_general",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_5b_018_satelites_artificiales",
+    "titulo": "Satélites artificiales",
+    "curso": "5° básico",
+    "folder": "05_quinto_basico",
+    "path": "05_quinto_basico/018_satelites_artificiales.md",
+    "categoria": "exploracion_espacial",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_5b_019_estacion_espacial_internacional",
+    "titulo": "Estación Espacial Internacional",
+    "curso": "5° básico",
+    "folder": "05_quinto_basico",
+    "path": "05_quinto_basico/019_estacion_espacial_internacional.md",
+    "categoria": "exploracion_espacial",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_5b_020_sondas_espaciales",
+    "titulo": "Sondas espaciales",
+    "curso": "5° básico",
+    "folder": "05_quinto_basico",
+    "path": "05_quinto_basico/020_sondas_espaciales.md",
+    "categoria": "exploracion_espacial",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_5b_021_rovers_planetarios",
+    "titulo": "Rovers planetarios",
+    "curso": "5° básico",
+    "folder": "05_quinto_basico",
+    "path": "05_quinto_basico/021_rovers_planetarios.md",
+    "categoria": "sistema_solar",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_5b_022_telescopios_espaciales",
+    "titulo": "Telescopios espaciales",
+    "curso": "5° básico",
+    "folder": "05_quinto_basico",
+    "path": "05_quinto_basico/022_telescopios_espaciales.md",
+    "categoria": "astronomia_general",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_5b_023_exploracion_de_marte",
+    "titulo": "Exploración de Marte",
+    "curso": "5° básico",
+    "folder": "05_quinto_basico",
+    "path": "05_quinto_basico/023_exploracion_de_marte.md",
+    "categoria": "exploracion_espacial",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": true
+  },
+  {
+    "id": "ast_5b_024_proteccion_planetaria_inicial",
+    "titulo": "Protección planetaria inicial",
+    "curso": "5° básico",
+    "folder": "05_quinto_basico",
+    "path": "05_quinto_basico/024_proteccion_planetaria_inicial.md",
+    "categoria": "sistema_solar",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_6b_001_historia_de_los_modelos_del_universo",
+    "titulo": "Historia de los modelos del universo",
+    "curso": "6° básico",
+    "folder": "06_sexto_basico",
+    "path": "06_sexto_basico/001_historia_de_los_modelos_del_universo.md",
+    "categoria": "astronomia_general",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_6b_002_modelo_geocentrico",
+    "titulo": "Modelo geocéntrico",
+    "curso": "6° básico",
+    "folder": "06_sexto_basico",
+    "path": "06_sexto_basico/002_modelo_geocentrico.md",
+    "categoria": "astronomia_general",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_6b_003_modelo_heliocentrico",
+    "titulo": "Modelo heliocéntrico",
+    "curso": "6° básico",
+    "folder": "06_sexto_basico",
+    "path": "06_sexto_basico/003_modelo_heliocentrico.md",
+    "categoria": "astronomia_general",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_6b_004_aportes_de_copernico",
+    "titulo": "Aportes de Copérnico",
+    "curso": "6° básico",
+    "folder": "06_sexto_basico",
+    "path": "06_sexto_basico/004_aportes_de_copernico.md",
+    "categoria": "astronomia_general",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_6b_005_observaciones_de_galileo",
+    "titulo": "Observaciones de Galileo",
+    "curso": "6° básico",
+    "folder": "06_sexto_basico",
+    "path": "06_sexto_basico/005_observaciones_de_galileo.md",
+    "categoria": "astronomia_general",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_6b_006_leyes_de_kepler_iniciales",
+    "titulo": "Leyes de Kepler iniciales",
+    "curso": "6° básico",
+    "folder": "06_sexto_basico",
+    "path": "06_sexto_basico/006_leyes_de_kepler_iniciales.md",
+    "categoria": "gravedad_y_orbitas",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_6b_007_gravitacion_de_newton_inicial",
+    "titulo": "Gravitación de Newton inicial",
+    "curso": "6° básico",
+    "folder": "06_sexto_basico",
+    "path": "06_sexto_basico/007_gravitacion_de_newton_inicial.md",
+    "categoria": "gravedad_y_orbitas",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_6b_008_orbitas_elipticas",
+    "titulo": "Órbitas elípticas",
+    "curso": "6° básico",
+    "folder": "06_sexto_basico",
+    "path": "06_sexto_basico/008_orbitas_elipticas.md",
+    "categoria": "gravedad_y_orbitas",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_6b_009_sistema_tierra_luna",
+    "titulo": "Sistema Tierra-Luna",
+    "curso": "6° básico",
+    "folder": "06_sexto_basico",
+    "path": "06_sexto_basico/009_sistema_tierra_luna.md",
+    "categoria": "tierra_luna",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_6b_010_mareas_y_gravedad",
+    "titulo": "Mareas y gravedad",
+    "curso": "6° básico",
+    "folder": "06_sexto_basico",
+    "path": "06_sexto_basico/010_mareas_y_gravedad.md",
+    "categoria": "tierra_luna",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_6b_011_eclipses_y_geometria",
+    "titulo": "Eclipses y geometría",
+    "curso": "6° básico",
+    "folder": "06_sexto_basico",
+    "path": "06_sexto_basico/011_eclipses_y_geometria.md",
+    "categoria": "tierra_luna",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_6b_012_escalas_astronomicas",
+    "titulo": "Escalas astronómicas",
+    "curso": "6° básico",
+    "folder": "06_sexto_basico",
+    "path": "06_sexto_basico/012_escalas_astronomicas.md",
+    "categoria": "astronomia_general",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_6b_013_unidad_astronomica",
+    "titulo": "Unidad astronómica",
+    "curso": "6° básico",
+    "folder": "06_sexto_basico",
+    "path": "06_sexto_basico/013_unidad_astronomica.md",
+    "categoria": "astronomia_general",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_6b_014_ano_luz",
+    "titulo": "Año luz",
+    "curso": "6° básico",
+    "folder": "06_sexto_basico",
+    "path": "06_sexto_basico/014_ano_luz.md",
+    "categoria": "astronomia_general",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_6b_015_distancia_y_tiempo_de_la_luz",
+    "titulo": "Distancia y tiempo de la luz",
+    "curso": "6° básico",
+    "folder": "06_sexto_basico",
+    "path": "06_sexto_basico/015_distancia_y_tiempo_de_la_luz.md",
+    "categoria": "astronomia_general",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_6b_016_estrellas_y_constelaciones",
+    "titulo": "Estrellas y constelaciones",
+    "curso": "6° básico",
+    "folder": "06_sexto_basico",
+    "path": "06_sexto_basico/016_estrellas_y_constelaciones.md",
+    "categoria": "estrellas",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_6b_017_nebulosas",
+    "titulo": "Nebulosas",
+    "curso": "6° básico",
+    "folder": "06_sexto_basico",
+    "path": "06_sexto_basico/017_nebulosas.md",
+    "categoria": "estrellas",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_6b_018_cumulos_estelares",
+    "titulo": "Cúmulos estelares",
+    "curso": "6° básico",
+    "folder": "06_sexto_basico",
+    "path": "06_sexto_basico/018_cumulos_estelares.md",
+    "categoria": "galaxias",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_6b_019_galaxias",
+    "titulo": "Galaxias",
+    "curso": "6° básico",
+    "folder": "06_sexto_basico",
+    "path": "06_sexto_basico/019_galaxias.md",
+    "categoria": "galaxias",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_6b_020_via_lactea",
+    "titulo": "Vía Láctea",
+    "curso": "6° básico",
+    "folder": "06_sexto_basico",
+    "path": "06_sexto_basico/020_via_lactea.md",
+    "categoria": "galaxias",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_6b_021_telescopios_opticos",
+    "titulo": "Telescopios ópticos",
+    "curso": "6° básico",
+    "folder": "06_sexto_basico",
+    "path": "06_sexto_basico/021_telescopios_opticos.md",
+    "categoria": "astronomia_general",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_6b_022_radiotelescopios",
+    "titulo": "Radiotelescopios",
+    "curso": "6° básico",
+    "folder": "06_sexto_basico",
+    "path": "06_sexto_basico/022_radiotelescopios.md",
+    "categoria": "astronomia_general",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_6b_023_astronomia_en_chile",
+    "titulo": "Astronomía en Chile",
+    "curso": "6° básico",
+    "folder": "06_sexto_basico",
+    "path": "06_sexto_basico/023_astronomia_en_chile.md",
+    "categoria": "astronomia_general",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_6b_024_cielos_del_norte_de_chile",
+    "titulo": "Cielos del norte de Chile",
+    "curso": "6° básico",
+    "folder": "06_sexto_basico",
+    "path": "06_sexto_basico/024_cielos_del_norte_de_chile.md",
+    "categoria": "astronomia_general",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_7b_001_estructuras_del_universo",
+    "titulo": "Estructuras del universo",
+    "curso": "7° básico",
+    "folder": "07_septimo_basico",
+    "path": "07_septimo_basico/001_estructuras_del_universo.md",
+    "categoria": "astronomia_general",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_7b_002_sistema_planetario",
+    "titulo": "Sistema planetario",
+    "curso": "7° básico",
+    "folder": "07_septimo_basico",
+    "path": "07_septimo_basico/002_sistema_planetario.md",
+    "categoria": "sistema_solar",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_7b_003_estrellas",
+    "titulo": "Estrellas",
+    "curso": "7° básico",
+    "folder": "07_septimo_basico",
+    "path": "07_septimo_basico/003_estrellas.md",
+    "categoria": "estrellas",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_7b_004_nebulosas",
+    "titulo": "Nebulosas",
+    "curso": "7° básico",
+    "folder": "07_septimo_basico",
+    "path": "07_septimo_basico/004_nebulosas.md",
+    "categoria": "estrellas",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_7b_005_cumulos_estelares",
+    "titulo": "Cúmulos estelares",
+    "curso": "7° básico",
+    "folder": "07_septimo_basico",
+    "path": "07_septimo_basico/005_cumulos_estelares.md",
+    "categoria": "galaxias",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_7b_006_galaxias",
+    "titulo": "Galaxias",
+    "curso": "7° básico",
+    "folder": "07_septimo_basico",
+    "path": "07_septimo_basico/006_galaxias.md",
+    "categoria": "galaxias",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_7b_007_cumulos_de_galaxias",
+    "titulo": "Cúmulos de galaxias",
+    "curso": "7° básico",
+    "folder": "07_septimo_basico",
+    "path": "07_septimo_basico/007_cumulos_de_galaxias.md",
+    "categoria": "galaxias",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_7b_008_supercumulos",
+    "titulo": "Supercúmulos",
+    "curso": "7° básico",
+    "folder": "07_septimo_basico",
+    "path": "07_septimo_basico/008_supercumulos.md",
+    "categoria": "galaxias",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_7b_009_escala_del_universo_observable",
+    "titulo": "Escala del universo observable",
+    "curso": "7° básico",
+    "folder": "07_septimo_basico",
+    "path": "07_septimo_basico/009_escala_del_universo_observable.md",
+    "categoria": "astronomia_general",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_7b_010_nacimiento_de_estrellas",
+    "titulo": "Nacimiento de estrellas",
+    "curso": "7° básico",
+    "folder": "07_septimo_basico",
+    "path": "07_septimo_basico/010_nacimiento_de_estrellas.md",
+    "categoria": "estrellas",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_7b_011_evolucion_estelar_inicial",
+    "titulo": "Evolución estelar inicial",
+    "curso": "7° básico",
+    "folder": "07_septimo_basico",
+    "path": "07_septimo_basico/011_evolucion_estelar_inicial.md",
+    "categoria": "astronomia_general",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_7b_012_gigantes_rojas",
+    "titulo": "Gigantes rojas",
+    "curso": "7° básico",
+    "folder": "07_septimo_basico",
+    "path": "07_septimo_basico/012_gigantes_rojas.md",
+    "categoria": "astronomia_general",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_7b_013_enanas_blancas",
+    "titulo": "Enanas blancas",
+    "curso": "7° básico",
+    "folder": "07_septimo_basico",
+    "path": "07_septimo_basico/013_enanas_blancas.md",
+    "categoria": "astronomia_general",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_7b_014_supernovas",
+    "titulo": "Supernovas",
+    "curso": "7° básico",
+    "folder": "07_septimo_basico",
+    "path": "07_septimo_basico/014_supernovas.md",
+    "categoria": "estrellas",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_7b_015_estrellas_de_neutrones",
+    "titulo": "Estrellas de neutrones",
+    "curso": "7° básico",
+    "folder": "07_septimo_basico",
+    "path": "07_septimo_basico/015_estrellas_de_neutrones.md",
+    "categoria": "estrellas",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_7b_016_agujeros_negros_iniciales",
+    "titulo": "Agujeros negros iniciales",
+    "curso": "7° básico",
+    "folder": "07_septimo_basico",
+    "path": "07_septimo_basico/016_agujeros_negros_iniciales.md",
+    "categoria": "astronomia_general",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_7b_017_espectro_electromagnetico_y_astronomia",
+    "titulo": "Espectro electromagnético y astronomía",
+    "curso": "7° básico",
+    "folder": "07_septimo_basico",
+    "path": "07_septimo_basico/017_espectro_electromagnetico_y_astronomia.md",
+    "categoria": "astronomia_general",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_7b_018_luz_visible",
+    "titulo": "Luz visible",
+    "curso": "7° básico",
+    "folder": "07_septimo_basico",
+    "path": "07_septimo_basico/018_luz_visible.md",
+    "categoria": "astronomia_general",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_7b_019_ondas_de_radio",
+    "titulo": "Ondas de radio",
+    "curso": "7° básico",
+    "folder": "07_septimo_basico",
+    "path": "07_septimo_basico/019_ondas_de_radio.md",
+    "categoria": "astronomia_general",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_7b_020_radiacion_infrarroja",
+    "titulo": "Radiación infrarroja",
+    "curso": "7° básico",
+    "folder": "07_septimo_basico",
+    "path": "07_septimo_basico/020_radiacion_infrarroja.md",
+    "categoria": "astronomia_general",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_7b_021_radiacion_ultravioleta",
+    "titulo": "Radiación ultravioleta",
+    "curso": "7° básico",
+    "folder": "07_septimo_basico",
+    "path": "07_septimo_basico/021_radiacion_ultravioleta.md",
+    "categoria": "astronomia_general",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_7b_022_rayos_x_y_gamma",
+    "titulo": "Rayos X y gamma",
+    "curso": "7° básico",
+    "folder": "07_septimo_basico",
+    "path": "07_septimo_basico/022_rayos_x_y_gamma.md",
+    "categoria": "astronomia_general",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_7b_023_instrumentos_astronomicos",
+    "titulo": "Instrumentos astronómicos",
+    "curso": "7° básico",
+    "folder": "07_septimo_basico",
+    "path": "07_septimo_basico/023_instrumentos_astronomicos.md",
+    "categoria": "astronomia_general",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_7b_024_preguntas_sobre_vida_extraterrestre",
+    "titulo": "Preguntas sobre vida extraterrestre",
+    "curso": "7° básico",
+    "folder": "07_septimo_basico",
+    "path": "07_septimo_basico/024_preguntas_sobre_vida_extraterrestre.md",
+    "categoria": "astrobiologia",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_8b_001_gravedad_y_movimiento_orbital",
+    "titulo": "Gravedad y movimiento orbital",
+    "curso": "8° básico",
+    "folder": "08_octavo_basico",
+    "path": "08_octavo_basico/001_gravedad_y_movimiento_orbital.md",
+    "categoria": "gravedad_y_orbitas",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_8b_002_leyes_de_kepler",
+    "titulo": "Leyes de Kepler",
+    "curso": "8° básico",
+    "folder": "08_octavo_basico",
+    "path": "08_octavo_basico/002_leyes_de_kepler.md",
+    "categoria": "gravedad_y_orbitas",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_8b_003_ley_de_gravitacion_universal",
+    "titulo": "Ley de gravitación universal",
+    "curso": "8° básico",
+    "folder": "08_octavo_basico",
+    "path": "08_octavo_basico/003_ley_de_gravitacion_universal.md",
+    "categoria": "astronomia_general",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_8b_004_velocidad_de_escape",
+    "titulo": "Velocidad de escape",
+    "curso": "8° básico",
+    "folder": "08_octavo_basico",
+    "path": "08_octavo_basico/004_velocidad_de_escape.md",
+    "categoria": "gravedad_y_orbitas",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_8b_005_satelites_y_orbitas",
+    "titulo": "Satélites y órbitas",
+    "curso": "8° básico",
+    "folder": "08_octavo_basico",
+    "path": "08_octavo_basico/005_satelites_y_orbitas.md",
+    "categoria": "exploracion_espacial",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_8b_006_orbita_geoestacionaria",
+    "titulo": "Órbita geoestacionaria",
+    "curso": "8° básico",
+    "folder": "08_octavo_basico",
+    "path": "08_octavo_basico/006_orbita_geoestacionaria.md",
+    "categoria": "gravedad_y_orbitas",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_8b_007_microgravedad",
+    "titulo": "Microgravedad",
+    "curso": "8° básico",
+    "folder": "08_octavo_basico",
+    "path": "08_octavo_basico/007_microgravedad.md",
+    "categoria": "gravedad_y_orbitas",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_8b_008_mareas",
+    "titulo": "Mareas",
+    "curso": "8° básico",
+    "folder": "08_octavo_basico",
+    "path": "08_octavo_basico/008_mareas.md",
+    "categoria": "tierra_luna",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_8b_009_eclipses_y_planos_orbitales",
+    "titulo": "Eclipses y planos orbitales",
+    "curso": "8° básico",
+    "folder": "08_octavo_basico",
+    "path": "08_octavo_basico/009_eclipses_y_planos_orbitales.md",
+    "categoria": "tierra_luna",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_8b_010_libracion_lunar_inicial",
+    "titulo": "Libración lunar inicial",
+    "curso": "8° básico",
+    "folder": "08_octavo_basico",
+    "path": "08_octavo_basico/010_libracion_lunar_inicial.md",
+    "categoria": "tierra_luna",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_8b_011_estructura_del_sol",
+    "titulo": "Estructura del Sol",
+    "curso": "8° básico",
+    "folder": "08_octavo_basico",
+    "path": "08_octavo_basico/011_estructura_del_sol.md",
+    "categoria": "sol",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_8b_012_fusion_nuclear_solar_inicial",
+    "titulo": "Fusión nuclear solar inicial",
+    "curso": "8° básico",
+    "folder": "08_octavo_basico",
+    "path": "08_octavo_basico/012_fusion_nuclear_solar_inicial.md",
+    "categoria": "sol",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_8b_013_actividad_solar",
+    "titulo": "Actividad solar",
+    "curso": "8° básico",
+    "folder": "08_octavo_basico",
+    "path": "08_octavo_basico/013_actividad_solar.md",
+    "categoria": "sol",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_8b_014_manchas_solares",
+    "titulo": "Manchas solares",
+    "curso": "8° básico",
+    "folder": "08_octavo_basico",
+    "path": "08_octavo_basico/014_manchas_solares.md",
+    "categoria": "sol",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_8b_015_viento_solar",
+    "titulo": "Viento solar",
+    "curso": "8° básico",
+    "folder": "08_octavo_basico",
+    "path": "08_octavo_basico/015_viento_solar.md",
+    "categoria": "sol",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_8b_016_auroras",
+    "titulo": "Auroras",
+    "curso": "8° básico",
+    "folder": "08_octavo_basico",
+    "path": "08_octavo_basico/016_auroras.md",
+    "categoria": "astronomia_general",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_8b_017_campo_magnetico_terrestre",
+    "titulo": "Campo magnético terrestre",
+    "curso": "8° básico",
+    "folder": "08_octavo_basico",
+    "path": "08_octavo_basico/017_campo_magnetico_terrestre.md",
+    "categoria": "astronomia_general",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_8b_018_clima_espacial",
+    "titulo": "Clima espacial",
+    "curso": "8° básico",
+    "folder": "08_octavo_basico",
+    "path": "08_octavo_basico/018_clima_espacial.md",
+    "categoria": "astronomia_general",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_8b_019_formacion_del_sistema_solar",
+    "titulo": "Formación del Sistema Solar",
+    "curso": "8° básico",
+    "folder": "08_octavo_basico",
+    "path": "08_octavo_basico/019_formacion_del_sistema_solar.md",
+    "categoria": "sol",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_8b_020_discos_protoplanetarios",
+    "titulo": "Discos protoplanetarios",
+    "curso": "8° básico",
+    "folder": "08_octavo_basico",
+    "path": "08_octavo_basico/020_discos_protoplanetarios.md",
+    "categoria": "sistema_solar",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_8b_021_exoplanetas_iniciales",
+    "titulo": "Exoplanetas iniciales",
+    "curso": "8° básico",
+    "folder": "08_octavo_basico",
+    "path": "08_octavo_basico/021_exoplanetas_iniciales.md",
+    "categoria": "sistema_solar",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": true
+  },
+  {
+    "id": "ast_8b_022_metodo_de_transito",
+    "titulo": "Método de tránsito",
+    "curso": "8° básico",
+    "folder": "08_octavo_basico",
+    "path": "08_octavo_basico/022_metodo_de_transito.md",
+    "categoria": "astronomia_general",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_8b_023_velocidad_radial_inicial",
+    "titulo": "Velocidad radial inicial",
+    "curso": "8° básico",
+    "folder": "08_octavo_basico",
+    "path": "08_octavo_basico/023_velocidad_radial_inicial.md",
+    "categoria": "astronomia_general",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_8b_024_zona_habitable",
+    "titulo": "Zona habitable",
+    "curso": "8° básico",
+    "folder": "08_octavo_basico",
+    "path": "08_octavo_basico/024_zona_habitable.md",
+    "categoria": "astronomia_general",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_8b_025_busqueda_de_biofirmas_inicial",
+    "titulo": "Búsqueda de biofirmas inicial",
+    "curso": "8° básico",
+    "folder": "08_octavo_basico",
+    "path": "08_octavo_basico/025_busqueda_de_biofirmas_inicial.md",
+    "categoria": "astrobiologia",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": true
+  },
+  {
+    "id": "ast_8b_026_basura_espacial",
+    "titulo": "Basura espacial",
+    "curso": "8° básico",
+    "folder": "08_octavo_basico",
+    "path": "08_octavo_basico/026_basura_espacial.md",
+    "categoria": "exploracion_espacial",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": true
+  },
+  {
+    "id": "ast_1m_001_sistema_tierra_luna",
+    "titulo": "Sistema Tierra-Luna",
+    "curso": "1° medio",
+    "folder": "09_primero_medio",
+    "path": "09_primero_medio/001_sistema_tierra_luna.md",
+    "categoria": "tierra_luna",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_1m_002_fases_lunares_y_geometria",
+    "titulo": "Fases lunares y geometría",
+    "curso": "1° medio",
+    "folder": "09_primero_medio",
+    "path": "09_primero_medio/002_fases_lunares_y_geometria.md",
+    "categoria": "tierra_luna",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_1m_003_eclipses_solares_y_lunares",
+    "titulo": "Eclipses solares y lunares",
+    "curso": "1° medio",
+    "folder": "09_primero_medio",
+    "path": "09_primero_medio/003_eclipses_solares_y_lunares.md",
+    "categoria": "sol",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_1m_004_estaciones_y_orbita_terrestre",
+    "titulo": "Estaciones y órbita terrestre",
+    "curso": "1° medio",
+    "folder": "09_primero_medio",
+    "path": "09_primero_medio/004_estaciones_y_orbita_terrestre.md",
+    "categoria": "gravedad_y_orbitas",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_1m_005_comparacion_de_planetas",
+    "titulo": "Comparación de planetas",
+    "curso": "1° medio",
+    "folder": "09_primero_medio",
+    "path": "09_primero_medio/005_comparacion_de_planetas.md",
+    "categoria": "sistema_solar",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_1m_006_atmosferas_planetarias",
+    "titulo": "Atmósferas planetarias",
+    "curso": "1° medio",
+    "folder": "09_primero_medio",
+    "path": "09_primero_medio/006_atmosferas_planetarias.md",
+    "categoria": "sistema_solar",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_1m_007_periodos_orbitales",
+    "titulo": "Períodos orbitales",
+    "curso": "1° medio",
+    "folder": "09_primero_medio",
+    "path": "09_primero_medio/007_periodos_orbitales.md",
+    "categoria": "astronomia_general",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_1m_008_tamanos_y_densidades_planetarias",
+    "titulo": "Tamaños y densidades planetarias",
+    "curso": "1° medio",
+    "folder": "09_primero_medio",
+    "path": "09_primero_medio/008_tamanos_y_densidades_planetarias.md",
+    "categoria": "sistema_solar",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_1m_009_estructuras_cosmicas",
+    "titulo": "Estructuras cósmicas",
+    "curso": "1° medio",
+    "folder": "09_primero_medio",
+    "path": "09_primero_medio/009_estructuras_cosmicas.md",
+    "categoria": "astronomia_general",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_1m_010_micrometeoroides",
+    "titulo": "Micrometeoroides",
+    "curso": "1° medio",
+    "folder": "09_primero_medio",
+    "path": "09_primero_medio/010_micrometeoroides.md",
+    "categoria": "sistema_solar",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_1m_011_asteroides_y_cometas",
+    "titulo": "Asteroides y cometas",
+    "curso": "1° medio",
+    "folder": "09_primero_medio",
+    "path": "09_primero_medio/011_asteroides_y_cometas.md",
+    "categoria": "sistema_solar",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_1m_012_estrellas",
+    "titulo": "Estrellas",
+    "curso": "1° medio",
+    "folder": "09_primero_medio",
+    "path": "09_primero_medio/012_estrellas.md",
+    "categoria": "estrellas",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_1m_013_nebulosas",
+    "titulo": "Nebulosas",
+    "curso": "1° medio",
+    "folder": "09_primero_medio",
+    "path": "09_primero_medio/013_nebulosas.md",
+    "categoria": "estrellas",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_1m_014_cumulos_estelares",
+    "titulo": "Cúmulos estelares",
+    "curso": "1° medio",
+    "folder": "09_primero_medio",
+    "path": "09_primero_medio/014_cumulos_estelares.md",
+    "categoria": "galaxias",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_1m_015_galaxias",
+    "titulo": "Galaxias",
+    "curso": "1° medio",
+    "folder": "09_primero_medio",
+    "path": "09_primero_medio/015_galaxias.md",
+    "categoria": "galaxias",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_1m_016_cumulos_y_supercumulos",
+    "titulo": "Cúmulos y supercúmulos",
+    "curso": "1° medio",
+    "folder": "09_primero_medio",
+    "path": "09_primero_medio/016_cumulos_y_supercumulos.md",
+    "categoria": "galaxias",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_1m_017_evolucion_del_universo_inicial",
+    "titulo": "Evolución del universo inicial",
+    "curso": "1° medio",
+    "folder": "09_primero_medio",
+    "path": "09_primero_medio/017_evolucion_del_universo_inicial.md",
+    "categoria": "astronomia_general",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_1m_018_teoria_del_big_bang",
+    "titulo": "Teoría del Big Bang",
+    "curso": "1° medio",
+    "folder": "09_primero_medio",
+    "path": "09_primero_medio/018_teoria_del_big_bang.md",
+    "categoria": "cosmologia",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_1m_019_expansion_del_universo",
+    "titulo": "Expansión del universo",
+    "curso": "1° medio",
+    "folder": "09_primero_medio",
+    "path": "09_primero_medio/019_expansion_del_universo.md",
+    "categoria": "cosmologia",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_1m_020_radiacion_cosmica_de_fondo_inicial",
+    "titulo": "Radiación cósmica de fondo inicial",
+    "curso": "1° medio",
+    "folder": "09_primero_medio",
+    "path": "09_primero_medio/020_radiacion_cosmica_de_fondo_inicial.md",
+    "categoria": "cosmologia",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_1m_021_investigacion_astronomica_en_chile",
+    "titulo": "Investigación astronómica en Chile",
+    "curso": "1° medio",
+    "folder": "09_primero_medio",
+    "path": "09_primero_medio/021_investigacion_astronomica_en_chile.md",
+    "categoria": "astronomia_general",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_1m_022_telescopios_opticos",
+    "titulo": "Telescopios ópticos",
+    "curso": "1° medio",
+    "folder": "09_primero_medio",
+    "path": "09_primero_medio/022_telescopios_opticos.md",
+    "categoria": "astronomia_general",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_1m_023_radiotelescopios",
+    "titulo": "Radiotelescopios",
+    "curso": "1° medio",
+    "folder": "09_primero_medio",
+    "path": "09_primero_medio/023_radiotelescopios.md",
+    "categoria": "astronomia_general",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_1m_024_espectroscopia_astronomica",
+    "titulo": "Espectroscopía astronómica",
+    "curso": "1° medio",
+    "folder": "09_primero_medio",
+    "path": "09_primero_medio/024_espectroscopia_astronomica.md",
+    "categoria": "astronomia_general",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_1m_025_alma",
+    "titulo": "ALMA",
+    "curso": "1° medio",
+    "folder": "09_primero_medio",
+    "path": "09_primero_medio/025_alma.md",
+    "categoria": "astronomia_general",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_1m_026_observatorios_del_norte_de_chile",
+    "titulo": "Observatorios del norte de Chile",
+    "curso": "1° medio",
+    "folder": "09_primero_medio",
+    "path": "09_primero_medio/026_observatorios_del_norte_de_chile.md",
+    "categoria": "astronomia_general",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_1m_027_aportes_de_astronomas_y_astronomos_chilenos",
+    "titulo": "Aportes de astrónomas y astrónomos chilenos",
+    "curso": "1° medio",
+    "folder": "09_primero_medio",
+    "path": "09_primero_medio/027_aportes_de_astronomas_y_astronomos_chilenos.md",
+    "categoria": "astronomia_general",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": true
+  },
+  {
+    "id": "ast_1m_028_modelos_historicos_del_cosmos",
+    "titulo": "Modelos históricos del cosmos",
+    "curso": "1° medio",
+    "folder": "09_primero_medio",
+    "path": "09_primero_medio/028_modelos_historicos_del_cosmos.md",
+    "categoria": "astronomia_general",
+    "alineacion": "curricular_directa",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_2m_001_mecanica_orbital",
+    "titulo": "Mecánica orbital",
+    "curso": "2° medio",
+    "folder": "10_segundo_medio",
+    "path": "10_segundo_medio/001_mecanica_orbital.md",
+    "categoria": "astronomia_general",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_2m_002_gravitacion_universal_aplicada",
+    "titulo": "Gravitación universal aplicada",
+    "curso": "2° medio",
+    "folder": "10_segundo_medio",
+    "path": "10_segundo_medio/002_gravitacion_universal_aplicada.md",
+    "categoria": "astronomia_general",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_2m_003_orbitas_circulares_y_elipticas",
+    "titulo": "Órbitas circulares y elípticas",
+    "curso": "2° medio",
+    "folder": "10_segundo_medio",
+    "path": "10_segundo_medio/003_orbitas_circulares_y_elipticas.md",
+    "categoria": "gravedad_y_orbitas",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_2m_004_energia_orbital",
+    "titulo": "Energía orbital",
+    "curso": "2° medio",
+    "folder": "10_segundo_medio",
+    "path": "10_segundo_medio/004_energia_orbital.md",
+    "categoria": "astronomia_general",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_2m_005_velocidad_de_escape",
+    "titulo": "Velocidad de escape",
+    "curso": "2° medio",
+    "folder": "10_segundo_medio",
+    "path": "10_segundo_medio/005_velocidad_de_escape.md",
+    "categoria": "gravedad_y_orbitas",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_2m_006_transferencias_orbitales_iniciales",
+    "titulo": "Transferencias orbitales iniciales",
+    "curso": "2° medio",
+    "folder": "10_segundo_medio",
+    "path": "10_segundo_medio/006_transferencias_orbitales_iniciales.md",
+    "categoria": "astronomia_general",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_2m_007_satelites_de_comunicaciones",
+    "titulo": "Satélites de comunicaciones",
+    "curso": "2° medio",
+    "folder": "10_segundo_medio",
+    "path": "10_segundo_medio/007_satelites_de_comunicaciones.md",
+    "categoria": "exploracion_espacial",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_2m_008_satelites_meteorologicos",
+    "titulo": "Satélites meteorológicos",
+    "curso": "2° medio",
+    "folder": "10_segundo_medio",
+    "path": "10_segundo_medio/008_satelites_meteorologicos.md",
+    "categoria": "sistema_solar",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_2m_009_sistemas_de_navegacion_por_satelite",
+    "titulo": "Sistemas de navegación por satélite",
+    "curso": "2° medio",
+    "folder": "10_segundo_medio",
+    "path": "10_segundo_medio/009_sistemas_de_navegacion_por_satelite.md",
+    "categoria": "exploracion_espacial",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_2m_010_teledeteccion_terrestre",
+    "titulo": "Teledetección terrestre",
+    "curso": "2° medio",
+    "folder": "10_segundo_medio",
+    "path": "10_segundo_medio/010_teledeteccion_terrestre.md",
+    "categoria": "astronomia_general",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_2m_011_cohetes_y_propulsion_inicial",
+    "titulo": "Cohetes y propulsión inicial",
+    "curso": "2° medio",
+    "folder": "10_segundo_medio",
+    "path": "10_segundo_medio/011_cohetes_y_propulsion_inicial.md",
+    "categoria": "exploracion_espacial",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_2m_012_etapas_de_un_lanzamiento",
+    "titulo": "Etapas de un lanzamiento",
+    "curso": "2° medio",
+    "folder": "10_segundo_medio",
+    "path": "10_segundo_medio/012_etapas_de_un_lanzamiento.md",
+    "categoria": "astronomia_general",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_2m_013_microgravedad_y_cuerpo_humano",
+    "titulo": "Microgravedad y cuerpo humano",
+    "curso": "2° medio",
+    "folder": "10_segundo_medio",
+    "path": "10_segundo_medio/013_microgravedad_y_cuerpo_humano.md",
+    "categoria": "gravedad_y_orbitas",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_2m_014_vida_en_estaciones_espaciales",
+    "titulo": "Vida en estaciones espaciales",
+    "curso": "2° medio",
+    "folder": "10_segundo_medio",
+    "path": "10_segundo_medio/014_vida_en_estaciones_espaciales.md",
+    "categoria": "astrobiologia",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_2m_015_radiacion_espacial",
+    "titulo": "Radiación espacial",
+    "curso": "2° medio",
+    "folder": "10_segundo_medio",
+    "path": "10_segundo_medio/015_radiacion_espacial.md",
+    "categoria": "astronomia_general",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_2m_016_exploracion_lunar",
+    "titulo": "Exploración lunar",
+    "curso": "2° medio",
+    "folder": "10_segundo_medio",
+    "path": "10_segundo_medio/016_exploracion_lunar.md",
+    "categoria": "tierra_luna",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": true
+  },
+  {
+    "id": "ast_2m_017_exploracion_de_marte",
+    "titulo": "Exploración de Marte",
+    "curso": "2° medio",
+    "folder": "10_segundo_medio",
+    "path": "10_segundo_medio/017_exploracion_de_marte.md",
+    "categoria": "exploracion_espacial",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": true
+  },
+  {
+    "id": "ast_2m_018_sondas_a_planetas_exteriores",
+    "titulo": "Sondas a planetas exteriores",
+    "curso": "2° medio",
+    "folder": "10_segundo_medio",
+    "path": "10_segundo_medio/018_sondas_a_planetas_exteriores.md",
+    "categoria": "sistema_solar",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_2m_019_misiones_a_asteroides_y_cometas",
+    "titulo": "Misiones a asteroides y cometas",
+    "curso": "2° medio",
+    "folder": "10_segundo_medio",
+    "path": "10_segundo_medio/019_misiones_a_asteroides_y_cometas.md",
+    "categoria": "sistema_solar",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_2m_020_telescopios_espaciales",
+    "titulo": "Telescopios espaciales",
+    "curso": "2° medio",
+    "folder": "10_segundo_medio",
+    "path": "10_segundo_medio/020_telescopios_espaciales.md",
+    "categoria": "astronomia_general",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_2m_021_espectros_y_composicion_estelar",
+    "titulo": "Espectros y composición estelar",
+    "curso": "2° medio",
+    "folder": "10_segundo_medio",
+    "path": "10_segundo_medio/021_espectros_y_composicion_estelar.md",
+    "categoria": "astronomia_general",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_2m_022_diagrama_hertzsprung_russell_inicial",
+    "titulo": "Diagrama Hertzsprung-Russell inicial",
+    "curso": "2° medio",
+    "folder": "10_segundo_medio",
+    "path": "10_segundo_medio/022_diagrama_hertzsprung_russell_inicial.md",
+    "categoria": "estrellas",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_2m_023_evolucion_estelar",
+    "titulo": "Evolución estelar",
+    "curso": "2° medio",
+    "folder": "10_segundo_medio",
+    "path": "10_segundo_medio/023_evolucion_estelar.md",
+    "categoria": "astronomia_general",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_2m_024_supernovas",
+    "titulo": "Supernovas",
+    "curso": "2° medio",
+    "folder": "10_segundo_medio",
+    "path": "10_segundo_medio/024_supernovas.md",
+    "categoria": "estrellas",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_2m_025_estrellas_de_neutrones",
+    "titulo": "Estrellas de neutrones",
+    "curso": "2° medio",
+    "folder": "10_segundo_medio",
+    "path": "10_segundo_medio/025_estrellas_de_neutrones.md",
+    "categoria": "estrellas",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_2m_026_pulsares",
+    "titulo": "Púlsares",
+    "curso": "2° medio",
+    "folder": "10_segundo_medio",
+    "path": "10_segundo_medio/026_pulsares.md",
+    "categoria": "estrellas",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_2m_027_agujeros_negros",
+    "titulo": "Agujeros negros",
+    "curso": "2° medio",
+    "folder": "10_segundo_medio",
+    "path": "10_segundo_medio/027_agujeros_negros.md",
+    "categoria": "astronomia_general",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_2m_028_ondas_gravitacionales_iniciales",
+    "titulo": "Ondas gravitacionales iniciales",
+    "curso": "2° medio",
+    "folder": "10_segundo_medio",
+    "path": "10_segundo_medio/028_ondas_gravitacionales_iniciales.md",
+    "categoria": "astronomia_general",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_2m_029_exoplanetas",
+    "titulo": "Exoplanetas",
+    "curso": "2° medio",
+    "folder": "10_segundo_medio",
+    "path": "10_segundo_medio/029_exoplanetas.md",
+    "categoria": "sistema_solar",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": true
+  },
+  {
+    "id": "ast_2m_030_astrobiologia_inicial",
+    "titulo": "Astrobiología inicial",
+    "curso": "2° medio",
+    "folder": "10_segundo_medio",
+    "path": "10_segundo_medio/030_astrobiologia_inicial.md",
+    "categoria": "astrobiologia",
+    "alineacion": "puente_curricular",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_3m_001_relatividad_especial_conceptual",
+    "titulo": "Relatividad especial conceptual",
+    "curso": "3° medio",
+    "folder": "11_tercero_medio",
+    "path": "11_tercero_medio/001_relatividad_especial_conceptual.md",
+    "categoria": "astrobiologia",
+    "alineacion": "profundizacion_diferenciada",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_3m_002_espacio_y_tiempo",
+    "titulo": "Espacio y tiempo",
+    "curso": "3° medio",
+    "folder": "11_tercero_medio",
+    "path": "11_tercero_medio/002_espacio_y_tiempo.md",
+    "categoria": "astronomia_general",
+    "alineacion": "profundizacion_diferenciada",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_3m_003_velocidad_de_la_luz",
+    "titulo": "Velocidad de la luz",
+    "curso": "3° medio",
+    "folder": "11_tercero_medio",
+    "path": "11_tercero_medio/003_velocidad_de_la_luz.md",
+    "categoria": "astronomia_general",
+    "alineacion": "profundizacion_diferenciada",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_3m_004_dilatacion_temporal",
+    "titulo": "Dilatación temporal",
+    "curso": "3° medio",
+    "folder": "11_tercero_medio",
+    "path": "11_tercero_medio/004_dilatacion_temporal.md",
+    "categoria": "astronomia_general",
+    "alineacion": "profundizacion_diferenciada",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_3m_005_contraccion_de_longitudes",
+    "titulo": "Contracción de longitudes",
+    "curso": "3° medio",
+    "folder": "11_tercero_medio",
+    "path": "11_tercero_medio/005_contraccion_de_longitudes.md",
+    "categoria": "astronomia_general",
+    "alineacion": "profundizacion_diferenciada",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_3m_006_equivalencia_masa_energia",
+    "titulo": "Equivalencia masa energía",
+    "curso": "3° medio",
+    "folder": "11_tercero_medio",
+    "path": "11_tercero_medio/006_equivalencia_masa_energia.md",
+    "categoria": "astronomia_general",
+    "alineacion": "profundizacion_diferenciada",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_3m_007_relatividad_general_conceptual",
+    "titulo": "Relatividad general conceptual",
+    "curso": "3° medio",
+    "folder": "11_tercero_medio",
+    "path": "11_tercero_medio/007_relatividad_general_conceptual.md",
+    "categoria": "astrobiologia",
+    "alineacion": "profundizacion_diferenciada",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_3m_008_curvatura_del_espacio_tiempo",
+    "titulo": "Curvatura del espacio-tiempo",
+    "curso": "3° medio",
+    "folder": "11_tercero_medio",
+    "path": "11_tercero_medio/008_curvatura_del_espacio_tiempo.md",
+    "categoria": "astronomia_general",
+    "alineacion": "profundizacion_diferenciada",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_3m_009_lentes_gravitacionales",
+    "titulo": "Lentes gravitacionales",
+    "curso": "3° medio",
+    "folder": "11_tercero_medio",
+    "path": "11_tercero_medio/009_lentes_gravitacionales.md",
+    "categoria": "astronomia_general",
+    "alineacion": "profundizacion_diferenciada",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_3m_010_agujeros_negros_y_horizonte_de_sucesos",
+    "titulo": "Agujeros negros y horizonte de sucesos",
+    "curso": "3° medio",
+    "folder": "11_tercero_medio",
+    "path": "11_tercero_medio/010_agujeros_negros_y_horizonte_de_sucesos.md",
+    "categoria": "agujeros_negros",
+    "alineacion": "profundizacion_diferenciada",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_3m_011_discos_de_acrecion",
+    "titulo": "Discos de acreción",
+    "curso": "3° medio",
+    "folder": "11_tercero_medio",
+    "path": "11_tercero_medio/011_discos_de_acrecion.md",
+    "categoria": "agujeros_negros",
+    "alineacion": "profundizacion_diferenciada",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_3m_012_radiacion_de_hawking_como_hipotesis_teorica",
+    "titulo": "Radiación de Hawking como hipótesis teórica",
+    "curso": "3° medio",
+    "folder": "11_tercero_medio",
+    "path": "11_tercero_medio/012_radiacion_de_hawking_como_hipotesis_teorica.md",
+    "categoria": "agujeros_negros",
+    "alineacion": "profundizacion_diferenciada",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_3m_013_ondas_gravitacionales",
+    "titulo": "Ondas gravitacionales",
+    "curso": "3° medio",
+    "folder": "11_tercero_medio",
+    "path": "11_tercero_medio/013_ondas_gravitacionales.md",
+    "categoria": "astronomia_general",
+    "alineacion": "profundizacion_diferenciada",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_3m_014_detectores_de_ondas_gravitacionales",
+    "titulo": "Detectores de ondas gravitacionales",
+    "curso": "3° medio",
+    "folder": "11_tercero_medio",
+    "path": "11_tercero_medio/014_detectores_de_ondas_gravitacionales.md",
+    "categoria": "astronomia_general",
+    "alineacion": "profundizacion_diferenciada",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_3m_015_cosmologia_moderna",
+    "titulo": "Cosmología moderna",
+    "curso": "3° medio",
+    "folder": "11_tercero_medio",
+    "path": "11_tercero_medio/015_cosmologia_moderna.md",
+    "categoria": "cosmologia",
+    "alineacion": "profundizacion_diferenciada",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_3m_016_expansion_acelerada",
+    "titulo": "Expansión acelerada",
+    "curso": "3° medio",
+    "folder": "11_tercero_medio",
+    "path": "11_tercero_medio/016_expansion_acelerada.md",
+    "categoria": "cosmologia",
+    "alineacion": "profundizacion_diferenciada",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_3m_017_materia_oscura",
+    "titulo": "Materia oscura",
+    "curso": "3° medio",
+    "folder": "11_tercero_medio",
+    "path": "11_tercero_medio/017_materia_oscura.md",
+    "categoria": "cosmologia",
+    "alineacion": "profundizacion_diferenciada",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_3m_018_energia_oscura",
+    "titulo": "Energía oscura",
+    "curso": "3° medio",
+    "folder": "11_tercero_medio",
+    "path": "11_tercero_medio/018_energia_oscura.md",
+    "categoria": "cosmologia",
+    "alineacion": "profundizacion_diferenciada",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_3m_019_formacion_de_galaxias",
+    "titulo": "Formación de galaxias",
+    "curso": "3° medio",
+    "folder": "11_tercero_medio",
+    "path": "11_tercero_medio/019_formacion_de_galaxias.md",
+    "categoria": "galaxias",
+    "alineacion": "profundizacion_diferenciada",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_3m_020_estructura_a_gran_escala",
+    "titulo": "Estructura a gran escala",
+    "curso": "3° medio",
+    "folder": "11_tercero_medio",
+    "path": "11_tercero_medio/020_estructura_a_gran_escala.md",
+    "categoria": "astronomia_general",
+    "alineacion": "profundizacion_diferenciada",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_3m_021_big_bang_y_evidencias",
+    "titulo": "Big Bang y evidencias",
+    "curso": "3° medio",
+    "folder": "11_tercero_medio",
+    "path": "11_tercero_medio/021_big_bang_y_evidencias.md",
+    "categoria": "cosmologia",
+    "alineacion": "profundizacion_diferenciada",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_3m_022_nucleosintesis_primordial_inicial",
+    "titulo": "Nucleosíntesis primordial inicial",
+    "curso": "3° medio",
+    "folder": "11_tercero_medio",
+    "path": "11_tercero_medio/022_nucleosintesis_primordial_inicial.md",
+    "categoria": "astronomia_general",
+    "alineacion": "profundizacion_diferenciada",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_3m_023_radiacion_cosmica_de_fondo",
+    "titulo": "Radiación cósmica de fondo",
+    "curso": "3° medio",
+    "folder": "11_tercero_medio",
+    "path": "11_tercero_medio/023_radiacion_cosmica_de_fondo.md",
+    "categoria": "cosmologia",
+    "alineacion": "profundizacion_diferenciada",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_3m_024_edad_del_universo",
+    "titulo": "Edad del universo",
+    "curso": "3° medio",
+    "folder": "11_tercero_medio",
+    "path": "11_tercero_medio/024_edad_del_universo.md",
+    "categoria": "astronomia_general",
+    "alineacion": "profundizacion_diferenciada",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_3m_025_exoplanetas_y_habitabilidad",
+    "titulo": "Exoplanetas y habitabilidad",
+    "curso": "3° medio",
+    "folder": "11_tercero_medio",
+    "path": "11_tercero_medio/025_exoplanetas_y_habitabilidad.md",
+    "categoria": "sistema_solar",
+    "alineacion": "profundizacion_diferenciada",
+    "requiere_fuente_verificada": true
+  },
+  {
+    "id": "ast_3m_026_biofirmas",
+    "titulo": "Biofirmas",
+    "curso": "3° medio",
+    "folder": "11_tercero_medio",
+    "path": "11_tercero_medio/026_biofirmas.md",
+    "categoria": "astrobiologia",
+    "alineacion": "profundizacion_diferenciada",
+    "requiere_fuente_verificada": true
+  },
+  {
+    "id": "ast_3m_027_ecuacion_de_drake_como_modelo",
+    "titulo": "Ecuación de Drake como modelo",
+    "curso": "3° medio",
+    "folder": "11_tercero_medio",
+    "path": "11_tercero_medio/027_ecuacion_de_drake_como_modelo.md",
+    "categoria": "astronomia_general",
+    "alineacion": "profundizacion_diferenciada",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_3m_028_paradoja_de_fermi_como_pregunta",
+    "titulo": "Paradoja de Fermi como pregunta",
+    "curso": "3° medio",
+    "folder": "11_tercero_medio",
+    "path": "11_tercero_medio/028_paradoja_de_fermi_como_pregunta.md",
+    "categoria": "astronomia_general",
+    "alineacion": "profundizacion_diferenciada",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_3m_029_etica_de_la_exploracion_espacial",
+    "titulo": "Ética de la exploración espacial",
+    "curso": "3° medio",
+    "folder": "11_tercero_medio",
+    "path": "11_tercero_medio/029_etica_de_la_exploracion_espacial.md",
+    "categoria": "exploracion_espacial",
+    "alineacion": "profundizacion_diferenciada",
+    "requiere_fuente_verificada": true
+  },
+  {
+    "id": "ast_3m_030_proyecto_de_investigacion_astronomica",
+    "titulo": "Proyecto de investigación astronómica",
+    "curso": "3° medio",
+    "folder": "11_tercero_medio",
+    "path": "11_tercero_medio/030_proyecto_de_investigacion_astronomica.md",
+    "categoria": "astronomia_general",
+    "alineacion": "profundizacion_diferenciada",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_4m_001_cosmologia_observacional",
+    "titulo": "Cosmología observacional",
+    "curso": "4° medio",
+    "folder": "12_cuarto_medio",
+    "path": "12_cuarto_medio/001_cosmologia_observacional.md",
+    "categoria": "cosmologia",
+    "alineacion": "profundizacion_diferenciada",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_4m_002_ley_de_hubble_lema_tre",
+    "titulo": "Ley de Hubble-Lemaître",
+    "curso": "4° medio",
+    "folder": "12_cuarto_medio",
+    "path": "12_cuarto_medio/002_ley_de_hubble_lema_tre.md",
+    "categoria": "cosmologia",
+    "alineacion": "profundizacion_diferenciada",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_4m_003_corrimiento_al_rojo",
+    "titulo": "Corrimiento al rojo",
+    "curso": "4° medio",
+    "folder": "12_cuarto_medio",
+    "path": "12_cuarto_medio/003_corrimiento_al_rojo.md",
+    "categoria": "astronomia_general",
+    "alineacion": "profundizacion_diferenciada",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_4m_004_escalera_de_distancias_cosmicas",
+    "titulo": "Escalera de distancias cósmicas",
+    "curso": "4° medio",
+    "folder": "12_cuarto_medio",
+    "path": "12_cuarto_medio/004_escalera_de_distancias_cosmicas.md",
+    "categoria": "astronomia_general",
+    "alineacion": "profundizacion_diferenciada",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_4m_005_cefeidas",
+    "titulo": "Cefeidas",
+    "curso": "4° medio",
+    "folder": "12_cuarto_medio",
+    "path": "12_cuarto_medio/005_cefeidas.md",
+    "categoria": "astronomia_general",
+    "alineacion": "profundizacion_diferenciada",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_4m_006_supernovas_tipo_ia",
+    "titulo": "Supernovas tipo Ia",
+    "curso": "4° medio",
+    "folder": "12_cuarto_medio",
+    "path": "12_cuarto_medio/006_supernovas_tipo_ia.md",
+    "categoria": "estrellas",
+    "alineacion": "profundizacion_diferenciada",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_4m_007_radiacion_cosmica_de_fondo",
+    "titulo": "Radiación cósmica de fondo",
+    "curso": "4° medio",
+    "folder": "12_cuarto_medio",
+    "path": "12_cuarto_medio/007_radiacion_cosmica_de_fondo.md",
+    "categoria": "cosmologia",
+    "alineacion": "profundizacion_diferenciada",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_4m_008_inflacion_cosmica_inicial",
+    "titulo": "Inflación cósmica inicial",
+    "curso": "4° medio",
+    "folder": "12_cuarto_medio",
+    "path": "12_cuarto_medio/008_inflacion_cosmica_inicial.md",
+    "categoria": "cosmologia",
+    "alineacion": "profundizacion_diferenciada",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_4m_009_materia_oscura_evidencias",
+    "titulo": "Materia oscura: evidencias",
+    "curso": "4° medio",
+    "folder": "12_cuarto_medio",
+    "path": "12_cuarto_medio/009_materia_oscura_evidencias.md",
+    "categoria": "cosmologia",
+    "alineacion": "profundizacion_diferenciada",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_4m_010_energia_oscura_evidencias",
+    "titulo": "Energía oscura: evidencias",
+    "curso": "4° medio",
+    "folder": "12_cuarto_medio",
+    "path": "12_cuarto_medio/010_energia_oscura_evidencias.md",
+    "categoria": "cosmologia",
+    "alineacion": "profundizacion_diferenciada",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_4m_011_destino_posible_del_universo",
+    "titulo": "Destino posible del universo",
+    "curso": "4° medio",
+    "folder": "12_cuarto_medio",
+    "path": "12_cuarto_medio/011_destino_posible_del_universo.md",
+    "categoria": "astronomia_general",
+    "alineacion": "profundizacion_diferenciada",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_4m_012_agujeros_negros_estelares",
+    "titulo": "Agujeros negros estelares",
+    "curso": "4° medio",
+    "folder": "12_cuarto_medio",
+    "path": "12_cuarto_medio/012_agujeros_negros_estelares.md",
+    "categoria": "astronomia_general",
+    "alineacion": "profundizacion_diferenciada",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_4m_013_agujeros_negros_supermasivos",
+    "titulo": "Agujeros negros supermasivos",
+    "curso": "4° medio",
+    "folder": "12_cuarto_medio",
+    "path": "12_cuarto_medio/013_agujeros_negros_supermasivos.md",
+    "categoria": "astronomia_general",
+    "alineacion": "profundizacion_diferenciada",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_4m_014_fusion_de_agujeros_negros",
+    "titulo": "Fusión de agujeros negros",
+    "curso": "4° medio",
+    "folder": "12_cuarto_medio",
+    "path": "12_cuarto_medio/014_fusion_de_agujeros_negros.md",
+    "categoria": "astronomia_general",
+    "alineacion": "profundizacion_diferenciada",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_4m_015_informacion_y_agujeros_negros",
+    "titulo": "Información y agujeros negros",
+    "curso": "4° medio",
+    "folder": "12_cuarto_medio",
+    "path": "12_cuarto_medio/015_informacion_y_agujeros_negros.md",
+    "categoria": "astronomia_general",
+    "alineacion": "profundizacion_diferenciada",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_4m_016_galaxias_activas_y_cuasares",
+    "titulo": "Galaxias activas y cuásares",
+    "curso": "4° medio",
+    "folder": "12_cuarto_medio",
+    "path": "12_cuarto_medio/016_galaxias_activas_y_cuasares.md",
+    "categoria": "galaxias",
+    "alineacion": "profundizacion_diferenciada",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_4m_017_formacion_y_evolucion_de_galaxias",
+    "titulo": "Formación y evolución de galaxias",
+    "curso": "4° medio",
+    "folder": "12_cuarto_medio",
+    "path": "12_cuarto_medio/017_formacion_y_evolucion_de_galaxias.md",
+    "categoria": "galaxias",
+    "alineacion": "profundizacion_diferenciada",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_4m_018_medio_interestelar",
+    "titulo": "Medio interestelar",
+    "curso": "4° medio",
+    "folder": "12_cuarto_medio",
+    "path": "12_cuarto_medio/018_medio_interestelar.md",
+    "categoria": "astronomia_general",
+    "alineacion": "profundizacion_diferenciada",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_4m_019_quimica_del_universo",
+    "titulo": "Química del universo",
+    "curso": "4° medio",
+    "folder": "12_cuarto_medio",
+    "path": "12_cuarto_medio/019_quimica_del_universo.md",
+    "categoria": "astronomia_general",
+    "alineacion": "profundizacion_diferenciada",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_4m_020_origen_de_elementos_quimicos",
+    "titulo": "Origen de elementos químicos",
+    "curso": "4° medio",
+    "folder": "12_cuarto_medio",
+    "path": "12_cuarto_medio/020_origen_de_elementos_quimicos.md",
+    "categoria": "astronomia_general",
+    "alineacion": "profundizacion_diferenciada",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_4m_021_astrobiologia_avanzada",
+    "titulo": "Astrobiología avanzada",
+    "curso": "4° medio",
+    "folder": "12_cuarto_medio",
+    "path": "12_cuarto_medio/021_astrobiologia_avanzada.md",
+    "categoria": "astrobiologia",
+    "alineacion": "profundizacion_diferenciada",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_4m_022_habitabilidad_planetaria",
+    "titulo": "Habitabilidad planetaria",
+    "curso": "4° medio",
+    "folder": "12_cuarto_medio",
+    "path": "12_cuarto_medio/022_habitabilidad_planetaria.md",
+    "categoria": "sistema_solar",
+    "alineacion": "profundizacion_diferenciada",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_4m_023_extremofilos_y_analogias",
+    "titulo": "Extremófilos y analogías",
+    "curso": "4° medio",
+    "folder": "12_cuarto_medio",
+    "path": "12_cuarto_medio/023_extremofilos_y_analogias.md",
+    "categoria": "astronomia_general",
+    "alineacion": "profundizacion_diferenciada",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_4m_024_oceanos_subterraneos_en_lunas",
+    "titulo": "Océanos subterráneos en lunas",
+    "curso": "4° medio",
+    "folder": "12_cuarto_medio",
+    "path": "12_cuarto_medio/024_oceanos_subterraneos_en_lunas.md",
+    "categoria": "tierra_luna",
+    "alineacion": "profundizacion_diferenciada",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_4m_025_seti_y_tecnofirmas",
+    "titulo": "SETI y tecnofirmas",
+    "curso": "4° medio",
+    "folder": "12_cuarto_medio",
+    "path": "12_cuarto_medio/025_seti_y_tecnofirmas.md",
+    "categoria": "astrobiologia",
+    "alineacion": "profundizacion_diferenciada",
+    "requiere_fuente_verificada": true
+  },
+  {
+    "id": "ast_4m_026_proteccion_planetaria",
+    "titulo": "Protección planetaria",
+    "curso": "4° medio",
+    "folder": "12_cuarto_medio",
+    "path": "12_cuarto_medio/026_proteccion_planetaria.md",
+    "categoria": "sistema_solar",
+    "alineacion": "profundizacion_diferenciada",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_4m_027_derecho_y_gobernanza_espacial",
+    "titulo": "Derecho y gobernanza espacial",
+    "curso": "4° medio",
+    "folder": "12_cuarto_medio",
+    "path": "12_cuarto_medio/027_derecho_y_gobernanza_espacial.md",
+    "categoria": "astronomia_general",
+    "alineacion": "profundizacion_diferenciada",
+    "requiere_fuente_verificada": true
+  },
+  {
+    "id": "ast_4m_028_basura_espacial_y_sostenibilidad_orbital",
+    "titulo": "Basura espacial y sostenibilidad orbital",
+    "curso": "4° medio",
+    "folder": "12_cuarto_medio",
+    "path": "12_cuarto_medio/028_basura_espacial_y_sostenibilidad_orbital.md",
+    "categoria": "exploracion_espacial",
+    "alineacion": "profundizacion_diferenciada",
+    "requiere_fuente_verificada": true
+  },
+  {
+    "id": "ast_4m_029_mineria_espacial_y_etica",
+    "titulo": "Minería espacial y ética",
+    "curso": "4° medio",
+    "folder": "12_cuarto_medio",
+    "path": "12_cuarto_medio/029_mineria_espacial_y_etica.md",
+    "categoria": "exploracion_espacial",
+    "alineacion": "profundizacion_diferenciada",
+    "requiere_fuente_verificada": true
+  },
+  {
+    "id": "ast_4m_030_proyecto_final_sobre_universo_y_sociedad",
+    "titulo": "Proyecto final sobre universo y sociedad",
+    "curso": "4° medio",
+    "folder": "12_cuarto_medio",
+    "path": "12_cuarto_medio/030_proyecto_final_sobre_universo_y_sociedad.md",
+    "categoria": "astronomia_general",
+    "alineacion": "profundizacion_diferenciada",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_tr_001_que_estudia_la_astronomia",
+    "titulo": "Qué estudia la astronomía",
+    "curso": "Transversal 1° básico a 4° medio",
+    "folder": "13_tematicos_transversales",
+    "path": "13_tematicos_transversales/001_que_estudia_la_astronomia.md",
+    "categoria": "astronomia_general",
+    "alineacion": "transversal",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_tr_002_el_cielo_observable",
+    "titulo": "El cielo observable",
+    "curso": "Transversal 1° básico a 4° medio",
+    "folder": "13_tematicos_transversales",
+    "path": "13_tematicos_transversales/002_el_cielo_observable.md",
+    "categoria": "astronomia_general",
+    "alineacion": "transversal",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_tr_003_sistema_solar",
+    "titulo": "Sistema Solar",
+    "curso": "Transversal 1° básico a 4° medio",
+    "folder": "13_tematicos_transversales",
+    "path": "13_tematicos_transversales/003_sistema_solar.md",
+    "categoria": "sol",
+    "alineacion": "transversal",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_tr_004_el_sol",
+    "titulo": "El Sol",
+    "curso": "Transversal 1° básico a 4° medio",
+    "folder": "13_tematicos_transversales",
+    "path": "13_tematicos_transversales/004_el_sol.md",
+    "categoria": "sol",
+    "alineacion": "transversal",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_tr_005_la_luna",
+    "titulo": "La Luna",
+    "curso": "Transversal 1° básico a 4° medio",
+    "folder": "13_tematicos_transversales",
+    "path": "13_tematicos_transversales/005_la_luna.md",
+    "categoria": "tierra_luna",
+    "alineacion": "transversal",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_tr_006_planetas",
+    "titulo": "Planetas",
+    "curso": "Transversal 1° básico a 4° medio",
+    "folder": "13_tematicos_transversales",
+    "path": "13_tematicos_transversales/006_planetas.md",
+    "categoria": "sistema_solar",
+    "alineacion": "transversal",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_tr_007_planetas_enanos",
+    "titulo": "Planetas enanos",
+    "curso": "Transversal 1° básico a 4° medio",
+    "folder": "13_tematicos_transversales",
+    "path": "13_tematicos_transversales/007_planetas_enanos.md",
+    "categoria": "sistema_solar",
+    "alineacion": "transversal",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_tr_008_asteroides_cometas_y_meteoritos",
+    "titulo": "Asteroides cometas y meteoritos",
+    "curso": "Transversal 1° básico a 4° medio",
+    "folder": "13_tematicos_transversales",
+    "path": "13_tematicos_transversales/008_asteroides_cometas_y_meteoritos.md",
+    "categoria": "sistema_solar",
+    "alineacion": "transversal",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_tr_009_gravedad",
+    "titulo": "Gravedad",
+    "curso": "Transversal 1° básico a 4° medio",
+    "folder": "13_tematicos_transversales",
+    "path": "13_tematicos_transversales/009_gravedad.md",
+    "categoria": "gravedad_y_orbitas",
+    "alineacion": "transversal",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_tr_010_orbitas",
+    "titulo": "Órbitas",
+    "curso": "Transversal 1° básico a 4° medio",
+    "folder": "13_tematicos_transversales",
+    "path": "13_tematicos_transversales/010_orbitas.md",
+    "categoria": "gravedad_y_orbitas",
+    "alineacion": "transversal",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_tr_011_fases_lunares",
+    "titulo": "Fases lunares",
+    "curso": "Transversal 1° básico a 4° medio",
+    "folder": "13_tematicos_transversales",
+    "path": "13_tematicos_transversales/011_fases_lunares.md",
+    "categoria": "tierra_luna",
+    "alineacion": "transversal",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_tr_012_eclipses",
+    "titulo": "Eclipses",
+    "curso": "Transversal 1° básico a 4° medio",
+    "folder": "13_tematicos_transversales",
+    "path": "13_tematicos_transversales/012_eclipses.md",
+    "categoria": "tierra_luna",
+    "alineacion": "transversal",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_tr_013_satelites_naturales_y_artificiales",
+    "titulo": "Satélites naturales y artificiales",
+    "curso": "Transversal 1° básico a 4° medio",
+    "folder": "13_tematicos_transversales",
+    "path": "13_tematicos_transversales/013_satelites_naturales_y_artificiales.md",
+    "categoria": "exploracion_espacial",
+    "alineacion": "transversal",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_tr_014_estrellas",
+    "titulo": "Estrellas",
+    "curso": "Transversal 1° básico a 4° medio",
+    "folder": "13_tematicos_transversales",
+    "path": "13_tematicos_transversales/014_estrellas.md",
+    "categoria": "estrellas",
+    "alineacion": "transversal",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_tr_015_evolucion_estelar",
+    "titulo": "Evolución estelar",
+    "curso": "Transversal 1° básico a 4° medio",
+    "folder": "13_tematicos_transversales",
+    "path": "13_tematicos_transversales/015_evolucion_estelar.md",
+    "categoria": "astronomia_general",
+    "alineacion": "transversal",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_tr_016_nebulosas",
+    "titulo": "Nebulosas",
+    "curso": "Transversal 1° básico a 4° medio",
+    "folder": "13_tematicos_transversales",
+    "path": "13_tematicos_transversales/016_nebulosas.md",
+    "categoria": "estrellas",
+    "alineacion": "transversal",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_tr_017_galaxias",
+    "titulo": "Galaxias",
+    "curso": "Transversal 1° básico a 4° medio",
+    "folder": "13_tematicos_transversales",
+    "path": "13_tematicos_transversales/017_galaxias.md",
+    "categoria": "galaxias",
+    "alineacion": "transversal",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_tr_018_via_lactea",
+    "titulo": "Vía Láctea",
+    "curso": "Transversal 1° básico a 4° medio",
+    "folder": "13_tematicos_transversales",
+    "path": "13_tematicos_transversales/018_via_lactea.md",
+    "categoria": "galaxias",
+    "alineacion": "transversal",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_tr_019_agujeros_negros",
+    "titulo": "Agujeros negros",
+    "curso": "Transversal 1° básico a 4° medio",
+    "folder": "13_tematicos_transversales",
+    "path": "13_tematicos_transversales/019_agujeros_negros.md",
+    "categoria": "astronomia_general",
+    "alineacion": "transversal",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_tr_020_big_bang",
+    "titulo": "Big Bang",
+    "curso": "Transversal 1° básico a 4° medio",
+    "folder": "13_tematicos_transversales",
+    "path": "13_tematicos_transversales/020_big_bang.md",
+    "categoria": "cosmologia",
+    "alineacion": "transversal",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_tr_021_expansion_del_universo",
+    "titulo": "Expansión del universo",
+    "curso": "Transversal 1° básico a 4° medio",
+    "folder": "13_tematicos_transversales",
+    "path": "13_tematicos_transversales/021_expansion_del_universo.md",
+    "categoria": "cosmologia",
+    "alineacion": "transversal",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_tr_022_materia_oscura",
+    "titulo": "Materia oscura",
+    "curso": "Transversal 1° básico a 4° medio",
+    "folder": "13_tematicos_transversales",
+    "path": "13_tematicos_transversales/022_materia_oscura.md",
+    "categoria": "cosmologia",
+    "alineacion": "transversal",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_tr_023_energia_oscura",
+    "titulo": "Energía oscura",
+    "curso": "Transversal 1° básico a 4° medio",
+    "folder": "13_tematicos_transversales",
+    "path": "13_tematicos_transversales/023_energia_oscura.md",
+    "categoria": "cosmologia",
+    "alineacion": "transversal",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_tr_024_exoplanetas",
+    "titulo": "Exoplanetas",
+    "curso": "Transversal 1° básico a 4° medio",
+    "folder": "13_tematicos_transversales",
+    "path": "13_tematicos_transversales/024_exoplanetas.md",
+    "categoria": "sistema_solar",
+    "alineacion": "transversal",
+    "requiere_fuente_verificada": true
+  },
+  {
+    "id": "ast_tr_025_vida_en_el_universo",
+    "titulo": "Vida en el universo",
+    "curso": "Transversal 1° básico a 4° medio",
+    "folder": "13_tematicos_transversales",
+    "path": "13_tematicos_transversales/025_vida_en_el_universo.md",
+    "categoria": "astrobiologia",
+    "alineacion": "transversal",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_tr_026_exploracion_espacial",
+    "titulo": "Exploración espacial",
+    "curso": "Transversal 1° básico a 4° medio",
+    "folder": "13_tematicos_transversales",
+    "path": "13_tematicos_transversales/026_exploracion_espacial.md",
+    "categoria": "exploracion_espacial",
+    "alineacion": "transversal",
+    "requiere_fuente_verificada": true
+  },
+  {
+    "id": "ast_tr_027_astronomia_en_chile",
+    "titulo": "Astronomía en Chile",
+    "curso": "Transversal 1° básico a 4° medio",
+    "folder": "13_tematicos_transversales",
+    "path": "13_tematicos_transversales/027_astronomia_en_chile.md",
+    "categoria": "astronomia_general",
+    "alineacion": "transversal",
+    "requiere_fuente_verificada": false
+  },
+  {
+    "id": "ast_tr_028_preguntas_frecuentes_de_ninos",
+    "titulo": "Preguntas frecuentes de niños",
+    "curso": "Transversal 1° básico a 4° medio",
+    "folder": "13_tematicos_transversales",
+    "path": "13_tematicos_transversales/028_preguntas_frecuentes_de_ninos.md",
+    "categoria": "astronomia_general",
+    "alineacion": "transversal",
+    "requiere_fuente_verificada": false
+  }
+]

@@ -1,0 +1,1947 @@
+[
+  {
+    "path": "00_documentacion/00_indice_maestro.md",
+    "size": 2815,
+    "sha256": "7fc4013243e04e88c0659041040b0f6e42435a945b3cec1f3c9bd0a919075f09"
+  },
+  {
+    "path": "00_documentacion/00_instalacion.md",
+    "size": 158,
+    "sha256": "98644815707bd491e8d067b9a248a92f59f321f16914abf4333637923e34aa0e"
+  },
+  {
+    "path": "00_documentacion/01_estado_curricular_y_fuentes.md",
+    "size": 332,
+    "sha256": "d7f00605db67a0d0c0eb9284ad8feff3c623d9c759006d74a5e5f8d7b6049354"
+  },
+  {
+    "path": "00_documentacion/02_arquitectura_de_contenidos.md",
+    "size": 99,
+    "sha256": "b79bffc18926d4620088e7664ab3a27bcd45e6bdece7b53a7bd375011a868af4"
+  },
+  {
+    "path": "00_documentacion/03_guia_editorial_astronomia.md",
+    "size": 206,
+    "sha256": "7caa872751b65d25df96a319c6d93dd06df620d301a715a0d94f95a4e635a905"
+  },
+  {
+    "path": "00_documentacion/04_mapa_vertical_curricular.md",
+    "size": 7667,
+    "sha256": "be484409e61ab01823de3c61e001ad5f424400e30d23cec86cc65b4fcc55d179"
+  },
+  {
+    "path": "00_documentacion/05_integracion_ollama_rag.md",
+    "size": 162,
+    "sha256": "cb392c7562736f7a53fcfd8f7ca95116875b0a71ba693cf0dc63bf2d957f8a10"
+  },
+  {
+    "path": "00_documentacion/06_prompt_sistema_ollama.md",
+    "size": 139,
+    "sha256": "5b7440dd77062e96e5810ae7b60d3695275e44eb9c5e8a0d249b40c109155f8a"
+  },
+  {
+    "path": "00_documentacion/07_configuracion_rag.yaml",
+    "size": 131,
+    "sha256": "9b3391b158df2043112fffc3e39e1fd9c2432bedfa3270741e43d1d34e25b910"
+  },
+  {
+    "path": "01_primero_basico/001_el_cielo_de_dia.md",
+    "size": 4755,
+    "sha256": "a1909a0996dc8d5917590e2fb24e00cdc791ad3f5e476add2357273425fe0adc"
+  },
+  {
+    "path": "01_primero_basico/002_el_cielo_de_noche.md",
+    "size": 4762,
+    "sha256": "f5679c88b027ac43ab05a1b60d96ada32b7a0dbb89a0e4e7ec328a1917cdda5d"
+  },
+  {
+    "path": "01_primero_basico/003_el_sol_como_estrella_cercana.md",
+    "size": 4813,
+    "sha256": "7b06f5c4606f8984e399e2b153f066775b0e752d95ce2df1fc9728013a123562"
+  },
+  {
+    "path": "01_primero_basico/004_la_luna_en_el_cielo.md",
+    "size": 4767,
+    "sha256": "b07c18d01063d49a662466d48b95064fb971d5a46a80ad2e88bcd3dc3a1ce5d7"
+  },
+  {
+    "path": "01_primero_basico/005_estrellas_visibles.md",
+    "size": 4759,
+    "sha256": "6284cebeae93c1c01b34408f045c7b428c5a9d46034819039002ad4d03eb7f83"
+  },
+  {
+    "path": "01_primero_basico/006_cambios_entre_dia_y_noche.md",
+    "size": 4815,
+    "sha256": "439df976f279644b0b74af0a1c19c68358d9782ac56536f89dae46fc9d2c3367"
+  },
+  {
+    "path": "01_primero_basico/007_sombras_producidas_por_el_sol.md",
+    "size": 4819,
+    "sha256": "f12bd215a633e41241cd31fc385be5b7e9c9a0a82e1f724f6d86ad22c2f4b791"
+  },
+  {
+    "path": "01_primero_basico/008_el_sol_da_luz_y_calor.md",
+    "size": 4771,
+    "sha256": "61a2ebcc57d7d283f715704ee2a8e4a710abfc11926d179e2e1beaf0360d66c2"
+  },
+  {
+    "path": "01_primero_basico/009_observar_el_cielo_con_seguridad.md",
+    "size": 4846,
+    "sha256": "6e8138b5fb69363b51e37158a74ba7274ec064af08c7c828e7219736586471c1"
+  },
+  {
+    "path": "01_primero_basico/00_indice_curso.md",
+    "size": 1286,
+    "sha256": "2f2c0e42a7a13f276c23cd575d2d165d395a6352c7fee0a34de3f5c7b272fff7"
+  },
+  {
+    "path": "01_primero_basico/010_formas_de_la_luna_observadas.md",
+    "size": 4821,
+    "sha256": "47bb1ab2686d862b452cba4dcb7914c0f995e3739dd8f5a20136a645908a00e3"
+  },
+  {
+    "path": "01_primero_basico/011_nubes_y_objetos_del_cielo.md",
+    "size": 4810,
+    "sha256": "c0cd95274d176342d9a1efcf17ada0d9a4748c5fd77b32456b7691f29ebe8da2"
+  },
+  {
+    "path": "01_primero_basico/012_la_tierra_como_nuestro_hogar.md",
+    "size": 4828,
+    "sha256": "c82345ec10accf4d032e01954c88c6952811138bbc32c5adc91bb5ecfd942720"
+  },
+  {
+    "path": "01_primero_basico/013_diferencia_entre_cielo_y_espacio.md",
+    "size": 4852,
+    "sha256": "050c61da6084daa0438849b6f8e7c565d31b9d6572cbfd70f161e2a1a2f8e967"
+  },
+  {
+    "path": "01_primero_basico/014_preguntas_frecuentes_sobre_el_espacio.md",
+    "size": 4882,
+    "sha256": "86518c4462a695830bbb35d762fc3e687446ec42a12be3d29208f122cfbb34d1"
+  },
+  {
+    "path": "01_primero_basico/015_registro_de_observaciones.md",
+    "size": 4810,
+    "sha256": "081a19ac1538bfdd7eb964a7a46aa14d45861d35966029edff41978e50e9411b"
+  },
+  {
+    "path": "01_primero_basico/01_glosario_curso.md",
+    "size": 229,
+    "sha256": "1591b7a60f6f6ac2902a03ae81f3d1d4928a7fc19ae3a70f4331cb17f781bc06"
+  },
+  {
+    "path": "01_primero_basico/02_banco_preguntas.md",
+    "size": 2501,
+    "sha256": "2003812a9fe363704c83214416266ba4b2f97428ae3a2be3dae458cd01186174"
+  },
+  {
+    "path": "02_segundo_basico/001_el_sol_la_tierra_y_la_luna.md",
+    "size": 4806,
+    "sha256": "ebd4cb83964d7aee59c1ed07a5191de795a1de726daa04d3c373441a934d5271"
+  },
+  {
+    "path": "02_segundo_basico/002_sucesion_de_dia_y_noche.md",
+    "size": 4808,
+    "sha256": "0a7fe4e352d3cb4624ae930d19c8734ca065011c3a9cbf85ad5ebdc71f81fc58"
+  },
+  {
+    "path": "02_segundo_basico/003_movimiento_aparente_del_sol.md",
+    "size": 4807,
+    "sha256": "a8defc8ee1c90bc7e87555c27508c1b2c2e96732a47b9e81df9cfa41dbcc47ed"
+  },
+  {
+    "path": "02_segundo_basico/004_la_luna_cambia_de_apariencia.md",
+    "size": 4821,
+    "sha256": "85d9568fa17103578ef335955bf265cdaad8e53d94b1f1aaedab9000642915e0"
+  },
+  {
+    "path": "02_segundo_basico/005_fases_lunares_iniciales.md",
+    "size": 4778,
+    "sha256": "0273d9ded334e93e656170702c7f666ab677d60f960d6f9faf5e7a81468497ad"
+  },
+  {
+    "path": "02_segundo_basico/006_estrellas_y_constelaciones_iniciales.md",
+    "size": 4867,
+    "sha256": "7ec0b87718300988a3168076866d75b71f79de15f0e9c78808c2e328f30f3832"
+  },
+  {
+    "path": "02_segundo_basico/007_planetas_como_mundos.md",
+    "size": 4775,
+    "sha256": "d7100718851994b7e4da6036fbbe1168c5da914f3936272f92c70b6519cb111a"
+  },
+  {
+    "path": "02_segundo_basico/008_satelites_naturales.md",
+    "size": 4781,
+    "sha256": "6a51b3451dcb029ed265215403e68ac4d6159460045d5ea118258800891ffde3"
+  },
+  {
+    "path": "02_segundo_basico/009_objetos_naturales_y_artificiales_del_cielo.md",
+    "size": 4912,
+    "sha256": "27fdbbbdcf5ce0227d388c83c78c85fc33f3c3db1e6a90ad188310a7ea13cc6b"
+  },
+  {
+    "path": "02_segundo_basico/00_indice_curso.md",
+    "size": 1530,
+    "sha256": "1daedc57eead77f53388446aa57c72da795ed4b914df0dc20837b2e55ed18f39"
+  },
+  {
+    "path": "02_segundo_basico/010_cohetes_y_exploracion_espacial.md",
+    "size": 4846,
+    "sha256": "e15a9c3edd222e4a43c48ba11b4bd33d4ce2cd260bdd40b8bf628d4b7f4b7291"
+  },
+  {
+    "path": "02_segundo_basico/011_astronautas_y_trabajo_en_el_espacio.md",
+    "size": 4870,
+    "sha256": "762e6039466938ac35cc4939c119e1dda7704effcca7da79742e102b4b8fa8f3"
+  },
+  {
+    "path": "02_segundo_basico/012_la_tierra_vista_desde_el_espacio.md",
+    "size": 4852,
+    "sha256": "988f4331734e1cd584b62754d1f1b250fb3da4008f904be0e1fa884e942b229c"
+  },
+  {
+    "path": "02_segundo_basico/013_importancia_de_la_atmosfera.md",
+    "size": 4827,
+    "sha256": "34807f8462ad281afc871be783a99922d7bb7b48bfaa97cd55d991511044dc02"
+  },
+  {
+    "path": "02_segundo_basico/014_contaminacion_luminica_inicial.md",
+    "size": 4850,
+    "sha256": "90c23e503a8f57035d84900614eb637f1dccdc3932ae1044499dde346ef825a5"
+  },
+  {
+    "path": "02_segundo_basico/015_calendarios_y_observacion_del_cielo.md",
+    "size": 4875,
+    "sha256": "2e32045738473325c1693b058f686c66a62f5264e54ffe0427bbfac2428edb65"
+  },
+  {
+    "path": "02_segundo_basico/016_preguntas_infantiles_sobre_el_universo.md",
+    "size": 4888,
+    "sha256": "1bdb75bb1caff58884f67ec5b3d981204b935ef51a903e9076898affc905fdad"
+  },
+  {
+    "path": "02_segundo_basico/01_glosario_curso.md",
+    "size": 229,
+    "sha256": "1591b7a60f6f6ac2902a03ae81f3d1d4928a7fc19ae3a70f4331cb17f781bc06"
+  },
+  {
+    "path": "02_segundo_basico/02_banco_preguntas.md",
+    "size": 2741,
+    "sha256": "2f3a9af24606545666f02fcd2327a89154683c8ca8409f7d9e344947913a501c"
+  },
+  {
+    "path": "03_tercero_basico/001_componentes_del_sistema_solar.md",
+    "size": 4820,
+    "sha256": "f3cd4b93da3a67cfbb1e43e9f6760072e985f055aa1b0eebea196e2e99b8a38b"
+  },
+  {
+    "path": "03_tercero_basico/002_el_sol.md",
+    "size": 4682,
+    "sha256": "a10b1ef9ebda5b8fb6dd932bc1400b99755c980439848206998acdc75646914f"
+  },
+  {
+    "path": "03_tercero_basico/003_mercurio.md",
+    "size": 4709,
+    "sha256": "a88c3140fb11fe219281607f1ed23755a0a05fdd4f3e0abff8c00009e23148fe"
+  },
+  {
+    "path": "03_tercero_basico/004_venus.md",
+    "size": 4691,
+    "sha256": "07644c3177c2ca5722823d57ddf033a49118c84f18077a1b18029f262d13a782"
+  },
+  {
+    "path": "03_tercero_basico/005_la_tierra.md",
+    "size": 4715,
+    "sha256": "5c232cca469a14aef33297204809409d12c2ba11335465abaf11140de44f41d1"
+  },
+  {
+    "path": "03_tercero_basico/006_marte.md",
+    "size": 4691,
+    "sha256": "944b6cfcad25e4e9b2d4330e6c2af8878373b8cefe3880739230e9177df385e5"
+  },
+  {
+    "path": "03_tercero_basico/007_jupiter.md",
+    "size": 4708,
+    "sha256": "4c86b9bf8e1c8ecc03c7f53ce65812bb783dfdcd1b1a830ab4a9b9ce3cd43895"
+  },
+  {
+    "path": "03_tercero_basico/008_saturno.md",
+    "size": 4703,
+    "sha256": "b55210437c17aed5bbc02f89134f47847b71befc7b49539be4d146f210fdcbf5"
+  },
+  {
+    "path": "03_tercero_basico/009_urano.md",
+    "size": 4691,
+    "sha256": "fadf90c009835df9d664c7dd514314f39c09775222458c0a14e985721e24064a"
+  },
+  {
+    "path": "03_tercero_basico/00_indice_curso.md",
+    "size": 1561,
+    "sha256": "961831702f77b50711d496f45c5bd1b236dc437c377746cfec4a8ecf7bfda032"
+  },
+  {
+    "path": "03_tercero_basico/010_neptuno.md",
+    "size": 4703,
+    "sha256": "d6981624b0f5944d2a7798276024116382899c30ff81b4c3a57f97b5d0c9c31f"
+  },
+  {
+    "path": "03_tercero_basico/011_planetas_enanos.md",
+    "size": 4746,
+    "sha256": "6558ae9993040a162e0b041d8a6ed2103f7df9bb3881c8bdfb713d8906516db2"
+  },
+  {
+    "path": "03_tercero_basico/012_lunas_del_sistema_solar.md",
+    "size": 4784,
+    "sha256": "1ebd2497cb221a248d71bf090e7b79ffe375541ab06fa1fb998c9f635469ab7a"
+  },
+  {
+    "path": "03_tercero_basico/013_asteroides.md",
+    "size": 4716,
+    "sha256": "db9f0598b0a5c6cb605bcb121fb7478260c3a13ee312925128e7d69717993bd1"
+  },
+  {
+    "path": "03_tercero_basico/014_cometas.md",
+    "size": 4698,
+    "sha256": "0ddc96178a4424aa61e84d1a51375144b031327b6a2536f7c28d094743d27ca3"
+  },
+  {
+    "path": "03_tercero_basico/015_meteoroides_meteoros_y_meteoritos.md",
+    "size": 4854,
+    "sha256": "514e26196ad7cb521560ab42476780927080480aa7938686848f68b6e34df4ac"
+  },
+  {
+    "path": "03_tercero_basico/016_orden_y_distancias_relativas.md",
+    "size": 4829,
+    "sha256": "8987f77cded034626ba6c38476131868bc8ffb540dbe81dca7c32acbd6cce6cb"
+  },
+  {
+    "path": "03_tercero_basico/017_rotacion_de_la_tierra.md",
+    "size": 4792,
+    "sha256": "4123720e2c041e9f982008bc5d8e19a2c67adf3107cd2b17c36771f9008b5d4e"
+  },
+  {
+    "path": "03_tercero_basico/018_traslacion_de_la_tierra.md",
+    "size": 4804,
+    "sha256": "aaa6255a7a9a89043b40651165fcb499a7d5d29552251e4365e796638ad35492"
+  },
+  {
+    "path": "03_tercero_basico/019_estaciones_del_ano.md",
+    "size": 4774,
+    "sha256": "1862f79a8a113d2b53c766b31077d24811069688376afde6243fe4e6a63a6fe3"
+  },
+  {
+    "path": "03_tercero_basico/01_glosario_curso.md",
+    "size": 229,
+    "sha256": "1591b7a60f6f6ac2902a03ae81f3d1d4928a7fc19ae3a70f4331cb17f781bc06"
+  },
+  {
+    "path": "03_tercero_basico/020_fases_de_la_luna.md",
+    "size": 4737,
+    "sha256": "ad554d37f365f0bc496a9a1b3b8758c38ee0fac478c1d118af3d5c3f94740f1d"
+  },
+  {
+    "path": "03_tercero_basico/021_eclipse_de_sol.md",
+    "size": 4717,
+    "sha256": "8806df494666e4b711ca5e6a57f9d9bbe8d10dc2b4dd59028851ff1993a0e605"
+  },
+  {
+    "path": "03_tercero_basico/022_eclipse_de_luna.md",
+    "size": 4731,
+    "sha256": "5529bab58a898817856a93fc9cbf3e3710d053c28401870d56c2965b9afdb7b2"
+  },
+  {
+    "path": "03_tercero_basico/023_modelos_del_sistema_solar.md",
+    "size": 4796,
+    "sha256": "8883425349523c70b41df6172dfc8483d2ab9ae0df91aa965976abdeb8bd0fe4"
+  },
+  {
+    "path": "03_tercero_basico/024_escalas_y_limites_de_los_modelos.md",
+    "size": 4858,
+    "sha256": "9f072a6f50e855d7bc7a514a57c726e7845791a66b2423a47d4b40b7c4733977"
+  },
+  {
+    "path": "03_tercero_basico/02_banco_preguntas.md",
+    "size": 3754,
+    "sha256": "d7c363ae1d2aaa2d2a29a70f68a73beea4458e1d32b3bc0a188168ea1eaab203"
+  },
+  {
+    "path": "04_cuarto_basico/001_la_tierra_como_planeta.md",
+    "size": 4787,
+    "sha256": "f868cf375f6803704ef461bddc9af637608278e84d1edeb5c56adfa14cfba730"
+  },
+  {
+    "path": "04_cuarto_basico/002_forma_de_la_tierra_y_evidencias.md",
+    "size": 4846,
+    "sha256": "6bb8f76dcd110552ecc7243043d277308733751b274dec5693579e53a6c12c01"
+  },
+  {
+    "path": "04_cuarto_basico/003_eje_terrestre.md",
+    "size": 4738,
+    "sha256": "e8ef58a831d0a4421cc9f8ded48106b7301509648cf1f1b8a9cf67d3691e74cb"
+  },
+  {
+    "path": "04_cuarto_basico/004_rotacion_y_husos_horarios_iniciales.md",
+    "size": 4875,
+    "sha256": "1b2f7195f17897cc8fefd86a56c79680c23e2dbd4792a406bc65dd33a5ff8b9e"
+  },
+  {
+    "path": "04_cuarto_basico/005_traslacion_y_ano.md",
+    "size": 4766,
+    "sha256": "45546d9cb21395f7ad64605066bb56862982f35f277d5d4839b1a3cdf1a20051"
+  },
+  {
+    "path": "04_cuarto_basico/006_inclinacion_del_eje_y_estaciones.md",
+    "size": 4857,
+    "sha256": "d9ced5687e7e835e00fefa76f8562a0e460abe4ab75b6a699e2cf43771e1c50a"
+  },
+  {
+    "path": "04_cuarto_basico/007_orbita_terrestre.md",
+    "size": 4788,
+    "sha256": "169bf01d3c6812276738b0f8769f8d882aab90b6a6d8d315164ae74c3bfede40"
+  },
+  {
+    "path": "04_cuarto_basico/008_gravedad_inicial.md",
+    "size": 4798,
+    "sha256": "f89fcd738a9092d026b9d8501d370720edb1989e5db1e4f76a88c671c663785a"
+  },
+  {
+    "path": "04_cuarto_basico/009_masa_y_peso_iniciales.md",
+    "size": 4786,
+    "sha256": "a7fec59c5b3569b97de11916b4cb809e678bd1828a11f7090263045031f40fa3"
+  },
+  {
+    "path": "04_cuarto_basico/00_indice_curso.md",
+    "size": 1640,
+    "sha256": "4f513fc6584854faee9bec40e3d52011dce9113da28fd073e682dfbcc1aff7bb"
+  },
+  {
+    "path": "04_cuarto_basico/010_la_luna_y_sus_movimientos.md",
+    "size": 4803,
+    "sha256": "73fcb49025161dc15c5781406aa173301bd316ab039c4cf93b055c618fc87e2a"
+  },
+  {
+    "path": "04_cuarto_basico/011_fases_lunares_detalladas.md",
+    "size": 4784,
+    "sha256": "b95dcab09402035992885e81079eb0ccd4e4aa591e8994f18d7bd6ccb76a9385"
+  },
+  {
+    "path": "04_cuarto_basico/012_eclipses_y_alineacion.md",
+    "size": 4771,
+    "sha256": "8769168f9b8ef8804328935d3d26e1d0ae8a9d6c7518501c2183f14c9619119f"
+  },
+  {
+    "path": "04_cuarto_basico/013_mareas_iniciales.md",
+    "size": 4749,
+    "sha256": "dcbfe5caab1b708e0a2ddacef1d4f33523f9a092098a63fcff6f73f2520955f0"
+  },
+  {
+    "path": "04_cuarto_basico/014_constelaciones_y_orientacion.md",
+    "size": 4833,
+    "sha256": "c1f31408103a0cf6fa29008d46e8d4005a40ee318413997b02076a34c2da83c6"
+  },
+  {
+    "path": "04_cuarto_basico/015_estrellas_de_distinto_brillo.md",
+    "size": 4819,
+    "sha256": "9969b44da07978a8dc0e439647a83ad10e6c74e5e1a5c8e527f6e0f581be5338"
+  },
+  {
+    "path": "04_cuarto_basico/016_color_de_las_estrellas_inicial.md",
+    "size": 4831,
+    "sha256": "bdcd37ea0a8bc74f6a533eb147c94993b5029454eba6589200d10f656926fe8e"
+  },
+  {
+    "path": "04_cuarto_basico/017_la_via_lactea.md",
+    "size": 4738,
+    "sha256": "b4a888f13506227d12840bfea54413b3656f48d092fd4af9c665ae4cc324743b"
+  },
+  {
+    "path": "04_cuarto_basico/018_galaxias_iniciales.md",
+    "size": 4758,
+    "sha256": "f250199de0930325166267bf10309e42c1f5d3186b2c5e381c840803e9271ae6"
+  },
+  {
+    "path": "04_cuarto_basico/019_satelites_artificiales.md",
+    "size": 4799,
+    "sha256": "cbefca0a86df72ef0002e31f438e93ca2e71592541421278d542a7e3e64deef6"
+  },
+  {
+    "path": "04_cuarto_basico/01_glosario_curso.md",
+    "size": 229,
+    "sha256": "1591b7a60f6f6ac2902a03ae81f3d1d4928a7fc19ae3a70f4331cb17f781bc06"
+  },
+  {
+    "path": "04_cuarto_basico/020_exploracion_espacial_historica.md",
+    "size": 4851,
+    "sha256": "681e0eb81fb3a6615b806641ea894635a16f2051a312c3fabea81e52f96089d3"
+  },
+  {
+    "path": "04_cuarto_basico/02_banco_preguntas.md",
+    "size": 3290,
+    "sha256": "82833be539097b77f69d1474b409a11c66bb38f011eab63badae41784942899c"
+  },
+  {
+    "path": "05_quinto_basico/001_formacion_del_sistema_solar_inicial.md",
+    "size": 4863,
+    "sha256": "805e2f836752186140b838ec590124e88ed2631d90499abbb1388ebcad3545cb"
+  },
+  {
+    "path": "05_quinto_basico/002_el_sol_y_sus_capas.md",
+    "size": 4756,
+    "sha256": "fb34d86c566462ff279a54cc1ccb2e4b5f5cbd4f04dce6c85b8d9c1ec9df0fa1"
+  },
+  {
+    "path": "05_quinto_basico/003_energia_solar.md",
+    "size": 4731,
+    "sha256": "bb98254ac78399fc9aa68d783b9b0f1d633a8bd23c9d95e7c0595127af96444e"
+  },
+  {
+    "path": "05_quinto_basico/004_planetas_rocosos.md",
+    "size": 4754,
+    "sha256": "cb58462c2aa4169812b8655ed14052e02e892dfc73b2a4af208e7cf3d080382a"
+  },
+  {
+    "path": "05_quinto_basico/005_planetas_gigantes.md",
+    "size": 4760,
+    "sha256": "f60380707aa9fdd4cae8f9983a070fcd56069153245d377fddb7be130550d7fa"
+  },
+  {
+    "path": "05_quinto_basico/006_atmosferas_planetarias.md",
+    "size": 4795,
+    "sha256": "72815af87559ca99b8d548dd71e43df9263ba26cdfa3b92d8fbc4d5a70b1e9aa"
+  },
+  {
+    "path": "05_quinto_basico/007_superficies_planetarias.md",
+    "size": 4796,
+    "sha256": "0992b96833d01acfffd3bec59281b7e2f661db65e55194816d5d5dde70f435b8"
+  },
+  {
+    "path": "05_quinto_basico/008_agua_en_el_sistema_solar.md",
+    "size": 4792,
+    "sha256": "be3e401d4977ce30208579e0acb8bb7463a87e729b0c781dd049eba921c4a5bc"
+  },
+  {
+    "path": "05_quinto_basico/009_lunas_destacadas.md",
+    "size": 4752,
+    "sha256": "c9ba92afc2ebfb56efd7d1adb6c7b43a273617d1b5197c75edcda0a88629ff85"
+  },
+  {
+    "path": "05_quinto_basico/00_indice_curso.md",
+    "size": 1836,
+    "sha256": "d92f10c973576f74cca1822ac52a87d3b2ca4e9eae7ee790618aa3454b57b8c0"
+  },
+  {
+    "path": "05_quinto_basico/010_anillos_planetarios.md",
+    "size": 4772,
+    "sha256": "59b084e90d1fa5aa54b730cb786ccd19b8171cffeb45d2e69f17c6290d8685e3"
+  },
+  {
+    "path": "05_quinto_basico/011_cinturon_de_asteroides.md",
+    "size": 4795,
+    "sha256": "cfa409dd8d7eb08159d655e29397290083829ccd25c219abaeb81886eba01e30"
+  },
+  {
+    "path": "05_quinto_basico/012_cinturon_de_kuiper.md",
+    "size": 4771,
+    "sha256": "09e77655656e532fc25616d370f5fe3569743f831403ec22e0c841929fa95bf2"
+  },
+  {
+    "path": "05_quinto_basico/013_nube_de_oort_inicial.md",
+    "size": 4778,
+    "sha256": "2ee58699763d139163f4af01ccdff54edd04b2045e9b98d352f185bc95034bb5"
+  },
+  {
+    "path": "05_quinto_basico/014_cometas_y_sus_orbitas.md",
+    "size": 4816,
+    "sha256": "0a1b8639fccdf787aacb9ac52a42f581b033b77e67667de68108b11f963dcdcd"
+  },
+  {
+    "path": "05_quinto_basico/015_meteoritos_y_crateres.md",
+    "size": 4789,
+    "sha256": "2da68d29e441bcb04b49f8d91e2bb43fdb57db6991dd0be2a59eb7c54c1ff4b2"
+  },
+  {
+    "path": "05_quinto_basico/016_gravedad_y_orbitas.md",
+    "size": 4818,
+    "sha256": "c06e1c40eac8d90f840c62e44a13e2c4ad27bc6aad72f05f65563e9a319bd48e"
+  },
+  {
+    "path": "05_quinto_basico/017_velocidad_orbital_inicial.md",
+    "size": 4813,
+    "sha256": "ac17d148800aa45c01075e5c02fce5159cd4a528060afd9ec0a5c964f92c9db6"
+  },
+  {
+    "path": "05_quinto_basico/018_satelites_artificiales.md",
+    "size": 4802,
+    "sha256": "e98714a7e99edb11b8be98abef5635ad92248c7b4f6503d9af8d0b5d135b7804"
+  },
+  {
+    "path": "05_quinto_basico/019_estacion_espacial_internacional.md",
+    "size": 4856,
+    "sha256": "9041a761c22b5823bc86e54a897300a5ca6e945cec9e3c56985c343a86d0e22b"
+  },
+  {
+    "path": "05_quinto_basico/01_glosario_curso.md",
+    "size": 229,
+    "sha256": "1591b7a60f6f6ac2902a03ae81f3d1d4928a7fc19ae3a70f4331cb17f781bc06"
+  },
+  {
+    "path": "05_quinto_basico/020_sondas_espaciales.md",
+    "size": 4767,
+    "sha256": "801494ec3d13946e56cbd738d649292d6f1f470733068a24ffb3897f4d99321d"
+  },
+  {
+    "path": "05_quinto_basico/021_rovers_planetarios.md",
+    "size": 4766,
+    "sha256": "e1749913c1559a99460c60ccafea14731c6ff6a14fca396b61f36ca4b9f99107"
+  },
+  {
+    "path": "05_quinto_basico/022_telescopios_espaciales.md",
+    "size": 4795,
+    "sha256": "45f57228ba1b331af19f65c6516ecaa01fd884a21529611ecfbba804a364e630"
+  },
+  {
+    "path": "05_quinto_basico/023_exploracion_de_marte.md",
+    "size": 4789,
+    "sha256": "b88b4efb371f5981adc061c7d5b212a53736d981f2952bc0860031f4a8bca491"
+  },
+  {
+    "path": "05_quinto_basico/024_proteccion_planetaria_inicial.md",
+    "size": 4837,
+    "sha256": "695b4a239338ef7401e01091ebe5e42631efed974f9d0928ed2f6638470eef21"
+  },
+  {
+    "path": "05_quinto_basico/02_banco_preguntas.md",
+    "size": 3900,
+    "sha256": "3e1842efc876558f6e6513ca0a14836f1b77a29864378b928cac42da4a2866a7"
+  },
+  {
+    "path": "06_sexto_basico/001_historia_de_los_modelos_del_universo.md",
+    "size": 4879,
+    "sha256": "af8686cf347a9126c9d8dd6da93707cf57713d1544f160de4da11362fcda5804"
+  },
+  {
+    "path": "06_sexto_basico/002_modelo_geocentrico.md",
+    "size": 4776,
+    "sha256": "6692e8779dbbc141433de2ed4d0708d36ab78653114e8a702373ea78a2582a44"
+  },
+  {
+    "path": "06_sexto_basico/003_modelo_heliocentrico.md",
+    "size": 4788,
+    "sha256": "596ac1971fca337caa84cd1b1cdf49c590b73c37600794e6278ff04844789ff9"
+  },
+  {
+    "path": "06_sexto_basico/004_aportes_de_copernico.md",
+    "size": 4788,
+    "sha256": "f62e286fe0a23f705fc95f9a88b2c98d4fc7704a6dfedbf85d823002c1cbc454"
+  },
+  {
+    "path": "06_sexto_basico/005_observaciones_de_galileo.md",
+    "size": 4807,
+    "sha256": "9ca450158e1d8a9073d21d5fd93e85982d724f65b46c6d1d748577fc61875e4f"
+  },
+  {
+    "path": "06_sexto_basico/006_leyes_de_kepler_iniciales.md",
+    "size": 4813,
+    "sha256": "32b9de9b67ef58830c93ffe377cf4dfe64ffb75caa83eb9970c4b14e95fe1fea"
+  },
+  {
+    "path": "06_sexto_basico/007_gravitacion_de_newton_inicial.md",
+    "size": 4842,
+    "sha256": "57b1ab272014fe8b7ec91c3409b28acc7c456b14b649ecf9fd1ae5051561416e"
+  },
+  {
+    "path": "06_sexto_basico/008_orbitas_elipticas.md",
+    "size": 4802,
+    "sha256": "7025722b06615ba39e66238a08c0b2e6a4c7b516193107f6a3cdb0ebc2a08ae8"
+  },
+  {
+    "path": "06_sexto_basico/009_sistema_tierra_luna.md",
+    "size": 4770,
+    "sha256": "50629d5f3a3e4362f9ef4776ba70da95e787c9b0b2ff8e1679576df44e14c72b"
+  },
+  {
+    "path": "06_sexto_basico/00_indice_curso.md",
+    "size": 1809,
+    "sha256": "2c64d790ec4593b9ead8c8af90cc1d93f34c2510e37a6d6871b51f59e9cedf54"
+  },
+  {
+    "path": "06_sexto_basico/010_mareas_y_gravedad.md",
+    "size": 4800,
+    "sha256": "e0883757aa0f83af9b6d807e4e8cc94dd55d32c1e87f22ee284156612d7f879f"
+  },
+  {
+    "path": "06_sexto_basico/011_eclipses_y_geometria.md",
+    "size": 4768,
+    "sha256": "5b60fc255971ad2ca8f11e45e23e1f99868e5cb3305fd355410bc7fa15fcfb0c"
+  },
+  {
+    "path": "06_sexto_basico/012_escalas_astronomicas.md",
+    "size": 4788,
+    "sha256": "75a6041661d39f286adfead5f800bbc4e01e2957c586f70aec83aef2f277eb7b"
+  },
+  {
+    "path": "06_sexto_basico/013_unidad_astronomica.md",
+    "size": 4776,
+    "sha256": "d9d8e477f81eb9a83c0c2056842b241cfa0f4d3bfc8631aa38b061312c7257fa"
+  },
+  {
+    "path": "06_sexto_basico/014_ano_luz.md",
+    "size": 4635,
+    "sha256": "c825201f2d5c2460fef05ac0369c6abc9441525b9ed9993302c58e971bf1fa89"
+  },
+  {
+    "path": "06_sexto_basico/015_distancia_y_tiempo_de_la_luz.md",
+    "size": 4831,
+    "sha256": "4a7e1bfa6524a46618b7df86ddfe89f3377562797c37f48d51608daf338a7a45"
+  },
+  {
+    "path": "06_sexto_basico/016_estrellas_y_constelaciones.md",
+    "size": 4810,
+    "sha256": "2568505baf4b8e9261b396be689bc80bf5130320250bee979bf39a1570af8867"
+  },
+  {
+    "path": "06_sexto_basico/017_nebulosas.md",
+    "size": 4708,
+    "sha256": "e0165f670cf89766c22e8a8e8837a15dfffed7ea0d60ab364913f38bd1cba5e5"
+  },
+  {
+    "path": "06_sexto_basico/018_cumulos_estelares.md",
+    "size": 4760,
+    "sha256": "00b709a383fc54a5ffeb30f887cf334ee97973dcb1292bcbe1f15d48fcf67e8e"
+  },
+  {
+    "path": "06_sexto_basico/019_galaxias.md",
+    "size": 4701,
+    "sha256": "9fc9aff5a9a322f62f74e63bf91a24b6d3a01f9cb42487871e5b65df0ab4166c"
+  },
+  {
+    "path": "06_sexto_basico/01_glosario_curso.md",
+    "size": 229,
+    "sha256": "1591b7a60f6f6ac2902a03ae81f3d1d4928a7fc19ae3a70f4331cb17f781bc06"
+  },
+  {
+    "path": "06_sexto_basico/020_via_lactea.md",
+    "size": 4723,
+    "sha256": "2b4ed0e0d0ce76b38646ed77c7e27960dcba23069fb44f7c30d60c863ca100aa"
+  },
+  {
+    "path": "06_sexto_basico/021_telescopios_opticos.md",
+    "size": 4782,
+    "sha256": "4321cd25e62a6e6d55bdd94ac447172132e3b515a5c80ee0f92a87ba78104fcd"
+  },
+  {
+    "path": "06_sexto_basico/022_radiotelescopios.md",
+    "size": 4759,
+    "sha256": "eafc40d5d349b9355b0e80909f27b658779a59ad83a8a69a595cfc13b2da86c3"
+  },
+  {
+    "path": "06_sexto_basico/023_astronomia_en_chile.md",
+    "size": 4782,
+    "sha256": "3bf75610a5ba6c281f983f0a316f494a48e4e23172c95dcbb81e07c13a3873ed"
+  },
+  {
+    "path": "06_sexto_basico/024_cielos_del_norte_de_chile.md",
+    "size": 4813,
+    "sha256": "080f71320d6abaa87e9ed2d65555928d04568f0021b50927a370c25802b99d8a"
+  },
+  {
+    "path": "06_sexto_basico/02_banco_preguntas.md",
+    "size": 3863,
+    "sha256": "d9aed2a8868adc2c0999fe7bd524f7127c159bbb1d2902a6f8c6f01024bba47a"
+  },
+  {
+    "path": "07_septimo_basico/001_estructuras_del_universo.md",
+    "size": 4807,
+    "sha256": "4373a14f63bf171b092562cd0090ff45fff0e9175cbc0ee4d49e4f3d317de9d3"
+  },
+  {
+    "path": "07_septimo_basico/002_sistema_planetario.md",
+    "size": 4766,
+    "sha256": "f8945f33da64805a72d8d44e9ac5d92853f80a55cf9379211768666b7eca99ab"
+  },
+  {
+    "path": "07_septimo_basico/003_estrellas.md",
+    "size": 4708,
+    "sha256": "d4d51676995a8fef6756257522ff4fbd6409928863f5c3a78d983a8f9aeec5ed"
+  },
+  {
+    "path": "07_septimo_basico/004_nebulosas.md",
+    "size": 4708,
+    "sha256": "e62182dd779c79c3ec775a2321eb88d03be91d2d5e1f2a7d93aea7341ec5d4e8"
+  },
+  {
+    "path": "07_septimo_basico/005_cumulos_estelares.md",
+    "size": 4760,
+    "sha256": "8018b6203557a6ac7af11e8720ca2b057bbb170a37c53f993fd541fcab4d64f4"
+  },
+  {
+    "path": "07_septimo_basico/006_galaxias.md",
+    "size": 4701,
+    "sha256": "db186dd5660ce90084a6a5d1951a8ddcbdbeea2df7612fb569f536fe7e53b259"
+  },
+  {
+    "path": "07_septimo_basico/007_cumulos_de_galaxias.md",
+    "size": 4772,
+    "sha256": "a223c10660efdcf4f0fc9d9d259464f7f7076cd5927874d27e89c380c0703e35"
+  },
+  {
+    "path": "07_septimo_basico/008_supercumulos.md",
+    "size": 4730,
+    "sha256": "3567f08976b92c70c04be39d019ad2a5aea4e6f8a17ecc6fd2bc6fef902f28e0"
+  },
+  {
+    "path": "07_septimo_basico/009_escala_del_universo_observable.md",
+    "size": 4843,
+    "sha256": "0419935b0335cc16c71cebe4173661121785aac8883592b2665e2dced7623593"
+  },
+  {
+    "path": "07_septimo_basico/00_indice_curso.md",
+    "size": 1761,
+    "sha256": "89125965f2b0fe35b7c2f88ff31cc7e0b983bace26ebf469b9555353103cbd3e"
+  },
+  {
+    "path": "07_septimo_basico/010_nacimiento_de_estrellas.md",
+    "size": 4792,
+    "sha256": "700e30cfc4fed30d69a9c99926b1bf2230f31825bd7eff0678c2ed2c5ad91408"
+  },
+  {
+    "path": "07_septimo_basico/011_evolucion_estelar_inicial.md",
+    "size": 4818,
+    "sha256": "102a9d42cc5b1a46b4a1f253d60249180ba4fd9e26a91978291873b6d27fd84f"
+  },
+  {
+    "path": "07_septimo_basico/012_gigantes_rojas.md",
+    "size": 4747,
+    "sha256": "80ce523f06a628844bd1ee3b3852b5e44220f65b6fd48277e7d4ee3168ecc6d5"
+  },
+  {
+    "path": "07_septimo_basico/013_enanas_blancas.md",
+    "size": 4747,
+    "sha256": "a37c0886ea07de0001232cc9dde3d697623115713a8d6fa246cdc654613044bc"
+  },
+  {
+    "path": "07_septimo_basico/014_supernovas.md",
+    "size": 4714,
+    "sha256": "a53175f978176850f19ccfa252a0691643b449298b70d316c4d5460cb213185a"
+  },
+  {
+    "path": "07_septimo_basico/015_estrellas_de_neutrones.md",
+    "size": 4786,
+    "sha256": "58f2854eb7b9344ca2e1e15293bf1d136f350645a0641e2b9319b4d3eefc662b"
+  },
+  {
+    "path": "07_septimo_basico/016_agujeros_negros_iniciales.md",
+    "size": 4813,
+    "sha256": "8c233ae8b1d215f021ac35a0a2c805506380c7d14e72429bc0dacb48c580307c"
+  },
+  {
+    "path": "07_septimo_basico/017_espectro_electromagnetico_y_astronomia.md",
+    "size": 4901,
+    "sha256": "6ebd5ed632688dc2aa8eabf4c2d5340003dbfa1e4341efa7ab446df456161537"
+  },
+  {
+    "path": "07_septimo_basico/018_luz_visible.md",
+    "size": 4729,
+    "sha256": "12579537a96d1ae82dc635cf26ed8b4c13c7d869da486ed882437b93cb70950c"
+  },
+  {
+    "path": "07_septimo_basico/019_ondas_de_radio.md",
+    "size": 4747,
+    "sha256": "bbda353eac69b171bcf624e49651153b0a80b5c4ab3134402dcbbc89efe364cc"
+  },
+  {
+    "path": "07_septimo_basico/01_glosario_curso.md",
+    "size": 229,
+    "sha256": "1591b7a60f6f6ac2902a03ae81f3d1d4928a7fc19ae3a70f4331cb17f781bc06"
+  },
+  {
+    "path": "07_septimo_basico/020_radiacion_infrarroja.md",
+    "size": 4788,
+    "sha256": "427b2a72239a2ed95b3b7f94b54cd35f1ca8dbdcb95eb259ec60383a42b4d626"
+  },
+  {
+    "path": "07_septimo_basico/021_radiacion_ultravioleta.md",
+    "size": 4800,
+    "sha256": "24152e3a55e963a623752646182aa00dafc688321dc34fc76b5d504e3b29e0b6"
+  },
+  {
+    "path": "07_septimo_basico/022_rayos_x_y_gamma.md",
+    "size": 4753,
+    "sha256": "0a3c428e5833109602977ae1041538390a33b2ca28ad252bd23b90db5888807a"
+  },
+  {
+    "path": "07_septimo_basico/023_instrumentos_astronomicos.md",
+    "size": 4818,
+    "sha256": "1ea8eead87cfb3ece4eb34abc5c896ca13366a6384ab1020188ac501b72015b0"
+  },
+  {
+    "path": "07_septimo_basico/024_preguntas_sobre_vida_extraterrestre.md",
+    "size": 4848,
+    "sha256": "962cb57d035823e177d407febfca003f78135e1b233b41fabea23bb5deaa5d90"
+  },
+  {
+    "path": "07_septimo_basico/02_banco_preguntas.md",
+    "size": 3849,
+    "sha256": "68f98087e2b1450538f7fd980d3c6492f47b85044fef6cafd067f596e7ea731d"
+  },
+  {
+    "path": "08_octavo_basico/001_gravedad_y_movimiento_orbital.md",
+    "size": 4879,
+    "sha256": "30b2f2b05b88d9673e8e4c30cbc9b5ca9406a117698789d30ee923bba24ce11e"
+  },
+  {
+    "path": "08_octavo_basico/002_leyes_de_kepler.md",
+    "size": 4753,
+    "sha256": "f69065034cf5f978811b010d2d2fe5e0798e907f54d8ff470a202450b5677fd1"
+  },
+  {
+    "path": "08_octavo_basico/003_ley_de_gravitacion_universal.md",
+    "size": 4836,
+    "sha256": "897c0b2dd4389a00beee529ad352720d162f278741ced2d28cc3e6de2fc17d8f"
+  },
+  {
+    "path": "08_octavo_basico/004_velocidad_de_escape.md",
+    "size": 4777,
+    "sha256": "4dd45c606feee332b00b624f1c2203aa5aefbe8d28da4fb2caf86c29b465fb93"
+  },
+  {
+    "path": "08_octavo_basico/005_satelites_y_orbitas.md",
+    "size": 4816,
+    "sha256": "662c083c497a0bfd9a695d1a61ea9adddfac40980dcfa1231882e42cd4a12729"
+  },
+  {
+    "path": "08_octavo_basico/006_orbita_geoestacionaria.md",
+    "size": 4827,
+    "sha256": "b3271bde58b2a986ba86e7725db0c3cb48402c810d1313745e104e5cc5f11947"
+  },
+  {
+    "path": "08_octavo_basico/007_microgravedad.md",
+    "size": 4783,
+    "sha256": "53b389787e869e5f093181d0a4cdf406675b8258549c10f023c5ecdab0e12758"
+  },
+  {
+    "path": "08_octavo_basico/008_mareas.md",
+    "size": 4692,
+    "sha256": "7570a96d601879ca70d6d0496079e861ed1598c6d83cb4655ce2ee333d0a5a2f"
+  },
+  {
+    "path": "08_octavo_basico/009_eclipses_y_planos_orbitales.md",
+    "size": 4805,
+    "sha256": "4436f457925c1a1b353a88cf74476662b068dbd8acf3ce1b70053dad45b78aeb"
+  },
+  {
+    "path": "08_octavo_basico/00_indice_curso.md",
+    "size": 1904,
+    "sha256": "7a375a73fc789b3c507e1185cd2ef83b90c4b3ad591b2bd950496bdbde00f026"
+  },
+  {
+    "path": "08_octavo_basico/010_libracion_lunar_inicial.md",
+    "size": 4799,
+    "sha256": "9a840434331bd6152dc6b4254af5a95b17715b10e3fd2ca2f09428a9d0f283ef"
+  },
+  {
+    "path": "08_octavo_basico/011_estructura_del_sol.md",
+    "size": 4756,
+    "sha256": "1f31356ca7df89e0d40f3298a42a31adafd75e96feb85d588458cf5e74af3029"
+  },
+  {
+    "path": "08_octavo_basico/012_fusion_nuclear_solar_inicial.md",
+    "size": 4821,
+    "sha256": "15c12f37c381ec20da4fdea606337f7aa1edb8f97b118f07adc0bf646eb604d1"
+  },
+  {
+    "path": "08_octavo_basico/013_actividad_solar.md",
+    "size": 4718,
+    "sha256": "800dff9dfbaad4467166bbd8ba66665764817e9402acad1538a647f47518ac63"
+  },
+  {
+    "path": "08_octavo_basico/014_manchas_solares.md",
+    "size": 4738,
+    "sha256": "10a421c8d804221c0c15a64fe2641ab0bcc0d86c037392f09ec45a8df9b13853"
+  },
+  {
+    "path": "08_octavo_basico/015_viento_solar.md",
+    "size": 4720,
+    "sha256": "871f4047c73f9b43eb018373655bb757ca0edd6921cc53c900462af8d91998c4"
+  },
+  {
+    "path": "08_octavo_basico/016_auroras.md",
+    "size": 4705,
+    "sha256": "2e8987fdc8465efc9c0b152b64c1e9e17a110bad20b544d744cd6ffe2aa0e12b"
+  },
+  {
+    "path": "08_octavo_basico/017_campo_magnetico_terrestre.md",
+    "size": 4818,
+    "sha256": "cdcc9238050d328da897844637fe94f886930aae5359292377af6ff44fb37a3f"
+  },
+  {
+    "path": "08_octavo_basico/018_clima_espacial.md",
+    "size": 4747,
+    "sha256": "56840496adddd8db482414ee36c48be6508d13027c90159977c80c4c0792934f"
+  },
+  {
+    "path": "08_octavo_basico/019_formacion_del_sistema_solar.md",
+    "size": 4815,
+    "sha256": "acfbca68f00eda72bc84cbbc087e69880175a11e6937c795fc86a48a7baa7204"
+  },
+  {
+    "path": "08_octavo_basico/01_glosario_curso.md",
+    "size": 229,
+    "sha256": "1591b7a60f6f6ac2902a03ae81f3d1d4928a7fc19ae3a70f4331cb17f781bc06"
+  },
+  {
+    "path": "08_octavo_basico/020_discos_protoplanetarios.md",
+    "size": 4796,
+    "sha256": "b9090ff6687529a3398a904bf769053e0a4045b9a3d135f4a33231fb792b0200"
+  },
+  {
+    "path": "08_octavo_basico/021_exoplanetas_iniciales.md",
+    "size": 4783,
+    "sha256": "fa7d4a4690bbcf52c431a87105bde03c5a4ef940ca033cc9cf95af171b8e13e0"
+  },
+  {
+    "path": "08_octavo_basico/022_metodo_de_transito.md",
+    "size": 4781,
+    "sha256": "32c058981a11fcbfca3e47f26ab6e82d6ba6a37153dcd48436c969f3a161dc4f"
+  },
+  {
+    "path": "08_octavo_basico/023_velocidad_radial_inicial.md",
+    "size": 4807,
+    "sha256": "7fd68660f6a2f6385d56812df34136b54e9d3e241b6926de6e499bbe76ac8061"
+  },
+  {
+    "path": "08_octavo_basico/024_zona_habitable.md",
+    "size": 4747,
+    "sha256": "97fa27887caefeb336d68b33b266c55058c229fc10e2d1106db4545b8011095c"
+  },
+  {
+    "path": "08_octavo_basico/025_busqueda_de_biofirmas_inicial.md",
+    "size": 4836,
+    "sha256": "c802caf28ae3e5175b4eaaf1f82111061259c362a4245baddc0fb9298af1115f"
+  },
+  {
+    "path": "08_octavo_basico/026_basura_espacial.md",
+    "size": 4754,
+    "sha256": "21ecd0a07c1c7bcac61af4284d8f21dd56a79b026a787123f6a18e760fb307d4"
+  },
+  {
+    "path": "08_octavo_basico/02_banco_preguntas.md",
+    "size": 4178,
+    "sha256": "2652841e62c1dc79094e03667d6670c6a2680d9247c6cc0553b8d6f80f3f9508"
+  },
+  {
+    "path": "09_primero_medio/001_sistema_tierra_luna.md",
+    "size": 4765,
+    "sha256": "d9e07de23441d81377900b8bb1071ccf4b07f37135c94b77b2e46110c46dd027"
+  },
+  {
+    "path": "09_primero_medio/002_fases_lunares_y_geometria.md",
+    "size": 4793,
+    "sha256": "6d0f6e6137fb46e23df52c447365e1578e4098d09306150d298982ac17cd470f"
+  },
+  {
+    "path": "09_primero_medio/003_eclipses_solares_y_lunares.md",
+    "size": 4786,
+    "sha256": "d9571854084562367784dc44fb9d6422e46aefbfbfb0ad87419ca533cf207559"
+  },
+  {
+    "path": "09_primero_medio/004_estaciones_y_orbita_terrestre.md",
+    "size": 4864,
+    "sha256": "4295ef7a691a491e449f3de4ffd69111d30a141d2a81e8e315cd674390c9fdbf"
+  },
+  {
+    "path": "09_primero_medio/005_comparacion_de_planetas.md",
+    "size": 4796,
+    "sha256": "69f57230d235c388e4cddf6b5f1a488e335426de5321227ca3442747c0aeb88c"
+  },
+  {
+    "path": "09_primero_medio/006_atmosferas_planetarias.md",
+    "size": 4790,
+    "sha256": "cdd71a14a10db84b883de38d3d05c6f823560d2b5f4371845c3dfc283e6f9b65"
+  },
+  {
+    "path": "09_primero_medio/007_periodos_orbitales.md",
+    "size": 4771,
+    "sha256": "45f36caecd89c5851d446b73720c82c01417b7722bb8a2b28f58a44787f6fb4e"
+  },
+  {
+    "path": "09_primero_medio/008_tamanos_y_densidades_planetarias.md",
+    "size": 4850,
+    "sha256": "181a88def700c59fc3b80dde50520d8ac65647ac2d9c4db6abf281f3606b7218"
+  },
+  {
+    "path": "09_primero_medio/009_estructuras_cosmicas.md",
+    "size": 4783,
+    "sha256": "971791927478db5e7cadc15a5486f55d8dbd9252c944dda51cd96f6d760d1531"
+  },
+  {
+    "path": "09_primero_medio/00_indice_curso.md",
+    "size": 2218,
+    "sha256": "fc1a63ab3742d66b460567448b28e0e1a99f47220ffe378fa03fd65f4a991982"
+  },
+  {
+    "path": "09_primero_medio/010_micrometeoroides.md",
+    "size": 4749,
+    "sha256": "7cbf7670d5c8cf982704cdc199a12a00652c5231631dc241512aac19c53f5df2"
+  },
+  {
+    "path": "09_primero_medio/011_asteroides_y_cometas.md",
+    "size": 4773,
+    "sha256": "c2bc3ef21636ff081c7c8fea6fa71c1fd0533e4add18966fe3d2ed65efd94356"
+  },
+  {
+    "path": "09_primero_medio/012_estrellas.md",
+    "size": 4703,
+    "sha256": "03fa02b2234a009aa47399b9fbb9f12af3564e1871ec57e6ac48c4aa29dfa800"
+  },
+  {
+    "path": "09_primero_medio/013_nebulosas.md",
+    "size": 4703,
+    "sha256": "e8d56b4bc583b73abc444dbba41b5765b15aad9e58bfc9f2158291a8540fbd29"
+  },
+  {
+    "path": "09_primero_medio/014_cumulos_estelares.md",
+    "size": 4755,
+    "sha256": "62676ab53d619556b569c2fd79d45cf258eedd3b4273d7dcdd8d3a9b9cd2dd85"
+  },
+  {
+    "path": "09_primero_medio/015_galaxias.md",
+    "size": 4696,
+    "sha256": "ab7b28ff98a6e400861f36061060120c970251ee5364dd648e6543863bc94c2f"
+  },
+  {
+    "path": "09_primero_medio/016_cumulos_y_supercumulos.md",
+    "size": 4790,
+    "sha256": "9fdd9e693e677e4c7cee8a3868446f67d8bb3150d378d72fd17f67a406d4b070"
+  },
+  {
+    "path": "09_primero_medio/017_evolucion_del_universo_inicial.md",
+    "size": 4843,
+    "sha256": "b7aae6e986623ad352fc99d78c50a3b28534df314b2dbec355d65e25e72bd5f7"
+  },
+  {
+    "path": "09_primero_medio/018_teoria_del_big_bang.md",
+    "size": 4769,
+    "sha256": "93181150e95904deebca535e97a5f880ea1d2ff28e305335034c5b3f8e27a6d8"
+  },
+  {
+    "path": "09_primero_medio/019_expansion_del_universo.md",
+    "size": 4787,
+    "sha256": "4b278679acfb47decf84caf8cac005648a08d2ecc5bdc39659a3092198b06e5e"
+  },
+  {
+    "path": "09_primero_medio/01_glosario_curso.md",
+    "size": 229,
+    "sha256": "1591b7a60f6f6ac2902a03ae81f3d1d4928a7fc19ae3a70f4331cb17f781bc06"
+  },
+  {
+    "path": "09_primero_medio/020_radiacion_cosmica_de_fondo_inicial.md",
+    "size": 4864,
+    "sha256": "6c9280ed88c818fd952191be0b9670cdac02b5aa4e73520bf72324458c855e00"
+  },
+  {
+    "path": "09_primero_medio/021_investigacion_astronomica_en_chile.md",
+    "size": 4872,
+    "sha256": "5033c3796b66414df89035f0f7e8891ace07d3bde927daefc05816c4bca7ba04"
+  },
+  {
+    "path": "09_primero_medio/022_telescopios_opticos.md",
+    "size": 4777,
+    "sha256": "87fd05644dd111f9f02f1a5b4586b0cd0e91ecac5860f4a17d095da21d06c56b"
+  },
+  {
+    "path": "09_primero_medio/023_radiotelescopios.md",
+    "size": 4754,
+    "sha256": "13d153b85caa778b2857ce66c367f231a47875168dce76850ad473d35da08c5f"
+  },
+  {
+    "path": "09_primero_medio/024_espectroscopia_astronomica.md",
+    "size": 4824,
+    "sha256": "2a5c3c837abc71aa7898870ad86bd435681b532dd1a363ee6e7ccc3fa945f16e"
+  },
+  {
+    "path": "09_primero_medio/025_alma.md",
+    "size": 4682,
+    "sha256": "158839a8c7a0335d679446cd535a37ec0226661913a6f297dbfb946e6d01d9d7"
+  },
+  {
+    "path": "09_primero_medio/026_observatorios_del_norte_de_chile.md",
+    "size": 4850,
+    "sha256": "370b4104973f4fadb96472455f7664acc2893957721bb1e156f9a9d0614e077d"
+  },
+  {
+    "path": "09_primero_medio/027_aportes_de_astronomas_y_astronomos_chilenos.md",
+    "size": 4925,
+    "sha256": "b180b8a17f900f8049a0e7abdc124980a4488880846f1d5e2859031d82a9ccbd"
+  },
+  {
+    "path": "09_primero_medio/028_modelos_historicos_del_cosmos.md",
+    "size": 4837,
+    "sha256": "2ac316ea8068a7a81d925c98dca5842436519a8a9d3cf60ce8ac607f136c75ce"
+  },
+  {
+    "path": "09_primero_medio/02_banco_preguntas.md",
+    "size": 4587,
+    "sha256": "787dfe84c600271f7cca75d76eff8570c4e8e7d8259054a5b1b71a1cf79e357c"
+  },
+  {
+    "path": "10_segundo_medio/001_mecanica_orbital.md",
+    "size": 4758,
+    "sha256": "ade6bd9769aa2dda6ae0dba1271016857ceb9e827d87778517952cb37a53ec96"
+  },
+  {
+    "path": "10_segundo_medio/002_gravitacion_universal_aplicada.md",
+    "size": 4842,
+    "sha256": "168b3e38e125a6acf03f0c5c008374f642c54d09733fb6b0a51b49600ff5d48d"
+  },
+  {
+    "path": "10_segundo_medio/003_orbitas_circulares_y_elipticas.md",
+    "size": 4874,
+    "sha256": "c6f9a1dc83a7a1bb43eb5e6ae892057cefe68b4356aaaffa2706e64ece107bf0"
+  },
+  {
+    "path": "10_segundo_medio/004_energia_orbital.md",
+    "size": 4752,
+    "sha256": "a2987fe97e456187735ec05d546ed482683415864b287be58c4f7d0597dc7893"
+  },
+  {
+    "path": "10_segundo_medio/005_velocidad_de_escape.md",
+    "size": 4771,
+    "sha256": "8a890ed21e5ceed795a1b0939f717f8a3f9ead6b2baaec41da237bd2a60448d1"
+  },
+  {
+    "path": "10_segundo_medio/006_transferencias_orbitales_iniciales.md",
+    "size": 4861,
+    "sha256": "cc689b2c731682d464d661b8cc9f68f15b248feb0b4feeed90b1c20b722a0ffa"
+  },
+  {
+    "path": "10_segundo_medio/007_satelites_de_comunicaciones.md",
+    "size": 4826,
+    "sha256": "d3b83ea52e071239e4d1b26fcfa1edefc9af19bc92b1b9b2e2fd2101e7a1a61c"
+  },
+  {
+    "path": "10_segundo_medio/008_satelites_meteorologicos.md",
+    "size": 4806,
+    "sha256": "507a93e9cf99981c1b0c03564e975631b8f7157ba1760632743991a43959dcce"
+  },
+  {
+    "path": "10_segundo_medio/009_sistemas_de_navegacion_por_satelite.md",
+    "size": 4879,
+    "sha256": "111f77a800ead0561bf6b21cae35f72f1dec55e2d7e53efaecd9047b9f182581"
+  },
+  {
+    "path": "10_segundo_medio/00_indice_curso.md",
+    "size": 2505,
+    "sha256": "d5717be8992e5ee6869076bf460757ddff9f5320cf0d1d1e7791c1b57e365e5e"
+  },
+  {
+    "path": "10_segundo_medio/010_teledeteccion_terrestre.md",
+    "size": 4800,
+    "sha256": "d9113b6f97976d91700b410976808511d4742600ad53021cf3801e8aee5dea05"
+  },
+  {
+    "path": "10_segundo_medio/011_cohetes_y_propulsion_inicial.md",
+    "size": 4832,
+    "sha256": "5ebe4a6dc5ec3fc581301a2dfb6c7756e59829944c5f224c0828e7d70acf9e78"
+  },
+  {
+    "path": "10_segundo_medio/012_etapas_de_un_lanzamiento.md",
+    "size": 4801,
+    "sha256": "27f1c6062be22d6e401f9b85ecdea6f4fb4342ef2efcb692771993b6988c40de"
+  },
+  {
+    "path": "10_segundo_medio/013_microgravedad_y_cuerpo_humano.md",
+    "size": 4873,
+    "sha256": "8c2f30311f62315367fc657d750c2a8717dcdfccfd807d8c13b88ecf6224e0a7"
+  },
+  {
+    "path": "10_segundo_medio/014_vida_en_estaciones_espaciales.md",
+    "size": 4806,
+    "sha256": "71b5bcbc1e2c75db69522c81a07532749852b2fa58b1704153ae6dddbfe1937d"
+  },
+  {
+    "path": "10_segundo_medio/015_radiacion_espacial.md",
+    "size": 4770,
+    "sha256": "1aa75224df1b221c0e8a9b14ba7e23e745713f3eca790f105fee2fe497afdd85"
+  },
+  {
+    "path": "10_segundo_medio/016_exploracion_lunar.md",
+    "size": 4756,
+    "sha256": "af1220ed932c204ac7bd53d4d48244aada394077b28524c46257930c84390d7a"
+  },
+  {
+    "path": "10_segundo_medio/017_exploracion_de_marte.md",
+    "size": 4783,
+    "sha256": "f4a4e4db880307ea60f92b0935535519170492ade34c5a7666a6b97e5c292b3b"
+  },
+  {
+    "path": "10_segundo_medio/018_sondas_a_planetas_exteriores.md",
+    "size": 4820,
+    "sha256": "4df95633ac24df09fa3a86f7abc316ccd2de78bfd58487bbc76d43e750b9dd8b"
+  },
+  {
+    "path": "10_segundo_medio/019_misiones_a_asteroides_y_cometas.md",
+    "size": 4838,
+    "sha256": "78b0d3a9e4c984e11016ece7b1089411004a282c4466b06271d2f5a34b100855"
+  },
+  {
+    "path": "10_segundo_medio/01_glosario_curso.md",
+    "size": 229,
+    "sha256": "1591b7a60f6f6ac2902a03ae81f3d1d4928a7fc19ae3a70f4331cb17f781bc06"
+  },
+  {
+    "path": "10_segundo_medio/020_telescopios_espaciales.md",
+    "size": 4789,
+    "sha256": "8c7731dc2ce41a153fc0ad4029fe5035c0fa85fbb92231950cdc92e3b0ba7e12"
+  },
+  {
+    "path": "10_segundo_medio/021_espectros_y_composicion_estelar.md",
+    "size": 4848,
+    "sha256": "9db5cd3f0baa1c9e2d2f0458f9dc59a4f988add968b0a2f925cd7902a60c5dca"
+  },
+  {
+    "path": "10_segundo_medio/022_diagrama_hertzsprung_russell_inicial.md",
+    "size": 4864,
+    "sha256": "9c8c65c662eabf90170032fa15e84449c46a10708b2447759d516cae763058af"
+  },
+  {
+    "path": "10_segundo_medio/023_evolucion_estelar.md",
+    "size": 4764,
+    "sha256": "1fe05d559d8eaca43e4879f641e98637d451ac9451e4fdebd264c6ba89b87a04"
+  },
+  {
+    "path": "10_segundo_medio/024_supernovas.md",
+    "size": 4708,
+    "sha256": "1bd68e200b08e6c98df401ce4dc23948d2c0fc54247448c1666b49b71c46a635"
+  },
+  {
+    "path": "10_segundo_medio/025_estrellas_de_neutrones.md",
+    "size": 4780,
+    "sha256": "96f731637495ecf15695219e083f60c1bf6569987f4e178cb893df9fe00c3356"
+  },
+  {
+    "path": "10_segundo_medio/026_pulsares.md",
+    "size": 4701,
+    "sha256": "6b654289cc72b2547488d8ab04239fb3ed78ea5eb993801ac571390c8545bcfc"
+  },
+  {
+    "path": "10_segundo_medio/027_agujeros_negros.md",
+    "size": 4747,
+    "sha256": "b10897ba601139c34b2c56bcc2b9341552774470b9265167b43fb753cb29d244"
+  },
+  {
+    "path": "10_segundo_medio/028_ondas_gravitacionales_iniciales.md",
+    "size": 4843,
+    "sha256": "e9d0891cb151a64a78bcfac54cf78f89802e4ac576185419f1bcd6bafa70ab4f"
+  },
+  {
+    "path": "10_segundo_medio/029_exoplanetas.md",
+    "size": 4717,
+    "sha256": "a49af5ee59892155521858aec267523949fd351e023fbc698c0355d90ed79a68"
+  },
+  {
+    "path": "10_segundo_medio/02_banco_preguntas.md",
+    "size": 4941,
+    "sha256": "76ab9b59534d845c4e1d7a5eaefaee653504d5f08319ca574e529e76e126699a"
+  },
+  {
+    "path": "10_segundo_medio/030_astrobiologia_inicial.md",
+    "size": 4763,
+    "sha256": "2cae6bd24fe004d4447dde09e8d987094beeaad7354025fcb4914c7bf33f5a10"
+  },
+  {
+    "path": "11_tercero_medio/001_relatividad_especial_conceptual.md",
+    "size": 4828,
+    "sha256": "fb141efbb3fe98a6a5116a1b3309b7cb1b3e47ad610f9f3c5e032409fc487ea7"
+  },
+  {
+    "path": "11_tercero_medio/002_espacio_y_tiempo.md",
+    "size": 4763,
+    "sha256": "2d380692539a4f1c935636943fa7716e076f99434c73f47de38be80efa50397e"
+  },
+  {
+    "path": "11_tercero_medio/003_velocidad_de_la_luz.md",
+    "size": 4781,
+    "sha256": "be518397388af12558df75bb66513b9db9f4c1ea699963ef9c5e492d9d72b115"
+  },
+  {
+    "path": "11_tercero_medio/004_dilatacion_temporal.md",
+    "size": 4786,
+    "sha256": "deebe135da57fd71600510d65f466a3839dab2e8403f652761a2f790693cf36a"
+  },
+  {
+    "path": "11_tercero_medio/005_contraccion_de_longitudes.md",
+    "size": 4822,
+    "sha256": "e2a3b38f1e52418f35fd27754a9a9ecc0cafc219f075e394605b3b90d3020cd6"
+  },
+  {
+    "path": "11_tercero_medio/006_equivalencia_masa_energia.md",
+    "size": 4822,
+    "sha256": "ad2d0fb5f2753cc10330b77824964aad98e1a0018b554c52b0cacfc4eb3ae560"
+  },
+  {
+    "path": "11_tercero_medio/007_relatividad_general_conceptual.md",
+    "size": 4822,
+    "sha256": "999c5bfda569fc9ac1edc9db148681589d8b6c184d1c81598e05f3f6375ca4bf"
+  },
+  {
+    "path": "11_tercero_medio/008_curvatura_del_espacio_tiempo.md",
+    "size": 4835,
+    "sha256": "f472fe4a149f68e91c4f3617df1d8dac91ad1a742eaf2505e64a3d3e98c96bc8"
+  },
+  {
+    "path": "11_tercero_medio/009_lentes_gravitacionales.md",
+    "size": 4799,
+    "sha256": "b0e2e4a286b244af359d509cd8ad9aac7ffa1989ee5d66a81a8347cc79b7dac3"
+  },
+  {
+    "path": "11_tercero_medio/00_indice_curso.md",
+    "size": 2567,
+    "sha256": "ca7f0d913b3d3aac2384dbf013aabeca236fd50e2224ba0e92728713ec5aec30"
+  },
+  {
+    "path": "11_tercero_medio/010_agujeros_negros_y_horizonte_de_sucesos.md",
+    "size": 4892,
+    "sha256": "18645d003b6ab2d27e52aab75219aa8d78e6194b2a2ade4563f3becb0c333204"
+  },
+  {
+    "path": "11_tercero_medio/011_discos_de_acrecion.md",
+    "size": 4777,
+    "sha256": "22d9c955d05b8fcb48f7cf0869cf8a023f2f844baa2c7ee5cd6fb49285d1d50a"
+  },
+  {
+    "path": "11_tercero_medio/012_radiacion_de_hawking_como_hipotesis_teorica.md",
+    "size": 4937,
+    "sha256": "97597574277436dc08d9e207371c149e952eb3c318511699b4a7eed778903749"
+  },
+  {
+    "path": "11_tercero_medio/013_ondas_gravitacionales.md",
+    "size": 4793,
+    "sha256": "f5d92203bc8b944d019bed247d829a84e35754e238e4c952db3ffdd9834a2e40"
+  },
+  {
+    "path": "11_tercero_medio/014_detectores_de_ondas_gravitacionales.md",
+    "size": 4877,
+    "sha256": "1b9365c3e56c534f405c6669724dfedd7468b7b40c04cdb7fc0a341f5e25a7bf"
+  },
+  {
+    "path": "11_tercero_medio/015_cosmologia_moderna.md",
+    "size": 4772,
+    "sha256": "f23dc7592681813a0b7708183cc09a49c8378c5ee3ae96d56f8904e43736f069"
+  },
+  {
+    "path": "11_tercero_medio/016_expansion_acelerada.md",
+    "size": 4778,
+    "sha256": "3749b02171827036811d3daa1997c9dbb85a6d5b18a286c2e942a3c54deae656"
+  },
+  {
+    "path": "11_tercero_medio/017_materia_oscura.md",
+    "size": 4743,
+    "sha256": "cf0c27d499cbdcf0c2f35a31a15a293a4277d437505ad36d68493e8e85e4bc2b"
+  },
+  {
+    "path": "11_tercero_medio/018_energia_oscura.md",
+    "size": 4748,
+    "sha256": "b512c8c999c98f331d36041374ab3513ca44c521a50e5522e13fa273d30f37e7"
+  },
+  {
+    "path": "11_tercero_medio/019_formacion_de_galaxias.md",
+    "size": 4788,
+    "sha256": "8ec74a792d78d8d699ecf6f45cf505b7220afc2f4f72164f7434005228b580df"
+  },
+  {
+    "path": "11_tercero_medio/01_glosario_curso.md",
+    "size": 229,
+    "sha256": "1591b7a60f6f6ac2902a03ae81f3d1d4928a7fc19ae3a70f4331cb17f781bc06"
+  },
+  {
+    "path": "11_tercero_medio/020_estructura_a_gran_escala.md",
+    "size": 4811,
+    "sha256": "408f624f704d66b7dbb30e5b5f028abdcafe93f2bee837451d88f2ba3388b060"
+  },
+  {
+    "path": "11_tercero_medio/021_big_bang_y_evidencias.md",
+    "size": 4785,
+    "sha256": "b04f58caa5cd6dceca113b33819557dac91b4252843960c7309b448e31fb7221"
+  },
+  {
+    "path": "11_tercero_medio/022_nucleosintesis_primordial_inicial.md",
+    "size": 4870,
+    "sha256": "0f6fdd0171f9802b5aa5204d27c107d3817d0748d28d7c21da112c7c40d5faba"
+  },
+  {
+    "path": "11_tercero_medio/023_radiacion_cosmica_de_fondo.md",
+    "size": 4825,
+    "sha256": "cf130457ac865d2d46cc9bea91c14fa26c84af32fbaea91a182ce8607ddf6124"
+  },
+  {
+    "path": "11_tercero_medio/024_edad_del_universo.md",
+    "size": 4769,
+    "sha256": "8d63080663ced2ed76aa741dbf354d97a4d1a4ad0561474a2b0c219a82a7ff5a"
+  },
+  {
+    "path": "11_tercero_medio/025_exoplanetas_y_habitabilidad.md",
+    "size": 4823,
+    "sha256": "08587780ecea9759e15dff91b4775dfdf6194d809a644f2476df3649610b31ce"
+  },
+  {
+    "path": "11_tercero_medio/026_biofirmas.md",
+    "size": 4715,
+    "sha256": "b9a90a5a3bc16f0a3a9ffa2bca23520f9af638390199f5be8a0105cfd097beac"
+  },
+  {
+    "path": "11_tercero_medio/027_ecuacion_de_drake_como_modelo.md",
+    "size": 4846,
+    "sha256": "c8a8ed01cddbe58f41726d9fa9bfc430a87924d3c3622912d62a963becf75f6b"
+  },
+  {
+    "path": "11_tercero_medio/028_paradoja_de_fermi_como_pregunta.md",
+    "size": 4853,
+    "sha256": "8bbd3bebcaf6c4ce8e088398342997a886aa5055f1ad62c131695965a23db580"
+  },
+  {
+    "path": "11_tercero_medio/029_etica_de_la_exploracion_espacial.md",
+    "size": 4870,
+    "sha256": "889420a97cefdf58c7abdc3727394ed5f258530b307812d2a3e03567836a9082"
+  },
+  {
+    "path": "11_tercero_medio/02_banco_preguntas.md",
+    "size": 4982,
+    "sha256": "edfdee4e86c8fbb1106b5bcc5dc4a8e8d9bfa8f8a293cd60214704949dd7258c"
+  },
+  {
+    "path": "11_tercero_medio/030_proyecto_de_investigacion_astronomica.md",
+    "size": 4899,
+    "sha256": "3016686ce20759c862766eae1e9b98cffc70d9ca837bc4afa401761b28fcf705"
+  },
+  {
+    "path": "12_cuarto_medio/001_cosmologia_observacional.md",
+    "size": 4808,
+    "sha256": "9111add129ca9753d3e6278a9714405719a229c7c79ff7148ed54b30715c31ed"
+  },
+  {
+    "path": "12_cuarto_medio/002_ley_de_hubble_lema_tre.md",
+    "size": 4796,
+    "sha256": "fd4f5410a86de112538ea6ce82102e74aee85d6948d4bfcf315607495f1f54fa"
+  },
+  {
+    "path": "12_cuarto_medio/003_corrimiento_al_rojo.md",
+    "size": 4781,
+    "sha256": "28031df2fc05c3448a7b18919f1d7216b03beb3f65a67ca752d9e831524f654a"
+  },
+  {
+    "path": "12_cuarto_medio/004_escalera_de_distancias_cosmicas.md",
+    "size": 4858,
+    "sha256": "a9555b6fb5a11cefc473006d08cb5bdc6d187c727e8a66ca8ec6b1864e24f8be"
+  },
+  {
+    "path": "12_cuarto_medio/005_cefeidas.md",
+    "size": 4715,
+    "sha256": "6a5acad90f7116761177da369b934db2e5d3c210f88e9d1e5c4bc4c7a0c38b52"
+  },
+  {
+    "path": "12_cuarto_medio/006_supernovas_tipo_ia.md",
+    "size": 4766,
+    "sha256": "6955ed4b7728b51f67b3c6976531d0b24de3277a396fcdd67f82da15cea59d8c"
+  },
+  {
+    "path": "12_cuarto_medio/007_radiacion_cosmica_de_fondo.md",
+    "size": 4825,
+    "sha256": "38f21248544ded7ce634dc5fd7ec93c4820cb30ebcaa5967191839044c86e608"
+  },
+  {
+    "path": "12_cuarto_medio/008_inflacion_cosmica_inicial.md",
+    "size": 4819,
+    "sha256": "a5e76281d24c47a38d694f9bec6a036d2c0245f33ee0e1fc828ea3f833faf67b"
+  },
+  {
+    "path": "12_cuarto_medio/009_materia_oscura_evidencias.md",
+    "size": 4814,
+    "sha256": "742e5f4335233bacbce964da817ffb6341dd705bfad1cda67f65e8e7d9ef624e"
+  },
+  {
+    "path": "12_cuarto_medio/00_indice_curso.md",
+    "size": 2584,
+    "sha256": "52aea1d49f7b8f1b53075cdeb76eb0d38018a88f40f0e89c542623eb7cae42ba"
+  },
+  {
+    "path": "12_cuarto_medio/010_energia_oscura_evidencias.md",
+    "size": 4819,
+    "sha256": "e32f98ce090a60e4c1620719451b521e74aa6607133953ec8fdc2861e1aa5945"
+  },
+  {
+    "path": "12_cuarto_medio/011_destino_posible_del_universo.md",
+    "size": 4835,
+    "sha256": "3eb59abc00492e39526dada16e19fc862394be12523755565cd54441d3e07e5d"
+  },
+  {
+    "path": "12_cuarto_medio/012_agujeros_negros_estelares.md",
+    "size": 4817,
+    "sha256": "cdd7280515143a6dcfcbbae6c2734c31f5c28334f1b03183e2bbb624be0e2d61"
+  },
+  {
+    "path": "12_cuarto_medio/013_agujeros_negros_supermasivos.md",
+    "size": 4835,
+    "sha256": "299a13c9aa60c463c3f5c3a5ac90606b4baa1d1839847c6062f802f5110359a3"
+  },
+  {
+    "path": "12_cuarto_medio/014_fusion_de_agujeros_negros.md",
+    "size": 4822,
+    "sha256": "21a9697bee36e8329645b8248d44ac4dba5c9180cddff08318aa2b8c7715902d"
+  },
+  {
+    "path": "12_cuarto_medio/015_informacion_y_agujeros_negros.md",
+    "size": 4846,
+    "sha256": "38f4405c86e318d30342c96b0964df04688db3b8d20eeb2373b43d72999eb84e"
+  },
+  {
+    "path": "12_cuarto_medio/016_galaxias_activas_y_cuasares.md",
+    "size": 4824,
+    "sha256": "413b06e18d0d511b69c637b087241367ca42620feabbe890c28b395489d3d4a9"
+  },
+  {
+    "path": "12_cuarto_medio/017_formacion_y_evolucion_de_galaxias.md",
+    "size": 4865,
+    "sha256": "baf74501491eb9300047c1a5d90a7a92f25ae15b88763418c39fbef3a93773f5"
+  },
+  {
+    "path": "12_cuarto_medio/018_medio_interestelar.md",
+    "size": 4775,
+    "sha256": "f33ea2aa1c87f6a43625152b6c30a53eb9ac128343e833b7e95687d38e7405d3"
+  },
+  {
+    "path": "12_cuarto_medio/019_quimica_del_universo.md",
+    "size": 4792,
+    "sha256": "9f2a4a8ee7fec54de1d3b29becbed6f0be2d9e79e47332eecc0ab90e549515c2"
+  },
+  {
+    "path": "12_cuarto_medio/01_glosario_curso.md",
+    "size": 229,
+    "sha256": "1591b7a60f6f6ac2902a03ae81f3d1d4928a7fc19ae3a70f4331cb17f781bc06"
+  },
+  {
+    "path": "12_cuarto_medio/020_origen_de_elementos_quimicos.md",
+    "size": 4840,
+    "sha256": "294f6416c28950c6b893f5e51ad5e2cef2b5775b1ab8af3c8e66c332022c8a21"
+  },
+  {
+    "path": "12_cuarto_medio/021_astrobiologia_avanzada.md",
+    "size": 4779,
+    "sha256": "db99d3ac5e088f537df8aec16f75babafa82fe35e68685f3fbbe241c8f48523d"
+  },
+  {
+    "path": "12_cuarto_medio/022_habitabilidad_planetaria.md",
+    "size": 4806,
+    "sha256": "7a8fcdf861ee8f1f3e3696eca2b2af78fb74cecae1efcf3ce00aaf801d61064f"
+  },
+  {
+    "path": "12_cuarto_medio/023_extremofilos_y_analogias.md",
+    "size": 4821,
+    "sha256": "83cfb52a239268efc75a87c3a0a681854be89f436aba92ff3f0f3e1604ce32d4"
+  },
+  {
+    "path": "12_cuarto_medio/024_oceanos_subterraneos_en_lunas.md",
+    "size": 4844,
+    "sha256": "3bff8af41ff6be02c721c27e53313c45c4a4a4afb03f10afc52a5304ceb94900"
+  },
+  {
+    "path": "12_cuarto_medio/025_seti_y_tecnofirmas.md",
+    "size": 4769,
+    "sha256": "37ffe3730ba8de7b951d805c430a50d2adc883d6445c47dd4088937e86778a0a"
+  },
+  {
+    "path": "12_cuarto_medio/026_proteccion_planetaria.md",
+    "size": 4793,
+    "sha256": "aeb502668b373f31e32992839cf9c2c01f3f2e8818ac78b0131065ea1126bb7f"
+  },
+  {
+    "path": "12_cuarto_medio/027_derecho_y_gobernanza_espacial.md",
+    "size": 4840,
+    "sha256": "ba8bb151bf79dfb4b57dd6a094952c6378f0014d5da0ff64c13caf2223575bfc"
+  },
+  {
+    "path": "12_cuarto_medio/028_basura_espacial_y_sostenibilidad_orbital.md",
+    "size": 4908,
+    "sha256": "6a0204ceb85fff0626e9fd78621ec4fc0f5057c138fd2ff5d1d0e09a7dcc7d32"
+  },
+  {
+    "path": "12_cuarto_medio/029_mineria_espacial_y_etica.md",
+    "size": 4822,
+    "sha256": "87a3afa695f61f967159582fb30f6b1ed6405dcf63a91c496cf1e9c6c9ab14dc"
+  },
+  {
+    "path": "12_cuarto_medio/02_banco_preguntas.md",
+    "size": 5001,
+    "sha256": "79811c6526a4e4978b7c88b84930df51c332a960f8d48ec7fb952be779cd659d"
+  },
+  {
+    "path": "12_cuarto_medio/030_proyecto_final_sobre_universo_y_sociedad.md",
+    "size": 4907,
+    "sha256": "acffa19cc9d45413c9e762df90405db1796ec68f6a993499c2aa15c6dfe023a8"
+  },
+  {
+    "path": "13_tematicos_transversales/001_que_estudia_la_astronomia.md",
+    "size": 4866,
+    "sha256": "42bd9b1567cd2d1876dd47e3da60eb7343d49d674bc3be7ff6d0d189ae1f9717"
+  },
+  {
+    "path": "13_tematicos_transversales/002_el_cielo_observable.md",
+    "size": 4820,
+    "sha256": "fb702acd0808624ace9b39b957511b33518667df20c1c740865bc986061de5ef"
+  },
+  {
+    "path": "13_tematicos_transversales/003_sistema_solar.md",
+    "size": 4769,
+    "sha256": "7e64f99ba032c88b57d5e528722955f5d11342d021464d2103dd608e8a816e72"
+  },
+  {
+    "path": "13_tematicos_transversales/004_el_sol.md",
+    "size": 4727,
+    "sha256": "a4bd75d919911ec3afdb55bb501fb3c1ae282a96c38f1b1a76ed258fe5386c43"
+  },
+  {
+    "path": "13_tematicos_transversales/005_la_luna.md",
+    "size": 4741,
+    "sha256": "78e1f2b4c36411bc6f8696165abbac22bf41821ea94bb73a305b17f2f6b62175"
+  },
+  {
+    "path": "13_tematicos_transversales/006_planetas.md",
+    "size": 4749,
+    "sha256": "8f00711bfefebe239c4c13a5a80b2e8069444dc137095f395623a78bc45beb77"
+  },
+  {
+    "path": "13_tematicos_transversales/007_planetas_enanos.md",
+    "size": 4791,
+    "sha256": "fedb9795bdad0b024dd988d2fe176265c531b5347950c27f7624e48ff3c47316"
+  },
+  {
+    "path": "13_tematicos_transversales/008_asteroides_cometas_y_meteoritos.md",
+    "size": 4887,
+    "sha256": "cb4de27a8525ac555880278cba6c63b5ce9aaf5afdcc554e748786800d34e0c9"
+  },
+  {
+    "path": "13_tematicos_transversales/009_gravedad.md",
+    "size": 4796,
+    "sha256": "522fcea467a5a3ca4ed14906ccbb979c04e599637b7f0788bc1aa8d640e4a06e"
+  },
+  {
+    "path": "13_tematicos_transversales/010_orbitas.md",
+    "size": 4780,
+    "sha256": "2334ee9ca60a30a0a909aba6eb11468b9ac37afb107ebc23e48212b0087d8240"
+  },
+  {
+    "path": "13_tematicos_transversales/011_fases_lunares.md",
+    "size": 4764,
+    "sha256": "7ba3167d102dce3c5d0d2f388a86a25bb42f12dbc500282282350f577dc25b4f"
+  },
+  {
+    "path": "13_tematicos_transversales/012_eclipses.md",
+    "size": 4734,
+    "sha256": "080758b5d69b813000f011abec82a3bdfbb461e468982c1e8dc42b1d555e8486"
+  },
+  {
+    "path": "13_tematicos_transversales/013_satelites_naturales_y_artificiales.md",
+    "size": 4917,
+    "sha256": "6c57d585215ba8c1667128f45a958851c2664598b50e2f93bc86ea421029df63"
+  },
+  {
+    "path": "13_tematicos_transversales/014_estrellas.md",
+    "size": 4751,
+    "sha256": "8be9c9305f271472ad06a51580124bcf715cccfadecd32bf79527456882d4fa1"
+  },
+  {
+    "path": "13_tematicos_transversales/015_evolucion_estelar.md",
+    "size": 4813,
+    "sha256": "335eb1dd74d5e9a40703a030349d925e8d8e26545b85f97499c0ade3c3ce63ee"
+  },
+  {
+    "path": "13_tematicos_transversales/016_nebulosas.md",
+    "size": 4751,
+    "sha256": "c455e7022ea3371ce0c14303030382f322b07967d62857ba3f61518c56bcc394"
+  },
+  {
+    "path": "13_tematicos_transversales/017_galaxias.md",
+    "size": 4744,
+    "sha256": "a86b073d3d7cb7b3d8b8d4b9483ccdba503e3ff7be5aef59efb3fc6b86a9b504"
+  },
+  {
+    "path": "13_tematicos_transversales/018_via_lactea.md",
+    "size": 4766,
+    "sha256": "909f037e1e946775f9f2c969efd32ad61b9583a12626eaef3f7c22176c87294d"
+  },
+  {
+    "path": "13_tematicos_transversales/019_agujeros_negros.md",
+    "size": 4796,
+    "sha256": "f4a69dd15c59579163d72e38b27db0636e10729ecfd946dbe0b9c385a5ea3491"
+  },
+  {
+    "path": "13_tematicos_transversales/020_big_bang.md",
+    "size": 4746,
+    "sha256": "cdc3e8aec8893319fb6e55b5863010b0becbbba67de1f9b1b5c82b1cd0b2d2b2"
+  },
+  {
+    "path": "13_tematicos_transversales/021_expansion_del_universo.md",
+    "size": 4835,
+    "sha256": "1d65802d01383f6b2ee2afc4a6b76d4fd8c48e3e51e8cdef7ef534ca8cbcf403"
+  },
+  {
+    "path": "13_tematicos_transversales/022_materia_oscura.md",
+    "size": 4782,
+    "sha256": "e884dcb36b1f3f609e89fe58d9b876efe0cbda8a9f2115d529c6bc8d3f95e2c6"
+  },
+  {
+    "path": "13_tematicos_transversales/023_energia_oscura.md",
+    "size": 4787,
+    "sha256": "0d4c5845d16cbed695239fb57d293271f12f9e8733d6546324164c5979f11598"
+  },
+  {
+    "path": "13_tematicos_transversales/024_exoplanetas.md",
+    "size": 4766,
+    "sha256": "8b7452a599c9a5614ed3d241e57ff0543cafdba8243a6d12bc303f2a19045e8e"
+  },
+  {
+    "path": "13_tematicos_transversales/025_vida_en_el_universo.md",
+    "size": 4795,
+    "sha256": "a826facb0f9db076d9005412c49b8c3ead95e2c1fbb0f5e560201e0001caa14b"
+  },
+  {
+    "path": "13_tematicos_transversales/026_exploracion_espacial.md",
+    "size": 4832,
+    "sha256": "49feb55d62f79f3c92fcf28ad377a1a0f46e5b6ab7493278aa7fd9c28bb9145f"
+  },
+  {
+    "path": "13_tematicos_transversales/027_astronomia_en_chile.md",
+    "size": 4825,
+    "sha256": "7e530355fc7db79227ed95995eaf3914365f1b8bd588cb5fbaa5176bde5fa4a2"
+  },
+  {
+    "path": "13_tematicos_transversales/028_preguntas_frecuentes_de_ninos.md",
+    "size": 4885,
+    "sha256": "3ba5a772e11308ea877c98e9366ae106a25e8c0008b3c691ccdaad88c4842179"
+  },
+  {
+    "path": "14_bancos_generales/01_glosario_general.md",
+    "size": 247,
+    "sha256": "bd3d18adbb3893eb3c462d2d32eae4028253d9869ad954682b3812e273a036d1"
+  },
+  {
+    "path": "14_bancos_generales/02_palabras_clave.md",
+    "size": 7999,
+    "sha256": "de6a00a67866e04c506c33919234b4848124b7b981677d635df3cbbf981e8ca5"
+  },
+  {
+    "path": "14_bancos_generales/03_mapa_relaciones_materias.md",
+    "size": 195,
+    "sha256": "54a565f8c658859e4eab4950774231ebd6388c7da78ea083635c3b0f9039b135"
+  },
+  {
+    "path": "14_bancos_generales/04_plantilla_observacion_astronomica.md",
+    "size": 136,
+    "sha256": "3dbd02b98c4502d3279e12239485737a8182926a91479b1941089d004a879dcf"
+  },
+  {
+    "path": "15_evaluaciones_generales/01_evaluaciones_generales.md",
+    "size": 145,
+    "sha256": "5f20bb0d7f4ba42b628ed6ee13f218209ab356534b21d055c0aedf913740ead8"
+  },
+  {
+    "path": "16_apoyo_inclusivo/01_adaptaciones_tea.md",
+    "size": 143,
+    "sha256": "66a72cd9d4872f5226d1f76a1043ca6b48486d641a7d83794a869592f923446e"
+  },
+  {
+    "path": "16_apoyo_inclusivo/02_reglas_por_perfil.md",
+    "size": 118,
+    "sha256": "84bcadc12dcd3c04df4f3348134fa66666c2cfe6810841d86bc8bba7072af967"
+  },
+  {
+    "path": "17_compendios/compendio_cuarto_basico.md",
+    "size": 96146,
+    "sha256": "b603cf8075aa19b6efa9e76a83f009f2fdc7ffdbbd56b919e4f7749beac10edf"
+  },
+  {
+    "path": "17_compendios/compendio_cuarto_medio.md",
+    "size": 144778,
+    "sha256": "21b62636f00e7f4ba9916628368d22b1b9968bd3b986d5eb3db6f893fe3f6647"
+  },
+  {
+    "path": "17_compendios/compendio_octavo_basico.md",
+    "size": 124520,
+    "sha256": "498cd5edf2cab4aa7eb8847174fc19565806244f6ace63fd682e0526e1ccb72b"
+  },
+  {
+    "path": "17_compendios/compendio_primero_basico.md",
+    "size": 72244,
+    "sha256": "e424a156bee53d077827f8b0ba183be4d8fe89554bf7b648b87db6937692ace0"
+  },
+  {
+    "path": "17_compendios/compendio_primero_medio.md",
+    "size": 134374,
+    "sha256": "2291600ca0db26f0181c771db9c26d3a99b877a619ed3cdc93370c812f22b2dc"
+  },
+  {
+    "path": "17_compendios/compendio_quinto_basico.md",
+    "size": 115160,
+    "sha256": "6352b8c9e1920ad92fd4dc606e7888b295dd7f7a501d255c19fb21cda246e08c"
+  },
+  {
+    "path": "17_compendios/compendio_segundo_basico.md",
+    "size": 77504,
+    "sha256": "3d4245b9076b33a98f88c65f296ba28b369c9c58eeffce0dc1a3e7936da2a583"
+  },
+  {
+    "path": "17_compendios/compendio_segundo_medio.md",
+    "size": 144209,
+    "sha256": "35305e69588dd706b040754eb41ba1912b0fea62c0ef3e2ef2f775f68fea228c"
+  },
+  {
+    "path": "17_compendios/compendio_septimo_basico.md",
+    "size": 114793,
+    "sha256": "1550d8ce206f73fcd522143602434a25c2d89f53c41e375eb9266aba357ba12e"
+  },
+  {
+    "path": "17_compendios/compendio_sexto_basico.md",
+    "size": 114898,
+    "sha256": "f98de81941edde30f530d740c2088241be53287b13fc8728b21fa2cb3853458c"
+  },
+  {
+    "path": "17_compendios/compendio_tercero_basico.md",
+    "size": 114146,
+    "sha256": "ec1e180f29a06f73f6699e7c716ec846fc205b9ba03b63bd5011e585afcdfa2d"
+  },
+  {
+    "path": "17_compendios/compendio_tercero_medio.md",
+    "size": 144666,
+    "sha256": "66f76112fbdf5d057defc85f69fa00190447348fa14ece20b3570f298e6f5845"
+  },
+  {
+    "path": "17_compendios/enciclopedia_completa_astronomia_espacio.md",
+    "size": 1397488,
+    "sha256": "973184cbdf9b690d9edcb853918db9b081aec2f418db297af31cce61d9cef389"
+  },
+  {
+    "path": "18_rag/catalogo_capitulos.json",
+    "size": 107789,
+    "sha256": "2d672e1b829d6d768e015deda6f5796d35ac5d73e49731d2b76eaf6825d15293"
+  },
+  {
+    "path": "18_rag/catalogo_capitulos.jsonl",
+    "size": 95345,
+    "sha256": "f975a2550d6ea0672e3db70c0630cf115b967530f650a6359fa70e7e3012dc7c"
+  },
+  {
+    "path": "18_rag/chunks_astronomia_espacio.jsonl",
+    "size": 3087976,
+    "sha256": "a9532f4939a69089ef56b476cc3042eb1b7cbebfeca3a2a7172a1396fd4e383e"
+  },
+  {
+    "path": "CHANGELOG.md",
+    "size": 56,
+    "sha256": "e317d7e7157cd805fb83e525bfaf96cc2148e0046c0387371356703187721e6f"
+  },
+  {
+    "path": "README.md",
+    "size": 134,
+    "sha256": "527cc40316a546b90e759769717390108289f4d718f39167b959c2999833c8ce"
+  }
+]

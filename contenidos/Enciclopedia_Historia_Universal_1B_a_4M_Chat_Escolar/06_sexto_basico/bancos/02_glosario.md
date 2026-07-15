@@ -1,0 +1,53 @@
+# Glosario inicial — 6° básico
+
+- **Abolicion:** Concepto vinculado con la revolución haitiana y la abolición de la esclavitud; debe definirse dentro de su contexto histórico.
+- **Abolicionismo:** Concepto vinculado con abolicionismo y fin gradual de la esclavitud; debe definirse dentro de su contexto histórico.
+- **Absolutismo:** Concepto vinculado con absolutismo y sociedades del antiguo régimen; debe definirse dentro de su contexto histórico.
+- **Absoluto:** Concepto vinculado con la ilustración y la crítica al poder absoluto; debe definirse dentro de su contexto histórico.
+- **Al:** Concepto vinculado con la ilustración y la crítica al poder absoluto; debe definirse dentro de su contexto histórico.
+- **Antiguo:** Concepto vinculado con absolutismo y sociedades del antiguo régimen; debe definirse dentro de su contexto histórico.
+- **Atlanticas:** Concepto vinculado con comparar revoluciones atlánticas y sus límites; debe definirse dentro de su contexto histórico.
+- **Atlantico:** Concepto vinculado con independencias hispanoamericanas en contexto atlántico; debe definirse dentro de su contexto histórico.
+- **Ciudad:** Concepto vinculado con la fábrica, la ciudad industrial y nuevas clases sociales; debe definirse dentro de su contexto histórico.
+- **Clases:** Concepto vinculado con la fábrica, la ciudad industrial y nuevas clases sociales; debe definirse dentro de su contexto histórico.
+- **Colonias:** Concepto vinculado con independencia de las trece colonias; debe definirse dentro de su contexto histórico.
+- **Comparar:** Concepto vinculado con comparar revoluciones atlánticas y sus límites; debe definirse dentro de su contexto histórico.
+- **Condiciones:** Concepto vinculado con trabajo infantil y condiciones obreras; debe definirse dentro de su contexto histórico.
+- **Constitucionalismo:** Concepto vinculado con liberalismo, republicanismo y constitucionalismo; debe definirse dentro de su contexto histórico.
+- **Construccion:** Concepto vinculado con nacionalismo y construcción de estados; debe definirse dentro de su contexto histórico.
+- **Contexto:** Concepto vinculado con independencias hispanoamericanas en contexto atlántico; debe definirse dentro de su contexto histórico.
+- **Critica:** Concepto vinculado con la ilustración y la crítica al poder absoluto; debe definirse dentro de su contexto histórico.
+- **Declaracion:** Concepto vinculado con la revolución francesa y la declaración de los derechos; debe definirse dentro de su contexto histórico.
+- **Derechos:** Concepto vinculado con primeros movimientos por los derechos de las mujeres; debe definirse dentro de su contexto histórico.
+- **Esclavitud:** Concepto vinculado con abolicionismo y fin gradual de la esclavitud; debe definirse dentro de su contexto histórico.
+- **Estados:** Concepto vinculado con nacionalismo y construcción de estados; debe definirse dentro de su contexto histórico.
+- **Fabrica:** Concepto vinculado con la fábrica, la ciudad industrial y nuevas clases sociales; debe definirse dentro de su contexto histórico.
+- **Fin:** Concepto vinculado con abolicionismo y fin gradual de la esclavitud; debe definirse dentro de su contexto histórico.
+- **Francesa:** Concepto vinculado con la revolución francesa y la declaración de los derechos; debe definirse dentro de su contexto histórico.
+- **Gradual:** Concepto vinculado con abolicionismo y fin gradual de la esclavitud; debe definirse dentro de su contexto histórico.
+- **Haitiana:** Concepto vinculado con la revolución haitiana y la abolición de la esclavitud; debe definirse dentro de su contexto histórico.
+- **Hispanoamericanas:** Concepto vinculado con independencias hispanoamericanas en contexto atlántico; debe definirse dentro de su contexto histórico.
+- **Ilustracion:** Concepto vinculado con la ilustración y la crítica al poder absoluto; debe definirse dentro de su contexto histórico.
+- **Independencia:** Concepto vinculado con independencia de las trece colonias; debe definirse dentro de su contexto histórico.
+- **Independencias:** Concepto vinculado con independencias hispanoamericanas en contexto atlántico; debe definirse dentro de su contexto histórico.
+- **Industrial:** Concepto vinculado con la fábrica, la ciudad industrial y nuevas clases sociales; debe definirse dentro de su contexto histórico.
+- **Infantil:** Concepto vinculado con trabajo infantil y condiciones obreras; debe definirse dentro de su contexto histórico.
+- **Liberalismo:** Concepto vinculado con liberalismo, republicanismo y constitucionalismo; debe definirse dentro de su contexto histórico.
+- **Limites:** Concepto vinculado con comparar revoluciones atlánticas y sus límites; debe definirse dentro de su contexto histórico.
+- **Movimientos:** Concepto vinculado con primeros movimientos por los derechos de las mujeres; debe definirse dentro de su contexto histórico.
+- **Mujeres:** Concepto vinculado con primeros movimientos por los derechos de las mujeres; debe definirse dentro de su contexto histórico.
+- **Nacionalismo:** Concepto vinculado con nacionalismo y construcción de estados; debe definirse dentro de su contexto histórico.
+- **Nuevas:** Concepto vinculado con la fábrica, la ciudad industrial y nuevas clases sociales; debe definirse dentro de su contexto histórico.
+- **Obreras:** Concepto vinculado con trabajo infantil y condiciones obreras; debe definirse dentro de su contexto histórico.
+- **Poder:** Concepto vinculado con la ilustración y la crítica al poder absoluto; debe definirse dentro de su contexto histórico.
+- **Primera:** Concepto vinculado con primera revolución industrial; debe definirse dentro de su contexto histórico.
+- **Primeros:** Concepto vinculado con primeros movimientos por los derechos de las mujeres; debe definirse dentro de su contexto histórico.
+- **Regimen:** Concepto vinculado con absolutismo y sociedades del antiguo régimen; debe definirse dentro de su contexto histórico.
+- **Republicanismo:** Concepto vinculado con liberalismo, republicanismo y constitucionalismo; debe definirse dentro de su contexto histórico.
+- **Revolucion:** Concepto vinculado con primera revolución industrial; debe definirse dentro de su contexto histórico.
+- **Revoluciones:** Concepto vinculado con comparar revoluciones atlánticas y sus límites; debe definirse dentro de su contexto histórico.
+- **Sociales:** Concepto vinculado con la fábrica, la ciudad industrial y nuevas clases sociales; debe definirse dentro de su contexto histórico.
+- **Sociedades:** Concepto vinculado con absolutismo y sociedades del antiguo régimen; debe definirse dentro de su contexto histórico.
+- **Sus:** Concepto vinculado con comparar revoluciones atlánticas y sus límites; debe definirse dentro de su contexto histórico.
+- **Trabajo:** Concepto vinculado con trabajo infantil y condiciones obreras; debe definirse dentro de su contexto histórico.
+- **Trece:** Concepto vinculado con independencia de las trece colonias; debe definirse dentro de su contexto histórico.

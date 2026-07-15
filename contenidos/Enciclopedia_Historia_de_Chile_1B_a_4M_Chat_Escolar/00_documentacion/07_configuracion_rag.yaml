@@ -1,0 +1,22 @@
+collection: historia_chile_curricular
+language: es-CL
+include:
+  - "*/capitulos/*.md"
+  - "13_tematicos_transversales/*.md"
+exclude:
+  - "17_compendios/**"
+  - "**/evaluaciones/respuestas_*.md"
+  - "18_rag/**"
+chunking:
+  strategy: headings
+  target_chars: 1400
+  overlap_chars: 180
+retrieval:
+  top_k: 6
+  filters_first:
+    - course_slug
+    - alignment
+  rerank: true
+safety:
+  respect_sensitive_metadata: true
+  prohibit_fabricated_oa: true

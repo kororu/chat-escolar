@@ -32,6 +32,7 @@ class ChatProvenanceTests(unittest.TestCase):
         response = self.ask("q es habitat", course="1° básico")
         self.assertEqual(response["provenance_status"], "local_content_fallback")
         self.assertEqual(response["provider"], "local_content")
+        self.assertEqual(response["provider"], "local_content")
         self.assertFalse(response["ai_context"]["ollama_enabled"])
         self.assertTrue(response["used_local_content"])
         self.assertEqual(len(response["content_sources"]), 1)
@@ -60,11 +61,11 @@ class ChatProvenanceTests(unittest.TestCase):
 
     def test_external_school_topic_is_transparent_fallback(self):
         response = self.ask("me gustaria saber de tanques de la segunda guerra")
-        self.assertEqual(response["provenance_status"], "no_local_content")
+        self.assertEqual(response["provenance_status"], "generation_blocked_unverified")
         self.assertFalse(response["used_local_content"])
         self.assertEqual(response["content_sources"], [])
         self.assertNotIn("Tabaco, humo y salud", response["answer"])
-        self.assertIn("sin presentarla como fuente curricular", response["answer"])
+        self.assertIn("no generaré una explicación", response["answer"])
 
     def test_external_explorer_topic_reports_missing_collection(self):
         response = self.ask(
@@ -96,12 +97,12 @@ class ChatProvenanceTests(unittest.TestCase):
         with patch.object(main, "retrieve_local_content", return_value=retrieval):
             response = self.ask("que es un habitat", course="1° básico")
 
-        self.assertEqual(response["provenance_status"], "local_related")
+        self.assertEqual(response["provenance_status"], "generation_blocked_unverified")
         self.assertEqual(response["provider"], "demo")
         self.assertFalse(response["used_local_content"])
         self.assertEqual(response["content_sources"], [])
         self.assertTrue(response["related_sources"])
-        self.assertIn("relación cercana", response["answer"])
+        self.assertEqual(response["generation_blocked_reason"], "no_verified_local_source")
 
     def test_ambiguous_follow_up_requests_clarification(self):
         response = self.ask("cual fue el mas usado?")
@@ -125,6 +126,43 @@ class ChatProvenanceTests(unittest.TestCase):
         manual = self.ask("explicame las fracciones", subject="Ciencias Naturales")
         self.assertEqual(manual["subject_mode"], "manual")
         self.assertEqual(manual["subject_used"], "Ciencias Naturales")
+
+    def test_historical_question_uses_verified_source_from_history(self):
+        settings = {
+            "ai_mode": "basic",
+            "ollama_enabled": False,
+            "ollama_model": "qwen3.5:2b",
+            "ollama_timeout_seconds": 25,
+        }
+        with patch.object(main, "load_settings", return_value=settings):
+            response = self.ask(
+                "explicame en que consiste el combate naval de iquique",
+                subject="Automática",
+            )
+
+        self.assertEqual(response["subject_mode"], "automatic")
+        self.assertEqual(response["detected_subject"], "Historia")
+        self.assertEqual(response["subject_used"], "Historia")
+        self.assertEqual(response["provenance_status"], "local_verified")
+        self.assertEqual(response["provider"], "local_safe")
+        self.assertTrue(response["local_content_found"])
+        self.assertTrue(response["used_local_content"])
+        self.assertEqual(len(response["content_sources"]), 1)
+        self.assertEqual(response["content_sources"][0]["title"], "Combate Naval de Iquique")
+        self.assertEqual(response["source_course"], "6° básico")
+        self.assertTrue(response["found_in_other_course"])
+        self.assertIn("21 de mayo de 1879", response["answer"])
+        self.assertIn("Arturo Prat", response["answer"])
+        self.assertIn("Esmeralda fue hundida", response["answer"])
+        self.assertIn("Arturo Prat murió", response["answer"])
+        self.assertTrue(response["grounding_required"])
+        self.assertTrue(response["grounded_source_available"])
+        self.assertTrue(response["answer_grounded"])
+        self.assertFalse(response["used_ollama"])
+        self.assertNotIn("No tengo suficiente información local verificada", response["answer"])
+        self.assertIsNone(response["generation_blocked_reason"])
+        self.assertNotIn("ecosistema", response["answer"].lower())
+        self.assertNotIn("ecosistemas", response["retrieval_query_analysis"]["keywords"])
 
 
 if __name__ == "__main__":

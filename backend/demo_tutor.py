@@ -166,18 +166,34 @@ def build_local_content_fallback(payload, local_content: dict) -> dict[str, str]
     example = _limit_words(example, max(16, int(level["max_words"] * 0.24)))
     summary = _limit_words(summary, max(14, int(level["max_words"] * 0.18)))
 
-    answer = (
-        f"{_student_introduction(payload)}\n\n"
-        f"Explicación corta:\n{explanation}\n\n"
-        f"Ejemplo:\n{example}\n\n"
-        f"Mini resumen:\n{summary}\n\n"
-        f"Pregunta de práctica:\n{practice}"
-    )
+    role = normalize_text(payload.user_role or "estudiante")
+    source_note = ""
+    if local_content.get("course") and local_content["course"] != payload.course:
+        source_note = f"Encontrado en otro curso: {local_content['course']}. Adaptado para {payload.course}.\n\n"
+    if role == "apoderado":
+        answer = (f"{_student_introduction(payload)}\n\n{source_note}"
+                  f"Qué debe entender el niño:\n{explanation}\n\nCómo explicárselo:\n{example}\n\n"
+                  f"Actividad breve:\nComenten el ejemplo y pidan que lo represente con un dibujo o sus palabras.\n\n"
+                  f"Pregunta para comprobar comprensión:\n{practice}")
+    elif role == "docente":
+        answer = (f"{_student_introduction(payload)}\n\n{source_note}"
+                  f"Objetivo de aprendizaje:\nComprender la idea principal: {summary}\n\nExplicación breve:\n{explanation}\n\n"
+                  f"Estrategia didáctica:\n{example}\n\nAdecuación TEA:\nUna instrucción por vez, apoyo visual y opción de responder oralmente, con dibujo o selección.\n\n"
+                  f"Pregunta de evaluación rápida:\n{practice}")
+    else:
+        answer = (f"{_student_introduction(payload)}\n\n{source_note}"
+                  f"Explicación corta:\n{explanation}\n\nEjemplo de la vida diaria:\n{example}\n\n"
+                  f"Mini resumen:\n{summary}\n\nPregunta de práctica:\n{practice}")
     return {
         "answer": answer,
         "summary": summary[:220],
         "status": "ok",
     }
+
+
+def build_grounded_history_answer(payload, local_content: dict) -> dict[str, str]:
+    """Construye una respuesta histórica solo desde las secciones locales verificadas."""
+    return build_local_content_fallback(payload, local_content)
 
 
 def detect_topic(question: str) -> str:
@@ -270,6 +286,16 @@ def make_demo_answer(
             "Que materia se relaciona mas con estudiar tanques: Historia o Lenguaje?"
         )
         summary = "Un tanque puede estudiarse como historia y tecnologia, sin glorificar la guerra."
+    elif any(term in question for term in ("combate naval", "iquique", "arturo prat", "21 de mayo", "guerra del pacifico")):
+        answer = (
+            "Explicacion corta:\n"
+            "Detecte que esta pregunta es de Historia. No encontre una fuente local exacta sobre el Combate Naval de Iquique en los contenidos instalados.\n\n"
+            "Mini resumen:\n"
+            "Puedes activar IA local o agregar este tema a la base de Historia para obtener una explicacion completa.\n\n"
+            "Pregunta de practica:\n"
+            "Quieres revisar primero la fecha, los participantes o el contexto historico?"
+        )
+        summary = "Tema de Historia sin fuente curricular local exacta."
     else:
         if local_content and provenance_status == LOCAL_VERIFIED:
             answer = (

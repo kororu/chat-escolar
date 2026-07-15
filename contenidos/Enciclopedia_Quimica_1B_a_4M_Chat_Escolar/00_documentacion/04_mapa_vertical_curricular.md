@@ -1,0 +1,308 @@
+# Mapa vertical
+
+## 1° básico
+- Materiales cotidianos
+- Propiedades observables
+- Duro y blando
+- Flexible y rígido
+- Transparente y opaco
+- Absorción de agua
+- Materiales naturales y elaborados
+- Cambios por calor
+- Cambios por frío
+- Mezclas seguras
+- Agua cotidiana
+- Aire ocupa espacio
+- Clasificación de objetos
+- Reutilización de materiales
+- Seguridad al observar sustancias
+
+## 2° básico
+- Estados del agua
+- Sólidos líquidos y gases
+- Fusión
+- Congelación
+- Evaporación
+- Condensación
+- Cambios reversibles
+- Cambios irreversibles
+- Mezclas visibles
+- Disolución de sal y azúcar
+- Soluble e insoluble
+- Filtración simple
+- Decantación simple
+- Propiedades y usos
+- Residuos y reciclaje
+- Preguntas químicas simples
+
+## 3° básico
+- Materia y objetos
+- Masa inicial
+- Volumen y capacidad
+- Sólidos y forma
+- Líquidos y recipiente
+- Gases y espacio
+- Modelo de partículas inicial
+- Cambios de estado
+- Calor y materia
+- Mezclas homogéneas
+- Mezclas heterogéneas
+- Soluto y solvente
+- Concentración cualitativa
+- Tamizado
+- Filtración
+- Evaporación
+- Cambios físicos y químicos
+- Investigación de materiales
+
+## 4° básico
+- Modelo de partículas
+- Propiedades de la materia
+- Masa y volumen
+- Densidad inicial
+- Estados de la materia
+- Movimiento de partículas
+- Fusión y solidificación
+- Vaporización y condensación
+- Sublimación inicial
+- Cambio físico
+- Cambio químico
+- Evidencias de reacción
+- Sustancias y mezclas
+- Soluciones
+- Solubilidad
+- Factores de disolución
+- Filtración y decantación
+- Destilación como modelo
+- Rocas y minerales
+- Método científico químico
+
+## 5° básico
+- Materia y composición
+- Sustancias y mezclas
+- Mezclas homogéneas
+- Mezclas heterogéneas
+- Soluciones acuosas
+- Soluto y solvente
+- Concentración cualitativa
+- Filtración
+- Decantación
+- Tamizado
+- Separación magnética
+- Evaporación y cristalización
+- Destilación simple
+- Propiedades de materiales
+- Conductividad
+- Cambios físicos
+- Cambios químicos
+- Oxidación cotidiana
+- Combustión y seguridad
+- Ácidos y bases cotidianos
+- Indicadores naturales
+- pH inicial
+- Química del agua
+- Investigación segura
+
+## 6° básico
+- Modelo corpuscular
+- Partículas en sólidos
+- Partículas en líquidos
+- Partículas en gases
+- Difusión
+- Compresión de gases
+- Cambios de estado y partículas
+- Energía y cambios de estado
+- Sustancias puras
+- Elementos y compuestos
+- Mezclas y soluciones
+- Concentración
+- Solubilidad
+- Temperatura y solubilidad
+- Agitación y disolución
+- Cambios físicos y químicos
+- Reacciones cotidianas
+- Conservación de masa inicial
+- Reactantes y productos
+- Evidencias de reacción
+- Ácidos y bases
+- Indicadores de pH
+- Neutralización inicial
+- Seguridad doméstica
+
+## 7° básico
+- Comportamiento de gases
+- Presión volumen y temperatura
+- Modelo cinético molecular
+- Leyes cualitativas de gases
+- Sustancias puras
+- Elementos
+- Compuestos
+- Mezclas homogéneas
+- Mezclas heterogéneas
+- Disoluciones
+- Decantación
+- Filtración
+- Tamizado
+- Destilación
+- Separación en minería
+- Tratamiento de aguas
+- Cambios físicos
+- Cambios químicos
+- Reacciones químicas
+- Reactantes y productos
+- Conservación de masa
+- Estructura atómica inicial
+- Protones neutrones y electrones
+- Tabla periódica inicial
+
+## 8° básico
+- Historia de modelos atómicos
+- Modelo de Dalton
+- Modelo de Thomson
+- Modelo de Rutherford
+- Modelo de Bohr
+- Átomo y núcleo
+- Protones neutrones y electrones
+- Número atómico
+- Número másico
+- Isótopos iniciales
+- Iones
+- Moléculas
+- Elementos y compuestos
+- Grupos y períodos
+- Metales no metales y metaloides
+- Electrones de valencia
+- Enlace iónico
+- Enlace covalente
+- Formación de moléculas
+- Reacciones químicas
+- Conservación de masa
+- Balanceo inicial
+- Ácidos y bases cotidianas
+- Escala de pH
+- Neutralización
+- Seguridad química doméstica
+
+## 1° medio
+- Reacciones químicas cotidianas
+- Evidencias de reacción
+- Reactantes y productos
+- Ecuaciones químicas
+- Conservación de masa
+- Balanceo de ecuaciones
+- Tipos de reacciones
+- Síntesis
+- Descomposición
+- Sustitución simple
+- Doble sustitución
+- Combustión
+- Precipitación
+- Cantidad de sustancia
+- Mol
+- Masa molar
+- Número de Avogadro
+- Relaciones estequiométricas
+- Reactivo limitante
+- Rendimiento
+- Compuestos binarios
+- Compuestos ternarios
+- Óxidos
+- Hidruros
+- Ácidos
+- Hidróxidos
+- Sales
+- Nomenclatura inorgánica
+
+## 2° medio
+- Soluciones y concentración
+- Molaridad
+- Porcentaje masa masa
+- Porcentaje masa volumen
+- Diluciones
+- Curvas de solubilidad
+- Factores de solubilidad
+- Ácidos y bases de Arrhenius
+- Brønsted-Lowry inicial
+- pH y pOH
+- Indicadores ácido-base
+- Neutralización
+- Titulación inicial
+- Reacciones redox
+- Oxidación y reducción
+- Número de oxidación
+- Pilas electroquímicas
+- Corrosión
+- Química orgánica inicial
+- Carbono y enlaces
+- Hidrocarburos
+- Alcanos
+- Alquenos
+- Alquinos
+- Grupos funcionales
+- Alcoholes
+- Ácidos carboxílicos
+- Polímeros
+- Química del petróleo
+- Química y ambiente
+
+## 3° medio
+- Sustancias químicas cotidianas
+- Medicamentos y composición
+- Detergentes
+- Desinfectantes
+- Plaguicidas
+- Pictogramas de peligro
+- Almacenamiento seguro
+- Eliminación responsable
+- Química verde
+- Ciclo de vida de productos
+- Contaminación del aire
+- Contaminación del agua
+- Contaminación del suelo
+- Química del cambio climático
+- Gases de efecto invernadero
+- Calidad del agua
+- Tratamiento de aguas
+- Metales pesados
+- Microplásticos
+- Química de alimentos
+- Aditivos alimentarios
+- Fermentación
+- Termoquímica inicial
+- Entalpía
+- Reacciones exotérmicas y endotérmicas
+- Cinética química
+- Velocidad de reacción
+- Catalizadores
+
+## 4° medio
+- Termodinámica química
+- Primera ley
+- Entalpía de reacción
+- Ley de Hess
+- Entropía
+- Energía libre de Gibbs
+- Espontaneidad
+- Equilibrio químico
+- Constante de equilibrio
+- Le Châtelier
+- Equilibrio ácido-base
+- Soluciones buffer
+- Producto de solubilidad
+- Cinética avanzada
+- Mecanismos de reacción
+- Energía de activación
+- Catálisis homogénea y heterogénea
+- Electroquímica
+- Celdas galvánicas
+- Electrólisis
+- Corrosión y protección
+- Química orgánica avanzada
+- Isomería
+- Reacciones orgánicas
+- Biomoléculas
+- Química farmacéutica
+- Materiales avanzados
+- Nanomateriales
+- Química ambiental y justicia
+- Proyecto químico aplicado

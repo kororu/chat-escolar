@@ -1,0 +1,26 @@
+# Índice de Física — 3° medio
+
+- [Energía en sistemas cotidianos](001_energia_en_sistemas_cotidianos.md) — energia
+- [Eficiencia y pérdidas de energía](002_eficiencia_y_perdidas_de_energia.md) — energia
+- [Matriz energética](003_matriz_energetica.md) — fisica_general
+- [Generación eléctrica](004_generacion_electrica.md) — fisica_general
+- [Transmisión y distribución eléctrica](005_transmision_y_distribucion_electrica.md) — fisica_general
+- [Consumo responsable de energía](006_consumo_responsable_de_energia.md) — energia
+- [Seguridad eléctrica y prevención](007_seguridad_electrica_y_prevencion.md) — fisica_general
+- [Radiación electromagnética y salud](008_radiacion_electromagnetica_y_salud.md) — fisica_general
+- [Ondas en telecomunicaciones](009_ondas_en_telecomunicaciones.md) — ondas_sonido
+- [GPS y relatividad como profundización](010_gps_y_relatividad_como_profundizacion.md) — astrofisica_fisica_moderna
+- [Sensores y medición](011_sensores_y_medicion.md) — fisica_general
+- [Física del transporte](012_fisica_del_transporte.md) — fisica_general
+- [Física de edificaciones](013_fisica_de_edificaciones.md) — fisica_general
+- [Aislamiento térmico](014_aislamiento_termico.md) — fisica_general
+- [Confort térmico](015_confort_termico.md) — fisica_general
+- [Riesgo sísmico y diseño estructural](016_riesgo_sismico_y_diseno_estructural.md) — fisica_general
+- [Tecnología médica basada en física](017_tecnologia_medica_basada_en_fisica.md) — fisica_general
+- [Imágenes médicas](018_imagenes_medicas.md) — fisica_general
+- [Sonido y salud auditiva](019_sonido_y_salud_auditiva.md) — ondas_sonido
+- [Contaminación lumínica](020_contaminacion_luminica.md) — fisica_general
+- [Cambio climático y balance energético](021_cambio_climatico_y_balance_energetico.md) — fisica_general
+- [Modelación física con datos](022_modelacion_fisica_con_datos.md) — fisica_general
+- [Incertidumbre de medición](023_incertidumbre_de_medicion.md) — fisica_general
+- [Proyecto de física ciudadana](024_proyecto_de_fisica_ciudadana.md) — fisica_general

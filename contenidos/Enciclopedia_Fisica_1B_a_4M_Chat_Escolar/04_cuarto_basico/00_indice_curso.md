@@ -1,0 +1,22 @@
+# Índice de Física — 4° básico
+
+- [Masa y peso inicial](001_masa_y_peso_inicial.md) — fisica_general
+- [Gravedad en la Tierra](002_gravedad_en_la_tierra.md) — fisica_general
+- [Fricción y superficies](003_friccion_y_superficies.md) — fisica_general
+- [Elasticidad](004_elasticidad.md) — fisica_general
+- [Fuerza neta inicial](005_fuerza_neta_inicial.md) — mecanica
+- [Movimiento y sistema de referencia](006_movimiento_y_sistema_de_referencia.md) — mecanica
+- [Rapidez promedio inicial](007_rapidez_promedio_inicial.md) — mecanica
+- [Energía de movimiento](008_energia_de_movimiento.md) — mecanica
+- [Energía almacenada](009_energia_almacenada.md) — energia
+- [Transformaciones de energía](010_transformaciones_de_energia.md) — energia
+- [Calor y temperatura](011_calor_y_temperatura.md) — termica
+- [Conducción térmica](012_conduccion_termica.md) — termica
+- [Aislantes térmicos](013_aislantes_termicos.md) — fisica_general
+- [Cambios de estado y energía](014_cambios_de_estado_y_energia.md) — energia
+- [Circuito eléctrico simple](015_circuito_electrico_simple.md) — electricidad
+- [Circuito abierto y cerrado](016_circuito_abierto_y_cerrado.md) — electricidad
+- [Conductores y aislantes eléctricos](017_conductores_y_aislantes_electricos.md) — fisica_general
+- [Imanes y polos](018_imanes_y_polos.md) — fisica_general
+- [Atracción y repulsión magnética](019_atraccion_y_repulsion_magnetica.md) — fisica_general
+- [Seguridad eléctrica](020_seguridad_electrica.md) — fisica_general

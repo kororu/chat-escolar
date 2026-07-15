@@ -1,0 +1,1387 @@
+[
+  {
+    "path": "00_documentacion/00_indice_maestro.md",
+    "size": 3134,
+    "sha256": "3afe9e4ee7af6925a493b6badcb608d6cc6423af211bbd71b0d39d0555078eb7"
+  },
+  {
+    "path": "00_documentacion/00_instalacion.md",
+    "size": 209,
+    "sha256": "946c482956fcc42a9a3a243aec39da173f7c9d6b346b5cb8dc98d9a81d7be312"
+  },
+  {
+    "path": "00_documentacion/01_estado_curricular_y_fuentes.md",
+    "size": 1198,
+    "sha256": "c31aae01783906b14493c7353dcfd2a766e89e717e58076d70ad84ff3ce1dd01"
+  },
+  {
+    "path": "00_documentacion/02_arquitectura_de_contenidos.md",
+    "size": 260,
+    "sha256": "855e4ae339587242fd9a31915188e26b11756b7926e5d7520a620d2f38ebc79d"
+  },
+  {
+    "path": "00_documentacion/03_guia_editorial_juridica.md",
+    "size": 386,
+    "sha256": "3160632607306c41808761fc3541c48c05d6d442387cf44ebb75fc361738de36"
+  },
+  {
+    "path": "00_documentacion/04_mapa_vertical_curricular.md",
+    "size": 12106,
+    "sha256": "328a408f7cd0ac33f41bee8b39aca772f03c0dac977afbf174781087327710bc"
+  },
+  {
+    "path": "00_documentacion/05_integracion_ollama_rag.md",
+    "size": 359,
+    "sha256": "f2f48f3d0a4d2126de80cc4f1300ee549453cbdc22d41fcbcb2e41d5cf62cb7c"
+  },
+  {
+    "path": "00_documentacion/06_prompt_sistema_ollama.md",
+    "size": 352,
+    "sha256": "4468fd3462c888422d6774092681d87e53ee7b1cb7931c1f549936b0ee7d4ce1"
+  },
+  {
+    "path": "00_documentacion/07_configuracion_rag.yaml",
+    "size": 629,
+    "sha256": "03f828240e5defc6cd00b7e6ff0a64698e8a0ad1771f17d28a8946d451790029"
+  },
+  {
+    "path": "00_documentacion/08_control_calidad.md",
+    "size": 147,
+    "sha256": "a556381871bc38a647728e3a38b6d65664aeb9f1733b48f1ca2d3b29b928bc3f"
+  },
+  {
+    "path": "00_documentacion/09_pruebas_recuperacion.md",
+    "size": 303,
+    "sha256": "94abd0c840ee732126b67ebcbf2ee8ba71c1bb8d5aa3bac8fae3fed97b8a35a0"
+  },
+  {
+    "path": "01_primero_basico/001_normas_para_convivir_en_la_sala.md",
+    "size": 7898,
+    "sha256": "b8ca85c887172dbbf3e75a5ad73fc5845f47aba87feacb101417fe489be16f8d"
+  },
+  {
+    "path": "01_primero_basico/002_responsabilidades_en_la_casa_y_la_escuela.md",
+    "size": 7900,
+    "sha256": "0035130e9e6235c89541a5ae59c32e493e9e4ddf1839389d2a542df1b42070d8"
+  },
+  {
+    "path": "01_primero_basico/003_derechos_de_ninos_y_ninas_primera_aproximacion.md",
+    "size": 8023,
+    "sha256": "f7fe3531110985e02e69cb1d6350a9fa354323fbc23a38939ab7c7f85089b978"
+  },
+  {
+    "path": "01_primero_basico/004_resolver_conflictos_hablando.md",
+    "size": 7904,
+    "sha256": "1874efede87daac1950e9dc3933093267c8716bd163606a78497aac965aebbe7"
+  },
+  {
+    "path": "01_primero_basico/005_cuidar_espacios_y_bienes_comunes.md",
+    "size": 7926,
+    "sha256": "ef9c79ac7c54a766df9cbb0344b55d7ab55376c88073127c12d2b16a9b88ce0b"
+  },
+  {
+    "path": "01_primero_basico/006_pedir_ayuda_a_un_adulto_de_confianza.md",
+    "size": 7883,
+    "sha256": "1b65f06e983b425281eb574962d015165de06e634593a8363309c60c3aa9b67f"
+  },
+  {
+    "path": "01_primero_basico/007_participar_respetando_turnos.md",
+    "size": 7826,
+    "sha256": "b307ca684a175db05617aa6764b0560d32c3efb0afe10e784fbd33a39fc669b7"
+  },
+  {
+    "path": "01_primero_basico/008_personas_e_instituciones_que_ayudan_a_la_comunidad.md",
+    "size": 8052,
+    "sha256": "f58890d1c6949fad4d0077a782adbfbc4053ce7e2b0961d008b0f9b2021fbb15"
+  },
+  {
+    "path": "01_primero_basico/009_trato_respetuoso_y_no_discriminacion.md",
+    "size": 7871,
+    "sha256": "928831fce569ed1fd498035cd7d92c47f682450c55a8a6ebe076048d0ae97149"
+  },
+  {
+    "path": "01_primero_basico/00_indice_curso.md",
+    "size": 1987,
+    "sha256": "c2c8549be6166cfefac6c7575d583ad92f1e167ab88ec3fd88d222294e607b19"
+  },
+  {
+    "path": "01_primero_basico/010_seguridad_y_convivencia_digital_inicial.md",
+    "size": 8017,
+    "sha256": "6227ab1b2aa03d6db922005c3c870cc2437f4a2568a020adcf746d95705e2b45"
+  },
+  {
+    "path": "01_primero_basico/01_glosario_curso.md",
+    "size": 3933,
+    "sha256": "0dc05b3920aa480edbafbc830ab18c1f8adf8e9d79c08798d76f6ca2df4e3768"
+  },
+  {
+    "path": "01_primero_basico/02_banco_preguntas.md",
+    "size": 2521,
+    "sha256": "113b6e16993393a47207a045b5e815919bb6720321101399c02a8e14d1399557"
+  },
+  {
+    "path": "02_segundo_basico/001_normas_razones_y_consecuencias.md",
+    "size": 7935,
+    "sha256": "18a1dab6ddd15573620c4bfc823fc5ec80a65e8911f1eb29425f66eba465b1f3"
+  },
+  {
+    "path": "02_segundo_basico/002_derechos_y_responsabilidades_en_situaciones_cotidianas.md",
+    "size": 7961,
+    "sha256": "f4c1e0eecd55470f5030704c7bb73fbfd27882c4662e2bfcd5627a6e661316ea"
+  },
+  {
+    "path": "02_segundo_basico/003_derechos_del_nino_y_proteccion.md",
+    "size": 7970,
+    "sha256": "039ba74308d2a57a2d685c7c520fb157ddc9bce2607137b5aac5f868c7018a32"
+  },
+  {
+    "path": "02_segundo_basico/004_conflictos_problema_emociones_y_solucion.md",
+    "size": 7894,
+    "sha256": "2c903dc6e42dfe33310bad653f3f7f3ec7f639ce869fa28f7c7d5e375a929ef7"
+  },
+  {
+    "path": "02_segundo_basico/005_acuerdos_de_curso.md",
+    "size": 7770,
+    "sha256": "32303db81c309d7cbf3adbe8588acd52decaa016e16d086a817c614ef22c06ae"
+  },
+  {
+    "path": "02_segundo_basico/006_municipalidad_y_servicios_locales.md",
+    "size": 7866,
+    "sha256": "32f418570b00b45ed53bcba4655d3c98e91e22f586a8dcb277c09da16702a2fb"
+  },
+  {
+    "path": "02_segundo_basico/007_instituciones_de_emergencia_y_cuidado.md",
+    "size": 7966,
+    "sha256": "599cb6d44342bde619611da69a9b6159fefe9bdb4d09cf9cd792795626b89fd8"
+  },
+  {
+    "path": "02_segundo_basico/008_privacidad_y_datos_personales.md",
+    "size": 7961,
+    "sha256": "cf02b60f198aac613b1827233be1574ac93808d65cc80e656007fe4740d07cb9"
+  },
+  {
+    "path": "02_segundo_basico/009_buen_trato_en_linea.md",
+    "size": 7790,
+    "sha256": "d9057bbf5991ebbc57ce5f6ab0b15d283c3cafbcc099f6f681a3b123f2cd7b41"
+  },
+  {
+    "path": "02_segundo_basico/00_indice_curso.md",
+    "size": 2134,
+    "sha256": "86a8e170579c6b17c3629b0e067992d0cbd9b8d6822f47e01d5b37db3423fc43"
+  },
+  {
+    "path": "02_segundo_basico/010_igualdad_y_diversidad_de_familias.md",
+    "size": 7851,
+    "sha256": "d3345ec2b61aae0b1dc31b8e44a86de6b5f9f9f72de733a0d4b0d4f8923de0b6"
+  },
+  {
+    "path": "02_segundo_basico/011_participar_en_una_decision_simple.md",
+    "size": 7831,
+    "sha256": "f1af4f51600473b0f5d49e9470fb9cbe3fedb71303312ace871d7e1347fabe16"
+  },
+  {
+    "path": "02_segundo_basico/012_cuidado_de_bienes_publicos.md",
+    "size": 7923,
+    "sha256": "08aeb15803be59e5267a6a90d2db098e50d3ec0a833cf39c70d8fcbef815cded"
+  },
+  {
+    "path": "02_segundo_basico/01_glosario_curso.md",
+    "size": 4962,
+    "sha256": "5d82af07a448710dc08767a002cb56a01b382402cef3b844ce9c6a354159b167"
+  },
+  {
+    "path": "02_segundo_basico/02_banco_preguntas.md",
+    "size": 2963,
+    "sha256": "5904cf125c0e58b24d5eb1c32edadc1ee357fddefc244cad187791279567bac0"
+  },
+  {
+    "path": "03_tercero_basico/001_virtudes_ciudadanas_en_familia_escuela_y_comunidad.md",
+    "size": 7975,
+    "sha256": "1458f3911d3b9572dc4882003587bf702b3da7920400c8665cdfc4366367584f"
+  },
+  {
+    "path": "03_tercero_basico/002_derechos_y_deberes_por_que_deben_equilibrarse.md",
+    "size": 7930,
+    "sha256": "c0ca5ae4328c46440ace96bab5fa93d7fd55c6195556d6e913467dc8a927cb7b"
+  },
+  {
+    "path": "03_tercero_basico/003_democracia_en_la_vida_cotidiana.md",
+    "size": 7854,
+    "sha256": "20f81a56d849eda4bd78d88978b23e6d67e1302865e0550a344aa1c17bdc62af"
+  },
+  {
+    "path": "03_tercero_basico/004_elecciones_de_curso.md",
+    "size": 7866,
+    "sha256": "62a9d7b6c02806339d271fb2b1ae8cc34d2ae3b89706ffda95f3ce97aec74c43"
+  },
+  {
+    "path": "03_tercero_basico/005_representantes_y_responsabilidades.md",
+    "size": 7888,
+    "sha256": "3cccbe64d28297f3d93bc3eb0c188cf09ccf08c8989ae506d6ef8b50dcfcf62c"
+  },
+  {
+    "path": "03_tercero_basico/006_municipalidad_alcalde_y_concejo.md",
+    "size": 7873,
+    "sha256": "ed38374ff940613c3838c434374de2d2385eebb6e87d8ea7dd3c50ce1fabafed"
+  },
+  {
+    "path": "03_tercero_basico/007_la_ley_como_regla_comun.md",
+    "size": 7779,
+    "sha256": "2942a31f42f8be10ba961ea5a0c41b6e76005c74b2305299b0c9b5def0de0ba8"
+  },
+  {
+    "path": "03_tercero_basico/008_justicia_tratar_con_reglas_y_escuchar_versiones.md",
+    "size": 8018,
+    "sha256": "b7c98a122f5176eaf1209cccc4cc6088fb60a4c489dcbfad308e2db5365d3412"
+  },
+  {
+    "path": "03_tercero_basico/009_resolucion_pacifica_mediacion_escolar.md",
+    "size": 7877,
+    "sha256": "1bcd30a857dbece00ff30cd1de2c211b87b5058ee685c3ef9ef6e0d95dcc9c8d"
+  },
+  {
+    "path": "03_tercero_basico/00_indice_curso.md",
+    "size": 2454,
+    "sha256": "f6ce77368b3a57fd8244ae0210a2e29d9fbdcb3f33dd8ff85f3e4370c784d0d9"
+  },
+  {
+    "path": "03_tercero_basico/010_derechos_del_nino_en_casos_concretos.md",
+    "size": 7967,
+    "sha256": "a5eda44e35442a63a5881c32ce504bb5a7763e2cc2ea6198b5bda8d44ff41e50"
+  },
+  {
+    "path": "03_tercero_basico/011_no_discriminacion_y_dignidad.md",
+    "size": 7837,
+    "sha256": "8a39008d5082756b647ab1c0fe95313fb351ac9f468ffe1330b6a4718509a515"
+  },
+  {
+    "path": "03_tercero_basico/012_ciudadania_digital_huella_y_permanencia.md",
+    "size": 7919,
+    "sha256": "360d7be248207bd139fb22640895b472aeb38c208042e9e0fa909d6ebfa1a79a"
+  },
+  {
+    "path": "03_tercero_basico/013_informacion_verdadera_y_rumor.md",
+    "size": 7820,
+    "sha256": "aceda5c0c47b05195abf5e0cea0fbdb5a3975884d3455fcf5be5f825c91b2577"
+  },
+  {
+    "path": "03_tercero_basico/014_participacion_comunitaria_y_voluntariado.md",
+    "size": 7903,
+    "sha256": "7dc4850416b4352168819f76994c51797d89e331ccf92de5168caa7e38f4a8c2"
+  },
+  {
+    "path": "03_tercero_basico/01_glosario_curso.md",
+    "size": 5487,
+    "sha256": "6922c00aedfc3ebfb6efd89a1ff4fe3da3aaa79d588fec7679cfc5b799a4d498"
+  },
+  {
+    "path": "03_tercero_basico/02_banco_preguntas.md",
+    "size": 3502,
+    "sha256": "1a255da73043ca5689917f3a5062b95fad0e82158368873eebadf8f835dfe3ba"
+  },
+  {
+    "path": "04_cuarto_basico/001_derechos_fundamentales_y_vida_cotidiana.md",
+    "size": 7936,
+    "sha256": "382171e92d1f113626ff106e60515da48f83318b1e390dae2b85596c649eecfc"
+  },
+  {
+    "path": "04_cuarto_basico/002_deberes_responsabilidades_y_consecuencias.md",
+    "size": 7919,
+    "sha256": "af89baa05144977c0c4dc1747eeab6afe0c0886a72c4aaf69ecc0bbb56980e7c"
+  },
+  {
+    "path": "04_cuarto_basico/003_organizacion_de_una_comunidad_democratica.md",
+    "size": 7932,
+    "sha256": "cb5b73d6096ab7eeec7f5f927fa9b1953d6cb002819729f9b0461a86c3b0ab49"
+  },
+  {
+    "path": "04_cuarto_basico/004_votacion_mayoria_y_respeto_a_minorias.md",
+    "size": 7863,
+    "sha256": "e0abe39c2192a024bbaa5a9a8e3e3949cbbb193020c4cf6b37254b83ae234123"
+  },
+  {
+    "path": "04_cuarto_basico/005_municipalidad_y_gobierno_comunal.md",
+    "size": 7948,
+    "sha256": "1b3ec314f74e7423feefc3dba30e187d72eaf7a429b8ec60af12a6e760d60fd1"
+  },
+  {
+    "path": "04_cuarto_basico/006_servicios_publicos_y_financiamiento_comun.md",
+    "size": 7934,
+    "sha256": "ce3c452a1ee92aae1b36f9667b1b4829d4f2dab3558ab065b74f6d986bd06b2a"
+  },
+  {
+    "path": "04_cuarto_basico/007_congreso_primera_aproximacion.md",
+    "size": 7831,
+    "sha256": "96ff128fe488e45e5d384b46ee9226cacd4ff9a421ab7326d14980c65ad07399"
+  },
+  {
+    "path": "04_cuarto_basico/008_tribunales_resolver_conflictos_mediante_el_derecho.md",
+    "size": 7924,
+    "sha256": "4a921ede7bcf59f4feb8fffcd9c2392b3fe9b9b94b8475bd1f3e39f8844a36cc"
+  },
+  {
+    "path": "04_cuarto_basico/009_constitucion_reglas_fundamentales.md",
+    "size": 7874,
+    "sha256": "553b6fa9e9296196ca73ac26d914f54147c0e660988839b1059fbe4789b081a7"
+  },
+  {
+    "path": "04_cuarto_basico/00_indice_curso.md",
+    "size": 2507,
+    "sha256": "cfe940955f4f55277f414b72b2c7d2ff2106671c6e947dc686c4ff81cba0339b"
+  },
+  {
+    "path": "04_cuarto_basico/010_participacion_ciudadana_en_la_escuela_y_comuna.md",
+    "size": 7958,
+    "sha256": "89704cf23875e3e4575059e1318f5f7feb47adc15b7119350fff2e51830a4004"
+  },
+  {
+    "path": "04_cuarto_basico/011_conflicto_negociacion_y_mediacion.md",
+    "size": 7866,
+    "sha256": "e4e9f11476fab8e0844ca9c0f0aad9f4e1e4241cf72326acb0cef5e85b0dfc26"
+  },
+  {
+    "path": "04_cuarto_basico/012_ciberacoso_prevencion_y_ayuda.md",
+    "size": 7899,
+    "sha256": "a6db29e7b3f89a6f0c7cde1d56f0fa1c4cf46f1b402ecf64765116f8cc54b959"
+  },
+  {
+    "path": "04_cuarto_basico/013_derecho_a_opinar_y_escuchar.md",
+    "size": 7822,
+    "sha256": "a6e9216ed1fb47295de3313e8dc93fb0764d9e3c5f6d9f2edc5c0fa7801e09d3"
+  },
+  {
+    "path": "04_cuarto_basico/014_bienes_publicos_y_patrimonio_comun.md",
+    "size": 7889,
+    "sha256": "368fe06a8024306ce0317a7c463bc62bd21e4c466d2dc91b0c4fccde97a8dc0f"
+  },
+  {
+    "path": "04_cuarto_basico/01_glosario_curso.md",
+    "size": 5619,
+    "sha256": "65c72aea90462510b6e6c44cc79cf6bdc566c8cfff10593cce634f43e39abdee"
+  },
+  {
+    "path": "04_cuarto_basico/02_banco_preguntas.md",
+    "size": 3531,
+    "sha256": "60292b225dda7f0f5842c9829d14a33201275908607ccc74cb61c08fb81886bd"
+  },
+  {
+    "path": "05_quinto_basico/001_derechos_humanos_y_derechos_de_ninos_y_ninas.md",
+    "size": 7955,
+    "sha256": "0f8bd574242fe37b812f8dc18fccb206c00428bbe26576b0d563419701acf4e0"
+  },
+  {
+    "path": "05_quinto_basico/002_deberes_del_estado_y_responsabilidades_personales.md",
+    "size": 7952,
+    "sha256": "e7818a2fc182ad1e38aa42d7db586003fc9166b8891c7a256301bfa0645d33cf"
+  },
+  {
+    "path": "05_quinto_basico/003_actitudes_civicas_honestidad_respeto_y_responsabilidad.md",
+    "size": 8003,
+    "sha256": "fe36a5422fcb6171b9d83e7c6822d263caded3d2e77dffa4b12fa27a9e7f83c1"
+  },
+  {
+    "path": "05_quinto_basico/004_eleccion_de_directiva_de_curso.md",
+    "size": 7941,
+    "sha256": "ea7a95e1c65dd45932916b999c98adf5941d5d8d8fb0f1e2abdca242b40b8226"
+  },
+  {
+    "path": "05_quinto_basico/005_proyecto_para_mejorar_la_comunidad_escolar.md",
+    "size": 7996,
+    "sha256": "33fb4f9b87df6889bcb5fcbee1be5d29fe78e0011a0dbc10295e234201663c34"
+  },
+  {
+    "path": "05_quinto_basico/006_estado_autoridad_y_bien_comun.md",
+    "size": 7869,
+    "sha256": "e2a611d51a031a28f134219ccb3997d4ac36dfaeb698272e017ee730667bfc76"
+  },
+  {
+    "path": "05_quinto_basico/007_municipalidad_y_participacion_local.md",
+    "size": 7933,
+    "sha256": "95d46e8adc1b169fd1ca6f9f1548d56cf377f3647972b3f5b6d4e3a3b3ebf391"
+  },
+  {
+    "path": "05_quinto_basico/008_como_se_crea_una_ley_primera_ruta.md",
+    "size": 7903,
+    "sha256": "32003087382af757a0b4a628cddc837c2d08425e44cb5cf74c1f6fc45eed5a52"
+  },
+  {
+    "path": "05_quinto_basico/009_poder_ejecutivo.md",
+    "size": 7796,
+    "sha256": "52fbe6eff725de5cc835dc9467f011e6d00cea998095839a988fcb93e6995165"
+  },
+  {
+    "path": "05_quinto_basico/00_indice_curso.md",
+    "size": 3006,
+    "sha256": "bb54e6ffecd7a0ff8956312c911b33d20af5980af0962045cd038e5407a75156"
+  },
+  {
+    "path": "05_quinto_basico/010_poder_legislativo.md",
+    "size": 7772,
+    "sha256": "8d83ef4c6484b321755c30c757088c42fb4d0cb8e0d2b681c9171b1a7ee2af08"
+  },
+  {
+    "path": "05_quinto_basico/011_poder_judicial.md",
+    "size": 7760,
+    "sha256": "69930fde39bd31f442cbb767ed4612d9a9a3fe24d58c9adab5bfdfce40c776c9"
+  },
+  {
+    "path": "05_quinto_basico/012_acceso_a_justicia_y_debido_proceso.md",
+    "size": 7890,
+    "sha256": "b1be00e5d75b23ef6de4e4cfa6090188c7a78ccad7ee36ad2571c5b882b16244"
+  },
+  {
+    "path": "05_quinto_basico/013_libertad_de_expresion_y_limites.md",
+    "size": 7903,
+    "sha256": "e37a479cb9272874672957a73c9b8327a102a0a185af70f070dcf51272c49f7f"
+  },
+  {
+    "path": "05_quinto_basico/014_ciudadania_digital_y_fuentes_confiables.md",
+    "size": 7921,
+    "sha256": "9a933169e42a4bdffdc26571f36b216b34c642c923e539c2da149b12d04a84db"
+  },
+  {
+    "path": "05_quinto_basico/015_privacidad_consentimiento_y_publicacion_de_imagenes.md",
+    "size": 7996,
+    "sha256": "02bb455f683d41bf3a58d35c45576fb431c838bcd4d461bcf4d284917544cf33"
+  },
+  {
+    "path": "05_quinto_basico/016_resolucion_de_conflictos_con_acuerdos_reparadores.md",
+    "size": 7954,
+    "sha256": "ddb59c6e2f1b9368487167c4b62eaf29da56929eea77a0557f8752b1c4352945"
+  },
+  {
+    "path": "05_quinto_basico/017_diversidad_inclusion_y_no_discriminacion.md",
+    "size": 7914,
+    "sha256": "79818d2edeec87feae7ace7cacefb3bc79be78b1c2a872587b817be4068c931f"
+  },
+  {
+    "path": "05_quinto_basico/018_organizaciones_comunitarias.md",
+    "size": 7851,
+    "sha256": "43eb8b95196ece0b787c6d2724a682710f340d89a51fb601d622a1555786e8d4"
+  },
+  {
+    "path": "05_quinto_basico/01_glosario_curso.md",
+    "size": 7193,
+    "sha256": "8659012a8d9d80c901b34c8abeac5b1e7effea75a1975fe06266ed791ee8f500"
+  },
+  {
+    "path": "05_quinto_basico/02_banco_preguntas.md",
+    "size": 4499,
+    "sha256": "4174dd8d868e0a8ca559843c8240da448813e93a06e74e87559a3ee16aa3d9ca"
+  },
+  {
+    "path": "06_sexto_basico/001_constitucion_y_organizacion_politica_de_chile.md",
+    "size": 7953,
+    "sha256": "e555e94476bcec2349db20a0a6f2b79a9f499afcbdf8add8512872cbf192cc27"
+  },
+  {
+    "path": "06_sexto_basico/002_democracia_representativa_y_participacion.md",
+    "size": 7948,
+    "sha256": "5957cdb4954e0e1512465005bf0c86e8eb4b452f2e8f13928799ee2fd6cadfac"
+  },
+  {
+    "path": "06_sexto_basico/003_division_de_poderes_del_estado.md",
+    "size": 7904,
+    "sha256": "0367069889dc6317683c07de7c376b290399d2a7d3d6780712dc905ec4398811"
+  },
+  {
+    "path": "06_sexto_basico/004_cargos_de_eleccion_popular.md",
+    "size": 7924,
+    "sha256": "9605e3429efc54de5fb018f9bb49b631b20c3c4a6cfe3a01d5914bcd81a2bf5d"
+  },
+  {
+    "path": "06_sexto_basico/005_congreso_nacional_y_formacion_de_la_ley.md",
+    "size": 7908,
+    "sha256": "9c3195745ff8ef7565e039b02b670cd1a52ee1d633c7b628d199f1c9b98992b7"
+  },
+  {
+    "path": "06_sexto_basico/006_poder_judicial_e_independencia.md",
+    "size": 7857,
+    "sha256": "f3e82a32cb0104e8be495a83a1022d08dfb8a909bed2ca91e68b7289ba99c96a"
+  },
+  {
+    "path": "06_sexto_basico/007_municipalidad_y_gobierno_local.md",
+    "size": 7842,
+    "sha256": "65e1ac34b920a3698434a44fa6a283b68192cca971842b926b4bf2be4f45fed1"
+  },
+  {
+    "path": "06_sexto_basico/008_derechos_fundamentales_y_mecanismos_de_proteccion.md",
+    "size": 7943,
+    "sha256": "848ffe11790b2b92bf71b990b51ced12dfb8948fbc6874d91807f2c8af64a0da"
+  },
+  {
+    "path": "06_sexto_basico/009_derechos_deberes_y_responsabilidad_democratica.md",
+    "size": 7966,
+    "sha256": "35d12be94d9dd5ffd33266debafe9d44f2d24eea406880594b0e152b891701c3"
+  },
+  {
+    "path": "06_sexto_basico/00_indice_curso.md",
+    "size": 3074,
+    "sha256": "79cc447e6a0dce814c4ab83780221d0450c4d2cc0b8cb13e0de99b9d7e3c5ff5"
+  },
+  {
+    "path": "06_sexto_basico/010_participacion_ciudadana_formal_e_informal.md",
+    "size": 8031,
+    "sha256": "6b4f033a9d9680bb26e42a05343011c0e30b63be46ab58f1990beb157602e0f8"
+  },
+  {
+    "path": "06_sexto_basico/011_elecciones_voto_y_representacion.md",
+    "size": 7859,
+    "sha256": "a9133a510da32857b4e68ba4500784ecf7a9f4b28d375d25970d58497a843b78"
+  },
+  {
+    "path": "06_sexto_basico/012_ley_reglamento_y_ordenanza.md",
+    "size": 7818,
+    "sha256": "501ec671517793ccf0a345a53f2a6a52291eaedf8e95d7d983b8c273b81856a3"
+  },
+  {
+    "path": "06_sexto_basico/013_debido_proceso_y_presuncion_de_inocencia.md",
+    "size": 7947,
+    "sha256": "0e697bc7e5d0aae565f697f883f2f0c71af3f71428f8bdc07d4dcbc579cda677"
+  },
+  {
+    "path": "06_sexto_basico/014_resolucion_pacifica_y_justicia_restaurativa.md",
+    "size": 7943,
+    "sha256": "97910734f0d6e9a1b87b9bdc0ac2c0f80cffaea0f7e99b49c2762d8eb5a30246"
+  },
+  {
+    "path": "06_sexto_basico/015_ciudadania_digital_derechos_y_deberes.md",
+    "size": 7921,
+    "sha256": "90d921cff8dc8b93878d91f9c55bfd87208bfcde48437f961d509e2b72115197"
+  },
+  {
+    "path": "06_sexto_basico/016_desinformacion_y_deliberacion_publica.md",
+    "size": 7918,
+    "sha256": "c7d11c53cd2c91e656840ffd4ad7864c99cec97507132a669a53509d95d30017"
+  },
+  {
+    "path": "06_sexto_basico/017_transparencia_y_acceso_a_informacion_publica.md",
+    "size": 7908,
+    "sha256": "5382fe73e2b4f2bba0ed25d1568524d2b39fc3797e37cce5e3c4e04e3ff2d847"
+  },
+  {
+    "path": "06_sexto_basico/018_bien_comun_impuestos_y_servicios_publicos.md",
+    "size": 7954,
+    "sha256": "78f0a39b5cf2273ca08e28056340e6baf19e296bdf03764273f2e67e60c20ad2"
+  },
+  {
+    "path": "06_sexto_basico/01_glosario_curso.md",
+    "size": 6714,
+    "sha256": "32fa9b45918189e4769d6a8634d8cd40f9f8f19035d296e0c8d6e963cc423217"
+  },
+  {
+    "path": "06_sexto_basico/02_banco_preguntas.md",
+    "size": 4549,
+    "sha256": "cce97b9ee313cc2b7b31553034a03403966023adba04e086d1ef09963f35c372"
+  },
+  {
+    "path": "07_septimo_basico/001_ciudadania_en_el_mundo_antiguo_y_moderno.md",
+    "size": 8004,
+    "sha256": "667dc8f57846b0161381e8beeaaa874a6381ed5129a0b0ff68ad63400b0bcddf"
+  },
+  {
+    "path": "07_septimo_basico/002_democracia_ciudadania_y_exclusiones.md",
+    "size": 7892,
+    "sha256": "56ff11cd7a4fe3632c4d823615885b3a5bd4c9279dc89a96a3d1559aa87fdc9e"
+  },
+  {
+    "path": "07_septimo_basico/003_estado_de_derecho.md",
+    "size": 7796,
+    "sha256": "188161ac75266a8e0e672a181efaa89e7f75788ec3e4f3d5d3ffaee0916e154b"
+  },
+  {
+    "path": "07_septimo_basico/004_constitucion_y_supremacia_constitucional.md",
+    "size": 7918,
+    "sha256": "ae76bc7700eacff890760471ff4f7620169b9dc277424c5f190558a6d993f55e"
+  },
+  {
+    "path": "07_septimo_basico/005_legalidad_y_legitimidad.md",
+    "size": 7821,
+    "sha256": "3df5a8e88c61d84656e5d92959cf8c853f6c924f999008f36769cd86323cdd65"
+  },
+  {
+    "path": "07_septimo_basico/006_derechos_civiles_y_politicos.md",
+    "size": 7873,
+    "sha256": "b947d5444050c1c3eb9cc1beedbdb711371b0c86e7e0db4e2b0653c8951de81a"
+  },
+  {
+    "path": "07_septimo_basico/007_derechos_economicos_sociales_y_culturales.md",
+    "size": 7892,
+    "sha256": "fca63c3dacfcba88a236cd14e849309801d1ec49e25b344a1ee6338f92341a35"
+  },
+  {
+    "path": "07_septimo_basico/008_instituciones_democraticas_y_controles.md",
+    "size": 7923,
+    "sha256": "972ac771c403849d2eb25a83e09137b8a984d9a82cfaf32683d3f46acc5f501a"
+  },
+  {
+    "path": "07_septimo_basico/009_congreso_y_representacion_politica.md",
+    "size": 7903,
+    "sha256": "9cf6b636c5409a96c3dbcd1b7ee58d53f304d1a8171408b63d4f8b1dd6de3c4e"
+  },
+  {
+    "path": "07_septimo_basico/00_indice_curso.md",
+    "size": 2721,
+    "sha256": "6b6c1961d7fc1c06f60bb69eb2e431e9e0109de93909083eb267faccdef4b764"
+  },
+  {
+    "path": "07_septimo_basico/010_gobierno_local_y_descentralizacion.md",
+    "size": 7907,
+    "sha256": "4a1555d7ccd95c5bf4e7bd187b425769d008e96a1cb8cef4493918cbe8e6010d"
+  },
+  {
+    "path": "07_septimo_basico/011_justicia_sancion_y_reparacion.md",
+    "size": 7871,
+    "sha256": "3203bd48fce21470dd4413b22aa16c65a641f0c6e17b477d4f79efd353721ac9"
+  },
+  {
+    "path": "07_septimo_basico/012_ciudadania_digital_y_libertad_de_expresion.md",
+    "size": 7951,
+    "sha256": "50bed1961a25320349d82fc82e612db6931d9a6ec71b6627e0d85c02d9bdbed3"
+  },
+  {
+    "path": "07_septimo_basico/013_discurso_de_odio_y_no_discriminacion.md",
+    "size": 7916,
+    "sha256": "164e72416d54fe541d0a8ebdf393779ff2d0352faa54597ba1e39ef2d1feaeb8"
+  },
+  {
+    "path": "07_septimo_basico/014_participacion_juvenil_y_centros_de_estudiantes.md",
+    "size": 7963,
+    "sha256": "e25477b62266061d426d6b609ae04919e03768dc9732b934f8a357bc58b9235b"
+  },
+  {
+    "path": "07_septimo_basico/015_deliberacion_y_argumentacion_publica.md",
+    "size": 7891,
+    "sha256": "14b9b4ea0e2915b771f39bcf9623dd129611fcec13a7883f982ead85c6957d4c"
+  },
+  {
+    "path": "07_septimo_basico/016_corrupcion_probidad_y_confianza_publica.md",
+    "size": 7938,
+    "sha256": "8425d4c7b9c7db11c1742690ff20b8237f335d07554793191ad226ef5a87dac8"
+  },
+  {
+    "path": "07_septimo_basico/01_glosario_curso.md",
+    "size": 6190,
+    "sha256": "3244faf570feb91c0d438a1419cd369d5b0b1b32439cfb47dbaf38c0f6f759c1"
+  },
+  {
+    "path": "07_septimo_basico/02_banco_preguntas.md",
+    "size": 4004,
+    "sha256": "a3def60da07161882e2c1cf2a425275b1c9a6a16f4ee76548eb5d3bd0a602c8a"
+  },
+  {
+    "path": "08_octavo_basico/001_derechos_humanos_origen_y_universalidad.md",
+    "size": 7921,
+    "sha256": "8e1a2f29e851976054e68c653b48e3b835ba2f90ac3d3ceb6bb09267286466be"
+  },
+  {
+    "path": "08_octavo_basico/002_revoluciones_modernas_y_ciudadania.md",
+    "size": 7917,
+    "sha256": "e2c566ef82923973a2f18581f363cf4f83269171bb885a615be03d7f75ebd095"
+  },
+  {
+    "path": "08_octavo_basico/003_constitucionalismo_y_limites_al_poder.md",
+    "size": 7924,
+    "sha256": "d594e8721719fdad55c7bb4b335d410613f72908a739c5688c3f84e1cf63417c"
+  },
+  {
+    "path": "08_octavo_basico/004_soberania_popular_y_representacion.md",
+    "size": 7912,
+    "sha256": "a758cacb1773e4ca92c3bb3d7a665591755c22379e375afb9e2dab68bddd0666"
+  },
+  {
+    "path": "08_octavo_basico/005_ciudadania_y_nacionalidad.md",
+    "size": 7885,
+    "sha256": "00c5166fc69f846856fe91151e13c4ba03bd1589741a9463add8fbdd99d2d7bf"
+  },
+  {
+    "path": "08_octavo_basico/006_ley_justicia_y_derechos_fundamentales.md",
+    "size": 7900,
+    "sha256": "257ef8fcdf7dae23b5a3749c073d333114d754bd8e809d582c0c3d26416787ac"
+  },
+  {
+    "path": "08_octavo_basico/007_instituciones_de_defensa_de_derechos.md",
+    "size": 7902,
+    "sha256": "d983262bb74f0ced3cded00ff6fcc23031822011b0259fd300f90bdc57ea1c75"
+  },
+  {
+    "path": "08_octavo_basico/008_proceso_legislativo_con_mayor_detalle.md",
+    "size": 8021,
+    "sha256": "f67f07729af1c7997404f5eaccf66ab204ca7a567502889991eeeae9170aadcd"
+  },
+  {
+    "path": "08_octavo_basico/009_tribunales_y_tipos_de_conflictos.md",
+    "size": 7916,
+    "sha256": "0c76e2551cbda042ed2393b1e430e19e273b20e95ff5f12883bd01670cc61a0b"
+  },
+  {
+    "path": "08_octavo_basico/00_indice_curso.md",
+    "size": 2812,
+    "sha256": "de4a8d4ff85b176e48b3b3745b165f43e8811a5c526843c1a59721b51bc0b3ad"
+  },
+  {
+    "path": "08_octavo_basico/010_responsabilidad_penal_adolescente_nociones_basicas.md",
+    "size": 8043,
+    "sha256": "75e2686925c31f71c491a6e650149c633aea8b0af47b4e94dc8e539e70d2e470"
+  },
+  {
+    "path": "08_octavo_basico/011_municipalidad_ordenanzas_y_participacion.md",
+    "size": 7912,
+    "sha256": "f4b78237b6a9ea5eef21334009cdf5ec9144db1be04a5465a0b1e79e063e23f5"
+  },
+  {
+    "path": "08_octavo_basico/012_organizaciones_sociales_y_movimientos_ciudadanos.md",
+    "size": 7987,
+    "sha256": "3b81fdd447687d823a7b7a7302a3ac791e29e110feb6c8a6750a219d25159899"
+  },
+  {
+    "path": "08_octavo_basico/013_libertad_de_reunion_y_protesta_pacifica.md",
+    "size": 7929,
+    "sha256": "37cecad6ae57876b1fad6f3819207e7f57eeeece89bd18894da885659125e123"
+  },
+  {
+    "path": "08_octavo_basico/014_ciudadania_digital_algoritmos_y_opinion_publica.md",
+    "size": 8014,
+    "sha256": "7faaa75306f99f874ee15934817f27bc70c3165d7d81117916b1a71da2df85ba"
+  },
+  {
+    "path": "08_octavo_basico/015_proteccion_de_datos_y_consentimiento.md",
+    "size": 7918,
+    "sha256": "056b46572643aab3f45c98c718472de54730a97ec99b61532ddc33936fcff4d3"
+  },
+  {
+    "path": "08_octavo_basico/016_resolucion_colaborativa_de_controversias.md",
+    "size": 7916,
+    "sha256": "2842e01bd216130cc9e24986b374af98d6773dc22dfade28d86b8758e3b35230"
+  },
+  {
+    "path": "08_octavo_basico/01_glosario_curso.md",
+    "size": 6564,
+    "sha256": "06e4d3e4d981c1d0e233d1afebba3f6366219a7364bf5dc3719330c2e73e8845"
+  },
+  {
+    "path": "08_octavo_basico/02_banco_preguntas.md",
+    "size": 4051,
+    "sha256": "6a99795ba9588b7471aa4e1261fd2ea857272972c2f2dd8f37416bd4601b5c86"
+  },
+  {
+    "path": "09_primero_medio/001_democracia_republica_y_estado.md",
+    "size": 7846,
+    "sha256": "8be687fca7916804d8f9f2d6c26a46723286104edbd5b9f17ff5e7f5c3cb3246"
+  },
+  {
+    "path": "09_primero_medio/002_estado_de_derecho_y_separacion_de_poderes.md",
+    "size": 7866,
+    "sha256": "0920e11222bc34c9ea4c7b37a52af33715cf8d45d919011dd7cb187dc7c3be61"
+  },
+  {
+    "path": "09_primero_medio/003_constitucion_y_sistema_politico_chileno.md",
+    "size": 7931,
+    "sha256": "05aa60262606d4c2daccd62e2cf835c89c38a823c9604cc43ccd86a95419f474"
+  },
+  {
+    "path": "09_primero_medio/004_derechos_fundamentales_y_garantias.md",
+    "size": 7893,
+    "sha256": "a8204378b24d0df0a0dc61b7d4fd3e140e886c27a3b13bb8b1baa723bba56df0"
+  },
+  {
+    "path": "09_primero_medio/005_ciudadania_nacionalidad_y_participacion_politica.md",
+    "size": 7983,
+    "sha256": "01523452bcaa66bd7942aa00728234f60d1601966251849b8280b48e5b7f6227"
+  },
+  {
+    "path": "09_primero_medio/006_partidos_politicos_y_representacion.md",
+    "size": 7901,
+    "sha256": "3cc078bb3cd85ede2ca0ca505ec06172b265bb962b8f7e5d0f759c5ddfc6ad3b"
+  },
+  {
+    "path": "09_primero_medio/007_sistemas_electorales_nociones.md",
+    "size": 7883,
+    "sha256": "50445482f4e04ee661e19bdc163f062e260c03092867533aa97fd4f4d8bd8b62"
+  },
+  {
+    "path": "09_primero_medio/008_congreso_funciones_y_fiscalizacion.md",
+    "size": 7910,
+    "sha256": "91ea6a78b3edb126c20d5ebfd558b9966f3cc121f4fed7f1643232710b12e477"
+  },
+  {
+    "path": "09_primero_medio/009_poder_ejecutivo_y_administracion_del_estado.md",
+    "size": 7976,
+    "sha256": "1cc38a86df37d61958f9fffc8e6fad1e804947886d647ac4a720dc32bb6ce82e"
+  },
+  {
+    "path": "09_primero_medio/00_indice_curso.md",
+    "size": 2830,
+    "sha256": "238ad10f121dbc8b900483240c2b362d8230244c0964386460ba44bd8be71e9f"
+  },
+  {
+    "path": "09_primero_medio/010_poder_judicial_y_acceso_a_justicia.md",
+    "size": 7881,
+    "sha256": "d752dd12e6a0086e4eeb6e40d9721357b0187ff8df1dccce8aa7b5b0a38e48ba"
+  },
+  {
+    "path": "09_primero_medio/011_ministerio_publico_defensa_y_proceso_penal.md",
+    "size": 8009,
+    "sha256": "6e4c11a6563ee28d08a6d8abbbbf351f3e91e28d8213bb6f3d6d664353f8fba1"
+  },
+  {
+    "path": "09_primero_medio/012_municipalidad_gobierno_regional_y_descentralizacion.md",
+    "size": 7926,
+    "sha256": "a7e2d5ffdcb98aa64f6ce468545dbbb7416ac929150e3b910c7bb97ddd42037f"
+  },
+  {
+    "path": "09_primero_medio/013_probidad_transparencia_y_rendicion_de_cuentas.md",
+    "size": 7970,
+    "sha256": "88d31cb42284e4a75cde54f3a10715325a2d834d21dcebd2d876d51025e39555"
+  },
+  {
+    "path": "09_primero_medio/014_ciudadania_digital_privacidad_y_libertad.md",
+    "size": 7937,
+    "sha256": "3ae9bda70707c8dcb453aa4da367d47b82d241c8657e6ee3e4cc727ef07ddfa3"
+  },
+  {
+    "path": "09_primero_medio/015_desinformacion_medios_y_democracia.md",
+    "size": 7875,
+    "sha256": "2523079617ff38272ec7158701c1c767c8ae2caf03aa551cf87a3a8d33f591c8"
+  },
+  {
+    "path": "09_primero_medio/016_resolucion_de_conflictos_y_acceso_a_mediacion.md",
+    "size": 7921,
+    "sha256": "a1142dc91d5d5e0c3e9367e6c6cbbda1dd90488e32e62193cdc062f8281aca31"
+  },
+  {
+    "path": "09_primero_medio/01_glosario_curso.md",
+    "size": 6048,
+    "sha256": "e2c7b6a157da1fe967de515c62d8ebc82b5ffa429e40a9b6837a0d0d5041fa3c"
+  },
+  {
+    "path": "09_primero_medio/02_banco_preguntas.md",
+    "size": 4070,
+    "sha256": "6cc7038cb14b54e28ce653e86736998b815cb81e789f91823a1a003251a1246f"
+  },
+  {
+    "path": "10_segundo_medio/001_democracia_y_derechos_humanos_en_el_siglo_xx.md",
+    "size": 7928,
+    "sha256": "87b49bb49863a027aa3e0a8dfab5e33efac130c402cede56401bb6fa98e4c2d9"
+  },
+  {
+    "path": "10_segundo_medio/002_violaciones_de_derechos_humanos_y_deber_de_no_repeticion.md",
+    "size": 8032,
+    "sha256": "a8de3b098e0ecd4661900cad9211c7a5842fde7a686e07980aac190c5d5f5846"
+  },
+  {
+    "path": "10_segundo_medio/003_transicion_democratica_y_ciudadania.md",
+    "size": 7899,
+    "sha256": "e9db8f79f7a27ff2992e60c6cf4e34950378dfdb4ee440bc43f11bd768555fd6"
+  },
+  {
+    "path": "10_segundo_medio/004_constitucion_reformas_y_cambio_institucional.md",
+    "size": 7983,
+    "sha256": "c6404f4715626ed756736bee60b5a44a111a3fb13855d2ca1edd0c9be26d7e20"
+  },
+  {
+    "path": "10_segundo_medio/005_plebiscito_referendum_y_consulta.md",
+    "size": 7857,
+    "sha256": "9da11e26513feb81c43bcb56ba89f42a7f8890033174929e96f5b736f94db6bd"
+  },
+  {
+    "path": "10_segundo_medio/006_derechos_civiles_politicos_y_sociales.md",
+    "size": 7916,
+    "sha256": "10e33c9064f99f1adcfcc166ad18fe1b314feb6e2a77858d186754dc42c96343"
+  },
+  {
+    "path": "10_segundo_medio/007_igualdad_ante_la_ley_y_no_discriminacion.md",
+    "size": 7877,
+    "sha256": "8bc4d60b038082b9f54fe53780b6517f243abec64b972ab63b84dae54c4a9ba3"
+  },
+  {
+    "path": "10_segundo_medio/008_justicia_constitucional.md",
+    "size": 7779,
+    "sha256": "6f18dc0dce99f946c633222b2df211f67dbaa91c6b1c8b44c6e8bbed2f87997b"
+  },
+  {
+    "path": "10_segundo_medio/009_contraloria_y_control_administrativo.md",
+    "size": 7901,
+    "sha256": "7b25c4a76c59e1aba4b1dbaf3423d8369b20060d5c517e0394cdb300ae73c17e"
+  },
+  {
+    "path": "10_segundo_medio/00_indice_curso.md",
+    "size": 2791,
+    "sha256": "e9c71089e0842a98f2531aef93ea06996d9c01c1c573b37033936ffd5e71df00"
+  },
+  {
+    "path": "10_segundo_medio/010_defensorias_y_acceso_a_derechos.md",
+    "size": 7819,
+    "sha256": "9fdc88ae449e0d44d98d334d1ce6f4728fbd9e80044002c060e410a34c86aff8"
+  },
+  {
+    "path": "10_segundo_medio/011_politicas_publicas_y_evaluacion.md",
+    "size": 7923,
+    "sha256": "ae5e6b6f5a64fd159a97642afa3799b7bcb95ffb5a7c196b8eba267db5c33110"
+  },
+  {
+    "path": "10_segundo_medio/012_presupuesto_publico_y_prioridades.md",
+    "size": 7866,
+    "sha256": "d7c59b5ad40001a810f5c5b444820168c2a7cd37db16f3222ee6807341f0f280"
+  },
+  {
+    "path": "10_segundo_medio/013_participacion_social_y_movimientos_ciudadanos.md",
+    "size": 7950,
+    "sha256": "dcb3a4398222b55c6e016bca71ecf54c11ec1c18d10e9658c85b2807a35332cc"
+  },
+  {
+    "path": "10_segundo_medio/014_ciudadania_digital_vigilancia_y_datos.md",
+    "size": 7885,
+    "sha256": "95ec5d6d5bd70af9e0c78db9c6be083aea17c972a252a3c4faaa897290d229a9"
+  },
+  {
+    "path": "10_segundo_medio/015_plataformas_moderacion_y_democracia.md",
+    "size": 7920,
+    "sha256": "195f6f0c124ec6a36ce200102c3db46058af40c5ae864693d2fc2c6536809512"
+  },
+  {
+    "path": "10_segundo_medio/016_justicia_restaurativa_y_reinsercion.md",
+    "size": 7909,
+    "sha256": "a4f70e541b400e478a37c72f2fab1bf237b816f5486750bca245a04f44754075"
+  },
+  {
+    "path": "10_segundo_medio/01_glosario_curso.md",
+    "size": 6040,
+    "sha256": "699193e33652e3c3b53164994afdcd2a3dbdeac84b087b902c6391e845b8cd08"
+  },
+  {
+    "path": "10_segundo_medio/02_banco_preguntas.md",
+    "size": 4036,
+    "sha256": "a71730ce4481596859d7a8c21fc63e114383883cd7418af154837e89213764ab"
+  },
+  {
+    "path": "11_tercero_medio/001_fundamentos_y_dimensiones_de_la_democracia.md",
+    "size": 8027,
+    "sha256": "36a17184877e830dbd28dc224782fa7a94ac8c3ecda2bd509abf2487ec49415c"
+  },
+  {
+    "path": "11_tercero_medio/002_ciudadania_derechos_y_responsabilidades.md",
+    "size": 7924,
+    "sha256": "761b26da786d60ea82c7ec2d7a1df95c65a1602b07ec42d36e7aa70bc9382cc1"
+  },
+  {
+    "path": "11_tercero_medio/003_estado_regimen_politico_y_sistema_de_gobierno.md",
+    "size": 7986,
+    "sha256": "3299b9f54decf761ad54fe9c103c85008b8b3897259a721312cb4512d45fc77a"
+  },
+  {
+    "path": "11_tercero_medio/004_estado_de_derecho_y_constitucionalismo.md",
+    "size": 7924,
+    "sha256": "b7ecf1c6ee1e39d93170683dc6b9288532ba7b323c93a9baae49d0b1e9358031"
+  },
+  {
+    "path": "11_tercero_medio/005_derechos_humanos_y_obligaciones_estatales.md",
+    "size": 7919,
+    "sha256": "5f589e175e329a350f727904683b5b523a4b0ab47eccb95d93601b46a826768d"
+  },
+  {
+    "path": "11_tercero_medio/006_instituciones_democraticas_chilenas.md",
+    "size": 7927,
+    "sha256": "334f59e3ca8d3776a5de01bb4da06c5c4872d0f240bd9a94789756b029c37a90"
+  },
+  {
+    "path": "11_tercero_medio/007_formacion_de_la_ley_y_deliberacion_legislativa.md",
+    "size": 8031,
+    "sha256": "b1c767f505f724452ea1e4f848ba129779c015d88f4b556fdf055c294cc44e98"
+  },
+  {
+    "path": "11_tercero_medio/008_poder_judicial_debido_proceso_y_acceso_a_justicia.md",
+    "size": 7941,
+    "sha256": "1650db69b2a8292b55b9a2ced9888ded4f7c8e17cf7d337bc99ea763de89407a"
+  },
+  {
+    "path": "11_tercero_medio/009_municipalidad_y_democracia_local.md",
+    "size": 7894,
+    "sha256": "d5dcd4e09b61f4565cc546357544132335ee87353f901b969a1be0c8b87ceb09"
+  },
+  {
+    "path": "11_tercero_medio/00_indice_curso.md",
+    "size": 3141,
+    "sha256": "8e4e37ad5272a8cf1b6966edf9e16ac70d01412e24754e755bcad3778985ab2a"
+  },
+  {
+    "path": "11_tercero_medio/010_participacion_electoral_y_no_electoral.md",
+    "size": 7986,
+    "sha256": "f0fe0c867fa0b1a7cb510f44c1c3b479e813049f14c7095b7f659076d558d857"
+  },
+  {
+    "path": "11_tercero_medio/011_opinion_publica_medios_y_poder.md",
+    "size": 7852,
+    "sha256": "5439ab25af040eb6a20c3ed478b41a8addbc45b9bc64387068b2996a91ce97df"
+  },
+  {
+    "path": "11_tercero_medio/012_desinformacion_y_alfabetizacion_mediatica.md",
+    "size": 7930,
+    "sha256": "4baa65aa66e4a3855ff2ad4c23599f0d32f70476ad06b01d488038751fd6dcd4"
+  },
+  {
+    "path": "11_tercero_medio/013_datos_personales_privacidad_y_ciudadania_digital.md",
+    "size": 7971,
+    "sha256": "63b4f580e0114eb38d844731c0808119c56b043cfdf788f497dab92d7ff30fd4"
+  },
+  {
+    "path": "11_tercero_medio/014_politicas_publicas_y_bien_comun.md",
+    "size": 7923,
+    "sha256": "511b4ec806af3cb085f88c90bdf9714a27a0c3685d7488b3bc9968eeb433c0c4"
+  },
+  {
+    "path": "11_tercero_medio/015_justicia_social_igualdad_y_equidad.md",
+    "size": 7881,
+    "sha256": "c55b524d1fe65012280cd79e2c5e9f20916be2279e57def870bcaaf4d6e119a3"
+  },
+  {
+    "path": "11_tercero_medio/016_resolucion_democratica_de_conflictos.md",
+    "size": 7904,
+    "sha256": "120dfcaec801a752dc07f3f3125b2e0915b006665e9b164700de8e7a27b48d80"
+  },
+  {
+    "path": "11_tercero_medio/017_probidad_transparencia_y_corrupcion.md",
+    "size": 7923,
+    "sha256": "dbc89e23d5d6d2bfbede20fc268878dd3948994193b0e805aa58591669c95443"
+  },
+  {
+    "path": "11_tercero_medio/018_proyecto_de_participacion_ciudadana.md",
+    "size": 7958,
+    "sha256": "2fc62e58872821c9e05bdc404afb857137da0a4a8bf6b2e4a30c08b8d4360197"
+  },
+  {
+    "path": "11_tercero_medio/01_glosario_curso.md",
+    "size": 7675,
+    "sha256": "a95a7ff689eba989f5ef5a7fd2a2db6473bd3fd7b5b965fa8f8c3e19c39e9a7c"
+  },
+  {
+    "path": "11_tercero_medio/02_banco_preguntas.md",
+    "size": 4565,
+    "sha256": "bddeeef55d6365a6d63206e91dc3b12484300da21adb0b244ff278d5f734c8ea"
+  },
+  {
+    "path": "12_cuarto_medio/001_democracia_justicia_social_y_desarrollo_sustentable.md",
+    "size": 7989,
+    "sha256": "0871db3eb7b25d4961bfb5fc453f9a90eee81695919f7e39c5c0d18fa19b33a1"
+  },
+  {
+    "path": "12_cuarto_medio/002_institucionalidad_democratica_y_desafios_contemporaneos.md",
+    "size": 7988,
+    "sha256": "ec3367b2f00bd181bc1b68c845081befd5aab6f1ab497a8f756948d25560d63f"
+  },
+  {
+    "path": "12_cuarto_medio/003_constitucion_derechos_y_cambio_constitucional.md",
+    "size": 7966,
+    "sha256": "a2696164e4cb76489f7076eac298217f27218b02a3fb4ee4340e37a5f3ef01ed"
+  },
+  {
+    "path": "12_cuarto_medio/004_separacion_de_poderes_y_controles_reciprocos.md",
+    "size": 7977,
+    "sha256": "61a1ad884e1cd15749725d7e13236bae29f61f6e9c96c4092e42e0c0f09a89fc"
+  },
+  {
+    "path": "12_cuarto_medio/005_sistema_electoral_representacion_y_partidos.md",
+    "size": 7961,
+    "sha256": "01b4456b2c1f715c5411acae7fa8146eb2c15856c9e6a42b153f43d96f0f512f"
+  },
+  {
+    "path": "12_cuarto_medio/006_ciudadania_global_y_derecho_internacional_de_los_derechos_humanos.md",
+    "size": 8092,
+    "sha256": "49563f46737ebbd0ec08f4c0ce5af7ee614ea5c9b4b6bc8bc06323a7d6906480"
+  },
+  {
+    "path": "12_cuarto_medio/007_derechos_digitales_y_regulacion_de_plataformas.md",
+    "size": 7953,
+    "sha256": "b719960fd025bfb0947fadddf347f7e7fdf59232c85303fcbf9bc4228048f024"
+  },
+  {
+    "path": "12_cuarto_medio/008_inteligencia_artificial_decisiones_y_derechos.md",
+    "size": 7992,
+    "sha256": "e4883745373c18ec3c3bcd5f1eac00c57a03fdaf3220b65fd0fcc56476c26d21"
+  },
+  {
+    "path": "12_cuarto_medio/009_libertad_de_expresion_honra_y_privacidad.md",
+    "size": 7946,
+    "sha256": "e2c03824fb0c95eaf9251cc064de03c530bd8eef2b5a44c5f827a73618096f5b"
+  },
+  {
+    "path": "12_cuarto_medio/00_indice_curso.md",
+    "size": 3241,
+    "sha256": "9203b8989ea57b2ba4fc8acb52a6f6e37dd49c29e9fc616d4f73c9e28a28627b"
+  },
+  {
+    "path": "12_cuarto_medio/010_seguridad_publica_y_derechos_fundamentales.md",
+    "size": 7952,
+    "sha256": "b21eb1901843d3bbb96f6efe6f9bafe8817ae74f706c6d5ebd796923a4be2e56"
+  },
+  {
+    "path": "12_cuarto_medio/011_justicia_ambiental_y_participacion.md",
+    "size": 7899,
+    "sha256": "35b5425bb7bef8c2bbb05d15c3a8cda2c9c67744721f81d819e131adf7924b99"
+  },
+  {
+    "path": "12_cuarto_medio/012_migracion_ciudadania_y_derechos.md",
+    "size": 7868,
+    "sha256": "c170fc32cb8203a374ee4efe98ee74a0269d62e719003ece60e66a9e4f85abe5"
+  },
+  {
+    "path": "12_cuarto_medio/013_trabajo_seguridad_social_y_derechos.md",
+    "size": 7881,
+    "sha256": "4ea0c30820e5eb4fcb33ac7fcdd32d18dcb48307b6f47a3ddbc07c46095dcc99"
+  },
+  {
+    "path": "12_cuarto_medio/014_consumo_contratos_y_proteccion_basica.md",
+    "size": 7895,
+    "sha256": "67e78a8429f08da11bcb37fd319f149b31c1a5e9752a94b6a17236a05cc17481"
+  },
+  {
+    "path": "12_cuarto_medio/015_responsabilidad_civil_y_penal_diferencias.md",
+    "size": 7917,
+    "sha256": "882fafdf61eaf4f141fac30c35225a398fb38adbe6e3a030f8524a42e889e35e"
+  },
+  {
+    "path": "12_cuarto_medio/016_acceso_a_justicia_y_barreras.md",
+    "size": 7832,
+    "sha256": "63eddf965b4e3cfe779d7a791cae728da3a3acddc8c4eac77a53c20e3961c1ad"
+  },
+  {
+    "path": "12_cuarto_medio/017_participacion_incidente_y_control_ciudadano.md",
+    "size": 7936,
+    "sha256": "5cb9505169a0ceecb38eb48cd5b213bd6877c7cf24f62deac8fa4e9e22793f75"
+  },
+  {
+    "path": "12_cuarto_medio/018_proyecto_ciudadano_con_evidencia.md",
+    "size": 7960,
+    "sha256": "685abebca8d5ef83f56ae5c13c6c6a69c9fb68f1965fef33a9ead496921dff70"
+  },
+  {
+    "path": "12_cuarto_medio/01_glosario_curso.md",
+    "size": 7022,
+    "sha256": "7748ffa53a370714bc3185c87ec80da4e3c2df9d056f35ca49f28ed38a8a8362"
+  },
+  {
+    "path": "12_cuarto_medio/02_banco_preguntas.md",
+    "size": 4626,
+    "sha256": "f057de00419874eb705e905cddd265da33d88eee7a05b995fd08c5d9b025cae2"
+  },
+  {
+    "path": "13_tematicos_transversales/001_normas_leyes_y_constitucion_diferencias.md",
+    "size": 8006,
+    "sha256": "6ec61e3bcb64126a33d78c461cb9ac641e7901037af124b385f16de8f62e284e"
+  },
+  {
+    "path": "13_tematicos_transversales/002_derechos_del_nino_y_la_nina.md",
+    "size": 8038,
+    "sha256": "db833c649d09a0d508b7e0e7483fedbeff090ca06063121162fe6891b32fb337"
+  },
+  {
+    "path": "13_tematicos_transversales/003_democracia_y_participacion.md",
+    "size": 7959,
+    "sha256": "ac05de8bd856a6b9e401d401c8b8944948f83d3de20d700e40e6962227b6fcb9"
+  },
+  {
+    "path": "13_tematicos_transversales/004_poder_ejecutivo_legislativo_y_judicial.md",
+    "size": 7916,
+    "sha256": "9fff28b9eaa8ae87657a17332d163803d932455a0e66b27812f5330074bdd1b3"
+  },
+  {
+    "path": "13_tematicos_transversales/005_municipalidad_y_gobierno_local.md",
+    "size": 7850,
+    "sha256": "c54f666ee8d39213813571843611add0c9ece2eb0b3baf786aef276054b31092"
+  },
+  {
+    "path": "13_tematicos_transversales/006_congreso_nacional_y_proceso_legislativo.md",
+    "size": 7878,
+    "sha256": "cc0440a659dca1fb1c77c0cc89a115291544a77f074faca67e1efd405d81a066"
+  },
+  {
+    "path": "13_tematicos_transversales/007_tribunales_y_acceso_a_justicia.md",
+    "size": 7846,
+    "sha256": "b141d63025832c3fe8a4e2fe138855b9c682c57367979e425777dfbcae794fec"
+  },
+  {
+    "path": "13_tematicos_transversales/008_constitucion_politica_guia_escolar.md",
+    "size": 7904,
+    "sha256": "3df3342f09c4ad13152d4c8d6699c8da2ef2d5d1640a6628b70dc91fb92f9b02"
+  },
+  {
+    "path": "13_tematicos_transversales/009_derechos_humanos_principios.md",
+    "size": 7865,
+    "sha256": "3dcac34f3e414695606a28b00d1c94941348aae7f56b4398559c03a792153d3a"
+  },
+  {
+    "path": "13_tematicos_transversales/010_resolucion_pacifica_de_conflictos.md",
+    "size": 7879,
+    "sha256": "bb0cc8e042bbd86c91d8d0456756311c5d9b8e7420e2917fc134326876a87500"
+  },
+  {
+    "path": "13_tematicos_transversales/011_ciudadania_digital_y_privacidad.md",
+    "size": 7903,
+    "sha256": "ec3d83577cd36e359532eaed3fed7f9f21a14178927bee510e79e20e83f34dc9"
+  },
+  {
+    "path": "13_tematicos_transversales/012_desinformacion_y_verificacion.md",
+    "size": 7859,
+    "sha256": "e139cfedf662ae97d6e7b94b50ae1ddb8adb6716e919df57090e1060907c7509"
+  },
+  {
+    "path": "13_tematicos_transversales/013_participacion_ciudadana_formal_e_informal.md",
+    "size": 7930,
+    "sha256": "42efd580eecbd1d11770994e97f7bbeebe45359b04a0af947cc872d1bcd08ac9"
+  },
+  {
+    "path": "13_tematicos_transversales/014_justicia_sancion_y_reparacion.md",
+    "size": 7876,
+    "sha256": "dac619b34cd6c2d6e8a15c13b99e985ae20cd03c5ffa2241e6a899d2b1c983a2"
+  },
+  {
+    "path": "13_tematicos_transversales/015_probidad_transparencia_y_rendicion_de_cuentas.md",
+    "size": 7961,
+    "sha256": "b370aa023d40da40eba0e5a032be5ea4505b2d5a7b040075b7a6bd48264b6356"
+  },
+  {
+    "path": "13_tematicos_transversales/016_politicas_publicas_y_presupuesto.md",
+    "size": 7945,
+    "sha256": "e145f29c448342b5408029af1e0dc3fc3ba49f0a67eac6ea269e409644ef5bad"
+  },
+  {
+    "path": "13_tematicos_transversales/017_no_discriminacion_e_inclusion.md",
+    "size": 7869,
+    "sha256": "f2fc9e25d1edda06f5f6d6ef234228115218de43fba76808368860ce2e887197"
+  },
+  {
+    "path": "13_tematicos_transversales/018_ciudadania_global_y_cooperacion.md",
+    "size": 7922,
+    "sha256": "7a21f68e0456cd3b7611800f3f03d8d08cf29270c57ed8e9383988e169f1b968"
+  },
+  {
+    "path": "14_bancos_generales/01_glosario_general.md",
+    "size": 41504,
+    "sha256": "27218e74bcd2d4d804752140149d03630a160046ef15dda35adf00f5b31f0068"
+  },
+  {
+    "path": "14_bancos_generales/02_palabras_clave.md",
+    "size": 4551,
+    "sha256": "a7b1b3c509bd996e17032de8c0a97bf39f42a349281f549326eddd271d012363"
+  },
+  {
+    "path": "14_bancos_generales/03_mapa_instituciones.md",
+    "size": 310,
+    "sha256": "81baa91dac96e50362c8d134338b01bc06bed7c23f0ee7f06fd53066bdefe22e"
+  },
+  {
+    "path": "14_bancos_generales/04_mapa_relaciones_materias.md",
+    "size": 430,
+    "sha256": "c000e90142b5e95822ee623765a5effd35f0b4157297bfe21c91c2bfd53e4e51"
+  },
+  {
+    "path": "15_evaluaciones_generales/01_evaluaciones_generales.md",
+    "size": 431,
+    "sha256": "5f7670e589fa029bde803f4e979307e0c3dffd8a56058938e2fb6ab776b18f68"
+  },
+  {
+    "path": "16_apoyo_inclusivo/01_adaptaciones_tea.md",
+    "size": 232,
+    "sha256": "c76af537a227a011940a6111cd820cb03b34a83b1b79df5e1a5b97db7deee353"
+  },
+  {
+    "path": "16_apoyo_inclusivo/02_reglas_por_perfil.md",
+    "size": 249,
+    "sha256": "4d72fad425fbf18e1abe9adfe995689a3f6eae692b6d9a527b40a9d25bbf528d"
+  },
+  {
+    "path": "17_compendios/compendio_cuarto_basico.md",
+    "size": 110722,
+    "sha256": "a3b0f39b7f7f19b2d52a196d9ff6a4ad84c0dda3ed86295d01ff6fce3483477e"
+  },
+  {
+    "path": "17_compendios/compendio_cuarto_medio.md",
+    "size": 143157,
+    "sha256": "9d9d8ce56e86a4738cd1a1ab481195dd341519a29c528afdc166f766db6b8fb7"
+  },
+  {
+    "path": "17_compendios/compendio_octavo_basico.md",
+    "size": 127158,
+    "sha256": "36c5702733615a744899fdce37738fe5f4f4fd15190aa470d116a64d70ac610a"
+  },
+  {
+    "path": "17_compendios/compendio_primero_basico.md",
+    "size": 79399,
+    "sha256": "3e8be0c4eba83a49f880cad48d5b4b7738a201f432594981110014e3c1ee1515"
+  },
+  {
+    "path": "17_compendios/compendio_primero_medio.md",
+    "size": 126847,
+    "sha256": "47b1a87527bf65b3018169bf2c536a45a72478b5a86c22ad49cc14d4f0718b50"
+  },
+  {
+    "path": "17_compendios/compendio_quinto_basico.md",
+    "size": 142464,
+    "sha256": "d713478bc2c003d2c48b8f2104d01839c83aa41a796b398dbe4c9b51f8f3a258"
+  },
+  {
+    "path": "17_compendios/compendio_segundo_basico.md",
+    "size": 94831,
+    "sha256": "709f69fd48d173fe21d923083d7233703673808bc14a31f4ab663eaa662c95de"
+  },
+  {
+    "path": "17_compendios/compendio_segundo_medio.md",
+    "size": 126583,
+    "sha256": "7682d157abb4c2e306612dbef66fbf1699c2b2f048c6d502fa0e009a09612e22"
+  },
+  {
+    "path": "17_compendios/compendio_septimo_basico.md",
+    "size": 126600,
+    "sha256": "907d5d55f7f93931eda93c9f43a287cfcd36659f67d403683e1c4bf3d1bbd505"
+  },
+  {
+    "path": "17_compendios/compendio_sexto_basico.md",
+    "size": 142699,
+    "sha256": "cfd23f889820c92fd18ab79ac9c8e26f42c48d10d764b6bd19b601e2c951da08"
+  },
+  {
+    "path": "17_compendios/compendio_tercero_basico.md",
+    "size": 110633,
+    "sha256": "bb6fd28da313d35aa407fd860a1d5cca4da56ecdfcd5e07dde6de41b2633b54d"
+  },
+  {
+    "path": "17_compendios/compendio_tercero_medio.md",
+    "size": 143054,
+    "sha256": "f4f4f5883312d2f16aeb6096e48d656e82b6a74e5248760bc6c61499f03ec178"
+  },
+  {
+    "path": "17_compendios/compendio_transversal.md",
+    "size": 142557,
+    "sha256": "f7062b0491864cacd5d5bdd9eb7177e3face80e4de57126bd4e55abdfa8f2a06"
+  },
+  {
+    "path": "17_compendios/enciclopedia_completa_ciudadania_derecho.md",
+    "size": 1616792,
+    "sha256": "adc4d300742ed81a01bc3dff31fda360b967b6f6a5b678da4e5e8506e8f873b7"
+  },
+  {
+    "path": "18_rag/catalogo_capitulos.json",
+    "size": 108274,
+    "sha256": "f392f91d78950fba49b65a707600b6d3639a4483ffabc0d9f0abca5a42a60aab"
+  },
+  {
+    "path": "18_rag/catalogo_capitulos.jsonl",
+    "size": 92401,
+    "sha256": "d3aa0379fd9b3cf78b67913133f8fede32f75496c1944e0595ea5f419da687d0"
+  },
+  {
+    "path": "18_rag/chunks_ciudadania_derecho.jsonl",
+    "size": 2957302,
+    "sha256": "ffe64dde556eea4887c7067f1dbb8ebcf1a46653f5d66f7028063f805929b086"
+  },
+  {
+    "path": "CHANGELOG.md",
+    "size": 182,
+    "sha256": "eceae9317b25377d5db4f3fcdbf5295b129150f15f60f20461da6aa5368ca07f"
+  },
+  {
+    "path": "README.md",
+    "size": 978,
+    "sha256": "c465eb1dee867bea22ae507dd7ecda2ea184b26faf74f1dd673c7cdd3204a64a"
+  }
+]

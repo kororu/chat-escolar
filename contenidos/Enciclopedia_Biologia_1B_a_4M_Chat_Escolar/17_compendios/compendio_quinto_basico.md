@@ -1,0 +1,5354 @@
+# Compendio — 5° básico
+
+---
+id: "bio_5b_001_la_celula_como_unidad_de_vida"
+titulo: "La célula como unidad de vida"
+area: "Biología"
+categoria: "biologia_celular"
+curso_origen: "5° básico"
+nivel: "intermedio"
+edad_referencial: "10 a 11 años"
+apto_desde: "5° básico"
+alineacion_curricular: "curricular_directa"
+tipo_contenido: "enciclopedia_biologia"
+requiere_fuente_verificada: false
+tema_sensible: false
+palabras_clave:
+  - "la célula como unidad de vida"
+  - "biología"
+  - "seres vivos"
+  - "evidencia"
+  - "salud y ambiente"
+materias_relacionadas:
+  - "Ciencias Naturales"
+  - "Química"
+  - "Matemática"
+  - "Educación Ciudadana"
+  - "Orientación"
+version: "1.0"
+fecha_revision: "2026-07-14"
+---
+
+# La célula como unidad de vida
+
+> **Referencia curricular:** colección organizada el 2026-07-14. En 1° básico se parte con características, necesidades y diversidad de seres vivos; en 8° básico se profundizan célula, plantas, nutrición y sistemas; en 1° medio se desarrollan evolución, biodiversidad y ecosistemas; y en 3°–4° medio los temas biológicos se conectan con bienestar, salud, ambiente y ciudadanía científica. Los datos médicos, epidemiológicos, ambientales y biotecnológicos recientes requieren verificación actualizada.
+
+
+## Respuesta breve
+
+**La célula como unidad de vida** es un tema biológico relacionado con la organización, funcionamiento, diversidad, reproducción, evolución o interacción de los seres vivos. Se explica utilizando observaciones, modelos y evidencias.
+
+## Explicación clara
+
+La biología estudia la vida desde distintas escalas: moléculas, células, tejidos, órganos, organismos, poblaciones, comunidades, ecosistemas y biósfera. Un mismo fenómeno puede requerir varias escalas.
+
+Para estudiar este tema se deben responder cinco preguntas:
+
+1. **¿Qué estructura o ser vivo participa?**
+2. **¿Qué función o proceso ocurre?**
+3. **¿Cómo se regula o cambia?**
+4. **¿Cómo se relaciona con el ambiente?**
+5. **¿Qué evidencia sostiene la explicación?**
+
+Las explicaciones biológicas no deben presentar a los organismos como máquinas perfectas. Los seres vivos tienen variación, límites, historia evolutiva e interacción constante con el ambiente.
+
+## Conceptos clave
+
+- **Organismo:** ser vivo individual.
+- **Célula:** unidad estructural y funcional básica de la vida.
+- **Estructura:** parte organizada de un sistema biológico.
+- **Función:** proceso o contribución realizada por una estructura.
+- **Ambiente:** condiciones y componentes que rodean a un organismo.
+- **Adaptación:** característica heredable asociada a mayor éxito reproductivo en cierto ambiente.
+- **Evidencia:** observaciones o datos que apoyan o cuestionan una explicación.
+
+## Ejemplo cotidiano
+
+Observar una imagen microscópica de células de cebolla permite reconocer límites y formas, sin asumir que todas las células son iguales.
+
+Este ejemplo ayuda a comenzar, pero no reemplaza modelos, mediciones ni explicaciones completas. El chatbot debe aclarar cuando una comparación simplifica demasiado.
+
+## Ejemplo adaptado para estudiantes con TEA
+
+Usar una secuencia predecible:
+
+```text
+QUÉ ES → PARTES → FUNCIÓN → EJEMPLO → RELACIÓN CON SALUD O AMBIENTE
+```
+
+- Presentar una idea por vez.
+- Usar diagramas simples y etiquetas claras.
+- Evitar imágenes médicas explícitas o sorpresivas.
+- No pedir información personal sobre pubertad, reproducción, diagnósticos o salud.
+- Permitir respuestas mediante selección, orden, dibujo o escritura breve.
+- Anticipar vocabulario sensible.
+
+## Actividad segura
+
+### Observar, clasificar y explicar
+
+1. Selecciona imágenes, datos o muestras vegetales seguras.
+2. Define una característica observable.
+3. Clasifica según un criterio.
+4. Registra en una tabla.
+5. Compara semejanzas y diferencias.
+6. Propón una explicación.
+7. Indica qué evidencia adicional necesitarías.
+
+**Seguridad:** no cultivar microorganismos desconocidos, manipular fluidos corporales, probar sustancias, administrar medicamentos ni experimentar con animales causando estrés o daño.
+
+## Relación con salud y ambiente
+
+La biología permite comprender alimentación, sueño, actividad física, enfermedades, reproducción, biodiversidad, agricultura, conservación y cambio ambiental. Sin embargo, explicar un proceso biológico no equivale a diagnosticar a una persona.
+
+## Ciudadanía científica
+
+Este tema puede conectarse con:
+
+- derecho de niños y niñas a salud, educación y protección;
+- privacidad de datos de salud y genética;
+- consentimiento y respeto corporal;
+- instituciones sanitarias y ambientales;
+- leyes de protección ambiental y biodiversidad;
+- participación comunitaria;
+- justicia ambiental;
+- ciudadanía digital y desinformación;
+- resolución pacífica de controversias científicas y ambientales.
+
+## Preguntas de práctica
+
+### Inicial
+
+1. ¿Qué ser vivo, estructura o proceso estudia el tema?
+2. ¿Qué función cumple?
+3. Da un ejemplo cotidiano.
+
+### Intermedio
+
+4. ¿Qué niveles de organización intervienen?
+5. ¿Qué evidencia podría observarse?
+6. ¿Cómo influye el ambiente?
+
+### Desafío
+
+7. ¿Qué modelo usarías?
+8. ¿Qué limitación tendría?
+9. ¿Cómo se relaciona con salud o biodiversidad?
+10. ¿Qué dato actual necesitaría una fuente verificada?
+
+## Respuestas esperadas
+
+- Diferenciar estructura y función.
+- Evitar explicaciones finalistas como “existe para que”.
+- Distinguir adaptación evolutiva de ajuste individual.
+- Usar evidencia.
+- Reconocer variación biológica.
+- No convertir información de salud en diagnóstico.
+- Proteger privacidad.
+- Verificar datos actuales.
+
+## Errores frecuentes
+
+- Pensar que todos los microorganismos son dañinos.
+- Creer que los individuos evolucionan durante su vida.
+- Confundir adaptación con decisión consciente.
+- Suponer que un gen determina por sí solo cualquier característica compleja.
+- Decir que un sistema corporal funciona aislado.
+- Presentar ecosistemas como cadenas simples sin redes.
+- Usar “natural” como sinónimo de seguro.
+- Recomendar tratamientos sin evaluación profesional.
+
+## Cómo explicarlo si el estudiante no entiende
+
+> “La biología estudia cómo son los seres vivos, cómo funcionan, cómo cambian y cómo se relacionan con el ambiente.”
+
+## Para apoderados
+
+Trabaje con plantas, alimentos, fotografías, visitas a plazas y rutinas de salud. Pregunte “¿qué observaste?” antes de “¿por qué ocurre?”. En temas corporales, use nombres correctos, privacidad y tono respetuoso.
+
+## Para docentes
+
+Identifique la habilidad:
+
+- observar;
+- clasificar;
+- modelar;
+- explicar estructura y función;
+- analizar datos;
+- argumentar con evidencia;
+- diseñar investigaciones;
+- evaluar implicancias éticas.
+
+En reproducción y salud, ofrezca preguntas impersonales y alternativas de participación.
+
+## Mini resumen
+
+- La vida se organiza en niveles.
+- La célula es una unidad fundamental.
+- Los sistemas interactúan.
+- Los organismos presentan variación.
+- La evolución ocurre en poblaciones.
+- Los ecosistemas conectan vida y ambiente.
+- La salud requiere evidencia y contexto.
+
+## Palabras clave para búsqueda local
+
+la célula como unidad de vida, biología, célula, organismo, salud, ambiente, evidencia
+
+## Temas relacionados
+
+### Cursos anteriores
+
+Características de seres vivos, observación, clasificación, cuerpo y ambiente.
+
+### Cursos posteriores
+
+Mecanismos celulares, genética, evolución, ecología, salud pública y bioética.
+
+## Reglas para Chat Escolar
+
+- Adaptar vocabulario al curso activo.
+- Empezar con una explicación breve.
+- Añadir un ejemplo concreto.
+- No diagnosticar.
+- No pedir datos privados.
+- No recomendar medicamentos.
+- No inventar mecanismos ni resultados.
+- Diferenciar consenso, hipótesis y controversia.
+- Aclarar límites de analogías.
+- Para estudiante: explicación, esquema y práctica.
+- Para apoderado: actividad segura y forma de conversar.
+- Para docente: habilidad, evaluación, adaptación y fuentes.
+
+
+---
+
+---
+id: "bio_5b_002_celulas_animales_y_vegetales"
+titulo: "Células animales y vegetales"
+area: "Biología"
+categoria: "biologia_celular"
+curso_origen: "5° básico"
+nivel: "intermedio"
+edad_referencial: "10 a 11 años"
+apto_desde: "5° básico"
+alineacion_curricular: "curricular_directa"
+tipo_contenido: "enciclopedia_biologia"
+requiere_fuente_verificada: false
+tema_sensible: false
+palabras_clave:
+  - "células animales y vegetales"
+  - "biología"
+  - "seres vivos"
+  - "evidencia"
+  - "salud y ambiente"
+materias_relacionadas:
+  - "Ciencias Naturales"
+  - "Química"
+  - "Matemática"
+  - "Educación Ciudadana"
+  - "Orientación"
+version: "1.0"
+fecha_revision: "2026-07-14"
+---
+
+# Células animales y vegetales
+
+> **Referencia curricular:** colección organizada el 2026-07-14. En 1° básico se parte con características, necesidades y diversidad de seres vivos; en 8° básico se profundizan célula, plantas, nutrición y sistemas; en 1° medio se desarrollan evolución, biodiversidad y ecosistemas; y en 3°–4° medio los temas biológicos se conectan con bienestar, salud, ambiente y ciudadanía científica. Los datos médicos, epidemiológicos, ambientales y biotecnológicos recientes requieren verificación actualizada.
+
+
+## Respuesta breve
+
+**Células animales y vegetales** es un tema biológico relacionado con la organización, funcionamiento, diversidad, reproducción, evolución o interacción de los seres vivos. Se explica utilizando observaciones, modelos y evidencias.
+
+## Explicación clara
+
+La biología estudia la vida desde distintas escalas: moléculas, células, tejidos, órganos, organismos, poblaciones, comunidades, ecosistemas y biósfera. Un mismo fenómeno puede requerir varias escalas.
+
+Para estudiar este tema se deben responder cinco preguntas:
+
+1. **¿Qué estructura o ser vivo participa?**
+2. **¿Qué función o proceso ocurre?**
+3. **¿Cómo se regula o cambia?**
+4. **¿Cómo se relaciona con el ambiente?**
+5. **¿Qué evidencia sostiene la explicación?**
+
+Las explicaciones biológicas no deben presentar a los organismos como máquinas perfectas. Los seres vivos tienen variación, límites, historia evolutiva e interacción constante con el ambiente.
+
+## Conceptos clave
+
+- **Organismo:** ser vivo individual.
+- **Célula:** unidad estructural y funcional básica de la vida.
+- **Estructura:** parte organizada de un sistema biológico.
+- **Función:** proceso o contribución realizada por una estructura.
+- **Ambiente:** condiciones y componentes que rodean a un organismo.
+- **Adaptación:** característica heredable asociada a mayor éxito reproductivo en cierto ambiente.
+- **Evidencia:** observaciones o datos que apoyan o cuestionan una explicación.
+
+## Ejemplo cotidiano
+
+Observar una imagen microscópica de células de cebolla permite reconocer límites y formas, sin asumir que todas las células son iguales.
+
+Este ejemplo ayuda a comenzar, pero no reemplaza modelos, mediciones ni explicaciones completas. El chatbot debe aclarar cuando una comparación simplifica demasiado.
+
+## Ejemplo adaptado para estudiantes con TEA
+
+Usar una secuencia predecible:
+
+```text
+QUÉ ES → PARTES → FUNCIÓN → EJEMPLO → RELACIÓN CON SALUD O AMBIENTE
+```
+
+- Presentar una idea por vez.
+- Usar diagramas simples y etiquetas claras.
+- Evitar imágenes médicas explícitas o sorpresivas.
+- No pedir información personal sobre pubertad, reproducción, diagnósticos o salud.
+- Permitir respuestas mediante selección, orden, dibujo o escritura breve.
+- Anticipar vocabulario sensible.
+
+## Actividad segura
+
+### Observar, clasificar y explicar
+
+1. Selecciona imágenes, datos o muestras vegetales seguras.
+2. Define una característica observable.
+3. Clasifica según un criterio.
+4. Registra en una tabla.
+5. Compara semejanzas y diferencias.
+6. Propón una explicación.
+7. Indica qué evidencia adicional necesitarías.
+
+**Seguridad:** no cultivar microorganismos desconocidos, manipular fluidos corporales, probar sustancias, administrar medicamentos ni experimentar con animales causando estrés o daño.
+
+## Relación con salud y ambiente
+
+La biología permite comprender alimentación, sueño, actividad física, enfermedades, reproducción, biodiversidad, agricultura, conservación y cambio ambiental. Sin embargo, explicar un proceso biológico no equivale a diagnosticar a una persona.
+
+## Ciudadanía científica
+
+Este tema puede conectarse con:
+
+- derecho de niños y niñas a salud, educación y protección;
+- privacidad de datos de salud y genética;
+- consentimiento y respeto corporal;
+- instituciones sanitarias y ambientales;
+- leyes de protección ambiental y biodiversidad;
+- participación comunitaria;
+- justicia ambiental;
+- ciudadanía digital y desinformación;
+- resolución pacífica de controversias científicas y ambientales.
+
+## Preguntas de práctica
+
+### Inicial
+
+1. ¿Qué ser vivo, estructura o proceso estudia el tema?
+2. ¿Qué función cumple?
+3. Da un ejemplo cotidiano.
+
+### Intermedio
+
+4. ¿Qué niveles de organización intervienen?
+5. ¿Qué evidencia podría observarse?
+6. ¿Cómo influye el ambiente?
+
+### Desafío
+
+7. ¿Qué modelo usarías?
+8. ¿Qué limitación tendría?
+9. ¿Cómo se relaciona con salud o biodiversidad?
+10. ¿Qué dato actual necesitaría una fuente verificada?
+
+## Respuestas esperadas
+
+- Diferenciar estructura y función.
+- Evitar explicaciones finalistas como “existe para que”.
+- Distinguir adaptación evolutiva de ajuste individual.
+- Usar evidencia.
+- Reconocer variación biológica.
+- No convertir información de salud en diagnóstico.
+- Proteger privacidad.
+- Verificar datos actuales.
+
+## Errores frecuentes
+
+- Pensar que todos los microorganismos son dañinos.
+- Creer que los individuos evolucionan durante su vida.
+- Confundir adaptación con decisión consciente.
+- Suponer que un gen determina por sí solo cualquier característica compleja.
+- Decir que un sistema corporal funciona aislado.
+- Presentar ecosistemas como cadenas simples sin redes.
+- Usar “natural” como sinónimo de seguro.
+- Recomendar tratamientos sin evaluación profesional.
+
+## Cómo explicarlo si el estudiante no entiende
+
+> “La biología estudia cómo son los seres vivos, cómo funcionan, cómo cambian y cómo se relacionan con el ambiente.”
+
+## Para apoderados
+
+Trabaje con plantas, alimentos, fotografías, visitas a plazas y rutinas de salud. Pregunte “¿qué observaste?” antes de “¿por qué ocurre?”. En temas corporales, use nombres correctos, privacidad y tono respetuoso.
+
+## Para docentes
+
+Identifique la habilidad:
+
+- observar;
+- clasificar;
+- modelar;
+- explicar estructura y función;
+- analizar datos;
+- argumentar con evidencia;
+- diseñar investigaciones;
+- evaluar implicancias éticas.
+
+En reproducción y salud, ofrezca preguntas impersonales y alternativas de participación.
+
+## Mini resumen
+
+- La vida se organiza en niveles.
+- La célula es una unidad fundamental.
+- Los sistemas interactúan.
+- Los organismos presentan variación.
+- La evolución ocurre en poblaciones.
+- Los ecosistemas conectan vida y ambiente.
+- La salud requiere evidencia y contexto.
+
+## Palabras clave para búsqueda local
+
+células animales y vegetales, biología, célula, organismo, salud, ambiente, evidencia
+
+## Temas relacionados
+
+### Cursos anteriores
+
+Características de seres vivos, observación, clasificación, cuerpo y ambiente.
+
+### Cursos posteriores
+
+Mecanismos celulares, genética, evolución, ecología, salud pública y bioética.
+
+## Reglas para Chat Escolar
+
+- Adaptar vocabulario al curso activo.
+- Empezar con una explicación breve.
+- Añadir un ejemplo concreto.
+- No diagnosticar.
+- No pedir datos privados.
+- No recomendar medicamentos.
+- No inventar mecanismos ni resultados.
+- Diferenciar consenso, hipótesis y controversia.
+- Aclarar límites de analogías.
+- Para estudiante: explicación, esquema y práctica.
+- Para apoderado: actividad segura y forma de conversar.
+- Para docente: habilidad, evaluación, adaptación y fuentes.
+
+
+---
+
+---
+id: "bio_5b_003_nucleo_citoplasma_y_membrana"
+titulo: "Núcleo, citoplasma y membrana"
+area: "Biología"
+categoria: "biologia_general"
+curso_origen: "5° básico"
+nivel: "intermedio"
+edad_referencial: "10 a 11 años"
+apto_desde: "5° básico"
+alineacion_curricular: "curricular_directa"
+tipo_contenido: "enciclopedia_biologia"
+requiere_fuente_verificada: false
+tema_sensible: false
+palabras_clave:
+  - "núcleo, citoplasma y membrana"
+  - "biología"
+  - "seres vivos"
+  - "evidencia"
+  - "salud y ambiente"
+materias_relacionadas:
+  - "Ciencias Naturales"
+  - "Química"
+  - "Matemática"
+  - "Educación Ciudadana"
+  - "Orientación"
+version: "1.0"
+fecha_revision: "2026-07-14"
+---
+
+# Núcleo, citoplasma y membrana
+
+> **Referencia curricular:** colección organizada el 2026-07-14. En 1° básico se parte con características, necesidades y diversidad de seres vivos; en 8° básico se profundizan célula, plantas, nutrición y sistemas; en 1° medio se desarrollan evolución, biodiversidad y ecosistemas; y en 3°–4° medio los temas biológicos se conectan con bienestar, salud, ambiente y ciudadanía científica. Los datos médicos, epidemiológicos, ambientales y biotecnológicos recientes requieren verificación actualizada.
+
+
+## Respuesta breve
+
+**Núcleo, citoplasma y membrana** es un tema biológico relacionado con la organización, funcionamiento, diversidad, reproducción, evolución o interacción de los seres vivos. Se explica utilizando observaciones, modelos y evidencias.
+
+## Explicación clara
+
+La biología estudia la vida desde distintas escalas: moléculas, células, tejidos, órganos, organismos, poblaciones, comunidades, ecosistemas y biósfera. Un mismo fenómeno puede requerir varias escalas.
+
+Para estudiar este tema se deben responder cinco preguntas:
+
+1. **¿Qué estructura o ser vivo participa?**
+2. **¿Qué función o proceso ocurre?**
+3. **¿Cómo se regula o cambia?**
+4. **¿Cómo se relaciona con el ambiente?**
+5. **¿Qué evidencia sostiene la explicación?**
+
+Las explicaciones biológicas no deben presentar a los organismos como máquinas perfectas. Los seres vivos tienen variación, límites, historia evolutiva e interacción constante con el ambiente.
+
+## Conceptos clave
+
+- **Organismo:** ser vivo individual.
+- **Célula:** unidad estructural y funcional básica de la vida.
+- **Estructura:** parte organizada de un sistema biológico.
+- **Función:** proceso o contribución realizada por una estructura.
+- **Ambiente:** condiciones y componentes que rodean a un organismo.
+- **Adaptación:** característica heredable asociada a mayor éxito reproductivo en cierto ambiente.
+- **Evidencia:** observaciones o datos que apoyan o cuestionan una explicación.
+
+## Ejemplo cotidiano
+
+Observar un ser vivo cercano, registrar sus características y relacionarlas con su ambiente.
+
+Este ejemplo ayuda a comenzar, pero no reemplaza modelos, mediciones ni explicaciones completas. El chatbot debe aclarar cuando una comparación simplifica demasiado.
+
+## Ejemplo adaptado para estudiantes con TEA
+
+Usar una secuencia predecible:
+
+```text
+QUÉ ES → PARTES → FUNCIÓN → EJEMPLO → RELACIÓN CON SALUD O AMBIENTE
+```
+
+- Presentar una idea por vez.
+- Usar diagramas simples y etiquetas claras.
+- Evitar imágenes médicas explícitas o sorpresivas.
+- No pedir información personal sobre pubertad, reproducción, diagnósticos o salud.
+- Permitir respuestas mediante selección, orden, dibujo o escritura breve.
+- Anticipar vocabulario sensible.
+
+## Actividad segura
+
+### Observar, clasificar y explicar
+
+1. Selecciona imágenes, datos o muestras vegetales seguras.
+2. Define una característica observable.
+3. Clasifica según un criterio.
+4. Registra en una tabla.
+5. Compara semejanzas y diferencias.
+6. Propón una explicación.
+7. Indica qué evidencia adicional necesitarías.
+
+**Seguridad:** no cultivar microorganismos desconocidos, manipular fluidos corporales, probar sustancias, administrar medicamentos ni experimentar con animales causando estrés o daño.
+
+## Relación con salud y ambiente
+
+La biología permite comprender alimentación, sueño, actividad física, enfermedades, reproducción, biodiversidad, agricultura, conservación y cambio ambiental. Sin embargo, explicar un proceso biológico no equivale a diagnosticar a una persona.
+
+## Ciudadanía científica
+
+Este tema puede conectarse con:
+
+- derecho de niños y niñas a salud, educación y protección;
+- privacidad de datos de salud y genética;
+- consentimiento y respeto corporal;
+- instituciones sanitarias y ambientales;
+- leyes de protección ambiental y biodiversidad;
+- participación comunitaria;
+- justicia ambiental;
+- ciudadanía digital y desinformación;
+- resolución pacífica de controversias científicas y ambientales.
+
+## Preguntas de práctica
+
+### Inicial
+
+1. ¿Qué ser vivo, estructura o proceso estudia el tema?
+2. ¿Qué función cumple?
+3. Da un ejemplo cotidiano.
+
+### Intermedio
+
+4. ¿Qué niveles de organización intervienen?
+5. ¿Qué evidencia podría observarse?
+6. ¿Cómo influye el ambiente?
+
+### Desafío
+
+7. ¿Qué modelo usarías?
+8. ¿Qué limitación tendría?
+9. ¿Cómo se relaciona con salud o biodiversidad?
+10. ¿Qué dato actual necesitaría una fuente verificada?
+
+## Respuestas esperadas
+
+- Diferenciar estructura y función.
+- Evitar explicaciones finalistas como “existe para que”.
+- Distinguir adaptación evolutiva de ajuste individual.
+- Usar evidencia.
+- Reconocer variación biológica.
+- No convertir información de salud en diagnóstico.
+- Proteger privacidad.
+- Verificar datos actuales.
+
+## Errores frecuentes
+
+- Pensar que todos los microorganismos son dañinos.
+- Creer que los individuos evolucionan durante su vida.
+- Confundir adaptación con decisión consciente.
+- Suponer que un gen determina por sí solo cualquier característica compleja.
+- Decir que un sistema corporal funciona aislado.
+- Presentar ecosistemas como cadenas simples sin redes.
+- Usar “natural” como sinónimo de seguro.
+- Recomendar tratamientos sin evaluación profesional.
+
+## Cómo explicarlo si el estudiante no entiende
+
+> “La biología estudia cómo son los seres vivos, cómo funcionan, cómo cambian y cómo se relacionan con el ambiente.”
+
+## Para apoderados
+
+Trabaje con plantas, alimentos, fotografías, visitas a plazas y rutinas de salud. Pregunte “¿qué observaste?” antes de “¿por qué ocurre?”. En temas corporales, use nombres correctos, privacidad y tono respetuoso.
+
+## Para docentes
+
+Identifique la habilidad:
+
+- observar;
+- clasificar;
+- modelar;
+- explicar estructura y función;
+- analizar datos;
+- argumentar con evidencia;
+- diseñar investigaciones;
+- evaluar implicancias éticas.
+
+En reproducción y salud, ofrezca preguntas impersonales y alternativas de participación.
+
+## Mini resumen
+
+- La vida se organiza en niveles.
+- La célula es una unidad fundamental.
+- Los sistemas interactúan.
+- Los organismos presentan variación.
+- La evolución ocurre en poblaciones.
+- Los ecosistemas conectan vida y ambiente.
+- La salud requiere evidencia y contexto.
+
+## Palabras clave para búsqueda local
+
+núcleo, citoplasma y membrana, biología, célula, organismo, salud, ambiente, evidencia
+
+## Temas relacionados
+
+### Cursos anteriores
+
+Características de seres vivos, observación, clasificación, cuerpo y ambiente.
+
+### Cursos posteriores
+
+Mecanismos celulares, genética, evolución, ecología, salud pública y bioética.
+
+## Reglas para Chat Escolar
+
+- Adaptar vocabulario al curso activo.
+- Empezar con una explicación breve.
+- Añadir un ejemplo concreto.
+- No diagnosticar.
+- No pedir datos privados.
+- No recomendar medicamentos.
+- No inventar mecanismos ni resultados.
+- Diferenciar consenso, hipótesis y controversia.
+- Aclarar límites de analogías.
+- Para estudiante: explicación, esquema y práctica.
+- Para apoderado: actividad segura y forma de conversar.
+- Para docente: habilidad, evaluación, adaptación y fuentes.
+
+
+---
+
+---
+id: "bio_5b_004_microscopio_y_observacion_celular"
+titulo: "Microscopio y observación celular"
+area: "Biología"
+categoria: "biologia_celular"
+curso_origen: "5° básico"
+nivel: "intermedio"
+edad_referencial: "10 a 11 años"
+apto_desde: "5° básico"
+alineacion_curricular: "curricular_directa"
+tipo_contenido: "enciclopedia_biologia"
+requiere_fuente_verificada: false
+tema_sensible: false
+palabras_clave:
+  - "microscopio y observación celular"
+  - "biología"
+  - "seres vivos"
+  - "evidencia"
+  - "salud y ambiente"
+materias_relacionadas:
+  - "Ciencias Naturales"
+  - "Química"
+  - "Matemática"
+  - "Educación Ciudadana"
+  - "Orientación"
+version: "1.0"
+fecha_revision: "2026-07-14"
+---
+
+# Microscopio y observación celular
+
+> **Referencia curricular:** colección organizada el 2026-07-14. En 1° básico se parte con características, necesidades y diversidad de seres vivos; en 8° básico se profundizan célula, plantas, nutrición y sistemas; en 1° medio se desarrollan evolución, biodiversidad y ecosistemas; y en 3°–4° medio los temas biológicos se conectan con bienestar, salud, ambiente y ciudadanía científica. Los datos médicos, epidemiológicos, ambientales y biotecnológicos recientes requieren verificación actualizada.
+
+
+## Respuesta breve
+
+**Microscopio y observación celular** es un tema biológico relacionado con la organización, funcionamiento, diversidad, reproducción, evolución o interacción de los seres vivos. Se explica utilizando observaciones, modelos y evidencias.
+
+## Explicación clara
+
+La biología estudia la vida desde distintas escalas: moléculas, células, tejidos, órganos, organismos, poblaciones, comunidades, ecosistemas y biósfera. Un mismo fenómeno puede requerir varias escalas.
+
+Para estudiar este tema se deben responder cinco preguntas:
+
+1. **¿Qué estructura o ser vivo participa?**
+2. **¿Qué función o proceso ocurre?**
+3. **¿Cómo se regula o cambia?**
+4. **¿Cómo se relaciona con el ambiente?**
+5. **¿Qué evidencia sostiene la explicación?**
+
+Las explicaciones biológicas no deben presentar a los organismos como máquinas perfectas. Los seres vivos tienen variación, límites, historia evolutiva e interacción constante con el ambiente.
+
+## Conceptos clave
+
+- **Organismo:** ser vivo individual.
+- **Célula:** unidad estructural y funcional básica de la vida.
+- **Estructura:** parte organizada de un sistema biológico.
+- **Función:** proceso o contribución realizada por una estructura.
+- **Ambiente:** condiciones y componentes que rodean a un organismo.
+- **Adaptación:** característica heredable asociada a mayor éxito reproductivo en cierto ambiente.
+- **Evidencia:** observaciones o datos que apoyan o cuestionan una explicación.
+
+## Ejemplo cotidiano
+
+Lavarse las manos reduce la transferencia de muchos microorganismos, aunque no todos sean dañinos.
+
+Este ejemplo ayuda a comenzar, pero no reemplaza modelos, mediciones ni explicaciones completas. El chatbot debe aclarar cuando una comparación simplifica demasiado.
+
+## Ejemplo adaptado para estudiantes con TEA
+
+Usar una secuencia predecible:
+
+```text
+QUÉ ES → PARTES → FUNCIÓN → EJEMPLO → RELACIÓN CON SALUD O AMBIENTE
+```
+
+- Presentar una idea por vez.
+- Usar diagramas simples y etiquetas claras.
+- Evitar imágenes médicas explícitas o sorpresivas.
+- No pedir información personal sobre pubertad, reproducción, diagnósticos o salud.
+- Permitir respuestas mediante selección, orden, dibujo o escritura breve.
+- Anticipar vocabulario sensible.
+
+## Actividad segura
+
+### Observar, clasificar y explicar
+
+1. Selecciona imágenes, datos o muestras vegetales seguras.
+2. Define una característica observable.
+3. Clasifica según un criterio.
+4. Registra en una tabla.
+5. Compara semejanzas y diferencias.
+6. Propón una explicación.
+7. Indica qué evidencia adicional necesitarías.
+
+**Seguridad:** no cultivar microorganismos desconocidos, manipular fluidos corporales, probar sustancias, administrar medicamentos ni experimentar con animales causando estrés o daño.
+
+## Relación con salud y ambiente
+
+La biología permite comprender alimentación, sueño, actividad física, enfermedades, reproducción, biodiversidad, agricultura, conservación y cambio ambiental. Sin embargo, explicar un proceso biológico no equivale a diagnosticar a una persona.
+
+## Ciudadanía científica
+
+Este tema puede conectarse con:
+
+- derecho de niños y niñas a salud, educación y protección;
+- privacidad de datos de salud y genética;
+- consentimiento y respeto corporal;
+- instituciones sanitarias y ambientales;
+- leyes de protección ambiental y biodiversidad;
+- participación comunitaria;
+- justicia ambiental;
+- ciudadanía digital y desinformación;
+- resolución pacífica de controversias científicas y ambientales.
+
+## Preguntas de práctica
+
+### Inicial
+
+1. ¿Qué ser vivo, estructura o proceso estudia el tema?
+2. ¿Qué función cumple?
+3. Da un ejemplo cotidiano.
+
+### Intermedio
+
+4. ¿Qué niveles de organización intervienen?
+5. ¿Qué evidencia podría observarse?
+6. ¿Cómo influye el ambiente?
+
+### Desafío
+
+7. ¿Qué modelo usarías?
+8. ¿Qué limitación tendría?
+9. ¿Cómo se relaciona con salud o biodiversidad?
+10. ¿Qué dato actual necesitaría una fuente verificada?
+
+## Respuestas esperadas
+
+- Diferenciar estructura y función.
+- Evitar explicaciones finalistas como “existe para que”.
+- Distinguir adaptación evolutiva de ajuste individual.
+- Usar evidencia.
+- Reconocer variación biológica.
+- No convertir información de salud en diagnóstico.
+- Proteger privacidad.
+- Verificar datos actuales.
+
+## Errores frecuentes
+
+- Pensar que todos los microorganismos son dañinos.
+- Creer que los individuos evolucionan durante su vida.
+- Confundir adaptación con decisión consciente.
+- Suponer que un gen determina por sí solo cualquier característica compleja.
+- Decir que un sistema corporal funciona aislado.
+- Presentar ecosistemas como cadenas simples sin redes.
+- Usar “natural” como sinónimo de seguro.
+- Recomendar tratamientos sin evaluación profesional.
+
+## Cómo explicarlo si el estudiante no entiende
+
+> “La biología estudia cómo son los seres vivos, cómo funcionan, cómo cambian y cómo se relacionan con el ambiente.”
+
+## Para apoderados
+
+Trabaje con plantas, alimentos, fotografías, visitas a plazas y rutinas de salud. Pregunte “¿qué observaste?” antes de “¿por qué ocurre?”. En temas corporales, use nombres correctos, privacidad y tono respetuoso.
+
+## Para docentes
+
+Identifique la habilidad:
+
+- observar;
+- clasificar;
+- modelar;
+- explicar estructura y función;
+- analizar datos;
+- argumentar con evidencia;
+- diseñar investigaciones;
+- evaluar implicancias éticas.
+
+En reproducción y salud, ofrezca preguntas impersonales y alternativas de participación.
+
+## Mini resumen
+
+- La vida se organiza en niveles.
+- La célula es una unidad fundamental.
+- Los sistemas interactúan.
+- Los organismos presentan variación.
+- La evolución ocurre en poblaciones.
+- Los ecosistemas conectan vida y ambiente.
+- La salud requiere evidencia y contexto.
+
+## Palabras clave para búsqueda local
+
+microscopio y observación celular, biología, célula, organismo, salud, ambiente, evidencia
+
+## Temas relacionados
+
+### Cursos anteriores
+
+Características de seres vivos, observación, clasificación, cuerpo y ambiente.
+
+### Cursos posteriores
+
+Mecanismos celulares, genética, evolución, ecología, salud pública y bioética.
+
+## Reglas para Chat Escolar
+
+- Adaptar vocabulario al curso activo.
+- Empezar con una explicación breve.
+- Añadir un ejemplo concreto.
+- No diagnosticar.
+- No pedir datos privados.
+- No recomendar medicamentos.
+- No inventar mecanismos ni resultados.
+- Diferenciar consenso, hipótesis y controversia.
+- Aclarar límites de analogías.
+- Para estudiante: explicación, esquema y práctica.
+- Para apoderado: actividad segura y forma de conversar.
+- Para docente: habilidad, evaluación, adaptación y fuentes.
+
+
+---
+
+---
+id: "bio_5b_005_niveles_de_organizacion_biologica"
+titulo: "Niveles de organización biológica"
+area: "Biología"
+categoria: "biologia_general"
+curso_origen: "5° básico"
+nivel: "intermedio"
+edad_referencial: "10 a 11 años"
+apto_desde: "5° básico"
+alineacion_curricular: "curricular_directa"
+tipo_contenido: "enciclopedia_biologia"
+requiere_fuente_verificada: false
+tema_sensible: false
+palabras_clave:
+  - "niveles de organización biológica"
+  - "biología"
+  - "seres vivos"
+  - "evidencia"
+  - "salud y ambiente"
+materias_relacionadas:
+  - "Ciencias Naturales"
+  - "Química"
+  - "Matemática"
+  - "Educación Ciudadana"
+  - "Orientación"
+version: "1.0"
+fecha_revision: "2026-07-14"
+---
+
+# Niveles de organización biológica
+
+> **Referencia curricular:** colección organizada el 2026-07-14. En 1° básico se parte con características, necesidades y diversidad de seres vivos; en 8° básico se profundizan célula, plantas, nutrición y sistemas; en 1° medio se desarrollan evolución, biodiversidad y ecosistemas; y en 3°–4° medio los temas biológicos se conectan con bienestar, salud, ambiente y ciudadanía científica. Los datos médicos, epidemiológicos, ambientales y biotecnológicos recientes requieren verificación actualizada.
+
+
+## Respuesta breve
+
+**Niveles de organización biológica** es un tema biológico relacionado con la organización, funcionamiento, diversidad, reproducción, evolución o interacción de los seres vivos. Se explica utilizando observaciones, modelos y evidencias.
+
+## Explicación clara
+
+La biología estudia la vida desde distintas escalas: moléculas, células, tejidos, órganos, organismos, poblaciones, comunidades, ecosistemas y biósfera. Un mismo fenómeno puede requerir varias escalas.
+
+Para estudiar este tema se deben responder cinco preguntas:
+
+1. **¿Qué estructura o ser vivo participa?**
+2. **¿Qué función o proceso ocurre?**
+3. **¿Cómo se regula o cambia?**
+4. **¿Cómo se relaciona con el ambiente?**
+5. **¿Qué evidencia sostiene la explicación?**
+
+Las explicaciones biológicas no deben presentar a los organismos como máquinas perfectas. Los seres vivos tienen variación, límites, historia evolutiva e interacción constante con el ambiente.
+
+## Conceptos clave
+
+- **Organismo:** ser vivo individual.
+- **Célula:** unidad estructural y funcional básica de la vida.
+- **Estructura:** parte organizada de un sistema biológico.
+- **Función:** proceso o contribución realizada por una estructura.
+- **Ambiente:** condiciones y componentes que rodean a un organismo.
+- **Adaptación:** característica heredable asociada a mayor éxito reproductivo en cierto ambiente.
+- **Evidencia:** observaciones o datos que apoyan o cuestionan una explicación.
+
+## Ejemplo cotidiano
+
+Observar un ser vivo cercano, registrar sus características y relacionarlas con su ambiente.
+
+Este ejemplo ayuda a comenzar, pero no reemplaza modelos, mediciones ni explicaciones completas. El chatbot debe aclarar cuando una comparación simplifica demasiado.
+
+## Ejemplo adaptado para estudiantes con TEA
+
+Usar una secuencia predecible:
+
+```text
+QUÉ ES → PARTES → FUNCIÓN → EJEMPLO → RELACIÓN CON SALUD O AMBIENTE
+```
+
+- Presentar una idea por vez.
+- Usar diagramas simples y etiquetas claras.
+- Evitar imágenes médicas explícitas o sorpresivas.
+- No pedir información personal sobre pubertad, reproducción, diagnósticos o salud.
+- Permitir respuestas mediante selección, orden, dibujo o escritura breve.
+- Anticipar vocabulario sensible.
+
+## Actividad segura
+
+### Observar, clasificar y explicar
+
+1. Selecciona imágenes, datos o muestras vegetales seguras.
+2. Define una característica observable.
+3. Clasifica según un criterio.
+4. Registra en una tabla.
+5. Compara semejanzas y diferencias.
+6. Propón una explicación.
+7. Indica qué evidencia adicional necesitarías.
+
+**Seguridad:** no cultivar microorganismos desconocidos, manipular fluidos corporales, probar sustancias, administrar medicamentos ni experimentar con animales causando estrés o daño.
+
+## Relación con salud y ambiente
+
+La biología permite comprender alimentación, sueño, actividad física, enfermedades, reproducción, biodiversidad, agricultura, conservación y cambio ambiental. Sin embargo, explicar un proceso biológico no equivale a diagnosticar a una persona.
+
+## Ciudadanía científica
+
+Este tema puede conectarse con:
+
+- derecho de niños y niñas a salud, educación y protección;
+- privacidad de datos de salud y genética;
+- consentimiento y respeto corporal;
+- instituciones sanitarias y ambientales;
+- leyes de protección ambiental y biodiversidad;
+- participación comunitaria;
+- justicia ambiental;
+- ciudadanía digital y desinformación;
+- resolución pacífica de controversias científicas y ambientales.
+
+## Preguntas de práctica
+
+### Inicial
+
+1. ¿Qué ser vivo, estructura o proceso estudia el tema?
+2. ¿Qué función cumple?
+3. Da un ejemplo cotidiano.
+
+### Intermedio
+
+4. ¿Qué niveles de organización intervienen?
+5. ¿Qué evidencia podría observarse?
+6. ¿Cómo influye el ambiente?
+
+### Desafío
+
+7. ¿Qué modelo usarías?
+8. ¿Qué limitación tendría?
+9. ¿Cómo se relaciona con salud o biodiversidad?
+10. ¿Qué dato actual necesitaría una fuente verificada?
+
+## Respuestas esperadas
+
+- Diferenciar estructura y función.
+- Evitar explicaciones finalistas como “existe para que”.
+- Distinguir adaptación evolutiva de ajuste individual.
+- Usar evidencia.
+- Reconocer variación biológica.
+- No convertir información de salud en diagnóstico.
+- Proteger privacidad.
+- Verificar datos actuales.
+
+## Errores frecuentes
+
+- Pensar que todos los microorganismos son dañinos.
+- Creer que los individuos evolucionan durante su vida.
+- Confundir adaptación con decisión consciente.
+- Suponer que un gen determina por sí solo cualquier característica compleja.
+- Decir que un sistema corporal funciona aislado.
+- Presentar ecosistemas como cadenas simples sin redes.
+- Usar “natural” como sinónimo de seguro.
+- Recomendar tratamientos sin evaluación profesional.
+
+## Cómo explicarlo si el estudiante no entiende
+
+> “La biología estudia cómo son los seres vivos, cómo funcionan, cómo cambian y cómo se relacionan con el ambiente.”
+
+## Para apoderados
+
+Trabaje con plantas, alimentos, fotografías, visitas a plazas y rutinas de salud. Pregunte “¿qué observaste?” antes de “¿por qué ocurre?”. En temas corporales, use nombres correctos, privacidad y tono respetuoso.
+
+## Para docentes
+
+Identifique la habilidad:
+
+- observar;
+- clasificar;
+- modelar;
+- explicar estructura y función;
+- analizar datos;
+- argumentar con evidencia;
+- diseñar investigaciones;
+- evaluar implicancias éticas.
+
+En reproducción y salud, ofrezca preguntas impersonales y alternativas de participación.
+
+## Mini resumen
+
+- La vida se organiza en niveles.
+- La célula es una unidad fundamental.
+- Los sistemas interactúan.
+- Los organismos presentan variación.
+- La evolución ocurre en poblaciones.
+- Los ecosistemas conectan vida y ambiente.
+- La salud requiere evidencia y contexto.
+
+## Palabras clave para búsqueda local
+
+niveles de organización biológica, biología, célula, organismo, salud, ambiente, evidencia
+
+## Temas relacionados
+
+### Cursos anteriores
+
+Características de seres vivos, observación, clasificación, cuerpo y ambiente.
+
+### Cursos posteriores
+
+Mecanismos celulares, genética, evolución, ecología, salud pública y bioética.
+
+## Reglas para Chat Escolar
+
+- Adaptar vocabulario al curso activo.
+- Empezar con una explicación breve.
+- Añadir un ejemplo concreto.
+- No diagnosticar.
+- No pedir datos privados.
+- No recomendar medicamentos.
+- No inventar mecanismos ni resultados.
+- Diferenciar consenso, hipótesis y controversia.
+- Aclarar límites de analogías.
+- Para estudiante: explicación, esquema y práctica.
+- Para apoderado: actividad segura y forma de conversar.
+- Para docente: habilidad, evaluación, adaptación y fuentes.
+
+
+---
+
+---
+id: "bio_5b_006_sistema_digestivo"
+titulo: "Sistema digestivo"
+area: "Biología"
+categoria: "biologia_humana_salud"
+curso_origen: "5° básico"
+nivel: "intermedio"
+edad_referencial: "10 a 11 años"
+apto_desde: "5° básico"
+alineacion_curricular: "curricular_directa"
+tipo_contenido: "enciclopedia_biologia"
+requiere_fuente_verificada: false
+tema_sensible: false
+palabras_clave:
+  - "sistema digestivo"
+  - "biología"
+  - "seres vivos"
+  - "evidencia"
+  - "salud y ambiente"
+materias_relacionadas:
+  - "Ciencias Naturales"
+  - "Química"
+  - "Matemática"
+  - "Educación Ciudadana"
+  - "Orientación"
+version: "1.0"
+fecha_revision: "2026-07-14"
+---
+
+# Sistema digestivo
+
+> **Referencia curricular:** colección organizada el 2026-07-14. En 1° básico se parte con características, necesidades y diversidad de seres vivos; en 8° básico se profundizan célula, plantas, nutrición y sistemas; en 1° medio se desarrollan evolución, biodiversidad y ecosistemas; y en 3°–4° medio los temas biológicos se conectan con bienestar, salud, ambiente y ciudadanía científica. Los datos médicos, epidemiológicos, ambientales y biotecnológicos recientes requieren verificación actualizada.
+
+
+## Respuesta breve
+
+**Sistema digestivo** es un tema biológico relacionado con la organización, funcionamiento, diversidad, reproducción, evolución o interacción de los seres vivos. Se explica utilizando observaciones, modelos y evidencias.
+
+## Explicación clara
+
+La biología estudia la vida desde distintas escalas: moléculas, células, tejidos, órganos, organismos, poblaciones, comunidades, ecosistemas y biósfera. Un mismo fenómeno puede requerir varias escalas.
+
+Para estudiar este tema se deben responder cinco preguntas:
+
+1. **¿Qué estructura o ser vivo participa?**
+2. **¿Qué función o proceso ocurre?**
+3. **¿Cómo se regula o cambia?**
+4. **¿Cómo se relaciona con el ambiente?**
+5. **¿Qué evidencia sostiene la explicación?**
+
+Las explicaciones biológicas no deben presentar a los organismos como máquinas perfectas. Los seres vivos tienen variación, límites, historia evolutiva e interacción constante con el ambiente.
+
+## Conceptos clave
+
+- **Organismo:** ser vivo individual.
+- **Célula:** unidad estructural y funcional básica de la vida.
+- **Estructura:** parte organizada de un sistema biológico.
+- **Función:** proceso o contribución realizada por una estructura.
+- **Ambiente:** condiciones y componentes que rodean a un organismo.
+- **Adaptación:** característica heredable asociada a mayor éxito reproductivo en cierto ambiente.
+- **Evidencia:** observaciones o datos que apoyan o cuestionan una explicación.
+
+## Ejemplo cotidiano
+
+Seguir imaginariamente el recorrido de un trozo de pan ayuda a conectar boca, estómago, intestino y absorción de nutrientes.
+
+Este ejemplo ayuda a comenzar, pero no reemplaza modelos, mediciones ni explicaciones completas. El chatbot debe aclarar cuando una comparación simplifica demasiado.
+
+## Ejemplo adaptado para estudiantes con TEA
+
+Usar una secuencia predecible:
+
+```text
+QUÉ ES → PARTES → FUNCIÓN → EJEMPLO → RELACIÓN CON SALUD O AMBIENTE
+```
+
+- Presentar una idea por vez.
+- Usar diagramas simples y etiquetas claras.
+- Evitar imágenes médicas explícitas o sorpresivas.
+- No pedir información personal sobre pubertad, reproducción, diagnósticos o salud.
+- Permitir respuestas mediante selección, orden, dibujo o escritura breve.
+- Anticipar vocabulario sensible.
+
+## Actividad segura
+
+### Observar, clasificar y explicar
+
+1. Selecciona imágenes, datos o muestras vegetales seguras.
+2. Define una característica observable.
+3. Clasifica según un criterio.
+4. Registra en una tabla.
+5. Compara semejanzas y diferencias.
+6. Propón una explicación.
+7. Indica qué evidencia adicional necesitarías.
+
+**Seguridad:** no cultivar microorganismos desconocidos, manipular fluidos corporales, probar sustancias, administrar medicamentos ni experimentar con animales causando estrés o daño.
+
+## Relación con salud y ambiente
+
+La biología permite comprender alimentación, sueño, actividad física, enfermedades, reproducción, biodiversidad, agricultura, conservación y cambio ambiental. Sin embargo, explicar un proceso biológico no equivale a diagnosticar a una persona.
+
+## Ciudadanía científica
+
+Este tema puede conectarse con:
+
+- derecho de niños y niñas a salud, educación y protección;
+- privacidad de datos de salud y genética;
+- consentimiento y respeto corporal;
+- instituciones sanitarias y ambientales;
+- leyes de protección ambiental y biodiversidad;
+- participación comunitaria;
+- justicia ambiental;
+- ciudadanía digital y desinformación;
+- resolución pacífica de controversias científicas y ambientales.
+
+## Preguntas de práctica
+
+### Inicial
+
+1. ¿Qué ser vivo, estructura o proceso estudia el tema?
+2. ¿Qué función cumple?
+3. Da un ejemplo cotidiano.
+
+### Intermedio
+
+4. ¿Qué niveles de organización intervienen?
+5. ¿Qué evidencia podría observarse?
+6. ¿Cómo influye el ambiente?
+
+### Desafío
+
+7. ¿Qué modelo usarías?
+8. ¿Qué limitación tendría?
+9. ¿Cómo se relaciona con salud o biodiversidad?
+10. ¿Qué dato actual necesitaría una fuente verificada?
+
+## Respuestas esperadas
+
+- Diferenciar estructura y función.
+- Evitar explicaciones finalistas como “existe para que”.
+- Distinguir adaptación evolutiva de ajuste individual.
+- Usar evidencia.
+- Reconocer variación biológica.
+- No convertir información de salud en diagnóstico.
+- Proteger privacidad.
+- Verificar datos actuales.
+
+## Errores frecuentes
+
+- Pensar que todos los microorganismos son dañinos.
+- Creer que los individuos evolucionan durante su vida.
+- Confundir adaptación con decisión consciente.
+- Suponer que un gen determina por sí solo cualquier característica compleja.
+- Decir que un sistema corporal funciona aislado.
+- Presentar ecosistemas como cadenas simples sin redes.
+- Usar “natural” como sinónimo de seguro.
+- Recomendar tratamientos sin evaluación profesional.
+
+## Cómo explicarlo si el estudiante no entiende
+
+> “La biología estudia cómo son los seres vivos, cómo funcionan, cómo cambian y cómo se relacionan con el ambiente.”
+
+## Para apoderados
+
+Trabaje con plantas, alimentos, fotografías, visitas a plazas y rutinas de salud. Pregunte “¿qué observaste?” antes de “¿por qué ocurre?”. En temas corporales, use nombres correctos, privacidad y tono respetuoso.
+
+## Para docentes
+
+Identifique la habilidad:
+
+- observar;
+- clasificar;
+- modelar;
+- explicar estructura y función;
+- analizar datos;
+- argumentar con evidencia;
+- diseñar investigaciones;
+- evaluar implicancias éticas.
+
+En reproducción y salud, ofrezca preguntas impersonales y alternativas de participación.
+
+## Mini resumen
+
+- La vida se organiza en niveles.
+- La célula es una unidad fundamental.
+- Los sistemas interactúan.
+- Los organismos presentan variación.
+- La evolución ocurre en poblaciones.
+- Los ecosistemas conectan vida y ambiente.
+- La salud requiere evidencia y contexto.
+
+## Palabras clave para búsqueda local
+
+sistema digestivo, biología, célula, organismo, salud, ambiente, evidencia
+
+## Temas relacionados
+
+### Cursos anteriores
+
+Características de seres vivos, observación, clasificación, cuerpo y ambiente.
+
+### Cursos posteriores
+
+Mecanismos celulares, genética, evolución, ecología, salud pública y bioética.
+
+## Reglas para Chat Escolar
+
+- Adaptar vocabulario al curso activo.
+- Empezar con una explicación breve.
+- Añadir un ejemplo concreto.
+- No diagnosticar.
+- No pedir datos privados.
+- No recomendar medicamentos.
+- No inventar mecanismos ni resultados.
+- Diferenciar consenso, hipótesis y controversia.
+- Aclarar límites de analogías.
+- Para estudiante: explicación, esquema y práctica.
+- Para apoderado: actividad segura y forma de conversar.
+- Para docente: habilidad, evaluación, adaptación y fuentes.
+
+
+---
+
+---
+id: "bio_5b_007_sistema_respiratorio"
+titulo: "Sistema respiratorio"
+area: "Biología"
+categoria: "biologia_humana_salud"
+curso_origen: "5° básico"
+nivel: "intermedio"
+edad_referencial: "10 a 11 años"
+apto_desde: "5° básico"
+alineacion_curricular: "curricular_directa"
+tipo_contenido: "enciclopedia_biologia"
+requiere_fuente_verificada: false
+tema_sensible: false
+palabras_clave:
+  - "sistema respiratorio"
+  - "biología"
+  - "seres vivos"
+  - "evidencia"
+  - "salud y ambiente"
+materias_relacionadas:
+  - "Ciencias Naturales"
+  - "Química"
+  - "Matemática"
+  - "Educación Ciudadana"
+  - "Orientación"
+version: "1.0"
+fecha_revision: "2026-07-14"
+---
+
+# Sistema respiratorio
+
+> **Referencia curricular:** colección organizada el 2026-07-14. En 1° básico se parte con características, necesidades y diversidad de seres vivos; en 8° básico se profundizan célula, plantas, nutrición y sistemas; en 1° medio se desarrollan evolución, biodiversidad y ecosistemas; y en 3°–4° medio los temas biológicos se conectan con bienestar, salud, ambiente y ciudadanía científica. Los datos médicos, epidemiológicos, ambientales y biotecnológicos recientes requieren verificación actualizada.
+
+
+## Respuesta breve
+
+**Sistema respiratorio** es un tema biológico relacionado con la organización, funcionamiento, diversidad, reproducción, evolución o interacción de los seres vivos. Se explica utilizando observaciones, modelos y evidencias.
+
+## Explicación clara
+
+La biología estudia la vida desde distintas escalas: moléculas, células, tejidos, órganos, organismos, poblaciones, comunidades, ecosistemas y biósfera. Un mismo fenómeno puede requerir varias escalas.
+
+Para estudiar este tema se deben responder cinco preguntas:
+
+1. **¿Qué estructura o ser vivo participa?**
+2. **¿Qué función o proceso ocurre?**
+3. **¿Cómo se regula o cambia?**
+4. **¿Cómo se relaciona con el ambiente?**
+5. **¿Qué evidencia sostiene la explicación?**
+
+Las explicaciones biológicas no deben presentar a los organismos como máquinas perfectas. Los seres vivos tienen variación, límites, historia evolutiva e interacción constante con el ambiente.
+
+## Conceptos clave
+
+- **Organismo:** ser vivo individual.
+- **Célula:** unidad estructural y funcional básica de la vida.
+- **Estructura:** parte organizada de un sistema biológico.
+- **Función:** proceso o contribución realizada por una estructura.
+- **Ambiente:** condiciones y componentes que rodean a un organismo.
+- **Adaptación:** característica heredable asociada a mayor éxito reproductivo en cierto ambiente.
+- **Evidencia:** observaciones o datos que apoyan o cuestionan una explicación.
+
+## Ejemplo cotidiano
+
+Dormir, alimentarse, moverse y lavarse las manos ayudan al funcionamiento del organismo.
+
+Este ejemplo ayuda a comenzar, pero no reemplaza modelos, mediciones ni explicaciones completas. El chatbot debe aclarar cuando una comparación simplifica demasiado.
+
+## Ejemplo adaptado para estudiantes con TEA
+
+Usar una secuencia predecible:
+
+```text
+QUÉ ES → PARTES → FUNCIÓN → EJEMPLO → RELACIÓN CON SALUD O AMBIENTE
+```
+
+- Presentar una idea por vez.
+- Usar diagramas simples y etiquetas claras.
+- Evitar imágenes médicas explícitas o sorpresivas.
+- No pedir información personal sobre pubertad, reproducción, diagnósticos o salud.
+- Permitir respuestas mediante selección, orden, dibujo o escritura breve.
+- Anticipar vocabulario sensible.
+
+## Actividad segura
+
+### Observar, clasificar y explicar
+
+1. Selecciona imágenes, datos o muestras vegetales seguras.
+2. Define una característica observable.
+3. Clasifica según un criterio.
+4. Registra en una tabla.
+5. Compara semejanzas y diferencias.
+6. Propón una explicación.
+7. Indica qué evidencia adicional necesitarías.
+
+**Seguridad:** no cultivar microorganismos desconocidos, manipular fluidos corporales, probar sustancias, administrar medicamentos ni experimentar con animales causando estrés o daño.
+
+## Relación con salud y ambiente
+
+La biología permite comprender alimentación, sueño, actividad física, enfermedades, reproducción, biodiversidad, agricultura, conservación y cambio ambiental. Sin embargo, explicar un proceso biológico no equivale a diagnosticar a una persona.
+
+## Ciudadanía científica
+
+Este tema puede conectarse con:
+
+- derecho de niños y niñas a salud, educación y protección;
+- privacidad de datos de salud y genética;
+- consentimiento y respeto corporal;
+- instituciones sanitarias y ambientales;
+- leyes de protección ambiental y biodiversidad;
+- participación comunitaria;
+- justicia ambiental;
+- ciudadanía digital y desinformación;
+- resolución pacífica de controversias científicas y ambientales.
+
+## Preguntas de práctica
+
+### Inicial
+
+1. ¿Qué ser vivo, estructura o proceso estudia el tema?
+2. ¿Qué función cumple?
+3. Da un ejemplo cotidiano.
+
+### Intermedio
+
+4. ¿Qué niveles de organización intervienen?
+5. ¿Qué evidencia podría observarse?
+6. ¿Cómo influye el ambiente?
+
+### Desafío
+
+7. ¿Qué modelo usarías?
+8. ¿Qué limitación tendría?
+9. ¿Cómo se relaciona con salud o biodiversidad?
+10. ¿Qué dato actual necesitaría una fuente verificada?
+
+## Respuestas esperadas
+
+- Diferenciar estructura y función.
+- Evitar explicaciones finalistas como “existe para que”.
+- Distinguir adaptación evolutiva de ajuste individual.
+- Usar evidencia.
+- Reconocer variación biológica.
+- No convertir información de salud en diagnóstico.
+- Proteger privacidad.
+- Verificar datos actuales.
+
+## Errores frecuentes
+
+- Pensar que todos los microorganismos son dañinos.
+- Creer que los individuos evolucionan durante su vida.
+- Confundir adaptación con decisión consciente.
+- Suponer que un gen determina por sí solo cualquier característica compleja.
+- Decir que un sistema corporal funciona aislado.
+- Presentar ecosistemas como cadenas simples sin redes.
+- Usar “natural” como sinónimo de seguro.
+- Recomendar tratamientos sin evaluación profesional.
+
+## Cómo explicarlo si el estudiante no entiende
+
+> “La biología estudia cómo son los seres vivos, cómo funcionan, cómo cambian y cómo se relacionan con el ambiente.”
+
+## Para apoderados
+
+Trabaje con plantas, alimentos, fotografías, visitas a plazas y rutinas de salud. Pregunte “¿qué observaste?” antes de “¿por qué ocurre?”. En temas corporales, use nombres correctos, privacidad y tono respetuoso.
+
+## Para docentes
+
+Identifique la habilidad:
+
+- observar;
+- clasificar;
+- modelar;
+- explicar estructura y función;
+- analizar datos;
+- argumentar con evidencia;
+- diseñar investigaciones;
+- evaluar implicancias éticas.
+
+En reproducción y salud, ofrezca preguntas impersonales y alternativas de participación.
+
+## Mini resumen
+
+- La vida se organiza en niveles.
+- La célula es una unidad fundamental.
+- Los sistemas interactúan.
+- Los organismos presentan variación.
+- La evolución ocurre en poblaciones.
+- Los ecosistemas conectan vida y ambiente.
+- La salud requiere evidencia y contexto.
+
+## Palabras clave para búsqueda local
+
+sistema respiratorio, biología, célula, organismo, salud, ambiente, evidencia
+
+## Temas relacionados
+
+### Cursos anteriores
+
+Características de seres vivos, observación, clasificación, cuerpo y ambiente.
+
+### Cursos posteriores
+
+Mecanismos celulares, genética, evolución, ecología, salud pública y bioética.
+
+## Reglas para Chat Escolar
+
+- Adaptar vocabulario al curso activo.
+- Empezar con una explicación breve.
+- Añadir un ejemplo concreto.
+- No diagnosticar.
+- No pedir datos privados.
+- No recomendar medicamentos.
+- No inventar mecanismos ni resultados.
+- Diferenciar consenso, hipótesis y controversia.
+- Aclarar límites de analogías.
+- Para estudiante: explicación, esquema y práctica.
+- Para apoderado: actividad segura y forma de conversar.
+- Para docente: habilidad, evaluación, adaptación y fuentes.
+
+
+---
+
+---
+id: "bio_5b_008_sistema_circulatorio"
+titulo: "Sistema circulatorio"
+area: "Biología"
+categoria: "biologia_humana_salud"
+curso_origen: "5° básico"
+nivel: "intermedio"
+edad_referencial: "10 a 11 años"
+apto_desde: "5° básico"
+alineacion_curricular: "curricular_directa"
+tipo_contenido: "enciclopedia_biologia"
+requiere_fuente_verificada: false
+tema_sensible: false
+palabras_clave:
+  - "sistema circulatorio"
+  - "biología"
+  - "seres vivos"
+  - "evidencia"
+  - "salud y ambiente"
+materias_relacionadas:
+  - "Ciencias Naturales"
+  - "Química"
+  - "Matemática"
+  - "Educación Ciudadana"
+  - "Orientación"
+version: "1.0"
+fecha_revision: "2026-07-14"
+---
+
+# Sistema circulatorio
+
+> **Referencia curricular:** colección organizada el 2026-07-14. En 1° básico se parte con características, necesidades y diversidad de seres vivos; en 8° básico se profundizan célula, plantas, nutrición y sistemas; en 1° medio se desarrollan evolución, biodiversidad y ecosistemas; y en 3°–4° medio los temas biológicos se conectan con bienestar, salud, ambiente y ciudadanía científica. Los datos médicos, epidemiológicos, ambientales y biotecnológicos recientes requieren verificación actualizada.
+
+
+## Respuesta breve
+
+**Sistema circulatorio** es un tema biológico relacionado con la organización, funcionamiento, diversidad, reproducción, evolución o interacción de los seres vivos. Se explica utilizando observaciones, modelos y evidencias.
+
+## Explicación clara
+
+La biología estudia la vida desde distintas escalas: moléculas, células, tejidos, órganos, organismos, poblaciones, comunidades, ecosistemas y biósfera. Un mismo fenómeno puede requerir varias escalas.
+
+Para estudiar este tema se deben responder cinco preguntas:
+
+1. **¿Qué estructura o ser vivo participa?**
+2. **¿Qué función o proceso ocurre?**
+3. **¿Cómo se regula o cambia?**
+4. **¿Cómo se relaciona con el ambiente?**
+5. **¿Qué evidencia sostiene la explicación?**
+
+Las explicaciones biológicas no deben presentar a los organismos como máquinas perfectas. Los seres vivos tienen variación, límites, historia evolutiva e interacción constante con el ambiente.
+
+## Conceptos clave
+
+- **Organismo:** ser vivo individual.
+- **Célula:** unidad estructural y funcional básica de la vida.
+- **Estructura:** parte organizada de un sistema biológico.
+- **Función:** proceso o contribución realizada por una estructura.
+- **Ambiente:** condiciones y componentes que rodean a un organismo.
+- **Adaptación:** característica heredable asociada a mayor éxito reproductivo en cierto ambiente.
+- **Evidencia:** observaciones o datos que apoyan o cuestionan una explicación.
+
+## Ejemplo cotidiano
+
+Dormir, alimentarse, moverse y lavarse las manos ayudan al funcionamiento del organismo.
+
+Este ejemplo ayuda a comenzar, pero no reemplaza modelos, mediciones ni explicaciones completas. El chatbot debe aclarar cuando una comparación simplifica demasiado.
+
+## Ejemplo adaptado para estudiantes con TEA
+
+Usar una secuencia predecible:
+
+```text
+QUÉ ES → PARTES → FUNCIÓN → EJEMPLO → RELACIÓN CON SALUD O AMBIENTE
+```
+
+- Presentar una idea por vez.
+- Usar diagramas simples y etiquetas claras.
+- Evitar imágenes médicas explícitas o sorpresivas.
+- No pedir información personal sobre pubertad, reproducción, diagnósticos o salud.
+- Permitir respuestas mediante selección, orden, dibujo o escritura breve.
+- Anticipar vocabulario sensible.
+
+## Actividad segura
+
+### Observar, clasificar y explicar
+
+1. Selecciona imágenes, datos o muestras vegetales seguras.
+2. Define una característica observable.
+3. Clasifica según un criterio.
+4. Registra en una tabla.
+5. Compara semejanzas y diferencias.
+6. Propón una explicación.
+7. Indica qué evidencia adicional necesitarías.
+
+**Seguridad:** no cultivar microorganismos desconocidos, manipular fluidos corporales, probar sustancias, administrar medicamentos ni experimentar con animales causando estrés o daño.
+
+## Relación con salud y ambiente
+
+La biología permite comprender alimentación, sueño, actividad física, enfermedades, reproducción, biodiversidad, agricultura, conservación y cambio ambiental. Sin embargo, explicar un proceso biológico no equivale a diagnosticar a una persona.
+
+## Ciudadanía científica
+
+Este tema puede conectarse con:
+
+- derecho de niños y niñas a salud, educación y protección;
+- privacidad de datos de salud y genética;
+- consentimiento y respeto corporal;
+- instituciones sanitarias y ambientales;
+- leyes de protección ambiental y biodiversidad;
+- participación comunitaria;
+- justicia ambiental;
+- ciudadanía digital y desinformación;
+- resolución pacífica de controversias científicas y ambientales.
+
+## Preguntas de práctica
+
+### Inicial
+
+1. ¿Qué ser vivo, estructura o proceso estudia el tema?
+2. ¿Qué función cumple?
+3. Da un ejemplo cotidiano.
+
+### Intermedio
+
+4. ¿Qué niveles de organización intervienen?
+5. ¿Qué evidencia podría observarse?
+6. ¿Cómo influye el ambiente?
+
+### Desafío
+
+7. ¿Qué modelo usarías?
+8. ¿Qué limitación tendría?
+9. ¿Cómo se relaciona con salud o biodiversidad?
+10. ¿Qué dato actual necesitaría una fuente verificada?
+
+## Respuestas esperadas
+
+- Diferenciar estructura y función.
+- Evitar explicaciones finalistas como “existe para que”.
+- Distinguir adaptación evolutiva de ajuste individual.
+- Usar evidencia.
+- Reconocer variación biológica.
+- No convertir información de salud en diagnóstico.
+- Proteger privacidad.
+- Verificar datos actuales.
+
+## Errores frecuentes
+
+- Pensar que todos los microorganismos son dañinos.
+- Creer que los individuos evolucionan durante su vida.
+- Confundir adaptación con decisión consciente.
+- Suponer que un gen determina por sí solo cualquier característica compleja.
+- Decir que un sistema corporal funciona aislado.
+- Presentar ecosistemas como cadenas simples sin redes.
+- Usar “natural” como sinónimo de seguro.
+- Recomendar tratamientos sin evaluación profesional.
+
+## Cómo explicarlo si el estudiante no entiende
+
+> “La biología estudia cómo son los seres vivos, cómo funcionan, cómo cambian y cómo se relacionan con el ambiente.”
+
+## Para apoderados
+
+Trabaje con plantas, alimentos, fotografías, visitas a plazas y rutinas de salud. Pregunte “¿qué observaste?” antes de “¿por qué ocurre?”. En temas corporales, use nombres correctos, privacidad y tono respetuoso.
+
+## Para docentes
+
+Identifique la habilidad:
+
+- observar;
+- clasificar;
+- modelar;
+- explicar estructura y función;
+- analizar datos;
+- argumentar con evidencia;
+- diseñar investigaciones;
+- evaluar implicancias éticas.
+
+En reproducción y salud, ofrezca preguntas impersonales y alternativas de participación.
+
+## Mini resumen
+
+- La vida se organiza en niveles.
+- La célula es una unidad fundamental.
+- Los sistemas interactúan.
+- Los organismos presentan variación.
+- La evolución ocurre en poblaciones.
+- Los ecosistemas conectan vida y ambiente.
+- La salud requiere evidencia y contexto.
+
+## Palabras clave para búsqueda local
+
+sistema circulatorio, biología, célula, organismo, salud, ambiente, evidencia
+
+## Temas relacionados
+
+### Cursos anteriores
+
+Características de seres vivos, observación, clasificación, cuerpo y ambiente.
+
+### Cursos posteriores
+
+Mecanismos celulares, genética, evolución, ecología, salud pública y bioética.
+
+## Reglas para Chat Escolar
+
+- Adaptar vocabulario al curso activo.
+- Empezar con una explicación breve.
+- Añadir un ejemplo concreto.
+- No diagnosticar.
+- No pedir datos privados.
+- No recomendar medicamentos.
+- No inventar mecanismos ni resultados.
+- Diferenciar consenso, hipótesis y controversia.
+- Aclarar límites de analogías.
+- Para estudiante: explicación, esquema y práctica.
+- Para apoderado: actividad segura y forma de conversar.
+- Para docente: habilidad, evaluación, adaptación y fuentes.
+
+
+---
+
+---
+id: "bio_5b_009_sistema_excretor"
+titulo: "Sistema excretor"
+area: "Biología"
+categoria: "biologia_humana_salud"
+curso_origen: "5° básico"
+nivel: "intermedio"
+edad_referencial: "10 a 11 años"
+apto_desde: "5° básico"
+alineacion_curricular: "curricular_directa"
+tipo_contenido: "enciclopedia_biologia"
+requiere_fuente_verificada: false
+tema_sensible: false
+palabras_clave:
+  - "sistema excretor"
+  - "biología"
+  - "seres vivos"
+  - "evidencia"
+  - "salud y ambiente"
+materias_relacionadas:
+  - "Ciencias Naturales"
+  - "Química"
+  - "Matemática"
+  - "Educación Ciudadana"
+  - "Orientación"
+version: "1.0"
+fecha_revision: "2026-07-14"
+---
+
+# Sistema excretor
+
+> **Referencia curricular:** colección organizada el 2026-07-14. En 1° básico se parte con características, necesidades y diversidad de seres vivos; en 8° básico se profundizan célula, plantas, nutrición y sistemas; en 1° medio se desarrollan evolución, biodiversidad y ecosistemas; y en 3°–4° medio los temas biológicos se conectan con bienestar, salud, ambiente y ciudadanía científica. Los datos médicos, epidemiológicos, ambientales y biotecnológicos recientes requieren verificación actualizada.
+
+
+## Respuesta breve
+
+**Sistema excretor** es un tema biológico relacionado con la organización, funcionamiento, diversidad, reproducción, evolución o interacción de los seres vivos. Se explica utilizando observaciones, modelos y evidencias.
+
+## Explicación clara
+
+La biología estudia la vida desde distintas escalas: moléculas, células, tejidos, órganos, organismos, poblaciones, comunidades, ecosistemas y biósfera. Un mismo fenómeno puede requerir varias escalas.
+
+Para estudiar este tema se deben responder cinco preguntas:
+
+1. **¿Qué estructura o ser vivo participa?**
+2. **¿Qué función o proceso ocurre?**
+3. **¿Cómo se regula o cambia?**
+4. **¿Cómo se relaciona con el ambiente?**
+5. **¿Qué evidencia sostiene la explicación?**
+
+Las explicaciones biológicas no deben presentar a los organismos como máquinas perfectas. Los seres vivos tienen variación, límites, historia evolutiva e interacción constante con el ambiente.
+
+## Conceptos clave
+
+- **Organismo:** ser vivo individual.
+- **Célula:** unidad estructural y funcional básica de la vida.
+- **Estructura:** parte organizada de un sistema biológico.
+- **Función:** proceso o contribución realizada por una estructura.
+- **Ambiente:** condiciones y componentes que rodean a un organismo.
+- **Adaptación:** característica heredable asociada a mayor éxito reproductivo en cierto ambiente.
+- **Evidencia:** observaciones o datos que apoyan o cuestionan una explicación.
+
+## Ejemplo cotidiano
+
+Dormir, alimentarse, moverse y lavarse las manos ayudan al funcionamiento del organismo.
+
+Este ejemplo ayuda a comenzar, pero no reemplaza modelos, mediciones ni explicaciones completas. El chatbot debe aclarar cuando una comparación simplifica demasiado.
+
+## Ejemplo adaptado para estudiantes con TEA
+
+Usar una secuencia predecible:
+
+```text
+QUÉ ES → PARTES → FUNCIÓN → EJEMPLO → RELACIÓN CON SALUD O AMBIENTE
+```
+
+- Presentar una idea por vez.
+- Usar diagramas simples y etiquetas claras.
+- Evitar imágenes médicas explícitas o sorpresivas.
+- No pedir información personal sobre pubertad, reproducción, diagnósticos o salud.
+- Permitir respuestas mediante selección, orden, dibujo o escritura breve.
+- Anticipar vocabulario sensible.
+
+## Actividad segura
+
+### Observar, clasificar y explicar
+
+1. Selecciona imágenes, datos o muestras vegetales seguras.
+2. Define una característica observable.
+3. Clasifica según un criterio.
+4. Registra en una tabla.
+5. Compara semejanzas y diferencias.
+6. Propón una explicación.
+7. Indica qué evidencia adicional necesitarías.
+
+**Seguridad:** no cultivar microorganismos desconocidos, manipular fluidos corporales, probar sustancias, administrar medicamentos ni experimentar con animales causando estrés o daño.
+
+## Relación con salud y ambiente
+
+La biología permite comprender alimentación, sueño, actividad física, enfermedades, reproducción, biodiversidad, agricultura, conservación y cambio ambiental. Sin embargo, explicar un proceso biológico no equivale a diagnosticar a una persona.
+
+## Ciudadanía científica
+
+Este tema puede conectarse con:
+
+- derecho de niños y niñas a salud, educación y protección;
+- privacidad de datos de salud y genética;
+- consentimiento y respeto corporal;
+- instituciones sanitarias y ambientales;
+- leyes de protección ambiental y biodiversidad;
+- participación comunitaria;
+- justicia ambiental;
+- ciudadanía digital y desinformación;
+- resolución pacífica de controversias científicas y ambientales.
+
+## Preguntas de práctica
+
+### Inicial
+
+1. ¿Qué ser vivo, estructura o proceso estudia el tema?
+2. ¿Qué función cumple?
+3. Da un ejemplo cotidiano.
+
+### Intermedio
+
+4. ¿Qué niveles de organización intervienen?
+5. ¿Qué evidencia podría observarse?
+6. ¿Cómo influye el ambiente?
+
+### Desafío
+
+7. ¿Qué modelo usarías?
+8. ¿Qué limitación tendría?
+9. ¿Cómo se relaciona con salud o biodiversidad?
+10. ¿Qué dato actual necesitaría una fuente verificada?
+
+## Respuestas esperadas
+
+- Diferenciar estructura y función.
+- Evitar explicaciones finalistas como “existe para que”.
+- Distinguir adaptación evolutiva de ajuste individual.
+- Usar evidencia.
+- Reconocer variación biológica.
+- No convertir información de salud en diagnóstico.
+- Proteger privacidad.
+- Verificar datos actuales.
+
+## Errores frecuentes
+
+- Pensar que todos los microorganismos son dañinos.
+- Creer que los individuos evolucionan durante su vida.
+- Confundir adaptación con decisión consciente.
+- Suponer que un gen determina por sí solo cualquier característica compleja.
+- Decir que un sistema corporal funciona aislado.
+- Presentar ecosistemas como cadenas simples sin redes.
+- Usar “natural” como sinónimo de seguro.
+- Recomendar tratamientos sin evaluación profesional.
+
+## Cómo explicarlo si el estudiante no entiende
+
+> “La biología estudia cómo son los seres vivos, cómo funcionan, cómo cambian y cómo se relacionan con el ambiente.”
+
+## Para apoderados
+
+Trabaje con plantas, alimentos, fotografías, visitas a plazas y rutinas de salud. Pregunte “¿qué observaste?” antes de “¿por qué ocurre?”. En temas corporales, use nombres correctos, privacidad y tono respetuoso.
+
+## Para docentes
+
+Identifique la habilidad:
+
+- observar;
+- clasificar;
+- modelar;
+- explicar estructura y función;
+- analizar datos;
+- argumentar con evidencia;
+- diseñar investigaciones;
+- evaluar implicancias éticas.
+
+En reproducción y salud, ofrezca preguntas impersonales y alternativas de participación.
+
+## Mini resumen
+
+- La vida se organiza en niveles.
+- La célula es una unidad fundamental.
+- Los sistemas interactúan.
+- Los organismos presentan variación.
+- La evolución ocurre en poblaciones.
+- Los ecosistemas conectan vida y ambiente.
+- La salud requiere evidencia y contexto.
+
+## Palabras clave para búsqueda local
+
+sistema excretor, biología, célula, organismo, salud, ambiente, evidencia
+
+## Temas relacionados
+
+### Cursos anteriores
+
+Características de seres vivos, observación, clasificación, cuerpo y ambiente.
+
+### Cursos posteriores
+
+Mecanismos celulares, genética, evolución, ecología, salud pública y bioética.
+
+## Reglas para Chat Escolar
+
+- Adaptar vocabulario al curso activo.
+- Empezar con una explicación breve.
+- Añadir un ejemplo concreto.
+- No diagnosticar.
+- No pedir datos privados.
+- No recomendar medicamentos.
+- No inventar mecanismos ni resultados.
+- Diferenciar consenso, hipótesis y controversia.
+- Aclarar límites de analogías.
+- Para estudiante: explicación, esquema y práctica.
+- Para apoderado: actividad segura y forma de conversar.
+- Para docente: habilidad, evaluación, adaptación y fuentes.
+
+
+---
+
+---
+id: "bio_5b_010_interaccion_entre_sistemas_corporales"
+titulo: "Interacción entre sistemas corporales"
+area: "Biología"
+categoria: "biologia_humana_salud"
+curso_origen: "5° básico"
+nivel: "intermedio"
+edad_referencial: "10 a 11 años"
+apto_desde: "5° básico"
+alineacion_curricular: "curricular_directa"
+tipo_contenido: "enciclopedia_biologia"
+requiere_fuente_verificada: false
+tema_sensible: false
+palabras_clave:
+  - "interacción entre sistemas corporales"
+  - "biología"
+  - "seres vivos"
+  - "evidencia"
+  - "salud y ambiente"
+materias_relacionadas:
+  - "Ciencias Naturales"
+  - "Química"
+  - "Matemática"
+  - "Educación Ciudadana"
+  - "Orientación"
+version: "1.0"
+fecha_revision: "2026-07-14"
+---
+
+# Interacción entre sistemas corporales
+
+> **Referencia curricular:** colección organizada el 2026-07-14. En 1° básico se parte con características, necesidades y diversidad de seres vivos; en 8° básico se profundizan célula, plantas, nutrición y sistemas; en 1° medio se desarrollan evolución, biodiversidad y ecosistemas; y en 3°–4° medio los temas biológicos se conectan con bienestar, salud, ambiente y ciudadanía científica. Los datos médicos, epidemiológicos, ambientales y biotecnológicos recientes requieren verificación actualizada.
+
+
+## Respuesta breve
+
+**Interacción entre sistemas corporales** es un tema biológico relacionado con la organización, funcionamiento, diversidad, reproducción, evolución o interacción de los seres vivos. Se explica utilizando observaciones, modelos y evidencias.
+
+## Explicación clara
+
+La biología estudia la vida desde distintas escalas: moléculas, células, tejidos, órganos, organismos, poblaciones, comunidades, ecosistemas y biósfera. Un mismo fenómeno puede requerir varias escalas.
+
+Para estudiar este tema se deben responder cinco preguntas:
+
+1. **¿Qué estructura o ser vivo participa?**
+2. **¿Qué función o proceso ocurre?**
+3. **¿Cómo se regula o cambia?**
+4. **¿Cómo se relaciona con el ambiente?**
+5. **¿Qué evidencia sostiene la explicación?**
+
+Las explicaciones biológicas no deben presentar a los organismos como máquinas perfectas. Los seres vivos tienen variación, límites, historia evolutiva e interacción constante con el ambiente.
+
+## Conceptos clave
+
+- **Organismo:** ser vivo individual.
+- **Célula:** unidad estructural y funcional básica de la vida.
+- **Estructura:** parte organizada de un sistema biológico.
+- **Función:** proceso o contribución realizada por una estructura.
+- **Ambiente:** condiciones y componentes que rodean a un organismo.
+- **Adaptación:** característica heredable asociada a mayor éxito reproductivo en cierto ambiente.
+- **Evidencia:** observaciones o datos que apoyan o cuestionan una explicación.
+
+## Ejemplo cotidiano
+
+Dormir, alimentarse, moverse y lavarse las manos ayudan al funcionamiento del organismo.
+
+Este ejemplo ayuda a comenzar, pero no reemplaza modelos, mediciones ni explicaciones completas. El chatbot debe aclarar cuando una comparación simplifica demasiado.
+
+## Ejemplo adaptado para estudiantes con TEA
+
+Usar una secuencia predecible:
+
+```text
+QUÉ ES → PARTES → FUNCIÓN → EJEMPLO → RELACIÓN CON SALUD O AMBIENTE
+```
+
+- Presentar una idea por vez.
+- Usar diagramas simples y etiquetas claras.
+- Evitar imágenes médicas explícitas o sorpresivas.
+- No pedir información personal sobre pubertad, reproducción, diagnósticos o salud.
+- Permitir respuestas mediante selección, orden, dibujo o escritura breve.
+- Anticipar vocabulario sensible.
+
+## Actividad segura
+
+### Observar, clasificar y explicar
+
+1. Selecciona imágenes, datos o muestras vegetales seguras.
+2. Define una característica observable.
+3. Clasifica según un criterio.
+4. Registra en una tabla.
+5. Compara semejanzas y diferencias.
+6. Propón una explicación.
+7. Indica qué evidencia adicional necesitarías.
+
+**Seguridad:** no cultivar microorganismos desconocidos, manipular fluidos corporales, probar sustancias, administrar medicamentos ni experimentar con animales causando estrés o daño.
+
+## Relación con salud y ambiente
+
+La biología permite comprender alimentación, sueño, actividad física, enfermedades, reproducción, biodiversidad, agricultura, conservación y cambio ambiental. Sin embargo, explicar un proceso biológico no equivale a diagnosticar a una persona.
+
+## Ciudadanía científica
+
+Este tema puede conectarse con:
+
+- derecho de niños y niñas a salud, educación y protección;
+- privacidad de datos de salud y genética;
+- consentimiento y respeto corporal;
+- instituciones sanitarias y ambientales;
+- leyes de protección ambiental y biodiversidad;
+- participación comunitaria;
+- justicia ambiental;
+- ciudadanía digital y desinformación;
+- resolución pacífica de controversias científicas y ambientales.
+
+## Preguntas de práctica
+
+### Inicial
+
+1. ¿Qué ser vivo, estructura o proceso estudia el tema?
+2. ¿Qué función cumple?
+3. Da un ejemplo cotidiano.
+
+### Intermedio
+
+4. ¿Qué niveles de organización intervienen?
+5. ¿Qué evidencia podría observarse?
+6. ¿Cómo influye el ambiente?
+
+### Desafío
+
+7. ¿Qué modelo usarías?
+8. ¿Qué limitación tendría?
+9. ¿Cómo se relaciona con salud o biodiversidad?
+10. ¿Qué dato actual necesitaría una fuente verificada?
+
+## Respuestas esperadas
+
+- Diferenciar estructura y función.
+- Evitar explicaciones finalistas como “existe para que”.
+- Distinguir adaptación evolutiva de ajuste individual.
+- Usar evidencia.
+- Reconocer variación biológica.
+- No convertir información de salud en diagnóstico.
+- Proteger privacidad.
+- Verificar datos actuales.
+
+## Errores frecuentes
+
+- Pensar que todos los microorganismos son dañinos.
+- Creer que los individuos evolucionan durante su vida.
+- Confundir adaptación con decisión consciente.
+- Suponer que un gen determina por sí solo cualquier característica compleja.
+- Decir que un sistema corporal funciona aislado.
+- Presentar ecosistemas como cadenas simples sin redes.
+- Usar “natural” como sinónimo de seguro.
+- Recomendar tratamientos sin evaluación profesional.
+
+## Cómo explicarlo si el estudiante no entiende
+
+> “La biología estudia cómo son los seres vivos, cómo funcionan, cómo cambian y cómo se relacionan con el ambiente.”
+
+## Para apoderados
+
+Trabaje con plantas, alimentos, fotografías, visitas a plazas y rutinas de salud. Pregunte “¿qué observaste?” antes de “¿por qué ocurre?”. En temas corporales, use nombres correctos, privacidad y tono respetuoso.
+
+## Para docentes
+
+Identifique la habilidad:
+
+- observar;
+- clasificar;
+- modelar;
+- explicar estructura y función;
+- analizar datos;
+- argumentar con evidencia;
+- diseñar investigaciones;
+- evaluar implicancias éticas.
+
+En reproducción y salud, ofrezca preguntas impersonales y alternativas de participación.
+
+## Mini resumen
+
+- La vida se organiza en niveles.
+- La célula es una unidad fundamental.
+- Los sistemas interactúan.
+- Los organismos presentan variación.
+- La evolución ocurre en poblaciones.
+- Los ecosistemas conectan vida y ambiente.
+- La salud requiere evidencia y contexto.
+
+## Palabras clave para búsqueda local
+
+interacción entre sistemas corporales, biología, célula, organismo, salud, ambiente, evidencia
+
+## Temas relacionados
+
+### Cursos anteriores
+
+Características de seres vivos, observación, clasificación, cuerpo y ambiente.
+
+### Cursos posteriores
+
+Mecanismos celulares, genética, evolución, ecología, salud pública y bioética.
+
+## Reglas para Chat Escolar
+
+- Adaptar vocabulario al curso activo.
+- Empezar con una explicación breve.
+- Añadir un ejemplo concreto.
+- No diagnosticar.
+- No pedir datos privados.
+- No recomendar medicamentos.
+- No inventar mecanismos ni resultados.
+- Diferenciar consenso, hipótesis y controversia.
+- Aclarar límites de analogías.
+- Para estudiante: explicación, esquema y práctica.
+- Para apoderado: actividad segura y forma de conversar.
+- Para docente: habilidad, evaluación, adaptación y fuentes.
+
+
+---
+
+---
+id: "bio_5b_011_nutricion_equilibrada"
+titulo: "Nutrición equilibrada"
+area: "Biología"
+categoria: "biologia_humana_salud"
+curso_origen: "5° básico"
+nivel: "intermedio"
+edad_referencial: "10 a 11 años"
+apto_desde: "5° básico"
+alineacion_curricular: "curricular_directa"
+tipo_contenido: "enciclopedia_biologia"
+requiere_fuente_verificada: false
+tema_sensible: false
+palabras_clave:
+  - "nutrición equilibrada"
+  - "biología"
+  - "seres vivos"
+  - "evidencia"
+  - "salud y ambiente"
+materias_relacionadas:
+  - "Ciencias Naturales"
+  - "Química"
+  - "Matemática"
+  - "Educación Ciudadana"
+  - "Orientación"
+version: "1.0"
+fecha_revision: "2026-07-14"
+---
+
+# Nutrición equilibrada
+
+> **Referencia curricular:** colección organizada el 2026-07-14. En 1° básico se parte con características, necesidades y diversidad de seres vivos; en 8° básico se profundizan célula, plantas, nutrición y sistemas; en 1° medio se desarrollan evolución, biodiversidad y ecosistemas; y en 3°–4° medio los temas biológicos se conectan con bienestar, salud, ambiente y ciudadanía científica. Los datos médicos, epidemiológicos, ambientales y biotecnológicos recientes requieren verificación actualizada.
+
+
+## Respuesta breve
+
+**Nutrición equilibrada** es un tema biológico relacionado con la organización, funcionamiento, diversidad, reproducción, evolución o interacción de los seres vivos. Se explica utilizando observaciones, modelos y evidencias.
+
+## Explicación clara
+
+La biología estudia la vida desde distintas escalas: moléculas, células, tejidos, órganos, organismos, poblaciones, comunidades, ecosistemas y biósfera. Un mismo fenómeno puede requerir varias escalas.
+
+Para estudiar este tema se deben responder cinco preguntas:
+
+1. **¿Qué estructura o ser vivo participa?**
+2. **¿Qué función o proceso ocurre?**
+3. **¿Cómo se regula o cambia?**
+4. **¿Cómo se relaciona con el ambiente?**
+5. **¿Qué evidencia sostiene la explicación?**
+
+Las explicaciones biológicas no deben presentar a los organismos como máquinas perfectas. Los seres vivos tienen variación, límites, historia evolutiva e interacción constante con el ambiente.
+
+## Conceptos clave
+
+- **Organismo:** ser vivo individual.
+- **Célula:** unidad estructural y funcional básica de la vida.
+- **Estructura:** parte organizada de un sistema biológico.
+- **Función:** proceso o contribución realizada por una estructura.
+- **Ambiente:** condiciones y componentes que rodean a un organismo.
+- **Adaptación:** característica heredable asociada a mayor éxito reproductivo en cierto ambiente.
+- **Evidencia:** observaciones o datos que apoyan o cuestionan una explicación.
+
+## Ejemplo cotidiano
+
+Observar un ser vivo cercano, registrar sus características y relacionarlas con su ambiente.
+
+Este ejemplo ayuda a comenzar, pero no reemplaza modelos, mediciones ni explicaciones completas. El chatbot debe aclarar cuando una comparación simplifica demasiado.
+
+## Ejemplo adaptado para estudiantes con TEA
+
+Usar una secuencia predecible:
+
+```text
+QUÉ ES → PARTES → FUNCIÓN → EJEMPLO → RELACIÓN CON SALUD O AMBIENTE
+```
+
+- Presentar una idea por vez.
+- Usar diagramas simples y etiquetas claras.
+- Evitar imágenes médicas explícitas o sorpresivas.
+- No pedir información personal sobre pubertad, reproducción, diagnósticos o salud.
+- Permitir respuestas mediante selección, orden, dibujo o escritura breve.
+- Anticipar vocabulario sensible.
+
+## Actividad segura
+
+### Observar, clasificar y explicar
+
+1. Selecciona imágenes, datos o muestras vegetales seguras.
+2. Define una característica observable.
+3. Clasifica según un criterio.
+4. Registra en una tabla.
+5. Compara semejanzas y diferencias.
+6. Propón una explicación.
+7. Indica qué evidencia adicional necesitarías.
+
+**Seguridad:** no cultivar microorganismos desconocidos, manipular fluidos corporales, probar sustancias, administrar medicamentos ni experimentar con animales causando estrés o daño.
+
+## Relación con salud y ambiente
+
+La biología permite comprender alimentación, sueño, actividad física, enfermedades, reproducción, biodiversidad, agricultura, conservación y cambio ambiental. Sin embargo, explicar un proceso biológico no equivale a diagnosticar a una persona.
+
+## Ciudadanía científica
+
+Este tema puede conectarse con:
+
+- derecho de niños y niñas a salud, educación y protección;
+- privacidad de datos de salud y genética;
+- consentimiento y respeto corporal;
+- instituciones sanitarias y ambientales;
+- leyes de protección ambiental y biodiversidad;
+- participación comunitaria;
+- justicia ambiental;
+- ciudadanía digital y desinformación;
+- resolución pacífica de controversias científicas y ambientales.
+
+## Preguntas de práctica
+
+### Inicial
+
+1. ¿Qué ser vivo, estructura o proceso estudia el tema?
+2. ¿Qué función cumple?
+3. Da un ejemplo cotidiano.
+
+### Intermedio
+
+4. ¿Qué niveles de organización intervienen?
+5. ¿Qué evidencia podría observarse?
+6. ¿Cómo influye el ambiente?
+
+### Desafío
+
+7. ¿Qué modelo usarías?
+8. ¿Qué limitación tendría?
+9. ¿Cómo se relaciona con salud o biodiversidad?
+10. ¿Qué dato actual necesitaría una fuente verificada?
+
+## Respuestas esperadas
+
+- Diferenciar estructura y función.
+- Evitar explicaciones finalistas como “existe para que”.
+- Distinguir adaptación evolutiva de ajuste individual.
+- Usar evidencia.
+- Reconocer variación biológica.
+- No convertir información de salud en diagnóstico.
+- Proteger privacidad.
+- Verificar datos actuales.
+
+## Errores frecuentes
+
+- Pensar que todos los microorganismos son dañinos.
+- Creer que los individuos evolucionan durante su vida.
+- Confundir adaptación con decisión consciente.
+- Suponer que un gen determina por sí solo cualquier característica compleja.
+- Decir que un sistema corporal funciona aislado.
+- Presentar ecosistemas como cadenas simples sin redes.
+- Usar “natural” como sinónimo de seguro.
+- Recomendar tratamientos sin evaluación profesional.
+
+## Cómo explicarlo si el estudiante no entiende
+
+> “La biología estudia cómo son los seres vivos, cómo funcionan, cómo cambian y cómo se relacionan con el ambiente.”
+
+## Para apoderados
+
+Trabaje con plantas, alimentos, fotografías, visitas a plazas y rutinas de salud. Pregunte “¿qué observaste?” antes de “¿por qué ocurre?”. En temas corporales, use nombres correctos, privacidad y tono respetuoso.
+
+## Para docentes
+
+Identifique la habilidad:
+
+- observar;
+- clasificar;
+- modelar;
+- explicar estructura y función;
+- analizar datos;
+- argumentar con evidencia;
+- diseñar investigaciones;
+- evaluar implicancias éticas.
+
+En reproducción y salud, ofrezca preguntas impersonales y alternativas de participación.
+
+## Mini resumen
+
+- La vida se organiza en niveles.
+- La célula es una unidad fundamental.
+- Los sistemas interactúan.
+- Los organismos presentan variación.
+- La evolución ocurre en poblaciones.
+- Los ecosistemas conectan vida y ambiente.
+- La salud requiere evidencia y contexto.
+
+## Palabras clave para búsqueda local
+
+nutrición equilibrada, biología, célula, organismo, salud, ambiente, evidencia
+
+## Temas relacionados
+
+### Cursos anteriores
+
+Características de seres vivos, observación, clasificación, cuerpo y ambiente.
+
+### Cursos posteriores
+
+Mecanismos celulares, genética, evolución, ecología, salud pública y bioética.
+
+## Reglas para Chat Escolar
+
+- Adaptar vocabulario al curso activo.
+- Empezar con una explicación breve.
+- Añadir un ejemplo concreto.
+- No diagnosticar.
+- No pedir datos privados.
+- No recomendar medicamentos.
+- No inventar mecanismos ni resultados.
+- Diferenciar consenso, hipótesis y controversia.
+- Aclarar límites de analogías.
+- Para estudiante: explicación, esquema y práctica.
+- Para apoderado: actividad segura y forma de conversar.
+- Para docente: habilidad, evaluación, adaptación y fuentes.
+
+
+---
+
+---
+id: "bio_5b_012_habitos_y_salud_corporal"
+titulo: "Hábitos y salud corporal"
+area: "Biología"
+categoria: "biologia_humana_salud"
+curso_origen: "5° básico"
+nivel: "intermedio"
+edad_referencial: "10 a 11 años"
+apto_desde: "5° básico"
+alineacion_curricular: "curricular_directa"
+tipo_contenido: "enciclopedia_biologia"
+requiere_fuente_verificada: false
+tema_sensible: false
+palabras_clave:
+  - "hábitos y salud corporal"
+  - "biología"
+  - "seres vivos"
+  - "evidencia"
+  - "salud y ambiente"
+materias_relacionadas:
+  - "Ciencias Naturales"
+  - "Química"
+  - "Matemática"
+  - "Educación Ciudadana"
+  - "Orientación"
+version: "1.0"
+fecha_revision: "2026-07-14"
+---
+
+# Hábitos y salud corporal
+
+> **Referencia curricular:** colección organizada el 2026-07-14. En 1° básico se parte con características, necesidades y diversidad de seres vivos; en 8° básico se profundizan célula, plantas, nutrición y sistemas; en 1° medio se desarrollan evolución, biodiversidad y ecosistemas; y en 3°–4° medio los temas biológicos se conectan con bienestar, salud, ambiente y ciudadanía científica. Los datos médicos, epidemiológicos, ambientales y biotecnológicos recientes requieren verificación actualizada.
+
+
+## Respuesta breve
+
+**Hábitos y salud corporal** es un tema biológico relacionado con la organización, funcionamiento, diversidad, reproducción, evolución o interacción de los seres vivos. Se explica utilizando observaciones, modelos y evidencias.
+
+## Explicación clara
+
+La biología estudia la vida desde distintas escalas: moléculas, células, tejidos, órganos, organismos, poblaciones, comunidades, ecosistemas y biósfera. Un mismo fenómeno puede requerir varias escalas.
+
+Para estudiar este tema se deben responder cinco preguntas:
+
+1. **¿Qué estructura o ser vivo participa?**
+2. **¿Qué función o proceso ocurre?**
+3. **¿Cómo se regula o cambia?**
+4. **¿Cómo se relaciona con el ambiente?**
+5. **¿Qué evidencia sostiene la explicación?**
+
+Las explicaciones biológicas no deben presentar a los organismos como máquinas perfectas. Los seres vivos tienen variación, límites, historia evolutiva e interacción constante con el ambiente.
+
+## Conceptos clave
+
+- **Organismo:** ser vivo individual.
+- **Célula:** unidad estructural y funcional básica de la vida.
+- **Estructura:** parte organizada de un sistema biológico.
+- **Función:** proceso o contribución realizada por una estructura.
+- **Ambiente:** condiciones y componentes que rodean a un organismo.
+- **Adaptación:** característica heredable asociada a mayor éxito reproductivo en cierto ambiente.
+- **Evidencia:** observaciones o datos que apoyan o cuestionan una explicación.
+
+## Ejemplo cotidiano
+
+Dormir, alimentarse, moverse y lavarse las manos ayudan al funcionamiento del organismo.
+
+Este ejemplo ayuda a comenzar, pero no reemplaza modelos, mediciones ni explicaciones completas. El chatbot debe aclarar cuando una comparación simplifica demasiado.
+
+## Ejemplo adaptado para estudiantes con TEA
+
+Usar una secuencia predecible:
+
+```text
+QUÉ ES → PARTES → FUNCIÓN → EJEMPLO → RELACIÓN CON SALUD O AMBIENTE
+```
+
+- Presentar una idea por vez.
+- Usar diagramas simples y etiquetas claras.
+- Evitar imágenes médicas explícitas o sorpresivas.
+- No pedir información personal sobre pubertad, reproducción, diagnósticos o salud.
+- Permitir respuestas mediante selección, orden, dibujo o escritura breve.
+- Anticipar vocabulario sensible.
+
+## Actividad segura
+
+### Observar, clasificar y explicar
+
+1. Selecciona imágenes, datos o muestras vegetales seguras.
+2. Define una característica observable.
+3. Clasifica según un criterio.
+4. Registra en una tabla.
+5. Compara semejanzas y diferencias.
+6. Propón una explicación.
+7. Indica qué evidencia adicional necesitarías.
+
+**Seguridad:** no cultivar microorganismos desconocidos, manipular fluidos corporales, probar sustancias, administrar medicamentos ni experimentar con animales causando estrés o daño.
+
+## Relación con salud y ambiente
+
+La biología permite comprender alimentación, sueño, actividad física, enfermedades, reproducción, biodiversidad, agricultura, conservación y cambio ambiental. Sin embargo, explicar un proceso biológico no equivale a diagnosticar a una persona.
+
+## Ciudadanía científica
+
+Este tema puede conectarse con:
+
+- derecho de niños y niñas a salud, educación y protección;
+- privacidad de datos de salud y genética;
+- consentimiento y respeto corporal;
+- instituciones sanitarias y ambientales;
+- leyes de protección ambiental y biodiversidad;
+- participación comunitaria;
+- justicia ambiental;
+- ciudadanía digital y desinformación;
+- resolución pacífica de controversias científicas y ambientales.
+
+## Preguntas de práctica
+
+### Inicial
+
+1. ¿Qué ser vivo, estructura o proceso estudia el tema?
+2. ¿Qué función cumple?
+3. Da un ejemplo cotidiano.
+
+### Intermedio
+
+4. ¿Qué niveles de organización intervienen?
+5. ¿Qué evidencia podría observarse?
+6. ¿Cómo influye el ambiente?
+
+### Desafío
+
+7. ¿Qué modelo usarías?
+8. ¿Qué limitación tendría?
+9. ¿Cómo se relaciona con salud o biodiversidad?
+10. ¿Qué dato actual necesitaría una fuente verificada?
+
+## Respuestas esperadas
+
+- Diferenciar estructura y función.
+- Evitar explicaciones finalistas como “existe para que”.
+- Distinguir adaptación evolutiva de ajuste individual.
+- Usar evidencia.
+- Reconocer variación biológica.
+- No convertir información de salud en diagnóstico.
+- Proteger privacidad.
+- Verificar datos actuales.
+
+## Errores frecuentes
+
+- Pensar que todos los microorganismos son dañinos.
+- Creer que los individuos evolucionan durante su vida.
+- Confundir adaptación con decisión consciente.
+- Suponer que un gen determina por sí solo cualquier característica compleja.
+- Decir que un sistema corporal funciona aislado.
+- Presentar ecosistemas como cadenas simples sin redes.
+- Usar “natural” como sinónimo de seguro.
+- Recomendar tratamientos sin evaluación profesional.
+
+## Cómo explicarlo si el estudiante no entiende
+
+> “La biología estudia cómo son los seres vivos, cómo funcionan, cómo cambian y cómo se relacionan con el ambiente.”
+
+## Para apoderados
+
+Trabaje con plantas, alimentos, fotografías, visitas a plazas y rutinas de salud. Pregunte “¿qué observaste?” antes de “¿por qué ocurre?”. En temas corporales, use nombres correctos, privacidad y tono respetuoso.
+
+## Para docentes
+
+Identifique la habilidad:
+
+- observar;
+- clasificar;
+- modelar;
+- explicar estructura y función;
+- analizar datos;
+- argumentar con evidencia;
+- diseñar investigaciones;
+- evaluar implicancias éticas.
+
+En reproducción y salud, ofrezca preguntas impersonales y alternativas de participación.
+
+## Mini resumen
+
+- La vida se organiza en niveles.
+- La célula es una unidad fundamental.
+- Los sistemas interactúan.
+- Los organismos presentan variación.
+- La evolución ocurre en poblaciones.
+- Los ecosistemas conectan vida y ambiente.
+- La salud requiere evidencia y contexto.
+
+## Palabras clave para búsqueda local
+
+hábitos y salud corporal, biología, célula, organismo, salud, ambiente, evidencia
+
+## Temas relacionados
+
+### Cursos anteriores
+
+Características de seres vivos, observación, clasificación, cuerpo y ambiente.
+
+### Cursos posteriores
+
+Mecanismos celulares, genética, evolución, ecología, salud pública y bioética.
+
+## Reglas para Chat Escolar
+
+- Adaptar vocabulario al curso activo.
+- Empezar con una explicación breve.
+- Añadir un ejemplo concreto.
+- No diagnosticar.
+- No pedir datos privados.
+- No recomendar medicamentos.
+- No inventar mecanismos ni resultados.
+- Diferenciar consenso, hipótesis y controversia.
+- Aclarar límites de analogías.
+- Para estudiante: explicación, esquema y práctica.
+- Para apoderado: actividad segura y forma de conversar.
+- Para docente: habilidad, evaluación, adaptación y fuentes.
+
+
+---
+
+---
+id: "bio_5b_013_microorganismos_beneficiosos"
+titulo: "Microorganismos beneficiosos"
+area: "Biología"
+categoria: "microbiologia"
+curso_origen: "5° básico"
+nivel: "intermedio"
+edad_referencial: "10 a 11 años"
+apto_desde: "5° básico"
+alineacion_curricular: "curricular_directa"
+tipo_contenido: "enciclopedia_biologia"
+requiere_fuente_verificada: false
+tema_sensible: false
+palabras_clave:
+  - "microorganismos beneficiosos"
+  - "biología"
+  - "seres vivos"
+  - "evidencia"
+  - "salud y ambiente"
+materias_relacionadas:
+  - "Ciencias Naturales"
+  - "Química"
+  - "Matemática"
+  - "Educación Ciudadana"
+  - "Orientación"
+version: "1.0"
+fecha_revision: "2026-07-14"
+---
+
+# Microorganismos beneficiosos
+
+> **Referencia curricular:** colección organizada el 2026-07-14. En 1° básico se parte con características, necesidades y diversidad de seres vivos; en 8° básico se profundizan célula, plantas, nutrición y sistemas; en 1° medio se desarrollan evolución, biodiversidad y ecosistemas; y en 3°–4° medio los temas biológicos se conectan con bienestar, salud, ambiente y ciudadanía científica. Los datos médicos, epidemiológicos, ambientales y biotecnológicos recientes requieren verificación actualizada.
+
+
+## Respuesta breve
+
+**Microorganismos beneficiosos** es un tema biológico relacionado con la organización, funcionamiento, diversidad, reproducción, evolución o interacción de los seres vivos. Se explica utilizando observaciones, modelos y evidencias.
+
+## Explicación clara
+
+La biología estudia la vida desde distintas escalas: moléculas, células, tejidos, órganos, organismos, poblaciones, comunidades, ecosistemas y biósfera. Un mismo fenómeno puede requerir varias escalas.
+
+Para estudiar este tema se deben responder cinco preguntas:
+
+1. **¿Qué estructura o ser vivo participa?**
+2. **¿Qué función o proceso ocurre?**
+3. **¿Cómo se regula o cambia?**
+4. **¿Cómo se relaciona con el ambiente?**
+5. **¿Qué evidencia sostiene la explicación?**
+
+Las explicaciones biológicas no deben presentar a los organismos como máquinas perfectas. Los seres vivos tienen variación, límites, historia evolutiva e interacción constante con el ambiente.
+
+## Conceptos clave
+
+- **Organismo:** ser vivo individual.
+- **Célula:** unidad estructural y funcional básica de la vida.
+- **Estructura:** parte organizada de un sistema biológico.
+- **Función:** proceso o contribución realizada por una estructura.
+- **Ambiente:** condiciones y componentes que rodean a un organismo.
+- **Adaptación:** característica heredable asociada a mayor éxito reproductivo en cierto ambiente.
+- **Evidencia:** observaciones o datos que apoyan o cuestionan una explicación.
+
+## Ejemplo cotidiano
+
+Lavarse las manos reduce la transferencia de muchos microorganismos, aunque no todos sean dañinos.
+
+Este ejemplo ayuda a comenzar, pero no reemplaza modelos, mediciones ni explicaciones completas. El chatbot debe aclarar cuando una comparación simplifica demasiado.
+
+## Ejemplo adaptado para estudiantes con TEA
+
+Usar una secuencia predecible:
+
+```text
+QUÉ ES → PARTES → FUNCIÓN → EJEMPLO → RELACIÓN CON SALUD O AMBIENTE
+```
+
+- Presentar una idea por vez.
+- Usar diagramas simples y etiquetas claras.
+- Evitar imágenes médicas explícitas o sorpresivas.
+- No pedir información personal sobre pubertad, reproducción, diagnósticos o salud.
+- Permitir respuestas mediante selección, orden, dibujo o escritura breve.
+- Anticipar vocabulario sensible.
+
+## Actividad segura
+
+### Observar, clasificar y explicar
+
+1. Selecciona imágenes, datos o muestras vegetales seguras.
+2. Define una característica observable.
+3. Clasifica según un criterio.
+4. Registra en una tabla.
+5. Compara semejanzas y diferencias.
+6. Propón una explicación.
+7. Indica qué evidencia adicional necesitarías.
+
+**Seguridad:** no cultivar microorganismos desconocidos, manipular fluidos corporales, probar sustancias, administrar medicamentos ni experimentar con animales causando estrés o daño.
+
+## Relación con salud y ambiente
+
+La biología permite comprender alimentación, sueño, actividad física, enfermedades, reproducción, biodiversidad, agricultura, conservación y cambio ambiental. Sin embargo, explicar un proceso biológico no equivale a diagnosticar a una persona.
+
+## Ciudadanía científica
+
+Este tema puede conectarse con:
+
+- derecho de niños y niñas a salud, educación y protección;
+- privacidad de datos de salud y genética;
+- consentimiento y respeto corporal;
+- instituciones sanitarias y ambientales;
+- leyes de protección ambiental y biodiversidad;
+- participación comunitaria;
+- justicia ambiental;
+- ciudadanía digital y desinformación;
+- resolución pacífica de controversias científicas y ambientales.
+
+## Preguntas de práctica
+
+### Inicial
+
+1. ¿Qué ser vivo, estructura o proceso estudia el tema?
+2. ¿Qué función cumple?
+3. Da un ejemplo cotidiano.
+
+### Intermedio
+
+4. ¿Qué niveles de organización intervienen?
+5. ¿Qué evidencia podría observarse?
+6. ¿Cómo influye el ambiente?
+
+### Desafío
+
+7. ¿Qué modelo usarías?
+8. ¿Qué limitación tendría?
+9. ¿Cómo se relaciona con salud o biodiversidad?
+10. ¿Qué dato actual necesitaría una fuente verificada?
+
+## Respuestas esperadas
+
+- Diferenciar estructura y función.
+- Evitar explicaciones finalistas como “existe para que”.
+- Distinguir adaptación evolutiva de ajuste individual.
+- Usar evidencia.
+- Reconocer variación biológica.
+- No convertir información de salud en diagnóstico.
+- Proteger privacidad.
+- Verificar datos actuales.
+
+## Errores frecuentes
+
+- Pensar que todos los microorganismos son dañinos.
+- Creer que los individuos evolucionan durante su vida.
+- Confundir adaptación con decisión consciente.
+- Suponer que un gen determina por sí solo cualquier característica compleja.
+- Decir que un sistema corporal funciona aislado.
+- Presentar ecosistemas como cadenas simples sin redes.
+- Usar “natural” como sinónimo de seguro.
+- Recomendar tratamientos sin evaluación profesional.
+
+## Cómo explicarlo si el estudiante no entiende
+
+> “La biología estudia cómo son los seres vivos, cómo funcionan, cómo cambian y cómo se relacionan con el ambiente.”
+
+## Para apoderados
+
+Trabaje con plantas, alimentos, fotografías, visitas a plazas y rutinas de salud. Pregunte “¿qué observaste?” antes de “¿por qué ocurre?”. En temas corporales, use nombres correctos, privacidad y tono respetuoso.
+
+## Para docentes
+
+Identifique la habilidad:
+
+- observar;
+- clasificar;
+- modelar;
+- explicar estructura y función;
+- analizar datos;
+- argumentar con evidencia;
+- diseñar investigaciones;
+- evaluar implicancias éticas.
+
+En reproducción y salud, ofrezca preguntas impersonales y alternativas de participación.
+
+## Mini resumen
+
+- La vida se organiza en niveles.
+- La célula es una unidad fundamental.
+- Los sistemas interactúan.
+- Los organismos presentan variación.
+- La evolución ocurre en poblaciones.
+- Los ecosistemas conectan vida y ambiente.
+- La salud requiere evidencia y contexto.
+
+## Palabras clave para búsqueda local
+
+microorganismos beneficiosos, biología, célula, organismo, salud, ambiente, evidencia
+
+## Temas relacionados
+
+### Cursos anteriores
+
+Características de seres vivos, observación, clasificación, cuerpo y ambiente.
+
+### Cursos posteriores
+
+Mecanismos celulares, genética, evolución, ecología, salud pública y bioética.
+
+## Reglas para Chat Escolar
+
+- Adaptar vocabulario al curso activo.
+- Empezar con una explicación breve.
+- Añadir un ejemplo concreto.
+- No diagnosticar.
+- No pedir datos privados.
+- No recomendar medicamentos.
+- No inventar mecanismos ni resultados.
+- Diferenciar consenso, hipótesis y controversia.
+- Aclarar límites de analogías.
+- Para estudiante: explicación, esquema y práctica.
+- Para apoderado: actividad segura y forma de conversar.
+- Para docente: habilidad, evaluación, adaptación y fuentes.
+
+
+---
+
+---
+id: "bio_5b_014_microorganismos_patogenos"
+titulo: "Microorganismos patógenos"
+area: "Biología"
+categoria: "genetica_biotecnologia"
+curso_origen: "5° básico"
+nivel: "intermedio"
+edad_referencial: "10 a 11 años"
+apto_desde: "5° básico"
+alineacion_curricular: "curricular_directa"
+tipo_contenido: "enciclopedia_biologia"
+requiere_fuente_verificada: true
+tema_sensible: false
+palabras_clave:
+  - "microorganismos patógenos"
+  - "biología"
+  - "seres vivos"
+  - "evidencia"
+  - "salud y ambiente"
+materias_relacionadas:
+  - "Ciencias Naturales"
+  - "Química"
+  - "Matemática"
+  - "Educación Ciudadana"
+  - "Orientación"
+version: "1.0"
+fecha_revision: "2026-07-14"
+---
+
+# Microorganismos patógenos
+
+> **Referencia curricular:** colección organizada el 2026-07-14. En 1° básico se parte con características, necesidades y diversidad de seres vivos; en 8° básico se profundizan célula, plantas, nutrición y sistemas; en 1° medio se desarrollan evolución, biodiversidad y ecosistemas; y en 3°–4° medio los temas biológicos se conectan con bienestar, salud, ambiente y ciudadanía científica. Los datos médicos, epidemiológicos, ambientales y biotecnológicos recientes requieren verificación actualizada.
+
+
+## Respuesta breve
+
+**Microorganismos patógenos** es un tema biológico relacionado con la organización, funcionamiento, diversidad, reproducción, evolución o interacción de los seres vivos. Se explica utilizando observaciones, modelos y evidencias.
+
+## Explicación clara
+
+La biología estudia la vida desde distintas escalas: moléculas, células, tejidos, órganos, organismos, poblaciones, comunidades, ecosistemas y biósfera. Un mismo fenómeno puede requerir varias escalas.
+
+Para estudiar este tema se deben responder cinco preguntas:
+
+1. **¿Qué estructura o ser vivo participa?**
+2. **¿Qué función o proceso ocurre?**
+3. **¿Cómo se regula o cambia?**
+4. **¿Cómo se relaciona con el ambiente?**
+5. **¿Qué evidencia sostiene la explicación?**
+
+Las explicaciones biológicas no deben presentar a los organismos como máquinas perfectas. Los seres vivos tienen variación, límites, historia evolutiva e interacción constante con el ambiente.
+
+## Conceptos clave
+
+- **Organismo:** ser vivo individual.
+- **Célula:** unidad estructural y funcional básica de la vida.
+- **Estructura:** parte organizada de un sistema biológico.
+- **Función:** proceso o contribución realizada por una estructura.
+- **Ambiente:** condiciones y componentes que rodean a un organismo.
+- **Adaptación:** característica heredable asociada a mayor éxito reproductivo en cierto ambiente.
+- **Evidencia:** observaciones o datos que apoyan o cuestionan una explicación.
+
+## Ejemplo cotidiano
+
+Los rasgos familiares permiten hablar de herencia, aclarando que la mayoría depende de varios genes y del ambiente.
+
+Este ejemplo ayuda a comenzar, pero no reemplaza modelos, mediciones ni explicaciones completas. El chatbot debe aclarar cuando una comparación simplifica demasiado.
+
+## Ejemplo adaptado para estudiantes con TEA
+
+Usar una secuencia predecible:
+
+```text
+QUÉ ES → PARTES → FUNCIÓN → EJEMPLO → RELACIÓN CON SALUD O AMBIENTE
+```
+
+- Presentar una idea por vez.
+- Usar diagramas simples y etiquetas claras.
+- Evitar imágenes médicas explícitas o sorpresivas.
+- No pedir información personal sobre pubertad, reproducción, diagnósticos o salud.
+- Permitir respuestas mediante selección, orden, dibujo o escritura breve.
+- Anticipar vocabulario sensible.
+
+## Actividad segura
+
+### Observar, clasificar y explicar
+
+1. Selecciona imágenes, datos o muestras vegetales seguras.
+2. Define una característica observable.
+3. Clasifica según un criterio.
+4. Registra en una tabla.
+5. Compara semejanzas y diferencias.
+6. Propón una explicación.
+7. Indica qué evidencia adicional necesitarías.
+
+**Seguridad:** no cultivar microorganismos desconocidos, manipular fluidos corporales, probar sustancias, administrar medicamentos ni experimentar con animales causando estrés o daño.
+
+## Relación con salud y ambiente
+
+La biología permite comprender alimentación, sueño, actividad física, enfermedades, reproducción, biodiversidad, agricultura, conservación y cambio ambiental. Sin embargo, explicar un proceso biológico no equivale a diagnosticar a una persona.
+
+## Ciudadanía científica
+
+Este tema puede conectarse con:
+
+- derecho de niños y niñas a salud, educación y protección;
+- privacidad de datos de salud y genética;
+- consentimiento y respeto corporal;
+- instituciones sanitarias y ambientales;
+- leyes de protección ambiental y biodiversidad;
+- participación comunitaria;
+- justicia ambiental;
+- ciudadanía digital y desinformación;
+- resolución pacífica de controversias científicas y ambientales.
+
+## Preguntas de práctica
+
+### Inicial
+
+1. ¿Qué ser vivo, estructura o proceso estudia el tema?
+2. ¿Qué función cumple?
+3. Da un ejemplo cotidiano.
+
+### Intermedio
+
+4. ¿Qué niveles de organización intervienen?
+5. ¿Qué evidencia podría observarse?
+6. ¿Cómo influye el ambiente?
+
+### Desafío
+
+7. ¿Qué modelo usarías?
+8. ¿Qué limitación tendría?
+9. ¿Cómo se relaciona con salud o biodiversidad?
+10. ¿Qué dato actual necesitaría una fuente verificada?
+
+## Respuestas esperadas
+
+- Diferenciar estructura y función.
+- Evitar explicaciones finalistas como “existe para que”.
+- Distinguir adaptación evolutiva de ajuste individual.
+- Usar evidencia.
+- Reconocer variación biológica.
+- No convertir información de salud en diagnóstico.
+- Proteger privacidad.
+- Verificar datos actuales.
+
+## Errores frecuentes
+
+- Pensar que todos los microorganismos son dañinos.
+- Creer que los individuos evolucionan durante su vida.
+- Confundir adaptación con decisión consciente.
+- Suponer que un gen determina por sí solo cualquier característica compleja.
+- Decir que un sistema corporal funciona aislado.
+- Presentar ecosistemas como cadenas simples sin redes.
+- Usar “natural” como sinónimo de seguro.
+- Recomendar tratamientos sin evaluación profesional.
+
+## Cómo explicarlo si el estudiante no entiende
+
+> “La biología estudia cómo son los seres vivos, cómo funcionan, cómo cambian y cómo se relacionan con el ambiente.”
+
+## Para apoderados
+
+Trabaje con plantas, alimentos, fotografías, visitas a plazas y rutinas de salud. Pregunte “¿qué observaste?” antes de “¿por qué ocurre?”. En temas corporales, use nombres correctos, privacidad y tono respetuoso.
+
+## Para docentes
+
+Identifique la habilidad:
+
+- observar;
+- clasificar;
+- modelar;
+- explicar estructura y función;
+- analizar datos;
+- argumentar con evidencia;
+- diseñar investigaciones;
+- evaluar implicancias éticas.
+
+En reproducción y salud, ofrezca preguntas impersonales y alternativas de participación.
+
+## Mini resumen
+
+- La vida se organiza en niveles.
+- La célula es una unidad fundamental.
+- Los sistemas interactúan.
+- Los organismos presentan variación.
+- La evolución ocurre en poblaciones.
+- Los ecosistemas conectan vida y ambiente.
+- La salud requiere evidencia y contexto.
+
+## Palabras clave para búsqueda local
+
+microorganismos patógenos, biología, célula, organismo, salud, ambiente, evidencia
+
+## Temas relacionados
+
+### Cursos anteriores
+
+Características de seres vivos, observación, clasificación, cuerpo y ambiente.
+
+### Cursos posteriores
+
+Mecanismos celulares, genética, evolución, ecología, salud pública y bioética.
+
+## Reglas para Chat Escolar
+
+- Adaptar vocabulario al curso activo.
+- Empezar con una explicación breve.
+- Añadir un ejemplo concreto.
+- No diagnosticar.
+- No pedir datos privados.
+- No recomendar medicamentos.
+- No inventar mecanismos ni resultados.
+- Diferenciar consenso, hipótesis y controversia.
+- Aclarar límites de analogías.
+- Para estudiante: explicación, esquema y práctica.
+- Para apoderado: actividad segura y forma de conversar.
+- Para docente: habilidad, evaluación, adaptación y fuentes.
+
+
+---
+
+---
+id: "bio_5b_015_higiene_y_prevencion_de_infecciones"
+titulo: "Higiene y prevención de infecciones"
+area: "Biología"
+categoria: "biologia_general"
+curso_origen: "5° básico"
+nivel: "intermedio"
+edad_referencial: "10 a 11 años"
+apto_desde: "5° básico"
+alineacion_curricular: "curricular_directa"
+tipo_contenido: "enciclopedia_biologia"
+requiere_fuente_verificada: false
+tema_sensible: false
+palabras_clave:
+  - "higiene y prevención de infecciones"
+  - "biología"
+  - "seres vivos"
+  - "evidencia"
+  - "salud y ambiente"
+materias_relacionadas:
+  - "Ciencias Naturales"
+  - "Química"
+  - "Matemática"
+  - "Educación Ciudadana"
+  - "Orientación"
+version: "1.0"
+fecha_revision: "2026-07-14"
+---
+
+# Higiene y prevención de infecciones
+
+> **Referencia curricular:** colección organizada el 2026-07-14. En 1° básico se parte con características, necesidades y diversidad de seres vivos; en 8° básico se profundizan célula, plantas, nutrición y sistemas; en 1° medio se desarrollan evolución, biodiversidad y ecosistemas; y en 3°–4° medio los temas biológicos se conectan con bienestar, salud, ambiente y ciudadanía científica. Los datos médicos, epidemiológicos, ambientales y biotecnológicos recientes requieren verificación actualizada.
+
+
+## Respuesta breve
+
+**Higiene y prevención de infecciones** es un tema biológico relacionado con la organización, funcionamiento, diversidad, reproducción, evolución o interacción de los seres vivos. Se explica utilizando observaciones, modelos y evidencias.
+
+## Explicación clara
+
+La biología estudia la vida desde distintas escalas: moléculas, células, tejidos, órganos, organismos, poblaciones, comunidades, ecosistemas y biósfera. Un mismo fenómeno puede requerir varias escalas.
+
+Para estudiar este tema se deben responder cinco preguntas:
+
+1. **¿Qué estructura o ser vivo participa?**
+2. **¿Qué función o proceso ocurre?**
+3. **¿Cómo se regula o cambia?**
+4. **¿Cómo se relaciona con el ambiente?**
+5. **¿Qué evidencia sostiene la explicación?**
+
+Las explicaciones biológicas no deben presentar a los organismos como máquinas perfectas. Los seres vivos tienen variación, límites, historia evolutiva e interacción constante con el ambiente.
+
+## Conceptos clave
+
+- **Organismo:** ser vivo individual.
+- **Célula:** unidad estructural y funcional básica de la vida.
+- **Estructura:** parte organizada de un sistema biológico.
+- **Función:** proceso o contribución realizada por una estructura.
+- **Ambiente:** condiciones y componentes que rodean a un organismo.
+- **Adaptación:** característica heredable asociada a mayor éxito reproductivo en cierto ambiente.
+- **Evidencia:** observaciones o datos que apoyan o cuestionan una explicación.
+
+## Ejemplo cotidiano
+
+Observar un ser vivo cercano, registrar sus características y relacionarlas con su ambiente.
+
+Este ejemplo ayuda a comenzar, pero no reemplaza modelos, mediciones ni explicaciones completas. El chatbot debe aclarar cuando una comparación simplifica demasiado.
+
+## Ejemplo adaptado para estudiantes con TEA
+
+Usar una secuencia predecible:
+
+```text
+QUÉ ES → PARTES → FUNCIÓN → EJEMPLO → RELACIÓN CON SALUD O AMBIENTE
+```
+
+- Presentar una idea por vez.
+- Usar diagramas simples y etiquetas claras.
+- Evitar imágenes médicas explícitas o sorpresivas.
+- No pedir información personal sobre pubertad, reproducción, diagnósticos o salud.
+- Permitir respuestas mediante selección, orden, dibujo o escritura breve.
+- Anticipar vocabulario sensible.
+
+## Actividad segura
+
+### Observar, clasificar y explicar
+
+1. Selecciona imágenes, datos o muestras vegetales seguras.
+2. Define una característica observable.
+3. Clasifica según un criterio.
+4. Registra en una tabla.
+5. Compara semejanzas y diferencias.
+6. Propón una explicación.
+7. Indica qué evidencia adicional necesitarías.
+
+**Seguridad:** no cultivar microorganismos desconocidos, manipular fluidos corporales, probar sustancias, administrar medicamentos ni experimentar con animales causando estrés o daño.
+
+## Relación con salud y ambiente
+
+La biología permite comprender alimentación, sueño, actividad física, enfermedades, reproducción, biodiversidad, agricultura, conservación y cambio ambiental. Sin embargo, explicar un proceso biológico no equivale a diagnosticar a una persona.
+
+## Ciudadanía científica
+
+Este tema puede conectarse con:
+
+- derecho de niños y niñas a salud, educación y protección;
+- privacidad de datos de salud y genética;
+- consentimiento y respeto corporal;
+- instituciones sanitarias y ambientales;
+- leyes de protección ambiental y biodiversidad;
+- participación comunitaria;
+- justicia ambiental;
+- ciudadanía digital y desinformación;
+- resolución pacífica de controversias científicas y ambientales.
+
+## Preguntas de práctica
+
+### Inicial
+
+1. ¿Qué ser vivo, estructura o proceso estudia el tema?
+2. ¿Qué función cumple?
+3. Da un ejemplo cotidiano.
+
+### Intermedio
+
+4. ¿Qué niveles de organización intervienen?
+5. ¿Qué evidencia podría observarse?
+6. ¿Cómo influye el ambiente?
+
+### Desafío
+
+7. ¿Qué modelo usarías?
+8. ¿Qué limitación tendría?
+9. ¿Cómo se relaciona con salud o biodiversidad?
+10. ¿Qué dato actual necesitaría una fuente verificada?
+
+## Respuestas esperadas
+
+- Diferenciar estructura y función.
+- Evitar explicaciones finalistas como “existe para que”.
+- Distinguir adaptación evolutiva de ajuste individual.
+- Usar evidencia.
+- Reconocer variación biológica.
+- No convertir información de salud en diagnóstico.
+- Proteger privacidad.
+- Verificar datos actuales.
+
+## Errores frecuentes
+
+- Pensar que todos los microorganismos son dañinos.
+- Creer que los individuos evolucionan durante su vida.
+- Confundir adaptación con decisión consciente.
+- Suponer que un gen determina por sí solo cualquier característica compleja.
+- Decir que un sistema corporal funciona aislado.
+- Presentar ecosistemas como cadenas simples sin redes.
+- Usar “natural” como sinónimo de seguro.
+- Recomendar tratamientos sin evaluación profesional.
+
+## Cómo explicarlo si el estudiante no entiende
+
+> “La biología estudia cómo son los seres vivos, cómo funcionan, cómo cambian y cómo se relacionan con el ambiente.”
+
+## Para apoderados
+
+Trabaje con plantas, alimentos, fotografías, visitas a plazas y rutinas de salud. Pregunte “¿qué observaste?” antes de “¿por qué ocurre?”. En temas corporales, use nombres correctos, privacidad y tono respetuoso.
+
+## Para docentes
+
+Identifique la habilidad:
+
+- observar;
+- clasificar;
+- modelar;
+- explicar estructura y función;
+- analizar datos;
+- argumentar con evidencia;
+- diseñar investigaciones;
+- evaluar implicancias éticas.
+
+En reproducción y salud, ofrezca preguntas impersonales y alternativas de participación.
+
+## Mini resumen
+
+- La vida se organiza en niveles.
+- La célula es una unidad fundamental.
+- Los sistemas interactúan.
+- Los organismos presentan variación.
+- La evolución ocurre en poblaciones.
+- Los ecosistemas conectan vida y ambiente.
+- La salud requiere evidencia y contexto.
+
+## Palabras clave para búsqueda local
+
+higiene y prevención de infecciones, biología, célula, organismo, salud, ambiente, evidencia
+
+## Temas relacionados
+
+### Cursos anteriores
+
+Características de seres vivos, observación, clasificación, cuerpo y ambiente.
+
+### Cursos posteriores
+
+Mecanismos celulares, genética, evolución, ecología, salud pública y bioética.
+
+## Reglas para Chat Escolar
+
+- Adaptar vocabulario al curso activo.
+- Empezar con una explicación breve.
+- Añadir un ejemplo concreto.
+- No diagnosticar.
+- No pedir datos privados.
+- No recomendar medicamentos.
+- No inventar mecanismos ni resultados.
+- Diferenciar consenso, hipótesis y controversia.
+- Aclarar límites de analogías.
+- Para estudiante: explicación, esquema y práctica.
+- Para apoderado: actividad segura y forma de conversar.
+- Para docente: habilidad, evaluación, adaptación y fuentes.
+
+
+---
+
+---
+id: "bio_5b_016_pubertad_cambios_fisicos"
+titulo: "Pubertad: cambios físicos"
+area: "Biología"
+categoria: "biologia_humana_salud"
+curso_origen: "5° básico"
+nivel: "intermedio"
+edad_referencial: "10 a 11 años"
+apto_desde: "5° básico"
+alineacion_curricular: "curricular_directa"
+tipo_contenido: "enciclopedia_biologia"
+requiere_fuente_verificada: false
+tema_sensible: true
+palabras_clave:
+  - "pubertad: cambios físicos"
+  - "biología"
+  - "seres vivos"
+  - "evidencia"
+  - "salud y ambiente"
+materias_relacionadas:
+  - "Ciencias Naturales"
+  - "Química"
+  - "Matemática"
+  - "Educación Ciudadana"
+  - "Orientación"
+version: "1.0"
+fecha_revision: "2026-07-14"
+---
+
+# Pubertad: cambios físicos
+
+> **Referencia curricular:** colección organizada el 2026-07-14. En 1° básico se parte con características, necesidades y diversidad de seres vivos; en 8° básico se profundizan célula, plantas, nutrición y sistemas; en 1° medio se desarrollan evolución, biodiversidad y ecosistemas; y en 3°–4° medio los temas biológicos se conectan con bienestar, salud, ambiente y ciudadanía científica. Los datos médicos, epidemiológicos, ambientales y biotecnológicos recientes requieren verificación actualizada.
+
+
+## Respuesta breve
+
+**Pubertad: cambios físicos** es un tema biológico relacionado con la organización, funcionamiento, diversidad, reproducción, evolución o interacción de los seres vivos. Se explica utilizando observaciones, modelos y evidencias.
+
+## Explicación clara
+
+La biología estudia la vida desde distintas escalas: moléculas, células, tejidos, órganos, organismos, poblaciones, comunidades, ecosistemas y biósfera. Un mismo fenómeno puede requerir varias escalas.
+
+Para estudiar este tema se deben responder cinco preguntas:
+
+1. **¿Qué estructura o ser vivo participa?**
+2. **¿Qué función o proceso ocurre?**
+3. **¿Cómo se regula o cambia?**
+4. **¿Cómo se relaciona con el ambiente?**
+5. **¿Qué evidencia sostiene la explicación?**
+
+Las explicaciones biológicas no deben presentar a los organismos como máquinas perfectas. Los seres vivos tienen variación, límites, historia evolutiva e interacción constante con el ambiente.
+
+## Conceptos clave
+
+- **Organismo:** ser vivo individual.
+- **Célula:** unidad estructural y funcional básica de la vida.
+- **Estructura:** parte organizada de un sistema biológico.
+- **Función:** proceso o contribución realizada por una estructura.
+- **Ambiente:** condiciones y componentes que rodean a un organismo.
+- **Adaptación:** característica heredable asociada a mayor éxito reproductivo en cierto ambiente.
+- **Evidencia:** observaciones o datos que apoyan o cuestionan una explicación.
+
+## Ejemplo cotidiano
+
+Observar un ser vivo cercano, registrar sus características y relacionarlas con su ambiente.
+
+Este ejemplo ayuda a comenzar, pero no reemplaza modelos, mediciones ni explicaciones completas. El chatbot debe aclarar cuando una comparación simplifica demasiado.
+
+## Ejemplo adaptado para estudiantes con TEA
+
+Usar una secuencia predecible:
+
+```text
+QUÉ ES → PARTES → FUNCIÓN → EJEMPLO → RELACIÓN CON SALUD O AMBIENTE
+```
+
+- Presentar una idea por vez.
+- Usar diagramas simples y etiquetas claras.
+- Evitar imágenes médicas explícitas o sorpresivas.
+- No pedir información personal sobre pubertad, reproducción, diagnósticos o salud.
+- Permitir respuestas mediante selección, orden, dibujo o escritura breve.
+- Anticipar vocabulario sensible.
+
+## Actividad segura
+
+### Observar, clasificar y explicar
+
+1. Selecciona imágenes, datos o muestras vegetales seguras.
+2. Define una característica observable.
+3. Clasifica según un criterio.
+4. Registra en una tabla.
+5. Compara semejanzas y diferencias.
+6. Propón una explicación.
+7. Indica qué evidencia adicional necesitarías.
+
+**Seguridad:** no cultivar microorganismos desconocidos, manipular fluidos corporales, probar sustancias, administrar medicamentos ni experimentar con animales causando estrés o daño.
+
+## Relación con salud y ambiente
+
+La biología permite comprender alimentación, sueño, actividad física, enfermedades, reproducción, biodiversidad, agricultura, conservación y cambio ambiental. Sin embargo, explicar un proceso biológico no equivale a diagnosticar a una persona.
+
+## Ciudadanía científica
+
+Este tema puede conectarse con:
+
+- derecho de niños y niñas a salud, educación y protección;
+- privacidad de datos de salud y genética;
+- consentimiento y respeto corporal;
+- instituciones sanitarias y ambientales;
+- leyes de protección ambiental y biodiversidad;
+- participación comunitaria;
+- justicia ambiental;
+- ciudadanía digital y desinformación;
+- resolución pacífica de controversias científicas y ambientales.
+
+## Preguntas de práctica
+
+### Inicial
+
+1. ¿Qué ser vivo, estructura o proceso estudia el tema?
+2. ¿Qué función cumple?
+3. Da un ejemplo cotidiano.
+
+### Intermedio
+
+4. ¿Qué niveles de organización intervienen?
+5. ¿Qué evidencia podría observarse?
+6. ¿Cómo influye el ambiente?
+
+### Desafío
+
+7. ¿Qué modelo usarías?
+8. ¿Qué limitación tendría?
+9. ¿Cómo se relaciona con salud o biodiversidad?
+10. ¿Qué dato actual necesitaría una fuente verificada?
+
+## Respuestas esperadas
+
+- Diferenciar estructura y función.
+- Evitar explicaciones finalistas como “existe para que”.
+- Distinguir adaptación evolutiva de ajuste individual.
+- Usar evidencia.
+- Reconocer variación biológica.
+- No convertir información de salud en diagnóstico.
+- Proteger privacidad.
+- Verificar datos actuales.
+
+## Errores frecuentes
+
+- Pensar que todos los microorganismos son dañinos.
+- Creer que los individuos evolucionan durante su vida.
+- Confundir adaptación con decisión consciente.
+- Suponer que un gen determina por sí solo cualquier característica compleja.
+- Decir que un sistema corporal funciona aislado.
+- Presentar ecosistemas como cadenas simples sin redes.
+- Usar “natural” como sinónimo de seguro.
+- Recomendar tratamientos sin evaluación profesional.
+
+## Cómo explicarlo si el estudiante no entiende
+
+> “La biología estudia cómo son los seres vivos, cómo funcionan, cómo cambian y cómo se relacionan con el ambiente.”
+
+## Para apoderados
+
+Trabaje con plantas, alimentos, fotografías, visitas a plazas y rutinas de salud. Pregunte “¿qué observaste?” antes de “¿por qué ocurre?”. En temas corporales, use nombres correctos, privacidad y tono respetuoso.
+
+## Para docentes
+
+Identifique la habilidad:
+
+- observar;
+- clasificar;
+- modelar;
+- explicar estructura y función;
+- analizar datos;
+- argumentar con evidencia;
+- diseñar investigaciones;
+- evaluar implicancias éticas.
+
+En reproducción y salud, ofrezca preguntas impersonales y alternativas de participación.
+
+## Mini resumen
+
+- La vida se organiza en niveles.
+- La célula es una unidad fundamental.
+- Los sistemas interactúan.
+- Los organismos presentan variación.
+- La evolución ocurre en poblaciones.
+- Los ecosistemas conectan vida y ambiente.
+- La salud requiere evidencia y contexto.
+
+## Palabras clave para búsqueda local
+
+pubertad: cambios físicos, biología, célula, organismo, salud, ambiente, evidencia
+
+## Temas relacionados
+
+### Cursos anteriores
+
+Características de seres vivos, observación, clasificación, cuerpo y ambiente.
+
+### Cursos posteriores
+
+Mecanismos celulares, genética, evolución, ecología, salud pública y bioética.
+
+## Reglas para Chat Escolar
+
+- Adaptar vocabulario al curso activo.
+- Empezar con una explicación breve.
+- Añadir un ejemplo concreto.
+- No diagnosticar.
+- No pedir datos privados.
+- No recomendar medicamentos.
+- No inventar mecanismos ni resultados.
+- Diferenciar consenso, hipótesis y controversia.
+- Aclarar límites de analogías.
+- Para estudiante: explicación, esquema y práctica.
+- Para apoderado: actividad segura y forma de conversar.
+- Para docente: habilidad, evaluación, adaptación y fuentes.
+
+
+---
+
+---
+id: "bio_5b_017_pubertad_cambios_emocionales"
+titulo: "Pubertad: cambios emocionales"
+area: "Biología"
+categoria: "biologia_humana_salud"
+curso_origen: "5° básico"
+nivel: "intermedio"
+edad_referencial: "10 a 11 años"
+apto_desde: "5° básico"
+alineacion_curricular: "curricular_directa"
+tipo_contenido: "enciclopedia_biologia"
+requiere_fuente_verificada: false
+tema_sensible: true
+palabras_clave:
+  - "pubertad: cambios emocionales"
+  - "biología"
+  - "seres vivos"
+  - "evidencia"
+  - "salud y ambiente"
+materias_relacionadas:
+  - "Ciencias Naturales"
+  - "Química"
+  - "Matemática"
+  - "Educación Ciudadana"
+  - "Orientación"
+version: "1.0"
+fecha_revision: "2026-07-14"
+---
+
+# Pubertad: cambios emocionales
+
+> **Referencia curricular:** colección organizada el 2026-07-14. En 1° básico se parte con características, necesidades y diversidad de seres vivos; en 8° básico se profundizan célula, plantas, nutrición y sistemas; en 1° medio se desarrollan evolución, biodiversidad y ecosistemas; y en 3°–4° medio los temas biológicos se conectan con bienestar, salud, ambiente y ciudadanía científica. Los datos médicos, epidemiológicos, ambientales y biotecnológicos recientes requieren verificación actualizada.
+
+
+## Respuesta breve
+
+**Pubertad: cambios emocionales** es un tema biológico relacionado con la organización, funcionamiento, diversidad, reproducción, evolución o interacción de los seres vivos. Se explica utilizando observaciones, modelos y evidencias.
+
+## Explicación clara
+
+La biología estudia la vida desde distintas escalas: moléculas, células, tejidos, órganos, organismos, poblaciones, comunidades, ecosistemas y biósfera. Un mismo fenómeno puede requerir varias escalas.
+
+Para estudiar este tema se deben responder cinco preguntas:
+
+1. **¿Qué estructura o ser vivo participa?**
+2. **¿Qué función o proceso ocurre?**
+3. **¿Cómo se regula o cambia?**
+4. **¿Cómo se relaciona con el ambiente?**
+5. **¿Qué evidencia sostiene la explicación?**
+
+Las explicaciones biológicas no deben presentar a los organismos como máquinas perfectas. Los seres vivos tienen variación, límites, historia evolutiva e interacción constante con el ambiente.
+
+## Conceptos clave
+
+- **Organismo:** ser vivo individual.
+- **Célula:** unidad estructural y funcional básica de la vida.
+- **Estructura:** parte organizada de un sistema biológico.
+- **Función:** proceso o contribución realizada por una estructura.
+- **Ambiente:** condiciones y componentes que rodean a un organismo.
+- **Adaptación:** característica heredable asociada a mayor éxito reproductivo en cierto ambiente.
+- **Evidencia:** observaciones o datos que apoyan o cuestionan una explicación.
+
+## Ejemplo cotidiano
+
+Observar un ser vivo cercano, registrar sus características y relacionarlas con su ambiente.
+
+Este ejemplo ayuda a comenzar, pero no reemplaza modelos, mediciones ni explicaciones completas. El chatbot debe aclarar cuando una comparación simplifica demasiado.
+
+## Ejemplo adaptado para estudiantes con TEA
+
+Usar una secuencia predecible:
+
+```text
+QUÉ ES → PARTES → FUNCIÓN → EJEMPLO → RELACIÓN CON SALUD O AMBIENTE
+```
+
+- Presentar una idea por vez.
+- Usar diagramas simples y etiquetas claras.
+- Evitar imágenes médicas explícitas o sorpresivas.
+- No pedir información personal sobre pubertad, reproducción, diagnósticos o salud.
+- Permitir respuestas mediante selección, orden, dibujo o escritura breve.
+- Anticipar vocabulario sensible.
+
+## Actividad segura
+
+### Observar, clasificar y explicar
+
+1. Selecciona imágenes, datos o muestras vegetales seguras.
+2. Define una característica observable.
+3. Clasifica según un criterio.
+4. Registra en una tabla.
+5. Compara semejanzas y diferencias.
+6. Propón una explicación.
+7. Indica qué evidencia adicional necesitarías.
+
+**Seguridad:** no cultivar microorganismos desconocidos, manipular fluidos corporales, probar sustancias, administrar medicamentos ni experimentar con animales causando estrés o daño.
+
+## Relación con salud y ambiente
+
+La biología permite comprender alimentación, sueño, actividad física, enfermedades, reproducción, biodiversidad, agricultura, conservación y cambio ambiental. Sin embargo, explicar un proceso biológico no equivale a diagnosticar a una persona.
+
+## Ciudadanía científica
+
+Este tema puede conectarse con:
+
+- derecho de niños y niñas a salud, educación y protección;
+- privacidad de datos de salud y genética;
+- consentimiento y respeto corporal;
+- instituciones sanitarias y ambientales;
+- leyes de protección ambiental y biodiversidad;
+- participación comunitaria;
+- justicia ambiental;
+- ciudadanía digital y desinformación;
+- resolución pacífica de controversias científicas y ambientales.
+
+## Preguntas de práctica
+
+### Inicial
+
+1. ¿Qué ser vivo, estructura o proceso estudia el tema?
+2. ¿Qué función cumple?
+3. Da un ejemplo cotidiano.
+
+### Intermedio
+
+4. ¿Qué niveles de organización intervienen?
+5. ¿Qué evidencia podría observarse?
+6. ¿Cómo influye el ambiente?
+
+### Desafío
+
+7. ¿Qué modelo usarías?
+8. ¿Qué limitación tendría?
+9. ¿Cómo se relaciona con salud o biodiversidad?
+10. ¿Qué dato actual necesitaría una fuente verificada?
+
+## Respuestas esperadas
+
+- Diferenciar estructura y función.
+- Evitar explicaciones finalistas como “existe para que”.
+- Distinguir adaptación evolutiva de ajuste individual.
+- Usar evidencia.
+- Reconocer variación biológica.
+- No convertir información de salud en diagnóstico.
+- Proteger privacidad.
+- Verificar datos actuales.
+
+## Errores frecuentes
+
+- Pensar que todos los microorganismos son dañinos.
+- Creer que los individuos evolucionan durante su vida.
+- Confundir adaptación con decisión consciente.
+- Suponer que un gen determina por sí solo cualquier característica compleja.
+- Decir que un sistema corporal funciona aislado.
+- Presentar ecosistemas como cadenas simples sin redes.
+- Usar “natural” como sinónimo de seguro.
+- Recomendar tratamientos sin evaluación profesional.
+
+## Cómo explicarlo si el estudiante no entiende
+
+> “La biología estudia cómo son los seres vivos, cómo funcionan, cómo cambian y cómo se relacionan con el ambiente.”
+
+## Para apoderados
+
+Trabaje con plantas, alimentos, fotografías, visitas a plazas y rutinas de salud. Pregunte “¿qué observaste?” antes de “¿por qué ocurre?”. En temas corporales, use nombres correctos, privacidad y tono respetuoso.
+
+## Para docentes
+
+Identifique la habilidad:
+
+- observar;
+- clasificar;
+- modelar;
+- explicar estructura y función;
+- analizar datos;
+- argumentar con evidencia;
+- diseñar investigaciones;
+- evaluar implicancias éticas.
+
+En reproducción y salud, ofrezca preguntas impersonales y alternativas de participación.
+
+## Mini resumen
+
+- La vida se organiza en niveles.
+- La célula es una unidad fundamental.
+- Los sistemas interactúan.
+- Los organismos presentan variación.
+- La evolución ocurre en poblaciones.
+- Los ecosistemas conectan vida y ambiente.
+- La salud requiere evidencia y contexto.
+
+## Palabras clave para búsqueda local
+
+pubertad: cambios emocionales, biología, célula, organismo, salud, ambiente, evidencia
+
+## Temas relacionados
+
+### Cursos anteriores
+
+Características de seres vivos, observación, clasificación, cuerpo y ambiente.
+
+### Cursos posteriores
+
+Mecanismos celulares, genética, evolución, ecología, salud pública y bioética.
+
+## Reglas para Chat Escolar
+
+- Adaptar vocabulario al curso activo.
+- Empezar con una explicación breve.
+- Añadir un ejemplo concreto.
+- No diagnosticar.
+- No pedir datos privados.
+- No recomendar medicamentos.
+- No inventar mecanismos ni resultados.
+- Diferenciar consenso, hipótesis y controversia.
+- Aclarar límites de analogías.
+- Para estudiante: explicación, esquema y práctica.
+- Para apoderado: actividad segura y forma de conversar.
+- Para docente: habilidad, evaluación, adaptación y fuentes.
+
+
+---
+
+---
+id: "bio_5b_018_respeto_privacidad_y_autocuidado"
+titulo: "Respeto, privacidad y autocuidado"
+area: "Biología"
+categoria: "biologia_general"
+curso_origen: "5° básico"
+nivel: "intermedio"
+edad_referencial: "10 a 11 años"
+apto_desde: "5° básico"
+alineacion_curricular: "curricular_directa"
+tipo_contenido: "enciclopedia_biologia"
+requiere_fuente_verificada: false
+tema_sensible: false
+palabras_clave:
+  - "respeto, privacidad y autocuidado"
+  - "biología"
+  - "seres vivos"
+  - "evidencia"
+  - "salud y ambiente"
+materias_relacionadas:
+  - "Ciencias Naturales"
+  - "Química"
+  - "Matemática"
+  - "Educación Ciudadana"
+  - "Orientación"
+version: "1.0"
+fecha_revision: "2026-07-14"
+---
+
+# Respeto, privacidad y autocuidado
+
+> **Referencia curricular:** colección organizada el 2026-07-14. En 1° básico se parte con características, necesidades y diversidad de seres vivos; en 8° básico se profundizan célula, plantas, nutrición y sistemas; en 1° medio se desarrollan evolución, biodiversidad y ecosistemas; y en 3°–4° medio los temas biológicos se conectan con bienestar, salud, ambiente y ciudadanía científica. Los datos médicos, epidemiológicos, ambientales y biotecnológicos recientes requieren verificación actualizada.
+
+
+## Respuesta breve
+
+**Respeto, privacidad y autocuidado** es un tema biológico relacionado con la organización, funcionamiento, diversidad, reproducción, evolución o interacción de los seres vivos. Se explica utilizando observaciones, modelos y evidencias.
+
+## Explicación clara
+
+La biología estudia la vida desde distintas escalas: moléculas, células, tejidos, órganos, organismos, poblaciones, comunidades, ecosistemas y biósfera. Un mismo fenómeno puede requerir varias escalas.
+
+Para estudiar este tema se deben responder cinco preguntas:
+
+1. **¿Qué estructura o ser vivo participa?**
+2. **¿Qué función o proceso ocurre?**
+3. **¿Cómo se regula o cambia?**
+4. **¿Cómo se relaciona con el ambiente?**
+5. **¿Qué evidencia sostiene la explicación?**
+
+Las explicaciones biológicas no deben presentar a los organismos como máquinas perfectas. Los seres vivos tienen variación, límites, historia evolutiva e interacción constante con el ambiente.
+
+## Conceptos clave
+
+- **Organismo:** ser vivo individual.
+- **Célula:** unidad estructural y funcional básica de la vida.
+- **Estructura:** parte organizada de un sistema biológico.
+- **Función:** proceso o contribución realizada por una estructura.
+- **Ambiente:** condiciones y componentes que rodean a un organismo.
+- **Adaptación:** característica heredable asociada a mayor éxito reproductivo en cierto ambiente.
+- **Evidencia:** observaciones o datos que apoyan o cuestionan una explicación.
+
+## Ejemplo cotidiano
+
+Observar un ser vivo cercano, registrar sus características y relacionarlas con su ambiente.
+
+Este ejemplo ayuda a comenzar, pero no reemplaza modelos, mediciones ni explicaciones completas. El chatbot debe aclarar cuando una comparación simplifica demasiado.
+
+## Ejemplo adaptado para estudiantes con TEA
+
+Usar una secuencia predecible:
+
+```text
+QUÉ ES → PARTES → FUNCIÓN → EJEMPLO → RELACIÓN CON SALUD O AMBIENTE
+```
+
+- Presentar una idea por vez.
+- Usar diagramas simples y etiquetas claras.
+- Evitar imágenes médicas explícitas o sorpresivas.
+- No pedir información personal sobre pubertad, reproducción, diagnósticos o salud.
+- Permitir respuestas mediante selección, orden, dibujo o escritura breve.
+- Anticipar vocabulario sensible.
+
+## Actividad segura
+
+### Observar, clasificar y explicar
+
+1. Selecciona imágenes, datos o muestras vegetales seguras.
+2. Define una característica observable.
+3. Clasifica según un criterio.
+4. Registra en una tabla.
+5. Compara semejanzas y diferencias.
+6. Propón una explicación.
+7. Indica qué evidencia adicional necesitarías.
+
+**Seguridad:** no cultivar microorganismos desconocidos, manipular fluidos corporales, probar sustancias, administrar medicamentos ni experimentar con animales causando estrés o daño.
+
+## Relación con salud y ambiente
+
+La biología permite comprender alimentación, sueño, actividad física, enfermedades, reproducción, biodiversidad, agricultura, conservación y cambio ambiental. Sin embargo, explicar un proceso biológico no equivale a diagnosticar a una persona.
+
+## Ciudadanía científica
+
+Este tema puede conectarse con:
+
+- derecho de niños y niñas a salud, educación y protección;
+- privacidad de datos de salud y genética;
+- consentimiento y respeto corporal;
+- instituciones sanitarias y ambientales;
+- leyes de protección ambiental y biodiversidad;
+- participación comunitaria;
+- justicia ambiental;
+- ciudadanía digital y desinformación;
+- resolución pacífica de controversias científicas y ambientales.
+
+## Preguntas de práctica
+
+### Inicial
+
+1. ¿Qué ser vivo, estructura o proceso estudia el tema?
+2. ¿Qué función cumple?
+3. Da un ejemplo cotidiano.
+
+### Intermedio
+
+4. ¿Qué niveles de organización intervienen?
+5. ¿Qué evidencia podría observarse?
+6. ¿Cómo influye el ambiente?
+
+### Desafío
+
+7. ¿Qué modelo usarías?
+8. ¿Qué limitación tendría?
+9. ¿Cómo se relaciona con salud o biodiversidad?
+10. ¿Qué dato actual necesitaría una fuente verificada?
+
+## Respuestas esperadas
+
+- Diferenciar estructura y función.
+- Evitar explicaciones finalistas como “existe para que”.
+- Distinguir adaptación evolutiva de ajuste individual.
+- Usar evidencia.
+- Reconocer variación biológica.
+- No convertir información de salud en diagnóstico.
+- Proteger privacidad.
+- Verificar datos actuales.
+
+## Errores frecuentes
+
+- Pensar que todos los microorganismos son dañinos.
+- Creer que los individuos evolucionan durante su vida.
+- Confundir adaptación con decisión consciente.
+- Suponer que un gen determina por sí solo cualquier característica compleja.
+- Decir que un sistema corporal funciona aislado.
+- Presentar ecosistemas como cadenas simples sin redes.
+- Usar “natural” como sinónimo de seguro.
+- Recomendar tratamientos sin evaluación profesional.
+
+## Cómo explicarlo si el estudiante no entiende
+
+> “La biología estudia cómo son los seres vivos, cómo funcionan, cómo cambian y cómo se relacionan con el ambiente.”
+
+## Para apoderados
+
+Trabaje con plantas, alimentos, fotografías, visitas a plazas y rutinas de salud. Pregunte “¿qué observaste?” antes de “¿por qué ocurre?”. En temas corporales, use nombres correctos, privacidad y tono respetuoso.
+
+## Para docentes
+
+Identifique la habilidad:
+
+- observar;
+- clasificar;
+- modelar;
+- explicar estructura y función;
+- analizar datos;
+- argumentar con evidencia;
+- diseñar investigaciones;
+- evaluar implicancias éticas.
+
+En reproducción y salud, ofrezca preguntas impersonales y alternativas de participación.
+
+## Mini resumen
+
+- La vida se organiza en niveles.
+- La célula es una unidad fundamental.
+- Los sistemas interactúan.
+- Los organismos presentan variación.
+- La evolución ocurre en poblaciones.
+- Los ecosistemas conectan vida y ambiente.
+- La salud requiere evidencia y contexto.
+
+## Palabras clave para búsqueda local
+
+respeto, privacidad y autocuidado, biología, célula, organismo, salud, ambiente, evidencia
+
+## Temas relacionados
+
+### Cursos anteriores
+
+Características de seres vivos, observación, clasificación, cuerpo y ambiente.
+
+### Cursos posteriores
+
+Mecanismos celulares, genética, evolución, ecología, salud pública y bioética.
+
+## Reglas para Chat Escolar
+
+- Adaptar vocabulario al curso activo.
+- Empezar con una explicación breve.
+- Añadir un ejemplo concreto.
+- No diagnosticar.
+- No pedir datos privados.
+- No recomendar medicamentos.
+- No inventar mecanismos ni resultados.
+- Diferenciar consenso, hipótesis y controversia.
+- Aclarar límites de analogías.
+- Para estudiante: explicación, esquema y práctica.
+- Para apoderado: actividad segura y forma de conversar.
+- Para docente: habilidad, evaluación, adaptación y fuentes.
+
+
+---
+
+---
+id: "bio_5b_019_ecosistemas_acuaticos"
+titulo: "Ecosistemas acuáticos"
+area: "Biología"
+categoria: "biologia_humana_salud"
+curso_origen: "5° básico"
+nivel: "intermedio"
+edad_referencial: "10 a 11 años"
+apto_desde: "5° básico"
+alineacion_curricular: "curricular_directa"
+tipo_contenido: "enciclopedia_biologia"
+requiere_fuente_verificada: false
+tema_sensible: false
+palabras_clave:
+  - "ecosistemas acuáticos"
+  - "biología"
+  - "seres vivos"
+  - "evidencia"
+  - "salud y ambiente"
+materias_relacionadas:
+  - "Ciencias Naturales"
+  - "Química"
+  - "Matemática"
+  - "Educación Ciudadana"
+  - "Orientación"
+version: "1.0"
+fecha_revision: "2026-07-14"
+---
+
+# Ecosistemas acuáticos
+
+> **Referencia curricular:** colección organizada el 2026-07-14. En 1° básico se parte con características, necesidades y diversidad de seres vivos; en 8° básico se profundizan célula, plantas, nutrición y sistemas; en 1° medio se desarrollan evolución, biodiversidad y ecosistemas; y en 3°–4° medio los temas biológicos se conectan con bienestar, salud, ambiente y ciudadanía científica. Los datos médicos, epidemiológicos, ambientales y biotecnológicos recientes requieren verificación actualizada.
+
+
+## Respuesta breve
+
+**Ecosistemas acuáticos** es un tema biológico relacionado con la organización, funcionamiento, diversidad, reproducción, evolución o interacción de los seres vivos. Se explica utilizando observaciones, modelos y evidencias.
+
+## Explicación clara
+
+La biología estudia la vida desde distintas escalas: moléculas, células, tejidos, órganos, organismos, poblaciones, comunidades, ecosistemas y biósfera. Un mismo fenómeno puede requerir varias escalas.
+
+Para estudiar este tema se deben responder cinco preguntas:
+
+1. **¿Qué estructura o ser vivo participa?**
+2. **¿Qué función o proceso ocurre?**
+3. **¿Cómo se regula o cambia?**
+4. **¿Cómo se relaciona con el ambiente?**
+5. **¿Qué evidencia sostiene la explicación?**
+
+Las explicaciones biológicas no deben presentar a los organismos como máquinas perfectas. Los seres vivos tienen variación, límites, historia evolutiva e interacción constante con el ambiente.
+
+## Conceptos clave
+
+- **Organismo:** ser vivo individual.
+- **Célula:** unidad estructural y funcional básica de la vida.
+- **Estructura:** parte organizada de un sistema biológico.
+- **Función:** proceso o contribución realizada por una estructura.
+- **Ambiente:** condiciones y componentes que rodean a un organismo.
+- **Adaptación:** característica heredable asociada a mayor éxito reproductivo en cierto ambiente.
+- **Evidencia:** observaciones o datos que apoyan o cuestionan una explicación.
+
+## Ejemplo cotidiano
+
+En una plaza se relacionan plantas, insectos, aves, suelo, agua, luz y actividades humanas.
+
+Este ejemplo ayuda a comenzar, pero no reemplaza modelos, mediciones ni explicaciones completas. El chatbot debe aclarar cuando una comparación simplifica demasiado.
+
+## Ejemplo adaptado para estudiantes con TEA
+
+Usar una secuencia predecible:
+
+```text
+QUÉ ES → PARTES → FUNCIÓN → EJEMPLO → RELACIÓN CON SALUD O AMBIENTE
+```
+
+- Presentar una idea por vez.
+- Usar diagramas simples y etiquetas claras.
+- Evitar imágenes médicas explícitas o sorpresivas.
+- No pedir información personal sobre pubertad, reproducción, diagnósticos o salud.
+- Permitir respuestas mediante selección, orden, dibujo o escritura breve.
+- Anticipar vocabulario sensible.
+
+## Actividad segura
+
+### Observar, clasificar y explicar
+
+1. Selecciona imágenes, datos o muestras vegetales seguras.
+2. Define una característica observable.
+3. Clasifica según un criterio.
+4. Registra en una tabla.
+5. Compara semejanzas y diferencias.
+6. Propón una explicación.
+7. Indica qué evidencia adicional necesitarías.
+
+**Seguridad:** no cultivar microorganismos desconocidos, manipular fluidos corporales, probar sustancias, administrar medicamentos ni experimentar con animales causando estrés o daño.
+
+## Relación con salud y ambiente
+
+La biología permite comprender alimentación, sueño, actividad física, enfermedades, reproducción, biodiversidad, agricultura, conservación y cambio ambiental. Sin embargo, explicar un proceso biológico no equivale a diagnosticar a una persona.
+
+## Ciudadanía científica
+
+Este tema puede conectarse con:
+
+- derecho de niños y niñas a salud, educación y protección;
+- privacidad de datos de salud y genética;
+- consentimiento y respeto corporal;
+- instituciones sanitarias y ambientales;
+- leyes de protección ambiental y biodiversidad;
+- participación comunitaria;
+- justicia ambiental;
+- ciudadanía digital y desinformación;
+- resolución pacífica de controversias científicas y ambientales.
+
+## Preguntas de práctica
+
+### Inicial
+
+1. ¿Qué ser vivo, estructura o proceso estudia el tema?
+2. ¿Qué función cumple?
+3. Da un ejemplo cotidiano.
+
+### Intermedio
+
+4. ¿Qué niveles de organización intervienen?
+5. ¿Qué evidencia podría observarse?
+6. ¿Cómo influye el ambiente?
+
+### Desafío
+
+7. ¿Qué modelo usarías?
+8. ¿Qué limitación tendría?
+9. ¿Cómo se relaciona con salud o biodiversidad?
+10. ¿Qué dato actual necesitaría una fuente verificada?
+
+## Respuestas esperadas
+
+- Diferenciar estructura y función.
+- Evitar explicaciones finalistas como “existe para que”.
+- Distinguir adaptación evolutiva de ajuste individual.
+- Usar evidencia.
+- Reconocer variación biológica.
+- No convertir información de salud en diagnóstico.
+- Proteger privacidad.
+- Verificar datos actuales.
+
+## Errores frecuentes
+
+- Pensar que todos los microorganismos son dañinos.
+- Creer que los individuos evolucionan durante su vida.
+- Confundir adaptación con decisión consciente.
+- Suponer que un gen determina por sí solo cualquier característica compleja.
+- Decir que un sistema corporal funciona aislado.
+- Presentar ecosistemas como cadenas simples sin redes.
+- Usar “natural” como sinónimo de seguro.
+- Recomendar tratamientos sin evaluación profesional.
+
+## Cómo explicarlo si el estudiante no entiende
+
+> “La biología estudia cómo son los seres vivos, cómo funcionan, cómo cambian y cómo se relacionan con el ambiente.”
+
+## Para apoderados
+
+Trabaje con plantas, alimentos, fotografías, visitas a plazas y rutinas de salud. Pregunte “¿qué observaste?” antes de “¿por qué ocurre?”. En temas corporales, use nombres correctos, privacidad y tono respetuoso.
+
+## Para docentes
+
+Identifique la habilidad:
+
+- observar;
+- clasificar;
+- modelar;
+- explicar estructura y función;
+- analizar datos;
+- argumentar con evidencia;
+- diseñar investigaciones;
+- evaluar implicancias éticas.
+
+En reproducción y salud, ofrezca preguntas impersonales y alternativas de participación.
+
+## Mini resumen
+
+- La vida se organiza en niveles.
+- La célula es una unidad fundamental.
+- Los sistemas interactúan.
+- Los organismos presentan variación.
+- La evolución ocurre en poblaciones.
+- Los ecosistemas conectan vida y ambiente.
+- La salud requiere evidencia y contexto.
+
+## Palabras clave para búsqueda local
+
+ecosistemas acuáticos, biología, célula, organismo, salud, ambiente, evidencia
+
+## Temas relacionados
+
+### Cursos anteriores
+
+Características de seres vivos, observación, clasificación, cuerpo y ambiente.
+
+### Cursos posteriores
+
+Mecanismos celulares, genética, evolución, ecología, salud pública y bioética.
+
+## Reglas para Chat Escolar
+
+- Adaptar vocabulario al curso activo.
+- Empezar con una explicación breve.
+- Añadir un ejemplo concreto.
+- No diagnosticar.
+- No pedir datos privados.
+- No recomendar medicamentos.
+- No inventar mecanismos ni resultados.
+- Diferenciar consenso, hipótesis y controversia.
+- Aclarar límites de analogías.
+- Para estudiante: explicación, esquema y práctica.
+- Para apoderado: actividad segura y forma de conversar.
+- Para docente: habilidad, evaluación, adaptación y fuentes.
+
+
+---
+
+---
+id: "bio_5b_020_oceanos_y_biodiversidad"
+titulo: "Océanos y biodiversidad"
+area: "Biología"
+categoria: "ecologia_biodiversidad"
+curso_origen: "5° básico"
+nivel: "intermedio"
+edad_referencial: "10 a 11 años"
+apto_desde: "5° básico"
+alineacion_curricular: "curricular_directa"
+tipo_contenido: "enciclopedia_biologia"
+requiere_fuente_verificada: false
+tema_sensible: false
+palabras_clave:
+  - "océanos y biodiversidad"
+  - "biología"
+  - "seres vivos"
+  - "evidencia"
+  - "salud y ambiente"
+materias_relacionadas:
+  - "Ciencias Naturales"
+  - "Química"
+  - "Matemática"
+  - "Educación Ciudadana"
+  - "Orientación"
+version: "1.0"
+fecha_revision: "2026-07-14"
+---
+
+# Océanos y biodiversidad
+
+> **Referencia curricular:** colección organizada el 2026-07-14. En 1° básico se parte con características, necesidades y diversidad de seres vivos; en 8° básico se profundizan célula, plantas, nutrición y sistemas; en 1° medio se desarrollan evolución, biodiversidad y ecosistemas; y en 3°–4° medio los temas biológicos se conectan con bienestar, salud, ambiente y ciudadanía científica. Los datos médicos, epidemiológicos, ambientales y biotecnológicos recientes requieren verificación actualizada.
+
+
+## Respuesta breve
+
+**Océanos y biodiversidad** es un tema biológico relacionado con la organización, funcionamiento, diversidad, reproducción, evolución o interacción de los seres vivos. Se explica utilizando observaciones, modelos y evidencias.
+
+## Explicación clara
+
+La biología estudia la vida desde distintas escalas: moléculas, células, tejidos, órganos, organismos, poblaciones, comunidades, ecosistemas y biósfera. Un mismo fenómeno puede requerir varias escalas.
+
+Para estudiar este tema se deben responder cinco preguntas:
+
+1. **¿Qué estructura o ser vivo participa?**
+2. **¿Qué función o proceso ocurre?**
+3. **¿Cómo se regula o cambia?**
+4. **¿Cómo se relaciona con el ambiente?**
+5. **¿Qué evidencia sostiene la explicación?**
+
+Las explicaciones biológicas no deben presentar a los organismos como máquinas perfectas. Los seres vivos tienen variación, límites, historia evolutiva e interacción constante con el ambiente.
+
+## Conceptos clave
+
+- **Organismo:** ser vivo individual.
+- **Célula:** unidad estructural y funcional básica de la vida.
+- **Estructura:** parte organizada de un sistema biológico.
+- **Función:** proceso o contribución realizada por una estructura.
+- **Ambiente:** condiciones y componentes que rodean a un organismo.
+- **Adaptación:** característica heredable asociada a mayor éxito reproductivo en cierto ambiente.
+- **Evidencia:** observaciones o datos que apoyan o cuestionan una explicación.
+
+## Ejemplo cotidiano
+
+En una plaza se relacionan plantas, insectos, aves, suelo, agua, luz y actividades humanas.
+
+Este ejemplo ayuda a comenzar, pero no reemplaza modelos, mediciones ni explicaciones completas. El chatbot debe aclarar cuando una comparación simplifica demasiado.
+
+## Ejemplo adaptado para estudiantes con TEA
+
+Usar una secuencia predecible:
+
+```text
+QUÉ ES → PARTES → FUNCIÓN → EJEMPLO → RELACIÓN CON SALUD O AMBIENTE
+```
+
+- Presentar una idea por vez.
+- Usar diagramas simples y etiquetas claras.
+- Evitar imágenes médicas explícitas o sorpresivas.
+- No pedir información personal sobre pubertad, reproducción, diagnósticos o salud.
+- Permitir respuestas mediante selección, orden, dibujo o escritura breve.
+- Anticipar vocabulario sensible.
+
+## Actividad segura
+
+### Observar, clasificar y explicar
+
+1. Selecciona imágenes, datos o muestras vegetales seguras.
+2. Define una característica observable.
+3. Clasifica según un criterio.
+4. Registra en una tabla.
+5. Compara semejanzas y diferencias.
+6. Propón una explicación.
+7. Indica qué evidencia adicional necesitarías.
+
+**Seguridad:** no cultivar microorganismos desconocidos, manipular fluidos corporales, probar sustancias, administrar medicamentos ni experimentar con animales causando estrés o daño.
+
+## Relación con salud y ambiente
+
+La biología permite comprender alimentación, sueño, actividad física, enfermedades, reproducción, biodiversidad, agricultura, conservación y cambio ambiental. Sin embargo, explicar un proceso biológico no equivale a diagnosticar a una persona.
+
+## Ciudadanía científica
+
+Este tema puede conectarse con:
+
+- derecho de niños y niñas a salud, educación y protección;
+- privacidad de datos de salud y genética;
+- consentimiento y respeto corporal;
+- instituciones sanitarias y ambientales;
+- leyes de protección ambiental y biodiversidad;
+- participación comunitaria;
+- justicia ambiental;
+- ciudadanía digital y desinformación;
+- resolución pacífica de controversias científicas y ambientales.
+
+## Preguntas de práctica
+
+### Inicial
+
+1. ¿Qué ser vivo, estructura o proceso estudia el tema?
+2. ¿Qué función cumple?
+3. Da un ejemplo cotidiano.
+
+### Intermedio
+
+4. ¿Qué niveles de organización intervienen?
+5. ¿Qué evidencia podría observarse?
+6. ¿Cómo influye el ambiente?
+
+### Desafío
+
+7. ¿Qué modelo usarías?
+8. ¿Qué limitación tendría?
+9. ¿Cómo se relaciona con salud o biodiversidad?
+10. ¿Qué dato actual necesitaría una fuente verificada?
+
+## Respuestas esperadas
+
+- Diferenciar estructura y función.
+- Evitar explicaciones finalistas como “existe para que”.
+- Distinguir adaptación evolutiva de ajuste individual.
+- Usar evidencia.
+- Reconocer variación biológica.
+- No convertir información de salud en diagnóstico.
+- Proteger privacidad.
+- Verificar datos actuales.
+
+## Errores frecuentes
+
+- Pensar que todos los microorganismos son dañinos.
+- Creer que los individuos evolucionan durante su vida.
+- Confundir adaptación con decisión consciente.
+- Suponer que un gen determina por sí solo cualquier característica compleja.
+- Decir que un sistema corporal funciona aislado.
+- Presentar ecosistemas como cadenas simples sin redes.
+- Usar “natural” como sinónimo de seguro.
+- Recomendar tratamientos sin evaluación profesional.
+
+## Cómo explicarlo si el estudiante no entiende
+
+> “La biología estudia cómo son los seres vivos, cómo funcionan, cómo cambian y cómo se relacionan con el ambiente.”
+
+## Para apoderados
+
+Trabaje con plantas, alimentos, fotografías, visitas a plazas y rutinas de salud. Pregunte “¿qué observaste?” antes de “¿por qué ocurre?”. En temas corporales, use nombres correctos, privacidad y tono respetuoso.
+
+## Para docentes
+
+Identifique la habilidad:
+
+- observar;
+- clasificar;
+- modelar;
+- explicar estructura y función;
+- analizar datos;
+- argumentar con evidencia;
+- diseñar investigaciones;
+- evaluar implicancias éticas.
+
+En reproducción y salud, ofrezca preguntas impersonales y alternativas de participación.
+
+## Mini resumen
+
+- La vida se organiza en niveles.
+- La célula es una unidad fundamental.
+- Los sistemas interactúan.
+- Los organismos presentan variación.
+- La evolución ocurre en poblaciones.
+- Los ecosistemas conectan vida y ambiente.
+- La salud requiere evidencia y contexto.
+
+## Palabras clave para búsqueda local
+
+océanos y biodiversidad, biología, célula, organismo, salud, ambiente, evidencia
+
+## Temas relacionados
+
+### Cursos anteriores
+
+Características de seres vivos, observación, clasificación, cuerpo y ambiente.
+
+### Cursos posteriores
+
+Mecanismos celulares, genética, evolución, ecología, salud pública y bioética.
+
+## Reglas para Chat Escolar
+
+- Adaptar vocabulario al curso activo.
+- Empezar con una explicación breve.
+- Añadir un ejemplo concreto.
+- No diagnosticar.
+- No pedir datos privados.
+- No recomendar medicamentos.
+- No inventar mecanismos ni resultados.
+- Diferenciar consenso, hipótesis y controversia.
+- Aclarar límites de analogías.
+- Para estudiante: explicación, esquema y práctica.
+- Para apoderado: actividad segura y forma de conversar.
+- Para docente: habilidad, evaluación, adaptación y fuentes.
+
+
+---
+
+---
+id: "bio_5b_021_cadenas_troficas_acuaticas"
+titulo: "Cadenas tróficas acuáticas"
+area: "Biología"
+categoria: "ecologia_biodiversidad"
+curso_origen: "5° básico"
+nivel: "intermedio"
+edad_referencial: "10 a 11 años"
+apto_desde: "5° básico"
+alineacion_curricular: "curricular_directa"
+tipo_contenido: "enciclopedia_biologia"
+requiere_fuente_verificada: false
+tema_sensible: false
+palabras_clave:
+  - "cadenas tróficas acuáticas"
+  - "biología"
+  - "seres vivos"
+  - "evidencia"
+  - "salud y ambiente"
+materias_relacionadas:
+  - "Ciencias Naturales"
+  - "Química"
+  - "Matemática"
+  - "Educación Ciudadana"
+  - "Orientación"
+version: "1.0"
+fecha_revision: "2026-07-14"
+---
+
+# Cadenas tróficas acuáticas
+
+> **Referencia curricular:** colección organizada el 2026-07-14. En 1° básico se parte con características, necesidades y diversidad de seres vivos; en 8° básico se profundizan célula, plantas, nutrición y sistemas; en 1° medio se desarrollan evolución, biodiversidad y ecosistemas; y en 3°–4° medio los temas biológicos se conectan con bienestar, salud, ambiente y ciudadanía científica. Los datos médicos, epidemiológicos, ambientales y biotecnológicos recientes requieren verificación actualizada.
+
+
+## Respuesta breve
+
+**Cadenas tróficas acuáticas** es un tema biológico relacionado con la organización, funcionamiento, diversidad, reproducción, evolución o interacción de los seres vivos. Se explica utilizando observaciones, modelos y evidencias.
+
+## Explicación clara
+
+La biología estudia la vida desde distintas escalas: moléculas, células, tejidos, órganos, organismos, poblaciones, comunidades, ecosistemas y biósfera. Un mismo fenómeno puede requerir varias escalas.
+
+Para estudiar este tema se deben responder cinco preguntas:
+
+1. **¿Qué estructura o ser vivo participa?**
+2. **¿Qué función o proceso ocurre?**
+3. **¿Cómo se regula o cambia?**
+4. **¿Cómo se relaciona con el ambiente?**
+5. **¿Qué evidencia sostiene la explicación?**
+
+Las explicaciones biológicas no deben presentar a los organismos como máquinas perfectas. Los seres vivos tienen variación, límites, historia evolutiva e interacción constante con el ambiente.
+
+## Conceptos clave
+
+- **Organismo:** ser vivo individual.
+- **Célula:** unidad estructural y funcional básica de la vida.
+- **Estructura:** parte organizada de un sistema biológico.
+- **Función:** proceso o contribución realizada por una estructura.
+- **Ambiente:** condiciones y componentes que rodean a un organismo.
+- **Adaptación:** característica heredable asociada a mayor éxito reproductivo en cierto ambiente.
+- **Evidencia:** observaciones o datos que apoyan o cuestionan una explicación.
+
+## Ejemplo cotidiano
+
+Observar un ser vivo cercano, registrar sus características y relacionarlas con su ambiente.
+
+Este ejemplo ayuda a comenzar, pero no reemplaza modelos, mediciones ni explicaciones completas. El chatbot debe aclarar cuando una comparación simplifica demasiado.
+
+## Ejemplo adaptado para estudiantes con TEA
+
+Usar una secuencia predecible:
+
+```text
+QUÉ ES → PARTES → FUNCIÓN → EJEMPLO → RELACIÓN CON SALUD O AMBIENTE
+```
+
+- Presentar una idea por vez.
+- Usar diagramas simples y etiquetas claras.
+- Evitar imágenes médicas explícitas o sorpresivas.
+- No pedir información personal sobre pubertad, reproducción, diagnósticos o salud.
+- Permitir respuestas mediante selección, orden, dibujo o escritura breve.
+- Anticipar vocabulario sensible.
+
+## Actividad segura
+
+### Observar, clasificar y explicar
+
+1. Selecciona imágenes, datos o muestras vegetales seguras.
+2. Define una característica observable.
+3. Clasifica según un criterio.
+4. Registra en una tabla.
+5. Compara semejanzas y diferencias.
+6. Propón una explicación.
+7. Indica qué evidencia adicional necesitarías.
+
+**Seguridad:** no cultivar microorganismos desconocidos, manipular fluidos corporales, probar sustancias, administrar medicamentos ni experimentar con animales causando estrés o daño.
+
+## Relación con salud y ambiente
+
+La biología permite comprender alimentación, sueño, actividad física, enfermedades, reproducción, biodiversidad, agricultura, conservación y cambio ambiental. Sin embargo, explicar un proceso biológico no equivale a diagnosticar a una persona.
+
+## Ciudadanía científica
+
+Este tema puede conectarse con:
+
+- derecho de niños y niñas a salud, educación y protección;
+- privacidad de datos de salud y genética;
+- consentimiento y respeto corporal;
+- instituciones sanitarias y ambientales;
+- leyes de protección ambiental y biodiversidad;
+- participación comunitaria;
+- justicia ambiental;
+- ciudadanía digital y desinformación;
+- resolución pacífica de controversias científicas y ambientales.
+
+## Preguntas de práctica
+
+### Inicial
+
+1. ¿Qué ser vivo, estructura o proceso estudia el tema?
+2. ¿Qué función cumple?
+3. Da un ejemplo cotidiano.
+
+### Intermedio
+
+4. ¿Qué niveles de organización intervienen?
+5. ¿Qué evidencia podría observarse?
+6. ¿Cómo influye el ambiente?
+
+### Desafío
+
+7. ¿Qué modelo usarías?
+8. ¿Qué limitación tendría?
+9. ¿Cómo se relaciona con salud o biodiversidad?
+10. ¿Qué dato actual necesitaría una fuente verificada?
+
+## Respuestas esperadas
+
+- Diferenciar estructura y función.
+- Evitar explicaciones finalistas como “existe para que”.
+- Distinguir adaptación evolutiva de ajuste individual.
+- Usar evidencia.
+- Reconocer variación biológica.
+- No convertir información de salud en diagnóstico.
+- Proteger privacidad.
+- Verificar datos actuales.
+
+## Errores frecuentes
+
+- Pensar que todos los microorganismos son dañinos.
+- Creer que los individuos evolucionan durante su vida.
+- Confundir adaptación con decisión consciente.
+- Suponer que un gen determina por sí solo cualquier característica compleja.
+- Decir que un sistema corporal funciona aislado.
+- Presentar ecosistemas como cadenas simples sin redes.
+- Usar “natural” como sinónimo de seguro.
+- Recomendar tratamientos sin evaluación profesional.
+
+## Cómo explicarlo si el estudiante no entiende
+
+> “La biología estudia cómo son los seres vivos, cómo funcionan, cómo cambian y cómo se relacionan con el ambiente.”
+
+## Para apoderados
+
+Trabaje con plantas, alimentos, fotografías, visitas a plazas y rutinas de salud. Pregunte “¿qué observaste?” antes de “¿por qué ocurre?”. En temas corporales, use nombres correctos, privacidad y tono respetuoso.
+
+## Para docentes
+
+Identifique la habilidad:
+
+- observar;
+- clasificar;
+- modelar;
+- explicar estructura y función;
+- analizar datos;
+- argumentar con evidencia;
+- diseñar investigaciones;
+- evaluar implicancias éticas.
+
+En reproducción y salud, ofrezca preguntas impersonales y alternativas de participación.
+
+## Mini resumen
+
+- La vida se organiza en niveles.
+- La célula es una unidad fundamental.
+- Los sistemas interactúan.
+- Los organismos presentan variación.
+- La evolución ocurre en poblaciones.
+- Los ecosistemas conectan vida y ambiente.
+- La salud requiere evidencia y contexto.
+
+## Palabras clave para búsqueda local
+
+cadenas tróficas acuáticas, biología, célula, organismo, salud, ambiente, evidencia
+
+## Temas relacionados
+
+### Cursos anteriores
+
+Características de seres vivos, observación, clasificación, cuerpo y ambiente.
+
+### Cursos posteriores
+
+Mecanismos celulares, genética, evolución, ecología, salud pública y bioética.
+
+## Reglas para Chat Escolar
+
+- Adaptar vocabulario al curso activo.
+- Empezar con una explicación breve.
+- Añadir un ejemplo concreto.
+- No diagnosticar.
+- No pedir datos privados.
+- No recomendar medicamentos.
+- No inventar mecanismos ni resultados.
+- Diferenciar consenso, hipótesis y controversia.
+- Aclarar límites de analogías.
+- Para estudiante: explicación, esquema y práctica.
+- Para apoderado: actividad segura y forma de conversar.
+- Para docente: habilidad, evaluación, adaptación y fuentes.
+
+
+---
+
+---
+id: "bio_5b_022_impacto_humano_en_ambientes_acuaticos"
+titulo: "Impacto humano en ambientes acuáticos"
+area: "Biología"
+categoria: "biologia_general"
+curso_origen: "5° básico"
+nivel: "intermedio"
+edad_referencial: "10 a 11 años"
+apto_desde: "5° básico"
+alineacion_curricular: "curricular_directa"
+tipo_contenido: "enciclopedia_biologia"
+requiere_fuente_verificada: false
+tema_sensible: false
+palabras_clave:
+  - "impacto humano en ambientes acuáticos"
+  - "biología"
+  - "seres vivos"
+  - "evidencia"
+  - "salud y ambiente"
+materias_relacionadas:
+  - "Ciencias Naturales"
+  - "Química"
+  - "Matemática"
+  - "Educación Ciudadana"
+  - "Orientación"
+version: "1.0"
+fecha_revision: "2026-07-14"
+---
+
+# Impacto humano en ambientes acuáticos
+
+> **Referencia curricular:** colección organizada el 2026-07-14. En 1° básico se parte con características, necesidades y diversidad de seres vivos; en 8° básico se profundizan célula, plantas, nutrición y sistemas; en 1° medio se desarrollan evolución, biodiversidad y ecosistemas; y en 3°–4° medio los temas biológicos se conectan con bienestar, salud, ambiente y ciudadanía científica. Los datos médicos, epidemiológicos, ambientales y biotecnológicos recientes requieren verificación actualizada.
+
+
+## Respuesta breve
+
+**Impacto humano en ambientes acuáticos** es un tema biológico relacionado con la organización, funcionamiento, diversidad, reproducción, evolución o interacción de los seres vivos. Se explica utilizando observaciones, modelos y evidencias.
+
+## Explicación clara
+
+La biología estudia la vida desde distintas escalas: moléculas, células, tejidos, órganos, organismos, poblaciones, comunidades, ecosistemas y biósfera. Un mismo fenómeno puede requerir varias escalas.
+
+Para estudiar este tema se deben responder cinco preguntas:
+
+1. **¿Qué estructura o ser vivo participa?**
+2. **¿Qué función o proceso ocurre?**
+3. **¿Cómo se regula o cambia?**
+4. **¿Cómo se relaciona con el ambiente?**
+5. **¿Qué evidencia sostiene la explicación?**
+
+Las explicaciones biológicas no deben presentar a los organismos como máquinas perfectas. Los seres vivos tienen variación, límites, historia evolutiva e interacción constante con el ambiente.
+
+## Conceptos clave
+
+- **Organismo:** ser vivo individual.
+- **Célula:** unidad estructural y funcional básica de la vida.
+- **Estructura:** parte organizada de un sistema biológico.
+- **Función:** proceso o contribución realizada por una estructura.
+- **Ambiente:** condiciones y componentes que rodean a un organismo.
+- **Adaptación:** característica heredable asociada a mayor éxito reproductivo en cierto ambiente.
+- **Evidencia:** observaciones o datos que apoyan o cuestionan una explicación.
+
+## Ejemplo cotidiano
+
+Observar un ser vivo cercano, registrar sus características y relacionarlas con su ambiente.
+
+Este ejemplo ayuda a comenzar, pero no reemplaza modelos, mediciones ni explicaciones completas. El chatbot debe aclarar cuando una comparación simplifica demasiado.
+
+## Ejemplo adaptado para estudiantes con TEA
+
+Usar una secuencia predecible:
+
+```text
+QUÉ ES → PARTES → FUNCIÓN → EJEMPLO → RELACIÓN CON SALUD O AMBIENTE
+```
+
+- Presentar una idea por vez.
+- Usar diagramas simples y etiquetas claras.
+- Evitar imágenes médicas explícitas o sorpresivas.
+- No pedir información personal sobre pubertad, reproducción, diagnósticos o salud.
+- Permitir respuestas mediante selección, orden, dibujo o escritura breve.
+- Anticipar vocabulario sensible.
+
+## Actividad segura
+
+### Observar, clasificar y explicar
+
+1. Selecciona imágenes, datos o muestras vegetales seguras.
+2. Define una característica observable.
+3. Clasifica según un criterio.
+4. Registra en una tabla.
+5. Compara semejanzas y diferencias.
+6. Propón una explicación.
+7. Indica qué evidencia adicional necesitarías.
+
+**Seguridad:** no cultivar microorganismos desconocidos, manipular fluidos corporales, probar sustancias, administrar medicamentos ni experimentar con animales causando estrés o daño.
+
+## Relación con salud y ambiente
+
+La biología permite comprender alimentación, sueño, actividad física, enfermedades, reproducción, biodiversidad, agricultura, conservación y cambio ambiental. Sin embargo, explicar un proceso biológico no equivale a diagnosticar a una persona.
+
+## Ciudadanía científica
+
+Este tema puede conectarse con:
+
+- derecho de niños y niñas a salud, educación y protección;
+- privacidad de datos de salud y genética;
+- consentimiento y respeto corporal;
+- instituciones sanitarias y ambientales;
+- leyes de protección ambiental y biodiversidad;
+- participación comunitaria;
+- justicia ambiental;
+- ciudadanía digital y desinformación;
+- resolución pacífica de controversias científicas y ambientales.
+
+## Preguntas de práctica
+
+### Inicial
+
+1. ¿Qué ser vivo, estructura o proceso estudia el tema?
+2. ¿Qué función cumple?
+3. Da un ejemplo cotidiano.
+
+### Intermedio
+
+4. ¿Qué niveles de organización intervienen?
+5. ¿Qué evidencia podría observarse?
+6. ¿Cómo influye el ambiente?
+
+### Desafío
+
+7. ¿Qué modelo usarías?
+8. ¿Qué limitación tendría?
+9. ¿Cómo se relaciona con salud o biodiversidad?
+10. ¿Qué dato actual necesitaría una fuente verificada?
+
+## Respuestas esperadas
+
+- Diferenciar estructura y función.
+- Evitar explicaciones finalistas como “existe para que”.
+- Distinguir adaptación evolutiva de ajuste individual.
+- Usar evidencia.
+- Reconocer variación biológica.
+- No convertir información de salud en diagnóstico.
+- Proteger privacidad.
+- Verificar datos actuales.
+
+## Errores frecuentes
+
+- Pensar que todos los microorganismos son dañinos.
+- Creer que los individuos evolucionan durante su vida.
+- Confundir adaptación con decisión consciente.
+- Suponer que un gen determina por sí solo cualquier característica compleja.
+- Decir que un sistema corporal funciona aislado.
+- Presentar ecosistemas como cadenas simples sin redes.
+- Usar “natural” como sinónimo de seguro.
+- Recomendar tratamientos sin evaluación profesional.
+
+## Cómo explicarlo si el estudiante no entiende
+
+> “La biología estudia cómo son los seres vivos, cómo funcionan, cómo cambian y cómo se relacionan con el ambiente.”
+
+## Para apoderados
+
+Trabaje con plantas, alimentos, fotografías, visitas a plazas y rutinas de salud. Pregunte “¿qué observaste?” antes de “¿por qué ocurre?”. En temas corporales, use nombres correctos, privacidad y tono respetuoso.
+
+## Para docentes
+
+Identifique la habilidad:
+
+- observar;
+- clasificar;
+- modelar;
+- explicar estructura y función;
+- analizar datos;
+- argumentar con evidencia;
+- diseñar investigaciones;
+- evaluar implicancias éticas.
+
+En reproducción y salud, ofrezca preguntas impersonales y alternativas de participación.
+
+## Mini resumen
+
+- La vida se organiza en niveles.
+- La célula es una unidad fundamental.
+- Los sistemas interactúan.
+- Los organismos presentan variación.
+- La evolución ocurre en poblaciones.
+- Los ecosistemas conectan vida y ambiente.
+- La salud requiere evidencia y contexto.
+
+## Palabras clave para búsqueda local
+
+impacto humano en ambientes acuáticos, biología, célula, organismo, salud, ambiente, evidencia
+
+## Temas relacionados
+
+### Cursos anteriores
+
+Características de seres vivos, observación, clasificación, cuerpo y ambiente.
+
+### Cursos posteriores
+
+Mecanismos celulares, genética, evolución, ecología, salud pública y bioética.
+
+## Reglas para Chat Escolar
+
+- Adaptar vocabulario al curso activo.
+- Empezar con una explicación breve.
+- Añadir un ejemplo concreto.
+- No diagnosticar.
+- No pedir datos privados.
+- No recomendar medicamentos.
+- No inventar mecanismos ni resultados.
+- Diferenciar consenso, hipótesis y controversia.
+- Aclarar límites de analogías.
+- Para estudiante: explicación, esquema y práctica.
+- Para apoderado: actividad segura y forma de conversar.
+- Para docente: habilidad, evaluación, adaptación y fuentes.
+
+
+---
+
+---
+id: "bio_5b_023_conservacion_de_especies"
+titulo: "Conservación de especies"
+area: "Biología"
+categoria: "ecologia_biodiversidad"
+curso_origen: "5° básico"
+nivel: "intermedio"
+edad_referencial: "10 a 11 años"
+apto_desde: "5° básico"
+alineacion_curricular: "curricular_directa"
+tipo_contenido: "enciclopedia_biologia"
+requiere_fuente_verificada: false
+tema_sensible: false
+palabras_clave:
+  - "conservación de especies"
+  - "biología"
+  - "seres vivos"
+  - "evidencia"
+  - "salud y ambiente"
+materias_relacionadas:
+  - "Ciencias Naturales"
+  - "Química"
+  - "Matemática"
+  - "Educación Ciudadana"
+  - "Orientación"
+version: "1.0"
+fecha_revision: "2026-07-14"
+---
+
+# Conservación de especies
+
+> **Referencia curricular:** colección organizada el 2026-07-14. En 1° básico se parte con características, necesidades y diversidad de seres vivos; en 8° básico se profundizan célula, plantas, nutrición y sistemas; en 1° medio se desarrollan evolución, biodiversidad y ecosistemas; y en 3°–4° medio los temas biológicos se conectan con bienestar, salud, ambiente y ciudadanía científica. Los datos médicos, epidemiológicos, ambientales y biotecnológicos recientes requieren verificación actualizada.
+
+
+## Respuesta breve
+
+**Conservación de especies** es un tema biológico relacionado con la organización, funcionamiento, diversidad, reproducción, evolución o interacción de los seres vivos. Se explica utilizando observaciones, modelos y evidencias.
+
+## Explicación clara
+
+La biología estudia la vida desde distintas escalas: moléculas, células, tejidos, órganos, organismos, poblaciones, comunidades, ecosistemas y biósfera. Un mismo fenómeno puede requerir varias escalas.
+
+Para estudiar este tema se deben responder cinco preguntas:
+
+1. **¿Qué estructura o ser vivo participa?**
+2. **¿Qué función o proceso ocurre?**
+3. **¿Cómo se regula o cambia?**
+4. **¿Cómo se relaciona con el ambiente?**
+5. **¿Qué evidencia sostiene la explicación?**
+
+Las explicaciones biológicas no deben presentar a los organismos como máquinas perfectas. Los seres vivos tienen variación, límites, historia evolutiva e interacción constante con el ambiente.
+
+## Conceptos clave
+
+- **Organismo:** ser vivo individual.
+- **Célula:** unidad estructural y funcional básica de la vida.
+- **Estructura:** parte organizada de un sistema biológico.
+- **Función:** proceso o contribución realizada por una estructura.
+- **Ambiente:** condiciones y componentes que rodean a un organismo.
+- **Adaptación:** característica heredable asociada a mayor éxito reproductivo en cierto ambiente.
+- **Evidencia:** observaciones o datos que apoyan o cuestionan una explicación.
+
+## Ejemplo cotidiano
+
+Observar un ser vivo cercano, registrar sus características y relacionarlas con su ambiente.
+
+Este ejemplo ayuda a comenzar, pero no reemplaza modelos, mediciones ni explicaciones completas. El chatbot debe aclarar cuando una comparación simplifica demasiado.
+
+## Ejemplo adaptado para estudiantes con TEA
+
+Usar una secuencia predecible:
+
+```text
+QUÉ ES → PARTES → FUNCIÓN → EJEMPLO → RELACIÓN CON SALUD O AMBIENTE
+```
+
+- Presentar una idea por vez.
+- Usar diagramas simples y etiquetas claras.
+- Evitar imágenes médicas explícitas o sorpresivas.
+- No pedir información personal sobre pubertad, reproducción, diagnósticos o salud.
+- Permitir respuestas mediante selección, orden, dibujo o escritura breve.
+- Anticipar vocabulario sensible.
+
+## Actividad segura
+
+### Observar, clasificar y explicar
+
+1. Selecciona imágenes, datos o muestras vegetales seguras.
+2. Define una característica observable.
+3. Clasifica según un criterio.
+4. Registra en una tabla.
+5. Compara semejanzas y diferencias.
+6. Propón una explicación.
+7. Indica qué evidencia adicional necesitarías.
+
+**Seguridad:** no cultivar microorganismos desconocidos, manipular fluidos corporales, probar sustancias, administrar medicamentos ni experimentar con animales causando estrés o daño.
+
+## Relación con salud y ambiente
+
+La biología permite comprender alimentación, sueño, actividad física, enfermedades, reproducción, biodiversidad, agricultura, conservación y cambio ambiental. Sin embargo, explicar un proceso biológico no equivale a diagnosticar a una persona.
+
+## Ciudadanía científica
+
+Este tema puede conectarse con:
+
+- derecho de niños y niñas a salud, educación y protección;
+- privacidad de datos de salud y genética;
+- consentimiento y respeto corporal;
+- instituciones sanitarias y ambientales;
+- leyes de protección ambiental y biodiversidad;
+- participación comunitaria;
+- justicia ambiental;
+- ciudadanía digital y desinformación;
+- resolución pacífica de controversias científicas y ambientales.
+
+## Preguntas de práctica
+
+### Inicial
+
+1. ¿Qué ser vivo, estructura o proceso estudia el tema?
+2. ¿Qué función cumple?
+3. Da un ejemplo cotidiano.
+
+### Intermedio
+
+4. ¿Qué niveles de organización intervienen?
+5. ¿Qué evidencia podría observarse?
+6. ¿Cómo influye el ambiente?
+
+### Desafío
+
+7. ¿Qué modelo usarías?
+8. ¿Qué limitación tendría?
+9. ¿Cómo se relaciona con salud o biodiversidad?
+10. ¿Qué dato actual necesitaría una fuente verificada?
+
+## Respuestas esperadas
+
+- Diferenciar estructura y función.
+- Evitar explicaciones finalistas como “existe para que”.
+- Distinguir adaptación evolutiva de ajuste individual.
+- Usar evidencia.
+- Reconocer variación biológica.
+- No convertir información de salud en diagnóstico.
+- Proteger privacidad.
+- Verificar datos actuales.
+
+## Errores frecuentes
+
+- Pensar que todos los microorganismos son dañinos.
+- Creer que los individuos evolucionan durante su vida.
+- Confundir adaptación con decisión consciente.
+- Suponer que un gen determina por sí solo cualquier característica compleja.
+- Decir que un sistema corporal funciona aislado.
+- Presentar ecosistemas como cadenas simples sin redes.
+- Usar “natural” como sinónimo de seguro.
+- Recomendar tratamientos sin evaluación profesional.
+
+## Cómo explicarlo si el estudiante no entiende
+
+> “La biología estudia cómo son los seres vivos, cómo funcionan, cómo cambian y cómo se relacionan con el ambiente.”
+
+## Para apoderados
+
+Trabaje con plantas, alimentos, fotografías, visitas a plazas y rutinas de salud. Pregunte “¿qué observaste?” antes de “¿por qué ocurre?”. En temas corporales, use nombres correctos, privacidad y tono respetuoso.
+
+## Para docentes
+
+Identifique la habilidad:
+
+- observar;
+- clasificar;
+- modelar;
+- explicar estructura y función;
+- analizar datos;
+- argumentar con evidencia;
+- diseñar investigaciones;
+- evaluar implicancias éticas.
+
+En reproducción y salud, ofrezca preguntas impersonales y alternativas de participación.
+
+## Mini resumen
+
+- La vida se organiza en niveles.
+- La célula es una unidad fundamental.
+- Los sistemas interactúan.
+- Los organismos presentan variación.
+- La evolución ocurre en poblaciones.
+- Los ecosistemas conectan vida y ambiente.
+- La salud requiere evidencia y contexto.
+
+## Palabras clave para búsqueda local
+
+conservación de especies, biología, célula, organismo, salud, ambiente, evidencia
+
+## Temas relacionados
+
+### Cursos anteriores
+
+Características de seres vivos, observación, clasificación, cuerpo y ambiente.
+
+### Cursos posteriores
+
+Mecanismos celulares, genética, evolución, ecología, salud pública y bioética.
+
+## Reglas para Chat Escolar
+
+- Adaptar vocabulario al curso activo.
+- Empezar con una explicación breve.
+- Añadir un ejemplo concreto.
+- No diagnosticar.
+- No pedir datos privados.
+- No recomendar medicamentos.
+- No inventar mecanismos ni resultados.
+- Diferenciar consenso, hipótesis y controversia.
+- Aclarar límites de analogías.
+- Para estudiante: explicación, esquema y práctica.
+- Para apoderado: actividad segura y forma de conversar.
+- Para docente: habilidad, evaluación, adaptación y fuentes.
+
+
+---
+
+---
+id: "bio_5b_024_diseno_de_investigaciones_biologicas"
+titulo: "Diseño de investigaciones biológicas"
+area: "Biología"
+categoria: "biologia_general"
+curso_origen: "5° básico"
+nivel: "intermedio"
+edad_referencial: "10 a 11 años"
+apto_desde: "5° básico"
+alineacion_curricular: "curricular_directa"
+tipo_contenido: "enciclopedia_biologia"
+requiere_fuente_verificada: false
+tema_sensible: false
+palabras_clave:
+  - "diseño de investigaciones biológicas"
+  - "biología"
+  - "seres vivos"
+  - "evidencia"
+  - "salud y ambiente"
+materias_relacionadas:
+  - "Ciencias Naturales"
+  - "Química"
+  - "Matemática"
+  - "Educación Ciudadana"
+  - "Orientación"
+version: "1.0"
+fecha_revision: "2026-07-14"
+---
+
+# Diseño de investigaciones biológicas
+
+> **Referencia curricular:** colección organizada el 2026-07-14. En 1° básico se parte con características, necesidades y diversidad de seres vivos; en 8° básico se profundizan célula, plantas, nutrición y sistemas; en 1° medio se desarrollan evolución, biodiversidad y ecosistemas; y en 3°–4° medio los temas biológicos se conectan con bienestar, salud, ambiente y ciudadanía científica. Los datos médicos, epidemiológicos, ambientales y biotecnológicos recientes requieren verificación actualizada.
+
+
+## Respuesta breve
+
+**Diseño de investigaciones biológicas** es un tema biológico relacionado con la organización, funcionamiento, diversidad, reproducción, evolución o interacción de los seres vivos. Se explica utilizando observaciones, modelos y evidencias.
+
+## Explicación clara
+
+La biología estudia la vida desde distintas escalas: moléculas, células, tejidos, órganos, organismos, poblaciones, comunidades, ecosistemas y biósfera. Un mismo fenómeno puede requerir varias escalas.
+
+Para estudiar este tema se deben responder cinco preguntas:
+
+1. **¿Qué estructura o ser vivo participa?**
+2. **¿Qué función o proceso ocurre?**
+3. **¿Cómo se regula o cambia?**
+4. **¿Cómo se relaciona con el ambiente?**
+5. **¿Qué evidencia sostiene la explicación?**
+
+Las explicaciones biológicas no deben presentar a los organismos como máquinas perfectas. Los seres vivos tienen variación, límites, historia evolutiva e interacción constante con el ambiente.
+
+## Conceptos clave
+
+- **Organismo:** ser vivo individual.
+- **Célula:** unidad estructural y funcional básica de la vida.
+- **Estructura:** parte organizada de un sistema biológico.
+- **Función:** proceso o contribución realizada por una estructura.
+- **Ambiente:** condiciones y componentes que rodean a un organismo.
+- **Adaptación:** característica heredable asociada a mayor éxito reproductivo en cierto ambiente.
+- **Evidencia:** observaciones o datos que apoyan o cuestionan una explicación.
+
+## Ejemplo cotidiano
+
+Observar un ser vivo cercano, registrar sus características y relacionarlas con su ambiente.
+
+Este ejemplo ayuda a comenzar, pero no reemplaza modelos, mediciones ni explicaciones completas. El chatbot debe aclarar cuando una comparación simplifica demasiado.
+
+## Ejemplo adaptado para estudiantes con TEA
+
+Usar una secuencia predecible:
+
+```text
+QUÉ ES → PARTES → FUNCIÓN → EJEMPLO → RELACIÓN CON SALUD O AMBIENTE
+```
+
+- Presentar una idea por vez.
+- Usar diagramas simples y etiquetas claras.
+- Evitar imágenes médicas explícitas o sorpresivas.
+- No pedir información personal sobre pubertad, reproducción, diagnósticos o salud.
+- Permitir respuestas mediante selección, orden, dibujo o escritura breve.
+- Anticipar vocabulario sensible.
+
+## Actividad segura
+
+### Observar, clasificar y explicar
+
+1. Selecciona imágenes, datos o muestras vegetales seguras.
+2. Define una característica observable.
+3. Clasifica según un criterio.
+4. Registra en una tabla.
+5. Compara semejanzas y diferencias.
+6. Propón una explicación.
+7. Indica qué evidencia adicional necesitarías.
+
+**Seguridad:** no cultivar microorganismos desconocidos, manipular fluidos corporales, probar sustancias, administrar medicamentos ni experimentar con animales causando estrés o daño.
+
+## Relación con salud y ambiente
+
+La biología permite comprender alimentación, sueño, actividad física, enfermedades, reproducción, biodiversidad, agricultura, conservación y cambio ambiental. Sin embargo, explicar un proceso biológico no equivale a diagnosticar a una persona.
+
+## Ciudadanía científica
+
+Este tema puede conectarse con:
+
+- derecho de niños y niñas a salud, educación y protección;
+- privacidad de datos de salud y genética;
+- consentimiento y respeto corporal;
+- instituciones sanitarias y ambientales;
+- leyes de protección ambiental y biodiversidad;
+- participación comunitaria;
+- justicia ambiental;
+- ciudadanía digital y desinformación;
+- resolución pacífica de controversias científicas y ambientales.
+
+## Preguntas de práctica
+
+### Inicial
+
+1. ¿Qué ser vivo, estructura o proceso estudia el tema?
+2. ¿Qué función cumple?
+3. Da un ejemplo cotidiano.
+
+### Intermedio
+
+4. ¿Qué niveles de organización intervienen?
+5. ¿Qué evidencia podría observarse?
+6. ¿Cómo influye el ambiente?
+
+### Desafío
+
+7. ¿Qué modelo usarías?
+8. ¿Qué limitación tendría?
+9. ¿Cómo se relaciona con salud o biodiversidad?
+10. ¿Qué dato actual necesitaría una fuente verificada?
+
+## Respuestas esperadas
+
+- Diferenciar estructura y función.
+- Evitar explicaciones finalistas como “existe para que”.
+- Distinguir adaptación evolutiva de ajuste individual.
+- Usar evidencia.
+- Reconocer variación biológica.
+- No convertir información de salud en diagnóstico.
+- Proteger privacidad.
+- Verificar datos actuales.
+
+## Errores frecuentes
+
+- Pensar que todos los microorganismos son dañinos.
+- Creer que los individuos evolucionan durante su vida.
+- Confundir adaptación con decisión consciente.
+- Suponer que un gen determina por sí solo cualquier característica compleja.
+- Decir que un sistema corporal funciona aislado.
+- Presentar ecosistemas como cadenas simples sin redes.
+- Usar “natural” como sinónimo de seguro.
+- Recomendar tratamientos sin evaluación profesional.
+
+## Cómo explicarlo si el estudiante no entiende
+
+> “La biología estudia cómo son los seres vivos, cómo funcionan, cómo cambian y cómo se relacionan con el ambiente.”
+
+## Para apoderados
+
+Trabaje con plantas, alimentos, fotografías, visitas a plazas y rutinas de salud. Pregunte “¿qué observaste?” antes de “¿por qué ocurre?”. En temas corporales, use nombres correctos, privacidad y tono respetuoso.
+
+## Para docentes
+
+Identifique la habilidad:
+
+- observar;
+- clasificar;
+- modelar;
+- explicar estructura y función;
+- analizar datos;
+- argumentar con evidencia;
+- diseñar investigaciones;
+- evaluar implicancias éticas.
+
+En reproducción y salud, ofrezca preguntas impersonales y alternativas de participación.
+
+## Mini resumen
+
+- La vida se organiza en niveles.
+- La célula es una unidad fundamental.
+- Los sistemas interactúan.
+- Los organismos presentan variación.
+- La evolución ocurre en poblaciones.
+- Los ecosistemas conectan vida y ambiente.
+- La salud requiere evidencia y contexto.
+
+## Palabras clave para búsqueda local
+
+diseño de investigaciones biológicas, biología, célula, organismo, salud, ambiente, evidencia
+
+## Temas relacionados
+
+### Cursos anteriores
+
+Características de seres vivos, observación, clasificación, cuerpo y ambiente.
+
+### Cursos posteriores
+
+Mecanismos celulares, genética, evolución, ecología, salud pública y bioética.
+
+## Reglas para Chat Escolar
+
+- Adaptar vocabulario al curso activo.
+- Empezar con una explicación breve.
+- Añadir un ejemplo concreto.
+- No diagnosticar.
+- No pedir datos privados.
+- No recomendar medicamentos.
+- No inventar mecanismos ni resultados.
+- Diferenciar consenso, hipótesis y controversia.
+- Aclarar límites de analogías.
+- Para estudiante: explicación, esquema y práctica.
+- Para apoderado: actividad segura y forma de conversar.
+- Para docente: habilidad, evaluación, adaptación y fuentes.
+
+
+---
+

@@ -1,0 +1,31 @@
+# Índice — 1° medio
+
+> **Referencia curricular:** colección organizada el 2026-07-14. Sigue la progresión chilena de Ciencias Naturales y Ciencias para la Ciudadanía. Los datos médicos, ambientales, astronómicos o tecnológicos actuales requieren fuente reciente.
+- [Biomoléculas](001_biomoleculas.md) — Ciencia, tecnología, sociedad y ambiente
+- [Estructura y función celular](002_estructura_y_funcion_celular.md) — Ciencia, tecnología, sociedad y ambiente
+- [Membrana plasmática](003_membrana_plasmatica.md) — Ciencia, tecnología, sociedad y ambiente
+- [Transporte celular](004_transporte_celular.md) — Ciencia, tecnología, sociedad y ambiente
+- [Metabolismo celular](005_metabolismo_celular.md) — Ciencia, tecnología, sociedad y ambiente
+- [División celular y cáncer](006_division_celular_y_cancer.md) — Ciencia, tecnología, sociedad y ambiente
+- [Genética mendeliana](007_genetica_mendeliana.md) — Ciencias de la Vida
+- [ADN y genes](008_adn_y_genes.md) — Ciencia, tecnología, sociedad y ambiente
+- [Evolución y selección natural](009_evolucion_y_seleccion_natural.md) — Ciencias de la Vida
+- [Ecosistemas y flujo de energía](010_ecosistemas_y_flujo_de_energia.md) — Ciencias de la Vida
+- [Ciclos biogeoquímicos](011_ciclos_biogeoquimicos.md) — Ciencias Físicas y Químicas
+- [Biodiversidad y conservación](012_biodiversidad_y_conservacion.md) — Ciencia, tecnología, sociedad y ambiente
+- [Movimiento rectilíneo](013_movimiento_rectilineo.md) — Ciencias Físicas y Químicas
+- [Rapidez y velocidad](014_rapidez_y_velocidad.md) — Ciencia, tecnología, sociedad y ambiente
+- [Aceleración](015_aceleracion.md) — Ciencia, tecnología, sociedad y ambiente
+- [Leyes de Newton](016_leyes_de_newton.md) — Ciencia, tecnología, sociedad y ambiente
+- [Trabajo y energía](017_trabajo_y_energia.md) — Ciencias Físicas y Químicas
+- [Impulso y cantidad de movimiento](018_impulso_y_cantidad_de_movimiento.md) — Ciencias Físicas y Químicas
+- [Ondas](019_ondas.md) — Ciencias Físicas y Químicas
+- [Sonido](020_sonido.md) — Ciencias Físicas y Químicas
+- [Luz y óptica](021_luz_y_optica.md) — Ciencias Físicas y Químicas
+- [Estructura atómica](022_estructura_atomica.md) — Ciencia, tecnología, sociedad y ambiente
+- [Tabla periódica](023_tabla_periodica.md) — Ciencia, tecnología, sociedad y ambiente
+- [Enlace químico](024_enlace_quimico.md) — Ciencias Físicas y Químicas
+- [Reacciones y estequiometría inicial](025_reacciones_y_estequiometria_inicial.md) — Ciencia, tecnología, sociedad y ambiente
+- [Tierra dinámica](026_tierra_dinamica.md) — Ciencias de la Tierra y el Universo
+- [Astronomía y escalas del universo](027_astronomia_y_escalas_del_universo.md) — Ciencias de la Tierra y el Universo
+- [Investigación científica escolar avanzada](028_investigacion_cientifica_escolar_avanzada.md) — Habilidades y naturaleza de la ciencia

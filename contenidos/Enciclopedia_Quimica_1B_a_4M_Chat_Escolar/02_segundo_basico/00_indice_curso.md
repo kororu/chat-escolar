@@ -1,0 +1,18 @@
+# Índice — 2° básico
+
+- [Estados del agua](001_estados_del_agua.md)
+- [Sólidos líquidos y gases](002_solidos_liquidos_y_gases.md)
+- [Fusión](003_fusion.md)
+- [Congelación](004_congelacion.md)
+- [Evaporación](005_evaporacion.md)
+- [Condensación](006_condensacion.md)
+- [Cambios reversibles](007_cambios_reversibles.md)
+- [Cambios irreversibles](008_cambios_irreversibles.md)
+- [Mezclas visibles](009_mezclas_visibles.md)
+- [Disolución de sal y azúcar](010_disolucion_de_sal_y_azucar.md)
+- [Soluble e insoluble](011_soluble_e_insoluble.md)
+- [Filtración simple](012_filtracion_simple.md)
+- [Decantación simple](013_decantacion_simple.md)
+- [Propiedades y usos](014_propiedades_y_usos.md)
+- [Residuos y reciclaje](015_residuos_y_reciclaje.md)
+- [Preguntas químicas simples](016_preguntas_quimicas_simples.md)

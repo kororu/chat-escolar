@@ -1,0 +1,1342 @@
+[
+  {
+    "path": "00_documentacion/00_indice_maestro.md",
+    "size": 4284,
+    "sha256": "632c07da4b88c991ddd3268ed2456747c9e791d72630a90515645f0f13ec480b"
+  },
+  {
+    "path": "00_documentacion/00_instalacion.md",
+    "size": 701,
+    "sha256": "a98f245ccba48f2fb756f488d9ce7c5b4c12576049131ce091db1c6b8e1a863b"
+  },
+  {
+    "path": "00_documentacion/01_estado_curricular_y_fuentes.md",
+    "size": 2234,
+    "sha256": "ef1f8ee26f33290d73f38766acbd340ecc8845fdb0cf09d99fd0dda7abf6224f"
+  },
+  {
+    "path": "00_documentacion/02_arquitectura_de_contenidos.md",
+    "size": 684,
+    "sha256": "61d01227db2cff4c83cef4e9944d38a42ac88833c6e6b1d9f95afb88425ab898"
+  },
+  {
+    "path": "00_documentacion/03_guia_editorial_geografica.md",
+    "size": 786,
+    "sha256": "434af4fbda85ebf468c2c05d019383d4666809cbc42c6b47f7fb8a9a3413dfc7"
+  },
+  {
+    "path": "00_documentacion/04_mapa_vertical_curricular.md",
+    "size": 15787,
+    "sha256": "d1ac52012a36ee94162f7d12f829474c7433a6a9da279ea09230b61ea036b0df"
+  },
+  {
+    "path": "00_documentacion/05_integracion_ollama_rag.md",
+    "size": 767,
+    "sha256": "85b9c56fd21b713572db81adf7a3ae6aa7db796c071a2e0c4802e54161b8d052"
+  },
+  {
+    "path": "00_documentacion/06_prompt_sistema_ollama.md",
+    "size": 731,
+    "sha256": "9824134f4f0ad907e75566e86433dcf887bc225180a6571d9b0b52cde7254858"
+  },
+  {
+    "path": "00_documentacion/07_configuracion_rag.yaml",
+    "size": 732,
+    "sha256": "e8e95c4cab1b9a1c0a044e2cb77cb032cf8fa17ef13ffec3e8c2fcdc35bad04f"
+  },
+  {
+    "path": "00_documentacion/08_control_calidad.md",
+    "size": 302,
+    "sha256": "4b0a35d4e365efd97a2b06eac4e5ae2d970a005e790c6066da7070c55b5e3761"
+  },
+  {
+    "path": "00_documentacion/09_pruebas_recuperacion.md",
+    "size": 704,
+    "sha256": "4e4461cd376f97a5c049bab400013d58b9a98f9f1ca65a0f7705537161e28a34"
+  },
+  {
+    "path": "00_documentacion/10_resumen_validacion.json",
+    "size": 979,
+    "sha256": "781d13d2e455db36db68f31400a4f897160bb67432f3fef637fc6731f612503f"
+  },
+  {
+    "path": "01_primero_basico/001_mapas_y_planos_representan_lugares.md",
+    "size": 10239,
+    "sha256": "5b6ceaae11ef9f71e721d45e73b12566225d7ca85538422b6539aae25534b9eb"
+  },
+  {
+    "path": "01_primero_basico/002_chile_en_el_mapa_cordillera_oceano_region_y_localidad.md",
+    "size": 10579,
+    "sha256": "4b79dd6905ddd40fadb9970eb3cb4756eb9a671704265613b20c9b4eb9ded548"
+  },
+  {
+    "path": "01_primero_basico/003_mi_localidad_y_sus_lugares_importantes.md",
+    "size": 10342,
+    "sha256": "76c66211cf2a166e85bcacd5a16f0eebd065700c9f04ba07a1e3ec959849bf34"
+  },
+  {
+    "path": "01_primero_basico/004_paisajes_naturales_y_construidos.md",
+    "size": 10331,
+    "sha256": "28a4ce0a24137709571b778a89c5352c771117c1440beeceb6d5cfbb6818cd04"
+  },
+  {
+    "path": "01_primero_basico/005_rutas_cotidianas_y_orientacion_basica.md",
+    "size": 10518,
+    "sha256": "6cbae11f056b5b6c3f6ffa77b45cbab4274cbd84437e0270161a05b6500518f1"
+  },
+  {
+    "path": "01_primero_basico/006_tiempo_atmosferico_como_esta_el_dia.md",
+    "size": 10316,
+    "sha256": "edf6112f67ba7ec61b9ccbdbc3603da9236db1da8528a7a471c7e7a66ef24645"
+  },
+  {
+    "path": "01_primero_basico/007_cuidado_del_entorno_cercano.md",
+    "size": 10267,
+    "sha256": "0f6b7530162411cd07b5d5c43d22817623ed8a5b4474bccd26b9d18d5b76d6a9"
+  },
+  {
+    "path": "01_primero_basico/008_simbolos_simples_en_mapas_y_senales.md",
+    "size": 10201,
+    "sha256": "5d64c0358fadce56ac6ce0a8f0eaa868ca55c071856e2d89c4db6570e875949c"
+  },
+  {
+    "path": "01_primero_basico/009_oceano_y_cordillera_como_referencias_de_chile.md",
+    "size": 10290,
+    "sha256": "87199dd82813be9d855aaad4c60e60ae8318430790e7e34171d8dd923d19c0ab"
+  },
+  {
+    "path": "01_primero_basico/00_indice_curso.md",
+    "size": 3360,
+    "sha256": "24b89fdd2257a4bae69e1dc81fe281076830f3fdd2af6dfc468c62e0589d8dd3"
+  },
+  {
+    "path": "01_primero_basico/010_personas_y_trabajos_en_el_espacio_cercano.md",
+    "size": 10259,
+    "sha256": "36975be88285e2ec1ca7549558a80ca750067e42ba2408d439ac9599a71a0a21"
+  },
+  {
+    "path": "01_primero_basico/01_glosario_curso.md",
+    "size": 7468,
+    "sha256": "f649708c0afa9c193a35d7774bc60a3454daf516f02851f3389d2333fe4259f5"
+  },
+  {
+    "path": "01_primero_basico/02_banco_preguntas.md",
+    "size": 5378,
+    "sha256": "24231154d7f7b478ae7ac7fff50a3ebbba932db5c53ced731cce19e1fd932991"
+  },
+  {
+    "path": "02_segundo_basico/001_planos_mapas_y_globos_terraqueos.md",
+    "size": 10212,
+    "sha256": "c7d0d1566a1fb6dbce451da6f44ec082c214ff53fa0551c03602bc4a98880495"
+  },
+  {
+    "path": "02_segundo_basico/002_chile_y_sus_regiones_primera_aproximacion.md",
+    "size": 10250,
+    "sha256": "557b82b9ddd6f59b9bef5a363daf82aeb48e48c7d73ca8fe8c3322e5524b2add"
+  },
+  {
+    "path": "02_segundo_basico/003_zona_norte_centro_y_sur_paisajes_comparados.md",
+    "size": 10340,
+    "sha256": "493fd3401a462368f0a685ae63d8557793a002d3a6dd07fd8ff854dbf2c8821f"
+  },
+  {
+    "path": "02_segundo_basico/004_pueblos_originarios_y_adaptacion_al_entorno.md",
+    "size": 10299,
+    "sha256": "75e7e2fd3534ed02b723c1a8b35f3bf1068ec4db962cbf295d1d64d16bceb2d0"
+  },
+  {
+    "path": "02_segundo_basico/005_patrimonio_natural_y_cultural_de_chile.md",
+    "size": 10241,
+    "sha256": "a61ef528cad9e97eeb3b5d8328f00d39ca3920f9950158c3b25c0fe414f65a27"
+  },
+  {
+    "path": "02_segundo_basico/006_transporte_y_comunicacion_entre_lugares.md",
+    "size": 10224,
+    "sha256": "6aa39dc74380a007ffcafd92919b1b8bee86a8367f2477368613a859684e6ee4"
+  },
+  {
+    "path": "02_segundo_basico/007_campo_y_ciudad.md",
+    "size": 10025,
+    "sha256": "bb15a1ef952a4c0058b71482c71037d28bfd82bf34317f15e63a17b910913eed"
+  },
+  {
+    "path": "02_segundo_basico/008_clima_vestimenta_y_actividades.md",
+    "size": 10277,
+    "sha256": "588dcd73a033812df124e0e6ae552adc94ccdd9b8c64627e8bb5e0b56d63c002"
+  },
+  {
+    "path": "02_segundo_basico/009_recursos_de_la_vida_diaria.md",
+    "size": 10158,
+    "sha256": "7ff25fc1e4856aeae651e8f06145a7164e57abcff146a87155af8e8b3a45fcd5"
+  },
+  {
+    "path": "02_segundo_basico/00_indice_curso.md",
+    "size": 3518,
+    "sha256": "9f9ae3dc1e45d1d7f1aa2700856e2e5425270edaa43d0fe02e361ff7fa4ffa76"
+  },
+  {
+    "path": "02_segundo_basico/010_ubicacion_relativa_cerca_lejos_entre_al_norte.md",
+    "size": 10385,
+    "sha256": "9a931805aac034a258b7de2ba5f7ea38fbdf18d6f9cdea44fedbb29ba706601a"
+  },
+  {
+    "path": "02_segundo_basico/011_riesgos_naturales_de_la_localidad.md",
+    "size": 10209,
+    "sha256": "abd5db102eaf9e71e535e4c869ab5a0299206da61bed02cae602ec85b8e876e9"
+  },
+  {
+    "path": "02_segundo_basico/012_mapas_simples_con_leyenda.md",
+    "size": 10112,
+    "sha256": "98bf8a91fb6f8eb8aa717e2f9153da526b82ba9c74591f35dc8e9b99ad18e09c"
+  },
+  {
+    "path": "02_segundo_basico/01_glosario_curso.md",
+    "size": 8449,
+    "sha256": "c9714cacee30d0670a08f982b9949947f82cc291fdf0180da9d1ec92fa22dc53"
+  },
+  {
+    "path": "02_segundo_basico/02_banco_preguntas.md",
+    "size": 6373,
+    "sha256": "781f8bae58eb53e250a0938c6a65cd7c7e0fc61a95f5d79ed02504dd26de1975"
+  },
+  {
+    "path": "03_tercero_basico/001_hemisferios_y_linea_del_ecuador.md",
+    "size": 10205,
+    "sha256": "8139900c65e4340118920161584e2f6901ffd5e63def92e1ee1e7d0f61b4043e"
+  },
+  {
+    "path": "03_tercero_basico/002_tropicos_circulos_polares_y_polos.md",
+    "size": 10254,
+    "sha256": "4f0660c2104538a9d0d4a6062b505885619ce0d45089cbb6f2117d4ee84b961b"
+  },
+  {
+    "path": "03_tercero_basico/003_continentes_y_oceanos_del_planeta.md",
+    "size": 10565,
+    "sha256": "75487656fb4482a8ab7b469657ee0b0999a72cbf0b12b1b7956b863c03420e5f"
+  },
+  {
+    "path": "03_tercero_basico/004_zonas_climaticas_de_la_tierra.md",
+    "size": 10258,
+    "sha256": "39f4386a5f40051b8cfcad1384a40c73c2baead6c755a2726970f014d57c42a0"
+  },
+  {
+    "path": "03_tercero_basico/005_relieve_basico_montanas_llanuras_mesetas_y_valles.md",
+    "size": 10297,
+    "sha256": "e21950991e7d97cae668003574882d8562cb9bd9b7052f66891a20ad73b15056"
+  },
+  {
+    "path": "03_tercero_basico/006_rios_lagos_mares_y_oceanos.md",
+    "size": 10221,
+    "sha256": "43722912eeb75f13befe3a467f1b097c3910db8150a500581d905181ab788b6b"
+  },
+  {
+    "path": "03_tercero_basico/007_paisajes_del_mundo_y_vida_cotidiana.md",
+    "size": 10233,
+    "sha256": "43fd4360e499316ee8b59411d307fed7b3e696eff7ca6ff4f1ed16c494a7a95e"
+  },
+  {
+    "path": "03_tercero_basico/008_grecia_antigua_y_el_mar_mediterraneo.md",
+    "size": 10207,
+    "sha256": "dda3edea7a95777b38f508e382a4b08fb2f08ca4cf273ad5f0ebea5d52d13ac6"
+  },
+  {
+    "path": "03_tercero_basico/009_roma_antigua_y_su_espacio_geografico.md",
+    "size": 10255,
+    "sha256": "b0092e82a8650bdc2145b5276a43c40afd915433841ac27b87a3595d50c1b847"
+  },
+  {
+    "path": "03_tercero_basico/00_indice_curso.md",
+    "size": 3749,
+    "sha256": "e295456f9d5b4010ccc771c618c526f98dbfc19ff8a66bab867d2accfa39fede"
+  },
+  {
+    "path": "03_tercero_basico/010_mapas_fisicos_y_mapas_politicos.md",
+    "size": 10187,
+    "sha256": "9087a4fba0cc62fd49ca2dd452cb1bc08ad652ee90a0d832099c20de79bb4f94"
+  },
+  {
+    "path": "03_tercero_basico/011_primeras_formas_de_escala.md",
+    "size": 10041,
+    "sha256": "98b4e8083b7e48dccb2560d169efe9d6926649e81af4431d6396f04ede193f13"
+  },
+  {
+    "path": "03_tercero_basico/012_poblacion_donde_viven_mas_y_menos_personas.md",
+    "size": 10267,
+    "sha256": "7472839cbc34aed1d527662cb1aeb32cc2eb90e34a27fc8d3e8b4ca04508394f"
+  },
+  {
+    "path": "03_tercero_basico/013_riesgos_naturales_en_mapas_simples.md",
+    "size": 10151,
+    "sha256": "e150e12028999c8b5c2c7a10d856012466d2fd728431a6f14a60b47031415e4c"
+  },
+  {
+    "path": "03_tercero_basico/014_la_antartica_y_los_ambientes_frios.md",
+    "size": 10239,
+    "sha256": "4b4e1adfabde4393f3c77f786f613db09197a82383196629960ab943559c769f"
+  },
+  {
+    "path": "03_tercero_basico/01_glosario_curso.md",
+    "size": 9252,
+    "sha256": "6e01509473e5c697a53989813ffcebfa7caa13e9aa70e55b4832b2de3964455b"
+  },
+  {
+    "path": "03_tercero_basico/02_banco_preguntas.md",
+    "size": 7413,
+    "sha256": "f1c9e8fd106db8283360fc6f7fa33e01a21d269031b52b9eff85000539fbd51b"
+  },
+  {
+    "path": "04_cuarto_basico/001_coordenadas_geograficas_paralelos_y_meridianos.md",
+    "size": 10269,
+    "sha256": "4abed0baf424f8fc28f0128c7122f6f7deb09da0acddce44fce33a5d0ec449d0"
+  },
+  {
+    "path": "04_cuarto_basico/002_latitud_clima_y_ubicacion.md",
+    "size": 10170,
+    "sha256": "541f7b7a11ee16186e099f536b719f7cd73666ac8d1d57edf98dea4fd726085e"
+  },
+  {
+    "path": "04_cuarto_basico/003_america_en_mapas_fisicos_y_politicos.md",
+    "size": 10382,
+    "sha256": "381c91d4db4594f60b34c09633eb7f6775287fb5e9aef3c99841e1b81fbbed59"
+  },
+  {
+    "path": "04_cuarto_basico/004_relieves_principales_de_america.md",
+    "size": 10166,
+    "sha256": "13c25a79878d5f3c26f683b35e628b63fd3fb48c626a6cc1072bf4533df0d038"
+  },
+  {
+    "path": "04_cuarto_basico/005_climas_y_paisajes_de_america.md",
+    "size": 10243,
+    "sha256": "c531de7b5e68d590e47905e4cc3f97a947043c0e50b2b3268ad6175116538200"
+  },
+  {
+    "path": "04_cuarto_basico/006_recursos_naturales_de_america.md",
+    "size": 10309,
+    "sha256": "8c0caf9596fb95c7fe59734f2c3cc4ab00329cdf6f709d6265346fec8035d682"
+  },
+  {
+    "path": "04_cuarto_basico/007_uso_y_cuidado_de_los_recursos.md",
+    "size": 10234,
+    "sha256": "0d05d100c2366a452d7034b3f941ea2fe85901ba5267c181bbac31f5e71237f7"
+  },
+  {
+    "path": "04_cuarto_basico/008_poblacion_y_ciudades_de_america.md",
+    "size": 10242,
+    "sha256": "61d60236feb090b187e432f23e21e98f666f01676b42f0cc65c401727b8b005f"
+  },
+  {
+    "path": "04_cuarto_basico/009_paisajes_culturales_americanos.md",
+    "size": 10196,
+    "sha256": "c681c08473464303d208c097948b174d0ed8c03a384dbf9a149ccfc81633c44a"
+  },
+  {
+    "path": "04_cuarto_basico/00_indice_curso.md",
+    "size": 3762,
+    "sha256": "b620c8ba5e9e99f0fa0886d5dff415910c3d45cd7afc0bdec871b22044dfd76d"
+  },
+  {
+    "path": "04_cuarto_basico/010_mayas_mexicas_e_incas_relacion_con_el_ambiente.md",
+    "size": 10422,
+    "sha256": "a9c712faca7f7f26f13ccee9dc2b694193407c5c5f964676b26fd489ae6c8868"
+  },
+  {
+    "path": "04_cuarto_basico/011_hidrografia_de_america.md",
+    "size": 10195,
+    "sha256": "51ae850e3acd11cb8641bd0f96ae79394fa4549d0dbc16f241ab21514c615ec4"
+  },
+  {
+    "path": "04_cuarto_basico/012_mapas_tematicos_de_recursos_y_poblacion.md",
+    "size": 10246,
+    "sha256": "7a2ce29e508dea129e7e33919a1fe54ed391869409acd2b661222caaa654ec45"
+  },
+  {
+    "path": "04_cuarto_basico/013_riesgos_naturales_de_america.md",
+    "size": 10265,
+    "sha256": "563e1937c0f1f14f821209450c5bdd557eb8ad8c4077f4feec4a62a147f77a63"
+  },
+  {
+    "path": "04_cuarto_basico/014_regiones_naturales_del_mundo_primera_mirada.md",
+    "size": 10349,
+    "sha256": "bea94dbe2b447072141b3065ffd2df70d18552e3b971b793a2f34bfe32fb3832"
+  },
+  {
+    "path": "04_cuarto_basico/01_glosario_curso.md",
+    "size": 9363,
+    "sha256": "a3dcf890ce0866374ba1b2c0a7d2dab179dcfd000d34d0457b11081bb5fa9552"
+  },
+  {
+    "path": "04_cuarto_basico/02_banco_preguntas.md",
+    "size": 7398,
+    "sha256": "387ea351117a0bf71723d4cba4832c8a2d56c5e4d5b15f94a77acc895d956ca5"
+  },
+  {
+    "path": "05_quinto_basico/001_grandes_zonas_naturales_de_chile.md",
+    "size": 10275,
+    "sha256": "f762d572f8c8d9b92f48d6953bdcafdbd8071d78a22b64212bb327ce4d1fa5b3"
+  },
+  {
+    "path": "05_quinto_basico/002_norte_grande_desierto_altiplano_y_mineria.md",
+    "size": 10278,
+    "sha256": "0dae7bd25b6cd0227c9107eebfa8e7481bb71e9fb08fa1ae5d50c8d49f14679b"
+  },
+  {
+    "path": "05_quinto_basico/003_norte_chico_valles_transversales_y_semiarido.md",
+    "size": 10291,
+    "sha256": "48ad280dc3914d6651edc69ce7a28955e129e2f9691068b07bfd2439d95434d7"
+  },
+  {
+    "path": "05_quinto_basico/004_zona_central_clima_mediterraneo_y_concentracion_poblacional.md",
+    "size": 10419,
+    "sha256": "0065da1ae98787164657311b971c2c67d582fde0334a141ee065e9caf457f7e1"
+  },
+  {
+    "path": "05_quinto_basico/005_zona_sur_bosques_lluvias_y_lagos.md",
+    "size": 10166,
+    "sha256": "ba24d6ed136b53fdc76c82daecd98ea9cafac530543ae99522a431abe7974415"
+  },
+  {
+    "path": "05_quinto_basico/006_zona_austral_fiordos_canales_y_baja_densidad.md",
+    "size": 10235,
+    "sha256": "5e80be8304d231025b60aa68784c1f9899a91e65bf6e8380a362d2bbac341eba"
+  },
+  {
+    "path": "05_quinto_basico/007_relieve_de_chile_cordillera_depresion_intermedia_y_planicies.md",
+    "size": 10426,
+    "sha256": "54a283ea148ef301020c4487d1afbc9ec7d13caa479d898c4b463eb7d9408eff"
+  },
+  {
+    "path": "05_quinto_basico/008_hidrografia_de_chile_rios_lagos_y_cuencas.md",
+    "size": 10221,
+    "sha256": "47637f14fe3fbdb32053326dd6c7c4f714e2052593c486359c746efebd9582f5"
+  },
+  {
+    "path": "05_quinto_basico/009_climas_de_chile_y_factores_que_los_explican.md",
+    "size": 10294,
+    "sha256": "71759b8cdea6b58bc365e1d336e7e8edaf2a97e64fb73cbf5ad58079eda86691"
+  },
+  {
+    "path": "05_quinto_basico/00_indice_curso.md",
+    "size": 4576,
+    "sha256": "014119215f0c4b5889420d7c6768768821a596c9999bfc2cbf9480a37521f2b2"
+  },
+  {
+    "path": "05_quinto_basico/010_recursos_naturales_significativos_de_chile.md",
+    "size": 10295,
+    "sha256": "1cc2cc9d71ebc33b0ed7f2003ec35c4c193394ee28f7c2ca266e08b6e02f3500"
+  },
+  {
+    "path": "05_quinto_basico/011_recursos_renovables_y_no_renovables.md",
+    "size": 10313,
+    "sha256": "57b7acf71a8c7f4217dd3ad7865b5650f6563c6237a45fd256b6a696bcb34e24"
+  },
+  {
+    "path": "05_quinto_basico/012_pesca_mineria_agricultura_y_forestal.md",
+    "size": 10221,
+    "sha256": "c7920ced83994f4310448fd8fb3db1cd53f88e19987867fb93dfb2296d69feed"
+  },
+  {
+    "path": "05_quinto_basico/013_desarrollo_sostenible_aplicado_a_recursos.md",
+    "size": 10281,
+    "sha256": "cc81f98fd79c0863903bb5739ee10732de82d2e9df95d45234447e0e79d57744"
+  },
+  {
+    "path": "05_quinto_basico/014_riesgos_naturales_de_chile.md",
+    "size": 10228,
+    "sha256": "a0cc9286cf8f880d49d1ff2d9f8b86f04ec49f99f17f0dbbe38c391bc9628b8b"
+  },
+  {
+    "path": "05_quinto_basico/015_desastres_socionaturales_amenaza_exposicion_y_vulnerabilidad.md",
+    "size": 10409,
+    "sha256": "fef3a7ff2c97a1ecd9878d412d85724f0958621fa98c4a31e6faf3cb390a27ee"
+  },
+  {
+    "path": "05_quinto_basico/016_mapas_tematicos_de_chile.md",
+    "size": 10185,
+    "sha256": "6d986b6b68e48037101960dea6168bcafdbda6a2d47bab42a6561557590ed227"
+  },
+  {
+    "path": "05_quinto_basico/017_poblacion_chilena_y_distribucion_espacial.md",
+    "size": 10292,
+    "sha256": "155bff7604a3e7bf6e74f65dab9a7c1e8945804a1e6777031d2672c37d4d868c"
+  },
+  {
+    "path": "05_quinto_basico/018_paisaje_y_territorio_como_la_sociedad_transforma_el_espacio.md",
+    "size": 10444,
+    "sha256": "0d3ad4ed3833807242a956eeea175bb49fea55e8a217d5755836d0521ffb0245"
+  },
+  {
+    "path": "05_quinto_basico/01_glosario_curso.md",
+    "size": 10788,
+    "sha256": "972ffc604cd0c64a990b9040c54232e74733ee6b1659b5473eaa0a2fc54f0960"
+  },
+  {
+    "path": "05_quinto_basico/02_banco_preguntas.md",
+    "size": 9632,
+    "sha256": "89480ac732b1eb9f53b40ba4647cb197917c5425b0c527027c65929cf01ab6da"
+  },
+  {
+    "path": "06_sexto_basico/001_chile_tricontinental_america_oceania_y_antartica.md",
+    "size": 10429,
+    "sha256": "0cea9c224bda9c4fa7d36fb49e9241c00966ec768592ac06c1ae35901cde02e6"
+  },
+  {
+    "path": "06_sexto_basico/002_regiones_politico_administrativas_de_chile.md",
+    "size": 10297,
+    "sha256": "99cc99b470c6be864edcafee66af81563a01eadbee412b4dad4ee636073b5a7f"
+  },
+  {
+    "path": "06_sexto_basico/003_caracteristicas_fisicas_de_las_regiones.md",
+    "size": 10270,
+    "sha256": "5c2cb650f9d01a0a34866beebabeb4a9bdb00c06eba7bb661011815a4daf76bc"
+  },
+  {
+    "path": "06_sexto_basico/004_caracteristicas_humanas_y_economicas_de_las_regiones.md",
+    "size": 10454,
+    "sha256": "e8e29b90c8d65438526fea521690d96cc842f612278d9b6ad0d447f2b5b2e844"
+  },
+  {
+    "path": "06_sexto_basico/005_ambientes_naturales_de_chile.md",
+    "size": 10274,
+    "sha256": "8d8b526cc60ee26e5c417e5d4338ec96d46512d922ffa1588009082e08dd91fe"
+  },
+  {
+    "path": "06_sexto_basico/006_geografia_de_la_region_y_localidad.md",
+    "size": 10249,
+    "sha256": "f5787bb4fabd1e7fc6fe2cce39c3ec3f2b07ac14a145b921f1d451401e9045a9"
+  },
+  {
+    "path": "06_sexto_basico/007_migraciones_internas_en_chile.md",
+    "size": 10285,
+    "sha256": "b68cc5db0603e83170663ccb476442946c0885072db1ce469419d2b99aaad905"
+  },
+  {
+    "path": "06_sexto_basico/008_migraciones_internacionales_y_diversidad.md",
+    "size": 10364,
+    "sha256": "8f56da76bc8009acc33677f1596ce8bd4b8493653315ba2e68f8bf6c5aeaaaff"
+  },
+  {
+    "path": "06_sexto_basico/009_ciudades_chilenas_y_servicios_urbanos.md",
+    "size": 10243,
+    "sha256": "f5611b45e62177d5c468aa2c4465c9247ffaa7cdef543466d64ac0a65a17db59"
+  },
+  {
+    "path": "06_sexto_basico/00_indice_curso.md",
+    "size": 4344,
+    "sha256": "78b30c9086cfa99fdb248fbb9deb5f9db68c20b7c96c661f60338b8b65a10222"
+  },
+  {
+    "path": "06_sexto_basico/010_ruralidad_chilena_contemporanea.md",
+    "size": 10180,
+    "sha256": "08d6b0fafcfae355c0c56414d743d3348f7b5ce080e4f9ae256bae458c182e59"
+  },
+  {
+    "path": "06_sexto_basico/011_conectividad_e_infraestructura_en_chile.md",
+    "size": 10347,
+    "sha256": "d208dcfbb740f0bd1414b459cbd5ed0bb3e92cc788cbc46de1e760ed5eb6e141"
+  },
+  {
+    "path": "06_sexto_basico/012_riesgos_socionaturales_en_chile.md",
+    "size": 10218,
+    "sha256": "d98747ca9b5814a0d01aa81fec02e9353a314c363a9156eda340a5d6ef709552"
+  },
+  {
+    "path": "06_sexto_basico/013_cambio_climatico_y_chile.md",
+    "size": 10174,
+    "sha256": "2e7e8f5c25a4884448309d5c1814c54d17faa3c296dd8ecdac9a77b1421797a6"
+  },
+  {
+    "path": "06_sexto_basico/014_agua_sequia_y_cuencas_chilenas.md",
+    "size": 10155,
+    "sha256": "c5c83f9ae0d8feee3604e880f48cae9ade751c47b427d5a35fe799676c6d4df4"
+  },
+  {
+    "path": "06_sexto_basico/015_planificacion_y_ordenamiento_del_territorio.md",
+    "size": 10302,
+    "sha256": "380e69aabb09379f01e65f8308f248a30cf4c00a36b3b6c57193465660427023"
+  },
+  {
+    "path": "06_sexto_basico/016_mapas_regionales_y_lectura_de_datos.md",
+    "size": 10184,
+    "sha256": "e539a6a0ce403b2e3dc74fae9ffab684fd049b9ab6de25b951b9affddadf6652"
+  },
+  {
+    "path": "06_sexto_basico/017_territorio_maritimo_y_oceano_pacifico.md",
+    "size": 10311,
+    "sha256": "f10d76d43c6ed28c7b8c5c62f871b9f91c7efac90e29aeadcc888a26b96f446f"
+  },
+  {
+    "path": "06_sexto_basico/018_antartica_y_ciencia_chilena.md",
+    "size": 10210,
+    "sha256": "2b0f526521109884c0e920220efb1bb6168d7ea45b958ec5c0ac1bd92fc90835"
+  },
+  {
+    "path": "06_sexto_basico/01_glosario_curso.md",
+    "size": 10965,
+    "sha256": "726de205b5634883c5ff5a47f5fdb7b77628705d142d5ee15312f264b6802f34"
+  },
+  {
+    "path": "06_sexto_basico/02_banco_preguntas.md",
+    "size": 9509,
+    "sha256": "377ff9fdbe6b950057e2d4254ba142dd17d97905e5b24b41357e65ea09fba621"
+  },
+  {
+    "path": "07_septimo_basico/001_espacio_geografico_relacion_entre_naturaleza_y_sociedad.md",
+    "size": 10397,
+    "sha256": "7f311636ea79abf56060295333105099f6a7a1e0992769fe68026fdfd75fa603"
+  },
+  {
+    "path": "07_septimo_basico/002_factores_geograficos_en_la_dispersion_humana.md",
+    "size": 10258,
+    "sha256": "2057c6a7e8d3604410673455e1626b5847e90ace9ff430ceb27c326e2c4bece4"
+  },
+  {
+    "path": "07_septimo_basico/003_agricultura_y_transformacion_del_paisaje.md",
+    "size": 10206,
+    "sha256": "2e5aee4d88c37186abcc4ba8e96c425204b78d9260840c6489e65d4bb925e613"
+  },
+  {
+    "path": "07_septimo_basico/004_primeras_ciudades_y_rios.md",
+    "size": 10382,
+    "sha256": "ed88859a85ed45b77f82a1d5442d251ee023bd65e31465a0e45b9c311f825062"
+  },
+  {
+    "path": "07_septimo_basico/005_medio_mediterraneo_y_civilizaciones_clasicas.md",
+    "size": 10281,
+    "sha256": "7f3245a7a10aad5217a65fd53cf64f5648434c18c92ebfc42cbb2bd82d3cd3a5"
+  },
+  {
+    "path": "07_septimo_basico/006_rutas_comerciales_antiguas.md",
+    "size": 10180,
+    "sha256": "8d28e8664da55f13355b176791d49ac7e9efecde762236b9bdaf47ca041ab03c"
+  },
+  {
+    "path": "07_septimo_basico/007_edad_media_feudos_aldeas_y_ciudades.md",
+    "size": 10290,
+    "sha256": "cb35acdd48986b8a705e9974822ebcd678e31ae4b4647ad783fbb46a4cab786a"
+  },
+  {
+    "path": "07_septimo_basico/008_mundo_islamico_y_circulacion_de_conocimientos.md",
+    "size": 10368,
+    "sha256": "7aed31741750a964f4aa378ce92e62b8d42251728695e08a040e2acf21c0e37e"
+  },
+  {
+    "path": "07_septimo_basico/009_cartografia_antigua_y_medieval.md",
+    "size": 10232,
+    "sha256": "efca42ba29275c9e316dcfd6ff000017b95e4fc9e041600412df6c15f70cd481"
+  },
+  {
+    "path": "07_septimo_basico/00_indice_curso.md",
+    "size": 3947,
+    "sha256": "4896541bf8bf0cf5149e965f64d7d447d51fbd12078fdf71fcd7cb9032b4afdc"
+  },
+  {
+    "path": "07_septimo_basico/010_paisajes_agrarios_y_uso_del_suelo.md",
+    "size": 10180,
+    "sha256": "783f60ce31a1033a7b956cfe7c407b51a19eb476879ae484b9af235d82b0e5db"
+  },
+  {
+    "path": "07_septimo_basico/011_escalas_geograficas_local_regional_nacional_y_global.md",
+    "size": 10355,
+    "sha256": "7fab96ec8409d53d5788d9661b89655c73356ac950bd9781b63ddeed367a3180"
+  },
+  {
+    "path": "07_septimo_basico/012_poblacion_densidad_y_distribucion_mundial.md",
+    "size": 10320,
+    "sha256": "01391801cef26f8f3772db52c596ef12a39d8d76d871e38ccbcf63798a344f3d"
+  },
+  {
+    "path": "07_septimo_basico/013_ambientes_naturales_y_adaptacion_humana.md",
+    "size": 10251,
+    "sha256": "3134c9bb398e8929d6dcba7005fa727f23ca848d23a012531c19a244b0daa724"
+  },
+  {
+    "path": "07_septimo_basico/014_introduccion_a_datos_geograficos.md",
+    "size": 10221,
+    "sha256": "289ca42e915bda3ca2d2169aa6a02863201713565ca00002c059e37f75bdf803"
+  },
+  {
+    "path": "07_septimo_basico/01_glosario_curso.md",
+    "size": 9269,
+    "sha256": "a45b544ea85ebbb9533de6b815bbab93eb36e94cb7b07571f53237269be0555e"
+  },
+  {
+    "path": "07_septimo_basico/02_banco_preguntas.md",
+    "size": 7478,
+    "sha256": "ac0bc96c06488ab6c76fdac41b0603dd02c863c29cdd6c2588a7a946d4e9160b"
+  },
+  {
+    "path": "08_octavo_basico/001_expansion_europea_y_nuevas_rutas_oceanicas.md",
+    "size": 10274,
+    "sha256": "eb2f26566e330a539bcf9f3cfb1a1cc1c290bcb04855869e2612a36a33e30a0b"
+  },
+  {
+    "path": "08_octavo_basico/002_intercambio_colombino_y_transformacion_ambiental.md",
+    "size": 10348,
+    "sha256": "a6af5106d8b06cae8a2fcaec3310222a3af3d1c031ce38ed53b06e88959c2106"
+  },
+  {
+    "path": "08_octavo_basico/003_colonizacion_territorio_y_recursos.md",
+    "size": 10221,
+    "sha256": "f2599960e51cf5fc98257328b6b0fc46fa94b3ca3bad0b59089f37a619f408dd"
+  },
+  {
+    "path": "08_octavo_basico/004_ciudades_coloniales_y_redes_comerciales.md",
+    "size": 10250,
+    "sha256": "605b5dd1877bbd444f399c6823d73ac75c37aa01191ea68fb0d2f646cad823d3"
+  },
+  {
+    "path": "08_octavo_basico/005_revolucion_cientifica_medicion_y_cartografia.md",
+    "size": 10297,
+    "sha256": "b8f79d1b6e17b9784712c293f80e8b8b6218f51019801ce806f84903cf3b72cf"
+  },
+  {
+    "path": "08_octavo_basico/006_estados_modernos_fronteras_y_territorio.md",
+    "size": 10251,
+    "sha256": "cc1b9553e56940a53099b2cb0b2dea33f7bc139e36330b3f4dd24476727ce823"
+  },
+  {
+    "path": "08_octavo_basico/007_ilustracion_revolucion_y_espacio_publico.md",
+    "size": 10238,
+    "sha256": "42a3badf0dd8cd3c34f7d135c5dc10a6a35fe26affbfdda300fe0d29047b57b5"
+  },
+  {
+    "path": "08_octavo_basico/008_revolucion_industrial_y_ciudad.md",
+    "size": 10271,
+    "sha256": "ebc7823eeb8974b8378852cd3eb3abbe7f0093fe22b1a3bf4e2ccaeae36737f6"
+  },
+  {
+    "path": "08_octavo_basico/009_migraciones_modernas_y_trabajo.md",
+    "size": 10200,
+    "sha256": "151dc7018e9aa2e9cc16f741e2e365a2fb0c48eaad97e00d3b8a9935b4495fcb"
+  },
+  {
+    "path": "08_octavo_basico/00_indice_curso.md",
+    "size": 4007,
+    "sha256": "cb61708d9bca986ef1ffbcfa9fd64e40435bd75733d24e25350bef4127276198"
+  },
+  {
+    "path": "08_octavo_basico/010_imperialismo_y_control_territorial.md",
+    "size": 10195,
+    "sha256": "6c5b87910bca851ed6480b5c8e510b394f755dd6b609beb21d899eb8bcf137ce"
+  },
+  {
+    "path": "08_octavo_basico/011_comercio_mundial_y_division_internacional_del_trabajo.md",
+    "size": 10372,
+    "sha256": "abbb883413842b65766093e3611bbb147fdbe9791de31ea6eb244f6a18b3daa4"
+  },
+  {
+    "path": "08_octavo_basico/012_fronteras_mapas_y_conflictos.md",
+    "size": 10218,
+    "sha256": "94df620a2dff3da51cc8be32f60322517d3e4139147bb30c752f8819b78311f2"
+  },
+  {
+    "path": "08_octavo_basico/013_ambiente_y_extraccion_en_la_economia_moderna.md",
+    "size": 10287,
+    "sha256": "8a1f2b435a688bd175b439e5d758c72fe7a0df68e6822f74c1f3e7234ce7d031"
+  },
+  {
+    "path": "08_octavo_basico/014_mapas_de_flujos_mercancias_personas_e_ideas.md",
+    "size": 10230,
+    "sha256": "c2f9a94d04026f2fa8b446eea0cb98f227c3c2f2cf6bd435849eea5b53cc6a8a"
+  },
+  {
+    "path": "08_octavo_basico/01_glosario_curso.md",
+    "size": 8048,
+    "sha256": "e03cbe125ab2609b0e019af468efa3beb111d2390bd0fdb5d3bb259eeb9e6d2b"
+  },
+  {
+    "path": "08_octavo_basico/02_banco_preguntas.md",
+    "size": 7485,
+    "sha256": "918d9f520e4d0eda1e5a0ebc472f5b413bfb88440bfa1ade404a5f2f7af79642"
+  },
+  {
+    "path": "09_primero_medio/001_geografia_de_la_industrializacion.md",
+    "size": 10236,
+    "sha256": "76b3a312734241b58837b838ed7f0682e8385b0053eae0236d0308a53e5f92b3"
+  },
+  {
+    "path": "09_primero_medio/002_urbanizacion_y_problemas_sociales_del_siglo_xix.md",
+    "size": 10336,
+    "sha256": "0f6c84f3511fafeca97e7a9d21481782f328b2cb1054dc497e2e3181cc188c02"
+  },
+  {
+    "path": "09_primero_medio/003_imperialismo_recursos_y_rutas_estrategicas.md",
+    "size": 10320,
+    "sha256": "091d2a619370115ae3b2f136dc1c7476156ed7eb68b932feb7abca020795fdc7"
+  },
+  {
+    "path": "09_primero_medio/004_primera_guerra_mundial_geografia_del_conflicto.md",
+    "size": 10261,
+    "sha256": "effd1d60b11be3568c2cf937fca61e698a87e90b5c282d8246f48b6f24ec06cc"
+  },
+  {
+    "path": "09_primero_medio/005_entreguerras_crisis_economica_y_territorio.md",
+    "size": 10252,
+    "sha256": "d64606cf5ac820917da233ca5cf0b13b3f519185fe9a74028ea88596dcf0309b"
+  },
+  {
+    "path": "09_primero_medio/006_segunda_guerra_mundial_y_escalas_globales.md",
+    "size": 10232,
+    "sha256": "4d9212803d40ec5a15f521446bd051d57cc11683e7bb36271b727c289cf25430"
+  },
+  {
+    "path": "09_primero_medio/007_geografia_de_la_poblacion_en_el_siglo_xx.md",
+    "size": 10277,
+    "sha256": "cab9c26a169b1294623013c129deefef4c4082fa2c0366724c083ea8062aa7a0"
+  },
+  {
+    "path": "09_primero_medio/008_transporte_comunicacion_y_compresion_espacio_tiempo.md",
+    "size": 10339,
+    "sha256": "9d9716343a52dbd1c7dd907e7f218a33d72b2d96a3ec773eecfa5572ecf3a250"
+  },
+  {
+    "path": "09_primero_medio/009_geografia_de_los_recursos_energeticos.md",
+    "size": 10274,
+    "sha256": "22460e3d7b2f59c255fb742d31566d53d17e76ad59b7ddac780f5160ade257f7"
+  },
+  {
+    "path": "09_primero_medio/00_indice_curso.md",
+    "size": 4064,
+    "sha256": "77d6a33a228e0fed2faaf4a75756e9bb44c695b159362a54baf7ed72bcd228cc"
+  },
+  {
+    "path": "09_primero_medio/010_desigualdad_espacial_y_acceso_a_servicios.md",
+    "size": 10294,
+    "sha256": "9e28e25063c3c6ca8ae574589f7d99edc3ef5afdf57dc8b383b2b30e2caf7d60"
+  },
+  {
+    "path": "09_primero_medio/011_cartografia_tematica_para_procesos_historicos.md",
+    "size": 10267,
+    "sha256": "7fd1547527d395e2d5975d41a967d69904cbe9c3e35b8b45497e6db95abc283b"
+  },
+  {
+    "path": "09_primero_medio/012_geografia_ambiental_del_crecimiento_industrial.md",
+    "size": 10289,
+    "sha256": "0d68397b5122d06bc1ad8e5134ee916da1a36af365a343b0cffc0e8a03dc6ab4"
+  },
+  {
+    "path": "09_primero_medio/013_chile_en_redes_mundiales_del_siglo_xix_y_xx.md",
+    "size": 10293,
+    "sha256": "84607409a119b8ca6f10fcb03017136bd578697f38fcd91f6eb2817af2f5c40f"
+  },
+  {
+    "path": "09_primero_medio/014_riesgos_tecnologicos_y_ambientales.md",
+    "size": 10296,
+    "sha256": "cc9d407dc4cafc92abb4d48c9b62709727ee2751b3baf40ff87e6f1278fe3c08"
+  },
+  {
+    "path": "09_primero_medio/01_glosario_curso.md",
+    "size": 8608,
+    "sha256": "6511345adecb79a93d37c3dab34044ad34415aa729433e65a815f567fdeee69e"
+  },
+  {
+    "path": "09_primero_medio/02_banco_preguntas.md",
+    "size": 7521,
+    "sha256": "ea16980b33d857958ca1382e93cf6478aa9002150aee78586bab048be943b3e5"
+  },
+  {
+    "path": "10_segundo_medio/001_america_latina_territorio_diversidad_y_desigualdad.md",
+    "size": 10331,
+    "sha256": "821548b13f592c1063aaa4b9472b9354b152e70fcfd1f68113fdc9fd1b84eeee"
+  },
+  {
+    "path": "10_segundo_medio/002_urbanizacion_latinoamericana.md",
+    "size": 10210,
+    "sha256": "918a35cef2a4e652f296c2a78840dc90fea3f47bdb5bf402ded4125b272e77ae"
+  },
+  {
+    "path": "10_segundo_medio/003_migraciones_en_america_latina.md",
+    "size": 10211,
+    "sha256": "6e50782ae0d0e632051860b2bc451c43538724655c2d762d417b449d763f26d4"
+  },
+  {
+    "path": "10_segundo_medio/004_globalizacion_y_territorio.md",
+    "size": 10166,
+    "sha256": "4dc029c0eecad528b7600b6bb7e73ed449eecc4a91953925755c06faabb6bdcd"
+  },
+  {
+    "path": "10_segundo_medio/005_recursos_naturales_extractivismo_y_desarrollo.md",
+    "size": 10336,
+    "sha256": "26e01c244ada9fe752f8bc69360c92d92cc5f8dab011dd38667015bd2e7b6054"
+  },
+  {
+    "path": "10_segundo_medio/006_desigualdad_territorial_y_pobreza_urbana.md",
+    "size": 10310,
+    "sha256": "d7defe6b70375876cad2049bb04cb5d9d31401c93479b404f4e61181da5fae9d"
+  },
+  {
+    "path": "10_segundo_medio/007_riesgos_y_desastres_en_america_latina.md",
+    "size": 10363,
+    "sha256": "df553048de798d9809c184448269d5833fc7ec93e4fb7311f9fb8d2df1f2983e"
+  },
+  {
+    "path": "10_segundo_medio/008_cambio_climatico_en_america_latina.md",
+    "size": 10248,
+    "sha256": "0f1ae7ce829c6cc6afdc3aed1ffd672525a9737580a4e4f4dbd568930e4285cc"
+  },
+  {
+    "path": "10_segundo_medio/009_agua_energia_y_alimentos.md",
+    "size": 10161,
+    "sha256": "fbffd3fdcdf873f5327405417083604496b25c09574b1fe7d34e07992ad3c1ad"
+  },
+  {
+    "path": "10_segundo_medio/00_indice_curso.md",
+    "size": 3850,
+    "sha256": "50dc5e197fb0fc3ba1defbfa2ee1e83b5a3ec9f5b2527c3f0a487f8ec2be63aa"
+  },
+  {
+    "path": "10_segundo_medio/010_fronteras_integracion_y_circulacion.md",
+    "size": 10282,
+    "sha256": "a166117341129684265eaff199e027af43f03b6b06bed8b3ba45f72ada2b0602"
+  },
+  {
+    "path": "10_segundo_medio/011_geografia_de_los_derechos_humanos.md",
+    "size": 10191,
+    "sha256": "f1240b2c9b3e7c0bc2b36e129d8c6b3cfaa6cdfc107ec084f7d7e2fe9269f681"
+  },
+  {
+    "path": "10_segundo_medio/012_megalopolis_y_sistemas_urbanos.md",
+    "size": 10208,
+    "sha256": "3f8272d92d111742d630c3bd741d4f7dc1d5f2e9f7dbbfcf2013c23bd66cfb50"
+  },
+  {
+    "path": "10_segundo_medio/013_antartica_oceanos_y_cooperacion_internacional.md",
+    "size": 10342,
+    "sha256": "6992f841b7d49c91e3d3f4ea29ce30e5439d1ead75a0199a3637c60a10d2351d"
+  },
+  {
+    "path": "10_segundo_medio/014_mapas_de_indicadores_sociales.md",
+    "size": 10198,
+    "sha256": "3b992c07ec175cc4ce88e52ce5260be286515736b197b06f9143af409ec3df38"
+  },
+  {
+    "path": "10_segundo_medio/01_glosario_curso.md",
+    "size": 8702,
+    "sha256": "47210455ceb62e81746c61accfe4a88f5a3f6f6c71c3849492fbcc07919c3aea"
+  },
+  {
+    "path": "10_segundo_medio/02_banco_preguntas.md",
+    "size": 7418,
+    "sha256": "3763c1f02a9e7b03157d8dc0b17e1af86349953d4e66ed5591730daaa705bc92"
+  },
+  {
+    "path": "11_tercero_medio/001_territorio_y_justicia_social.md",
+    "size": 10219,
+    "sha256": "6a45433b13adaf6dd87decfab39413eb3acc9d6bf6c4f47032c9778bc8deb24b"
+  },
+  {
+    "path": "11_tercero_medio/002_justicia_ambiental_y_conflictos_socioambientales.md",
+    "size": 10374,
+    "sha256": "cbf7b69bab0808569c7f00a2821d4475673df7c5d0c86abc20a6dcafe0af334e"
+  },
+  {
+    "path": "11_tercero_medio/003_ordenamiento_territorial_y_planificacion.md",
+    "size": 10338,
+    "sha256": "7a7fda9351cfb731cdacc673cff93f840a9b5503d532fa217338d86148b4d913"
+  },
+  {
+    "path": "11_tercero_medio/004_ciudad_movilidad_y_accesibilidad.md",
+    "size": 10214,
+    "sha256": "cd7377f2aa43b64ef33d114177450882bf4bc4b1eb47fa4e9eff33cd50bc2c4e"
+  },
+  {
+    "path": "11_tercero_medio/005_segregacion_urbana_y_vivienda.md",
+    "size": 10173,
+    "sha256": "6717eaab4e1016b962d6eb18e14e7d9c9ab3da6284877806b65ab3bead677f31"
+  },
+  {
+    "path": "11_tercero_medio/006_migracion_interculturalidad_y_territorio.md",
+    "size": 10300,
+    "sha256": "598195de1e628aff6411f0e0b7731115717774e33d9cfb9664959ff2072cfb7f"
+  },
+  {
+    "path": "11_tercero_medio/007_riesgo_desastre_y_gobernanza.md",
+    "size": 10174,
+    "sha256": "1e0f87b70ac0c6ec720bc3939d1b69f2e225f1296ff361eb578dcb5c9701111c"
+  },
+  {
+    "path": "11_tercero_medio/008_cambio_climatico_y_adaptacion_territorial.md",
+    "size": 10299,
+    "sha256": "bf5db517c8b6351808635698b23b49e5f737700dc3d2e0819c8d250b55bd84fd"
+  },
+  {
+    "path": "11_tercero_medio/009_cuencas_agua_y_gobernanza.md",
+    "size": 10100,
+    "sha256": "5f521e74660de094564bd58c041467691777f74b93d6a947399e30789302eee0"
+  },
+  {
+    "path": "11_tercero_medio/00_indice_curso.md",
+    "size": 4094,
+    "sha256": "12c04c7c6ca2eda51d73378927abf5935db950e4d252a0fc2fe94e8a58e5ca88"
+  },
+  {
+    "path": "11_tercero_medio/010_tecnologias_geoespaciales_y_ciudadania.md",
+    "size": 10218,
+    "sha256": "d9c6047ad82f12a64b716fdcd409d59025a891eb46a1cbcbda05b3912e7c197d"
+  },
+  {
+    "path": "11_tercero_medio/011_chile_y_america_latina_procesos_recientes.md",
+    "size": 10287,
+    "sha256": "be8d8a27518ff621cf9101fba7537731f45f8c74de49b7cd2c3515f926ddf2cd"
+  },
+  {
+    "path": "11_tercero_medio/012_territorio_democracia_y_participacion.md",
+    "size": 10259,
+    "sha256": "c71931d5259ba331ed3d07087a0f7f91a0f0c32a8482b6d2c1c6629fac5186ae"
+  },
+  {
+    "path": "11_tercero_medio/013_paisaje_memoria_y_lugar.md",
+    "size": 10113,
+    "sha256": "02912229fd278038d311da2648ea621a0931a04535781cd03b41356786355d84"
+  },
+  {
+    "path": "11_tercero_medio/014_economias_locales_y_globales.md",
+    "size": 10216,
+    "sha256": "03db47ef41126111833793754b473d68a745c442ce7d5f1300c007e046b47a86"
+  },
+  {
+    "path": "11_tercero_medio/015_sistemas_alimentarios_y_territorio.md",
+    "size": 10235,
+    "sha256": "2baad3a1cc6f368a903dca4e9b894d4d324b77ed1ca05abbd5018e839e21da49"
+  },
+  {
+    "path": "11_tercero_medio/016_evaluacion_de_fuentes_geograficas.md",
+    "size": 10158,
+    "sha256": "c20c47bd5c0bdd65dce79b02417d3f2c243178206931b3893444f3a917f9290a"
+  },
+  {
+    "path": "11_tercero_medio/01_glosario_curso.md",
+    "size": 9431,
+    "sha256": "4410582f78576aaf27ff551a73852995a730c6ffb6e07dd846dd50247d3800fb"
+  },
+  {
+    "path": "11_tercero_medio/02_banco_preguntas.md",
+    "size": 8440,
+    "sha256": "c30247850e590cf407db41ab5b385f66e8107935b8ca9f3836a1a30f06be3df7"
+  },
+  {
+    "path": "12_cuarto_medio/001_geopolitica_de_recursos_estrategicos.md",
+    "size": 10269,
+    "sha256": "22dbfc3679ac854b82abb118e321f3c8cf7c24647f337d2d92ec27503047867c"
+  },
+  {
+    "path": "12_cuarto_medio/002_bienes_comunes_globales_oceanos_atmosfera_y_antartica.md",
+    "size": 10373,
+    "sha256": "de3896b9a6eac94ebeb5223aed614ed0f90a83f32d00cb6419c96caa1710a689"
+  },
+  {
+    "path": "12_cuarto_medio/003_crisis_climatica_y_justicia_climatica.md",
+    "size": 10330,
+    "sha256": "dbab3719b23ddcd64984281333937167bf4e015cf6adb01f844fd169eab234b6"
+  },
+  {
+    "path": "12_cuarto_medio/004_transicion_energetica_y_territorio.md",
+    "size": 10307,
+    "sha256": "dbff5b0a584871a33ecc28acb3c6098da730974f7248fe5a0548dd09b7885df1"
+  },
+  {
+    "path": "12_cuarto_medio/005_futuro_urbano_y_ciudades_sostenibles.md",
+    "size": 10255,
+    "sha256": "f8e2e42053dc33a30c92f3684d45993ce1ba3c6059c6f6a02e41530070771e8d"
+  },
+  {
+    "path": "12_cuarto_medio/006_refugio_movilidad_humana_y_fronteras.md",
+    "size": 10271,
+    "sha256": "39a413f8d44a998bc81eb6fcd023a02ccd8b5aaa400cd7368fb388739bbed8a2"
+  },
+  {
+    "path": "12_cuarto_medio/007_seguridad_alimentaria_y_cambio_ambiental.md",
+    "size": 10322,
+    "sha256": "17ef26b5395e40bf71a526e99b6ff05f02bd9ef16918d3780cae29d435b4f1dc"
+  },
+  {
+    "path": "12_cuarto_medio/008_datos_geoespaciales_privacidad_y_etica.md",
+    "size": 10253,
+    "sha256": "194cc1b1054301967e7a13d3fa07859d32b87f7cfd448ef3b73d99b3040c3a01"
+  },
+  {
+    "path": "12_cuarto_medio/009_teledeteccion_y_monitoreo_ambiental.md",
+    "size": 10240,
+    "sha256": "994179a955ae14ed7b18bfcd1d431b851b3e8dd32c5b5fd59fe7c877d4694b23"
+  },
+  {
+    "path": "12_cuarto_medio/00_indice_curso.md",
+    "size": 4250,
+    "sha256": "b70f05617cae8c9f32b8994a339022c6c3de107de01dccd963909036a9aac022"
+  },
+  {
+    "path": "12_cuarto_medio/010_planificacion_territorial_ante_riesgos.md",
+    "size": 10291,
+    "sha256": "377171f16b36b8406ffb202f2b081752fb231f7a04de20a585b4bc398deeef91"
+  },
+  {
+    "path": "12_cuarto_medio/011_desigualdad_global_y_desarrollo_humano.md",
+    "size": 10246,
+    "sha256": "21ac0eb303e48ab15c2dcf74d59c67dca3543befdf98bcabe3b181d0d30b5cfd"
+  },
+  {
+    "path": "12_cuarto_medio/012_globalizacion_digital_y_plataformas.md",
+    "size": 10213,
+    "sha256": "3486b37780c1f76d0b0a3becfc7db1a7c06bb7446b65fe9501b9d7b5ca295776"
+  },
+  {
+    "path": "12_cuarto_medio/013_oceanos_pesca_y_sostenibilidad.md",
+    "size": 10226,
+    "sha256": "b193b2501c9472023f337983486a5d9c0e0db09d2c32450ebfef993aba2880f0"
+  },
+  {
+    "path": "12_cuarto_medio/014_geografia_de_la_salud_y_pandemias.md",
+    "size": 10181,
+    "sha256": "bd36793143f0823ae710ab1d1b822b1c8b70bcfa51af1b1b25bbc9d9648668d7"
+  },
+  {
+    "path": "12_cuarto_medio/015_investigacion_geografica_escolar_avanzada.md",
+    "size": 10283,
+    "sha256": "44caad3eb2942652c81acde9068e6dc3b268deb36b9cb9ca62d3b45bb36b30a9"
+  },
+  {
+    "path": "12_cuarto_medio/016_ciudadania_global_y_problemas_planetarios.md",
+    "size": 10342,
+    "sha256": "b8b1a7ee827794e7f17da0abf9fd2aedb85b4f6f15c1aa8a6c835f7ea5f0e141"
+  },
+  {
+    "path": "12_cuarto_medio/01_glosario_curso.md",
+    "size": 9910,
+    "sha256": "83647abb93194463b8c5da5fc6935edf8b2d3025200da53b5efc18f0e9e27f35"
+  },
+  {
+    "path": "12_cuarto_medio/02_banco_preguntas.md",
+    "size": 8500,
+    "sha256": "0fb4c053c4d50d58e81eb54ad46ac87ef7c073b4f247e373ef5425ef9bc36a16"
+  },
+  {
+    "path": "13_tematicos_transversales/001_como_leer_un_mapa_escolar.md",
+    "size": 10135,
+    "sha256": "2072bdb7def5c2e9e65db1fc11d6f0830fa425bf883715a7def796912cec1375"
+  },
+  {
+    "path": "13_tematicos_transversales/002_tipos_de_mapas_fisico_politico_y_tematico.md",
+    "size": 10307,
+    "sha256": "5bba74af6fc52c84a4a50b3aff566c3c230c097596f6b552f24468be9ee327c2"
+  },
+  {
+    "path": "13_tematicos_transversales/003_continentes_oceanos_y_hemisferios.md",
+    "size": 10204,
+    "sha256": "8e8190b4e44619427416869afae42240c9f665fe3a07f66cf27ccfec5ff0ddf9"
+  },
+  {
+    "path": "13_tematicos_transversales/004_relieve_mundial_y_chileno.md",
+    "size": 10209,
+    "sha256": "7701b89d62c237b3c3698bb44e12e1157ddfa404ab854cc367b8c5fe41ac67c8"
+  },
+  {
+    "path": "13_tematicos_transversales/005_climas_del_mundo_y_factores_del_clima.md",
+    "size": 10259,
+    "sha256": "a46210b4662011b10d165521f13c54443cfd9ce3f05fe15c775e037ab79b6aa6"
+  },
+  {
+    "path": "13_tematicos_transversales/006_regiones_naturales_y_biomas.md",
+    "size": 10228,
+    "sha256": "5e6aa1aefc9accca6c77d144a7660d89c06d1a0c8efcfe05a3cb60f600540b98"
+  },
+  {
+    "path": "13_tematicos_transversales/007_geografia_de_chile_sintesis_fisica.md",
+    "size": 10338,
+    "sha256": "c1809c96349b5ddd0bf60339302b80ee0d1011d88d22c8e957336598d0b7919c"
+  },
+  {
+    "path": "13_tematicos_transversales/008_regiones_de_chile_y_organizacion_territorial.md",
+    "size": 10314,
+    "sha256": "53c5f9f2e8e9a2c292d36655490eeebbd66ac44c7b62e006c6866725691162d4"
+  },
+  {
+    "path": "13_tematicos_transversales/009_recursos_naturales_y_sustentabilidad.md",
+    "size": 10305,
+    "sha256": "3f9b733b10e0af31f034a91c15819d60c7797d1d18a6334ff78754e63eef8e84"
+  },
+  {
+    "path": "13_tematicos_transversales/010_poblacion_densidad_y_migraciones.md",
+    "size": 10236,
+    "sha256": "766fa0859e8135f946bfe68f6cb6bd9d6b9529ea052b0ff2e87921dbea2ca373"
+  },
+  {
+    "path": "13_tematicos_transversales/011_ciudad_urbanizacion_y_movilidad.md",
+    "size": 10249,
+    "sha256": "ab3cc104d43838d589cbc9799b278fe217da1228388ef3486b1ba115e6ac6162"
+  },
+  {
+    "path": "13_tematicos_transversales/012_riesgos_naturales_y_desastres_socionaturales.md",
+    "size": 10311,
+    "sha256": "189e9838ccb9093dff3cfe63c458eb6f9d8bc9b252cf9f2dc9fdd69fcec8fd6e"
+  },
+  {
+    "path": "13_tematicos_transversales/013_cambio_climatico_y_adaptacion.md",
+    "size": 10242,
+    "sha256": "cb90b3e277fed659741b8ff53758be39037a3bd154cdc59f9086eaf1dc05eaf0"
+  },
+  {
+    "path": "13_tematicos_transversales/014_sociedad_y_espacio_territorio_lugar_y_paisaje.md",
+    "size": 10267,
+    "sha256": "97b83b403c9eb46077cb37bd92fc970cbe1aa97b4b6cc6bb473f84183ff3da41"
+  },
+  {
+    "path": "13_tematicos_transversales/015_cartografia_digital_gps_y_sig.md",
+    "size": 10157,
+    "sha256": "801342d03f32a857ad658f0045c959fdec06b0c0c31b9586dded44ba4fe49ce1"
+  },
+  {
+    "path": "13_tematicos_transversales/016_agua_cuencas_y_seguridad_hidrica.md",
+    "size": 10211,
+    "sha256": "524cd0df2835b40d5e5b8ec3597edcf8140daf8bee7a2ae9d1de1d3069baa120"
+  },
+  {
+    "path": "13_tematicos_transversales/017_geografia_economica_produccion_comercio_y_redes.md",
+    "size": 10344,
+    "sha256": "25848f98690e94be966f5edda092e90f0c4b8072abc67528e4e748d60411d74b"
+  },
+  {
+    "path": "13_tematicos_transversales/018_justicia_ambiental_y_territorial.md",
+    "size": 10305,
+    "sha256": "c93f5d99e658e507080ac1265eb011c81db8540dd7c7ce3c34660070cd415f3c"
+  },
+  {
+    "path": "13_tematicos_transversales/019_geopolitica_y_bienes_comunes_globales.md",
+    "size": 10277,
+    "sha256": "7a72826a3274effa0883a227373d9f975a6c44303a8dee715bd99476b854eb57"
+  },
+  {
+    "path": "13_tematicos_transversales/020_metodo_geografico_escolar.md",
+    "size": 10311,
+    "sha256": "ee26c0598e80a08d1987bad3bc6210eb524fa9b4389ceaa5180a4583c90cd469"
+  },
+  {
+    "path": "14_bancos_generales/01_atlas_textual.md",
+    "size": 852,
+    "sha256": "1ac6e5fa0381f87a36b4674a9b61715e94652d44373ec61196ccb7e768697bb2"
+  },
+  {
+    "path": "14_bancos_generales/02_glosario_general.md",
+    "size": 76473,
+    "sha256": "b384d5199a4fa31c97393074dd84d0aa52a8b4b02d7b11255e9a9f2b97b28e91"
+  },
+  {
+    "path": "14_bancos_generales/03_palabras_clave.md",
+    "size": 6681,
+    "sha256": "e9463e2e85622cab26a711e4b803065c44da36466cd627978c8bb29a1188e3fe"
+  },
+  {
+    "path": "14_bancos_generales/04_mapa_relaciones_materias.md",
+    "size": 721,
+    "sha256": "70c30a791a93dae333d926618f850a00c493527eb35a58cf3087d5c66722778a"
+  },
+  {
+    "path": "15_evaluaciones_generales/01_evaluaciones_generales.md",
+    "size": 1125,
+    "sha256": "734207c94827ee42349cabb7bfaed82c1e160616aae4e992d36efb59727507bd"
+  },
+  {
+    "path": "16_apoyo_inclusivo/01_adaptaciones_tea_lectura_facil.md",
+    "size": 656,
+    "sha256": "57780a5694ececdd6a0590f7c8cbf0480209245811f9a766d3fc28612a40bd95"
+  },
+  {
+    "path": "16_apoyo_inclusivo/02_reglas_por_perfil.md",
+    "size": 529,
+    "sha256": "2b499cdb34d26e3b22a0b2f92df13ec626c818a9d278ab095aa1ff98080f71f3"
+  },
+  {
+    "path": "17_compendios/compendio_cuarto_basico.md",
+    "size": 143815,
+    "sha256": "e643256236472090ebaa42aa0277a82bf8c389a0ceb9dbe96271251aaf85283a"
+  },
+  {
+    "path": "17_compendios/compendio_cuarto_medio.md",
+    "size": 164541,
+    "sha256": "56d26b5341b8be62a4a11b84821f9941d21ff4a064c4137b01ba9fed99c20dd9"
+  },
+  {
+    "path": "17_compendios/compendio_octavo_basico.md",
+    "size": 143779,
+    "sha256": "96dde060ff1834595a437995b7e3cb82ef3d2258d1e6dfe049c7413b76beebfa"
+  },
+  {
+    "path": "17_compendios/compendio_primero_basico.md",
+    "size": 103441,
+    "sha256": "f58544fab42449189cc517f36c73f6d690c7d15d349d8c34024f11e2f3d84ce1"
+  },
+  {
+    "path": "17_compendios/compendio_primero_medio.md",
+    "size": 144091,
+    "sha256": "4b6f67fe1afe12f4339797fedbba2f1c02345208c14b081d85e27b1fe35bc69a"
+  },
+  {
+    "path": "17_compendios/compendio_quinto_basico.md",
+    "size": 185428,
+    "sha256": "4f7b744b9f3388f21c68588ffddbcea57185bd8734f145f68bc35f84f7710972"
+  },
+  {
+    "path": "17_compendios/compendio_segundo_basico.md",
+    "size": 122845,
+    "sha256": "f02ddc359b1ae366c53e66a3796635d59a16b73c7b82e76a1f0f72a32fe2b89e"
+  },
+  {
+    "path": "17_compendios/compendio_segundo_medio.md",
+    "size": 143682,
+    "sha256": "60b77615b8ac554ee0ea652f89521522e222e49f1a89165dd980362a1b7c1bdb"
+  },
+  {
+    "path": "17_compendios/compendio_septimo_basico.md",
+    "size": 144048,
+    "sha256": "e8c039ba0486f024964e11d712dabc3fcc968942defde9e54a26e52d8336bb96"
+  },
+  {
+    "path": "17_compendios/compendio_sexto_basico.md",
+    "size": 185101,
+    "sha256": "c200ec2344b8b66f8f4baa50605f65f0930b124164ae6bb3585b330b4f00194b"
+  },
+  {
+    "path": "17_compendios/compendio_tematicos_transversales.md",
+    "size": 205386,
+    "sha256": "dc8ef5df9e3db174f459c82dc2a7cc4a0dba1f6e4caf0082d577097dbc1af9a4"
+  },
+  {
+    "path": "17_compendios/compendio_tercero_basico.md",
+    "size": 143507,
+    "sha256": "3c2d3878164ccc324c895b03019ff0302db75e05969cce27d4658c97827e7c4f"
+  },
+  {
+    "path": "17_compendios/compendio_tercero_medio.md",
+    "size": 163816,
+    "sha256": "9d629a1219ba0d1c5cedbbbc755d9f41c4aa437b478ea56bda02f29b79dce80d"
+  },
+  {
+    "path": "17_compendios/enciclopedia_completa_geografia_chile_universal.md",
+    "size": 1993573,
+    "sha256": "f351aa5a7e2d0ac08f5963290607d6d45372fa341a9570c0c1d8f5b1e94ba473"
+  },
+  {
+    "path": "18_rag/catalogo_capitulos.json",
+    "size": 106244,
+    "sha256": "149a4b2f2d98348369392ab5696b4a2914f90bf8f48cfef31b3985c97f2c88ef"
+  },
+  {
+    "path": "18_rag/catalogo_capitulos.jsonl",
+    "size": 89953,
+    "sha256": "4587e59c7023498af515a5fb6480ccdcf2dc24738f97f8bda7acde5dcd0b1511"
+  },
+  {
+    "path": "18_rag/chunks_geografia.jsonl",
+    "size": 3621902,
+    "sha256": "68f3a2315bd4b0a780d5ad69a6d677a1f5cf778b179e6405135cfa2254f02626"
+  },
+  {
+    "path": "CHANGELOG.md",
+    "size": 410,
+    "sha256": "c5152f463a78d0c7037e40b03fb7ae853ac52cf7f456ed3207801f2e9fbfbf76"
+  },
+  {
+    "path": "README.md",
+    "size": 2582,
+    "sha256": "fcee33d85cd6ce9c291cb9b552670f4f2f80b0d4c413d9cf00c984a62404741b"
+  }
+]

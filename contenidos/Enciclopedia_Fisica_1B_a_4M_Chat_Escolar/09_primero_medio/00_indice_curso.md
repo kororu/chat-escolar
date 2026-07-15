@@ -1,0 +1,30 @@
+# Índice de Física — 1° medio
+
+- [Qué es una onda](001_que_es_una_onda.md) — ondas_sonido
+- [Ondas mecánicas y electromagnéticas](002_ondas_mecanicas_y_electromagneticas.md) — ondas_sonido
+- [Ondas transversales y longitudinales](003_ondas_transversales_y_longitudinales.md) — ondas_sonido
+- [Amplitud](004_amplitud.md) — fisica_general
+- [Frecuencia](005_frecuencia.md) — ondas_sonido
+- [Período](006_periodo.md) — fisica_general
+- [Longitud de onda](007_longitud_de_onda.md) — ondas_sonido
+- [Velocidad de propagación](008_velocidad_de_propagacion.md) — mecanica
+- [Reflexión de ondas](009_reflexion_de_ondas.md) — ondas_sonido
+- [Refracción de ondas](010_refraccion_de_ondas.md) — ondas_sonido
+- [Absorción](011_absorcion.md) — fisica_general
+- [Interferencia](012_interferencia.md) — fisica_general
+- [Difracción](013_difraccion.md) — fisica_general
+- [Efecto Doppler](014_efecto_doppler.md) — ondas_sonido
+- [Producción del sonido](015_produccion_del_sonido.md) — ondas_sonido
+- [Propagación del sonido](016_propagacion_del_sonido.md) — ondas_sonido
+- [Tono, intensidad y timbre](017_tono_intensidad_y_timbre.md) — fisica_general
+- [Resonancia](018_resonancia.md) — ondas_sonido
+- [Audición y contaminación acústica](019_audicion_y_contaminacion_acustica.md) — fisica_general
+- [Naturaleza de la luz](020_naturaleza_de_la_luz.md) — optica
+- [Reflexión de la luz](021_reflexion_de_la_luz.md) — optica
+- [Refracción de la luz](022_refraccion_de_la_luz.md) — optica
+- [Espejos](023_espejos.md) — optica
+- [Lentes](024_lentes.md) — optica
+- [Color y espectro visible](025_color_y_espectro_visible.md) — optica
+- [Percepción visual](026_percepcion_visual.md) — fisica_general
+- [Ondas sísmicas](027_ondas_sismicas.md) — ondas_sonido
+- [Sismos, tsunamis y medición](028_sismos_tsunamis_y_medicion.md) — fisica_general

@@ -1,0 +1,313 @@
+# Palabras clave
+
+- materiales cotidianos
+- propiedades observables
+- duro y blando
+- flexible y rígido
+- transparente y opaco
+- absorción de agua
+- materiales naturales y elaborados
+- cambios por calor
+- cambios por frío
+- mezclas seguras
+- agua cotidiana
+- aire ocupa espacio
+- clasificación de objetos
+- reutilización de materiales
+- seguridad al observar sustancias
+- estados del agua
+- sólidos líquidos y gases
+- fusión
+- congelación
+- evaporación
+- condensación
+- cambios reversibles
+- cambios irreversibles
+- mezclas visibles
+- disolución de sal y azúcar
+- soluble e insoluble
+- filtración simple
+- decantación simple
+- propiedades y usos
+- residuos y reciclaje
+- preguntas químicas simples
+- materia y objetos
+- masa inicial
+- volumen y capacidad
+- sólidos y forma
+- líquidos y recipiente
+- gases y espacio
+- modelo de partículas inicial
+- cambios de estado
+- calor y materia
+- mezclas homogéneas
+- mezclas heterogéneas
+- soluto y solvente
+- concentración cualitativa
+- tamizado
+- filtración
+- evaporación
+- cambios físicos y químicos
+- investigación de materiales
+- modelo de partículas
+- propiedades de la materia
+- masa y volumen
+- densidad inicial
+- estados de la materia
+- movimiento de partículas
+- fusión y solidificación
+- vaporización y condensación
+- sublimación inicial
+- cambio físico
+- cambio químico
+- evidencias de reacción
+- sustancias y mezclas
+- soluciones
+- solubilidad
+- factores de disolución
+- filtración y decantación
+- destilación como modelo
+- rocas y minerales
+- método científico químico
+- materia y composición
+- sustancias y mezclas
+- mezclas homogéneas
+- mezclas heterogéneas
+- soluciones acuosas
+- soluto y solvente
+- concentración cualitativa
+- filtración
+- decantación
+- tamizado
+- separación magnética
+- evaporación y cristalización
+- destilación simple
+- propiedades de materiales
+- conductividad
+- cambios físicos
+- cambios químicos
+- oxidación cotidiana
+- combustión y seguridad
+- ácidos y bases cotidianos
+- indicadores naturales
+- ph inicial
+- química del agua
+- investigación segura
+- modelo corpuscular
+- partículas en sólidos
+- partículas en líquidos
+- partículas en gases
+- difusión
+- compresión de gases
+- cambios de estado y partículas
+- energía y cambios de estado
+- sustancias puras
+- elementos y compuestos
+- mezclas y soluciones
+- concentración
+- solubilidad
+- temperatura y solubilidad
+- agitación y disolución
+- cambios físicos y químicos
+- reacciones cotidianas
+- conservación de masa inicial
+- reactantes y productos
+- evidencias de reacción
+- ácidos y bases
+- indicadores de ph
+- neutralización inicial
+- seguridad doméstica
+- comportamiento de gases
+- presión volumen y temperatura
+- modelo cinético molecular
+- leyes cualitativas de gases
+- sustancias puras
+- elementos
+- compuestos
+- mezclas homogéneas
+- mezclas heterogéneas
+- disoluciones
+- decantación
+- filtración
+- tamizado
+- destilación
+- separación en minería
+- tratamiento de aguas
+- cambios físicos
+- cambios químicos
+- reacciones químicas
+- reactantes y productos
+- conservación de masa
+- estructura atómica inicial
+- protones neutrones y electrones
+- tabla periódica inicial
+- historia de modelos atómicos
+- modelo de dalton
+- modelo de thomson
+- modelo de rutherford
+- modelo de bohr
+- átomo y núcleo
+- protones neutrones y electrones
+- número atómico
+- número másico
+- isótopos iniciales
+- iones
+- moléculas
+- elementos y compuestos
+- grupos y períodos
+- metales no metales y metaloides
+- electrones de valencia
+- enlace iónico
+- enlace covalente
+- formación de moléculas
+- reacciones químicas
+- conservación de masa
+- balanceo inicial
+- ácidos y bases cotidianas
+- escala de ph
+- neutralización
+- seguridad química doméstica
+- reacciones químicas cotidianas
+- evidencias de reacción
+- reactantes y productos
+- ecuaciones químicas
+- conservación de masa
+- balanceo de ecuaciones
+- tipos de reacciones
+- síntesis
+- descomposición
+- sustitución simple
+- doble sustitución
+- combustión
+- precipitación
+- cantidad de sustancia
+- mol
+- masa molar
+- número de avogadro
+- relaciones estequiométricas
+- reactivo limitante
+- rendimiento
+- compuestos binarios
+- compuestos ternarios
+- óxidos
+- hidruros
+- ácidos
+- hidróxidos
+- sales
+- nomenclatura inorgánica
+- soluciones y concentración
+- molaridad
+- porcentaje masa masa
+- porcentaje masa volumen
+- diluciones
+- curvas de solubilidad
+- factores de solubilidad
+- ácidos y bases de arrhenius
+- brønsted-lowry inicial
+- ph y poh
+- indicadores ácido-base
+- neutralización
+- titulación inicial
+- reacciones redox
+- oxidación y reducción
+- número de oxidación
+- pilas electroquímicas
+- corrosión
+- química orgánica inicial
+- carbono y enlaces
+- hidrocarburos
+- alcanos
+- alquenos
+- alquinos
+- grupos funcionales
+- alcoholes
+- ácidos carboxílicos
+- polímeros
+- química del petróleo
+- química y ambiente
+- sustancias químicas cotidianas
+- medicamentos y composición
+- detergentes
+- desinfectantes
+- plaguicidas
+- pictogramas de peligro
+- almacenamiento seguro
+- eliminación responsable
+- química verde
+- ciclo de vida de productos
+- contaminación del aire
+- contaminación del agua
+- contaminación del suelo
+- química del cambio climático
+- gases de efecto invernadero
+- calidad del agua
+- tratamiento de aguas
+- metales pesados
+- microplásticos
+- química de alimentos
+- aditivos alimentarios
+- fermentación
+- termoquímica inicial
+- entalpía
+- reacciones exotérmicas y endotérmicas
+- cinética química
+- velocidad de reacción
+- catalizadores
+- termodinámica química
+- primera ley
+- entalpía de reacción
+- ley de hess
+- entropía
+- energía libre de gibbs
+- espontaneidad
+- equilibrio químico
+- constante de equilibrio
+- le châtelier
+- equilibrio ácido-base
+- soluciones buffer
+- producto de solubilidad
+- cinética avanzada
+- mecanismos de reacción
+- energía de activación
+- catálisis homogénea y heterogénea
+- electroquímica
+- celdas galvánicas
+- electrólisis
+- corrosión y protección
+- química orgánica avanzada
+- isomería
+- reacciones orgánicas
+- biomoléculas
+- química farmacéutica
+- materiales avanzados
+- nanomateriales
+- química ambiental y justicia
+- proyecto químico aplicado
+- qué estudia la química
+- materia y propiedades
+- estados de la materia
+- modelo de partículas
+- cambios físicos y químicos
+- átomos
+- moléculas
+- elementos y compuestos
+- tabla periódica
+- mezclas
+- soluciones
+- solubilidad
+- métodos de separación
+- reacciones químicas
+- conservación de masa
+- ecuaciones químicas
+- mol y estequiometría
+- ácidos y bases
+- ph
+- oxidación y reducción
+- química orgánica
+- polímeros
+- química cotidiana
+- química ambiental
+- química verde
+- seguridad en laboratorio
+- pictogramas de peligro
+- método científico químico

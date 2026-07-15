@@ -1,0 +1,30 @@
+# Índice de Astronomía — 1° medio
+
+- [Sistema Tierra-Luna](001_sistema_tierra_luna.md) — tierra_luna
+- [Fases lunares y geometría](002_fases_lunares_y_geometria.md) — tierra_luna
+- [Eclipses solares y lunares](003_eclipses_solares_y_lunares.md) — sol
+- [Estaciones y órbita terrestre](004_estaciones_y_orbita_terrestre.md) — gravedad_y_orbitas
+- [Comparación de planetas](005_comparacion_de_planetas.md) — sistema_solar
+- [Atmósferas planetarias](006_atmosferas_planetarias.md) — sistema_solar
+- [Períodos orbitales](007_periodos_orbitales.md) — astronomia_general
+- [Tamaños y densidades planetarias](008_tamanos_y_densidades_planetarias.md) — sistema_solar
+- [Estructuras cósmicas](009_estructuras_cosmicas.md) — astronomia_general
+- [Micrometeoroides](010_micrometeoroides.md) — sistema_solar
+- [Asteroides y cometas](011_asteroides_y_cometas.md) — sistema_solar
+- [Estrellas](012_estrellas.md) — estrellas
+- [Nebulosas](013_nebulosas.md) — estrellas
+- [Cúmulos estelares](014_cumulos_estelares.md) — galaxias
+- [Galaxias](015_galaxias.md) — galaxias
+- [Cúmulos y supercúmulos](016_cumulos_y_supercumulos.md) — galaxias
+- [Evolución del universo inicial](017_evolucion_del_universo_inicial.md) — astronomia_general
+- [Teoría del Big Bang](018_teoria_del_big_bang.md) — cosmologia
+- [Expansión del universo](019_expansion_del_universo.md) — cosmologia
+- [Radiación cósmica de fondo inicial](020_radiacion_cosmica_de_fondo_inicial.md) — cosmologia
+- [Investigación astronómica en Chile](021_investigacion_astronomica_en_chile.md) — astronomia_general
+- [Telescopios ópticos](022_telescopios_opticos.md) — astronomia_general
+- [Radiotelescopios](023_radiotelescopios.md) — astronomia_general
+- [Espectroscopía astronómica](024_espectroscopia_astronomica.md) — astronomia_general
+- [ALMA](025_alma.md) — astronomia_general
+- [Observatorios del norte de Chile](026_observatorios_del_norte_de_chile.md) — astronomia_general
+- [Aportes de astrónomas y astrónomos chilenos](027_aportes_de_astronomas_y_astronomos_chilenos.md) — astronomia_general
+- [Modelos históricos del cosmos](028_modelos_historicos_del_cosmos.md) — astronomia_general

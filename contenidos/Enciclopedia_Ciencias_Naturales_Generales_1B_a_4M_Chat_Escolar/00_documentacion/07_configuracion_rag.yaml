@@ -1,0 +1,6 @@
+coleccion: ciencias_naturales_generales
+excluir:
+  - '17_compendios/**/*.md'
+chunking:
+  por_encabezados: true
+  max_caracteres: 1500
