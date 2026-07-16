@@ -1,0 +1,1992 @@
+[
+  {
+    "path": "00_documentacion/00_indice_maestro.md",
+    "size": 3075,
+    "sha256": "49639d3fec3ee690700df2136af6d3d1807e88de532b107326634e630abfc482"
+  },
+  {
+    "path": "00_documentacion/00_instalacion.md",
+    "size": 114,
+    "sha256": "0a17b9313e46edd159443409ca82a072adbbd8a38a68bc13847a7b42a374f531"
+  },
+  {
+    "path": "00_documentacion/01_estado_curricular_y_fuentes.md",
+    "size": 344,
+    "sha256": "4cb7874b203c20083406b87bd80d7d9cafed5160a03f2331e7882c4d769af0de"
+  },
+  {
+    "path": "00_documentacion/02_arquitectura_de_contenidos.md",
+    "size": 110,
+    "sha256": "88c6c906753634edc2d86f6c825d17446ed9c5c4462f16cd4e9e2992f3d2f4b7"
+  },
+  {
+    "path": "00_documentacion/03_guia_editorial_geometria.md",
+    "size": 134,
+    "sha256": "a91d0eae0b25dd15681254aeb813954bec6e8934147ef4ab43de883cd31a3496"
+  },
+  {
+    "path": "00_documentacion/04_mapa_vertical_curricular.md",
+    "size": 7991,
+    "sha256": "2e8c81c2f26ed47043d309e90ac59e1720929c22e39cba2a295ef9a8ae482f64"
+  },
+  {
+    "path": "00_documentacion/05_integracion_ollama_rag.md",
+    "size": 106,
+    "sha256": "55c7ccc7505ccde6e983919c65b96bda62a69056b0916c581294b04e0d8f5ed5"
+  },
+  {
+    "path": "00_documentacion/06_prompt_sistema_ollama.md",
+    "size": 87,
+    "sha256": "a52e352d337d27d47b9deb164c60f9b3f3ec5aa1a4d1abdfd4bca03fd8939314"
+  },
+  {
+    "path": "00_documentacion/07_configuracion_rag.yaml",
+    "size": 122,
+    "sha256": "de84da67cd6004a5b8f00171b2068b02e04d713d39238d0f1740912155db411c"
+  },
+  {
+    "path": "01_primero_basico/001_posicion_derecha_e_izquierda.md",
+    "size": 3203,
+    "sha256": "b841ce1359fe65fe94e3248095dfe78855968450826a84341b6563783e1987c8"
+  },
+  {
+    "path": "01_primero_basico/002_arriba_abajo_delante_detras.md",
+    "size": 3197,
+    "sha256": "2500330e6e37b06c42c632d8725ae47a79d35c4dbae99f4ae06cc6b9c76ad04d"
+  },
+  {
+    "path": "01_primero_basico/003_figuras_2d_del_entorno.md",
+    "size": 3162,
+    "sha256": "4dfce49300263b121bed440da522787e711433a83a62bd1e70066ac229b92a69"
+  },
+  {
+    "path": "01_primero_basico/004_circulo.md",
+    "size": 3077,
+    "sha256": "7f55af36105546287b2766f3dddaecd3d6c89af71ca6716b95f6f241a9a8ff9e"
+  },
+  {
+    "path": "01_primero_basico/005_triangulo.md",
+    "size": 3050,
+    "sha256": "f5afc1687cba5a50b6eb72791d78448d87a2905c70b8a133519748495c0b06f1"
+  },
+  {
+    "path": "01_primero_basico/006_cuadrado.md",
+    "size": 3078,
+    "sha256": "6928799927c216b4b775012287fb5fd6448d18b98e4c499594a1e3518e14435c"
+  },
+  {
+    "path": "01_primero_basico/007_rectangulo.md",
+    "size": 3056,
+    "sha256": "ef825acd660ff064ff072de3832d89d3cc23a967052cd37d2e224e092e20fecc"
+  },
+  {
+    "path": "01_primero_basico/008_clasificar_figuras_por_forma.md",
+    "size": 3198,
+    "sha256": "a149e5f8f19a230c033051524fbb5a4133d4ace3764a9898c29a408840481087"
+  },
+  {
+    "path": "01_primero_basico/009_lados_y_esquinas_iniciales.md",
+    "size": 3186,
+    "sha256": "0a533f4b7d8c46d1e62e0380e13a05f9675dab766d6daca180c912b0729a5bcf"
+  },
+  {
+    "path": "01_primero_basico/00_indice_curso.md",
+    "size": 1380,
+    "sha256": "55f309724cccff1a6e2cfc53284253e3035e6c953bce7b1fec97f0c08ee4808e"
+  },
+  {
+    "path": "01_primero_basico/010_componer_figuras_2d.md",
+    "size": 3144,
+    "sha256": "007c6c8c5048a1c707deac99dbf21db966965cebc00b9cdd5bb34a381cdd6d54"
+  },
+  {
+    "path": "01_primero_basico/011_descomponer_figuras_2d.md",
+    "size": 3162,
+    "sha256": "42d02b12e953b1fd46941c2486a4cfb0b3c1185047cdb1aaf2f05be94b59eeb2"
+  },
+  {
+    "path": "01_primero_basico/012_cuerpos_3d_del_entorno.md",
+    "size": 3159,
+    "sha256": "16e6398e52e49a2dcbbad1ce426f82fc1d17c54256f01931f37bb50c549f76ff"
+  },
+  {
+    "path": "01_primero_basico/013_cubo.md",
+    "size": 3054,
+    "sha256": "45ae5741ad49dba58e8d282cd9931bd5aa545ef8b34776c8b5f0cf2e4c18f3c4"
+  },
+  {
+    "path": "01_primero_basico/014_esfera.md",
+    "size": 3063,
+    "sha256": "eccc739305596177e0cb658e48c3882c61a4089b8ef817a4f1edbaca829b760f"
+  },
+  {
+    "path": "01_primero_basico/015_cilindro.md",
+    "size": 3075,
+    "sha256": "d8561cfbde95bd1e38c50d62bf31c7138f60eb0d592c46ecae5ca8340a9a1c79"
+  },
+  {
+    "path": "01_primero_basico/016_cono_inicial.md",
+    "size": 3099,
+    "sha256": "aaed0c27ff276e237112206312a4c8e77dc7d9061052db3c97dc1773b50098b3"
+  },
+  {
+    "path": "01_primero_basico/017_relacionar_figuras_2d_y_3d.md",
+    "size": 3186,
+    "sha256": "d76a68c819d441db9f30beea32f7b449e5bc4938f6c6b088a2b25c75c220b76e"
+  },
+  {
+    "path": "01_primero_basico/018_construcciones_con_bloques.md",
+    "size": 3186,
+    "sha256": "8a4e6ce435b9f355be827651f90ea12d31fd2570369338709a620865c2c68246"
+  },
+  {
+    "path": "01_primero_basico/019_patrones_geometricos.md",
+    "size": 3155,
+    "sha256": "f6b310d3b311d95ef04adb86a78bd9ceadeb574d2500d174bb12a7850120dcfa"
+  },
+  {
+    "path": "01_primero_basico/01_glosario_curso.md",
+    "size": 161,
+    "sha256": "f4e2a874bf242900c6480a479d2933ece82f1319a8741480e8fdcab004cfffbd"
+  },
+  {
+    "path": "01_primero_basico/020_dibujar_recorridos_simples.md",
+    "size": 3186,
+    "sha256": "159d5f19a18e3734045f7faf4cb867ea7de5b03c7297328cda10eddd6617aadd"
+  },
+  {
+    "path": "01_primero_basico/02_banco_preguntas.md",
+    "size": 2563,
+    "sha256": "2ceb6e236a6dedfe91f50f1d956a11f979122a048ada2e336dd5a83d872ffce0"
+  },
+  {
+    "path": "02_segundo_basico/001_posicion_y_puntos_de_referencia.md",
+    "size": 3221,
+    "sha256": "66d42ae4c0fd924fdb4e2a693eb8a23a7a2f9af0853fc5209d0d498d6e932ab8"
+  },
+  {
+    "path": "02_segundo_basico/002_trayectos_en_cuadriculas.md",
+    "size": 3179,
+    "sha256": "f66b9b23d6f8d005b8a5bc99d9044fa63a7ff756f5b1f279082bdbfdb6f348fb"
+  },
+  {
+    "path": "02_segundo_basico/003_figuras_2d_y_atributos.md",
+    "size": 3162,
+    "sha256": "003105c0175ebad79659babaf0545ae3fd281945db10e2a55c1b29dbb910c215"
+  },
+  {
+    "path": "02_segundo_basico/004_lados_y_vertices.md",
+    "size": 3131,
+    "sha256": "9d51e490ab832689a36bd4c8ee1d002c1a1c91276f03fe02f73aa8c6ebefa2b2"
+  },
+  {
+    "path": "02_segundo_basico/005_triangulos_iniciales.md",
+    "size": 3116,
+    "sha256": "e12848e33fc3b59a2a0e466cf93f338e87fbdfb228ea8ceaf380d6134dd7523e"
+  },
+  {
+    "path": "02_segundo_basico/006_cuadrilateros_iniciales.md",
+    "size": 3173,
+    "sha256": "050f99f0239db5561bfff7f9649a0670868b60231f544a51ffa223c2fa56918f"
+  },
+  {
+    "path": "02_segundo_basico/007_circulo_y_circunferencia_inicial.md",
+    "size": 3227,
+    "sha256": "5ff538d4e54f3e4f161939252e7cf99d53e2797d808b78ee6d47417d1fb70a83"
+  },
+  {
+    "path": "02_segundo_basico/008_simetria_inicial.md",
+    "size": 3132,
+    "sha256": "c295d3b98aa1c53228eadd45b5efdde7636a64234def613e99365885f45e94cf"
+  },
+  {
+    "path": "02_segundo_basico/009_mitades_simetricas.md",
+    "size": 3143,
+    "sha256": "5e21fd921aa930acccda20d976a185228c6e50dd69b7ee1ff6597419790a4182"
+  },
+  {
+    "path": "02_segundo_basico/00_indice_curso.md",
+    "size": 1541,
+    "sha256": "02ad1a09ef7fb9984992e2e60e3a95f7a3ddeb02189328b6e828a6fafd5d87ab"
+  },
+  {
+    "path": "02_segundo_basico/010_composicion_de_figuras.md",
+    "size": 3167,
+    "sha256": "fea44a4d4d1163b264880a631d987aaa69638163e33b6b338803cbe2dcb5378a"
+  },
+  {
+    "path": "02_segundo_basico/011_cuerpos_3d.md",
+    "size": 3087,
+    "sha256": "e06c25a5693056feca7b4d3911e8c4440a08de0bc5bd26543b00fcf776300564"
+  },
+  {
+    "path": "02_segundo_basico/012_caras_aristas_y_vertices.md",
+    "size": 3179,
+    "sha256": "f7b97f220a62b6eefb6edeab8327cef7a7b918ff78d46b2d26f1a42a52dbc367"
+  },
+  {
+    "path": "02_segundo_basico/013_cubo_y_paralelepipedo.md",
+    "size": 3161,
+    "sha256": "eab33b046287b18750a0c4e1698f22a50dcc5cef9c50dce39ce8a08c8fd653ab"
+  },
+  {
+    "path": "02_segundo_basico/014_prismas_iniciales.md",
+    "size": 3129,
+    "sha256": "c13bb0700f8699aa4f065c3d5b0aee6c45530c8997d047df45f70f81afa98d6a"
+  },
+  {
+    "path": "02_segundo_basico/015_piramides_iniciales.md",
+    "size": 3146,
+    "sha256": "75163f2d4830078d28a034887d94add1558a5499c1866a8d222a23e43d892db8"
+  },
+  {
+    "path": "02_segundo_basico/016_cilindro_cono_y_esfera.md",
+    "size": 3159,
+    "sha256": "ec2747dff3ac6072e015f72ff3366d0da7302b20a12877dd31d28ac51dec38e6"
+  },
+  {
+    "path": "02_segundo_basico/017_redes_simples.md",
+    "size": 3108,
+    "sha256": "9f9f02e0770cfeee24048227119b3d7d456a79c76dab8a982446887806d12e20"
+  },
+  {
+    "path": "02_segundo_basico/018_construcciones_geometricas.md",
+    "size": 3191,
+    "sha256": "027a9513280c4beb26f37eb4d2bceda4840970cc796a228ed04e4a6865fa90ca"
+  },
+  {
+    "path": "02_segundo_basico/019_longitud_de_bordes_inicial.md",
+    "size": 3186,
+    "sha256": "84a8db4be80bc8d2db98c20dc658008600375255b074c0a37c049b9aa1b6a81a"
+  },
+  {
+    "path": "02_segundo_basico/01_glosario_curso.md",
+    "size": 161,
+    "sha256": "f4e2a874bf242900c6480a479d2933ece82f1319a8741480e8fdcab004cfffbd"
+  },
+  {
+    "path": "02_segundo_basico/020_problemas_espaciales_cotidianos.md",
+    "size": 3216,
+    "sha256": "b7b332dc63456fe18496fe6e67559bb286e5c2a854f88472471aeec3e5af48f1"
+  },
+  {
+    "path": "02_segundo_basico/02_banco_preguntas.md",
+    "size": 2647,
+    "sha256": "6744528f3933441d50300a6a7f4c3d8032baeaaa3272d18800c75c764f246200"
+  },
+  {
+    "path": "03_tercero_basico/001_punto_recta_y_segmento_inicial.md",
+    "size": 3210,
+    "sha256": "c155fb382565fb43be0b8bf6b1e8ebe83e5e4dbe1e08082b315ab82677b387df"
+  },
+  {
+    "path": "03_tercero_basico/002_paralelas_y_perpendiculares_iniciales.md",
+    "size": 3252,
+    "sha256": "0074c12d6f35cb459e31c2269383afdc3f960a6e5769adf938e61184d6d85aa3"
+  },
+  {
+    "path": "03_tercero_basico/003_angulos_como_giros.md",
+    "size": 3104,
+    "sha256": "39cf1589cebe545bf5f9217876047ed8a6c26228d964a23aa84a76925fbeb449"
+  },
+  {
+    "path": "03_tercero_basico/004_figuras_2d.md",
+    "size": 3090,
+    "sha256": "9e2d49042286062afa466fb29e9a0a5a7c2ea025d2662e37cae38f34842f3464"
+  },
+  {
+    "path": "03_tercero_basico/005_clasificacion_de_triangulos_inicial.md",
+    "size": 3211,
+    "sha256": "14ecd8e4f7bd4fe6ba35b46be31393d258bcbbf3e91ffcb7c293b12b1ba3bcc3"
+  },
+  {
+    "path": "03_tercero_basico/006_cuadrilateros.md",
+    "size": 3113,
+    "sha256": "6b6831207a3364bc4ec1a9af983532758bd72708b6c238388b258dfd0ea0d67c"
+  },
+  {
+    "path": "03_tercero_basico/007_poligonos.md",
+    "size": 3089,
+    "sha256": "16cc01c8b461459910975301ed2ac059fda20597a3ca17c9e296cc16dcb545c8"
+  },
+  {
+    "path": "03_tercero_basico/008_perimetro.md",
+    "size": 3092,
+    "sha256": "5b4e35266fc5d35c2e50f0418a20cd6ba296a5a8cb491506ce3a562e7c9be6b3"
+  },
+  {
+    "path": "03_tercero_basico/009_redes_de_cuerpos_3d.md",
+    "size": 3141,
+    "sha256": "5ac32c9f04d4b497641b52f89fec7f2fed4a04a78062421715ab32279f7ca3e4"
+  },
+  {
+    "path": "03_tercero_basico/00_indice_curso.md",
+    "size": 1465,
+    "sha256": "8f478366e4aa94a6ad8d540d01557d9235a5492810551158f4885d46bcd60dcb"
+  },
+  {
+    "path": "03_tercero_basico/010_construir_cuerpos_desde_redes.md",
+    "size": 3201,
+    "sha256": "61eb6f21ede4f6402ce0c16ae4c5d4a1f8717bd618808c34057629ee1518059b"
+  },
+  {
+    "path": "03_tercero_basico/011_caras_aristas_y_vertices.md",
+    "size": 3179,
+    "sha256": "ebc47b4288c03373a2c7c714a6516e2f30d979c9777dd6bc25f5f0e8a8c22a62"
+  },
+  {
+    "path": "03_tercero_basico/012_traslacion.md",
+    "size": 3096,
+    "sha256": "658d014df39d70d8816fb878991ecfa52763f30c02e62a445a1e897d1fbbeff9"
+  },
+  {
+    "path": "03_tercero_basico/013_reflexion.md",
+    "size": 3090,
+    "sha256": "f24f4460e9be59c39bbf4c9e6b23e9c4f5e7c43ca0b414b36273837baa9a7198"
+  },
+  {
+    "path": "03_tercero_basico/014_rotacion.md",
+    "size": 3084,
+    "sha256": "2dae79e6ada1dfb9469bd520a4906a38eddecd535f5664197caeb1021cfaff42"
+  },
+  {
+    "path": "03_tercero_basico/015_reconocer_transformaciones.md",
+    "size": 3183,
+    "sha256": "23bbc89357c435ceb08d28aaa03d00d695c5367b7e22e88afc6286748fe88ea6"
+  },
+  {
+    "path": "03_tercero_basico/016_simetria_axial.md",
+    "size": 3120,
+    "sha256": "a57d5e914394c4f34931fca53c00bff3ed189a14d4c08d52b807c99e7b947725"
+  },
+  {
+    "path": "03_tercero_basico/017_coordenadas_en_cuadricula.md",
+    "size": 3189,
+    "sha256": "47f8c5e743bff40efc669f95d9349b240fc32f3e830ac0557e43747b3024d76f"
+  },
+  {
+    "path": "03_tercero_basico/018_composicion_y_descomposicion.md",
+    "size": 3208,
+    "sha256": "dd7d398d75fbf090b2250f10c38346c7a472845841293f36ab398a0f645e2c7f"
+  },
+  {
+    "path": "03_tercero_basico/019_teselados_iniciales.md",
+    "size": 3145,
+    "sha256": "bcd057e79c74494264319b87d33a28d4cf6d9c6510cb44e9d7fd9df0f0297c04"
+  },
+  {
+    "path": "03_tercero_basico/01_glosario_curso.md",
+    "size": 161,
+    "sha256": "f4e2a874bf242900c6480a479d2933ece82f1319a8741480e8fdcab004cfffbd"
+  },
+  {
+    "path": "03_tercero_basico/020_problemas_de_perimetro.md",
+    "size": 3170,
+    "sha256": "688847d97b8a1ab231be4f711b621dd1da151f8b4e9aad382288def37e87fa6e"
+  },
+  {
+    "path": "03_tercero_basico/02_banco_preguntas.md",
+    "size": 2610,
+    "sha256": "d04b4fe9ba48d015c85e3397815b687a71046bcea46487668616d833b3c57082"
+  },
+  {
+    "path": "04_cuarto_basico/001_rectas_segmentos_y_semirrectas.md",
+    "size": 3210,
+    "sha256": "d37e0431bf6853dcf2d7aa4badab21b93012d3aeb799442149cdc0e5d6f4ac32"
+  },
+  {
+    "path": "04_cuarto_basico/002_angulos_y_medicion_inicial.md",
+    "size": 3157,
+    "sha256": "21e752ba63bd18adf9086790c313e20a022862e69013b1c7bb3faf1b961298dd"
+  },
+  {
+    "path": "04_cuarto_basico/003_angulo_recto_agudo_y_obtuso.md",
+    "size": 3158,
+    "sha256": "31c846e678c00956fb7bcfcd4eed2cfc8534ac33aa678ff9147251a70ce2a887"
+  },
+  {
+    "path": "04_cuarto_basico/004_triangulos_por_lados.md",
+    "size": 3116,
+    "sha256": "3a0c85bdd7cc1d3d54fd243256d19e76c80a7a88456835a04e8ed8c18bf2fe63"
+  },
+  {
+    "path": "04_cuarto_basico/005_triangulos_por_angulos.md",
+    "size": 3133,
+    "sha256": "fe7446c4e9bd55f21ab07358459cfab53580678043a2bb957a167f2419cc63a3"
+  },
+  {
+    "path": "04_cuarto_basico/006_cuadrilateros_y_propiedades.md",
+    "size": 3197,
+    "sha256": "06fbb02d7e1542fa50d4236481db91ba31dc2502f6f17c82bd152156d371c82b"
+  },
+  {
+    "path": "04_cuarto_basico/007_paralelogramos.md",
+    "size": 3114,
+    "sha256": "bc64e8a21c7c735dbbdc0783d0f6720ef059a05a50cf302cd0a70cfd7ad0ed62"
+  },
+  {
+    "path": "04_cuarto_basico/008_trapecios.md",
+    "size": 3084,
+    "sha256": "6c62aa3bb79de8ba3ac163d9303f80c31a7d7ac1a2fcf47de341515defc504fa"
+  },
+  {
+    "path": "04_cuarto_basico/009_poligonos_regulares_e_irregulares.md",
+    "size": 3233,
+    "sha256": "023d27f5b67027c45cff87688807842f0d61f190c10114a387652fa7fa5bd6c7"
+  },
+  {
+    "path": "04_cuarto_basico/00_indice_curso.md",
+    "size": 1844,
+    "sha256": "02974c6a2dd669eac088853a92f34f8a0ce6cfd97443b4446c1e8c0686ad28e0"
+  },
+  {
+    "path": "04_cuarto_basico/010_perimetro_de_poligonos.md",
+    "size": 3175,
+    "sha256": "c89be03d8773ea65f27e49a5f67ce2b1043579e8c3b37e486900fe1c46688217"
+  },
+  {
+    "path": "04_cuarto_basico/011_area_con_cuadrados_unitarios.md",
+    "size": 3178,
+    "sha256": "efec2f5ebe4ca6b1aafe484dc33efcf0a2b450156c5013a9ed9a563771ee9657"
+  },
+  {
+    "path": "04_cuarto_basico/012_area_de_rectangulos.md",
+    "size": 3129,
+    "sha256": "e78b5ab941d6968b9dec57b96fc0d6383e2f719c814385a0b149a186509290df"
+  },
+  {
+    "path": "04_cuarto_basico/013_area_de_figuras_compuestas_inicial.md",
+    "size": 3214,
+    "sha256": "48e882f1975c9e52de64fa7c07e268106954f3f252d5294306f76e0eec719373"
+  },
+  {
+    "path": "04_cuarto_basico/014_plano_cartesiano_inicial.md",
+    "size": 3178,
+    "sha256": "e2084dd3b02a982b2247f854c1a8fe482843cb565ad2b54166a01be7dacd5b58"
+  },
+  {
+    "path": "04_cuarto_basico/015_pares_ordenados.md",
+    "size": 3120,
+    "sha256": "9e6b1a357c233c3837c827c4a4b165d5dff49f5a6d9e95a9297b0b8f8d924036"
+  },
+  {
+    "path": "04_cuarto_basico/016_traslaciones_en_cuadricula.md",
+    "size": 3192,
+    "sha256": "361007c930d6549a7261822671c1081993139cdb121d72491ff156b055870346"
+  },
+  {
+    "path": "04_cuarto_basico/017_reflexiones_en_cuadricula.md",
+    "size": 3186,
+    "sha256": "55c862092df270b57ddbd0de6a331ede86861b681cc0c9737a576c58dad024c6"
+  },
+  {
+    "path": "04_cuarto_basico/018_rotaciones_en_cuadricula.md",
+    "size": 3179,
+    "sha256": "d583adea5f832df27c54bac2a918d3237b194889ff29404a0c5b9ed5e6a3fcb6"
+  },
+  {
+    "path": "04_cuarto_basico/019_simetria.md",
+    "size": 3084,
+    "sha256": "22023c1aabc94bff37336123680eeeb2f6a9df42a1105b825ced678e3f922815"
+  },
+  {
+    "path": "04_cuarto_basico/01_glosario_curso.md",
+    "size": 161,
+    "sha256": "f4e2a874bf242900c6480a479d2933ece82f1319a8741480e8fdcab004cfffbd"
+  },
+  {
+    "path": "04_cuarto_basico/020_cuerpos_geometricos_y_redes.md",
+    "size": 3194,
+    "sha256": "1deb437617a41fb3b59a181673708d3a4ff7b370c6eed39b3e62ff7b04d09d5a"
+  },
+  {
+    "path": "04_cuarto_basico/021_volumen_con_cubos_unitarios.md",
+    "size": 3170,
+    "sha256": "87a8aa323875b052570b4801cb2965375ab9116bb14c2545c0415ea1d0df2707"
+  },
+  {
+    "path": "04_cuarto_basico/022_escalas_simples.md",
+    "size": 3086,
+    "sha256": "0096971a861b58907189368b8bfb4aa782049af8179709347650b0c3c98a8e28"
+  },
+  {
+    "path": "04_cuarto_basico/023_problemas_de_area_y_perimetro.md",
+    "size": 3217,
+    "sha256": "1f373bad15ace20da27082b0ac4eced9b4f491533d19cbd127a2d2856dcb4333"
+  },
+  {
+    "path": "04_cuarto_basico/024_geometria_del_entorno.md",
+    "size": 3161,
+    "sha256": "6ae44c307f52e7984c3b6ee7bc18eb848adaa7d45d2d7ad917afdc336581d0d6"
+  },
+  {
+    "path": "04_cuarto_basico/02_banco_preguntas.md",
+    "size": 3211,
+    "sha256": "0c8b8c227fc3fa5561171603a37244998c6e7d508fea4540ca45cafb55efc681"
+  },
+  {
+    "path": "05_quinto_basico/001_puntos_rectas_y_planos.md",
+    "size": 3165,
+    "sha256": "f3524646d37a349d7eaa677db611b9af12068f452ae0a4d9d2388bd2d5fe15c7"
+  },
+  {
+    "path": "05_quinto_basico/002_rectas_paralelas_perpendiculares_y_secantes.md",
+    "size": 3291,
+    "sha256": "bb00b8d08497a4d5d7d3549cef9fd44d8adcfd8b203b877456d60bd74efc9a84"
+  },
+  {
+    "path": "05_quinto_basico/003_medicion_de_angulos.md",
+    "size": 3118,
+    "sha256": "a1a1f07172011b82a98058fc9758d00b45c0ee92c3280a848ef8bc665f9bc444"
+  },
+  {
+    "path": "05_quinto_basico/004_construccion_de_angulos.md",
+    "size": 3141,
+    "sha256": "a530cd6a369e477365119bc342e9a213b993def1209ec69a9993cf9279a3ae5b"
+  },
+  {
+    "path": "05_quinto_basico/005_triangulos_y_clasificacion.md",
+    "size": 3160,
+    "sha256": "b36eb3d9ca6795b069b8654229214f99addd232b44b202c72f51840b3549628d"
+  },
+  {
+    "path": "05_quinto_basico/006_suma_de_angulos_del_triangulo_inicial.md",
+    "size": 3226,
+    "sha256": "332606db92a9bed4cf39a70a238ec3d757497faa6c676355298bdef2babead7b"
+  },
+  {
+    "path": "05_quinto_basico/007_cuadrilateros.md",
+    "size": 3116,
+    "sha256": "572c4e8f30b3341e894e67011f2b765d079865066ed09d8b7da5c9c020f75805"
+  },
+  {
+    "path": "05_quinto_basico/008_poligonos.md",
+    "size": 3092,
+    "sha256": "d7c62ab54641c6a60d288bdfb8761efaf80137882a0c76899b6f3e4490e89aef"
+  },
+  {
+    "path": "05_quinto_basico/009_congruencia.md",
+    "size": 3103,
+    "sha256": "be22272fe974d42fbe3422819b22c75953c2ec36cb26087ff11947d3d26a88ab"
+  },
+  {
+    "path": "05_quinto_basico/00_indice_curso.md",
+    "size": 1729,
+    "sha256": "99d5cd750210d761247dfc58a4d9545fc87112482732ea8400feb5d9d190a2c0"
+  },
+  {
+    "path": "05_quinto_basico/010_traslacion.md",
+    "size": 3099,
+    "sha256": "3ad8e4fd16de6fe42e670396beab65b15037c35e9b4c2deb02a6de832045a3d8"
+  },
+  {
+    "path": "05_quinto_basico/011_reflexion.md",
+    "size": 3093,
+    "sha256": "048d1986cb9a5d34b17c16094e8ca28996e76d47c82d026bb2e179847c8fb3f8"
+  },
+  {
+    "path": "05_quinto_basico/012_rotacion.md",
+    "size": 3087,
+    "sha256": "26dad6ef60740188752263dee3d12afba2003613649c5d23157f4782b0920a0b"
+  },
+  {
+    "path": "05_quinto_basico/013_congruencia_mediante_transformaciones.md",
+    "size": 3259,
+    "sha256": "b0b4e09ca9fe4c43511ad84bae51b41d12cd842946b00bfc510e1c937a1de0ce"
+  },
+  {
+    "path": "05_quinto_basico/014_plano_cartesiano.md",
+    "size": 3133,
+    "sha256": "f68a3c86c949a74399698bea28941aaaf2cfad2d8fadd140383cd352605ccdf1"
+  },
+  {
+    "path": "05_quinto_basico/015_patrones_en_el_plano.md",
+    "size": 3153,
+    "sha256": "e3a30dd0f066b58eda6915d60dc41423c7d947be37f9d6e75005b3122a3c1a03"
+  },
+  {
+    "path": "05_quinto_basico/016_perimetro.md",
+    "size": 3095,
+    "sha256": "9741c073c76458996feaa495ee8e7d1865bb41e8d25a4cb73a765c6419962dfd"
+  },
+  {
+    "path": "05_quinto_basico/017_area_de_rectangulos.md",
+    "size": 3132,
+    "sha256": "9c1847cdfd6c004eaabb51736f04ca601e681010536c64ce26ea036697e0746d"
+  },
+  {
+    "path": "05_quinto_basico/018_area_de_triangulos_inicial.md",
+    "size": 3174,
+    "sha256": "0fef504a3970b78e1890bc81a7c09673d90db7d3b3e28c54fe4e5d05bece6bbd"
+  },
+  {
+    "path": "05_quinto_basico/019_area_de_paralelogramos_inicial.md",
+    "size": 3193,
+    "sha256": "fc59858ec156ca3ff2094ee1f3c8a15ca44f64a5237798cf14cb2054817b7db5"
+  },
+  {
+    "path": "05_quinto_basico/01_glosario_curso.md",
+    "size": 161,
+    "sha256": "f4e2a874bf242900c6480a479d2933ece82f1319a8741480e8fdcab004cfffbd"
+  },
+  {
+    "path": "05_quinto_basico/020_volumen_de_prismas_con_cubos.md",
+    "size": 3172,
+    "sha256": "c6715aec9574acc6fcc9ae2aa44f48327b6ff171cb6ee136bb0dc3653b4f2247"
+  },
+  {
+    "path": "05_quinto_basico/021_redes_de_prismas.md",
+    "size": 3126,
+    "sha256": "f16f404d1cccfd79988c105bd15db679ed7dd2adb222634ba7d07a109be49dfe"
+  },
+  {
+    "path": "05_quinto_basico/022_escalas_y_mapas.md",
+    "size": 3089,
+    "sha256": "8cd50da20807dd929aeb4641f5ad86748402aab13a58f23a47552a302a7b848f"
+  },
+  {
+    "path": "05_quinto_basico/023_diseno_con_figuras.md",
+    "size": 3146,
+    "sha256": "f744f564b969a0187b5ecce5731a4d196def8e2458b7e166cebc6670a8c11ef3"
+  },
+  {
+    "path": "05_quinto_basico/024_problemas_geometricos_aplicados.md",
+    "size": 3224,
+    "sha256": "24e672d9b8622770c12e39266a53fd8d2e6b5d412c89045836269747dcf8497a"
+  },
+  {
+    "path": "05_quinto_basico/02_banco_preguntas.md",
+    "size": 3153,
+    "sha256": "47e79303004bbfacac2eb95c76d19ce334559c32267e808633a23ac41e30e8f7"
+  },
+  {
+    "path": "06_sexto_basico/001_construccion_de_angulos_con_regla_y_compas.md",
+    "size": 3260,
+    "sha256": "1a23050c725dbd59a02afd627ac28530253adf9eb80725fb32387dbc7133c381"
+  },
+  {
+    "path": "06_sexto_basico/002_angulos_opuestos_por_el_vertice.md",
+    "size": 3190,
+    "sha256": "5617da2466c6c303f3f22b54c717fdf5944976e5e6f0a74ee485915c29565342"
+  },
+  {
+    "path": "06_sexto_basico/003_angulos_complementarios.md",
+    "size": 3137,
+    "sha256": "45acab170fbd6507fadbe41203ebd2b1b854af6e401228e193e8c3f617121e40"
+  },
+  {
+    "path": "06_sexto_basico/004_angulos_suplementarios.md",
+    "size": 3131,
+    "sha256": "f00cda53f3de849159ee54ea0a185960aeb46da3cc2c4629425464d7de177228"
+  },
+  {
+    "path": "06_sexto_basico/005_paralelas_cortadas_por_transversal.md",
+    "size": 3237,
+    "sha256": "07e70209f52a40736fa0854e03a0c5dbcdef86cc76bf3d102c7b199cc7fcb910"
+  },
+  {
+    "path": "06_sexto_basico/006_angulos_interiores_de_triangulos.md",
+    "size": 3196,
+    "sha256": "13efd9a605af11af40554a50e38e65b3b17e7a3f7544cf9a30028a080b9c1eeb"
+  },
+  {
+    "path": "06_sexto_basico/007_angulos_interiores_de_cuadrilateros.md",
+    "size": 3214,
+    "sha256": "19dfd963137a7370f1f3927e6d5982a3eb6342886a2589b52f46d6954b990f6e"
+  },
+  {
+    "path": "06_sexto_basico/008_triangulos_y_construcciones.md",
+    "size": 3161,
+    "sha256": "792c9c0722c0a4d3e4b045886d045e6750f6578dc0d23962993566904e84d224"
+  },
+  {
+    "path": "06_sexto_basico/009_bisectriz.md",
+    "size": 3086,
+    "sha256": "3bb371b61e5b142ed59cbe3c5335fd474d67a3e0ee9ff18bc0fddca64863c132"
+  },
+  {
+    "path": "06_sexto_basico/00_indice_curso.md",
+    "size": 2001,
+    "sha256": "6f38a83184e2af8018f14f86cfcc313b20e33325530c56407be9ead5605fe129"
+  },
+  {
+    "path": "06_sexto_basico/010_mediatriz.md",
+    "size": 3086,
+    "sha256": "ed8504b1177865e462ef50abeb5e2adcb6e29ec4923ac1829ba3d3232f6db621"
+  },
+  {
+    "path": "06_sexto_basico/011_alturas_de_triangulos.md",
+    "size": 3124,
+    "sha256": "5169736bf5e88f4e2f01e88f9ed4d710db1c6b44a5b1e880b9d9240a02d4cbc6"
+  },
+  {
+    "path": "06_sexto_basico/012_teselados.md",
+    "size": 3088,
+    "sha256": "42ce97c48cb5757e02b42f65c2753956ec75b1f0eb3bcd7a5441af095060d130"
+  },
+  {
+    "path": "06_sexto_basico/013_traslacion_reflexion_y_rotacion.md",
+    "size": 3235,
+    "sha256": "f45a6b83f7493325beb1fe85efff2daf7ea0b67407e1b44bdbd1f839f8b6a3cc"
+  },
+  {
+    "path": "06_sexto_basico/014_congruencia.md",
+    "size": 3103,
+    "sha256": "8e57ae59e7387b0d7fad2c442068eb0eb58e96942c351d2a741cbe803d406a1f"
+  },
+  {
+    "path": "06_sexto_basico/015_plano_cartesiano.md",
+    "size": 3133,
+    "sha256": "52c8fb6f17df42cc40d24e301a56d06c1b31982130011304bc0b73c4b9e9e515"
+  },
+  {
+    "path": "06_sexto_basico/016_area_de_triangulos.md",
+    "size": 3126,
+    "sha256": "41db640c3e48a98d373bc7ec55ccfefe257bbb6ad7b5cb601ca05a23f232e43b"
+  },
+  {
+    "path": "06_sexto_basico/017_area_de_paralelogramos.md",
+    "size": 3145,
+    "sha256": "ddf1b76b6ee4f70ae849f18e6aef1677eda5f61c2d825cd9c6495b0bad67f57d"
+  },
+  {
+    "path": "06_sexto_basico/018_area_de_trapecios_inicial.md",
+    "size": 3163,
+    "sha256": "e6886248c9c323f7fd16ce64fca18715185dc5da6a8e938239dd8b81c0b1ee57"
+  },
+  {
+    "path": "06_sexto_basico/019_area_de_superficie_de_cubos.md",
+    "size": 3175,
+    "sha256": "e1f7e18414629aacbec0dda44b0bb149f8653eb2f703e88e5a7d4579b28ef1fa"
+  },
+  {
+    "path": "06_sexto_basico/01_glosario_curso.md",
+    "size": 161,
+    "sha256": "f4e2a874bf242900c6480a479d2933ece82f1319a8741480e8fdcab004cfffbd"
+  },
+  {
+    "path": "06_sexto_basico/020_area_de_superficie_de_paralelepipedos.md",
+    "size": 3240,
+    "sha256": "c7f7f0992ec647632ac7e3a20df0e87e1a1e1376d266b86ed8114edb8f15c628"
+  },
+  {
+    "path": "06_sexto_basico/021_volumen_de_cubos.md",
+    "size": 3107,
+    "sha256": "7814dca8700caaf484f429e7e24f609c7948119c54a6cb5cd4ec0aac11bdf93f"
+  },
+  {
+    "path": "06_sexto_basico/022_volumen_de_paralelepipedos.md",
+    "size": 3172,
+    "sha256": "4d47ef5bbfed27d038abcfffe3255952be77ad6624a42bddf8812f3b34eb1e2b"
+  },
+  {
+    "path": "06_sexto_basico/023_redes_y_desarrollos_planos.md",
+    "size": 3189,
+    "sha256": "50ceb9a5551d50a2b763074fa7d9fdefe3690e27c5219169e09a5831e3c24e50"
+  },
+  {
+    "path": "06_sexto_basico/024_escalas.md",
+    "size": 3041,
+    "sha256": "9abc74db84827c7e57c9a996762f5d996fcca9a458dabca4edf865f3a97ec0ba"
+  },
+  {
+    "path": "06_sexto_basico/025_problemas_de_superficie_y_volumen.md",
+    "size": 3209,
+    "sha256": "8b4c5320168df3b5c8a53dc53610e42338b32ec109050d15daea94b01d5f849a"
+  },
+  {
+    "path": "06_sexto_basico/026_uso_de_software_geometrico.md",
+    "size": 3194,
+    "sha256": "4d8e6186ea7aa7df7bdaad06aa2c06a98b5e4cf693ee03db48294bd9deb8a37d"
+  },
+  {
+    "path": "06_sexto_basico/02_banco_preguntas.md",
+    "size": 3495,
+    "sha256": "62f8255a8865848e00dba228fa63806fa7ab8d909fcf7d6afa046465c49c07aa"
+  },
+  {
+    "path": "07_septimo_basico/001_rectas_paralelas_y_perpendiculares.md",
+    "size": 3237,
+    "sha256": "738f6d082a67073d0dfc838586f503f81142660d479ec3f82f0453b5446770c6"
+  },
+  {
+    "path": "07_septimo_basico/002_bisectrices.md",
+    "size": 3099,
+    "sha256": "e49ae87841546e9d21e53ad3166e84647f678dcea8b6367c8cd1156ab1a2c7a9"
+  },
+  {
+    "path": "07_septimo_basico/003_mediatrices.md",
+    "size": 3099,
+    "sha256": "3b7140692f671ab39e867bf7d819f73c78dad9ec4790eeab2edd332143954b24"
+  },
+  {
+    "path": "07_septimo_basico/004_alturas_de_triangulos.md",
+    "size": 3124,
+    "sha256": "2255a756bf1649c8d41f1cf3eeed740e37851828d240e2a3b3688eeeb16f7dc4"
+  },
+  {
+    "path": "07_septimo_basico/005_medianas.md",
+    "size": 3080,
+    "sha256": "4cb4287d2b9b8db0ac34bcc4dc84e60310bdeb6a17154a3ec8d2f54c0540d5eb"
+  },
+  {
+    "path": "07_septimo_basico/006_centro_de_gravedad.md",
+    "size": 3141,
+    "sha256": "2182573e7f34501dfdb384b360ebe679b26e541ebf2cf100af9900d3e1147977"
+  },
+  {
+    "path": "07_septimo_basico/007_incentro.md",
+    "size": 3080,
+    "sha256": "97f02072e7e5c328a0e4d78f5b7b978d52fffee7c4c010d63044f478196a43cd"
+  },
+  {
+    "path": "07_septimo_basico/008_circuncentro.md",
+    "size": 3104,
+    "sha256": "be6d3b8f4886d6be0aa9f05818eac766792407386901c1972dddb197c406fbc0"
+  },
+  {
+    "path": "07_septimo_basico/009_construccion_de_triangulos.md",
+    "size": 3159,
+    "sha256": "7bbb211c7cdb55c1e0f06dcb639202fc52512aa4a08b2c7cbfc24255bc1d624b"
+  },
+  {
+    "path": "07_septimo_basico/00_indice_curso.md",
+    "size": 1893,
+    "sha256": "d010522e3633571d10f1f971d8bd488b3ef86b650cf07a132d9da0c56b4fc026"
+  },
+  {
+    "path": "07_septimo_basico/010_congruencia_de_triangulos.md",
+    "size": 3153,
+    "sha256": "13411d41e6734e599760eee81d52ed20ebd9b65be0ee8eff15c43d2495748139"
+  },
+  {
+    "path": "07_septimo_basico/011_criterios_de_congruencia_iniciales.md",
+    "size": 3241,
+    "sha256": "f70a948a6078a71a72217d2bfe1f1a0866888835ba0ca7dc94dc76a3ea480fa8"
+  },
+  {
+    "path": "07_septimo_basico/012_cuadrilateros_congruentes.md",
+    "size": 3192,
+    "sha256": "f9b24c06cf2ccaf9d91683c1a5b95ce9f1f520ee220cedb35375085dd4f5551b"
+  },
+  {
+    "path": "07_septimo_basico/013_circulo_y_circunferencia.md",
+    "size": 3182,
+    "sha256": "34fdc2f72902bbd939f5bc670e1d8b2814e9a757bb833fa4ce079e8fdf5c8f81"
+  },
+  {
+    "path": "07_septimo_basico/014_radio_diametro_y_cuerda.md",
+    "size": 3176,
+    "sha256": "5a40e8ba2b64d795dd23cbfff04cd916d6db243b5dd2bc674164e2d7014233d7"
+  },
+  {
+    "path": "07_septimo_basico/015_perimetro_de_la_circunferencia.md",
+    "size": 3221,
+    "sha256": "6f292e20f050f36d1d0d6414c5724a205676860197bfc8f92495060e6573a1a2"
+  },
+  {
+    "path": "07_septimo_basico/016_area_del_circulo.md",
+    "size": 3114,
+    "sha256": "e5583e590e06271d4f33fe457a15d91dd8d36ceb038974f6c19d1b1f61b13263"
+  },
+  {
+    "path": "07_septimo_basico/017_circulo_como_lugar_geometrico.md",
+    "size": 3217,
+    "sha256": "a2aaed92a5e7af45c2e1bf0981f5490b6dbfad0ee571c39dfbc03101358a17cc"
+  },
+  {
+    "path": "07_septimo_basico/018_area_de_triangulos.md",
+    "size": 3126,
+    "sha256": "72fdd578d02a882080646fe788c4477051dbc221c3c3093619371be0d22a5031"
+  },
+  {
+    "path": "07_septimo_basico/019_area_de_paralelogramos.md",
+    "size": 3145,
+    "sha256": "0384dc2f7f1da778e36f2bba34cabab066ebc6188ecb9609e45f956f9f6c9839"
+  },
+  {
+    "path": "07_septimo_basico/01_glosario_curso.md",
+    "size": 161,
+    "sha256": "f4e2a874bf242900c6480a479d2933ece82f1319a8741480e8fdcab004cfffbd"
+  },
+  {
+    "path": "07_septimo_basico/020_area_de_trapecios.md",
+    "size": 3115,
+    "sha256": "f327d6cb97989e9b51a537aa9d632abcfcb97679f9a6267abc96851e05b9e3fa"
+  },
+  {
+    "path": "07_septimo_basico/021_puntos_y_vectores_iniciales.md",
+    "size": 3199,
+    "sha256": "2963419f170439845a56bc17493975fc1f123db9fb1bf59578fb40174f1bc445"
+  },
+  {
+    "path": "07_septimo_basico/022_plano_cartesiano.md",
+    "size": 3133,
+    "sha256": "34921b55c3836062526de7598a0b3cb29d57ff889ec19368e62934f83f459fb0"
+  },
+  {
+    "path": "07_septimo_basico/023_traslaciones_con_vectores.md",
+    "size": 3184,
+    "sha256": "53d1e95754b42897b3bb9a5a513cd97e47f31e0afab180994dbed86331340f52"
+  },
+  {
+    "path": "07_septimo_basico/024_problemas_de_construccion.md",
+    "size": 3187,
+    "sha256": "67747e837048190548579ec933d5c9bb660cfd9d81208a49eee325d93972e422"
+  },
+  {
+    "path": "07_septimo_basico/025_geometria_en_arte_y_diseno.md",
+    "size": 3199,
+    "sha256": "7ebf325e7007891863bc8ecf3f08e4e4e4bd0ed74da85f53fbe2300cb834c554"
+  },
+  {
+    "path": "07_septimo_basico/026_argumentacion_geometrica_inicial.md",
+    "size": 3235,
+    "sha256": "8616df2f3dcf1a7a39e5f94ae45a7a8a909d7d30afe3fcfb0a46166e456be410"
+  },
+  {
+    "path": "07_septimo_basico/02_banco_preguntas.md",
+    "size": 3439,
+    "sha256": "5806e79d455602539513069ffc42478116fe431ba21bfdcbc59992c202479406"
+  },
+  {
+    "path": "08_octavo_basico/001_teorema_de_pitagoras.md",
+    "size": 3162,
+    "sha256": "f24ea965891a387415fe257037402e3bc6e32dac362a3edae19ecdab2867fe25"
+  },
+  {
+    "path": "08_octavo_basico/002_demostracion_pictorica_de_pitagoras.md",
+    "size": 3262,
+    "sha256": "179197e3713c9f7f690d80b5b82933ba6bc6146d3e0a62759945c311efa55164"
+  },
+  {
+    "path": "08_octavo_basico/003_aplicaciones_de_pitagoras.md",
+    "size": 3192,
+    "sha256": "dfc834d662cba2072e6d2dbfd4e69c70280020d4f06426788ec91a88cf873fe8"
+  },
+  {
+    "path": "08_octavo_basico/004_distancia_en_el_plano_inicial.md",
+    "size": 3207,
+    "sha256": "8b418957752afc4325ea4dcbad1bf26609e30bf0b4797923d25c0e4b7f908264"
+  },
+  {
+    "path": "08_octavo_basico/005_prismas_rectos.md",
+    "size": 3114,
+    "sha256": "de10292ec194d18ada550bed2bafe6d3ad8135daaa29396bcb545535ecddda3d"
+  },
+  {
+    "path": "08_octavo_basico/006_area_de_prismas.md",
+    "size": 3096,
+    "sha256": "4be8e3dd7f3c3b6fa342e195e64ec67bf8dcd954bff3c8684128b126beefef30"
+  },
+  {
+    "path": "08_octavo_basico/007_volumen_de_prismas.md",
+    "size": 3112,
+    "sha256": "6dc1b2238fa8dbc0dd91e042602db536453e2bf944605ee8e7dc1936353f5991"
+  },
+  {
+    "path": "08_octavo_basico/008_cilindros.md",
+    "size": 3084,
+    "sha256": "364226696a8709bb9826f25c120f5127b2f70da00f197b7dcd63850808c47036"
+  },
+  {
+    "path": "08_octavo_basico/009_area_de_cilindros.md",
+    "size": 3108,
+    "sha256": "19b4f95a3f24496100d15cbf2e172114d9631310410f1c6f21238a46a5418fce"
+  },
+  {
+    "path": "08_octavo_basico/00_indice_curso.md",
+    "size": 1943,
+    "sha256": "c2c666da20266090b9fe761ec8a7ff321c7d668e9f3cd13d46fc34402a1a434f"
+  },
+  {
+    "path": "08_octavo_basico/010_volumen_de_cilindros.md",
+    "size": 3124,
+    "sha256": "2c4dd3daeade869a6660f1b1fbe7a7827d552d2f408341c5ace24e37e1e9b6dd"
+  },
+  {
+    "path": "08_octavo_basico/011_posicion_en_el_plano_cartesiano.md",
+    "size": 3228,
+    "sha256": "047712fb4a4ea88957771cd66d53f6efe62ba0ffd61c6bfd23b933c85f668a33"
+  },
+  {
+    "path": "08_octavo_basico/012_vectores_de_traslacion.md",
+    "size": 3171,
+    "sha256": "2a80a6e68b510a0aca262e93cc37a6eaa867fb3dd2a5d2e19e592e1fa66ef273"
+  },
+  {
+    "path": "08_octavo_basico/013_reflexion_respecto_de_ejes.md",
+    "size": 3195,
+    "sha256": "774450cdc9e0709d6adfe9777442229afc62bd9148266a33ca769691c83adc3e"
+  },
+  {
+    "path": "08_octavo_basico/014_rotacion_respecto_de_un_punto.md",
+    "size": 3213,
+    "sha256": "1d94ca941007630a005970c52d928eb768d04414d38f91f2fb94efd4aab71ae2"
+  },
+  {
+    "path": "08_octavo_basico/015_composicion_de_transformaciones.md",
+    "size": 3224,
+    "sha256": "b71c055cc629ffdbbe78614a3afd3c655d0831e0bb4acaece257b1bd8e3df4b9"
+  },
+  {
+    "path": "08_octavo_basico/016_simetrias_de_poligonos.md",
+    "size": 3176,
+    "sha256": "2168ac2dbb632633574ed2c72166ad2973e03032f969595e0172a982df193636"
+  },
+  {
+    "path": "08_octavo_basico/017_simetrias_de_poliedros.md",
+    "size": 3167,
+    "sha256": "16186a5220d42514530b79d99099767307c52786155a056219ed20aa7eecae63"
+  },
+  {
+    "path": "08_octavo_basico/018_homotecia_inicial.md",
+    "size": 3136,
+    "sha256": "a5332ba59ebe4c57d371024c93c157e18ad2706a564afded9d9aa52a15427818"
+  },
+  {
+    "path": "08_octavo_basico/019_semejanza_inicial.md",
+    "size": 3105,
+    "sha256": "219704ace732758baabe70d3d7bbd25b70c00dcc99973a1322349ad19bd32538"
+  },
+  {
+    "path": "08_octavo_basico/01_glosario_curso.md",
+    "size": 161,
+    "sha256": "f4e2a874bf242900c6480a479d2933ece82f1319a8741480e8fdcab004cfffbd"
+  },
+  {
+    "path": "08_octavo_basico/020_razon_de_semejanza.md",
+    "size": 3116,
+    "sha256": "0f766f01e4af7fa24df240f92b89bfe54b186b6e2f505f1ee459db28516a2059"
+  },
+  {
+    "path": "08_octavo_basico/021_escalas_y_maquetas.md",
+    "size": 3107,
+    "sha256": "140d859255d3d50444da60a690b76f4512b8b5f831fbff821b733b87dfeeeb21"
+  },
+  {
+    "path": "08_octavo_basico/022_coordenadas_y_movimientos.md",
+    "size": 3187,
+    "sha256": "55b65740fee6d4059425991bf5ce911e931fc2e3b0d4038238978c8936b2fd2e"
+  },
+  {
+    "path": "08_octavo_basico/023_construcciones_con_software.md",
+    "size": 3195,
+    "sha256": "a45833539954514b417d7db691d9cedfcdd9f3d8fd5d1cdabf746fc3fa094090"
+  },
+  {
+    "path": "08_octavo_basico/024_geometria_aplicada_al_arte.md",
+    "size": 3194,
+    "sha256": "1ded4ec4973d13dff708daa38e326051e663c0f80529d4abb0ac8a2c65b38182"
+  },
+  {
+    "path": "08_octavo_basico/025_problemas_espaciales.md",
+    "size": 3153,
+    "sha256": "02383f27c4f0bfafb2f921693d0a3377f1bf68d9c7e4bbc70d9ffc7d5efc6bfb"
+  },
+  {
+    "path": "08_octavo_basico/026_validacion_de_resultados_geometricos.md",
+    "size": 3259,
+    "sha256": "9dad6d6884b97eb3afee666d56514f6c162a66e8abe46c996fb7d36ccf5dd2d6"
+  },
+  {
+    "path": "08_octavo_basico/02_banco_preguntas.md",
+    "size": 3463,
+    "sha256": "7ea692b986ab747a2fcf82ac9878108ca3add979b4a53666c0ebd68d07451755"
+  },
+  {
+    "path": "09_primero_medio/001_semejanza_de_figuras.md",
+    "size": 3117,
+    "sha256": "c9eda5ddc200c448af2a5bcda80ca2f515bb14418d5b5e19a22b5d82426e22b4"
+  },
+  {
+    "path": "09_primero_medio/002_criterios_de_semejanza_de_triangulos.md",
+    "size": 3213,
+    "sha256": "dd7843a4fbbf103d90f03b8725d3e0d3f710ab4b9b9467f367991bef8f92bc27"
+  },
+  {
+    "path": "09_primero_medio/003_teorema_de_tales.md",
+    "size": 3127,
+    "sha256": "11ef0acb58181a76cb13956aa5d51e3cdbb281fca76ec84ef93add8a1dc74edf"
+  },
+  {
+    "path": "09_primero_medio/004_division_proporcional_de_segmentos.md",
+    "size": 3236,
+    "sha256": "449a9fb20f115c67cc9234c208dcfbe4159d1287ab63b6c5ede43ee01f289368"
+  },
+  {
+    "path": "09_primero_medio/005_homotecia.md",
+    "size": 3082,
+    "sha256": "9cf2d5c529a7ab6a4606762cc30c4446fce3da79a9fe1c4d631500bc94b8ff06"
+  },
+  {
+    "path": "09_primero_medio/006_razon_de_homotecia.md",
+    "size": 3141,
+    "sha256": "4784ab6d4924cd9f7fa0eebb6a25ee963f21c9d9bca5fd92349a6ece1f62414b"
+  },
+  {
+    "path": "09_primero_medio/007_aplicaciones_de_escala.md",
+    "size": 3125,
+    "sha256": "897d6c7c5aa353aeb2287f862234af67930d1d33c1860a40f1dbc2f24a402c3a"
+  },
+  {
+    "path": "09_primero_medio/008_teorema_de_pitagoras_avanzado.md",
+    "size": 3210,
+    "sha256": "f4cde7af4d065d6ea3cbe4c72e4a9d7ba6c9abd1670ee10fc2013c0264739aaf"
+  },
+  {
+    "path": "09_primero_medio/009_distancia_entre_puntos.md",
+    "size": 3159,
+    "sha256": "58b66dc3e0a9380729a30f9b53f681daf9ef347de84bc132b24023d7acdeb6e7"
+  },
+  {
+    "path": "09_primero_medio/00_indice_curso.md",
+    "size": 2210,
+    "sha256": "9d4b20bd8b32946e9a7a45a8516788bb1a781203c4a0fd1ea620d1b7478d68be"
+  },
+  {
+    "path": "09_primero_medio/010_punto_medio.md",
+    "size": 3093,
+    "sha256": "f033b2781794dd999c575182045b051493f020e32ac5690dd82d1175fe509743"
+  },
+  {
+    "path": "09_primero_medio/011_pendiente_geometrica_inicial.md",
+    "size": 3204,
+    "sha256": "b5f648f1c5bee32523cd282489ba63bb6efceb3d07e23d2cab394c18d07781dc"
+  },
+  {
+    "path": "09_primero_medio/012_vectores_en_el_plano.md",
+    "size": 3151,
+    "sha256": "c1e8e5bc45229f9bdad3d3b020a7207ce1121662378b72802a7aed0e7e261b99"
+  },
+  {
+    "path": "09_primero_medio/013_suma_de_vectores.md",
+    "size": 3127,
+    "sha256": "5bacd056accea65aef3a03fc72b9b5a43f87f7059056792450d7ec64e24e43b8"
+  },
+  {
+    "path": "09_primero_medio/014_transformaciones_isometricas.md",
+    "size": 3200,
+    "sha256": "98c80932143ce9b126306211f59105d66e3ff23d76db58f64b630eacbbbfdd6a"
+  },
+  {
+    "path": "09_primero_medio/015_composicion_de_transformaciones.md",
+    "size": 3218,
+    "sha256": "f3f6a164545f9135692286f43917a7945ef42749ec0d8f22178790df64b861f5"
+  },
+  {
+    "path": "09_primero_medio/016_congruencia_y_semejanza.md",
+    "size": 3135,
+    "sha256": "1562f0ef39edf5d7b82ac176f4c726b662bd1f804979622ff5b7d47954e452c8"
+  },
+  {
+    "path": "09_primero_medio/017_perimetro_y_area_de_figuras_semejantes.md",
+    "size": 3268,
+    "sha256": "43dcff0742d646e210d38dc680a73f20c7313e9889728b4eaccde136dd68341e"
+  },
+  {
+    "path": "09_primero_medio/018_volumen_de_cuerpos_semejantes.md",
+    "size": 3172,
+    "sha256": "6a242bf5b24dcec473d2e87fb3b7eb7c0ab96100c9a3976c83ad0f488259c084"
+  },
+  {
+    "path": "09_primero_medio/019_trigonometria_inicial.md",
+    "size": 3162,
+    "sha256": "8fcbe506fee7007fe04aa43d1ecb9635097f82946df56dd28f2256e5fd7cda47"
+  },
+  {
+    "path": "09_primero_medio/01_glosario_curso.md",
+    "size": 161,
+    "sha256": "f4e2a874bf242900c6480a479d2933ece82f1319a8741480e8fdcab004cfffbd"
+  },
+  {
+    "path": "09_primero_medio/020_seno_coseno_y_tangente.md",
+    "size": 3159,
+    "sha256": "fbc7afb4d9b29ee2a79b0a4e87ade8ad31129e7aa94ff252f26d2f1558a5f304"
+  },
+  {
+    "path": "09_primero_medio/021_resolucion_de_triangulos_rectangulos.md",
+    "size": 3219,
+    "sha256": "55f96c76c0cfc8a8b38c4d6c51307d42a942b3d6303fea4e66ae2a101075aaa5"
+  },
+  {
+    "path": "09_primero_medio/022_angulos_de_elevacion_y_depresion.md",
+    "size": 3195,
+    "sha256": "9d0f0d53e0debc0ea1a5c33d8c0f80cd65c6322ab75ec4c6d39004b2d96e65e6"
+  },
+  {
+    "path": "09_primero_medio/023_circunferencia_en_el_plano.md",
+    "size": 3183,
+    "sha256": "1ad6644ae7393181944e9451312252dbef7cd56cb23dca224e3cf52bdf236469"
+  },
+  {
+    "path": "09_primero_medio/024_ecuacion_inicial_de_la_circunferencia.md",
+    "size": 3258,
+    "sha256": "77d50a581517958db9e5fa8c1fdf82b2af6a0db71b8004822f8e1ff14bc2cd6b"
+  },
+  {
+    "path": "09_primero_medio/025_geometria_de_coordenadas.md",
+    "size": 3180,
+    "sha256": "58e8981a9e88f6c78294dae36e4d28a687d57fbc0ffb7c9cbdce2777823d57af"
+  },
+  {
+    "path": "09_primero_medio/026_problemas_de_medicion_indirecta.md",
+    "size": 3218,
+    "sha256": "fd798c877b31d39bd8faee74b94a3d12267d91c33bb9a0cd5951729911f2ecff"
+  },
+  {
+    "path": "09_primero_medio/027_diseno_y_arquitectura.md",
+    "size": 3158,
+    "sha256": "aa1e45bf3bb11609ca6374a26a3637540515c53e4eb2c60fe6183b203d496a61"
+  },
+  {
+    "path": "09_primero_medio/028_uso_de_tecnologia_geometrica.md",
+    "size": 3205,
+    "sha256": "98bb22a8afc68dd8dc0a79f41b81eb99d2de89857d3baa2d3decd28ef61df6df"
+  },
+  {
+    "path": "09_primero_medio/02_banco_preguntas.md",
+    "size": 3803,
+    "sha256": "8957d886de4cdd029f0d6db6dce3f8002104c2bc4cc885e4ae1a844c1d226432"
+  },
+  {
+    "path": "10_segundo_medio/001_geometria_analitica.md",
+    "size": 3151,
+    "sha256": "132c1c614a8adaac85fdc8da48e04c43066fc18533bd23aad98774259ae63bf3"
+  },
+  {
+    "path": "10_segundo_medio/002_distancia_entre_puntos.md",
+    "size": 3159,
+    "sha256": "d81d9cbf9f50498fba5fffe8653e1ebf54f2606b20949f983e311af040c66257"
+  },
+  {
+    "path": "10_segundo_medio/003_punto_medio.md",
+    "size": 3093,
+    "sha256": "39eeb05705119603a65dda5859bdc327dc2a345c5b2bdfacf1622a2dc7d445bd"
+  },
+  {
+    "path": "10_segundo_medio/004_pendiente.md",
+    "size": 3085,
+    "sha256": "c77dd07e8ccbfccfdf34556cc2268b56e1ec2e2d255e3e3c30e6e9754e592c57"
+  },
+  {
+    "path": "10_segundo_medio/005_ecuacion_de_la_recta.md",
+    "size": 3156,
+    "sha256": "212b65cb7ac70131e658664c60854e2bb6356cee1a8b0d5e703b5ef5f67154d7"
+  },
+  {
+    "path": "10_segundo_medio/006_rectas_paralelas_y_perpendiculares.md",
+    "size": 3231,
+    "sha256": "18882cebee97d8f76ffc454e15802661073e76a128c0cd033b987780c3e04e1d"
+  },
+  {
+    "path": "10_segundo_medio/007_interseccion_de_rectas.md",
+    "size": 3164,
+    "sha256": "8330e61d2ff2de14586b32c3dfc6d68e85c30430fd0e2913e8c5a641819f16ba"
+  },
+  {
+    "path": "10_segundo_medio/008_vectores.md",
+    "size": 3079,
+    "sha256": "7b6e4c1a10bf9f1165539c6e9a66eb93c51c8f6e04453038666daa77d6583013"
+  },
+  {
+    "path": "10_segundo_medio/009_modulo_y_direccion.md",
+    "size": 3145,
+    "sha256": "b9355f2772bc565aff259dccef0e9fc844048b81f640d070dc8dc807d25c66e2"
+  },
+  {
+    "path": "10_segundo_medio/00_indice_curso.md",
+    "size": 2109,
+    "sha256": "94c3b070c4d71611c455e2c2b5182abca87121e674d0543c62a4d7bd6c8edab8"
+  },
+  {
+    "path": "10_segundo_medio/010_operaciones_con_vectores.md",
+    "size": 3175,
+    "sha256": "de59578eb39a2cd2a1f0bb6dbacc52492385dbb2199c8bc88347b504306d0ba4"
+  },
+  {
+    "path": "10_segundo_medio/011_razones_trigonometricas.md",
+    "size": 3170,
+    "sha256": "b8a49e6cc0302fe39e14d991b3844f6f5c6bd34070c02e7af3d0f3a546f629da"
+  },
+  {
+    "path": "10_segundo_medio/012_resolucion_de_triangulos.md",
+    "size": 3142,
+    "sha256": "36ade7a3278c1323d3d6ea4f6a03584535bdcf3f7cd6ddfb883e63ce3b0ce831"
+  },
+  {
+    "path": "10_segundo_medio/013_ley_de_senos_inicial.md",
+    "size": 3147,
+    "sha256": "eb2de83cbee5cb75d65f59b493d6e5c1fe396e7d58f36891b93954e53163c1f0"
+  },
+  {
+    "path": "10_segundo_medio/014_ley_de_cosenos_inicial.md",
+    "size": 3159,
+    "sha256": "bb03991aa40c8483e70b458bdfd74950d694a587d8d00b3838d2b951a05320c4"
+  },
+  {
+    "path": "10_segundo_medio/015_circunferencia.md",
+    "size": 3111,
+    "sha256": "e73957f903edfb95e3e830be27451b856b2021a59502dd7d6ebeabdd1017dcd4"
+  },
+  {
+    "path": "10_segundo_medio/016_arcos_y_sectores.md",
+    "size": 3123,
+    "sha256": "72080c0454186270c390490baaf5761975a605a9133816907a15cdaa027505c0"
+  },
+  {
+    "path": "10_segundo_medio/017_angulos_centrales_e_inscritos_iniciales.md",
+    "size": 3227,
+    "sha256": "3ef93805207eaecec77c266f9e2da58c96a1138cf6d8a2576ed4eb69d84070dd"
+  },
+  {
+    "path": "10_segundo_medio/018_longitud_de_arco.md",
+    "size": 3127,
+    "sha256": "707215b0cb291799a4865dd4708f032bc6fbffbc207c960d636266382d30f677"
+  },
+  {
+    "path": "10_segundo_medio/019_area_de_sector.md",
+    "size": 3091,
+    "sha256": "722268ba207f7f509ad1e9c9e386bfe651bfb7c2927fdcc01fa84d463638c983"
+  },
+  {
+    "path": "10_segundo_medio/01_glosario_curso.md",
+    "size": 161,
+    "sha256": "f4e2a874bf242900c6480a479d2933ece82f1319a8741480e8fdcab004cfffbd"
+  },
+  {
+    "path": "10_segundo_medio/020_transformaciones_en_el_plano.md",
+    "size": 3195,
+    "sha256": "264c92d759b547659d1cf4c9edf8bb9bc5abbf3a0715925c4b135654229e9ab5"
+  },
+  {
+    "path": "10_segundo_medio/021_matrices_de_transformacion_iniciales.md",
+    "size": 3248,
+    "sha256": "1e9905f12aee400a071a45a19c66faafd72c4f46fced192319d7ffd110c4cee3"
+  },
+  {
+    "path": "10_segundo_medio/022_semejanza_y_homotecia.md",
+    "size": 3120,
+    "sha256": "a173e4f25155d287f68559d2112c983fd0f0b5e31e29b13f825912b64d691e82"
+  },
+  {
+    "path": "10_segundo_medio/023_cuerpos_de_revolucion_iniciales.md",
+    "size": 3215,
+    "sha256": "9fefa975b1dda5ef78f0f1b26a5919ea32f27825d204fb9c982f10d72da4d646"
+  },
+  {
+    "path": "10_segundo_medio/024_area_y_volumen.md",
+    "size": 3091,
+    "sha256": "af16554c49d49b4dba989b7457255b1480742fabe9b113fad774be990fcd2611"
+  },
+  {
+    "path": "10_segundo_medio/025_geometria_de_mapas.md",
+    "size": 3140,
+    "sha256": "5f331214fd8e7b114fd3d49af3442a59f1ad494e89f61ca40a99ec92a71eea06"
+  },
+  {
+    "path": "10_segundo_medio/026_problemas_de_navegacion.md",
+    "size": 3170,
+    "sha256": "da5dec6f0dc7c1b38ce595d7130e2debd9798008b0a275d65b4d24c75708007b"
+  },
+  {
+    "path": "10_segundo_medio/027_modelacion_geometrica.md",
+    "size": 3163,
+    "sha256": "1d8fe9df162e445ef208b97eefa7369bacad4f734a018812b887a389be60d512"
+  },
+  {
+    "path": "10_segundo_medio/028_diseno_asistido_por_computador.md",
+    "size": 3212,
+    "sha256": "2f6c1c90452b50eac3eefb8ba8e6bcfb7c066b23c506d2bfce0b59056389057f"
+  },
+  {
+    "path": "10_segundo_medio/029_errores_de_medicion.md",
+    "size": 3146,
+    "sha256": "191147b23270651500c7944b929729601cfd6bf8076c3c39e05939967995a27b"
+  },
+  {
+    "path": "10_segundo_medio/02_banco_preguntas.md",
+    "size": 3956,
+    "sha256": "d3f52ee9caa8337ed237c9a2e4ce9471424533771be1074d2b8366fdf2f4ba49"
+  },
+  {
+    "path": "10_segundo_medio/030_proyecto_geometrico_aplicado.md",
+    "size": 3200,
+    "sha256": "355318ad539fb6a317347efcc5b438846091b33884cd36ecee22651132f253c5"
+  },
+  {
+    "path": "11_tercero_medio/001_circunferencia_y_elementos.md",
+    "size": 3183,
+    "sha256": "3b08049d91d9fa458541d06f8e86a26da3684354b5af89c8a27ff7e089082480"
+  },
+  {
+    "path": "11_tercero_medio/002_angulos_centrales.md",
+    "size": 3095,
+    "sha256": "f891472448bbb97e20424711698906904ac120b6f9a54c0bdf3427589ed42173"
+  },
+  {
+    "path": "11_tercero_medio/003_angulos_inscritos.md",
+    "size": 3095,
+    "sha256": "1fedf40cbed28195bdffecab10b9b4cf2b97b9de3987fddcf51a85c48abc7ed1"
+  },
+  {
+    "path": "11_tercero_medio/004_relacion_entre_arcos_y_angulos.md",
+    "size": 3178,
+    "sha256": "53ecce2a4646018efab49fa5f74bae7ba26ac125056c004609b324352837da06"
+  },
+  {
+    "path": "11_tercero_medio/005_cuerdas.md",
+    "size": 3069,
+    "sha256": "a830f84f8ef23d6e15e80c88e86ee1e1af0ffb833d48f485bfb5c1c788f15b54"
+  },
+  {
+    "path": "11_tercero_medio/006_secantes.md",
+    "size": 3075,
+    "sha256": "350ae40d2e940614ca3e1fce01bfcf3b26fba71ecdad1aea4c2e59f803a9fc8f"
+  },
+  {
+    "path": "11_tercero_medio/007_tangentes.md",
+    "size": 3081,
+    "sha256": "370f7e45901913530d4a784efc5260c3656967b5588ac44030ae018fde1600ba"
+  },
+  {
+    "path": "11_tercero_medio/008_potencia_de_un_punto_inicial.md",
+    "size": 3195,
+    "sha256": "5362dfbc5792e103620d681d0ffcf9166c73c3a86abd737b3f2f79ac11e4a7e0"
+  },
+  {
+    "path": "11_tercero_medio/009_relaciones_metricas_en_la_circunferencia.md",
+    "size": 3272,
+    "sha256": "e773df94bc8a14bce9a6690fb0a48151c007dce69517bbd4e039154c0226e927"
+  },
+  {
+    "path": "11_tercero_medio/00_indice_curso.md",
+    "size": 1964,
+    "sha256": "c119b9abd5edb49b32cd8c2238cfa7a385bacc8d6f405cd9468305cbda7bd5c4"
+  },
+  {
+    "path": "11_tercero_medio/010_teoremas_de_cuerdas.md",
+    "size": 3141,
+    "sha256": "622a635cb2ad6d26f2b5cfe992d6bd9f8453dbb622a947e07ec5836f1c90e47d"
+  },
+  {
+    "path": "11_tercero_medio/011_teoremas_de_secantes.md",
+    "size": 3147,
+    "sha256": "7b8f872c1339a6911f4af32a06c4497789d1a85ad5818a47587d5d28323fea14"
+  },
+  {
+    "path": "11_tercero_medio/012_teoremas_de_tangentes.md",
+    "size": 3153,
+    "sha256": "77e5129762c345f4e22a458e90beafaee57638002903cc4ea6bd686897cf62a8"
+  },
+  {
+    "path": "11_tercero_medio/013_problemas_euclidianos.md",
+    "size": 3153,
+    "sha256": "5df07c5dddc6ac88694a27dc7a64e7f08fc7fcb24ecc13dcc93a570867dfc696"
+  },
+  {
+    "path": "11_tercero_medio/014_demostracion_geometrica.md",
+    "size": 3175,
+    "sha256": "84372c0f1e1a83f7371ffdb169e0d631708bb42c5aed90fd9735a581fbc3f177"
+  },
+  {
+    "path": "11_tercero_medio/015_conjeturas_y_contraejemplos.md",
+    "size": 3189,
+    "sha256": "31ce13d047945cc4923ec3c8a5083534062adb8aa818ff903ccb7c54f08c2f5e"
+  },
+  {
+    "path": "11_tercero_medio/016_geometria_analitica_de_circunferencias.md",
+    "size": 3265,
+    "sha256": "93ab2d8f1bbf58327065a3e2988a66a0122e46e9e02591b3334d896c5e0dd97a"
+  },
+  {
+    "path": "11_tercero_medio/017_interseccion_recta_circunferencia.md",
+    "size": 3230,
+    "sha256": "92ee90d1b1e9c7e9054daef05e3440632da59ad868e95615a2d1cbb8ba9d3c83"
+  },
+  {
+    "path": "11_tercero_medio/018_lugares_geometricos.md",
+    "size": 3146,
+    "sha256": "6a315dea7edf27fd9e7cacac814a1c76f65365d56caff229f6398afcc9519359"
+  },
+  {
+    "path": "11_tercero_medio/019_vectores_y_transformaciones.md",
+    "size": 3193,
+    "sha256": "17e508b1927a3e69ee38d9c61cd5de6d38cb6006ef87466727fcec25569670e4"
+  },
+  {
+    "path": "11_tercero_medio/01_glosario_curso.md",
+    "size": 161,
+    "sha256": "f4e2a874bf242900c6480a479d2933ece82f1319a8741480e8fdcab004cfffbd"
+  },
+  {
+    "path": "11_tercero_medio/020_geometria_en_diseno.md",
+    "size": 3151,
+    "sha256": "9142f13cd4f4019e69aef442c4922699e2bf5c2d84a92098a7dd37f58d63c0ec"
+  },
+  {
+    "path": "11_tercero_medio/021_geometria_en_construccion.md",
+    "size": 3186,
+    "sha256": "db3184a36b1b6332ce6748a0e737e427d15602d45f97641b0c3f26989101fa74"
+  },
+  {
+    "path": "11_tercero_medio/022_geometria_en_astronomia.md",
+    "size": 3175,
+    "sha256": "3d11ac34ebcd0ce5753e0dfccef6f3361a361abf83930cc9682eec8fba8fc68b"
+  },
+  {
+    "path": "11_tercero_medio/023_uso_de_software_dinamico.md",
+    "size": 3176,
+    "sha256": "d1810cd4aee1f54ee92ad3e4f7dd7927134295297274e13aeba7060d54a5ba46"
+  },
+  {
+    "path": "11_tercero_medio/024_modelacion_con_figuras.md",
+    "size": 3164,
+    "sha256": "d09f08b6821e1863db6b2993ed0c4a16837eca71281cd3e2e15af625cfb26386"
+  },
+  {
+    "path": "11_tercero_medio/025_argumentacion_y_prueba.md",
+    "size": 3164,
+    "sha256": "2a430f2d77e58bb1ffe969cf6bb33bbf9e4a96bb03e123398b902ee6047423ee"
+  },
+  {
+    "path": "11_tercero_medio/026_proyecto_de_circunferencia_aplicada.md",
+    "size": 3237,
+    "sha256": "9f3fbe96872830264936601a2445d18b6d46a3ac3b81c6c516a3d8bb54d0defd"
+  },
+  {
+    "path": "11_tercero_medio/02_banco_preguntas.md",
+    "size": 3475,
+    "sha256": "d6c76dc1d0917aace54cacc4e23b69853c74c534ed6dceb52b8ab437f0aba2cd"
+  },
+  {
+    "path": "12_cuarto_medio/001_geometria_analitica_avanzada.md",
+    "size": 3217,
+    "sha256": "c4be5ba2464c1abf5e44f57e0515682938a4acc16b3c86471bc277915464af71"
+  },
+  {
+    "path": "12_cuarto_medio/002_rectas_y_sistemas_geometricos.md",
+    "size": 3218,
+    "sha256": "323992196acd53418ccbd9fa6a6a586509c91371910b2506279a33c97c70b16b"
+  },
+  {
+    "path": "12_cuarto_medio/003_circunferencia_avanzada.md",
+    "size": 3177,
+    "sha256": "144d8b88601660e56e64e9ba4ca9d7839243dcac55148be39482a5b2b2d66295"
+  },
+  {
+    "path": "12_cuarto_medio/004_parabola.md",
+    "size": 3096,
+    "sha256": "fc71f51afd0deb8cf4e0847ad5255682461fb4ab72aff5528b429fecb7fb07ae"
+  },
+  {
+    "path": "12_cuarto_medio/005_elipse.md",
+    "size": 3079,
+    "sha256": "7e4265fe087cce0ccf99396faefb1886495746531fd81383d8ae6cdffa30edfb"
+  },
+  {
+    "path": "12_cuarto_medio/006_hiperbola.md",
+    "size": 3102,
+    "sha256": "2dfd5bb1cbfc60d54ff359a0a2b3de84f58832b77c17044710bd84f2d6f4103b"
+  },
+  {
+    "path": "12_cuarto_medio/007_conicas_y_aplicaciones.md",
+    "size": 3180,
+    "sha256": "78d05b9e810a7c59251b69417faa7e29ba1bd5a5e6a4e6706a99270a8385f0cd"
+  },
+  {
+    "path": "12_cuarto_medio/008_vectores_avanzados.md",
+    "size": 3151,
+    "sha256": "71f0a1732f0f5ea007bbd6bb10de7afb931b76495ebb30d6d964ce2d9aa52ae2"
+  },
+  {
+    "path": "12_cuarto_medio/009_producto_escalar_inicial.md",
+    "size": 3149,
+    "sha256": "d5fbd34140b3110f0ff37995a348f05e2ff622ec99f88b978fd8eac280422590"
+  },
+  {
+    "path": "12_cuarto_medio/00_indice_curso.md",
+    "size": 2251,
+    "sha256": "319de25a72349cb06c67ed891a30b6f324e5347b63783be6587ab04dfe443850"
+  },
+  {
+    "path": "12_cuarto_medio/010_angulo_entre_vectores.md",
+    "size": 3135,
+    "sha256": "b0168b6f6f1ad4a91b55b6ce32e8241e92201c7c3b7e5cda0cc557fabfd06246"
+  },
+  {
+    "path": "12_cuarto_medio/011_proyecciones.md",
+    "size": 3111,
+    "sha256": "305ca947efa229a1f453b56f71494937357d8ba5719b18d49eae2db3c85127c2"
+  },
+  {
+    "path": "12_cuarto_medio/012_geometria_en_tres_dimensiones.md",
+    "size": 3218,
+    "sha256": "952e92b92999929431749eab0c31b5ba4bc07691647396678ff3b6be651f83ae"
+  },
+  {
+    "path": "12_cuarto_medio/013_coordenadas_espaciales.md",
+    "size": 3175,
+    "sha256": "9a43b747d4aca5a6337d3fef0fd52e7043d99ccfc11421b4eaef159649f81387"
+  },
+  {
+    "path": "12_cuarto_medio/014_planos_y_rectas_en_el_espacio_iniciales.md",
+    "size": 3270,
+    "sha256": "66fdbc12b139fb0bae9a2da68d5ab37f5652226164246bfb6d3ea9e577146dbc"
+  },
+  {
+    "path": "12_cuarto_medio/015_distancias_en_el_espacio.md",
+    "size": 3180,
+    "sha256": "e33ed125fafea0e3fcd77e2d9cf1858491b7dfecfe7ebfe5c0041ffe6ddf3928"
+  },
+  {
+    "path": "12_cuarto_medio/016_poliedros.md",
+    "size": 3090,
+    "sha256": "4c062514096e484e8fa2357433a977342044fbef39f9b3539cc05184d9c5252c"
+  },
+  {
+    "path": "12_cuarto_medio/017_formula_de_euler_para_poliedros.md",
+    "size": 3227,
+    "sha256": "37e97d6c1b290b23afbc22403f00bf283b5fd62f75169bde436377b710b1a00a"
+  },
+  {
+    "path": "12_cuarto_medio/018_solidos_de_revolucion.md",
+    "size": 3175,
+    "sha256": "f20466bd7ee4e4763019b2217c83ce8593b36b79bbc78d5b5f84c4639bce5441"
+  },
+  {
+    "path": "12_cuarto_medio/019_optimizacion_geometrica_inicial.md",
+    "size": 3235,
+    "sha256": "dc4ce08f9d6e9d04976755b045a814435ddf09fe2c7500fa6870dcafe522c5c6"
+  },
+  {
+    "path": "12_cuarto_medio/01_glosario_curso.md",
+    "size": 161,
+    "sha256": "f4e2a874bf242900c6480a479d2933ece82f1319a8741480e8fdcab004cfffbd"
+  },
+  {
+    "path": "12_cuarto_medio/020_teselaciones_y_simetrias_avanzadas.md",
+    "size": 3249,
+    "sha256": "ec0ca22682a04d8495962a89d66b75450aa758bc80850a0e4d03ac55eeb5b4c9"
+  },
+  {
+    "path": "12_cuarto_medio/021_geometria_fractal_inicial.md",
+    "size": 3194,
+    "sha256": "a15a5358265d7280b0eae6fdf23e9df4780a4955e4db972bf7a24f2248623726"
+  },
+  {
+    "path": "12_cuarto_medio/022_geometria_no_euclidiana_conceptual.md",
+    "size": 3248,
+    "sha256": "35df4505a36d6f8def89757653612c653dbc33ce2edd829a186c0cc92fcb1597"
+  },
+  {
+    "path": "12_cuarto_medio/023_geometria_esferica_conceptual.md",
+    "size": 3223,
+    "sha256": "a01561afb46e67dbda4e36f7f8cdc85f89a85c09ea7c656171a2bc19503feca9"
+  },
+  {
+    "path": "12_cuarto_medio/024_cartografia_y_proyecciones.md",
+    "size": 3200,
+    "sha256": "a057ee75452716e6154cfbfe62d5fe301899307f99504ac4246a8bcb99f0f797"
+  },
+  {
+    "path": "12_cuarto_medio/025_diseno_parametrico_inicial.md",
+    "size": 3205,
+    "sha256": "8c9242effc35cdf010f230f47d9541d83a7b252d87c68ed92312c5992db109eb"
+  },
+  {
+    "path": "12_cuarto_medio/026_arquitectura_y_estructuras.md",
+    "size": 3195,
+    "sha256": "dd2b309cca7fcdb4aa7e7fd4e19e2e6acc644507e1c505cd9d065ed63332db07"
+  },
+  {
+    "path": "12_cuarto_medio/027_geometria_computacional_inicial.md",
+    "size": 3230,
+    "sha256": "1a4e1e8b90bc0bc14071ad0bdc64ca7a9f9d36f9e7fb577dafbecb09db80f852"
+  },
+  {
+    "path": "12_cuarto_medio/028_modelacion_espacial.md",
+    "size": 3158,
+    "sha256": "b461ef9483de88e1479c0b4a8ce9d30ff56a7e0c4b72c56650ad3565f3b3cebb"
+  },
+  {
+    "path": "12_cuarto_medio/029_analisis_de_supuestos.md",
+    "size": 3170,
+    "sha256": "aba94a43a8a07087e8c05260174f381c79563e6d58b4033ec1e7ec23366115f2"
+  },
+  {
+    "path": "12_cuarto_medio/02_banco_preguntas.md",
+    "size": 4029,
+    "sha256": "a1abf022916e60975f979b8c10d23864345ea48c75833065561deb117f4b6970"
+  },
+  {
+    "path": "12_cuarto_medio/030_proyecto_final_de_geometria_aplicada.md",
+    "size": 3260,
+    "sha256": "27a8dd6cd4fbf7047bbfcc0b2ad3fd987d6c94499e65175dd2767c75ca304f51"
+  },
+  {
+    "path": "13_tematicos_transversales/001_que_es_la_geometria.md",
+    "size": 3199,
+    "sha256": "f0005933c7e205b58c82325ffcb79e02441bb8026b523e443f71443f6f136949"
+  },
+  {
+    "path": "13_tematicos_transversales/002_punto_recta_plano_y_espacio.md",
+    "size": 3234,
+    "sha256": "bfb90336722dd6ab992894d83938844210c99b0bb01ec4e1a92c8f6225e76253"
+  },
+  {
+    "path": "13_tematicos_transversales/003_figuras_2d.md",
+    "size": 3135,
+    "sha256": "b50f30519b66650d650de074085c680767fc8594d93c5af093efcdb75f6f275c"
+  },
+  {
+    "path": "13_tematicos_transversales/004_cuerpos_3d.md",
+    "size": 3132,
+    "sha256": "7d2f43dd67824f5d0d7e7fda63a287e0f6637ebc92048f71d5bced5144c86ce2"
+  },
+  {
+    "path": "13_tematicos_transversales/005_lados_vertices_caras_y_aristas.md",
+    "size": 3260,
+    "sha256": "9bcf2c179b4fef634c19e050f4c59d5d81e983d7d83b175e2f83e346c9b08f3a"
+  },
+  {
+    "path": "13_tematicos_transversales/006_angulos.md",
+    "size": 3083,
+    "sha256": "7fb70f3ac500964891829c6d50311f7cfcde65b9ce5e9c702665e81209d91851"
+  },
+  {
+    "path": "13_tematicos_transversales/007_triangulos.md",
+    "size": 3101,
+    "sha256": "6d7b3426fd33ca3c2362a066431ce11972aa7e667c6d186c4c03396e802ff58f"
+  },
+  {
+    "path": "13_tematicos_transversales/008_cuadrilateros.md",
+    "size": 3158,
+    "sha256": "cf31d822730a9a330979c44b0949c16c006e737325549d410524029524354a71"
+  },
+  {
+    "path": "13_tematicos_transversales/009_poligonos.md",
+    "size": 3134,
+    "sha256": "c0cc45cfe1d8e82fb10d8c50ad7bddf989046d492a3fba168e3d3b2c32605a14"
+  },
+  {
+    "path": "13_tematicos_transversales/010_circunferencia_y_circulo.md",
+    "size": 3224,
+    "sha256": "de8abad743b67f5199158ed2bb3a1dad34efde4fe522167dee914873420ac8c2"
+  },
+  {
+    "path": "13_tematicos_transversales/011_perimetro.md",
+    "size": 3137,
+    "sha256": "706369751b741dd885496aed6d933efc146e0eddbd0eaaa0f2e9b28a2ae4fd7e"
+  },
+  {
+    "path": "13_tematicos_transversales/012_area.md",
+    "size": 3079,
+    "sha256": "a0050cc42634fd894e4a451984f882e16e3934d6070bb518953fa8f23f1eaa52"
+  },
+  {
+    "path": "13_tematicos_transversales/013_volumen.md",
+    "size": 3095,
+    "sha256": "7077b5cccfa0cdc223136a7edb0e40d02ce8985157f866cfd2d478d591686a83"
+  },
+  {
+    "path": "13_tematicos_transversales/014_plano_cartesiano.md",
+    "size": 3175,
+    "sha256": "b6a89a815d53ca3f28caab4b598f87c7f990a1270350add38c5779c0bc614a38"
+  },
+  {
+    "path": "13_tematicos_transversales/015_coordenadas.md",
+    "size": 3145,
+    "sha256": "00bce1088c780088dde39dabbfc8f1edf5c038ad5e4989f1115d18eb6eb7c810"
+  },
+  {
+    "path": "13_tematicos_transversales/016_traslacion.md",
+    "size": 3141,
+    "sha256": "1cd4cb6458b9982e73dfa3299e81a9f37959301b7881986d7f8caa5ff4ec3c66"
+  },
+  {
+    "path": "13_tematicos_transversales/017_reflexion.md",
+    "size": 3135,
+    "sha256": "417e32f20e9a0f88d191232d4d51a3c778c4dae5cf4553654db514260e27029b"
+  },
+  {
+    "path": "13_tematicos_transversales/018_rotacion.md",
+    "size": 3129,
+    "sha256": "3a127bc7a61be3753d44117a918869a47acf7c5ffa4ca86f75c21736d1b195bc"
+  },
+  {
+    "path": "13_tematicos_transversales/019_simetria.md",
+    "size": 3129,
+    "sha256": "48054cb1a47791e119060e65135b9ed6984592939b443be3f4286e969b6bc81d"
+  },
+  {
+    "path": "13_tematicos_transversales/020_congruencia.md",
+    "size": 3145,
+    "sha256": "ed77274e8318e72233339eb15425a6b6a67057fc7f8d9c7a16c273eb9dd5f060"
+  },
+  {
+    "path": "13_tematicos_transversales/021_semejanza.md",
+    "size": 3099,
+    "sha256": "b4da88745357dca12cb1c1d09a874c9edc2062dbfc8fcb2fd78b3d8615e1499a"
+  },
+  {
+    "path": "13_tematicos_transversales/022_homotecia.md",
+    "size": 3130,
+    "sha256": "5122d7316d74887b2ed65f9d4c5972a4fd9a249feede30d89a64a0e932bc7ae4"
+  },
+  {
+    "path": "13_tematicos_transversales/023_teorema_de_pitagoras.md",
+    "size": 3204,
+    "sha256": "ee02d94822c603dc35a3d63d7d9e215a8fa0711259f7554f087a6c3ae11135b4"
+  },
+  {
+    "path": "13_tematicos_transversales/024_teorema_de_tales.md",
+    "size": 3175,
+    "sha256": "011e16bee99abd43de0f4f7905b6b6bcfddd4761fe495bdc7c7a066436bcb20f"
+  },
+  {
+    "path": "13_tematicos_transversales/025_trigonometria.md",
+    "size": 3162,
+    "sha256": "d0c245b590c73368874771d7ca1383ffb0dbaeee9a0708c23fcd0c8fd32f377b"
+  },
+  {
+    "path": "13_tematicos_transversales/026_geometria_analitica.md",
+    "size": 3199,
+    "sha256": "e0ae0526e2cc825f615611049bb8384d19b617af4c6f1fd012c959f23d12a946"
+  },
+  {
+    "path": "13_tematicos_transversales/027_construcciones_geometricas.md",
+    "size": 3236,
+    "sha256": "9ee98a8570d6c8e1549d301358e52258438206fa4c57d987bd95f172f2c8e998"
+  },
+  {
+    "path": "13_tematicos_transversales/028_geometria_aplicada.md",
+    "size": 3188,
+    "sha256": "1bedbc80f4d76b29c16e9fd383c90d2ff21b30d7332a95353159dd41d8cf527a"
+  },
+  {
+    "path": "14_bancos_generales/01_glosario_general.md",
+    "size": 118,
+    "sha256": "d4893b7f73274d9d1e81b2172af25e838e459a06282280ffbd7c5fe25d9e5dd8"
+  },
+  {
+    "path": "14_bancos_generales/02_palabras_clave.md",
+    "size": 8295,
+    "sha256": "50dc21f8041d8fc3bf60b17082db466886c8cf613dd36f8f4ba6ea79ee290cdc"
+  },
+  {
+    "path": "14_bancos_generales/03_mapa_relaciones_materias.md",
+    "size": 136,
+    "sha256": "eeabe35128b659a09611505098f1c9e7dd9c3f679639a695007b8932bac83895"
+  },
+  {
+    "path": "14_bancos_generales/04_plantilla_resolucion_geometrica.md",
+    "size": 113,
+    "sha256": "73cb6bbc827bde8cf0d470ed3ff4c082f06ce9ce7d31166ba923b06e8e5c2177"
+  },
+  {
+    "path": "15_evaluaciones_generales/01_evaluaciones_generales.md",
+    "size": 89,
+    "sha256": "135c35d07a9cd705c8017d8ebcdce5fd0e7a170ea16d785a8b413b9892b796fd"
+  },
+  {
+    "path": "16_apoyo_inclusivo/01_adaptaciones_tea.md",
+    "size": 96,
+    "sha256": "35c27e9b6d7a69891b7ad0407c17b902e829fcb54dbd9e565fdfa71fd7471dbe"
+  },
+  {
+    "path": "16_apoyo_inclusivo/02_reglas_por_perfil.md",
+    "size": 117,
+    "sha256": "ba75ababcba50430155bfecf2a96620462cb60b217f5277c21d9cc532022f81f"
+  },
+  {
+    "path": "17_compendios/compendio_cuarto_basico.md",
+    "size": 76062,
+    "sha256": "98bedee43732c77adeb263e3799d6c4880a5a816fbdc21e9b4ad83dc99c36319"
+  },
+  {
+    "path": "17_compendios/compendio_cuarto_medio.md",
+    "size": 95754,
+    "sha256": "934e8752ef78273a36b75a143f03862d9659c05467092f3b1e7e43e656a05ab0"
+  },
+  {
+    "path": "17_compendios/compendio_octavo_basico.md",
+    "size": 82498,
+    "sha256": "80bae1330a43d30700c9cf0f282753f539575bb6dc1e5c9c7e587f8e856a496a"
+  },
+  {
+    "path": "17_compendios/compendio_primero_basico.md",
+    "size": 62845,
+    "sha256": "ba68d01a97d9c53b6b008db73c36af1f6d0bc612f72c87204c563d5a89cfb6aa"
+  },
+  {
+    "path": "17_compendios/compendio_primero_medio.md",
+    "size": 89138,
+    "sha256": "6e8ee8bea919709fcebe2b9d86870ef0af340efb1327ff3f3fd2638bf9ed00a0"
+  },
+  {
+    "path": "17_compendios/compendio_quinto_basico.md",
+    "size": 75784,
+    "sha256": "09fbd1d499509a168b5fb7a66a58ae5ff4f57327c3caf088a58117d94702e481"
+  },
+  {
+    "path": "17_compendios/compendio_segundo_basico.md",
+    "size": 63382,
+    "sha256": "5d85af30f99316cd0275bdec899fe52bd8095a2a88e578f9020455e23884eb0c"
+  },
+  {
+    "path": "17_compendios/compendio_segundo_medio.md",
+    "size": 94872,
+    "sha256": "2fb0261d46326cb3147fc3fe2cd3524b43b831268963c1b3ded18ba89c9dc2b3"
+  },
+  {
+    "path": "17_compendios/compendio_septimo_basico.md",
+    "size": 82353,
+    "sha256": "8f5a67fe6a5f08a72ab7977a192f490efcf3c7f64f685b940fb477728860243c"
+  },
+  {
+    "path": "17_compendios/compendio_sexto_basico.md",
+    "size": 82353,
+    "sha256": "24a3e4a11af5947ea535d9e143f1415209506fc2abfdf94f5181f78a0caf5ae4"
+  },
+  {
+    "path": "17_compendios/compendio_tercero_basico.md",
+    "size": 63136,
+    "sha256": "111fdb35f97b7e27353c15141a117196cd28187b9e82acee8867bc3a29071545"
+  },
+  {
+    "path": "17_compendios/compendio_tercero_medio.md",
+    "size": 82497,
+    "sha256": "5b6d96cd5018b4730070b52064ab0df027ca73f6438bc23bd156579860e47651"
+  },
+  {
+    "path": "17_compendios/enciclopedia_completa_geometria.md",
+    "size": 950713,
+    "sha256": "b34dea6289f1fd45a34c5a3ddf3afce55a4825639f90a787579d511bd2341b09"
+  },
+  {
+    "path": "18_rag/catalogo_capitulos.json",
+    "size": 97978,
+    "sha256": "bab049c7412ed70a6d785019f9691968cf25ce067abc944787b7c52c4903d34f"
+  },
+  {
+    "path": "18_rag/catalogo_capitulos.jsonl",
+    "size": 86495,
+    "sha256": "67faa3a71180e980f93df592aabdfe12140be383dafd2cbf27ed334688a5b110"
+  },
+  {
+    "path": "18_rag/chunks_geometria.jsonl",
+    "size": 2370594,
+    "sha256": "00e5fbda700e2f4605820bb30f3347f9c7a69d8697cb6090a8178e1906c99ff4"
+  },
+  {
+    "path": "CHANGELOG.md",
+    "size": 82,
+    "sha256": "821b510b172185f2e793cc136972f0cf2702230f90b468fbdd5915a4c8096e39"
+  },
+  {
+    "path": "README.md",
+    "size": 409,
+    "sha256": "0d03d8468ee9bace8b41232703150d6e476c93226be10cb5642479cad6e1a526"
+  }
+]

@@ -1,0 +1,8 @@
+version: 1
+coleccion: algebra
+excluir:
+  - '17_compendios/**/*.md'
+chunking:
+  por_encabezados: true
+  max_caracteres: 1500
+  solapamiento: 150

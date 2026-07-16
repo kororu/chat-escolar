@@ -1,0 +1,331 @@
+# Palabras clave
+
+- conteo 0 a 100
+- leer y escribir números
+- comparar cantidades
+- ordenar números
+- composición y descomposición
+- valor posicional inicial
+- suma como juntar
+- resta como quitar
+- problemas de suma
+- problemas de resta
+- cálculo mental
+- dobles y mitades
+- patrones repetitivos
+- igualdad inicial
+- figuras 2d
+- cuerpos 3d
+- posición y orientación
+- longitud no estandarizada
+- tiempo y calendario
+- pictogramas
+- conteo hasta 1000
+- centenas decenas unidades
+- comparar y ordenar
+- composición hasta 1000
+- suma con reserva
+- resta con canje
+- problemas de dos pasos
+- multiplicación como suma repetida
+- tablas del 2 5 y 10
+- división como reparto
+- mitad tercio y cuarto
+- patrones numéricos
+- ecuaciones simples
+- simetría
+- cuerpos geométricos
+- centímetros
+- masa y capacidad
+- lectura de la hora
+- gráficos de barras
+- posible imposible seguro
+- números hasta 10000
+- valor posicional
+- redondeo inicial
+- suma y resta
+- multiplicación por una cifra
+- división por agrupación
+- tablas de multiplicar
+- problemas con operaciones
+- fracciones como parte
+- fracciones unitarias
+- comparar fracciones simples
+- patrones aditivos
+- ecuaciones de un paso
+- ángulos iniciales
+- perímetro
+- área con cuadrados
+- simetría
+- coordenadas iniciales
+- medición
+- tablas y gráficos
+- azar simple
+- números hasta 1000000
+- valor posicional ampliado
+- estimación y redondeo
+- adición y sustracción
+- multiplicación por dos cifras
+- división por una cifra
+- operaciones combinadas simples
+- problemas rutinarios y no rutinarios
+- fracciones equivalentes
+- comparar fracciones
+- suma y resta de fracciones
+- decimales iniciales
+- patrones y secuencias
+- ecuaciones simples
+- ángulos
+- triángulos y cuadriláteros
+- perímetro
+- área de rectángulos
+- transformaciones isométricas
+- coordenadas
+- unidades y conversiones
+- tiempo y dinero
+- gráficos
+- probabilidad cualitativa
+- números naturales grandes
+- operaciones combinadas
+- múltiplos y divisores
+- primos y compuestos
+- divisibilidad
+- fracciones propias impropias y mixtas
+- fracciones equivalentes
+- suma y resta de fracciones
+- multiplicación de fracciones inicial
+- decimales
+- operaciones con decimales
+- porcentajes iniciales
+- razones iniciales
+- patrones y reglas
+- ecuaciones e inecuaciones
+- plano cartesiano
+- ángulos
+- triángulos
+- cuadriláteros
+- perímetro y área
+- volumen inicial
+- conversión de unidades
+- promedio
+- gráficos
+- probabilidad experimental
+- enteros iniciales
+- factores y múltiplos
+- mcm
+- mcd
+- fracciones y mixtos
+- suma y resta de fracciones
+- multiplicación y división de fracciones
+- decimales
+- operaciones con decimales
+- razones
+- proporciones
+- porcentajes
+- tasas unitarias
+- álgebra con letras
+- expresiones algebraicas
+- ecuaciones simples
+- patrones generalizados
+- plano cartesiano
+- transformaciones
+- ángulos de polígonos
+- área de triángulos
+- volumen de prismas
+- escalas
+- media mediana moda
+- análisis de datos
+- probabilidad teórica
+- números enteros
+- operaciones con enteros
+- números racionales
+- fracciones decimales y porcentajes
+- potencias
+- raíces cuadradas iniciales
+- razones y proporciones
+- proporcionalidad directa
+- variaciones porcentuales
+- expresiones algebraicas
+- términos semejantes
+- ecuaciones lineales
+- inecuaciones lineales
+- relaciones proporcionales
+- plano cartesiano
+- ángulos entre paralelas
+- congruencia de triángulos
+- circunferencia y círculo
+- área y perímetro
+- prismas y cilindros
+- muestreo
+- tendencia central
+- frecuencia relativa
+- probabilidad experimental
+- diagramas de árbol
+- racionales
+- operaciones con racionales
+- potencias y raíces
+- notación científica
+- variación porcentual
+- interés simple
+- expresiones algebraicas
+- productos notables
+- factorización simple
+- ecuaciones lineales
+- sistemas 2x2 iniciales
+- funciones lineales
+- pendiente e intercepto
+- proporcionalidad directa e inversa
+- pitágoras
+- transformaciones isométricas
+- homotecia
+- semejanza
+- área y volumen
+- cuerpos redondos
+- población y muestra
+- tablas de frecuencia
+- histogramas
+- cuartiles
+- probabilidad compuesta
+- regla multiplicativa
+- racionales e irracionales
+- números reales
+- potencias enteras
+- raíces
+- notación científica
+- porcentajes y crecimiento
+- interés compuesto
+- expresiones algebraicas
+- productos notables
+- factorización
+- ecuaciones lineales
+- sistemas 2x2
+- inecuaciones
+- función lineal
+- función afín
+- pendiente
+- modelación lineal
+- semejanza y homotecia
+- teorema de tales
+- pitágoras
+- trigonometría inicial
+- vectores
+- área y volumen
+- datos agrupados
+- tendencia central
+- varianza inicial
+- probabilidad simple
+- probabilidad compuesta
+- reales y raíces
+- potencias y radicales
+- logaritmos iniciales
+- expresiones racionales
+- ecuaciones cuadráticas
+- función cuadrática
+- parábola
+- sistemas de ecuaciones
+- inecuaciones cuadráticas
+- función inversa inicial
+- funciones por tramos
+- modelación con funciones
+- razones trigonométricas
+- seno coseno tangente
+- resolución de triángulos
+- circunferencia
+- arcos y sectores
+- geometría analítica
+- distancia entre puntos
+- punto medio
+- vectores
+- transformaciones
+- combinatoria
+- permutaciones y combinaciones
+- probabilidad total
+- variables aleatorias
+- distribuciones simples
+- desviación estándar
+- correlación
+- análisis crítico de gráficos
+- relaciones métricas en circunferencia
+- ángulos inscritos y centrales
+- cuerdas secantes y tangentes
+- medidas de dispersión
+- rango
+- varianza
+- desviación estándar
+- coeficiente de variación
+- probabilidad condicional
+- diagramas de árbol
+- bayes inicial
+- función exponencial
+- crecimiento exponencial
+- función logarítmica
+- ecuaciones exponenciales
+- ecuaciones logarítmicas
+- modelación
+- números complejos
+- forma binómica
+- plano complejo
+- operaciones con complejos
+- módulo y argumento
+- pensamiento computacional
+- algoritmos y patrones
+- datos con tecnología
+- decisiones bajo incertidumbre
+- funciones avanzadas
+- composición de funciones
+- función inversa
+- funciones racionales
+- funciones trigonométricas
+- periodicidad
+- transformaciones de funciones
+- modelos de crecimiento
+- modelos de decaimiento
+- optimización elemental
+- geometría analítica avanzada
+- vectores y rectas
+- cónicas iniciales
+- probabilidad binomial
+- distribución normal inicial
+- inferencia estadística inicial
+- intervalos de confianza
+- muestreo y sesgo
+- regresión lineal
+- correlación y causalidad
+- análisis crítico de información
+- complejos avanzados
+- polinomios y raíces
+- sucesiones y series
+- límites intuitivos
+- derivada como tasa de cambio
+- integral como acumulación
+- modelación financiera
+- matemática y ciudadanía
+- proyecto final de modelación
+- qué es la matemática
+- resolución de problemas
+- representaciones
+- conteo y valor posicional
+- adición y sustracción
+- multiplicación y división
+- fracciones
+- decimales
+- porcentajes
+- razones y proporciones
+- álgebra
+- ecuaciones e inecuaciones
+- patrones
+- funciones
+- geometría plana
+- geometría espacial
+- medición
+- perímetro área y volumen
+- plano cartesiano
+- transformaciones geométricas
+- estadística descriptiva
+- gráficos y tablas
+- probabilidad
+- combinatoria
+- modelación matemática
+- estimación
+- errores frecuentes
+- matemática paso a paso

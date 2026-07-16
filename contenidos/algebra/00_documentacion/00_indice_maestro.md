@@ -1,0 +1,48 @@
+# Índice maestro — Álgebra
+
+> **Referencia curricular:** colección organizada el 2026-07-15. En 1° básico se reconocen y crean patrones; en 3° básico se resuelven ecuaciones de un paso; en 7° básico se formalizan lenguaje algebraico, términos semejantes, ecuaciones e inecuaciones; en 8° básico se introduce función lineal y afín; en 1° medio se trabajan productos notables y sistemas 2×2; y en 3°–4° medio se profundizan funciones y modelación.
+
+
+- [1° básico](../01_primero_basico/00_indice_curso.md)
+- [2° básico](../02_segundo_basico/00_indice_curso.md)
+- [3° básico](../03_tercero_basico/00_indice_curso.md)
+- [4° básico](../04_cuarto_basico/00_indice_curso.md)
+- [5° básico](../05_quinto_basico/00_indice_curso.md)
+- [6° básico](../06_sexto_basico/00_indice_curso.md)
+- [7° básico](../07_septimo_basico/00_indice_curso.md)
+- [8° básico](../08_octavo_basico/00_indice_curso.md)
+- [1° medio](../09_primero_medio/00_indice_curso.md)
+- [2° medio](../10_segundo_medio/00_indice_curso.md)
+- [3° medio](../11_tercero_medio/00_indice_curso.md)
+- [4° medio](../12_cuarto_medio/00_indice_curso.md)
+
+## Transversales
+
+- [Qué es el álgebra](../13_tematicos_transversales/001_que_es_el_algebra.md)
+- [Patrones](../13_tematicos_transversales/002_patrones.md)
+- [Secuencias](../13_tematicos_transversales/003_secuencias.md)
+- [Reglas de formación](../13_tematicos_transversales/004_reglas_de_formacion.md)
+- [Igualdad y equivalencia](../13_tematicos_transversales/005_igualdad_y_equivalencia.md)
+- [Incógnitas](../13_tematicos_transversales/006_incognitas.md)
+- [Variables](../13_tematicos_transversales/007_variables.md)
+- [Constantes y coeficientes](../13_tematicos_transversales/008_constantes_y_coeficientes.md)
+- [Lenguaje algebraico](../13_tematicos_transversales/009_lenguaje_algebraico.md)
+- [Expresiones algebraicas](../13_tematicos_transversales/010_expresiones_algebraicas.md)
+- [Términos semejantes](../13_tematicos_transversales/011_terminos_semejantes.md)
+- [Propiedad distributiva](../13_tematicos_transversales/012_propiedad_distributiva.md)
+- [Ecuaciones](../13_tematicos_transversales/013_ecuaciones.md)
+- [Inecuaciones](../13_tematicos_transversales/014_inecuaciones.md)
+- [Sistemas de ecuaciones](../13_tematicos_transversales/015_sistemas_de_ecuaciones.md)
+- [Productos notables](../13_tematicos_transversales/016_productos_notables.md)
+- [Factorización](../13_tematicos_transversales/017_factorizacion.md)
+- [Polinomios](../13_tematicos_transversales/018_polinomios.md)
+- [Función lineal](../13_tematicos_transversales/019_funcion_lineal.md)
+- [Función afín](../13_tematicos_transversales/020_funcion_afin.md)
+- [Función cuadrática](../13_tematicos_transversales/021_funcion_cuadratica.md)
+- [Funciones exponenciales](../13_tematicos_transversales/022_funciones_exponenciales.md)
+- [Funciones logarítmicas](../13_tematicos_transversales/023_funciones_logaritmicas.md)
+- [Composición e inversa](../13_tematicos_transversales/024_composicion_e_inversa.md)
+- [Modelación algebraica](../13_tematicos_transversales/025_modelacion_algebraica.md)
+- [Errores frecuentes](../13_tematicos_transversales/026_errores_frecuentes.md)
+- [Resolución paso a paso](../13_tematicos_transversales/027_resolucion_paso_a_paso.md)
+- [Álgebra con tecnología](../13_tematicos_transversales/028_algebra_con_tecnologia.md)

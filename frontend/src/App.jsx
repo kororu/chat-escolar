@@ -211,6 +211,7 @@ function SelectionGroup({ title, options, selected, onSelect, help = '' }) {
 
 function SourceNotice({ message }) {
   if (message.usedLocalContent) {
+    const sources = Array.isArray(message.contentSources) ? message.contentSources : []
     return (
       <div className="local-content-note">
         <strong>{message.localFallbackReason
@@ -224,11 +225,11 @@ function SourceNotice({ message }) {
         {message.provenanceStatus === 'local_content_fallback' && message.localFallbackReason && (
           <small>Se usó una explicación local segura basada en contenido verificado.</small>
         )}
-        {message.contentSources.length > 0 && (
+        {sources.length > 0 && (
           <div>
             <span>{message.contentSources.length === 1 ? 'Fuente local' : 'Fuentes locales'}</span>
             <ul>
-              {message.contentSources.map((source) => (
+              {sources.map((source) => (
                 <li key={`${source.path}-${source.title}`}>
                   {source.title}
                   {source.course ? ` · ${source.course}` : ''}
@@ -970,7 +971,8 @@ function App() {
       ])
       setBackendStatus(data.status === 'ok' ? 'connected' : 'unavailable')
       await loadHistory()
-    } catch {
+    } catch (error) {
+      console.error('Error al generar respuesta de Chat Escolar:', error)
       setMessages((current) => [...current, {
         from: 'assistant',
         text: 'No pude generar la respuesta en este momento. Puedes intentar nuevamente.',
@@ -987,17 +989,31 @@ function App() {
     window.setTimeout(() => document.getElementById('question')?.focus(), 0)
   }
 
-  const handleQuickAction = (action) => {
-    const detail = action === 'Dame un ejemplo'
-      ? 'Si estudiamos fracciones, 1/2 significa una parte de dos partes iguales.'
-      : action === 'Hazme una pregunta'
-        ? 'Pregunta de práctica: ¿Cuál es el lugar donde vive un ser vivo?'
-        : 'Un hábitat es la casa natural de un ser vivo. ¿El agua puede ser el hábitat de un pez?'
-    setMessages((current) => [
-      ...current,
-      { from: 'student', text: action },
-      { from: 'assistant', text: `${responsePrefix(activeProfile)}\n\n${detail}`, nexoVariant: pickNexoVariantForSubject(subject) },
-    ])
+  const handleQuickAction = async (action) => {
+    if (isSending) return
+    const lastQuestion = [...messages].reverse().find((message) => message.from === 'student' && !quickActions.includes(message.text))
+    setIsSending(true)
+    setMessages((current) => [...current, { from: 'student', text: action }])
+    try {
+      const response = await fetch(`${API_BASE_URL}/chat/quick-action`, {
+        method: 'POST', headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ action, course, subject, mode, last_user_question: lastQuestion?.text, profile_id: activeProfile.id, user_name: activeProfile.name, user_role: activeProfile.role }),
+      })
+      if (!response.ok) throw new Error('Quick action request failed')
+      const data = await response.json()
+      setMessages((current) => [...current, {
+        from: 'assistant', text: data.answer || 'No pude completar esa acción, pero puedes hacerme la pregunta nuevamente.',
+        summary: data.summary || '', usedLocalContent: Boolean(data.used_local_content),
+        contentSources: Array.isArray(data.content_sources) ? data.content_sources : [],
+        relatedSources: Array.isArray(data.related_sources) ? data.related_sources : [],
+        provenanceStatus: data.provenance_status || 'safe_fallback',
+        sourceCourse: data.source_course || 'Sin curso específico declarado',
+        subjectUsed: data.subject_used || 'General', nexoVariant: pickNexoVariantForSubject(data.subject_used || subject),
+      }])
+    } catch (error) {
+      console.error('Error en acción rápida de Chat Escolar:', error)
+      setMessages((current) => [...current, { from: 'assistant', text: 'No pude usar el contexto anterior. Primero hazme una pregunta sobre un tema.', nexoVariant: pickNexoVariantForSubject(subject) }])
+    } finally { setIsSending(false) }
   }
 
   const updateHistoryStatus = async (item) => {

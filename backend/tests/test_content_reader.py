@@ -1,7 +1,9 @@
 import unittest
+from pathlib import Path
 from unittest.mock import patch
 
 from content_reader import (
+    _encyclopedia_info,
     detect_subject_from_question,
     normalize_text,
     normalize_question,
@@ -64,6 +66,59 @@ class QuestionNormalizationTests(unittest.TestCase):
                 subject, confidence = detect_subject_from_question(question)
                 self.assertEqual(subject, expected_subject)
                 self.assertGreaterEqual(confidence, 0.6)
+
+    def test_astronomy_and_physics_questions_are_science_not_math(self):
+        for question in (
+            "que es un agujero negro", "que es una galaxia", "que es el sistema solar",
+            "que es la gravedad", "que es un asteroide",
+        ):
+            with self.subTest(question=question):
+                subject, confidence = detect_subject_from_question(question)
+                self.assertEqual(subject, "Ciencias Naturales")
+                self.assertEqual(confidence, 1.0)
+
+    def test_singular_astronomy_query_recovers_plural_local_title(self):
+        result = retrieve_local_content(
+            "5° básico", "Ciencias Naturales", "que es un agujero negro",
+            mode="Estudiar para el colegio",
+        )
+        self.assertEqual(result["provenance_status"], "local_verified")
+        self.assertIn("agujeros negros", normalize_text(result["results"][0]["title"]))
+
+    def test_astronomy_encyclopedia_folder_has_explicit_category(self):
+        self.assertEqual(
+            _encyclopedia_info(Path("Enciclopedia_Astronomia_Espacio_1B_a_4M_Chat_Escolar/05_quinto_basico/tema.md")),
+            ("Ciencias Naturales", "Astronomía y espacio"),
+        )
+
+    def test_future_encyclopedia_folder_uses_keyword_map(self):
+        self.assertEqual(
+            _encyclopedia_info(Path("Enciclopedia_Algebra_1B_a_4M_Chat_Escolar/tema.md")),
+            ("Matemática", "Álgebra"),
+        )
+        self.assertEqual(
+            _encyclopedia_info(Path("Enciclopedia_Tecnologia_Informatica_1B_a_4M_Chat_Escolar/tema.md")),
+            ("Tecnología", "Informática"),
+        )
+
+    def test_math_encyclopedia_categories_are_inferred_from_folder_tokens(self):
+        cases = {
+            "Enciclopedia_Matematica_1B_a_4M_Chat_Escolar": "Matemática general",
+            "Enciclopedia_Aritmetica_1B_a_4M_Chat_Escolar": "Aritmética",
+            "Enciclopedia_Algebra_1B_a_4M_Chat_Escolar": "Álgebra",
+            "Enciclopedia_Geometria_1B_a_4M_Chat_Escolar": "Geometría",
+            "Enciclopedia_Estadistica_Probabilidad_1B_a_4M_Chat_Escolar": "Estadística y probabilidad",
+            "Enciclopedia_Medicion_1B_a_4M_Chat_Escolar": "Medición",
+            "Enciclopedia_Funciones_1B_a_4M_Chat_Escolar": "Funciones",
+        }
+        for folder, category in cases.items():
+            with self.subTest(folder=folder):
+                self.assertEqual(_encyclopedia_info(Path(f"{folder}/tema.md")), ("Matemática", category))
+
+    def test_unknown_future_encyclopedia_has_safe_general_fallback(self):
+        area, category = _encyclopedia_info(Path("Enciclopedia_Arte_Digital_1B_a_4M_Chat_Escolar/tema.md"))
+        self.assertEqual(area, "General")
+        self.assertIn("Arte Digital", category)
 
     def test_historical_naval_phrases_have_priority_over_other_subjects(self):
         for question in (

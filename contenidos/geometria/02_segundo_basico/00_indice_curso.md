@@ -1,0 +1,23 @@
+# Índice de Geometría — 2° básico
+
+> **Referencia curricular:** colección organizada el 2026-07-15. Sigue la progresión desde figuras 2D y 3D en 1° básico hasta transformaciones, relaciones métricas, geometría analítica y aplicaciones en enseñanza media. Los contenidos de cónicas, geometría espacial avanzada y geometrías no euclidianas se marcan como ampliación.
+- [Posición y puntos de referencia](001_posicion_y_puntos_de_referencia.md)
+- [Trayectos en cuadrículas](002_trayectos_en_cuadriculas.md)
+- [Figuras 2D y atributos](003_figuras_2d_y_atributos.md)
+- [Lados y vértices](004_lados_y_vertices.md)
+- [Triángulos iniciales](005_triangulos_iniciales.md)
+- [Cuadriláteros iniciales](006_cuadrilateros_iniciales.md)
+- [Círculo y circunferencia inicial](007_circulo_y_circunferencia_inicial.md)
+- [Simetría inicial](008_simetria_inicial.md)
+- [Mitades simétricas](009_mitades_simetricas.md)
+- [Composición de figuras](010_composicion_de_figuras.md)
+- [Cuerpos 3D](011_cuerpos_3d.md)
+- [Caras aristas y vértices](012_caras_aristas_y_vertices.md)
+- [Cubo y paralelepípedo](013_cubo_y_paralelepipedo.md)
+- [Prismas iniciales](014_prismas_iniciales.md)
+- [Pirámides iniciales](015_piramides_iniciales.md)
+- [Cilindro cono y esfera](016_cilindro_cono_y_esfera.md)
+- [Redes simples](017_redes_simples.md)
+- [Construcciones geométricas](018_construcciones_geometricas.md)
+- [Longitud de bordes inicial](019_longitud_de_bordes_inicial.md)
+- [Problemas espaciales cotidianos](020_problemas_espaciales_cotidianos.md)

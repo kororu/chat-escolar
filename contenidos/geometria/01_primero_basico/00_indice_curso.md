@@ -1,0 +1,23 @@
+# Índice de Geometría — 1° básico
+
+> **Referencia curricular:** colección organizada el 2026-07-15. Sigue la progresión desde figuras 2D y 3D en 1° básico hasta transformaciones, relaciones métricas, geometría analítica y aplicaciones en enseñanza media. Los contenidos de cónicas, geometría espacial avanzada y geometrías no euclidianas se marcan como ampliación.
+- [Posición derecha e izquierda](001_posicion_derecha_e_izquierda.md)
+- [Arriba abajo delante detrás](002_arriba_abajo_delante_detras.md)
+- [Figuras 2D del entorno](003_figuras_2d_del_entorno.md)
+- [Círculo](004_circulo.md)
+- [Triángulo](005_triangulo.md)
+- [Cuadrado](006_cuadrado.md)
+- [Rectángulo](007_rectangulo.md)
+- [Clasificar figuras por forma](008_clasificar_figuras_por_forma.md)
+- [Lados y esquinas iniciales](009_lados_y_esquinas_iniciales.md)
+- [Componer figuras 2D](010_componer_figuras_2d.md)
+- [Descomponer figuras 2D](011_descomponer_figuras_2d.md)
+- [Cuerpos 3D del entorno](012_cuerpos_3d_del_entorno.md)
+- [Cubo](013_cubo.md)
+- [Esfera](014_esfera.md)
+- [Cilindro](015_cilindro.md)
+- [Cono inicial](016_cono_inicial.md)
+- [Relacionar figuras 2D y 3D](017_relacionar_figuras_2d_y_3d.md)
+- [Construcciones con bloques](018_construcciones_con_bloques.md)
+- [Patrones geométricos](019_patrones_geometricos.md)
+- [Dibujar recorridos simples](020_dibujar_recorridos_simples.md)

@@ -137,8 +137,8 @@ RELATED_SECTION_HINTS = {
 }
 
 SUBJECT_KEYWORDS = {
-    "Matemática": ("suma", "resta", "multiplicacion", "division", "fraccion", "fracciones", "decimal", "porcentaje", "numero", "ecuacion", "geometria", "angulo", "area", "perimetro", "volumen", "grafico", "tabla", "probabilidad", "medida"),
-    "Ciencias Naturales": ("fotosintesis", "planta", "celula", "cuerpo humano", "sistema respiratorio", "sistema digestivo", "sistema circulatorio", "ecosistema", "habitat", "animales", "energia", "fuerza", "materia", "agua", "planeta", "sistema solar", "universo", "volcan", "terremoto", "alimentacion", "nutrientes", "saludable"),
+    "Matemática": ("suma", "resta", "multiplicacion", "division", "fraccion", "fracciones", "decimal", "porcentaje", "numero", "numeros", "multiplo", "divisor", "potencia", "raiz", "ecuacion", "inecuacion", "variable", "incognita", "expresion algebraica", "patron", "funcion", "geometria", "figura", "triangulo", "cuadrado", "rectangulo", "circulo", "circunferencia", "angulo", "area", "perimetro", "volumen", "cuerpo geometrico", "plano cartesiano", "promedio", "media", "mediana", "moda", "grafico", "tabla", "datos", "probabilidad", "azar", "posibilidad", "frecuencia", "medida", "medicion"),
+    "Ciencias Naturales": ("fotosintesis", "planta", "celula", "cuerpo humano", "sistema respiratorio", "sistema digestivo", "sistema circulatorio", "ecosistema", "habitat", "animales", "energia", "fuerza", "materia", "agua", "planeta", "planetas", "sistema solar", "universo", "cosmos", "agujero negro", "agujeros negros", "galaxia", "galaxias", "estrella", "estrellas", "luna", "sol", "eclipse", "orbit", "satelite", "asteroide", "cometa", "meteorito", "nebulosa", "via lactea", "gravedad", "espacio", "astronomia", "volcan", "terremoto", "alimentacion", "nutrientes", "saludable"),
     "Historia": ("historia", "pasado", "chile", "independencia", "colonia", "pueblos originarios", "mapuche", "incas", "mayas", "aztecas", "guerra", "segunda guerra mundial", "arturo prat", "bernardo ohiggins", "civilizacion", "democracia", "derechos", "constitucion", "region", "geografia", "mapa", "territorio"),
     "Lenguaje": ("sustantivo", "verbo", "adjetivo", "oracion", "texto", "cuento", "poema", "fabula", "leyenda", "mito", "resumen", "comprension lectora", "lectura", "escritura", "sinonimo", "antonimo", "narrador", "personaje", "parrafo", "acento", "tilde", "puntuacion"),
 }
@@ -158,6 +158,13 @@ HISTORY_PRIORITY_PHRASES = (
     "heroes navales",
     "historia de chile",
     "iquique",
+)
+
+ASTRONOMY_PRIORITY_PHRASES = (
+    "agujero negro", "agujeros negros", "galaxia", "galaxias", "universo", "cosmos",
+    "estrella", "estrellas", "planeta", "planetas", "sistema solar", "luna", "eclipse",
+    "orbita", "satelite", "asteroide", "cometa", "meteorito", "nebulosa", "via lactea",
+    "gravedad", "fuerza de gravedad", "espacio", "astronomia",
 )
 
 HISTORY_CANONICAL_TOPICS = {
@@ -203,6 +210,57 @@ _content_index_lock = Lock()
 _library_index: tuple[dict, ...] = ()
 _library_term_index: dict[str, tuple[dict, ...]] = {}
 
+# Mapa central para cualquier futura carpeta Enciclopedia_*. Cada entrada define
+# palabras de ruta, materia escolar y categoría de respaldo.
+ENCYCLOPEDIA_AREA_KEYWORDS = (
+    (("astronomia", "espacio"), "Ciencias Naturales", "Astronomía y espacio"),
+    (("biologia",), "Ciencias Naturales", "Biología"),
+    (("fisica",), "Ciencias Naturales", "Física"),
+    (("quimica",), "Ciencias Naturales", "Química"),
+    (("tierra", "ecologia", "medioambiente"), "Ciencias Naturales", "Ciencias de la Tierra, ecología y medioambiente"),
+    (("ciencias", "naturales"), "Ciencias Naturales", "Ciencias Naturales generales"),
+    (("estadistica", "probabilidad"), "Matemática", "Estadística y probabilidad"),
+    (("medicion",), "Matemática", "Medición"),
+    (("funciones",), "Matemática", "Funciones"),
+    (("algebra",), "Matemática", "Álgebra"),
+    (("aritmetica",), "Matemática", "Aritmética"),
+    (("geometria",), "Matemática", "Geometría"),
+    (("matematica", "resolucion problemas"), "Matemática", "Matemática general"),
+    (("literatura", "lenguaje", "comunicacion"), "Lenguaje", "Literatura"),
+    (("tecnologia", "informatica", "programacion"), "Tecnología", "Informática"),
+    (("historia", "geografia", "conflictos", "guerras", "ciudadana", "derecho"), "Historia", "Historia, Geografía y Ciencias Sociales"),
+)
+
+ENCYCLOPEDIA_FOLDERS = {
+    "Enciclopedia_Astronomia_Espacio_1B_a_4M_Chat_Escolar": ("Ciencias Naturales", "Astronomía y espacio"),
+    "Enciclopedia_Biologia_1B_a_4M_Chat_Escolar": ("Ciencias Naturales", "Biología"),
+    "Enciclopedia_Ciencias_Naturales_Generales_1B_a_4M_Chat_Escolar": ("Ciencias Naturales", "Ciencias Naturales generales"),
+    "Enciclopedia_Ciencias_Tierra_Ecologia_Medioambiente_1B_a_4M_Chat_Escolar": ("Ciencias Naturales", "Ciencias de la Tierra, ecología y medioambiente"),
+    "Enciclopedia_Fisica_1B_a_4M_Chat_Escolar": ("Ciencias Naturales", "Física"),
+    "Enciclopedia_Quimica_1B_a_4M_Chat_Escolar": ("Ciencias Naturales", "Química"),
+    "Enciclopedia_Historia_de_Chile_1B_a_4M_Chat_Escolar": ("Historia", "Historia de Chile"),
+    "Enciclopedia_Historia_Universal_1B_a_4M_Chat_Escolar": ("Historia", "Historia Universal"),
+    "Enciclopedia_Geografia_Chile_Universal_1B_a_4M_Chat_Escolar": ("Historia", "Geografía"),
+    "Enciclopedia_Conflictos_Historicos_Guerras_1B_a_4M_Chat_Escolar": ("Historia", "Conflictos históricos y guerras"),
+    "Enciclopedia_Educacion_Ciudadana_Formacion_Civica_Derecho_1B_a_4M_Chat_Escolar": ("Historia", "Formación Cívica y Derecho básico"),
+}
+
+
+def _encyclopedia_info(relative_path: Path) -> tuple[str, str] | None:
+    if not relative_path.parts:
+        return None
+    folder = relative_path.parts[0]
+    if folder in ENCYCLOPEDIA_FOLDERS:
+        return ENCYCLOPEDIA_FOLDERS[folder]
+    if not folder.startswith("Enciclopedia_"):
+        return None
+    normalized = normalize_text(folder.removeprefix("Enciclopedia_").replace("1B_a_4M_Chat_Escolar", ""))
+    for keywords, area, category in ENCYCLOPEDIA_AREA_KEYWORDS:
+        if any(keyword in normalized for keyword in keywords):
+            return area, category
+    category = " ".join(word.capitalize() for word in normalized.split()) or "Enciclopedia"
+    return "General", category
+
 
 def _metadata_value(metadata: str, key: str) -> str:
     match = re.search(rf"(?m)^{re.escape(key)}:\s*[\"']?([^\"'\n]+)", metadata)
@@ -226,6 +284,22 @@ def _course_number(value: str | None) -> int | None:
 
 
 def _infer_library_subject(relative_path: Path, metadata: dict) -> str:
+    # Los metadatos del documento prevalecen sobre el nombre de su carpeta.
+    declared = normalize_text(metadata.get("area") or metadata.get("asignatura") or "")
+    if declared:
+        if any(term in declared for term in ("historia", "geografia", "ciudadana")):
+            return "Historia"
+        if any(term in declared for term in ("matematica", "algebra", "geometria")):
+            return "Matemática"
+        if any(term in declared for term in ("lenguaje", "literatura", "comunicacion")):
+            return "Lenguaje"
+        if "tecnologia" in declared:
+            return "Tecnología"
+        if any(term in declared for term in ("ciencia", "fisica", "quimica", "biologia", "astronomia")):
+            return "Ciencias Naturales"
+    encyclopedia = _encyclopedia_info(relative_path)
+    if encyclopedia:
+        return encyclopedia[0]
     area = normalize_text(metadata.get("area") or metadata.get("asignatura") or "")
     path = normalize_text(" ".join(relative_path.parts))
     if any(term in f"{area} {path}" for term in ("historia", "geografia", "ciudadana", "conflictos")):
@@ -242,7 +316,7 @@ def _infer_library_course(relative_path: Path, metadata: dict) -> str:
         metadata.get("curso_origen")
         or metadata.get("apto_desde")
         or next((folder_to_course_label(part) for part in relative_path.parts if part in COURSE_LABELS), "")
-        or "Sin curso declarado"
+        or ("Enciclopedia 1° básico a 4° medio" if _encyclopedia_info(relative_path) else "Sin curso declarado")
     )
 
 
@@ -368,6 +442,8 @@ def detect_subject_from_question(question: str) -> tuple[str | None, float]:
     normalized = normalize_question(question)["normalized_text"]
     if any(phrase in normalized for phrase in HISTORY_PRIORITY_PHRASES):
         return "Historia", 1.0
+    if any(phrase in normalized for phrase in ASTRONOMY_PRIORITY_PHRASES):
+        return "Ciencias Naturales", 1.0
     scores = {
         subject: sum(1 for keyword in keywords if keyword in normalized)
         for subject, keywords in SUBJECT_KEYWORDS.items()
@@ -557,8 +633,11 @@ def _score_document(document: dict, keywords: list[str]) -> dict:
     fields = document["fields"]
     weights = {
         "filename": 14,
+        "path": 14,
         "title": 14,
         "topic": 12,
+        "category": 12,
+        "collection": 16,
         "headings": 8,
         "explicit_keywords": 10,
     }
@@ -641,6 +720,10 @@ def _build_content_index(search_scopes: list[tuple[str, str]] | None = None) -> 
 
         content = strip_front_matter(raw_content)
         metadata = parse_front_matter(raw_content)
+        encyclopedia = _encyclopedia_info(relative_path)
+        if encyclopedia:
+            metadata["area"] = metadata.get("area") or encyclopedia[0]
+            metadata["category"] = metadata.get("category") or encyclopedia[1]
         title = extract_title(content, file_path.stem)
         direct_headings = [
             heading for heading in extract_headings(content) if not _is_related_section(heading)
@@ -664,8 +747,11 @@ def _build_content_index(search_scopes: list[tuple[str, str]] | None = None) -> 
             "sections": sections,
             "fields": {
                 "filename": normalize_text(file_path.stem),
+                "path": normalize_text(relative_path.as_posix()),
                 "title": normalize_text(title),
                 "topic": normalize_text(metadata["topic"]),
+                "category": normalize_text(metadata.get("category", "")),
+                "collection": "",
                 "headings": normalize_text(" ".join(direct_headings)),
                 "explicit_keywords": normalize_text(" ".join(metadata["keywords"])),
                 "body": normalize_text(content),
@@ -706,6 +792,10 @@ def _build_library_index() -> tuple[dict, ...]:
             continue
         content = strip_front_matter(raw_content)
         metadata = parse_front_matter(raw_content)
+        encyclopedia = _encyclopedia_info(relative_path)
+        if encyclopedia:
+            metadata["area"] = metadata.get("area") or encyclopedia[0]
+            metadata["category"] = metadata.get("category") or encyclopedia[1]
         title = extract_title(content, file_path.stem)
         headings = [heading for heading in extract_headings(content) if not _is_related_section(heading)]
         course = _infer_library_course(relative_path, metadata)
@@ -718,6 +808,7 @@ def _build_library_index() -> tuple[dict, ...]:
             "course": course,
             "course_number": _course_number(course),
             "subject": subject,
+            "collection_category": encyclopedia[1] if encyclopedia else "",
             "metadata": metadata,
             "sections": [
                 {**section, "normalized_heading": normalize_text(section["heading"]),
@@ -727,7 +818,10 @@ def _build_library_index() -> tuple[dict, ...]:
             ],
             "fields": {
                 "filename": normalize_text(file_path.stem), "title": normalize_text(title),
+                "path": normalize_text(relative_path.as_posix()),
                 "topic": normalize_text(metadata.get("topic", "")),
+                "category": normalize_text(metadata.get("category", "")),
+                "collection": normalize_text(encyclopedia[1] if encyclopedia else ""),
                 "headings": normalize_text(" ".join(headings)),
                 "explicit_keywords": normalize_text(" ".join(metadata.get("keywords", []))),
                 "body": normalize_text(content),
@@ -763,7 +857,7 @@ def _build_library_term_index(documents: tuple[dict, ...]) -> dict[str, tuple[di
     for document in documents:
         # El índice inverso usa solo señales editoriales. El cuerpo se evalúa
         # después, únicamente para los documentos candidatos.
-        signal = " ".join(document["fields"][field] for field in ("filename", "title", "topic", "headings", "explicit_keywords"))
+        signal = " ".join(document["fields"][field] for field in ("filename", "path", "title", "topic", "category", "collection", "headings", "explicit_keywords"))
         for term in set(signal.split()):
             if len(term) >= 3:
                 terms.setdefault(term, []).append(document)
@@ -842,18 +936,30 @@ def _collect_library_candidates(keywords: list[str], selected_subject: str, prof
     preferred_number = _course_number(profile_course)
     selected_subject_normalized = normalize_text(selected_subject)
     _get_library_index()
+    # Recupera títulos/editoriales en singular o plural (agujero/agujeros)
+    # sin depender de una carpeta o documento con una forma exacta.
+    search_keywords = list(keywords)
+    for keyword in keywords:
+        if len(keyword) < 4:
+            continue
+        search_keywords.append(keyword[:-1] if keyword.endswith("s") else f"{keyword}s")
+    search_keywords = list(dict.fromkeys(search_keywords))
     matching_documents = {
         id(document): document
-        for keyword in keywords
+        for keyword in search_keywords
         for document in _library_term_index.get(keyword, ())
     }
     # Sin una señal editorial no se recorre el cuerpo completo de la biblioteca.
     # Esto evita que una pregunta sin fuente tarde lo mismo que una coincidencia real.
     for document in matching_documents.values():
-        scored = _score_document(document, keywords)
+        scored = _score_document(document, search_keywords)
         if scored["score"] <= 0:
             continue
         score = scored["score"]
+        if document.get("collection_category") == "Astronomía y espacio" and any(
+            phrase in " ".join(search_keywords) for phrase in ASTRONOMY_PRIORITY_PHRASES
+        ):
+            score += 24
         if normalize_text(document["subject"]) == selected_subject_normalized:
             score += 6
         distance = 99
@@ -863,7 +969,7 @@ def _collect_library_candidates(keywords: list[str], selected_subject: str, prof
         metadata = document["metadata"]
         candidates.append({
             "title": scored["title"], "path": document["relative_path"], "score": score,
-            "excerpt": make_excerpt(scored["content"], keywords),
+            "excerpt": make_excerpt(scored["content"], search_keywords),
             "coherent": bool(scored["high_signal_matches"]),
             "matched_terms": sorted(scored["matched_terms"]), "is_exact_match": scored["is_exact_match"],
             "related_section": scored["related_section"], "course": document["course"],

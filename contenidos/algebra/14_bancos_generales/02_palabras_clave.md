@@ -1,0 +1,330 @@
+# Palabras clave
+
+- patrones de colores
+- patrones de formas
+- patrones de sonidos
+- patrones de movimientos
+- repetición de dos elementos
+- repetición de tres elementos
+- continuar patrones
+- crear patrones
+- encontrar el elemento que falta
+- patrones crecientes iniciales
+- patrones decrecientes iniciales
+- igualdad como mismo valor
+- símbolo igual
+- comparar expresiones simples
+- caja misteriosa en sumas
+- caja misteriosa en restas
+- relación suma y resta
+- secuencias numéricas hasta 20
+- reglas verbales simples
+- problemas con patrones
+- patrones repetitivos complejos
+- patrones numéricos crecientes
+- patrones numéricos decrecientes
+- reglas de sumar una cantidad
+- reglas de restar una cantidad
+- completar tablas de patrones
+- identificar errores en secuencias
+- crear secuencias
+- igualdad y equivalencia
+- expresiones numéricas equivalentes
+- incógnita con símbolo
+- ecuaciones simples de suma
+- ecuaciones simples de resta
+- familias de operaciones
+- relación multiplicación y suma repetida
+- patrones multiplicativos iniciales
+- tablas de entrada y salida
+- reglas con palabras
+- representación concreta pictórica y simbólica
+- problemas de igualdad
+- patrones en tabla del 100
+- secuencias aditivas
+- secuencias sustractivas
+- reglas de formación
+- registrar patrones
+- generalizar con palabras
+- ecuaciones de un paso con suma
+- ecuaciones de un paso con resta
+- símbolos para incógnitas
+- operaciones inversas
+- comprobar ecuaciones
+- igualdades verdaderas y falsas
+- expresiones equivalentes
+- patrones geométricos
+- patrones multiplicativos
+- tablas de entrada y salida
+- relaciones entre dos cantidades
+- problemas con incógnita
+- estrategias de ensayo y ajuste
+- comunicar una regla
+- patrones numéricos con una operación
+- patrones en tablas
+- reglas de suma y resta
+- reglas de multiplicación
+- secuencias crecientes
+- secuencias decrecientes
+- generalización verbal
+- uso de letras inicial
+- expresiones con una variable
+- evaluar expresiones simples
+- ecuaciones con suma
+- ecuaciones con resta
+- ecuaciones con multiplicación
+- ecuaciones con división
+- operaciones inversas
+- comprobación de soluciones
+- desigualdades simples
+- representación en recta numérica
+- problemas de edades iniciales
+- problemas de dinero con incógnita
+- problemas de perímetro con variable
+- patrones geométricos
+- tablas funcionales iniciales
+- modelación simple
+- reglas de secuencias
+- patrones aditivos
+- patrones multiplicativos
+- secuencias con dos operaciones
+- generalización con letras
+- variable y constante
+- expresiones algebraicas iniciales
+- términos y coeficientes iniciales
+- evaluación de expresiones
+- uso de paréntesis
+- propiedad distributiva inicial
+- ecuaciones de un paso
+- ecuaciones de dos pasos iniciales
+- comprobación de ecuaciones
+- inecuaciones simples
+- soluciones en recta numérica
+- relaciones entre cantidades
+- tablas de valores
+- regla de correspondencia
+- proporcionalidad directa inicial
+- problemas de perímetro
+- problemas de área
+- problemas de edades
+- problemas de compras
+- modelación con expresiones
+- patrones generalizados
+- secuencias aritméticas iniciales
+- término y posición
+- regla explícita inicial
+- variable dependiente e independiente inicial
+- lenguaje algebraico
+- traducción verbal a simbólica
+- expresiones algebraicas
+- términos semejantes iniciales
+- propiedad distributiva
+- evaluación de expresiones
+- ecuaciones de primer grado
+- ecuaciones con paréntesis iniciales
+- ecuaciones con fracciones simples
+- inecuaciones de primer grado simples
+- recta numérica e intervalos iniciales
+- razones como relaciones
+- proporcionalidad directa
+- proporcionalidad inversa inicial
+- tablas y gráficos
+- relación lineal inicial
+- problemas de tasas
+- problemas de dinero
+- problemas geométricos
+- modelación paso a paso
+- noción de variable
+- lenguaje algebraico
+- generalizar relaciones numéricas
+- formular reglas y propiedades
+- expresiones algebraicas
+- término coeficiente y grado inicial
+- términos semejantes
+- reducción de expresiones
+- propiedad distributiva
+- evaluación de expresiones
+- ecuaciones lineales ax=b
+- ecuaciones x/a=b
+- ecuaciones con suma y resta
+- ecuaciones con paréntesis
+- inecuaciones lineales
+- representación de soluciones
+- proporción directa
+- proporción inversa
+- tablas proporcionales
+- gráficos proporcionales
+- constante de proporcionalidad
+- problemas de velocidad
+- problemas de costo
+- problemas geométricos
+- modelación con ecuaciones
+- verificación y análisis de errores
+- operaciones con expresiones algebraicas
+- términos semejantes avanzados
+- propiedad distributiva y factorización común
+- ecuaciones lineales
+- inecuaciones lineales
+- problemas con ecuaciones
+- noción de función
+- variable independiente y dependiente
+- tablas de valores
+- plano cartesiano
+- función lineal
+- función afín
+- pendiente
+- intercepto
+- cambio constante
+- gráfico de funciones
+- traslación de rectas
+- proporcionalidad directa e inversa
+- interés simple como función afín
+- sistemas de ecuaciones iniciales
+- método gráfico inicial
+- problemas de encuentro
+- problemas de tarifas
+- modelación de situaciones
+- interpretación de parámetros
+- uso de software para funciones
+- expresiones algebraicas racionales iniciales
+- productos notables
+- cuadrado de binomio
+- suma por diferencia
+- producto de binomios con término común
+- representación geométrica de productos notables
+- desarrollo de expresiones
+- factor común
+- factorización por productos notables
+- ecuaciones lineales
+- sistemas de ecuaciones 2x2
+- método gráfico
+- método de sustitución
+- método de igualación
+- método de reducción
+- problemas con sistemas
+- ecuación lineal en dos variables
+- rectas en el plano
+- pendiente e intercepto
+- función lineal
+- función afín
+- modelación lineal
+- inecuaciones lineales
+- sistemas de inecuaciones iniciales
+- problemas de mezcla
+- problemas de movimiento
+- problemas económicos
+- uso de tecnología algebraica
+- polinomios
+- grado de un polinomio
+- operaciones con polinomios
+- división de polinomios inicial
+- teorema del resto inicial
+- factorización avanzada
+- ecuaciones cuadráticas
+- fórmula general
+- completación de cuadrados
+- factorización de trinomios
+- discriminante
+- número de soluciones
+- función cuadrática
+- parábola
+- vértice y eje de simetría
+- raíces e intersecciones
+- transformaciones de parábolas
+- inecuaciones cuadráticas iniciales
+- sistemas lineal-cuadrático iniciales
+- funciones por tramos
+- función inversa inicial
+- composición inicial
+- modelación cuadrática
+- problemas de optimización inicial
+- crecimiento y decrecimiento
+- interpretación de parámetros
+- expresiones racionales
+- ecuaciones racionales iniciales
+- problemas científicos
+- uso de software
+- funciones exponenciales
+- crecimiento exponencial
+- decrecimiento exponencial
+- parámetros de función exponencial
+- ecuaciones exponenciales
+- funciones logarítmicas
+- logaritmo como inversa
+- propiedades de logaritmos
+- ecuaciones logarítmicas
+- modelación de población
+- modelación financiera
+- modelación de desintegración
+- números complejos y ecuaciones
+- raíces complejas
+- polinomios y raíces
+- teorema fundamental del álgebra inicial
+- sucesiones aritméticas
+- sucesiones geométricas
+- fórmula de término general
+- suma de sucesiones inicial
+- recurrencias iniciales
+- transformaciones de funciones
+- composición de funciones
+- función inversa
+- modelación y ajuste de parámetros
+- validación de modelos
+- familias de funciones
+- funciones racionales
+- asíntotas
+- funciones trigonométricas
+- periodicidad
+- transformaciones de funciones
+- composición avanzada
+- función inversa avanzada
+- ecuaciones trigonométricas iniciales
+- identidades algebraicas iniciales
+- polinomios de grado superior
+- raíces múltiples
+- factorización avanzada
+- teorema del factor
+- sistemas no lineales iniciales
+- matrices iniciales
+- sistemas con matrices
+- determinantes 2x2
+- modelos discretos
+- sucesiones y series
+- recurrencias
+- optimización algebraica
+- tasa de cambio inicial
+- límites algebraicos intuitivos
+- derivada algebraica inicial
+- modelación con datos
+- comparación de modelos
+- análisis de supuestos
+- álgebra y pensamiento computacional
+- proyecto final de modelación algebraica
+- qué es el álgebra
+- patrones
+- secuencias
+- reglas de formación
+- igualdad y equivalencia
+- incógnitas
+- variables
+- constantes y coeficientes
+- lenguaje algebraico
+- expresiones algebraicas
+- términos semejantes
+- propiedad distributiva
+- ecuaciones
+- inecuaciones
+- sistemas de ecuaciones
+- productos notables
+- factorización
+- polinomios
+- función lineal
+- función afín
+- función cuadrática
+- funciones exponenciales
+- funciones logarítmicas
+- composición e inversa
+- modelación algebraica
+- errores frecuentes
+- resolución paso a paso
+- álgebra con tecnología

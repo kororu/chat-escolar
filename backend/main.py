@@ -16,9 +16,19 @@ except ImportError:
     from ai_contract import build_educational_context
 
 try:
-    from .content_reader import detect_subject_from_question, normalize_question, retrieve_local_content
+    from .content_reader import (
+        detect_subject_from_question,
+        normalize_question,
+        reload_local_content_index,
+        retrieve_local_content,
+    )
 except ImportError:
-    from content_reader import detect_subject_from_question, normalize_question, retrieve_local_content
+    from content_reader import (
+        detect_subject_from_question,
+        normalize_question,
+        reload_local_content_index,
+        retrieve_local_content,
+    )
 
 try:
     from .conversation_context import build_conversation_context
@@ -28,6 +38,8 @@ except ImportError:
 try:
     from .demo_tutor import (
         build_grounded_history_answer,
+        build_grounded_science_answer,
+        build_contextual_followup,
         build_local_content_fallback,
         detect_topic,
         make_demo_answer,
@@ -35,6 +47,8 @@ try:
 except ImportError:
     from demo_tutor import (
         build_grounded_history_answer,
+        build_grounded_science_answer,
+        build_contextual_followup,
         build_local_content_fallback,
         detect_topic,
         make_demo_answer,
@@ -182,6 +196,17 @@ class ProfileCreate(BaseModel):
 
 class AiTestRequest(BaseModel):
     prompt: str = Field(min_length=1, max_length=6000)
+
+
+class QuickActionRequest(BaseModel):
+    action: str
+    course: str
+    subject: str | None = "Automática"
+    mode: str = "Estudiar para el colegio"
+    last_user_question: str | None = None
+    profile_id: int | None = None
+    user_name: str | None = None
+    user_role: str | None = None
 
 
 class SettingsUpdate(BaseModel):
@@ -429,8 +454,20 @@ IQUIQUE_TOPIC_MARKERS = (
 
 @app.on_event("startup")
 def start_local_ai() -> None:
-    """Keep an already running Ollama intact; otherwise manage only our child process."""
+    """Prepare the local index before serving requests, then manage local AI."""
     global _ollama_lifecycle
+    index_started_at = perf_counter()
+    try:
+        indexed_documents = reload_local_content_index()
+        logger.info(
+            "Índice local preparado: %s documentos en %d ms.",
+            indexed_documents,
+            round((perf_counter() - index_started_at) * 1000),
+        )
+    except Exception:
+        # El índice también conserva carga diferida; no bloquear el backend si un
+        # archivo local tiene un problema inesperado.
+        logger.exception("No se pudo precalentar el índice de contenido local.")
     settings = load_settings()
     if settings["ollama_enabled"]:
         _ollama_lifecycle = start_managed_server()
@@ -513,6 +550,17 @@ def should_use_grounded_history_answer(
             is_history_subject(subject_used)
             or is_history_subject((local_content or {}).get("subject"))
         )
+    )
+
+
+def should_use_grounded_science_answer(
+    *, grounding_required: bool, has_verified_source: bool, subject_used: str | None,
+    local_content: dict | None,
+) -> bool:
+    """Ciencias verificadas se presentan desde la fuente, sin redacción libre de IA."""
+    subject = normalize_text(subject_used or (local_content or {}).get("subject", ""))
+    return grounding_required and has_verified_source and any(
+        term in subject for term in ("ciencias", "fisica", "quimica", "biologia", "astronomia")
     )
 
 
@@ -854,6 +902,46 @@ def run_ai_test(prompt: str = "Responde únicamente: OK") -> dict:
 @app.post("/ai/test")
 def ai_test(payload: AiTestRequest):
     return run_ai_test(payload.prompt)
+
+
+@app.post("/chat/quick-action")
+def chat_quick_action(payload: QuickActionRequest):
+    action_map = {"No entendí": "explain_again", "Explícalo más fácil": "simplify", "Dame un ejemplo": "give_example", "Hazme una pregunta": "ask_question"}
+    question = (payload.last_user_question or "").strip()
+    if payload.profile_id is not None:
+        profile = get_profile_or_404(payload.profile_id)
+        payload.user_name, payload.user_role = profile["name"], profile["role"]
+    if not question:
+        response = build_contextual_followup(payload, "explain_again", None)
+        return {
+            **response, "subject_used": "General", "category": "Sin categoría",
+            "source_title": "Sin fuente local", "source_course": "Sin curso específico declarado",
+            "content_sources": [], "related_sources": [], "provenance_status": "safe_fallback",
+            "used_local_content": False, "used_ollama": False, "metadata": {}, "provider": "demo",
+        }
+    subject = payload.subject
+    if is_automatic_subject(subject):
+        subject, _ = detect_subject_from_question(question)
+        subject = subject or "Ciencias Naturales"
+    payload.subject = subject
+    retrieval = retrieve_local_content(payload.course, subject, question, mode=payload.mode)
+    source = retrieval["results"][0] if retrieval.get("results") else None
+    response = build_contextual_followup(payload, action_map.get(payload.action, "explain_again"), source)
+    source = source or {}
+    return {
+        **response,
+        "subject_used": subject or "General",
+        "category": source.get("metadata", {}).get("category") or "Sin categoría",
+        "source_title": source.get("title") or "Sin fuente local",
+        "source_course": source.get("course") or "Sin curso específico declarado",
+        "content_sources": [{"title": source.get("title") or "Fuente local", "path": source.get("path"), "course": source.get("course"), "subject": source.get("subject")} ] if source else [],
+        "related_sources": [],
+        "provenance_status": LOCAL_CONTENT_FALLBACK if source else "safe_fallback",
+        "used_local_content": bool(source),
+        "used_ollama": False,
+        "metadata": source.get("metadata", {}),
+        "provider": PROVIDER_LOCAL_CONTENT if source else "demo",
+    }
 
 
 @app.get("/videos")
@@ -1208,6 +1296,12 @@ def chat_demo(payload: ChatDemoRequest):
         subject_used=subject_used,
         local_content=local_results[0] if local_results else None,
     )
+    grounded_science_policy = should_use_grounded_science_answer(
+        grounding_required=grounding_required,
+        has_verified_source=has_verified_source,
+        subject_used=subject_used,
+        local_content=local_results[0] if local_results else None,
+    )
     grounded_source_available = has_verified_source
     answer_grounded = has_verified_source
     source_confidence = "verified" if has_verified_source else retrieval.get("confidence", "none")
@@ -1223,6 +1317,9 @@ def chat_demo(payload: ChatDemoRequest):
         and ai_mode_allows_ollama
         and (has_verified_source or not grounding_required)
         and not grounded_history_policy
+        # En Modo Escolar la fuente local verificada es la respuesta preferida;
+        # IA libre solo puede operar sin fuente en Modo Explorar.
+        and not (grounding_required and has_verified_source)
     )
     ollama_attempted = False
     ollama_timeout = False
@@ -1278,6 +1375,12 @@ def chat_demo(payload: ChatDemoRequest):
         provider = PROVIDER_LOCAL_SAFE
         ollama_result_status = "grounded_local_policy"
         local_fallback_reason = "grounded_history_policy"
+    elif grounded_science_policy:
+        demo_answer = build_grounded_science_answer(payload, local_results[0])
+        response_provenance = LOCAL_VERIFIED
+        provider = PROVIDER_LOCAL_SAFE
+        ollama_result_status = "grounded_local_policy"
+        local_fallback_reason = "grounded_science_policy"
     elif has_verified_source:
         demo_answer = build_local_content_fallback(payload, local_results[0])
         response_provenance = LOCAL_CONTENT_FALLBACK

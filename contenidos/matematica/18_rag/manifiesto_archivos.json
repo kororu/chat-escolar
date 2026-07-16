@@ -1,0 +1,1997 @@
+[
+  {
+    "path": "00_documentacion/00_indice_maestro.md",
+    "size": 2905,
+    "sha256": "692b37791f50eb5a4282caa55644d3b14bb5d7e705a4ff2f1f5de38eab78964b"
+  },
+  {
+    "path": "00_documentacion/00_instalacion.md",
+    "size": 124,
+    "sha256": "776d6a4cc60c7abac564741c29bf4349bdab929177b54b3258ef7eb7c8debae6"
+  },
+  {
+    "path": "00_documentacion/01_estado_curricular_y_fuentes.md",
+    "size": 353,
+    "sha256": "2b9929d13b048adf5d6f12aca743f79c47cd51c4d901650838ee0352550bb8db"
+  },
+  {
+    "path": "00_documentacion/02_arquitectura_de_contenidos.md",
+    "size": 106,
+    "sha256": "664170f684cbb06cc183d0213cb44e6703f7e356118737f400153cb2ebcac958"
+  },
+  {
+    "path": "00_documentacion/03_guia_editorial_matematica.md",
+    "size": 121,
+    "sha256": "ab2ed2fc66e8936a371985300a36feee30d06b1cedc599e2ef55c02c530b66c2"
+  },
+  {
+    "path": "00_documentacion/04_mapa_vertical_curricular.md",
+    "size": 6961,
+    "sha256": "d643afa09d868937d064316f1cb670689c27354640c7088d9111075ca5364ee3"
+  },
+  {
+    "path": "00_documentacion/05_integracion_ollama_rag.md",
+    "size": 106,
+    "sha256": "55c7ccc7505ccde6e983919c65b96bda62a69056b0916c581294b04e0d8f5ed5"
+  },
+  {
+    "path": "00_documentacion/06_prompt_sistema_ollama.md",
+    "size": 113,
+    "sha256": "ed84e6ba7be9f019fb6c927c6d59dc8cc5cc36059c58e697cfc1e3aaf1c899fb"
+  },
+  {
+    "path": "00_documentacion/07_configuracion_rag.yaml",
+    "size": 123,
+    "sha256": "67d794865fd6361099dc07526f10ec393f32671c299dbb9dcb4017b2486b4ca3"
+  },
+  {
+    "path": "01_primero_basico/001_conteo_0_a_100.md",
+    "size": 3664,
+    "sha256": "f6f68db912c5b90ca4068f2afaf11775c8e8a826323ed2da39b28d20c4c27e0a"
+  },
+  {
+    "path": "01_primero_basico/002_leer_y_escribir_numeros.md",
+    "size": 3722,
+    "sha256": "3755c55b34fa092a8a94253b86ca7db2980ff187d37f9406134dffe928dde605"
+  },
+  {
+    "path": "01_primero_basico/003_comparar_cantidades.md",
+    "size": 3694,
+    "sha256": "356157136eef8a9b4a6976b536b0743c05e32f1c176fa3dabfe80aea16664075"
+  },
+  {
+    "path": "01_primero_basico/004_ordenar_numeros.md",
+    "size": 3674,
+    "sha256": "55b3e85ba4bc8a2c32193fbe49ae80c2c59bf480a6c68620484ffbb344ced736"
+  },
+  {
+    "path": "01_primero_basico/005_composicion_y_descomposicion.md",
+    "size": 3758,
+    "sha256": "8ce789fa1f1c5fba6ed6e0f460a08ebc2e6a76af91b81bb3719a341ce75fafe8"
+  },
+  {
+    "path": "01_primero_basico/006_valor_posicional_inicial.md",
+    "size": 3724,
+    "sha256": "f36db3d147a07f749a2fea2daf2c40fb6c648b1c23a3dbc5443e98e175594661"
+  },
+  {
+    "path": "01_primero_basico/007_suma_como_juntar.md",
+    "size": 3675,
+    "sha256": "1bcdfccbf14380b64676b07ef752edfe333571012dad7729b0bbcdaa365d0e94"
+  },
+  {
+    "path": "01_primero_basico/008_resta_como_quitar.md",
+    "size": 3681,
+    "sha256": "53b048dd004b05eeac32885112b76d409bc2be3b43bdf97d213027e8bfab0537"
+  },
+  {
+    "path": "01_primero_basico/009_problemas_de_suma.md",
+    "size": 3681,
+    "sha256": "d0d038cbd66bec9d5cefe44aa69f48f836c0848d138803c0ae45a912fb037d94"
+  },
+  {
+    "path": "01_primero_basico/00_indice_curso.md",
+    "size": 1021,
+    "sha256": "9f4d15f44c51e1da4e6ba29a085f2e5ffe317df249e57437919dfb891cb85efd"
+  },
+  {
+    "path": "01_primero_basico/010_problemas_de_resta.md",
+    "size": 3687,
+    "sha256": "8ea028a6103f560ab12cfe7ae535ddf380f45d8005be19478dd72c1b76415382"
+  },
+  {
+    "path": "01_primero_basico/011_calculo_mental.md",
+    "size": 3669,
+    "sha256": "e27527fba7132fece3b5a9d22cd161eef62076963f14ece4bf0a17e036857ff7"
+  },
+  {
+    "path": "01_primero_basico/012_dobles_y_mitades.md",
+    "size": 3676,
+    "sha256": "43b551f4c81722ecb8b00a46783bd9e7c76d92220febac6967e38e1e8f42ea2b"
+  },
+  {
+    "path": "01_primero_basico/013_patrones_repetitivos.md",
+    "size": 3700,
+    "sha256": "e21dcb438f945a079e8f46712e3c993c7c1a1a65d92cafdcf4f5f429d74aa989"
+  },
+  {
+    "path": "01_primero_basico/014_igualdad_inicial.md",
+    "size": 3676,
+    "sha256": "abf4729fb37edfaed10981174175802902552e7fec927a136e486f5d71746b11"
+  },
+  {
+    "path": "01_primero_basico/015_figuras_2d.md",
+    "size": 3640,
+    "sha256": "364f87b5b8328ee7eaeb225c2fc9566cd4b163365140b5e5ce18e064591b4d4c"
+  },
+  {
+    "path": "01_primero_basico/016_cuerpos_3d.md",
+    "size": 3640,
+    "sha256": "85ab2e55ed56fa0170e21a67bf20db41f4d6a6f35ff15bf4c063949d39fa578e"
+  },
+  {
+    "path": "01_primero_basico/017_posicion_y_orientacion.md",
+    "size": 3722,
+    "sha256": "ffebff529c0b0da372a40a164b9bcc6dc557fece313ee4cb74c52584070b54cf"
+  },
+  {
+    "path": "01_primero_basico/018_longitud_no_estandarizada.md",
+    "size": 3716,
+    "sha256": "fa16dcd5d960a2aca3ba86e843698a39edd3b572ddc154c455f3e04d3472ca4e"
+  },
+  {
+    "path": "01_primero_basico/019_tiempo_y_calendario.md",
+    "size": 3680,
+    "sha256": "a2575b4d740c68abcdcd25b76a535ab7e2f12c08ebe8e5c4881b9d6278752c5f"
+  },
+  {
+    "path": "01_primero_basico/01_glosario_curso.md",
+    "size": 147,
+    "sha256": "6bda5ca135febf51c9acdeb7b582ea107d5ff01d8a0c300142c19c4484f5274d"
+  },
+  {
+    "path": "01_primero_basico/020_pictogramas.md",
+    "size": 3646,
+    "sha256": "f9a15c1bbc2859e213b5e79829c46a70c45eccca7c8e824f3484c4ee43695990"
+  },
+  {
+    "path": "01_primero_basico/02_banco_preguntas.md",
+    "size": 2042,
+    "sha256": "c37b55b26d858895bf60c6c10dc646734bdcd14a35f479178d7c8dacf3421ecb"
+  },
+  {
+    "path": "02_segundo_basico/001_conteo_hasta_1000.md",
+    "size": 3682,
+    "sha256": "3565f1bb07968fece59534e1155c9be1544ebd7eb16ba5fbf1e3a0a4887a2741"
+  },
+  {
+    "path": "02_segundo_basico/002_centenas_decenas_unidades.md",
+    "size": 3716,
+    "sha256": "f650a6fb6c8b1e1900d6307ce252ba4112a1ce4136b96e7a7a4c23a1a6cce535"
+  },
+  {
+    "path": "02_segundo_basico/003_comparar_y_ordenar.md",
+    "size": 3688,
+    "sha256": "dc6a2cdccec510476e7df8116acfb59e6682410663c1fbe8a7697a92397b688c"
+  },
+  {
+    "path": "02_segundo_basico/004_composicion_hasta_1000.md",
+    "size": 3717,
+    "sha256": "c289fc52e7107ea369f2d95d2612969c2c5578f18f0a9d92ea5c0c300d79d0b5"
+  },
+  {
+    "path": "02_segundo_basico/005_suma_con_reserva.md",
+    "size": 3675,
+    "sha256": "5a7442871e644d91396cf406bd3dbe10951eefcdfa76ef20a34349595bd1a635"
+  },
+  {
+    "path": "02_segundo_basico/006_resta_con_canje.md",
+    "size": 3669,
+    "sha256": "b26b27fd6290c6f600a8995d0a7a89df3852e7513d28cf8ef60709cf184d0a3d"
+  },
+  {
+    "path": "02_segundo_basico/007_problemas_de_dos_pasos.md",
+    "size": 3712,
+    "sha256": "f535314d6cf5e854170d154c36e7f033b4026a0f1ae21321faa911f11fa3cbdc"
+  },
+  {
+    "path": "02_segundo_basico/008_multiplicacion_como_suma_repetida.md",
+    "size": 3782,
+    "sha256": "26377b4f5a66a15c5eb620cfcc0e1f7a7cdb5fbbe79c0772dc6dd8d6e4bf5b62"
+  },
+  {
+    "path": "02_segundo_basico/009_tablas_del_2_5_y_10.md",
+    "size": 3694,
+    "sha256": "da099029f131f3b269c0e5b6c1f76b6dba9009a7b6d73f7284032f50d260880f"
+  },
+  {
+    "path": "02_segundo_basico/00_indice_curso.md",
+    "size": 1072,
+    "sha256": "9dee751ca40b1eff8c5dfada32163dd743c252f0ec5e046dc1f767932a98154b"
+  },
+  {
+    "path": "02_segundo_basico/010_division_como_reparto.md",
+    "size": 3710,
+    "sha256": "d17050aa054519f53cec4a4a3f14fe035ff6adb67c78199ac8bf5f78fa17e0ee"
+  },
+  {
+    "path": "02_segundo_basico/011_mitad_tercio_y_cuarto.md",
+    "size": 3706,
+    "sha256": "5b9a24e55d7a301d9234a66fd92049d1ff1fa794346f7357fcbfe4570f735de9"
+  },
+  {
+    "path": "02_segundo_basico/012_patrones_numericos.md",
+    "size": 3693,
+    "sha256": "6b61ea96265758bfe7b75da07c1d3138a7d1fae12e4b8d290f4131e826fe4295"
+  },
+  {
+    "path": "02_segundo_basico/013_ecuaciones_simples.md",
+    "size": 3688,
+    "sha256": "6b833dec72a53c25cc2a35a287ad70940b371738cef090c10221613cc75b5b6f"
+  },
+  {
+    "path": "02_segundo_basico/014_simetria.md",
+    "size": 3633,
+    "sha256": "31c233b9323820d71a8b49433facd579748decbd81d8625114c1ba536f23fe95"
+  },
+  {
+    "path": "02_segundo_basico/015_cuerpos_geometricos.md",
+    "size": 3699,
+    "sha256": "8429ea67bcb12e26e442ca80aa7dc5bbb380f0fa09aff60e37705e0e5cfbcb44"
+  },
+  {
+    "path": "02_segundo_basico/016_centimetros.md",
+    "size": 3651,
+    "sha256": "1a3ffef2a979848015ebe28929ec57d779c56a9d1507ab9ad138f498f10637e3"
+  },
+  {
+    "path": "02_segundo_basico/017_masa_y_capacidad.md",
+    "size": 3662,
+    "sha256": "5110fe5cbce9edf5dcaad443504ce4442f18524f4dad310c2f9371b08df957cf"
+  },
+  {
+    "path": "02_segundo_basico/018_lectura_de_la_hora.md",
+    "size": 3688,
+    "sha256": "7624eb3aed6aa678de1ba16c0eba14004842f2470f17f9a76cee41f37de7be60"
+  },
+  {
+    "path": "02_segundo_basico/019_graficos_de_barras.md",
+    "size": 3682,
+    "sha256": "1d648cd41ab466755504cfcaa9e7f035d5d8c86f6ceed99f48c30a4fb675023d"
+  },
+  {
+    "path": "02_segundo_basico/01_glosario_curso.md",
+    "size": 147,
+    "sha256": "6bda5ca135febf51c9acdeb7b582ea107d5ff01d8a0c300142c19c4484f5274d"
+  },
+  {
+    "path": "02_segundo_basico/020_posible_imposible_seguro.md",
+    "size": 3724,
+    "sha256": "9e6958dad068776b5aa0599f6f16855868387a5654d9994a14bafaf0640ad027"
+  },
+  {
+    "path": "02_segundo_basico/02_banco_preguntas.md",
+    "size": 2068,
+    "sha256": "7bfcb559f102d3c20f3cb37d54ce29fd270fc85850eade242f46ff2c25a0c443"
+  },
+  {
+    "path": "03_tercero_basico/001_numeros_hasta_10000.md",
+    "size": 3698,
+    "sha256": "6b39f983269db3110b019fabfe6e851b1cb3314d134eb29b03fc2b663bcb3fe0"
+  },
+  {
+    "path": "03_tercero_basico/002_valor_posicional.md",
+    "size": 3676,
+    "sha256": "5c06d80d2cb71d0b5b0d5676cee7d658ec26cbfd5e5f555f25b7a040f3cd1b61"
+  },
+  {
+    "path": "03_tercero_basico/003_redondeo_inicial.md",
+    "size": 3676,
+    "sha256": "f7aa1eb9599c0426d2f71dfab87f4f0f2fd199a3cf22a663499190914c52be99"
+  },
+  {
+    "path": "03_tercero_basico/004_suma_y_resta.md",
+    "size": 3651,
+    "sha256": "9315e514d1b1268be6e3f7c4aa6d5d20bf3d85425c9c4286c04ef8917551bfd2"
+  },
+  {
+    "path": "03_tercero_basico/005_multiplicacion_por_una_cifra.md",
+    "size": 3752,
+    "sha256": "7cdfeb6f8dae86262b3d44f81d72667d7fcd9262aaba68cc37109343fe742482"
+  },
+  {
+    "path": "03_tercero_basico/006_division_por_agrupacion.md",
+    "size": 3727,
+    "sha256": "6ed96a5574f1cea9afc90138d571a878177bab6ae1079885317d5545c1474dd0"
+  },
+  {
+    "path": "03_tercero_basico/007_tablas_de_multiplicar.md",
+    "size": 3705,
+    "sha256": "decc04340924c4114b1f7aa8eef31aa3ada16d169703c772a628a11a80092f6d"
+  },
+  {
+    "path": "03_tercero_basico/008_problemas_con_operaciones.md",
+    "size": 3730,
+    "sha256": "35bf82b41faa07d66e28ab162252ad58f4ff1a9665ff185b69edcf2011a9c59a"
+  },
+  {
+    "path": "03_tercero_basico/009_fracciones_como_parte.md",
+    "size": 3706,
+    "sha256": "5858da39820491d18798e0308892355e6784ca4fa792eaa6a7a6ea10b3b3ee83"
+  },
+  {
+    "path": "03_tercero_basico/00_indice_curso.md",
+    "size": 1080,
+    "sha256": "2fded0e4a200be842efe32d766db4b466b3181291a7f2dc8c7d3b0799f822462"
+  },
+  {
+    "path": "03_tercero_basico/010_fracciones_unitarias.md",
+    "size": 3700,
+    "sha256": "72e89d40c761a9369e3221e5e2de175606388d32117cbc57d7d6290df2635c04"
+  },
+  {
+    "path": "03_tercero_basico/011_comparar_fracciones_simples.md",
+    "size": 3742,
+    "sha256": "ebde2a081bf985d8d0c9357c3a1da2a3b5b78fc339de2ba44799e3c5cd9e4ca7"
+  },
+  {
+    "path": "03_tercero_basico/012_patrones_aditivos.md",
+    "size": 3682,
+    "sha256": "0a31da35f8336838100fc77c136b9f2928b2e18674c3fad5251410cdc2231391"
+  },
+  {
+    "path": "03_tercero_basico/013_ecuaciones_de_un_paso.md",
+    "size": 3706,
+    "sha256": "ec4ad3e73c57ef15874cae1f4234334ad83b277886920e629590add189e8e499"
+  },
+  {
+    "path": "03_tercero_basico/014_angulos_iniciales.md",
+    "size": 3674,
+    "sha256": "a4bdb364f5b0a636eba592d1b3a4284ab11a310fd14ee0b3ba9f6b867f0a9a7c"
+  },
+  {
+    "path": "03_tercero_basico/015_perimetro.md",
+    "size": 3625,
+    "sha256": "e3ad5a58270b88533ea5c9ad073c5b8375ece291fb1d447989b8e3f571419ffd"
+  },
+  {
+    "path": "03_tercero_basico/016_area_con_cuadrados.md",
+    "size": 3679,
+    "sha256": "759734966bbc2f451b9d2a1a923814475ed7f89ad3a5d262bf8a6589081a63ca"
+  },
+  {
+    "path": "03_tercero_basico/017_simetria.md",
+    "size": 3633,
+    "sha256": "f094a09403ecf71cd3ccd2a1c7c94cc4c26192ea69479f3d6e07a8f29cbceb9b"
+  },
+  {
+    "path": "03_tercero_basico/018_coordenadas_iniciales.md",
+    "size": 3706,
+    "sha256": "b1a4c2d6390da433b392efa0ab686173ac51d9c847e41cfe4fa044f4d951af96"
+  },
+  {
+    "path": "03_tercero_basico/019_medicion.md",
+    "size": 3633,
+    "sha256": "5524b0eec0166cabaf3161ba9b1a234f32979e512272c9cb6f0602c1774e3f0f"
+  },
+  {
+    "path": "03_tercero_basico/01_glosario_curso.md",
+    "size": 147,
+    "sha256": "6bda5ca135febf51c9acdeb7b582ea107d5ff01d8a0c300142c19c4484f5274d"
+  },
+  {
+    "path": "03_tercero_basico/020_tablas_y_graficos.md",
+    "size": 3676,
+    "sha256": "b349f005c182d5fe364d2e307efcc6ec8d4bea970830a726356edb58700450eb"
+  },
+  {
+    "path": "03_tercero_basico/021_azar_simple.md",
+    "size": 3636,
+    "sha256": "a1fbaadbb6dbaf90e5aae3ffaf747e60780fa0bf6ea0bc2a387a7924123e8d4b"
+  },
+  {
+    "path": "03_tercero_basico/02_banco_preguntas.md",
+    "size": 2149,
+    "sha256": "ebc060a16642ebb27450ef9be26d834984429fa2cb17ec8b0beef8ab8e9e2da5"
+  },
+  {
+    "path": "04_cuarto_basico/001_numeros_hasta_1000000.md",
+    "size": 3710,
+    "sha256": "d4aa3795f4d16fd0198a409ed264ad3c3751d26c88ffc0b98f51f04a95128b06"
+  },
+  {
+    "path": "04_cuarto_basico/002_valor_posicional_ampliado.md",
+    "size": 3730,
+    "sha256": "2979a0a2d1ba60632ca2129a013e644798a378ca453ec82941aa88df33e50f05"
+  },
+  {
+    "path": "04_cuarto_basico/003_estimacion_y_redondeo.md",
+    "size": 3711,
+    "sha256": "130f7e3735f58290568f9d9a65bb0cb25e32b3d3b70725bfbe8e633857397cea"
+  },
+  {
+    "path": "04_cuarto_basico/004_adicion_y_sustraccion.md",
+    "size": 3716,
+    "sha256": "a3c18e6164a723aae5170d4ad67f7257c79ddc0b58b9ff7a22509255d0f021d3"
+  },
+  {
+    "path": "04_cuarto_basico/005_multiplicacion_por_dos_cifras.md",
+    "size": 3758,
+    "sha256": "c212aec90ead8415868da79a740e55b3c2074f59c92003e1b9f46473bb2b29b0"
+  },
+  {
+    "path": "04_cuarto_basico/006_division_por_una_cifra.md",
+    "size": 3716,
+    "sha256": "7d4eb09fbdb1a3d977079c9470a756ab7d87d9c07d3861f199a528b6d98da556"
+  },
+  {
+    "path": "04_cuarto_basico/007_operaciones_combinadas_simples.md",
+    "size": 3760,
+    "sha256": "4e64b0f7628aefa6bc4cb5f28969b24ee88910f675ed1615c3feb0ebb71eef06"
+  },
+  {
+    "path": "04_cuarto_basico/008_problemas_rutinarios_y_no_rutinarios.md",
+    "size": 3796,
+    "sha256": "24ca17ed244e3d25fa26bc2aa868cb87a3c367e74006a7f9857339b9921df08a"
+  },
+  {
+    "path": "04_cuarto_basico/009_fracciones_equivalentes.md",
+    "size": 3718,
+    "sha256": "92b388664c74951adf0e11354573b1c318e6ae40fbdfb5e51ad7b00fac2bd6c1"
+  },
+  {
+    "path": "04_cuarto_basico/00_indice_curso.md",
+    "size": 1378,
+    "sha256": "5ace5410b5daf74b43cbf277eef9ad976474f45e7327b3e930b317204b0de56f"
+  },
+  {
+    "path": "04_cuarto_basico/010_comparar_fracciones.md",
+    "size": 3694,
+    "sha256": "f5dfff8c6ed6767f3efe5cc921e000c14654727fc79636044724ccab83faf148"
+  },
+  {
+    "path": "04_cuarto_basico/011_suma_y_resta_de_fracciones.md",
+    "size": 3735,
+    "sha256": "58cf9020aeab90c1af8a395cfd95172d0587d1599d57aade7a7b8b794520b19a"
+  },
+  {
+    "path": "04_cuarto_basico/012_decimales_iniciales.md",
+    "size": 3693,
+    "sha256": "9567ea9a93fdc668971aba67df62d73662ca4946028fb6569b6e58616e4634d2"
+  },
+  {
+    "path": "04_cuarto_basico/013_patrones_y_secuencias.md",
+    "size": 3706,
+    "sha256": "11571f6c1054851d24b99197590859ad1c1b0253725559886b17f94a98b3acea"
+  },
+  {
+    "path": "04_cuarto_basico/014_ecuaciones_simples.md",
+    "size": 3688,
+    "sha256": "7ec79e7fbc07d297b35b935765df0be2959571fe8a10def6a9fbb2475414b532"
+  },
+  {
+    "path": "04_cuarto_basico/015_angulos.md",
+    "size": 3614,
+    "sha256": "dd33a4eede8d6279b07bfac81f2fbd516a0ccd342eee51e0ef9a1413ced4fbc0"
+  },
+  {
+    "path": "04_cuarto_basico/016_triangulos_y_cuadrilateros.md",
+    "size": 3733,
+    "sha256": "663d5e15547b409b957c4c5bfbbe932a6a2627e8038d8110398e03673d65ee8a"
+  },
+  {
+    "path": "04_cuarto_basico/017_perimetro.md",
+    "size": 3625,
+    "sha256": "776721085c809b3d26b7c834ba4d7c49cc04681dc3c24095ab25792753c2f87a"
+  },
+  {
+    "path": "04_cuarto_basico/018_area_de_rectangulos.md",
+    "size": 3691,
+    "sha256": "a9183369777205f6be14c55b08bfb92760eb5f4e1bea95e8ff3f4c0b523e5812"
+  },
+  {
+    "path": "04_cuarto_basico/019_transformaciones_isometricas.md",
+    "size": 3753,
+    "sha256": "c269825d5491aaacaa35755942a5808ae4d5a5266edc71fb44edb870497244ad"
+  },
+  {
+    "path": "04_cuarto_basico/01_glosario_curso.md",
+    "size": 147,
+    "sha256": "6bda5ca135febf51c9acdeb7b582ea107d5ff01d8a0c300142c19c4484f5274d"
+  },
+  {
+    "path": "04_cuarto_basico/020_coordenadas.md",
+    "size": 3646,
+    "sha256": "3158d8c7043843c25a98525c836556bba7f3b34948506e3b18d6b9deb389f634"
+  },
+  {
+    "path": "04_cuarto_basico/021_unidades_y_conversiones.md",
+    "size": 3704,
+    "sha256": "b365d7665c881848651165ebbba12609176ef4391a692a013d1df1382e7a5fff"
+  },
+  {
+    "path": "04_cuarto_basico/022_tiempo_y_dinero.md",
+    "size": 3656,
+    "sha256": "b5e43bc3b7853488586afdc73fa8d86df9f0de277770f9409fb05061c441f8fe"
+  },
+  {
+    "path": "04_cuarto_basico/023_graficos.md",
+    "size": 3622,
+    "sha256": "ef9f7026ba06bc22ffa22de8f69056684d22d9a911f6baf3636c5fcfeade8c4b"
+  },
+  {
+    "path": "04_cuarto_basico/024_probabilidad_cualitativa.md",
+    "size": 3714,
+    "sha256": "e4664e269b11994e1d9fe9cda7fcb5e5a70beecb9ed6a00ab26dcf1391d5c7ed"
+  },
+  {
+    "path": "04_cuarto_basico/02_banco_preguntas.md",
+    "size": 2528,
+    "sha256": "73478516858941b68db8c969b48107e7a72f6c879b011cb77664b6a3b5f5b996"
+  },
+  {
+    "path": "05_quinto_basico/001_numeros_naturales_grandes.md",
+    "size": 3737,
+    "sha256": "32a1d6851e3b1aa8c0c9eda35314be9031f54132eb098c2561d9481e6f9e9daf"
+  },
+  {
+    "path": "05_quinto_basico/002_operaciones_combinadas.md",
+    "size": 3715,
+    "sha256": "44279a69ffec909ac5e6fdc65aaf9434ed173dc27c7592616d104bc890f1ba1b"
+  },
+  {
+    "path": "05_quinto_basico/003_multiplos_y_divisores.md",
+    "size": 3713,
+    "sha256": "dd9344682de23a5c5da688c9131747b24bac58b118a270781429ea289f9d16a2"
+  },
+  {
+    "path": "05_quinto_basico/004_primos_y_compuestos.md",
+    "size": 3697,
+    "sha256": "a9cfd0d30d011be03c09e8d10c6209930e04935461add292cfb16d4378fee07e"
+  },
+  {
+    "path": "05_quinto_basico/005_divisibilidad.md",
+    "size": 3661,
+    "sha256": "15d289379a58bf6b80df4519a309a1321b12e654dd2ced4969a299629b882101"
+  },
+  {
+    "path": "05_quinto_basico/006_fracciones_propias_impropias_y_mixtas.md",
+    "size": 3805,
+    "sha256": "ab2565f6809a5d89e9ada01a17ae21b5f0e66a10d087d5b2d584bd2459f2b5ff"
+  },
+  {
+    "path": "05_quinto_basico/007_fracciones_equivalentes.md",
+    "size": 3721,
+    "sha256": "331a38d359f1fd479628ed6202f4b161d8a915c362f2f9fca5eea13da408abbb"
+  },
+  {
+    "path": "05_quinto_basico/008_suma_y_resta_de_fracciones.md",
+    "size": 3738,
+    "sha256": "52c8a3e099e5e2e6605f676b52e9f7da341081bb54ba8f45200326284acdf6cf"
+  },
+  {
+    "path": "05_quinto_basico/009_multiplicacion_de_fracciones_inicial.md",
+    "size": 3803,
+    "sha256": "6b35dae201d99e677a7324ff0922e0421e07138760287783f5695e3c029b5f3e"
+  },
+  {
+    "path": "05_quinto_basico/00_indice_curso.md",
+    "size": 1338,
+    "sha256": "01d0912dcc1f6edb0fe82ed2ff62ca326260f0fb6cee63afaf5a4d3f4be21132"
+  },
+  {
+    "path": "05_quinto_basico/010_decimales.md",
+    "size": 3636,
+    "sha256": "7fc70ef316078e9474ff78ea2134d411ff7131acd847380af383c0cd2685e2cf"
+  },
+  {
+    "path": "05_quinto_basico/011_operaciones_con_decimales.md",
+    "size": 3732,
+    "sha256": "061e00cd8189d0cafe42e788fbb253c5bc42cb2dd3c66971b65c507edb05c9e3"
+  },
+  {
+    "path": "05_quinto_basico/012_porcentajes_iniciales.md",
+    "size": 3708,
+    "sha256": "2ad38ea052a789eae2f4941b5b9c38e100d805653f8b6ff08cec4da6cfe75f61"
+  },
+  {
+    "path": "05_quinto_basico/013_razones_iniciales.md",
+    "size": 3685,
+    "sha256": "6815576f2544b89898868c237086cead55d348db8813b8d2ee54273b7d22ae3f"
+  },
+  {
+    "path": "05_quinto_basico/014_patrones_y_reglas.md",
+    "size": 3685,
+    "sha256": "226d4ad089694b1565ef3785fa4783b01c42b25ec45b4f1d44c86b82b6515d22"
+  },
+  {
+    "path": "05_quinto_basico/015_ecuaciones_e_inecuaciones.md",
+    "size": 3733,
+    "sha256": "e2abd4f7716c1a11a0c9b84ad8d8e99ec193d895676f664ee4393e403db4f805"
+  },
+  {
+    "path": "05_quinto_basico/016_plano_cartesiano.md",
+    "size": 3679,
+    "sha256": "88816dfcb0756b4bddf34d0ab539fe76b3b873e42f932c727b4be7815c637f00"
+  },
+  {
+    "path": "05_quinto_basico/017_angulos.md",
+    "size": 3617,
+    "sha256": "c1f2915b80054fa41429eafbe2ef04ccb606e3ac72f916430d2f2fd1eddc6d62"
+  },
+  {
+    "path": "05_quinto_basico/018_triangulos.md",
+    "size": 3635,
+    "sha256": "af8aca05b7d763fdd03b64c38695a45034cb64f0dd5479c34dd9e6e15998cd5e"
+  },
+  {
+    "path": "05_quinto_basico/019_cuadrilateros.md",
+    "size": 3653,
+    "sha256": "deec937fe7dac1b50b061a28b8619dbaac5d953b91b478d64716ce455c2ee490"
+  },
+  {
+    "path": "05_quinto_basico/01_glosario_curso.md",
+    "size": 147,
+    "sha256": "6bda5ca135febf51c9acdeb7b582ea107d5ff01d8a0c300142c19c4484f5274d"
+  },
+  {
+    "path": "05_quinto_basico/020_perimetro_y_area.md",
+    "size": 3675,
+    "sha256": "21c9e2ab968c7438afc8f81bd7254d02e39cb4840ce3f92a04c099d0724115c2"
+  },
+  {
+    "path": "05_quinto_basico/021_volumen_inicial.md",
+    "size": 3659,
+    "sha256": "261895c45afb77557db6e67d0f6642c043b4c7bed37062b79f2fe15b11874c60"
+  },
+  {
+    "path": "05_quinto_basico/022_conversion_de_unidades.md",
+    "size": 3706,
+    "sha256": "9c9e6c171acf9ea03447b4f7da9bef874f1e9e9f2ee67f97642f8d97a8a99ebb"
+  },
+  {
+    "path": "05_quinto_basico/023_promedio.md",
+    "size": 3631,
+    "sha256": "99275a20a63305259cf6219c954bb8deb682102743e95f8eab21423fac14c6ec"
+  },
+  {
+    "path": "05_quinto_basico/024_graficos.md",
+    "size": 3625,
+    "sha256": "4649e92c4aee5028a0a5201799a110b798268ff035690bb403a0fad409ee86f6"
+  },
+  {
+    "path": "05_quinto_basico/025_probabilidad_experimental.md",
+    "size": 3723,
+    "sha256": "b357e8ceb1e68c26d6bda7ccd77b9b2250cab0af1c39504a8f281d8c368201ca"
+  },
+  {
+    "path": "05_quinto_basico/02_banco_preguntas.md",
+    "size": 2582,
+    "sha256": "fd866d5e8b3d609debfae0e55647e390fbf67c9112f81489e750d73f6d3ae0e1"
+  },
+  {
+    "path": "06_sexto_basico/001_enteros_iniciales.md",
+    "size": 3685,
+    "sha256": "9d24b109960c0f0bf69915f01c72f18d74d9fd405dcd382b084126bb4417519a"
+  },
+  {
+    "path": "06_sexto_basico/002_factores_y_multiplos.md",
+    "size": 3707,
+    "sha256": "08baddefeae909e22d88b40e0bdfaaee7799754dedd18a9fe14b80834432341a"
+  },
+  {
+    "path": "06_sexto_basico/003_mcm.md",
+    "size": 3601,
+    "sha256": "f0d8c58f16dac5d65512399d613b420e5eff2534b33ac2b487262334c6ba2ccc"
+  },
+  {
+    "path": "06_sexto_basico/004_mcd.md",
+    "size": 3601,
+    "sha256": "b5999dcf7fa18c571e4d1467a18a1a75196674766cb0b5df47e21277da2a006f"
+  },
+  {
+    "path": "06_sexto_basico/005_fracciones_y_mixtos.md",
+    "size": 3697,
+    "sha256": "8198073a315b119c9cc667fd828c9f1407eed8340799f81c6106cc25cffb29fd"
+  },
+  {
+    "path": "06_sexto_basico/006_suma_y_resta_de_fracciones.md",
+    "size": 3738,
+    "sha256": "e7cf728b0ab1e9e660b80159fee14f99801e3023c834867c446b52367df4905a"
+  },
+  {
+    "path": "06_sexto_basico/007_multiplicacion_y_division_de_fracciones.md",
+    "size": 3826,
+    "sha256": "de26c33e3ee3324c9a690ea591b7611bc1bb79915defb8858965748eb021680b"
+  },
+  {
+    "path": "06_sexto_basico/008_decimales.md",
+    "size": 3636,
+    "sha256": "7f96c61bb47c7c5f0eabe3565e1d3011397cf088a602eac107c9fead70a052f8"
+  },
+  {
+    "path": "06_sexto_basico/009_operaciones_con_decimales.md",
+    "size": 3732,
+    "sha256": "d27e6c2fdb62379214796b578fca881df687adfe882fdb3edab4e274ad27b131"
+  },
+  {
+    "path": "06_sexto_basico/00_indice_curso.md",
+    "size": 1274,
+    "sha256": "6dfecf58912546a99202685da14779acdae53a85be07e80ef1c07e00ef2b4c6a"
+  },
+  {
+    "path": "06_sexto_basico/010_razones.md",
+    "size": 3625,
+    "sha256": "45b10266739234ba118e8b41cc8443b3d4c66578265bc28b0821eee35056081f"
+  },
+  {
+    "path": "06_sexto_basico/011_proporciones.md",
+    "size": 3655,
+    "sha256": "f5ee14728dd0d573ca9eca6c2913500b9692f4b82b5dcaa18576c9265bf9d3ac"
+  },
+  {
+    "path": "06_sexto_basico/012_porcentajes.md",
+    "size": 3648,
+    "sha256": "3c1436ff5987da710b16192e8bda8c6dac04c7c9e30608e2db326ae26104736c"
+  },
+  {
+    "path": "06_sexto_basico/013_tasas_unitarias.md",
+    "size": 3673,
+    "sha256": "7cc7d3676639adef053aeb475fdb2a30ffde5202a423c702c9806a5ea63946d1"
+  },
+  {
+    "path": "06_sexto_basico/014_algebra_con_letras.md",
+    "size": 3681,
+    "sha256": "753d1be40102b392eacb9220948268c59af8eb383576610f9abbadd8a31285a5"
+  },
+  {
+    "path": "06_sexto_basico/015_expresiones_algebraicas.md",
+    "size": 3721,
+    "sha256": "de87db50dbda5cf2802665ab0078e50a3c490f5b02211e655f0e5652e0226f2c"
+  },
+  {
+    "path": "06_sexto_basico/016_ecuaciones_simples.md",
+    "size": 3691,
+    "sha256": "5d900c190c2ce1b76e1b93cee125d73fe1957244acaa7fa7a7af43d5ad3ebfbf"
+  },
+  {
+    "path": "06_sexto_basico/017_patrones_generalizados.md",
+    "size": 3715,
+    "sha256": "976ec62b12e3f4f106854a96ad70e7bf072f3be154feae21234691e0a5394a6f"
+  },
+  {
+    "path": "06_sexto_basico/018_plano_cartesiano.md",
+    "size": 3679,
+    "sha256": "b2d863174c29044394b471d0c4b189e9475943190d01da948fdc68325ccaa72c"
+  },
+  {
+    "path": "06_sexto_basico/019_transformaciones.md",
+    "size": 3679,
+    "sha256": "264fd3462f99ffc553b65d8932e772a21792786f400ca3d72d67f58aec63a775"
+  },
+  {
+    "path": "06_sexto_basico/01_glosario_curso.md",
+    "size": 147,
+    "sha256": "6bda5ca135febf51c9acdeb7b582ea107d5ff01d8a0c300142c19c4484f5274d"
+  },
+  {
+    "path": "06_sexto_basico/020_angulos_de_poligonos.md",
+    "size": 3700,
+    "sha256": "ea72d3270a0f185ad1f188be1decf653cf8bfb9ccd576aae9b8a4518dde1b7fb"
+  },
+  {
+    "path": "06_sexto_basico/021_area_de_triangulos.md",
+    "size": 3688,
+    "sha256": "5e3b3e3cef2714af4e2fd4bdd82a800eee952f65bca1e9f9e48000a1b1b17cdd"
+  },
+  {
+    "path": "06_sexto_basico/022_volumen_de_prismas.md",
+    "size": 3677,
+    "sha256": "49a81ec14158509bc78e830a06e59aaccfdd5fd1b7abd82815d2e3d6e48275dd"
+  },
+  {
+    "path": "06_sexto_basico/023_escalas.md",
+    "size": 3611,
+    "sha256": "c6f0157ebf38cbea9d9a1ca3f60c86129f71acb05dbc103bc13fb3b2d8f51e63"
+  },
+  {
+    "path": "06_sexto_basico/024_media_mediana_moda.md",
+    "size": 3680,
+    "sha256": "c57a59b23dfb555dae3cda66057902790f4b65601635c2a7b2555ed910e0c149"
+  },
+  {
+    "path": "06_sexto_basico/025_analisis_de_datos.md",
+    "size": 3679,
+    "sha256": "ca5716ddc1822e25e22f178eee5bb54da2a3cbf0b7830d6b071711874e58cdb1"
+  },
+  {
+    "path": "06_sexto_basico/026_probabilidad_teorica.md",
+    "size": 3698,
+    "sha256": "aaad2dcfd4e2b943896c287719a21b6e3c5c0af752176935696cab5d2c8691ec"
+  },
+  {
+    "path": "06_sexto_basico/02_banco_preguntas.md",
+    "size": 2626,
+    "sha256": "17826217ef87b22435e05fa18d6859546f02bdf6a4b22640d8a5545952d31643"
+  },
+  {
+    "path": "07_septimo_basico/001_numeros_enteros.md",
+    "size": 3677,
+    "sha256": "1917f2ba5156e8598dd32412a878c563287a26e74dc14399a274dcdf60c3eef9"
+  },
+  {
+    "path": "07_septimo_basico/002_operaciones_con_enteros.md",
+    "size": 3721,
+    "sha256": "709b7ffaf5eae00a23c5fecdece9c79c65e3d1b38ff35ff3af2e49eda244b0fd"
+  },
+  {
+    "path": "07_septimo_basico/003_numeros_racionales.md",
+    "size": 3695,
+    "sha256": "b62ca7466c183b470109c5b573c3f0b7118e74d4727a06b73160298cc2abefa4"
+  },
+  {
+    "path": "07_septimo_basico/004_fracciones_decimales_y_porcentajes.md",
+    "size": 3786,
+    "sha256": "4ba67af3bb657703a7d0e6e89b014bbd6970992ceb9cf958238d599b53553d18"
+  },
+  {
+    "path": "07_septimo_basico/005_potencias.md",
+    "size": 3636,
+    "sha256": "ee9ef8ce45e9bca7fa218b08ede84ca9098245327c451ecd5dae9a62c3abeed0"
+  },
+  {
+    "path": "07_septimo_basico/006_raices_cuadradas_iniciales.md",
+    "size": 3744,
+    "sha256": "2a8a9ff80ca1a966257e0f449f151e6222f4ac3e06eee2934660da0183fc5df7"
+  },
+  {
+    "path": "07_septimo_basico/007_razones_y_proporciones.md",
+    "size": 3715,
+    "sha256": "4691e1995db58a2f5b8e786f4887cf953de078745a133de883b67b29ed80e15c"
+  },
+  {
+    "path": "07_septimo_basico/008_proporcionalidad_directa.md",
+    "size": 3727,
+    "sha256": "5bfe423aae7af5558001afcbeade4b065fafedcf9985ca81ca96db7b6924d7f5"
+  },
+  {
+    "path": "07_septimo_basico/009_variaciones_porcentuales.md",
+    "size": 3727,
+    "sha256": "36f86c0c7f9f4d98e3aebaa3cf255a8a12025169b23fe87e929c17a5132ee519"
+  },
+  {
+    "path": "07_septimo_basico/00_indice_curso.md",
+    "size": 1410,
+    "sha256": "19856f4b44124e2a07f16fcb99a6218782c5e1ec957659b30a28f77fad26e561"
+  },
+  {
+    "path": "07_septimo_basico/010_expresiones_algebraicas.md",
+    "size": 3721,
+    "sha256": "16aec03f8b47bed5ae00649eb2a8cc0d8b8627297c6532d99518dfa34b2a034f"
+  },
+  {
+    "path": "07_septimo_basico/011_terminos_semejantes.md",
+    "size": 3702,
+    "sha256": "bfdec3a250747dd9424a4eea7753ab89553fc38853e1c056d1c6508dae9215ed"
+  },
+  {
+    "path": "07_septimo_basico/012_ecuaciones_lineales.md",
+    "size": 3697,
+    "sha256": "2622bd12d9337d7fe3ddc792406eb56671c680e70507dbb59b43082667efadf8"
+  },
+  {
+    "path": "07_septimo_basico/013_inecuaciones_lineales.md",
+    "size": 3709,
+    "sha256": "38ac295dd33caf3bf881570cfd9c8e7832f3148fc2a4a23fda06c2b27dad6215"
+  },
+  {
+    "path": "07_septimo_basico/014_relaciones_proporcionales.md",
+    "size": 3733,
+    "sha256": "f0b58fc5b891ea04eddcf41b146f2acf15c9675d6d115364470cda9458a597fc"
+  },
+  {
+    "path": "07_septimo_basico/015_plano_cartesiano.md",
+    "size": 3679,
+    "sha256": "3fe53f9674c20b0e84e5387a74131c34d1a8757ed745f7152ed864205cbbbdf1"
+  },
+  {
+    "path": "07_septimo_basico/016_angulos_entre_paralelas.md",
+    "size": 3713,
+    "sha256": "0a571ed00f011954e36a348f735abbd1d0f32f599bb173e299073870e0909b17"
+  },
+  {
+    "path": "07_septimo_basico/017_congruencia_de_triangulos.md",
+    "size": 3725,
+    "sha256": "8ca2aca6ee70f60074fab2c6fd1ac47caddf304308a424c215adb47450936984"
+  },
+  {
+    "path": "07_septimo_basico/018_circunferencia_y_circulo.md",
+    "size": 3719,
+    "sha256": "317db2b7e4751065af6f92567c7f924090ef0bc00378ace51626e1dfb7d6381c"
+  },
+  {
+    "path": "07_septimo_basico/019_area_y_perimetro.md",
+    "size": 3675,
+    "sha256": "a402867551729cdaa9f611a66a6becd99607462b8ed4ac610680b5e90da597bc"
+  },
+  {
+    "path": "07_septimo_basico/01_glosario_curso.md",
+    "size": 147,
+    "sha256": "6bda5ca135febf51c9acdeb7b582ea107d5ff01d8a0c300142c19c4484f5274d"
+  },
+  {
+    "path": "07_septimo_basico/020_prismas_y_cilindros.md",
+    "size": 3697,
+    "sha256": "d91e691c6a0e1ca3dd2beb6fc689ffebc08e1edbbea490516a0fbf121849c6a3"
+  },
+  {
+    "path": "07_septimo_basico/021_muestreo.md",
+    "size": 3631,
+    "sha256": "1fe1ed355e532f0b83906cb3f1606f367bdb6fe6906f76438cd9754b70a85779"
+  },
+  {
+    "path": "07_septimo_basico/022_tendencia_central.md",
+    "size": 3685,
+    "sha256": "d5e8d3cc99e2e49cbd31e20af87687b1eb77c65cd81af67155a380ebdae0d6e5"
+  },
+  {
+    "path": "07_septimo_basico/023_frecuencia_relativa.md",
+    "size": 3697,
+    "sha256": "278651de014550d0e1bdff3f68870681c6a78bb93bfb93b4d45f25e8e26efad0"
+  },
+  {
+    "path": "07_septimo_basico/024_probabilidad_experimental.md",
+    "size": 3723,
+    "sha256": "a0776fcffbb7187653ea03145eafbfa5a93cf226147d59c64bb5a2524bdea73e"
+  },
+  {
+    "path": "07_septimo_basico/025_diagramas_de_arbol.md",
+    "size": 3686,
+    "sha256": "5d10f45d8b3d68e8cd35fafc92cb41698c33086b65eda44ea28b63184abb7577"
+  },
+  {
+    "path": "07_septimo_basico/02_banco_preguntas.md",
+    "size": 2618,
+    "sha256": "540a5795aadd7573529bb1d30296da88cd6b5b92f9fac329dc29bda78beb33a0"
+  },
+  {
+    "path": "08_octavo_basico/001_racionales.md",
+    "size": 3643,
+    "sha256": "943e0651fdab6184ad82eabbe868ac48a3c4f6e5168883fdda4a83bc30e8910d"
+  },
+  {
+    "path": "08_octavo_basico/002_operaciones_con_racionales.md",
+    "size": 3739,
+    "sha256": "486262dd709c4d07bda44d66e2e8e46075ebde119d26f05ab83812c675a84d7d"
+  },
+  {
+    "path": "08_octavo_basico/003_potencias_y_raices.md",
+    "size": 3695,
+    "sha256": "d342a904132f6611c67ef087c3605552692c235dacb96bd391d6ee0d2b89892c"
+  },
+  {
+    "path": "08_octavo_basico/004_notacion_cientifica.md",
+    "size": 3707,
+    "sha256": "214fef928e15abf44a9c46c998ecec26a755b50a5caf9e1cffbbbf1b52df8e57"
+  },
+  {
+    "path": "08_octavo_basico/005_variacion_porcentual.md",
+    "size": 3708,
+    "sha256": "5e5f06941178efc6a5389c242de5d57feeb9eef8bd179e4fb1c8d7fae49e6c0c"
+  },
+  {
+    "path": "08_octavo_basico/006_interes_simple.md",
+    "size": 3672,
+    "sha256": "3f8b384ea15721f2f8732a43224d71b9f6f2c84cdc793a40b2bd1642d8e5a980"
+  },
+  {
+    "path": "08_octavo_basico/007_expresiones_algebraicas.md",
+    "size": 3721,
+    "sha256": "530d746d1c3e81abd35aeeaa2c9d5a6565040dde3c5a5ddf3503785171dc9dc2"
+  },
+  {
+    "path": "08_octavo_basico/008_productos_notables.md",
+    "size": 3691,
+    "sha256": "caea3373fd0e70ee2c2dd50193f1a2acb78f7939372f9784d51198dfcf5fe815"
+  },
+  {
+    "path": "08_octavo_basico/009_factorizacion_simple.md",
+    "size": 3693,
+    "sha256": "7fc428f668069686ed58aaadaf3d27b944f098932d22861edf2a47ec07e34de2"
+  },
+  {
+    "path": "08_octavo_basico/00_indice_curso.md",
+    "size": 1338,
+    "sha256": "a1427d2226b808e29a7c26bc384008d5eb567670176022ec56d62d7ceec89702"
+  },
+  {
+    "path": "08_octavo_basico/010_ecuaciones_lineales.md",
+    "size": 3697,
+    "sha256": "019d4f2b0d3e938b6cbec9034f116e3fafb62007718c0b033869cf2a5413bcf9"
+  },
+  {
+    "path": "08_octavo_basico/011_sistemas_2x2_iniciales.md",
+    "size": 3715,
+    "sha256": "3b85a8bfea9db4ccc798510da36c670532455658709c35990e1c0ff4778ea7d6"
+  },
+  {
+    "path": "08_octavo_basico/012_funciones_lineales.md",
+    "size": 3691,
+    "sha256": "5ccef7b58d127f64f4e67d617e756f2129373642f7fa5f6728d5936d22d8867b"
+  },
+  {
+    "path": "08_octavo_basico/013_pendiente_e_intercepto.md",
+    "size": 3715,
+    "sha256": "4355f8ab06d045bf750bf16ae445b4b8fd19a0141acc43326751398836efd338"
+  },
+  {
+    "path": "08_octavo_basico/014_proporcionalidad_directa_e_inversa.md",
+    "size": 3787,
+    "sha256": "40aceb0f32f62d91d79a84a72692a43e257c13fa1dfb9c4c3495c39afe1d040a"
+  },
+  {
+    "path": "08_octavo_basico/015_pitagoras.md",
+    "size": 3629,
+    "sha256": "e264c0e32af475726704ad126ce0430cf824af915b3308035bf84d8828991b78"
+  },
+  {
+    "path": "08_octavo_basico/016_transformaciones_isometricas.md",
+    "size": 3756,
+    "sha256": "895c4b540605995d85e5b29666f332a56e8582e1634707483d6334b4643be81b"
+  },
+  {
+    "path": "08_octavo_basico/017_homotecia.md",
+    "size": 3624,
+    "sha256": "87d195215bee2c2312a7630c36ef5d938a82f3eb7cf13fbfc01e56899dd116e3"
+  },
+  {
+    "path": "08_octavo_basico/018_semejanza.md",
+    "size": 3624,
+    "sha256": "aeeea7d6719c29e6e285a0ea5e33a3d80315a163a814ee11887ee222b4742513"
+  },
+  {
+    "path": "08_octavo_basico/019_area_y_volumen.md",
+    "size": 3658,
+    "sha256": "2c0cc60b8021af931d5e0521a00000cdcc96fc05dbf0fd1c33f4ab57e8160e15"
+  },
+  {
+    "path": "08_octavo_basico/01_glosario_curso.md",
+    "size": 147,
+    "sha256": "6bda5ca135febf51c9acdeb7b582ea107d5ff01d8a0c300142c19c4484f5274d"
+  },
+  {
+    "path": "08_octavo_basico/020_cuerpos_redondos.md",
+    "size": 3679,
+    "sha256": "1e8c0f3cdc22f2c7d7931bd05f1e76c2e89a6782c52d69c870c0dfcd7f1152d1"
+  },
+  {
+    "path": "08_octavo_basico/021_poblacion_y_muestra.md",
+    "size": 3691,
+    "sha256": "094e339049b1374fa2e1b3a581f3799e93dc539b18ec4339680cec2e3661007f"
+  },
+  {
+    "path": "08_octavo_basico/022_tablas_de_frecuencia.md",
+    "size": 3703,
+    "sha256": "ca22b61524aacb5e37255e48fd170aaef6400b97631a8a05180e5767aa200c28"
+  },
+  {
+    "path": "08_octavo_basico/023_histogramas.md",
+    "size": 3649,
+    "sha256": "4f7ab270cb032ac2ca3b8499c0a888de45c6c2029078199e3b8d5e7b771cc582"
+  },
+  {
+    "path": "08_octavo_basico/024_cuartiles.md",
+    "size": 3626,
+    "sha256": "e1f3fd800994c700aab23b9e5cd5c7f55514b95e4ea2320f13188e9b25f9c2c9"
+  },
+  {
+    "path": "08_octavo_basico/025_probabilidad_compuesta.md",
+    "size": 3705,
+    "sha256": "4c35bd8039a70b84444f2552244fa375ba93b74710326e1908a3e2ddb86365ac"
+  },
+  {
+    "path": "08_octavo_basico/026_regla_multiplicativa.md",
+    "size": 3702,
+    "sha256": "60945f284b1db4cb9be61c3912866a5959c0ddc1e8c91570c1852d40d93fd6df"
+  },
+  {
+    "path": "08_octavo_basico/02_banco_preguntas.md",
+    "size": 2658,
+    "sha256": "0235b025ac681aaaf4fbf0146e6f325c81bb17b8db7f743dddee9d553c46fe1c"
+  },
+  {
+    "path": "09_primero_medio/001_racionales_e_irracionales.md",
+    "size": 3727,
+    "sha256": "d5fc39a879bb12122086467a3109806f2af85962c4f3662ed3aa74bd685783e2"
+  },
+  {
+    "path": "09_primero_medio/002_numeros_reales.md",
+    "size": 3665,
+    "sha256": "d39a9dcbafa6c24e68f85262aaeb22a5ff209dc7c4482f4e636a9a7ce19e7d73"
+  },
+  {
+    "path": "09_primero_medio/003_potencias_enteras.md",
+    "size": 3678,
+    "sha256": "6f35fadb5626ae5d8f81ac66e9cc0bca063e267c67e075b4cb0d10463f9825c3"
+  },
+  {
+    "path": "09_primero_medio/004_raices.md",
+    "size": 3618,
+    "sha256": "eaf9663f122fc79a0d36ada2ef0c6cb61cb9796e9e43a261dcc635eac30ddb64"
+  },
+  {
+    "path": "09_primero_medio/005_notacion_cientifica.md",
+    "size": 3701,
+    "sha256": "06e1f7f1213e55f022ff6c5c058b189f614bf95a29292ac3354cb8aef977a3f0"
+  },
+  {
+    "path": "09_primero_medio/006_porcentajes_y_crecimiento.md",
+    "size": 3726,
+    "sha256": "3c0bc4a718d985fa36e010bc772b5f985412516afaeb180784e0e053611b0ca1"
+  },
+  {
+    "path": "09_primero_medio/007_interes_compuesto.md",
+    "size": 3684,
+    "sha256": "aed68cb067b63e6ef1c36f1337be06d62c9e5e69865f71e601b39689ca062af4"
+  },
+  {
+    "path": "09_primero_medio/008_expresiones_algebraicas.md",
+    "size": 3715,
+    "sha256": "e9f40ee193c1ed5660f5eaee6324767da1483a381dae2c09768a067c8a23f698"
+  },
+  {
+    "path": "09_primero_medio/009_productos_notables.md",
+    "size": 3685,
+    "sha256": "9ab324ee0e519c8578cf0649ed71c7391bd32b6b60bb2e736e62b94d8b86a542"
+  },
+  {
+    "path": "09_primero_medio/00_indice_curso.md",
+    "size": 1329,
+    "sha256": "c01800b73e691e323b880d8337d13a62d30dec9f795002f01351fabe5b0fe1ea"
+  },
+  {
+    "path": "09_primero_medio/010_factorizacion.md",
+    "size": 3645,
+    "sha256": "dc2f7b4679c4644de2cd17fbf756ea8cf1e7ee711aa6cce17f222a8d3d4bfb06"
+  },
+  {
+    "path": "09_primero_medio/011_ecuaciones_lineales.md",
+    "size": 3691,
+    "sha256": "5f29756f031e56815ae48ca8e0ea831b79c2780054502a6632b7481c00119e37"
+  },
+  {
+    "path": "09_primero_medio/012_sistemas_2x2.md",
+    "size": 3649,
+    "sha256": "9e94daeb3828e49821b42f5ecdb6bde11e954d9e55d313391a90596dde0b0c27"
+  },
+  {
+    "path": "09_primero_medio/013_inecuaciones.md",
+    "size": 3649,
+    "sha256": "e12b72083e176f64a2777a80abe62fe8b1ec226820d27fc031572119573585b1"
+  },
+  {
+    "path": "09_primero_medio/014_funcion_lineal.md",
+    "size": 3666,
+    "sha256": "6f8b748f6bcf81c0b9774ae0ea93ec736b9f368dd1efdd62a162f4774b1269c9"
+  },
+  {
+    "path": "09_primero_medio/015_funcion_afin.md",
+    "size": 3659,
+    "sha256": "f93e65fbb0876405e7d3690c67818368055b5f7cda004ffb80682bf338e753e8"
+  },
+  {
+    "path": "09_primero_medio/016_pendiente.md",
+    "size": 3631,
+    "sha256": "8e8baa2092cfd811c8edc479d5a00bdd802e1dfc7045e96864e7fca8e68dba56"
+  },
+  {
+    "path": "09_primero_medio/017_modelacion_lineal.md",
+    "size": 3684,
+    "sha256": "f0a453de8896d0eecf1a9c71c0ebe1e505b08157c486ad79558b8f6636d8839e"
+  },
+  {
+    "path": "09_primero_medio/018_semejanza_y_homotecia.md",
+    "size": 3690,
+    "sha256": "ced31053d42877c8260d074f078e79c48eefa04036540a24260d64ea8e253384"
+  },
+  {
+    "path": "09_primero_medio/019_teorema_de_tales.md",
+    "size": 3660,
+    "sha256": "d186833accd048c100e8bcac83d75d63fa647cec8cc920e845fc0d34783b7459"
+  },
+  {
+    "path": "09_primero_medio/01_glosario_curso.md",
+    "size": 147,
+    "sha256": "6bda5ca135febf51c9acdeb7b582ea107d5ff01d8a0c300142c19c4484f5274d"
+  },
+  {
+    "path": "09_primero_medio/020_pitagoras.md",
+    "size": 3623,
+    "sha256": "f138992d89b2c6a1f90df5a541d469654e78984d862beb6b57b2d7aefb2fe773"
+  },
+  {
+    "path": "09_primero_medio/021_trigonometria_inicial.md",
+    "size": 3708,
+    "sha256": "934bc8cf130ae8dfb21d2fe521c6231ae924cc326fbe99dc4bcd46a43ce2d27a"
+  },
+  {
+    "path": "09_primero_medio/022_vectores.md",
+    "size": 3612,
+    "sha256": "3175560d96b11a1cc05f88f7317b7ff57ec1822c5507c14f416633b0179d769a"
+  },
+  {
+    "path": "09_primero_medio/023_area_y_volumen.md",
+    "size": 3652,
+    "sha256": "51049e4e3c33b44bd0f0b6a7eaa8e57f2edc196cbd716088c9469359cadc91c0"
+  },
+  {
+    "path": "09_primero_medio/024_datos_agrupados.md",
+    "size": 3656,
+    "sha256": "e48558de2f796c58804bcff2da97a5fba290b8a2a1e6dbbce95ac37c0909dcfa"
+  },
+  {
+    "path": "09_primero_medio/025_tendencia_central.md",
+    "size": 3679,
+    "sha256": "08c4b813500bbd474df2076404439d1826c1ac67107b719b3de5e8bb92f345f6"
+  },
+  {
+    "path": "09_primero_medio/026_varianza_inicial.md",
+    "size": 3662,
+    "sha256": "d8698b7fad4298091c7f0a47092fe03aa69d0fa278bd43cf37dd55c96c563c2f"
+  },
+  {
+    "path": "09_primero_medio/027_probabilidad_simple.md",
+    "size": 3681,
+    "sha256": "427c9c51d8d79ed9499b5b25bfdeb8f55957a94065e2647cfe7a1532a07d448a"
+  },
+  {
+    "path": "09_primero_medio/028_probabilidad_compuesta.md",
+    "size": 3699,
+    "sha256": "1023e731466f57f298b35b3baf9766924604dbcb2fe39a7e0a8bb75990535795"
+  },
+  {
+    "path": "09_primero_medio/02_banco_preguntas.md",
+    "size": 2808,
+    "sha256": "eca8c8c631df0249238c95b781e089084ef5001a207d2915b6f831b1b3ec300a"
+  },
+  {
+    "path": "10_segundo_medio/001_reales_y_raices.md",
+    "size": 3672,
+    "sha256": "e180eaa2ef13f719124cdfab3621097f981ba3dc88784d3f42f00d91299ec109"
+  },
+  {
+    "path": "10_segundo_medio/002_potencias_y_radicales.md",
+    "size": 3702,
+    "sha256": "015cf0ebf24675d9787770408dc996a55116614ceb106b77db846983b1272141"
+  },
+  {
+    "path": "10_segundo_medio/003_logaritmos_iniciales.md",
+    "size": 3697,
+    "sha256": "5d361e52d8ed214085ab0463e6603297e6a6cd8de09367b7e2a503eb398e9f79"
+  },
+  {
+    "path": "10_segundo_medio/004_expresiones_racionales.md",
+    "size": 3709,
+    "sha256": "7cea2a923e778c2e82217456e33acb302c4aafed2a6e4558ee7068837c228d43"
+  },
+  {
+    "path": "10_segundo_medio/005_ecuaciones_cuadraticas.md",
+    "size": 3714,
+    "sha256": "a96703079328ebf339a0ba5cd6d526285a51868ced7e812d294d87f63a1f13ff"
+  },
+  {
+    "path": "10_segundo_medio/006_funcion_cuadratica.md",
+    "size": 3695,
+    "sha256": "807aa5747a3ebaa7ba03b8a7b95ab924f7070ecf792e7ac4bcc9607cc3237c7e"
+  },
+  {
+    "path": "10_segundo_medio/007_parabola.md",
+    "size": 3630,
+    "sha256": "04085f922a9aa74ea18e65a3495f91272f8732dfc84b6fda58f1df83bd6f8f63"
+  },
+  {
+    "path": "10_segundo_medio/008_sistemas_de_ecuaciones.md",
+    "size": 3709,
+    "sha256": "31af4eebc14823cd75688f903602ed52dc069b3aec20bd6d65b92017266a1ee4"
+  },
+  {
+    "path": "10_segundo_medio/009_inecuaciones_cuadraticas.md",
+    "size": 3726,
+    "sha256": "111633795c9a82d4a501227d6b25777089b7dfea487582fadfe98d0041f48d06"
+  },
+  {
+    "path": "10_segundo_medio/00_indice_curso.md",
+    "size": 1605,
+    "sha256": "75cd02b203929f18833e54678a38217d2d4aa5549a6c4d17e0c4840374b6032b"
+  },
+  {
+    "path": "10_segundo_medio/010_funcion_inversa_inicial.md",
+    "size": 3720,
+    "sha256": "7394d0614480ee845379068219f304ba34741c158b448944c88b96bf0ae49100"
+  },
+  {
+    "path": "10_segundo_medio/011_funciones_por_tramos.md",
+    "size": 3697,
+    "sha256": "6815ce897fd09443009cc668cad8784f34c42decbc031df23d32e4adc913b44b"
+  },
+  {
+    "path": "10_segundo_medio/012_modelacion_con_funciones.md",
+    "size": 3726,
+    "sha256": "f64fe2954ec2516cd5949c175ee8607d535bdc5241a16bebb283b326b03641ae"
+  },
+  {
+    "path": "10_segundo_medio/013_razones_trigonometricas.md",
+    "size": 3720,
+    "sha256": "3751e917d1c405d384cbc19a49428c1433c4e66c4e7576adb18a3052dcba3fa6"
+  },
+  {
+    "path": "10_segundo_medio/014_seno_coseno_tangente.md",
+    "size": 3697,
+    "sha256": "13c9e93968386a16cfc41e4a2d0df412904ed5d6d0af8a9f667b4479f87b6a52"
+  },
+  {
+    "path": "10_segundo_medio/015_resolucion_de_triangulos.md",
+    "size": 3718,
+    "sha256": "d822760a3075836727d70031b1bbcf7dacdefa0816357f13eaa15c9d2dc54481"
+  },
+  {
+    "path": "10_segundo_medio/016_circunferencia.md",
+    "size": 3648,
+    "sha256": "a90d512e99cce214db796273fa3b45889a51c4bcecb353064bc4fd06a63f1420"
+  },
+  {
+    "path": "10_segundo_medio/017_arcos_y_sectores.md",
+    "size": 3673,
+    "sha256": "0554b636fa6d736965f5c419f2f2a78734c3ec63c0c7de0fc0cb2353f9b8630f"
+  },
+  {
+    "path": "10_segundo_medio/018_geometria_analitica.md",
+    "size": 3688,
+    "sha256": "f01fefa256c19a94fe561a38f7dbc0a29cb913e19650298c86f271b26ccf8771"
+  },
+  {
+    "path": "10_segundo_medio/019_distancia_entre_puntos.md",
+    "size": 3709,
+    "sha256": "90ac8ae772edf41bdda3c5bee506cb9d49cc0a7b785e82f07664e994dde7624c"
+  },
+  {
+    "path": "10_segundo_medio/01_glosario_curso.md",
+    "size": 147,
+    "sha256": "6bda5ca135febf51c9acdeb7b582ea107d5ff01d8a0c300142c19c4484f5274d"
+  },
+  {
+    "path": "10_segundo_medio/020_punto_medio.md",
+    "size": 3643,
+    "sha256": "6ecab4a9af7e51e8d09cc6a4b33c0d8c4bc9ff989873bb3f4318ca8f4dd06407"
+  },
+  {
+    "path": "10_segundo_medio/021_vectores.md",
+    "size": 3612,
+    "sha256": "bd5e129dc7528805abd5a33603985cfe23bb5eea61580a88817f5bccd3223075"
+  },
+  {
+    "path": "10_segundo_medio/022_transformaciones.md",
+    "size": 3673,
+    "sha256": "3ece5ccaf76d7bda319ba10ff9e8ae30c304047173112092dc599db5f05a77f0"
+  },
+  {
+    "path": "10_segundo_medio/023_combinatoria.md",
+    "size": 3639,
+    "sha256": "f5f9cdc18c762dda2ee0bb55ccc52844be714417ba2a775fbb15807f487d295e"
+  },
+  {
+    "path": "10_segundo_medio/024_permutaciones_y_combinaciones.md",
+    "size": 3741,
+    "sha256": "3aa30ec6e4cab08a842a46bef96ee7a698c23b97e96fc7f01f6a933f34d9f723"
+  },
+  {
+    "path": "10_segundo_medio/025_probabilidad_total.md",
+    "size": 3675,
+    "sha256": "870f373e6f8ad5665190e0da421d36ef06bf26d1c38c186738c07afeaf55a996"
+  },
+  {
+    "path": "10_segundo_medio/026_variables_aleatorias.md",
+    "size": 3697,
+    "sha256": "4dd159fef8fc133e16c0dc809c2f9430325f488df65c7b4ef04ca87fd5ea0869"
+  },
+  {
+    "path": "10_segundo_medio/027_distribuciones_simples.md",
+    "size": 3709,
+    "sha256": "040077363b70bd429c7681cbf699353de05eb6289dd7d29449eb1096327fd763"
+  },
+  {
+    "path": "10_segundo_medio/028_desviacion_estandar.md",
+    "size": 3690,
+    "sha256": "3ae7c47353178ac008ecbfb16c0ad0deb954523f0f62f43f11f2919b263a5a03"
+  },
+  {
+    "path": "10_segundo_medio/029_correlacion.md",
+    "size": 3637,
+    "sha256": "bec131387e2e587fc46d8ddf4ab6c4e677d482eec0d61b13c9321f8a93faa1cf"
+  },
+  {
+    "path": "10_segundo_medio/02_banco_preguntas.md",
+    "size": 3101,
+    "sha256": "a89fe09f39696ca0476927252766bc1fd2d44734f8b8e106c6a4bcbd3071b5db"
+  },
+  {
+    "path": "10_segundo_medio/030_analisis_critico_de_graficos.md",
+    "size": 3749,
+    "sha256": "c906c1bf7ee71cf771e151ad56efd0b540ec4b885fb991e9a1fa622b49e19375"
+  },
+  {
+    "path": "11_tercero_medio/001_relaciones_metricas_en_circunferencia.md",
+    "size": 3791,
+    "sha256": "962d7e6afd480182ea50343d67c58d389ef9151bd93198e81a90cf58ed29fc6c"
+  },
+  {
+    "path": "11_tercero_medio/002_angulos_inscritos_y_centrales.md",
+    "size": 3743,
+    "sha256": "e1cdaed3899e0526741ed9dade772368d1adf0cd40e0964999e12b153aa1c63d"
+  },
+  {
+    "path": "11_tercero_medio/003_cuerdas_secantes_y_tangentes.md",
+    "size": 3745,
+    "sha256": "7df7c7fff50b0cb8a0fcc6a205b1c6950bcb0e7c1808e47f1d90f560cd7ea58f"
+  },
+  {
+    "path": "11_tercero_medio/004_medidas_de_dispersion.md",
+    "size": 3708,
+    "sha256": "85f357c242cf9d55930e5b22040992dcbd2c1c46cb90d800827b88edbfb26440"
+  },
+  {
+    "path": "11_tercero_medio/005_rango.md",
+    "size": 3607,
+    "sha256": "ad5c55006dba06c08eab257f7aeb6438c263d97e5668c42c4c498388c41c6cf2"
+  },
+  {
+    "path": "11_tercero_medio/006_varianza.md",
+    "size": 3614,
+    "sha256": "9afadc28d5a0935f22b1e6c3919070e22b0dd54a7837b640971b5d15309dd071"
+  },
+  {
+    "path": "11_tercero_medio/007_desviacion_estandar.md",
+    "size": 3690,
+    "sha256": "99e3156e461c3ceba57173ce727982a89a68befb7ac7af05a6793da02f61ceb9"
+  },
+  {
+    "path": "11_tercero_medio/008_coeficiente_de_variacion.md",
+    "size": 3726,
+    "sha256": "fb076230526bd41a524b1e4869887aa73e47b71cc870abd2998c69b680325fac"
+  },
+  {
+    "path": "11_tercero_medio/009_probabilidad_condicional.md",
+    "size": 3711,
+    "sha256": "2f9e45d50e1ed125891943a13157263efe9ec139b4c5fd93f8f117f83ccc314a"
+  },
+  {
+    "path": "11_tercero_medio/00_indice_curso.md",
+    "size": 1458,
+    "sha256": "172a98b02389116c140785f3a41bdd319a101b7e10449eeb615a2bc544dd8d93"
+  },
+  {
+    "path": "11_tercero_medio/010_diagramas_de_arbol.md",
+    "size": 3680,
+    "sha256": "c634eee70666c5dbc37ea80f311f1f3c620e9484647d8a582ce7c23685865afc"
+  },
+  {
+    "path": "11_tercero_medio/011_bayes_inicial.md",
+    "size": 3645,
+    "sha256": "469c85f3f81e30a0c1fdb8d97fc71dff0d77d007e75b3b1c241e22ca10bad96c"
+  },
+  {
+    "path": "11_tercero_medio/012_funcion_exponencial.md",
+    "size": 3696,
+    "sha256": "7b9bc4f62da7149f795e83a83cb10f5a4fa8e1beb67dbdb4ccaeff054c22604f"
+  },
+  {
+    "path": "11_tercero_medio/013_crecimiento_exponencial.md",
+    "size": 3715,
+    "sha256": "f2f10f0031ade920dc7df9d84e86d5fb0f198f2a3dabc98299cb0ea2123b313e"
+  },
+  {
+    "path": "11_tercero_medio/014_funcion_logaritmica.md",
+    "size": 3701,
+    "sha256": "fe1b3246e79aedfb70a4f41581606e81746c95329adfc0cd83c96f231aba39d4"
+  },
+  {
+    "path": "11_tercero_medio/015_ecuaciones_exponenciales.md",
+    "size": 3721,
+    "sha256": "16d983bd78fcd8f303f9cbc1ebc9b8d271d9e1b742a0fa90c04a53431ae6aa58"
+  },
+  {
+    "path": "11_tercero_medio/016_ecuaciones_logaritmicas.md",
+    "size": 3720,
+    "sha256": "4fa7acede4012406f2f6cdfe8ba215bd2eaffb751be87b4ea5e68c793380bfb9"
+  },
+  {
+    "path": "11_tercero_medio/017_modelacion.md",
+    "size": 3642,
+    "sha256": "bed596328af417f62d2ebeadacf4405f7433e313d10d3751f019160ad25edd20"
+  },
+  {
+    "path": "11_tercero_medio/018_numeros_complejos.md",
+    "size": 3683,
+    "sha256": "1e920275db4b40e2d190981522bf63f2a64fb2197647fc768e688e3dd12b76eb"
+  },
+  {
+    "path": "11_tercero_medio/019_forma_binomica.md",
+    "size": 3666,
+    "sha256": "0ecbb0487bf844ac9da5cd08f351bec67ec122dc1952abee3059135213140a86"
+  },
+  {
+    "path": "11_tercero_medio/01_glosario_curso.md",
+    "size": 147,
+    "sha256": "6bda5ca135febf51c9acdeb7b582ea107d5ff01d8a0c300142c19c4484f5274d"
+  },
+  {
+    "path": "11_tercero_medio/020_plano_complejo.md",
+    "size": 3646,
+    "sha256": "8d2385e0c06d84d5faceebb32e4ef5854e2807d7e6a7b30ab1e6ca71ea9d1c97"
+  },
+  {
+    "path": "11_tercero_medio/021_operaciones_con_complejos.md",
+    "size": 3712,
+    "sha256": "464d686165da02217d7c222c5163c2a78fdddb3bd4d271e3b081c1815b122bcb"
+  },
+  {
+    "path": "11_tercero_medio/022_modulo_y_argumento.md",
+    "size": 3690,
+    "sha256": "90657aba0bf09faf283721257b2fabc51f5ce02f5b312b2368dafc4449f09257"
+  },
+  {
+    "path": "11_tercero_medio/023_pensamiento_computacional.md",
+    "size": 3727,
+    "sha256": "b82242cbe5b899337b30619ef9c124fffb3ad3261ffd01deceffaabfcf9a2d28"
+  },
+  {
+    "path": "11_tercero_medio/024_algoritmos_y_patrones.md",
+    "size": 3703,
+    "sha256": "2e4a7fca23ad57dd8135b75f92a75f766ceedb2f5082d83a30b16499e28e623b"
+  },
+  {
+    "path": "11_tercero_medio/025_datos_con_tecnologia.md",
+    "size": 3691,
+    "sha256": "75e38366dde4898eb3120ca9071e80d3a4dd95b5971c10e8fe0172e16f9cef10"
+  },
+  {
+    "path": "11_tercero_medio/026_decisiones_bajo_incertidumbre.md",
+    "size": 3751,
+    "sha256": "0eebfb0291b6fee5b26fbf76b3d1d7e1bbb438f0cf57b9c638cfe1ed22ac3ce3"
+  },
+  {
+    "path": "11_tercero_medio/02_banco_preguntas.md",
+    "size": 2722,
+    "sha256": "da96f9c447f93d6030c16d63a47f27f522e9833de4fa19638ea56b28ca39250f"
+  },
+  {
+    "path": "12_cuarto_medio/001_funciones_avanzadas.md",
+    "size": 3703,
+    "sha256": "b846dd484d83ab3a4dcbcc69510fc8b631c806852b0ac2469c7a3cb6fa155eb2"
+  },
+  {
+    "path": "12_cuarto_medio/002_composicion_de_funciones.md",
+    "size": 3738,
+    "sha256": "d489d6d69caffbfe0b592141b5a1e83c5b8610f4e32362cef88c1bf0418c2315"
+  },
+  {
+    "path": "12_cuarto_medio/003_funcion_inversa.md",
+    "size": 3684,
+    "sha256": "17a9d47f3a2e3527810180ae2fa997500e8cf487e1f924c9449b2f49a868487f"
+  },
+  {
+    "path": "12_cuarto_medio/004_funciones_racionales.md",
+    "size": 3709,
+    "sha256": "21bef5f17351a16a9ae083e6840918f4d79b025f9687fedce112f0e5fef6ad7a"
+  },
+  {
+    "path": "12_cuarto_medio/005_funciones_trigonometricas.md",
+    "size": 3744,
+    "sha256": "5895c319134213439cc17f0b3cc1617d77cc684742aa69652900906c018e45b0"
+  },
+  {
+    "path": "12_cuarto_medio/006_periodicidad.md",
+    "size": 3661,
+    "sha256": "2758ffe7d367be5bcfaf7a609d96f2a1b849e7343cde0e7d29f6464f676d5520"
+  },
+  {
+    "path": "12_cuarto_medio/007_transformaciones_de_funciones.md",
+    "size": 3763,
+    "sha256": "4f4d65e9a419bf8c409f90caf2167b33d04707c114e95a350d1cfc1ac58842c6"
+  },
+  {
+    "path": "12_cuarto_medio/008_modelos_de_crecimiento.md",
+    "size": 3721,
+    "sha256": "484a4405e7a565a2ca73edc0c7e46c417d5dc5d94d736ca8df600c5bc6b07a6d"
+  },
+  {
+    "path": "12_cuarto_medio/009_modelos_de_decaimiento.md",
+    "size": 3721,
+    "sha256": "1c8f45df0241c728807b60560caec7acdc694acdd02993b8519ba7e45b186361"
+  },
+  {
+    "path": "12_cuarto_medio/00_indice_curso.md",
+    "size": 1785,
+    "sha256": "21cb9ed87eb5acb59edf9d07e300bbc53a30421dd0892e1d6408e903e5a99ca0"
+  },
+  {
+    "path": "12_cuarto_medio/010_optimizacion_elemental.md",
+    "size": 3726,
+    "sha256": "3a034f25fe28daba922776bd0faa708eb7306f486f3dd31a25a10b823873da21"
+  },
+  {
+    "path": "12_cuarto_medio/011_geometria_analitica_avanzada.md",
+    "size": 3754,
+    "sha256": "151e4ea964810c640d3d9c2e590c245e1902c8911a904817b1c67e496969daf0"
+  },
+  {
+    "path": "12_cuarto_medio/012_vectores_y_rectas.md",
+    "size": 3678,
+    "sha256": "64b0f4f022370c558d6bb6b0875fa04b3b0674cc33026c551ea5e695cfb49c44"
+  },
+  {
+    "path": "12_cuarto_medio/013_conicas_iniciales.md",
+    "size": 3683,
+    "sha256": "49d16de51105e09df66951323d4a828639b3ed9195766979dd302bb54f553a9a"
+  },
+  {
+    "path": "12_cuarto_medio/014_probabilidad_binomial.md",
+    "size": 3705,
+    "sha256": "1e563c415d91df31a05815593f33f8a5676cec6df4ebe89b892d1a1086b51724"
+  },
+  {
+    "path": "12_cuarto_medio/015_distribucion_normal_inicial.md",
+    "size": 3756,
+    "sha256": "28712c1a38a8899e3bdcd469dcbcb546f06d94933e6a5d13f4b2a8b3e9e7a09f"
+  },
+  {
+    "path": "12_cuarto_medio/016_inferencia_estadistica_inicial.md",
+    "size": 3774,
+    "sha256": "d0fd91c58393d451d6a756e6374ba912b63bdd7ba662ae10fd01dfc8879782c5"
+  },
+  {
+    "path": "12_cuarto_medio/017_intervalos_de_confianza.md",
+    "size": 3727,
+    "sha256": "a88f67244f7e94e25de3569d11fd9ee7cbe5f086c67347d26797ee7fc290e7de"
+  },
+  {
+    "path": "12_cuarto_medio/018_muestreo_y_sesgo.md",
+    "size": 3685,
+    "sha256": "f0bbda635be5ca8bd313957fdf5c9d5aa98459b7c3a6d9a43d4a71cdf3c59e84"
+  },
+  {
+    "path": "12_cuarto_medio/019_regresion_lineal.md",
+    "size": 3679,
+    "sha256": "ddb6fc7ad80a15c33f9a907cf1cd81b8a251074b879c69ebedbeef7639f3441b"
+  },
+  {
+    "path": "12_cuarto_medio/01_glosario_curso.md",
+    "size": 147,
+    "sha256": "6bda5ca135febf51c9acdeb7b582ea107d5ff01d8a0c300142c19c4484f5274d"
+  },
+  {
+    "path": "12_cuarto_medio/020_correlacion_y_causalidad.md",
+    "size": 3727,
+    "sha256": "aa526899d05b1067e9b19ecc0079aefc98292091e06032cf06eb9345de3bb868"
+  },
+  {
+    "path": "12_cuarto_medio/021_analisis_critico_de_informacion.md",
+    "size": 3790,
+    "sha256": "bfc8676766f0f40ed9f79b92f90a998a4d36eb97b3af3f94b831f13763347686"
+  },
+  {
+    "path": "12_cuarto_medio/022_complejos_avanzados.md",
+    "size": 3688,
+    "sha256": "65fc1e3a243e1c2b67a2ab4316175c725a998914ceb469de72b528d3ee2310ca"
+  },
+  {
+    "path": "12_cuarto_medio/023_polinomios_y_raices.md",
+    "size": 3693,
+    "sha256": "95511cd743ea241698bd2254ce969cb7b2acd12f4f4baa374505cb465f10d612"
+  },
+  {
+    "path": "12_cuarto_medio/024_sucesiones_y_series.md",
+    "size": 3703,
+    "sha256": "65a3197e14d2d1a9bca3515feba906413b30733804a67a02938dfe66f935a126"
+  },
+  {
+    "path": "12_cuarto_medio/025_limites_intuitivos.md",
+    "size": 3702,
+    "sha256": "a9856bf50e88c0bc6c36c4eb1472fca1f276a331e2c5165f58325a73c2caff74"
+  },
+  {
+    "path": "12_cuarto_medio/026_derivada_como_tasa_de_cambio.md",
+    "size": 3757,
+    "sha256": "4ffd1b00b789d5fd15394012fd1ce8c16868b8310abf0834e88b8679c1467113"
+  },
+  {
+    "path": "12_cuarto_medio/027_integral_como_acumulacion.md",
+    "size": 3744,
+    "sha256": "a278f2ca4d8cd7513644a897b4edd92f56866e87992bbfd1dd92bc1698493e17"
+  },
+  {
+    "path": "12_cuarto_medio/028_modelacion_financiera.md",
+    "size": 3720,
+    "sha256": "3f318aafc8b16cb13d0cd10ead31d8bee63490a6724dba6d38244a81d7cefa87"
+  },
+  {
+    "path": "12_cuarto_medio/029_matematica_y_ciudadania.md",
+    "size": 3737,
+    "sha256": "99da9ae52efce9a789ce9092c65ea6c68482abc9732a8fb85efa8a8be75dfd33"
+  },
+  {
+    "path": "12_cuarto_medio/02_banco_preguntas.md",
+    "size": 3192,
+    "sha256": "907b5698a9303dcc4d4e27e0082d8062b6c55525202444180324af059e58ecaa"
+  },
+  {
+    "path": "12_cuarto_medio/030_proyecto_final_de_modelacion.md",
+    "size": 3762,
+    "sha256": "400aebd2d7f5ace4edcb7ec2194aebf9cba364c9c747c00c8be648ec3ecd4d71"
+  },
+  {
+    "path": "13_tematicos_transversales/001_que_es_la_matematica.md",
+    "size": 3755,
+    "sha256": "33c2a34b69d18a72264c3dcae6ea94ee1289faa7084dfd47f1fd5d5f34653acb"
+  },
+  {
+    "path": "13_tematicos_transversales/002_resolucion_de_problemas.md",
+    "size": 3768,
+    "sha256": "16a5f20966870f8cbfa33684fd5f830a606efba9794393c94a474bfecd145438"
+  },
+  {
+    "path": "13_tematicos_transversales/003_representaciones.md",
+    "size": 3721,
+    "sha256": "b44693a14d10a0c97e12832a1fe8ff3b8e3c46e6cfc53db943ca5161d9123055"
+  },
+  {
+    "path": "13_tematicos_transversales/004_conteo_y_valor_posicional.md",
+    "size": 3775,
+    "sha256": "e473f914c545eb9eb13fa7166fbea8bf5a718d299376d1acc3c1bc66e31750bd"
+  },
+  {
+    "path": "13_tematicos_transversales/005_adicion_y_sustraccion.md",
+    "size": 3761,
+    "sha256": "0d3446b02a8923f4157f4bea6e136d145b1ab61d2341e457594d08059957210c"
+  },
+  {
+    "path": "13_tematicos_transversales/006_multiplicacion_y_division.md",
+    "size": 3784,
+    "sha256": "5a92310398b9bb43d8e61bfd68ce1615a2cfae49fbfd0deeaff01d46d8bfc0b3"
+  },
+  {
+    "path": "13_tematicos_transversales/007_fracciones.md",
+    "size": 3685,
+    "sha256": "8283c80f633c5e90d86149afa9c1b88806906595c03732a58ef73d5a5a6551cd"
+  },
+  {
+    "path": "13_tematicos_transversales/008_decimales.md",
+    "size": 3678,
+    "sha256": "501816cc6b527749d3c28486275ab97aae7415c495cb3e5dc0f1a66423ba561c"
+  },
+  {
+    "path": "13_tematicos_transversales/009_porcentajes.md",
+    "size": 3690,
+    "sha256": "c2b45393c4ea41280bc70c535245551c3bb10ea9ce1916c5c646253aafe719bc"
+  },
+  {
+    "path": "13_tematicos_transversales/010_razones_y_proporciones.md",
+    "size": 3757,
+    "sha256": "a7d564e2ec19b3e0986ca80e9c5d09139ad27abaed5582e0348aa9f20d0af287"
+  },
+  {
+    "path": "13_tematicos_transversales/011_algebra.md",
+    "size": 3657,
+    "sha256": "36a691801b92b6ee006e0ac2857ae6bb83879a02c3732fc3cef59c10f9f36ae3"
+  },
+  {
+    "path": "13_tematicos_transversales/012_ecuaciones_e_inecuaciones.md",
+    "size": 3775,
+    "sha256": "140dacd09807a00866228996c17d6d893ea8e7d86e2ca502ecfee157079b5e1e"
+  },
+  {
+    "path": "13_tematicos_transversales/013_patrones.md",
+    "size": 3673,
+    "sha256": "9c912479416079dd357ff226c60372082332d113f26a633b1d1dfb5ca2525319"
+  },
+  {
+    "path": "13_tematicos_transversales/014_funciones.md",
+    "size": 3679,
+    "sha256": "7e1a778f3657ca83a93bfe9244053f15f7f946383a2639b4bb4eb38df1c60258"
+  },
+  {
+    "path": "13_tematicos_transversales/015_geometria_plana.md",
+    "size": 3707,
+    "sha256": "74865cf5c56b46a19dc881496303e0aa5fa1682932781d946264fb0c7c811510"
+  },
+  {
+    "path": "13_tematicos_transversales/016_geometria_espacial.md",
+    "size": 3725,
+    "sha256": "fba617305689712f13c525094a1f5fc1ed40dcf665619dd33c39e578be63dba4"
+  },
+  {
+    "path": "13_tematicos_transversales/017_medicion.md",
+    "size": 3678,
+    "sha256": "39105e1653fdd0bcf0ca749fc386e89338eab1f1855cfd3056141890c17bf3a3"
+  },
+  {
+    "path": "13_tematicos_transversales/018_perimetro_area_y_volumen.md",
+    "size": 3765,
+    "sha256": "df0e103762a682d91de27f74270ad11147f0fdb98509a1c37f556495600ef494"
+  },
+  {
+    "path": "13_tematicos_transversales/019_plano_cartesiano.md",
+    "size": 3721,
+    "sha256": "843551b10bdf9ab982111b30dd76a1365d629627cbb15638bece1e3ae6cea778"
+  },
+  {
+    "path": "13_tematicos_transversales/020_transformaciones_geometricas.md",
+    "size": 3798,
+    "sha256": "00964e173551360680c41734cd583b7a751162aec08bcaee51d3b9b4df7af03f"
+  },
+  {
+    "path": "13_tematicos_transversales/021_estadistica_descriptiva.md",
+    "size": 3768,
+    "sha256": "05e35b06ce3a7f25be289338d92c45715ceacb8ea224733be4419a991b5c1dad"
+  },
+  {
+    "path": "13_tematicos_transversales/022_graficos_y_tablas.md",
+    "size": 3721,
+    "sha256": "cb1b9e254216ffe2621c979b5a7174d9cfbbdae45e05c12e8312ba6d4742c3f3"
+  },
+  {
+    "path": "13_tematicos_transversales/023_probabilidad.md",
+    "size": 3687,
+    "sha256": "6f8e70fcc5645c0de4b774e2a79d2b26db2d5d018ee5823e01e469988f9ea7af"
+  },
+  {
+    "path": "13_tematicos_transversales/024_combinatoria.md",
+    "size": 3687,
+    "sha256": "4f98ce09be82e3c02c818172d1e7f4d5affeafc4fb654bb4a1d8cb3508fea932"
+  },
+  {
+    "path": "13_tematicos_transversales/025_modelacion_matematica.md",
+    "size": 3761,
+    "sha256": "beba8fe60d9ccfbf76723aa1c85ba66e518fa23e3964fb030dc710660f69a297"
+  },
+  {
+    "path": "13_tematicos_transversales/026_estimacion.md",
+    "size": 3690,
+    "sha256": "62d25ece64611f9284ed6451be15c5bc033df38228c2865a9ec3b4269246a96c"
+  },
+  {
+    "path": "13_tematicos_transversales/027_errores_frecuentes.md",
+    "size": 3733,
+    "sha256": "905a9c552c3d728a9ee56a051c8add62b1e570e4b36775fadda6547adb6ab5af"
+  },
+  {
+    "path": "13_tematicos_transversales/028_matematica_paso_a_paso.md",
+    "size": 3762,
+    "sha256": "67de9f6d5639d4d5fd7445657ccaa8ad7c9fd27d44596b496bce4e324bb59189"
+  },
+  {
+    "path": "14_bancos_generales/01_glosario_general.md",
+    "size": 175,
+    "sha256": "fae6414bf3d59c0f25d5e1113900a075806c0fd6b2c81908afa597e512af6515"
+  },
+  {
+    "path": "14_bancos_generales/02_palabras_clave.md",
+    "size": 7358,
+    "sha256": "6c344afdb05ff49b6aff65893ab16ea85ed3753851a7899ebdac4abbca0d1f70"
+  },
+  {
+    "path": "14_bancos_generales/03_mapa_relaciones_materias.md",
+    "size": 132,
+    "sha256": "171fbc32d05bf3a71f2f7f8e8a3bcd39432fb7d44661661253e898dfc0d95106"
+  },
+  {
+    "path": "14_bancos_generales/04_plantilla_resolucion_problemas.md",
+    "size": 108,
+    "sha256": "1de00409436cc82164c38d5365b4b40bb2f155f46766ea2bd75eacd51e98fce0"
+  },
+  {
+    "path": "15_evaluaciones_generales/01_evaluaciones_generales.md",
+    "size": 90,
+    "sha256": "b315aa1e38a0634227fc623e6c2214a9fe40b2b79bee3ced8d71097ed42463c8"
+  },
+  {
+    "path": "16_apoyo_inclusivo/01_adaptaciones_tea.md",
+    "size": 112,
+    "sha256": "01efcb47a45e86f6cc65f983e7f094db9b8c5a6825370b92b06f52ed8ff2e7b0"
+  },
+  {
+    "path": "16_apoyo_inclusivo/02_reglas_por_perfil.md",
+    "size": 113,
+    "sha256": "de89fc73d78505271315187c24996c9b00918584c39a4ab5fc5337d4de3de83d"
+  },
+  {
+    "path": "17_compendios/compendio_cuarto_basico.md",
+    "size": 89086,
+    "sha256": "28d582f559883332b7bd1e49306b765036c134a44f83dbc663dc17c942208d6f"
+  },
+  {
+    "path": "17_compendios/compendio_cuarto_medio.md",
+    "size": 111871,
+    "sha256": "456bdbf494fde62b3998d72855ea13c974fa80283d8d3c415db8adf9737a8243"
+  },
+  {
+    "path": "17_compendios/compendio_octavo_basico.md",
+    "size": 96131,
+    "sha256": "7ef8fbd69b5c9b72775c2ad24dc17feccbb5bd5a7edcaeab65323fe93b767a96"
+  },
+  {
+    "path": "17_compendios/compendio_primero_basico.md",
+    "size": 73894,
+    "sha256": "42ffff4fccbf7cd0494fb27c9318f12b984b2835c5ce4a90b0f99c09298d4d19"
+  },
+  {
+    "path": "17_compendios/compendio_primero_medio.md",
+    "size": 103018,
+    "sha256": "583a746b014515dc480beaedd4fbbc43bb93aaed83cbfaf0ebe0bc47e2692bfd"
+  },
+  {
+    "path": "17_compendios/compendio_quinto_basico.md",
+    "size": 92576,
+    "sha256": "0596e8741463f8cdadd92c8c74bf2173aa2794d0476013932d8bb72b1e425de3"
+  },
+  {
+    "path": "17_compendios/compendio_segundo_basico.md",
+    "size": 74040,
+    "sha256": "06dc9f055cb3232fdb392558018d07459832e67f80c7d12025d5950cff858788"
+  },
+  {
+    "path": "17_compendios/compendio_segundo_medio.md",
+    "size": 110952,
+    "sha256": "581b3dd738e5c12db47b86df34515b3274edb49aec0f4050e7a580dde4caf4ca"
+  },
+  {
+    "path": "17_compendios/compendio_septimo_basico.md",
+    "size": 92824,
+    "sha256": "7073d0dc010f504cab24327abc10f3e4f70aa8cd5cfcb6f417874cce955fff79"
+  },
+  {
+    "path": "17_compendios/compendio_sexto_basico.md",
+    "size": 95934,
+    "sha256": "93415e9014978a7b7620d4f4b3283643b6ff41f5132e86cb5b9e509be16e5929"
+  },
+  {
+    "path": "17_compendios/compendio_tercero_basico.md",
+    "size": 77589,
+    "sha256": "ffc2c178b40f1616e7a846dccdaba11eb9e2bbcb09021891e34f9fd625c3f548"
+  },
+  {
+    "path": "17_compendios/compendio_tercero_medio.md",
+    "size": 96333,
+    "sha256": "dc39de41f2955bd765751bf376630bd6bb575edb71f81a30098bfde4105252d7"
+  },
+  {
+    "path": "17_compendios/enciclopedia_completa_matematica.md",
+    "size": 1114288,
+    "sha256": "af775b6d45caa4ea230a28ad2e8601b8359c2e968c121d1e3bd640e3e8e38134"
+  },
+  {
+    "path": "18_rag/catalogo_capitulos.json",
+    "size": 96402,
+    "sha256": "2bc8cb3ea5df4049af33d7b8ead3a9f8d97c590a12be374adf949bf2756a9c12"
+  },
+  {
+    "path": "18_rag/catalogo_capitulos.jsonl",
+    "size": 84884,
+    "sha256": "b4dc21d07d95d7f7ff379de8197e1dc1b823e8d87311deac9ac35c547bc57f08"
+  },
+  {
+    "path": "18_rag/chunks_matematica.jsonl",
+    "size": 2438788,
+    "sha256": "1fa48137f55ebaee1af0f43f03b654f1c81626bf3c71c63400a66085bc2df689"
+  },
+  {
+    "path": "CHANGELOG.md",
+    "size": 56,
+    "sha256": "f67d980a71482867d1f2b56c3d2cf8367a5a261382b8c04b3163152b2c536732"
+  },
+  {
+    "path": "README.md",
+    "size": 123,
+    "sha256": "eb014bb65938208f73f673764522d0a78ce94f77da632267734c9f064046d445"
+  }
+]

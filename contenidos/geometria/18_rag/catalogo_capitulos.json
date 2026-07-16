@@ -1,0 +1,2954 @@
+[
+  {
+    "id": "geo_1b_001_posicion_derecha_e_izquierda",
+    "titulo": "Posición derecha e izquierda",
+    "curso": "1° básico",
+    "folder": "01_primero_basico",
+    "path": "01_primero_basico/001_posicion_derecha_e_izquierda.md",
+    "categoria": "geometria_plana",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_1b_002_arriba_abajo_delante_detras",
+    "titulo": "Arriba abajo delante detrás",
+    "curso": "1° básico",
+    "folder": "01_primero_basico",
+    "path": "01_primero_basico/002_arriba_abajo_delante_detras.md",
+    "categoria": "geometria_plana",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_1b_003_figuras_2d_del_entorno",
+    "titulo": "Figuras 2D del entorno",
+    "curso": "1° básico",
+    "folder": "01_primero_basico",
+    "path": "01_primero_basico/003_figuras_2d_del_entorno.md",
+    "categoria": "geometria_plana",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_1b_004_circulo",
+    "titulo": "Círculo",
+    "curso": "1° básico",
+    "folder": "01_primero_basico",
+    "path": "01_primero_basico/004_circulo.md",
+    "categoria": "geometria_plana",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_1b_005_triangulo",
+    "titulo": "Triángulo",
+    "curso": "1° básico",
+    "folder": "01_primero_basico",
+    "path": "01_primero_basico/005_triangulo.md",
+    "categoria": "geometria_plana",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_1b_006_cuadrado",
+    "titulo": "Cuadrado",
+    "curso": "1° básico",
+    "folder": "01_primero_basico",
+    "path": "01_primero_basico/006_cuadrado.md",
+    "categoria": "geometria_plana",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_1b_007_rectangulo",
+    "titulo": "Rectángulo",
+    "curso": "1° básico",
+    "folder": "01_primero_basico",
+    "path": "01_primero_basico/007_rectangulo.md",
+    "categoria": "geometria_plana",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_1b_008_clasificar_figuras_por_forma",
+    "titulo": "Clasificar figuras por forma",
+    "curso": "1° básico",
+    "folder": "01_primero_basico",
+    "path": "01_primero_basico/008_clasificar_figuras_por_forma.md",
+    "categoria": "geometria_plana",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_1b_009_lados_y_esquinas_iniciales",
+    "titulo": "Lados y esquinas iniciales",
+    "curso": "1° básico",
+    "folder": "01_primero_basico",
+    "path": "01_primero_basico/009_lados_y_esquinas_iniciales.md",
+    "categoria": "geometria_plana",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_1b_010_componer_figuras_2d",
+    "titulo": "Componer figuras 2D",
+    "curso": "1° básico",
+    "folder": "01_primero_basico",
+    "path": "01_primero_basico/010_componer_figuras_2d.md",
+    "categoria": "geometria_plana",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_1b_011_descomponer_figuras_2d",
+    "titulo": "Descomponer figuras 2D",
+    "curso": "1° básico",
+    "folder": "01_primero_basico",
+    "path": "01_primero_basico/011_descomponer_figuras_2d.md",
+    "categoria": "geometria_plana",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_1b_012_cuerpos_3d_del_entorno",
+    "titulo": "Cuerpos 3D del entorno",
+    "curso": "1° básico",
+    "folder": "01_primero_basico",
+    "path": "01_primero_basico/012_cuerpos_3d_del_entorno.md",
+    "categoria": "geometria_3d",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_1b_013_cubo",
+    "titulo": "Cubo",
+    "curso": "1° básico",
+    "folder": "01_primero_basico",
+    "path": "01_primero_basico/013_cubo.md",
+    "categoria": "geometria_plana",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_1b_014_esfera",
+    "titulo": "Esfera",
+    "curso": "1° básico",
+    "folder": "01_primero_basico",
+    "path": "01_primero_basico/014_esfera.md",
+    "categoria": "geometria_3d",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_1b_015_cilindro",
+    "titulo": "Cilindro",
+    "curso": "1° básico",
+    "folder": "01_primero_basico",
+    "path": "01_primero_basico/015_cilindro.md",
+    "categoria": "geometria_3d",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_1b_016_cono_inicial",
+    "titulo": "Cono inicial",
+    "curso": "1° básico",
+    "folder": "01_primero_basico",
+    "path": "01_primero_basico/016_cono_inicial.md",
+    "categoria": "geometria_3d",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_1b_017_relacionar_figuras_2d_y_3d",
+    "titulo": "Relacionar figuras 2D y 3D",
+    "curso": "1° básico",
+    "folder": "01_primero_basico",
+    "path": "01_primero_basico/017_relacionar_figuras_2d_y_3d.md",
+    "categoria": "geometria_plana",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_1b_018_construcciones_con_bloques",
+    "titulo": "Construcciones con bloques",
+    "curso": "1° básico",
+    "folder": "01_primero_basico",
+    "path": "01_primero_basico/018_construcciones_con_bloques.md",
+    "categoria": "geometria_plana",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_1b_019_patrones_geometricos",
+    "titulo": "Patrones geométricos",
+    "curso": "1° básico",
+    "folder": "01_primero_basico",
+    "path": "01_primero_basico/019_patrones_geometricos.md",
+    "categoria": "geometria_plana",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_1b_020_dibujar_recorridos_simples",
+    "titulo": "Dibujar recorridos simples",
+    "curso": "1° básico",
+    "folder": "01_primero_basico",
+    "path": "01_primero_basico/020_dibujar_recorridos_simples.md",
+    "categoria": "geometria_plana",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_2b_001_posicion_y_puntos_de_referencia",
+    "titulo": "Posición y puntos de referencia",
+    "curso": "2° básico",
+    "folder": "02_segundo_basico",
+    "path": "02_segundo_basico/001_posicion_y_puntos_de_referencia.md",
+    "categoria": "geometria_plana",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_2b_002_trayectos_en_cuadriculas",
+    "titulo": "Trayectos en cuadrículas",
+    "curso": "2° básico",
+    "folder": "02_segundo_basico",
+    "path": "02_segundo_basico/002_trayectos_en_cuadriculas.md",
+    "categoria": "geometria_plana",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_2b_003_figuras_2d_y_atributos",
+    "titulo": "Figuras 2D y atributos",
+    "curso": "2° básico",
+    "folder": "02_segundo_basico",
+    "path": "02_segundo_basico/003_figuras_2d_y_atributos.md",
+    "categoria": "geometria_plana",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_2b_004_lados_y_vertices",
+    "titulo": "Lados y vértices",
+    "curso": "2° básico",
+    "folder": "02_segundo_basico",
+    "path": "02_segundo_basico/004_lados_y_vertices.md",
+    "categoria": "geometria_plana",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_2b_005_triangulos_iniciales",
+    "titulo": "Triángulos iniciales",
+    "curso": "2° básico",
+    "folder": "02_segundo_basico",
+    "path": "02_segundo_basico/005_triangulos_iniciales.md",
+    "categoria": "geometria_plana",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_2b_006_cuadrilateros_iniciales",
+    "titulo": "Cuadriláteros iniciales",
+    "curso": "2° básico",
+    "folder": "02_segundo_basico",
+    "path": "02_segundo_basico/006_cuadrilateros_iniciales.md",
+    "categoria": "geometria_plana",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_2b_007_circulo_y_circunferencia_inicial",
+    "titulo": "Círculo y circunferencia inicial",
+    "curso": "2° básico",
+    "folder": "02_segundo_basico",
+    "path": "02_segundo_basico/007_circulo_y_circunferencia_inicial.md",
+    "categoria": "geometria_plana",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_2b_008_simetria_inicial",
+    "titulo": "Simetría inicial",
+    "curso": "2° básico",
+    "folder": "02_segundo_basico",
+    "path": "02_segundo_basico/008_simetria_inicial.md",
+    "categoria": "transformaciones",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_2b_009_mitades_simetricas",
+    "titulo": "Mitades simétricas",
+    "curso": "2° básico",
+    "folder": "02_segundo_basico",
+    "path": "02_segundo_basico/009_mitades_simetricas.md",
+    "categoria": "geometria_plana",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_2b_010_composicion_de_figuras",
+    "titulo": "Composición de figuras",
+    "curso": "2° básico",
+    "folder": "02_segundo_basico",
+    "path": "02_segundo_basico/010_composicion_de_figuras.md",
+    "categoria": "geometria_plana",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_2b_011_cuerpos_3d",
+    "titulo": "Cuerpos 3D",
+    "curso": "2° básico",
+    "folder": "02_segundo_basico",
+    "path": "02_segundo_basico/011_cuerpos_3d.md",
+    "categoria": "geometria_3d",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_2b_012_caras_aristas_y_vertices",
+    "titulo": "Caras aristas y vértices",
+    "curso": "2° básico",
+    "folder": "02_segundo_basico",
+    "path": "02_segundo_basico/012_caras_aristas_y_vertices.md",
+    "categoria": "geometria_plana",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_2b_013_cubo_y_paralelepipedo",
+    "titulo": "Cubo y paralelepípedo",
+    "curso": "2° básico",
+    "folder": "02_segundo_basico",
+    "path": "02_segundo_basico/013_cubo_y_paralelepipedo.md",
+    "categoria": "geometria_plana",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_2b_014_prismas_iniciales",
+    "titulo": "Prismas iniciales",
+    "curso": "2° básico",
+    "folder": "02_segundo_basico",
+    "path": "02_segundo_basico/014_prismas_iniciales.md",
+    "categoria": "geometria_3d",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_2b_015_piramides_iniciales",
+    "titulo": "Pirámides iniciales",
+    "curso": "2° básico",
+    "folder": "02_segundo_basico",
+    "path": "02_segundo_basico/015_piramides_iniciales.md",
+    "categoria": "geometria_3d",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_2b_016_cilindro_cono_y_esfera",
+    "titulo": "Cilindro cono y esfera",
+    "curso": "2° básico",
+    "folder": "02_segundo_basico",
+    "path": "02_segundo_basico/016_cilindro_cono_y_esfera.md",
+    "categoria": "geometria_3d",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_2b_017_redes_simples",
+    "titulo": "Redes simples",
+    "curso": "2° básico",
+    "folder": "02_segundo_basico",
+    "path": "02_segundo_basico/017_redes_simples.md",
+    "categoria": "geometria_plana",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_2b_018_construcciones_geometricas",
+    "titulo": "Construcciones geométricas",
+    "curso": "2° básico",
+    "folder": "02_segundo_basico",
+    "path": "02_segundo_basico/018_construcciones_geometricas.md",
+    "categoria": "geometria_plana",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_2b_019_longitud_de_bordes_inicial",
+    "titulo": "Longitud de bordes inicial",
+    "curso": "2° básico",
+    "folder": "02_segundo_basico",
+    "path": "02_segundo_basico/019_longitud_de_bordes_inicial.md",
+    "categoria": "geometria_plana",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_2b_020_problemas_espaciales_cotidianos",
+    "titulo": "Problemas espaciales cotidianos",
+    "curso": "2° básico",
+    "folder": "02_segundo_basico",
+    "path": "02_segundo_basico/020_problemas_espaciales_cotidianos.md",
+    "categoria": "geometria_plana",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_3b_001_punto_recta_y_segmento_inicial",
+    "titulo": "Punto recta y segmento inicial",
+    "curso": "3° básico",
+    "folder": "03_tercero_basico",
+    "path": "03_tercero_basico/001_punto_recta_y_segmento_inicial.md",
+    "categoria": "geometria_plana",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_3b_002_paralelas_y_perpendiculares_iniciales",
+    "titulo": "Paralelas y perpendiculares iniciales",
+    "curso": "3° básico",
+    "folder": "03_tercero_basico",
+    "path": "03_tercero_basico/002_paralelas_y_perpendiculares_iniciales.md",
+    "categoria": "geometria_plana",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_3b_003_angulos_como_giros",
+    "titulo": "Ángulos como giros",
+    "curso": "3° básico",
+    "folder": "03_tercero_basico",
+    "path": "03_tercero_basico/003_angulos_como_giros.md",
+    "categoria": "geometria_plana",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_3b_004_figuras_2d",
+    "titulo": "Figuras 2D",
+    "curso": "3° básico",
+    "folder": "03_tercero_basico",
+    "path": "03_tercero_basico/004_figuras_2d.md",
+    "categoria": "geometria_plana",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_3b_005_clasificacion_de_triangulos_inicial",
+    "titulo": "Clasificación de triángulos inicial",
+    "curso": "3° básico",
+    "folder": "03_tercero_basico",
+    "path": "03_tercero_basico/005_clasificacion_de_triangulos_inicial.md",
+    "categoria": "geometria_plana",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_3b_006_cuadrilateros",
+    "titulo": "Cuadriláteros",
+    "curso": "3° básico",
+    "folder": "03_tercero_basico",
+    "path": "03_tercero_basico/006_cuadrilateros.md",
+    "categoria": "geometria_plana",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_3b_007_poligonos",
+    "titulo": "Polígonos",
+    "curso": "3° básico",
+    "folder": "03_tercero_basico",
+    "path": "03_tercero_basico/007_poligonos.md",
+    "categoria": "geometria_plana",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_3b_008_perimetro",
+    "titulo": "Perímetro",
+    "curso": "3° básico",
+    "folder": "03_tercero_basico",
+    "path": "03_tercero_basico/008_perimetro.md",
+    "categoria": "medicion_geometrica",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_3b_009_redes_de_cuerpos_3d",
+    "titulo": "Redes de cuerpos 3D",
+    "curso": "3° básico",
+    "folder": "03_tercero_basico",
+    "path": "03_tercero_basico/009_redes_de_cuerpos_3d.md",
+    "categoria": "geometria_3d",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_3b_010_construir_cuerpos_desde_redes",
+    "titulo": "Construir cuerpos desde redes",
+    "curso": "3° básico",
+    "folder": "03_tercero_basico",
+    "path": "03_tercero_basico/010_construir_cuerpos_desde_redes.md",
+    "categoria": "geometria_3d",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_3b_011_caras_aristas_y_vertices",
+    "titulo": "Caras aristas y vértices",
+    "curso": "3° básico",
+    "folder": "03_tercero_basico",
+    "path": "03_tercero_basico/011_caras_aristas_y_vertices.md",
+    "categoria": "geometria_plana",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_3b_012_traslacion",
+    "titulo": "Traslación",
+    "curso": "3° básico",
+    "folder": "03_tercero_basico",
+    "path": "03_tercero_basico/012_traslacion.md",
+    "categoria": "transformaciones",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_3b_013_reflexion",
+    "titulo": "Reflexión",
+    "curso": "3° básico",
+    "folder": "03_tercero_basico",
+    "path": "03_tercero_basico/013_reflexion.md",
+    "categoria": "transformaciones",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_3b_014_rotacion",
+    "titulo": "Rotación",
+    "curso": "3° básico",
+    "folder": "03_tercero_basico",
+    "path": "03_tercero_basico/014_rotacion.md",
+    "categoria": "transformaciones",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_3b_015_reconocer_transformaciones",
+    "titulo": "Reconocer transformaciones",
+    "curso": "3° básico",
+    "folder": "03_tercero_basico",
+    "path": "03_tercero_basico/015_reconocer_transformaciones.md",
+    "categoria": "geometria_3d",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_3b_016_simetria_axial",
+    "titulo": "Simetría axial",
+    "curso": "3° básico",
+    "folder": "03_tercero_basico",
+    "path": "03_tercero_basico/016_simetria_axial.md",
+    "categoria": "transformaciones",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_3b_017_coordenadas_en_cuadricula",
+    "titulo": "Coordenadas en cuadrícula",
+    "curso": "3° básico",
+    "folder": "03_tercero_basico",
+    "path": "03_tercero_basico/017_coordenadas_en_cuadricula.md",
+    "categoria": "geometria_analitica",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_3b_018_composicion_y_descomposicion",
+    "titulo": "Composición y descomposición",
+    "curso": "3° básico",
+    "folder": "03_tercero_basico",
+    "path": "03_tercero_basico/018_composicion_y_descomposicion.md",
+    "categoria": "geometria_plana",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_3b_019_teselados_iniciales",
+    "titulo": "Teselados iniciales",
+    "curso": "3° básico",
+    "folder": "03_tercero_basico",
+    "path": "03_tercero_basico/019_teselados_iniciales.md",
+    "categoria": "transformaciones",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_3b_020_problemas_de_perimetro",
+    "titulo": "Problemas de perímetro",
+    "curso": "3° básico",
+    "folder": "03_tercero_basico",
+    "path": "03_tercero_basico/020_problemas_de_perimetro.md",
+    "categoria": "medicion_geometrica",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_4b_001_rectas_segmentos_y_semirrectas",
+    "titulo": "Rectas segmentos y semirrectas",
+    "curso": "4° básico",
+    "folder": "04_cuarto_basico",
+    "path": "04_cuarto_basico/001_rectas_segmentos_y_semirrectas.md",
+    "categoria": "geometria_plana",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_4b_002_angulos_y_medicion_inicial",
+    "titulo": "Ángulos y medición inicial",
+    "curso": "4° básico",
+    "folder": "04_cuarto_basico",
+    "path": "04_cuarto_basico/002_angulos_y_medicion_inicial.md",
+    "categoria": "geometria_plana",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_4b_003_angulo_recto_agudo_y_obtuso",
+    "titulo": "Ángulo recto agudo y obtuso",
+    "curso": "4° básico",
+    "folder": "04_cuarto_basico",
+    "path": "04_cuarto_basico/003_angulo_recto_agudo_y_obtuso.md",
+    "categoria": "geometria_plana",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_4b_004_triangulos_por_lados",
+    "titulo": "Triángulos por lados",
+    "curso": "4° básico",
+    "folder": "04_cuarto_basico",
+    "path": "04_cuarto_basico/004_triangulos_por_lados.md",
+    "categoria": "geometria_plana",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_4b_005_triangulos_por_angulos",
+    "titulo": "Triángulos por ángulos",
+    "curso": "4° básico",
+    "folder": "04_cuarto_basico",
+    "path": "04_cuarto_basico/005_triangulos_por_angulos.md",
+    "categoria": "geometria_plana",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_4b_006_cuadrilateros_y_propiedades",
+    "titulo": "Cuadriláteros y propiedades",
+    "curso": "4° básico",
+    "folder": "04_cuarto_basico",
+    "path": "04_cuarto_basico/006_cuadrilateros_y_propiedades.md",
+    "categoria": "geometria_plana",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_4b_007_paralelogramos",
+    "titulo": "Paralelogramos",
+    "curso": "4° básico",
+    "folder": "04_cuarto_basico",
+    "path": "04_cuarto_basico/007_paralelogramos.md",
+    "categoria": "geometria_plana",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_4b_008_trapecios",
+    "titulo": "Trapecios",
+    "curso": "4° básico",
+    "folder": "04_cuarto_basico",
+    "path": "04_cuarto_basico/008_trapecios.md",
+    "categoria": "geometria_plana",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_4b_009_poligonos_regulares_e_irregulares",
+    "titulo": "Polígonos regulares e irregulares",
+    "curso": "4° básico",
+    "folder": "04_cuarto_basico",
+    "path": "04_cuarto_basico/009_poligonos_regulares_e_irregulares.md",
+    "categoria": "geometria_plana",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_4b_010_perimetro_de_poligonos",
+    "titulo": "Perímetro de polígonos",
+    "curso": "4° básico",
+    "folder": "04_cuarto_basico",
+    "path": "04_cuarto_basico/010_perimetro_de_poligonos.md",
+    "categoria": "medicion_geometrica",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_4b_011_area_con_cuadrados_unitarios",
+    "titulo": "Área con cuadrados unitarios",
+    "curso": "4° básico",
+    "folder": "04_cuarto_basico",
+    "path": "04_cuarto_basico/011_area_con_cuadrados_unitarios.md",
+    "categoria": "medicion_geometrica",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_4b_012_area_de_rectangulos",
+    "titulo": "Área de rectángulos",
+    "curso": "4° básico",
+    "folder": "04_cuarto_basico",
+    "path": "04_cuarto_basico/012_area_de_rectangulos.md",
+    "categoria": "medicion_geometrica",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_4b_013_area_de_figuras_compuestas_inicial",
+    "titulo": "Área de figuras compuestas inicial",
+    "curso": "4° básico",
+    "folder": "04_cuarto_basico",
+    "path": "04_cuarto_basico/013_area_de_figuras_compuestas_inicial.md",
+    "categoria": "medicion_geometrica",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_4b_014_plano_cartesiano_inicial",
+    "titulo": "Plano cartesiano inicial",
+    "curso": "4° básico",
+    "folder": "04_cuarto_basico",
+    "path": "04_cuarto_basico/014_plano_cartesiano_inicial.md",
+    "categoria": "geometria_analitica",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_4b_015_pares_ordenados",
+    "titulo": "Pares ordenados",
+    "curso": "4° básico",
+    "folder": "04_cuarto_basico",
+    "path": "04_cuarto_basico/015_pares_ordenados.md",
+    "categoria": "geometria_plana",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_4b_016_traslaciones_en_cuadricula",
+    "titulo": "Traslaciones en cuadrícula",
+    "curso": "4° básico",
+    "folder": "04_cuarto_basico",
+    "path": "04_cuarto_basico/016_traslaciones_en_cuadricula.md",
+    "categoria": "transformaciones",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_4b_017_reflexiones_en_cuadricula",
+    "titulo": "Reflexiones en cuadrícula",
+    "curso": "4° básico",
+    "folder": "04_cuarto_basico",
+    "path": "04_cuarto_basico/017_reflexiones_en_cuadricula.md",
+    "categoria": "transformaciones",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_4b_018_rotaciones_en_cuadricula",
+    "titulo": "Rotaciones en cuadrícula",
+    "curso": "4° básico",
+    "folder": "04_cuarto_basico",
+    "path": "04_cuarto_basico/018_rotaciones_en_cuadricula.md",
+    "categoria": "geometria_plana",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_4b_019_simetria",
+    "titulo": "Simetría",
+    "curso": "4° básico",
+    "folder": "04_cuarto_basico",
+    "path": "04_cuarto_basico/019_simetria.md",
+    "categoria": "transformaciones",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_4b_020_cuerpos_geometricos_y_redes",
+    "titulo": "Cuerpos geométricos y redes",
+    "curso": "4° básico",
+    "folder": "04_cuarto_basico",
+    "path": "04_cuarto_basico/020_cuerpos_geometricos_y_redes.md",
+    "categoria": "geometria_3d",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_4b_021_volumen_con_cubos_unitarios",
+    "titulo": "Volumen con cubos unitarios",
+    "curso": "4° básico",
+    "folder": "04_cuarto_basico",
+    "path": "04_cuarto_basico/021_volumen_con_cubos_unitarios.md",
+    "categoria": "medicion_geometrica",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_4b_022_escalas_simples",
+    "titulo": "Escalas simples",
+    "curso": "4° básico",
+    "folder": "04_cuarto_basico",
+    "path": "04_cuarto_basico/022_escalas_simples.md",
+    "categoria": "geometria_plana",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_4b_023_problemas_de_area_y_perimetro",
+    "titulo": "Problemas de área y perímetro",
+    "curso": "4° básico",
+    "folder": "04_cuarto_basico",
+    "path": "04_cuarto_basico/023_problemas_de_area_y_perimetro.md",
+    "categoria": "medicion_geometrica",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_4b_024_geometria_del_entorno",
+    "titulo": "Geometría del entorno",
+    "curso": "4° básico",
+    "folder": "04_cuarto_basico",
+    "path": "04_cuarto_basico/024_geometria_del_entorno.md",
+    "categoria": "geometria_plana",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_5b_001_puntos_rectas_y_planos",
+    "titulo": "Puntos rectas y planos",
+    "curso": "5° básico",
+    "folder": "05_quinto_basico",
+    "path": "05_quinto_basico/001_puntos_rectas_y_planos.md",
+    "categoria": "geometria_plana",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_5b_002_rectas_paralelas_perpendiculares_y_secantes",
+    "titulo": "Rectas paralelas perpendiculares y secantes",
+    "curso": "5° básico",
+    "folder": "05_quinto_basico",
+    "path": "05_quinto_basico/002_rectas_paralelas_perpendiculares_y_secantes.md",
+    "categoria": "geometria_plana",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_5b_003_medicion_de_angulos",
+    "titulo": "Medición de ángulos",
+    "curso": "5° básico",
+    "folder": "05_quinto_basico",
+    "path": "05_quinto_basico/003_medicion_de_angulos.md",
+    "categoria": "geometria_plana",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_5b_004_construccion_de_angulos",
+    "titulo": "Construcción de ángulos",
+    "curso": "5° básico",
+    "folder": "05_quinto_basico",
+    "path": "05_quinto_basico/004_construccion_de_angulos.md",
+    "categoria": "construcciones",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_5b_005_triangulos_y_clasificacion",
+    "titulo": "Triángulos y clasificación",
+    "curso": "5° básico",
+    "folder": "05_quinto_basico",
+    "path": "05_quinto_basico/005_triangulos_y_clasificacion.md",
+    "categoria": "geometria_plana",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_5b_006_suma_de_angulos_del_triangulo_inicial",
+    "titulo": "Suma de ángulos del triángulo inicial",
+    "curso": "5° básico",
+    "folder": "05_quinto_basico",
+    "path": "05_quinto_basico/006_suma_de_angulos_del_triangulo_inicial.md",
+    "categoria": "geometria_plana",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_5b_007_cuadrilateros",
+    "titulo": "Cuadriláteros",
+    "curso": "5° básico",
+    "folder": "05_quinto_basico",
+    "path": "05_quinto_basico/007_cuadrilateros.md",
+    "categoria": "geometria_plana",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_5b_008_poligonos",
+    "titulo": "Polígonos",
+    "curso": "5° básico",
+    "folder": "05_quinto_basico",
+    "path": "05_quinto_basico/008_poligonos.md",
+    "categoria": "geometria_plana",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_5b_009_congruencia",
+    "titulo": "Congruencia",
+    "curso": "5° básico",
+    "folder": "05_quinto_basico",
+    "path": "05_quinto_basico/009_congruencia.md",
+    "categoria": "relaciones_metricas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_5b_010_traslacion",
+    "titulo": "Traslación",
+    "curso": "5° básico",
+    "folder": "05_quinto_basico",
+    "path": "05_quinto_basico/010_traslacion.md",
+    "categoria": "transformaciones",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_5b_011_reflexion",
+    "titulo": "Reflexión",
+    "curso": "5° básico",
+    "folder": "05_quinto_basico",
+    "path": "05_quinto_basico/011_reflexion.md",
+    "categoria": "transformaciones",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_5b_012_rotacion",
+    "titulo": "Rotación",
+    "curso": "5° básico",
+    "folder": "05_quinto_basico",
+    "path": "05_quinto_basico/012_rotacion.md",
+    "categoria": "transformaciones",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_5b_013_congruencia_mediante_transformaciones",
+    "titulo": "Congruencia mediante transformaciones",
+    "curso": "5° básico",
+    "folder": "05_quinto_basico",
+    "path": "05_quinto_basico/013_congruencia_mediante_transformaciones.md",
+    "categoria": "relaciones_metricas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_5b_014_plano_cartesiano",
+    "titulo": "Plano cartesiano",
+    "curso": "5° básico",
+    "folder": "05_quinto_basico",
+    "path": "05_quinto_basico/014_plano_cartesiano.md",
+    "categoria": "geometria_analitica",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_5b_015_patrones_en_el_plano",
+    "titulo": "Patrones en el plano",
+    "curso": "5° básico",
+    "folder": "05_quinto_basico",
+    "path": "05_quinto_basico/015_patrones_en_el_plano.md",
+    "categoria": "geometria_plana",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_5b_016_perimetro",
+    "titulo": "Perímetro",
+    "curso": "5° básico",
+    "folder": "05_quinto_basico",
+    "path": "05_quinto_basico/016_perimetro.md",
+    "categoria": "medicion_geometrica",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_5b_017_area_de_rectangulos",
+    "titulo": "Área de rectángulos",
+    "curso": "5° básico",
+    "folder": "05_quinto_basico",
+    "path": "05_quinto_basico/017_area_de_rectangulos.md",
+    "categoria": "medicion_geometrica",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_5b_018_area_de_triangulos_inicial",
+    "titulo": "Área de triángulos inicial",
+    "curso": "5° básico",
+    "folder": "05_quinto_basico",
+    "path": "05_quinto_basico/018_area_de_triangulos_inicial.md",
+    "categoria": "medicion_geometrica",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_5b_019_area_de_paralelogramos_inicial",
+    "titulo": "Área de paralelogramos inicial",
+    "curso": "5° básico",
+    "folder": "05_quinto_basico",
+    "path": "05_quinto_basico/019_area_de_paralelogramos_inicial.md",
+    "categoria": "medicion_geometrica",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_5b_020_volumen_de_prismas_con_cubos",
+    "titulo": "Volumen de prismas con cubos",
+    "curso": "5° básico",
+    "folder": "05_quinto_basico",
+    "path": "05_quinto_basico/020_volumen_de_prismas_con_cubos.md",
+    "categoria": "geometria_3d",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_5b_021_redes_de_prismas",
+    "titulo": "Redes de prismas",
+    "curso": "5° básico",
+    "folder": "05_quinto_basico",
+    "path": "05_quinto_basico/021_redes_de_prismas.md",
+    "categoria": "geometria_3d",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_5b_022_escalas_y_mapas",
+    "titulo": "Escalas y mapas",
+    "curso": "5° básico",
+    "folder": "05_quinto_basico",
+    "path": "05_quinto_basico/022_escalas_y_mapas.md",
+    "categoria": "geometria_plana",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_5b_023_diseno_con_figuras",
+    "titulo": "Diseño con figuras",
+    "curso": "5° básico",
+    "folder": "05_quinto_basico",
+    "path": "05_quinto_basico/023_diseno_con_figuras.md",
+    "categoria": "geometria_plana",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_5b_024_problemas_geometricos_aplicados",
+    "titulo": "Problemas geométricos aplicados",
+    "curso": "5° básico",
+    "folder": "05_quinto_basico",
+    "path": "05_quinto_basico/024_problemas_geometricos_aplicados.md",
+    "categoria": "geometria_plana",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_6b_001_construccion_de_angulos_con_regla_y_compas",
+    "titulo": "Construcción de ángulos con regla y compás",
+    "curso": "6° básico",
+    "folder": "06_sexto_basico",
+    "path": "06_sexto_basico/001_construccion_de_angulos_con_regla_y_compas.md",
+    "categoria": "construcciones",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_6b_002_angulos_opuestos_por_el_vertice",
+    "titulo": "Ángulos opuestos por el vértice",
+    "curso": "6° básico",
+    "folder": "06_sexto_basico",
+    "path": "06_sexto_basico/002_angulos_opuestos_por_el_vertice.md",
+    "categoria": "geometria_plana",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_6b_003_angulos_complementarios",
+    "titulo": "Ángulos complementarios",
+    "curso": "6° básico",
+    "folder": "06_sexto_basico",
+    "path": "06_sexto_basico/003_angulos_complementarios.md",
+    "categoria": "geometria_plana",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_6b_004_angulos_suplementarios",
+    "titulo": "Ángulos suplementarios",
+    "curso": "6° básico",
+    "folder": "06_sexto_basico",
+    "path": "06_sexto_basico/004_angulos_suplementarios.md",
+    "categoria": "geometria_plana",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_6b_005_paralelas_cortadas_por_transversal",
+    "titulo": "Paralelas cortadas por transversal",
+    "curso": "6° básico",
+    "folder": "06_sexto_basico",
+    "path": "06_sexto_basico/005_paralelas_cortadas_por_transversal.md",
+    "categoria": "geometria_plana",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_6b_006_angulos_interiores_de_triangulos",
+    "titulo": "Ángulos interiores de triángulos",
+    "curso": "6° básico",
+    "folder": "06_sexto_basico",
+    "path": "06_sexto_basico/006_angulos_interiores_de_triangulos.md",
+    "categoria": "geometria_plana",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_6b_007_angulos_interiores_de_cuadrilateros",
+    "titulo": "Ángulos interiores de cuadriláteros",
+    "curso": "6° básico",
+    "folder": "06_sexto_basico",
+    "path": "06_sexto_basico/007_angulos_interiores_de_cuadrilateros.md",
+    "categoria": "geometria_plana",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_6b_008_triangulos_y_construcciones",
+    "titulo": "Triángulos y construcciones",
+    "curso": "6° básico",
+    "folder": "06_sexto_basico",
+    "path": "06_sexto_basico/008_triangulos_y_construcciones.md",
+    "categoria": "geometria_plana",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_6b_009_bisectriz",
+    "titulo": "Bisectriz",
+    "curso": "6° básico",
+    "folder": "06_sexto_basico",
+    "path": "06_sexto_basico/009_bisectriz.md",
+    "categoria": "construcciones",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_6b_010_mediatriz",
+    "titulo": "Mediatriz",
+    "curso": "6° básico",
+    "folder": "06_sexto_basico",
+    "path": "06_sexto_basico/010_mediatriz.md",
+    "categoria": "construcciones",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_6b_011_alturas_de_triangulos",
+    "titulo": "Alturas de triángulos",
+    "curso": "6° básico",
+    "folder": "06_sexto_basico",
+    "path": "06_sexto_basico/011_alturas_de_triangulos.md",
+    "categoria": "construcciones",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_6b_012_teselados",
+    "titulo": "Teselados",
+    "curso": "6° básico",
+    "folder": "06_sexto_basico",
+    "path": "06_sexto_basico/012_teselados.md",
+    "categoria": "transformaciones",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_6b_013_traslacion_reflexion_y_rotacion",
+    "titulo": "Traslación reflexión y rotación",
+    "curso": "6° básico",
+    "folder": "06_sexto_basico",
+    "path": "06_sexto_basico/013_traslacion_reflexion_y_rotacion.md",
+    "categoria": "transformaciones",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_6b_014_congruencia",
+    "titulo": "Congruencia",
+    "curso": "6° básico",
+    "folder": "06_sexto_basico",
+    "path": "06_sexto_basico/014_congruencia.md",
+    "categoria": "relaciones_metricas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_6b_015_plano_cartesiano",
+    "titulo": "Plano cartesiano",
+    "curso": "6° básico",
+    "folder": "06_sexto_basico",
+    "path": "06_sexto_basico/015_plano_cartesiano.md",
+    "categoria": "geometria_analitica",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_6b_016_area_de_triangulos",
+    "titulo": "Área de triángulos",
+    "curso": "6° básico",
+    "folder": "06_sexto_basico",
+    "path": "06_sexto_basico/016_area_de_triangulos.md",
+    "categoria": "medicion_geometrica",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_6b_017_area_de_paralelogramos",
+    "titulo": "Área de paralelogramos",
+    "curso": "6° básico",
+    "folder": "06_sexto_basico",
+    "path": "06_sexto_basico/017_area_de_paralelogramos.md",
+    "categoria": "medicion_geometrica",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_6b_018_area_de_trapecios_inicial",
+    "titulo": "Área de trapecios inicial",
+    "curso": "6° básico",
+    "folder": "06_sexto_basico",
+    "path": "06_sexto_basico/018_area_de_trapecios_inicial.md",
+    "categoria": "medicion_geometrica",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_6b_019_area_de_superficie_de_cubos",
+    "titulo": "Área de superficie de cubos",
+    "curso": "6° básico",
+    "folder": "06_sexto_basico",
+    "path": "06_sexto_basico/019_area_de_superficie_de_cubos.md",
+    "categoria": "medicion_geometrica",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_6b_020_area_de_superficie_de_paralelepipedos",
+    "titulo": "Área de superficie de paralelepípedos",
+    "curso": "6° básico",
+    "folder": "06_sexto_basico",
+    "path": "06_sexto_basico/020_area_de_superficie_de_paralelepipedos.md",
+    "categoria": "medicion_geometrica",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_6b_021_volumen_de_cubos",
+    "titulo": "Volumen de cubos",
+    "curso": "6° básico",
+    "folder": "06_sexto_basico",
+    "path": "06_sexto_basico/021_volumen_de_cubos.md",
+    "categoria": "medicion_geometrica",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_6b_022_volumen_de_paralelepipedos",
+    "titulo": "Volumen de paralelepípedos",
+    "curso": "6° básico",
+    "folder": "06_sexto_basico",
+    "path": "06_sexto_basico/022_volumen_de_paralelepipedos.md",
+    "categoria": "medicion_geometrica",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_6b_023_redes_y_desarrollos_planos",
+    "titulo": "Redes y desarrollos planos",
+    "curso": "6° básico",
+    "folder": "06_sexto_basico",
+    "path": "06_sexto_basico/023_redes_y_desarrollos_planos.md",
+    "categoria": "geometria_plana",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_6b_024_escalas",
+    "titulo": "Escalas",
+    "curso": "6° básico",
+    "folder": "06_sexto_basico",
+    "path": "06_sexto_basico/024_escalas.md",
+    "categoria": "geometria_plana",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_6b_025_problemas_de_superficie_y_volumen",
+    "titulo": "Problemas de superficie y volumen",
+    "curso": "6° básico",
+    "folder": "06_sexto_basico",
+    "path": "06_sexto_basico/025_problemas_de_superficie_y_volumen.md",
+    "categoria": "medicion_geometrica",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_6b_026_uso_de_software_geometrico",
+    "titulo": "Uso de software geométrico",
+    "curso": "6° básico",
+    "folder": "06_sexto_basico",
+    "path": "06_sexto_basico/026_uso_de_software_geometrico.md",
+    "categoria": "geometria_plana",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_7b_001_rectas_paralelas_y_perpendiculares",
+    "titulo": "Rectas paralelas y perpendiculares",
+    "curso": "7° básico",
+    "folder": "07_septimo_basico",
+    "path": "07_septimo_basico/001_rectas_paralelas_y_perpendiculares.md",
+    "categoria": "geometria_plana",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_7b_002_bisectrices",
+    "titulo": "Bisectrices",
+    "curso": "7° básico",
+    "folder": "07_septimo_basico",
+    "path": "07_septimo_basico/002_bisectrices.md",
+    "categoria": "geometria_plana",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_7b_003_mediatrices",
+    "titulo": "Mediatrices",
+    "curso": "7° básico",
+    "folder": "07_septimo_basico",
+    "path": "07_septimo_basico/003_mediatrices.md",
+    "categoria": "geometria_plana",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_7b_004_alturas_de_triangulos",
+    "titulo": "Alturas de triángulos",
+    "curso": "7° básico",
+    "folder": "07_septimo_basico",
+    "path": "07_septimo_basico/004_alturas_de_triangulos.md",
+    "categoria": "construcciones",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_7b_005_medianas",
+    "titulo": "Medianas",
+    "curso": "7° básico",
+    "folder": "07_septimo_basico",
+    "path": "07_septimo_basico/005_medianas.md",
+    "categoria": "construcciones",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_7b_006_centro_de_gravedad",
+    "titulo": "Centro de gravedad",
+    "curso": "7° básico",
+    "folder": "07_septimo_basico",
+    "path": "07_septimo_basico/006_centro_de_gravedad.md",
+    "categoria": "geometria_plana",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_7b_007_incentro",
+    "titulo": "Incentro",
+    "curso": "7° básico",
+    "folder": "07_septimo_basico",
+    "path": "07_septimo_basico/007_incentro.md",
+    "categoria": "construcciones",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_7b_008_circuncentro",
+    "titulo": "Circuncentro",
+    "curso": "7° básico",
+    "folder": "07_septimo_basico",
+    "path": "07_septimo_basico/008_circuncentro.md",
+    "categoria": "construcciones",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_7b_009_construccion_de_triangulos",
+    "titulo": "Construcción de triángulos",
+    "curso": "7° básico",
+    "folder": "07_septimo_basico",
+    "path": "07_septimo_basico/009_construccion_de_triangulos.md",
+    "categoria": "construcciones",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_7b_010_congruencia_de_triangulos",
+    "titulo": "Congruencia de triángulos",
+    "curso": "7° básico",
+    "folder": "07_septimo_basico",
+    "path": "07_septimo_basico/010_congruencia_de_triangulos.md",
+    "categoria": "relaciones_metricas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_7b_011_criterios_de_congruencia_iniciales",
+    "titulo": "Criterios de congruencia iniciales",
+    "curso": "7° básico",
+    "folder": "07_septimo_basico",
+    "path": "07_septimo_basico/011_criterios_de_congruencia_iniciales.md",
+    "categoria": "relaciones_metricas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_7b_012_cuadrilateros_congruentes",
+    "titulo": "Cuadriláteros congruentes",
+    "curso": "7° básico",
+    "folder": "07_septimo_basico",
+    "path": "07_septimo_basico/012_cuadrilateros_congruentes.md",
+    "categoria": "relaciones_metricas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_7b_013_circulo_y_circunferencia",
+    "titulo": "Círculo y circunferencia",
+    "curso": "7° básico",
+    "folder": "07_septimo_basico",
+    "path": "07_septimo_basico/013_circulo_y_circunferencia.md",
+    "categoria": "geometria_plana",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_7b_014_radio_diametro_y_cuerda",
+    "titulo": "Radio diámetro y cuerda",
+    "curso": "7° básico",
+    "folder": "07_septimo_basico",
+    "path": "07_septimo_basico/014_radio_diametro_y_cuerda.md",
+    "categoria": "geometria_plana",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_7b_015_perimetro_de_la_circunferencia",
+    "titulo": "Perímetro de la circunferencia",
+    "curso": "7° básico",
+    "folder": "07_septimo_basico",
+    "path": "07_septimo_basico/015_perimetro_de_la_circunferencia.md",
+    "categoria": "medicion_geometrica",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_7b_016_area_del_circulo",
+    "titulo": "Área del círculo",
+    "curso": "7° básico",
+    "folder": "07_septimo_basico",
+    "path": "07_septimo_basico/016_area_del_circulo.md",
+    "categoria": "medicion_geometrica",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_7b_017_circulo_como_lugar_geometrico",
+    "titulo": "Círculo como lugar geométrico",
+    "curso": "7° básico",
+    "folder": "07_septimo_basico",
+    "path": "07_septimo_basico/017_circulo_como_lugar_geometrico.md",
+    "categoria": "geometria_plana",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_7b_018_area_de_triangulos",
+    "titulo": "Área de triángulos",
+    "curso": "7° básico",
+    "folder": "07_septimo_basico",
+    "path": "07_septimo_basico/018_area_de_triangulos.md",
+    "categoria": "medicion_geometrica",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_7b_019_area_de_paralelogramos",
+    "titulo": "Área de paralelogramos",
+    "curso": "7° básico",
+    "folder": "07_septimo_basico",
+    "path": "07_septimo_basico/019_area_de_paralelogramos.md",
+    "categoria": "medicion_geometrica",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_7b_020_area_de_trapecios",
+    "titulo": "Área de trapecios",
+    "curso": "7° básico",
+    "folder": "07_septimo_basico",
+    "path": "07_septimo_basico/020_area_de_trapecios.md",
+    "categoria": "medicion_geometrica",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_7b_021_puntos_y_vectores_iniciales",
+    "titulo": "Puntos y vectores iniciales",
+    "curso": "7° básico",
+    "folder": "07_septimo_basico",
+    "path": "07_septimo_basico/021_puntos_y_vectores_iniciales.md",
+    "categoria": "geometria_analitica",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_7b_022_plano_cartesiano",
+    "titulo": "Plano cartesiano",
+    "curso": "7° básico",
+    "folder": "07_septimo_basico",
+    "path": "07_septimo_basico/022_plano_cartesiano.md",
+    "categoria": "geometria_analitica",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_7b_023_traslaciones_con_vectores",
+    "titulo": "Traslaciones con vectores",
+    "curso": "7° básico",
+    "folder": "07_septimo_basico",
+    "path": "07_septimo_basico/023_traslaciones_con_vectores.md",
+    "categoria": "transformaciones",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_7b_024_problemas_de_construccion",
+    "titulo": "Problemas de construcción",
+    "curso": "7° básico",
+    "folder": "07_septimo_basico",
+    "path": "07_septimo_basico/024_problemas_de_construccion.md",
+    "categoria": "construcciones",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_7b_025_geometria_en_arte_y_diseno",
+    "titulo": "Geometría en arte y diseño",
+    "curso": "7° básico",
+    "folder": "07_septimo_basico",
+    "path": "07_septimo_basico/025_geometria_en_arte_y_diseno.md",
+    "categoria": "geometria_plana",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_7b_026_argumentacion_geometrica_inicial",
+    "titulo": "Argumentación geométrica inicial",
+    "curso": "7° básico",
+    "folder": "07_septimo_basico",
+    "path": "07_septimo_basico/026_argumentacion_geometrica_inicial.md",
+    "categoria": "geometria_plana",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_8b_001_teorema_de_pitagoras",
+    "titulo": "Teorema de Pitágoras",
+    "curso": "8° básico",
+    "folder": "08_octavo_basico",
+    "path": "08_octavo_basico/001_teorema_de_pitagoras.md",
+    "categoria": "relaciones_metricas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_8b_002_demostracion_pictorica_de_pitagoras",
+    "titulo": "Demostración pictórica de Pitágoras",
+    "curso": "8° básico",
+    "folder": "08_octavo_basico",
+    "path": "08_octavo_basico/002_demostracion_pictorica_de_pitagoras.md",
+    "categoria": "relaciones_metricas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_8b_003_aplicaciones_de_pitagoras",
+    "titulo": "Aplicaciones de Pitágoras",
+    "curso": "8° básico",
+    "folder": "08_octavo_basico",
+    "path": "08_octavo_basico/003_aplicaciones_de_pitagoras.md",
+    "categoria": "relaciones_metricas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_8b_004_distancia_en_el_plano_inicial",
+    "titulo": "Distancia en el plano inicial",
+    "curso": "8° básico",
+    "folder": "08_octavo_basico",
+    "path": "08_octavo_basico/004_distancia_en_el_plano_inicial.md",
+    "categoria": "geometria_plana",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_8b_005_prismas_rectos",
+    "titulo": "Prismas rectos",
+    "curso": "8° básico",
+    "folder": "08_octavo_basico",
+    "path": "08_octavo_basico/005_prismas_rectos.md",
+    "categoria": "geometria_3d",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_8b_006_area_de_prismas",
+    "titulo": "Área de prismas",
+    "curso": "8° básico",
+    "folder": "08_octavo_basico",
+    "path": "08_octavo_basico/006_area_de_prismas.md",
+    "categoria": "geometria_3d",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_8b_007_volumen_de_prismas",
+    "titulo": "Volumen de prismas",
+    "curso": "8° básico",
+    "folder": "08_octavo_basico",
+    "path": "08_octavo_basico/007_volumen_de_prismas.md",
+    "categoria": "geometria_3d",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_8b_008_cilindros",
+    "titulo": "Cilindros",
+    "curso": "8° básico",
+    "folder": "08_octavo_basico",
+    "path": "08_octavo_basico/008_cilindros.md",
+    "categoria": "geometria_3d",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_8b_009_area_de_cilindros",
+    "titulo": "Área de cilindros",
+    "curso": "8° básico",
+    "folder": "08_octavo_basico",
+    "path": "08_octavo_basico/009_area_de_cilindros.md",
+    "categoria": "geometria_3d",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_8b_010_volumen_de_cilindros",
+    "titulo": "Volumen de cilindros",
+    "curso": "8° básico",
+    "folder": "08_octavo_basico",
+    "path": "08_octavo_basico/010_volumen_de_cilindros.md",
+    "categoria": "geometria_3d",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_8b_011_posicion_en_el_plano_cartesiano",
+    "titulo": "Posición en el plano cartesiano",
+    "curso": "8° básico",
+    "folder": "08_octavo_basico",
+    "path": "08_octavo_basico/011_posicion_en_el_plano_cartesiano.md",
+    "categoria": "geometria_analitica",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_8b_012_vectores_de_traslacion",
+    "titulo": "Vectores de traslación",
+    "curso": "8° básico",
+    "folder": "08_octavo_basico",
+    "path": "08_octavo_basico/012_vectores_de_traslacion.md",
+    "categoria": "transformaciones",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_8b_013_reflexion_respecto_de_ejes",
+    "titulo": "Reflexión respecto de ejes",
+    "curso": "8° básico",
+    "folder": "08_octavo_basico",
+    "path": "08_octavo_basico/013_reflexion_respecto_de_ejes.md",
+    "categoria": "transformaciones",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_8b_014_rotacion_respecto_de_un_punto",
+    "titulo": "Rotación respecto de un punto",
+    "curso": "8° básico",
+    "folder": "08_octavo_basico",
+    "path": "08_octavo_basico/014_rotacion_respecto_de_un_punto.md",
+    "categoria": "transformaciones",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_8b_015_composicion_de_transformaciones",
+    "titulo": "Composición de transformaciones",
+    "curso": "8° básico",
+    "folder": "08_octavo_basico",
+    "path": "08_octavo_basico/015_composicion_de_transformaciones.md",
+    "categoria": "geometria_plana",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_8b_016_simetrias_de_poligonos",
+    "titulo": "Simetrías de polígonos",
+    "curso": "8° básico",
+    "folder": "08_octavo_basico",
+    "path": "08_octavo_basico/016_simetrias_de_poligonos.md",
+    "categoria": "transformaciones",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_8b_017_simetrias_de_poliedros",
+    "titulo": "Simetrías de poliedros",
+    "curso": "8° básico",
+    "folder": "08_octavo_basico",
+    "path": "08_octavo_basico/017_simetrias_de_poliedros.md",
+    "categoria": "geometria_3d",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_8b_018_homotecia_inicial",
+    "titulo": "Homotecia inicial",
+    "curso": "8° básico",
+    "folder": "08_octavo_basico",
+    "path": "08_octavo_basico/018_homotecia_inicial.md",
+    "categoria": "transformaciones",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_8b_019_semejanza_inicial",
+    "titulo": "Semejanza inicial",
+    "curso": "8° básico",
+    "folder": "08_octavo_basico",
+    "path": "08_octavo_basico/019_semejanza_inicial.md",
+    "categoria": "relaciones_metricas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_8b_020_razon_de_semejanza",
+    "titulo": "Razón de semejanza",
+    "curso": "8° básico",
+    "folder": "08_octavo_basico",
+    "path": "08_octavo_basico/020_razon_de_semejanza.md",
+    "categoria": "relaciones_metricas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_8b_021_escalas_y_maquetas",
+    "titulo": "Escalas y maquetas",
+    "curso": "8° básico",
+    "folder": "08_octavo_basico",
+    "path": "08_octavo_basico/021_escalas_y_maquetas.md",
+    "categoria": "geometria_plana",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_8b_022_coordenadas_y_movimientos",
+    "titulo": "Coordenadas y movimientos",
+    "curso": "8° básico",
+    "folder": "08_octavo_basico",
+    "path": "08_octavo_basico/022_coordenadas_y_movimientos.md",
+    "categoria": "geometria_analitica",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_8b_023_construcciones_con_software",
+    "titulo": "Construcciones con software",
+    "curso": "8° básico",
+    "folder": "08_octavo_basico",
+    "path": "08_octavo_basico/023_construcciones_con_software.md",
+    "categoria": "geometria_plana",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_8b_024_geometria_aplicada_al_arte",
+    "titulo": "Geometría aplicada al arte",
+    "curso": "8° básico",
+    "folder": "08_octavo_basico",
+    "path": "08_octavo_basico/024_geometria_aplicada_al_arte.md",
+    "categoria": "geometria_plana",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_8b_025_problemas_espaciales",
+    "titulo": "Problemas espaciales",
+    "curso": "8° básico",
+    "folder": "08_octavo_basico",
+    "path": "08_octavo_basico/025_problemas_espaciales.md",
+    "categoria": "geometria_plana",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_8b_026_validacion_de_resultados_geometricos",
+    "titulo": "Validación de resultados geométricos",
+    "curso": "8° básico",
+    "folder": "08_octavo_basico",
+    "path": "08_octavo_basico/026_validacion_de_resultados_geometricos.md",
+    "categoria": "geometria_plana",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_1m_001_semejanza_de_figuras",
+    "titulo": "Semejanza de figuras",
+    "curso": "1° medio",
+    "folder": "09_primero_medio",
+    "path": "09_primero_medio/001_semejanza_de_figuras.md",
+    "categoria": "relaciones_metricas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_1m_002_criterios_de_semejanza_de_triangulos",
+    "titulo": "Criterios de semejanza de triángulos",
+    "curso": "1° medio",
+    "folder": "09_primero_medio",
+    "path": "09_primero_medio/002_criterios_de_semejanza_de_triangulos.md",
+    "categoria": "relaciones_metricas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_1m_003_teorema_de_tales",
+    "titulo": "Teorema de Tales",
+    "curso": "1° medio",
+    "folder": "09_primero_medio",
+    "path": "09_primero_medio/003_teorema_de_tales.md",
+    "categoria": "relaciones_metricas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_1m_004_division_proporcional_de_segmentos",
+    "titulo": "División proporcional de segmentos",
+    "curso": "1° medio",
+    "folder": "09_primero_medio",
+    "path": "09_primero_medio/004_division_proporcional_de_segmentos.md",
+    "categoria": "geometria_plana",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_1m_005_homotecia",
+    "titulo": "Homotecia",
+    "curso": "1° medio",
+    "folder": "09_primero_medio",
+    "path": "09_primero_medio/005_homotecia.md",
+    "categoria": "transformaciones",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_1m_006_razon_de_homotecia",
+    "titulo": "Razón de homotecia",
+    "curso": "1° medio",
+    "folder": "09_primero_medio",
+    "path": "09_primero_medio/006_razon_de_homotecia.md",
+    "categoria": "transformaciones",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_1m_007_aplicaciones_de_escala",
+    "titulo": "Aplicaciones de escala",
+    "curso": "1° medio",
+    "folder": "09_primero_medio",
+    "path": "09_primero_medio/007_aplicaciones_de_escala.md",
+    "categoria": "geometria_plana",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_1m_008_teorema_de_pitagoras_avanzado",
+    "titulo": "Teorema de Pitágoras avanzado",
+    "curso": "1° medio",
+    "folder": "09_primero_medio",
+    "path": "09_primero_medio/008_teorema_de_pitagoras_avanzado.md",
+    "categoria": "relaciones_metricas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_1m_009_distancia_entre_puntos",
+    "titulo": "Distancia entre puntos",
+    "curso": "1° medio",
+    "folder": "09_primero_medio",
+    "path": "09_primero_medio/009_distancia_entre_puntos.md",
+    "categoria": "geometria_plana",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_1m_010_punto_medio",
+    "titulo": "Punto medio",
+    "curso": "1° medio",
+    "folder": "09_primero_medio",
+    "path": "09_primero_medio/010_punto_medio.md",
+    "categoria": "geometria_plana",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_1m_011_pendiente_geometrica_inicial",
+    "titulo": "Pendiente geométrica inicial",
+    "curso": "1° medio",
+    "folder": "09_primero_medio",
+    "path": "09_primero_medio/011_pendiente_geometrica_inicial.md",
+    "categoria": "geometria_analitica",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_1m_012_vectores_en_el_plano",
+    "titulo": "Vectores en el plano",
+    "curso": "1° medio",
+    "folder": "09_primero_medio",
+    "path": "09_primero_medio/012_vectores_en_el_plano.md",
+    "categoria": "geometria_analitica",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_1m_013_suma_de_vectores",
+    "titulo": "Suma de vectores",
+    "curso": "1° medio",
+    "folder": "09_primero_medio",
+    "path": "09_primero_medio/013_suma_de_vectores.md",
+    "categoria": "geometria_analitica",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_1m_014_transformaciones_isometricas",
+    "titulo": "Transformaciones isométricas",
+    "curso": "1° medio",
+    "folder": "09_primero_medio",
+    "path": "09_primero_medio/014_transformaciones_isometricas.md",
+    "categoria": "geometria_plana",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_1m_015_composicion_de_transformaciones",
+    "titulo": "Composición de transformaciones",
+    "curso": "1° medio",
+    "folder": "09_primero_medio",
+    "path": "09_primero_medio/015_composicion_de_transformaciones.md",
+    "categoria": "geometria_plana",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_1m_016_congruencia_y_semejanza",
+    "titulo": "Congruencia y semejanza",
+    "curso": "1° medio",
+    "folder": "09_primero_medio",
+    "path": "09_primero_medio/016_congruencia_y_semejanza.md",
+    "categoria": "relaciones_metricas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_1m_017_perimetro_y_area_de_figuras_semejantes",
+    "titulo": "Perímetro y área de figuras semejantes",
+    "curso": "1° medio",
+    "folder": "09_primero_medio",
+    "path": "09_primero_medio/017_perimetro_y_area_de_figuras_semejantes.md",
+    "categoria": "medicion_geometrica",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_1m_018_volumen_de_cuerpos_semejantes",
+    "titulo": "Volumen de cuerpos semejantes",
+    "curso": "1° medio",
+    "folder": "09_primero_medio",
+    "path": "09_primero_medio/018_volumen_de_cuerpos_semejantes.md",
+    "categoria": "geometria_3d",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_1m_019_trigonometria_inicial",
+    "titulo": "Trigonometría inicial",
+    "curso": "1° medio",
+    "folder": "09_primero_medio",
+    "path": "09_primero_medio/019_trigonometria_inicial.md",
+    "categoria": "relaciones_metricas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_1m_020_seno_coseno_y_tangente",
+    "titulo": "Seno coseno y tangente",
+    "curso": "1° medio",
+    "folder": "09_primero_medio",
+    "path": "09_primero_medio/020_seno_coseno_y_tangente.md",
+    "categoria": "geometria_plana",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_1m_021_resolucion_de_triangulos_rectangulos",
+    "titulo": "Resolución de triángulos rectángulos",
+    "curso": "1° medio",
+    "folder": "09_primero_medio",
+    "path": "09_primero_medio/021_resolucion_de_triangulos_rectangulos.md",
+    "categoria": "geometria_plana",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_1m_022_angulos_de_elevacion_y_depresion",
+    "titulo": "Ángulos de elevación y depresión",
+    "curso": "1° medio",
+    "folder": "09_primero_medio",
+    "path": "09_primero_medio/022_angulos_de_elevacion_y_depresion.md",
+    "categoria": "geometria_plana",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_1m_023_circunferencia_en_el_plano",
+    "titulo": "Circunferencia en el plano",
+    "curso": "1° medio",
+    "folder": "09_primero_medio",
+    "path": "09_primero_medio/023_circunferencia_en_el_plano.md",
+    "categoria": "geometria_plana",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_1m_024_ecuacion_inicial_de_la_circunferencia",
+    "titulo": "Ecuación inicial de la circunferencia",
+    "curso": "1° medio",
+    "folder": "09_primero_medio",
+    "path": "09_primero_medio/024_ecuacion_inicial_de_la_circunferencia.md",
+    "categoria": "geometria_analitica",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_1m_025_geometria_de_coordenadas",
+    "titulo": "Geometría de coordenadas",
+    "curso": "1° medio",
+    "folder": "09_primero_medio",
+    "path": "09_primero_medio/025_geometria_de_coordenadas.md",
+    "categoria": "geometria_analitica",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_1m_026_problemas_de_medicion_indirecta",
+    "titulo": "Problemas de medición indirecta",
+    "curso": "1° medio",
+    "folder": "09_primero_medio",
+    "path": "09_primero_medio/026_problemas_de_medicion_indirecta.md",
+    "categoria": "geometria_plana",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_1m_027_diseno_y_arquitectura",
+    "titulo": "Diseño y arquitectura",
+    "curso": "1° medio",
+    "folder": "09_primero_medio",
+    "path": "09_primero_medio/027_diseno_y_arquitectura.md",
+    "categoria": "geometria_plana",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_1m_028_uso_de_tecnologia_geometrica",
+    "titulo": "Uso de tecnología geométrica",
+    "curso": "1° medio",
+    "folder": "09_primero_medio",
+    "path": "09_primero_medio/028_uso_de_tecnologia_geometrica.md",
+    "categoria": "geometria_plana",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_2m_001_geometria_analitica",
+    "titulo": "Geometría analítica",
+    "curso": "2° medio",
+    "folder": "10_segundo_medio",
+    "path": "10_segundo_medio/001_geometria_analitica.md",
+    "categoria": "geometria_plana",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_2m_002_distancia_entre_puntos",
+    "titulo": "Distancia entre puntos",
+    "curso": "2° medio",
+    "folder": "10_segundo_medio",
+    "path": "10_segundo_medio/002_distancia_entre_puntos.md",
+    "categoria": "geometria_plana",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_2m_003_punto_medio",
+    "titulo": "Punto medio",
+    "curso": "2° medio",
+    "folder": "10_segundo_medio",
+    "path": "10_segundo_medio/003_punto_medio.md",
+    "categoria": "geometria_plana",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_2m_004_pendiente",
+    "titulo": "Pendiente",
+    "curso": "2° medio",
+    "folder": "10_segundo_medio",
+    "path": "10_segundo_medio/004_pendiente.md",
+    "categoria": "geometria_analitica",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_2m_005_ecuacion_de_la_recta",
+    "titulo": "Ecuación de la recta",
+    "curso": "2° medio",
+    "folder": "10_segundo_medio",
+    "path": "10_segundo_medio/005_ecuacion_de_la_recta.md",
+    "categoria": "geometria_analitica",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_2m_006_rectas_paralelas_y_perpendiculares",
+    "titulo": "Rectas paralelas y perpendiculares",
+    "curso": "2° medio",
+    "folder": "10_segundo_medio",
+    "path": "10_segundo_medio/006_rectas_paralelas_y_perpendiculares.md",
+    "categoria": "geometria_plana",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_2m_007_interseccion_de_rectas",
+    "titulo": "Intersección de rectas",
+    "curso": "2° medio",
+    "folder": "10_segundo_medio",
+    "path": "10_segundo_medio/007_interseccion_de_rectas.md",
+    "categoria": "geometria_plana",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_2m_008_vectores",
+    "titulo": "Vectores",
+    "curso": "2° medio",
+    "folder": "10_segundo_medio",
+    "path": "10_segundo_medio/008_vectores.md",
+    "categoria": "geometria_analitica",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_2m_009_modulo_y_direccion",
+    "titulo": "Módulo y dirección",
+    "curso": "2° medio",
+    "folder": "10_segundo_medio",
+    "path": "10_segundo_medio/009_modulo_y_direccion.md",
+    "categoria": "geometria_plana",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_2m_010_operaciones_con_vectores",
+    "titulo": "Operaciones con vectores",
+    "curso": "2° medio",
+    "folder": "10_segundo_medio",
+    "path": "10_segundo_medio/010_operaciones_con_vectores.md",
+    "categoria": "geometria_analitica",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_2m_011_razones_trigonometricas",
+    "titulo": "Razones trigonométricas",
+    "curso": "2° medio",
+    "folder": "10_segundo_medio",
+    "path": "10_segundo_medio/011_razones_trigonometricas.md",
+    "categoria": "geometria_plana",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_2m_012_resolucion_de_triangulos",
+    "titulo": "Resolución de triángulos",
+    "curso": "2° medio",
+    "folder": "10_segundo_medio",
+    "path": "10_segundo_medio/012_resolucion_de_triangulos.md",
+    "categoria": "geometria_plana",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_2m_013_ley_de_senos_inicial",
+    "titulo": "Ley de senos inicial",
+    "curso": "2° medio",
+    "folder": "10_segundo_medio",
+    "path": "10_segundo_medio/013_ley_de_senos_inicial.md",
+    "categoria": "geometria_plana",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_2m_014_ley_de_cosenos_inicial",
+    "titulo": "Ley de cosenos inicial",
+    "curso": "2° medio",
+    "folder": "10_segundo_medio",
+    "path": "10_segundo_medio/014_ley_de_cosenos_inicial.md",
+    "categoria": "geometria_plana",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_2m_015_circunferencia",
+    "titulo": "Circunferencia",
+    "curso": "2° medio",
+    "folder": "10_segundo_medio",
+    "path": "10_segundo_medio/015_circunferencia.md",
+    "categoria": "geometria_plana",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_2m_016_arcos_y_sectores",
+    "titulo": "Arcos y sectores",
+    "curso": "2° medio",
+    "folder": "10_segundo_medio",
+    "path": "10_segundo_medio/016_arcos_y_sectores.md",
+    "categoria": "geometria_plana",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_2m_017_angulos_centrales_e_inscritos_iniciales",
+    "titulo": "Ángulos centrales e inscritos iniciales",
+    "curso": "2° medio",
+    "folder": "10_segundo_medio",
+    "path": "10_segundo_medio/017_angulos_centrales_e_inscritos_iniciales.md",
+    "categoria": "geometria_plana",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_2m_018_longitud_de_arco",
+    "titulo": "Longitud de arco",
+    "curso": "2° medio",
+    "folder": "10_segundo_medio",
+    "path": "10_segundo_medio/018_longitud_de_arco.md",
+    "categoria": "medicion_geometrica",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_2m_019_area_de_sector",
+    "titulo": "Área de sector",
+    "curso": "2° medio",
+    "folder": "10_segundo_medio",
+    "path": "10_segundo_medio/019_area_de_sector.md",
+    "categoria": "medicion_geometrica",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_2m_020_transformaciones_en_el_plano",
+    "titulo": "Transformaciones en el plano",
+    "curso": "2° medio",
+    "folder": "10_segundo_medio",
+    "path": "10_segundo_medio/020_transformaciones_en_el_plano.md",
+    "categoria": "geometria_plana",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_2m_021_matrices_de_transformacion_iniciales",
+    "titulo": "Matrices de transformación iniciales",
+    "curso": "2° medio",
+    "folder": "10_segundo_medio",
+    "path": "10_segundo_medio/021_matrices_de_transformacion_iniciales.md",
+    "categoria": "geometria_plana",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_2m_022_semejanza_y_homotecia",
+    "titulo": "Semejanza y homotecia",
+    "curso": "2° medio",
+    "folder": "10_segundo_medio",
+    "path": "10_segundo_medio/022_semejanza_y_homotecia.md",
+    "categoria": "transformaciones",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_2m_023_cuerpos_de_revolucion_iniciales",
+    "titulo": "Cuerpos de revolución iniciales",
+    "curso": "2° medio",
+    "folder": "10_segundo_medio",
+    "path": "10_segundo_medio/023_cuerpos_de_revolucion_iniciales.md",
+    "categoria": "geometria_3d",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_2m_024_area_y_volumen",
+    "titulo": "Área y volumen",
+    "curso": "2° medio",
+    "folder": "10_segundo_medio",
+    "path": "10_segundo_medio/024_area_y_volumen.md",
+    "categoria": "medicion_geometrica",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_2m_025_geometria_de_mapas",
+    "titulo": "Geometría de mapas",
+    "curso": "2° medio",
+    "folder": "10_segundo_medio",
+    "path": "10_segundo_medio/025_geometria_de_mapas.md",
+    "categoria": "geometria_plana",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_2m_026_problemas_de_navegacion",
+    "titulo": "Problemas de navegación",
+    "curso": "2° medio",
+    "folder": "10_segundo_medio",
+    "path": "10_segundo_medio/026_problemas_de_navegacion.md",
+    "categoria": "geometria_plana",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_2m_027_modelacion_geometrica",
+    "titulo": "Modelación geométrica",
+    "curso": "2° medio",
+    "folder": "10_segundo_medio",
+    "path": "10_segundo_medio/027_modelacion_geometrica.md",
+    "categoria": "geometria_plana",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_2m_028_diseno_asistido_por_computador",
+    "titulo": "Diseño asistido por computador",
+    "curso": "2° medio",
+    "folder": "10_segundo_medio",
+    "path": "10_segundo_medio/028_diseno_asistido_por_computador.md",
+    "categoria": "geometria_plana",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_2m_029_errores_de_medicion",
+    "titulo": "Errores de medición",
+    "curso": "2° medio",
+    "folder": "10_segundo_medio",
+    "path": "10_segundo_medio/029_errores_de_medicion.md",
+    "categoria": "geometria_plana",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_2m_030_proyecto_geometrico_aplicado",
+    "titulo": "Proyecto geométrico aplicado",
+    "curso": "2° medio",
+    "folder": "10_segundo_medio",
+    "path": "10_segundo_medio/030_proyecto_geometrico_aplicado.md",
+    "categoria": "geometria_plana",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_3m_001_circunferencia_y_elementos",
+    "titulo": "Circunferencia y elementos",
+    "curso": "3° medio",
+    "folder": "11_tercero_medio",
+    "path": "11_tercero_medio/001_circunferencia_y_elementos.md",
+    "categoria": "geometria_plana",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_3m_002_angulos_centrales",
+    "titulo": "Ángulos centrales",
+    "curso": "3° medio",
+    "folder": "11_tercero_medio",
+    "path": "11_tercero_medio/002_angulos_centrales.md",
+    "categoria": "geometria_plana",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_3m_003_angulos_inscritos",
+    "titulo": "Ángulos inscritos",
+    "curso": "3° medio",
+    "folder": "11_tercero_medio",
+    "path": "11_tercero_medio/003_angulos_inscritos.md",
+    "categoria": "geometria_plana",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_3m_004_relacion_entre_arcos_y_angulos",
+    "titulo": "Relación entre arcos y ángulos",
+    "curso": "3° medio",
+    "folder": "11_tercero_medio",
+    "path": "11_tercero_medio/004_relacion_entre_arcos_y_angulos.md",
+    "categoria": "geometria_plana",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_3m_005_cuerdas",
+    "titulo": "Cuerdas",
+    "curso": "3° medio",
+    "folder": "11_tercero_medio",
+    "path": "11_tercero_medio/005_cuerdas.md",
+    "categoria": "geometria_plana",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_3m_006_secantes",
+    "titulo": "Secantes",
+    "curso": "3° medio",
+    "folder": "11_tercero_medio",
+    "path": "11_tercero_medio/006_secantes.md",
+    "categoria": "geometria_plana",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_3m_007_tangentes",
+    "titulo": "Tangentes",
+    "curso": "3° medio",
+    "folder": "11_tercero_medio",
+    "path": "11_tercero_medio/007_tangentes.md",
+    "categoria": "geometria_plana",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_3m_008_potencia_de_un_punto_inicial",
+    "titulo": "Potencia de un punto inicial",
+    "curso": "3° medio",
+    "folder": "11_tercero_medio",
+    "path": "11_tercero_medio/008_potencia_de_un_punto_inicial.md",
+    "categoria": "geometria_plana",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_3m_009_relaciones_metricas_en_la_circunferencia",
+    "titulo": "Relaciones métricas en la circunferencia",
+    "curso": "3° medio",
+    "folder": "11_tercero_medio",
+    "path": "11_tercero_medio/009_relaciones_metricas_en_la_circunferencia.md",
+    "categoria": "geometria_plana",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_3m_010_teoremas_de_cuerdas",
+    "titulo": "Teoremas de cuerdas",
+    "curso": "3° medio",
+    "folder": "11_tercero_medio",
+    "path": "11_tercero_medio/010_teoremas_de_cuerdas.md",
+    "categoria": "geometria_plana",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_3m_011_teoremas_de_secantes",
+    "titulo": "Teoremas de secantes",
+    "curso": "3° medio",
+    "folder": "11_tercero_medio",
+    "path": "11_tercero_medio/011_teoremas_de_secantes.md",
+    "categoria": "geometria_plana",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_3m_012_teoremas_de_tangentes",
+    "titulo": "Teoremas de tangentes",
+    "curso": "3° medio",
+    "folder": "11_tercero_medio",
+    "path": "11_tercero_medio/012_teoremas_de_tangentes.md",
+    "categoria": "geometria_plana",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_3m_013_problemas_euclidianos",
+    "titulo": "Problemas euclidianos",
+    "curso": "3° medio",
+    "folder": "11_tercero_medio",
+    "path": "11_tercero_medio/013_problemas_euclidianos.md",
+    "categoria": "geometria_plana",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_3m_014_demostracion_geometrica",
+    "titulo": "Demostración geométrica",
+    "curso": "3° medio",
+    "folder": "11_tercero_medio",
+    "path": "11_tercero_medio/014_demostracion_geometrica.md",
+    "categoria": "geometria_plana",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_3m_015_conjeturas_y_contraejemplos",
+    "titulo": "Conjeturas y contraejemplos",
+    "curso": "3° medio",
+    "folder": "11_tercero_medio",
+    "path": "11_tercero_medio/015_conjeturas_y_contraejemplos.md",
+    "categoria": "geometria_plana",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_3m_016_geometria_analitica_de_circunferencias",
+    "titulo": "Geometría analítica de circunferencias",
+    "curso": "3° medio",
+    "folder": "11_tercero_medio",
+    "path": "11_tercero_medio/016_geometria_analitica_de_circunferencias.md",
+    "categoria": "geometria_plana",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_3m_017_interseccion_recta_circunferencia",
+    "titulo": "Intersección recta circunferencia",
+    "curso": "3° medio",
+    "folder": "11_tercero_medio",
+    "path": "11_tercero_medio/017_interseccion_recta_circunferencia.md",
+    "categoria": "geometria_plana",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_3m_018_lugares_geometricos",
+    "titulo": "Lugares geométricos",
+    "curso": "3° medio",
+    "folder": "11_tercero_medio",
+    "path": "11_tercero_medio/018_lugares_geometricos.md",
+    "categoria": "geometria_plana",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_3m_019_vectores_y_transformaciones",
+    "titulo": "Vectores y transformaciones",
+    "curso": "3° medio",
+    "folder": "11_tercero_medio",
+    "path": "11_tercero_medio/019_vectores_y_transformaciones.md",
+    "categoria": "geometria_analitica",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_3m_020_geometria_en_diseno",
+    "titulo": "Geometría en diseño",
+    "curso": "3° medio",
+    "folder": "11_tercero_medio",
+    "path": "11_tercero_medio/020_geometria_en_diseno.md",
+    "categoria": "geometria_plana",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_3m_021_geometria_en_construccion",
+    "titulo": "Geometría en construcción",
+    "curso": "3° medio",
+    "folder": "11_tercero_medio",
+    "path": "11_tercero_medio/021_geometria_en_construccion.md",
+    "categoria": "construcciones",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_3m_022_geometria_en_astronomia",
+    "titulo": "Geometría en astronomía",
+    "curso": "3° medio",
+    "folder": "11_tercero_medio",
+    "path": "11_tercero_medio/022_geometria_en_astronomia.md",
+    "categoria": "geometria_plana",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_3m_023_uso_de_software_dinamico",
+    "titulo": "Uso de software dinámico",
+    "curso": "3° medio",
+    "folder": "11_tercero_medio",
+    "path": "11_tercero_medio/023_uso_de_software_dinamico.md",
+    "categoria": "geometria_plana",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_3m_024_modelacion_con_figuras",
+    "titulo": "Modelación con figuras",
+    "curso": "3° medio",
+    "folder": "11_tercero_medio",
+    "path": "11_tercero_medio/024_modelacion_con_figuras.md",
+    "categoria": "geometria_plana",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_3m_025_argumentacion_y_prueba",
+    "titulo": "Argumentación y prueba",
+    "curso": "3° medio",
+    "folder": "11_tercero_medio",
+    "path": "11_tercero_medio/025_argumentacion_y_prueba.md",
+    "categoria": "geometria_plana",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_3m_026_proyecto_de_circunferencia_aplicada",
+    "titulo": "Proyecto de circunferencia aplicada",
+    "curso": "3° medio",
+    "folder": "11_tercero_medio",
+    "path": "11_tercero_medio/026_proyecto_de_circunferencia_aplicada.md",
+    "categoria": "geometria_plana",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "geo_4m_001_geometria_analitica_avanzada",
+    "titulo": "Geometría analítica avanzada",
+    "curso": "4° medio",
+    "folder": "12_cuarto_medio",
+    "path": "12_cuarto_medio/001_geometria_analitica_avanzada.md",
+    "categoria": "geometria_plana",
+    "alineacion": "formacion_general_y_ampliacion"
+  },
+  {
+    "id": "geo_4m_002_rectas_y_sistemas_geometricos",
+    "titulo": "Rectas y sistemas geométricos",
+    "curso": "4° medio",
+    "folder": "12_cuarto_medio",
+    "path": "12_cuarto_medio/002_rectas_y_sistemas_geometricos.md",
+    "categoria": "geometria_plana",
+    "alineacion": "formacion_general_y_ampliacion"
+  },
+  {
+    "id": "geo_4m_003_circunferencia_avanzada",
+    "titulo": "Circunferencia avanzada",
+    "curso": "4° medio",
+    "folder": "12_cuarto_medio",
+    "path": "12_cuarto_medio/003_circunferencia_avanzada.md",
+    "categoria": "geometria_plana",
+    "alineacion": "formacion_general_y_ampliacion"
+  },
+  {
+    "id": "geo_4m_004_parabola",
+    "titulo": "Parábola",
+    "curso": "4° medio",
+    "folder": "12_cuarto_medio",
+    "path": "12_cuarto_medio/004_parabola.md",
+    "categoria": "geometria_analitica",
+    "alineacion": "formacion_general_y_ampliacion"
+  },
+  {
+    "id": "geo_4m_005_elipse",
+    "titulo": "Elipse",
+    "curso": "4° medio",
+    "folder": "12_cuarto_medio",
+    "path": "12_cuarto_medio/005_elipse.md",
+    "categoria": "geometria_analitica",
+    "alineacion": "formacion_general_y_ampliacion"
+  },
+  {
+    "id": "geo_4m_006_hiperbola",
+    "titulo": "Hipérbola",
+    "curso": "4° medio",
+    "folder": "12_cuarto_medio",
+    "path": "12_cuarto_medio/006_hiperbola.md",
+    "categoria": "geometria_analitica",
+    "alineacion": "formacion_general_y_ampliacion"
+  },
+  {
+    "id": "geo_4m_007_conicas_y_aplicaciones",
+    "titulo": "Cónicas y aplicaciones",
+    "curso": "4° medio",
+    "folder": "12_cuarto_medio",
+    "path": "12_cuarto_medio/007_conicas_y_aplicaciones.md",
+    "categoria": "geometria_analitica",
+    "alineacion": "formacion_general_y_ampliacion"
+  },
+  {
+    "id": "geo_4m_008_vectores_avanzados",
+    "titulo": "Vectores avanzados",
+    "curso": "4° medio",
+    "folder": "12_cuarto_medio",
+    "path": "12_cuarto_medio/008_vectores_avanzados.md",
+    "categoria": "geometria_analitica",
+    "alineacion": "formacion_general_y_ampliacion"
+  },
+  {
+    "id": "geo_4m_009_producto_escalar_inicial",
+    "titulo": "Producto escalar inicial",
+    "curso": "4° medio",
+    "folder": "12_cuarto_medio",
+    "path": "12_cuarto_medio/009_producto_escalar_inicial.md",
+    "categoria": "geometria_plana",
+    "alineacion": "formacion_general_y_ampliacion"
+  },
+  {
+    "id": "geo_4m_010_angulo_entre_vectores",
+    "titulo": "Ángulo entre vectores",
+    "curso": "4° medio",
+    "folder": "12_cuarto_medio",
+    "path": "12_cuarto_medio/010_angulo_entre_vectores.md",
+    "categoria": "geometria_analitica",
+    "alineacion": "formacion_general_y_ampliacion"
+  },
+  {
+    "id": "geo_4m_011_proyecciones",
+    "titulo": "Proyecciones",
+    "curso": "4° medio",
+    "folder": "12_cuarto_medio",
+    "path": "12_cuarto_medio/011_proyecciones.md",
+    "categoria": "geometria_plana",
+    "alineacion": "formacion_general_y_ampliacion"
+  },
+  {
+    "id": "geo_4m_012_geometria_en_tres_dimensiones",
+    "titulo": "Geometría en tres dimensiones",
+    "curso": "4° medio",
+    "folder": "12_cuarto_medio",
+    "path": "12_cuarto_medio/012_geometria_en_tres_dimensiones.md",
+    "categoria": "geometria_plana",
+    "alineacion": "formacion_general_y_ampliacion"
+  },
+  {
+    "id": "geo_4m_013_coordenadas_espaciales",
+    "titulo": "Coordenadas espaciales",
+    "curso": "4° medio",
+    "folder": "12_cuarto_medio",
+    "path": "12_cuarto_medio/013_coordenadas_espaciales.md",
+    "categoria": "geometria_analitica",
+    "alineacion": "formacion_general_y_ampliacion"
+  },
+  {
+    "id": "geo_4m_014_planos_y_rectas_en_el_espacio_iniciales",
+    "titulo": "Planos y rectas en el espacio iniciales",
+    "curso": "4° medio",
+    "folder": "12_cuarto_medio",
+    "path": "12_cuarto_medio/014_planos_y_rectas_en_el_espacio_iniciales.md",
+    "categoria": "geometria_3d",
+    "alineacion": "formacion_general_y_ampliacion"
+  },
+  {
+    "id": "geo_4m_015_distancias_en_el_espacio",
+    "titulo": "Distancias en el espacio",
+    "curso": "4° medio",
+    "folder": "12_cuarto_medio",
+    "path": "12_cuarto_medio/015_distancias_en_el_espacio.md",
+    "categoria": "geometria_3d",
+    "alineacion": "formacion_general_y_ampliacion"
+  },
+  {
+    "id": "geo_4m_016_poliedros",
+    "titulo": "Poliedros",
+    "curso": "4° medio",
+    "folder": "12_cuarto_medio",
+    "path": "12_cuarto_medio/016_poliedros.md",
+    "categoria": "geometria_3d",
+    "alineacion": "formacion_general_y_ampliacion"
+  },
+  {
+    "id": "geo_4m_017_formula_de_euler_para_poliedros",
+    "titulo": "Fórmula de Euler para poliedros",
+    "curso": "4° medio",
+    "folder": "12_cuarto_medio",
+    "path": "12_cuarto_medio/017_formula_de_euler_para_poliedros.md",
+    "categoria": "geometria_3d",
+    "alineacion": "formacion_general_y_ampliacion"
+  },
+  {
+    "id": "geo_4m_018_solidos_de_revolucion",
+    "titulo": "Sólidos de revolución",
+    "curso": "4° medio",
+    "folder": "12_cuarto_medio",
+    "path": "12_cuarto_medio/018_solidos_de_revolucion.md",
+    "categoria": "geometria_plana",
+    "alineacion": "formacion_general_y_ampliacion"
+  },
+  {
+    "id": "geo_4m_019_optimizacion_geometrica_inicial",
+    "titulo": "Optimización geométrica inicial",
+    "curso": "4° medio",
+    "folder": "12_cuarto_medio",
+    "path": "12_cuarto_medio/019_optimizacion_geometrica_inicial.md",
+    "categoria": "geometria_plana",
+    "alineacion": "formacion_general_y_ampliacion"
+  },
+  {
+    "id": "geo_4m_020_teselaciones_y_simetrias_avanzadas",
+    "titulo": "Teselaciones y simetrías avanzadas",
+    "curso": "4° medio",
+    "folder": "12_cuarto_medio",
+    "path": "12_cuarto_medio/020_teselaciones_y_simetrias_avanzadas.md",
+    "categoria": "transformaciones",
+    "alineacion": "formacion_general_y_ampliacion"
+  },
+  {
+    "id": "geo_4m_021_geometria_fractal_inicial",
+    "titulo": "Geometría fractal inicial",
+    "curso": "4° medio",
+    "folder": "12_cuarto_medio",
+    "path": "12_cuarto_medio/021_geometria_fractal_inicial.md",
+    "categoria": "geometria_plana",
+    "alineacion": "formacion_general_y_ampliacion"
+  },
+  {
+    "id": "geo_4m_022_geometria_no_euclidiana_conceptual",
+    "titulo": "Geometría no euclidiana conceptual",
+    "curso": "4° medio",
+    "folder": "12_cuarto_medio",
+    "path": "12_cuarto_medio/022_geometria_no_euclidiana_conceptual.md",
+    "categoria": "geometria_plana",
+    "alineacion": "formacion_general_y_ampliacion"
+  },
+  {
+    "id": "geo_4m_023_geometria_esferica_conceptual",
+    "titulo": "Geometría esférica conceptual",
+    "curso": "4° medio",
+    "folder": "12_cuarto_medio",
+    "path": "12_cuarto_medio/023_geometria_esferica_conceptual.md",
+    "categoria": "geometria_plana",
+    "alineacion": "formacion_general_y_ampliacion"
+  },
+  {
+    "id": "geo_4m_024_cartografia_y_proyecciones",
+    "titulo": "Cartografía y proyecciones",
+    "curso": "4° medio",
+    "folder": "12_cuarto_medio",
+    "path": "12_cuarto_medio/024_cartografia_y_proyecciones.md",
+    "categoria": "geometria_plana",
+    "alineacion": "formacion_general_y_ampliacion"
+  },
+  {
+    "id": "geo_4m_025_diseno_parametrico_inicial",
+    "titulo": "Diseño paramétrico inicial",
+    "curso": "4° medio",
+    "folder": "12_cuarto_medio",
+    "path": "12_cuarto_medio/025_diseno_parametrico_inicial.md",
+    "categoria": "geometria_plana",
+    "alineacion": "formacion_general_y_ampliacion"
+  },
+  {
+    "id": "geo_4m_026_arquitectura_y_estructuras",
+    "titulo": "Arquitectura y estructuras",
+    "curso": "4° medio",
+    "folder": "12_cuarto_medio",
+    "path": "12_cuarto_medio/026_arquitectura_y_estructuras.md",
+    "categoria": "geometria_plana",
+    "alineacion": "formacion_general_y_ampliacion"
+  },
+  {
+    "id": "geo_4m_027_geometria_computacional_inicial",
+    "titulo": "Geometría computacional inicial",
+    "curso": "4° medio",
+    "folder": "12_cuarto_medio",
+    "path": "12_cuarto_medio/027_geometria_computacional_inicial.md",
+    "categoria": "geometria_plana",
+    "alineacion": "formacion_general_y_ampliacion"
+  },
+  {
+    "id": "geo_4m_028_modelacion_espacial",
+    "titulo": "Modelación espacial",
+    "curso": "4° medio",
+    "folder": "12_cuarto_medio",
+    "path": "12_cuarto_medio/028_modelacion_espacial.md",
+    "categoria": "geometria_plana",
+    "alineacion": "formacion_general_y_ampliacion"
+  },
+  {
+    "id": "geo_4m_029_analisis_de_supuestos",
+    "titulo": "Análisis de supuestos",
+    "curso": "4° medio",
+    "folder": "12_cuarto_medio",
+    "path": "12_cuarto_medio/029_analisis_de_supuestos.md",
+    "categoria": "geometria_plana",
+    "alineacion": "formacion_general_y_ampliacion"
+  },
+  {
+    "id": "geo_4m_030_proyecto_final_de_geometria_aplicada",
+    "titulo": "Proyecto final de geometría aplicada",
+    "curso": "4° medio",
+    "folder": "12_cuarto_medio",
+    "path": "12_cuarto_medio/030_proyecto_final_de_geometria_aplicada.md",
+    "categoria": "geometria_plana",
+    "alineacion": "formacion_general_y_ampliacion"
+  },
+  {
+    "id": "geo_tr_001_que_es_la_geometria",
+    "titulo": "Qué es la geometría",
+    "curso": "Transversal 1° básico a 4° medio",
+    "folder": "13_tematicos_transversales",
+    "path": "13_tematicos_transversales/001_que_es_la_geometria.md",
+    "categoria": "geometria_plana",
+    "alineacion": "transversal"
+  },
+  {
+    "id": "geo_tr_002_punto_recta_plano_y_espacio",
+    "titulo": "Punto recta plano y espacio",
+    "curso": "Transversal 1° básico a 4° medio",
+    "folder": "13_tematicos_transversales",
+    "path": "13_tematicos_transversales/002_punto_recta_plano_y_espacio.md",
+    "categoria": "geometria_3d",
+    "alineacion": "transversal"
+  },
+  {
+    "id": "geo_tr_003_figuras_2d",
+    "titulo": "Figuras 2D",
+    "curso": "Transversal 1° básico a 4° medio",
+    "folder": "13_tematicos_transversales",
+    "path": "13_tematicos_transversales/003_figuras_2d.md",
+    "categoria": "geometria_plana",
+    "alineacion": "transversal"
+  },
+  {
+    "id": "geo_tr_004_cuerpos_3d",
+    "titulo": "Cuerpos 3D",
+    "curso": "Transversal 1° básico a 4° medio",
+    "folder": "13_tematicos_transversales",
+    "path": "13_tematicos_transversales/004_cuerpos_3d.md",
+    "categoria": "geometria_3d",
+    "alineacion": "transversal"
+  },
+  {
+    "id": "geo_tr_005_lados_vertices_caras_y_aristas",
+    "titulo": "Lados vértices caras y aristas",
+    "curso": "Transversal 1° básico a 4° medio",
+    "folder": "13_tematicos_transversales",
+    "path": "13_tematicos_transversales/005_lados_vertices_caras_y_aristas.md",
+    "categoria": "geometria_plana",
+    "alineacion": "transversal"
+  },
+  {
+    "id": "geo_tr_006_angulos",
+    "titulo": "Ángulos",
+    "curso": "Transversal 1° básico a 4° medio",
+    "folder": "13_tematicos_transversales",
+    "path": "13_tematicos_transversales/006_angulos.md",
+    "categoria": "geometria_plana",
+    "alineacion": "transversal"
+  },
+  {
+    "id": "geo_tr_007_triangulos",
+    "titulo": "Triángulos",
+    "curso": "Transversal 1° básico a 4° medio",
+    "folder": "13_tematicos_transversales",
+    "path": "13_tematicos_transversales/007_triangulos.md",
+    "categoria": "geometria_plana",
+    "alineacion": "transversal"
+  },
+  {
+    "id": "geo_tr_008_cuadrilateros",
+    "titulo": "Cuadriláteros",
+    "curso": "Transversal 1° básico a 4° medio",
+    "folder": "13_tematicos_transversales",
+    "path": "13_tematicos_transversales/008_cuadrilateros.md",
+    "categoria": "geometria_plana",
+    "alineacion": "transversal"
+  },
+  {
+    "id": "geo_tr_009_poligonos",
+    "titulo": "Polígonos",
+    "curso": "Transversal 1° básico a 4° medio",
+    "folder": "13_tematicos_transversales",
+    "path": "13_tematicos_transversales/009_poligonos.md",
+    "categoria": "geometria_plana",
+    "alineacion": "transversal"
+  },
+  {
+    "id": "geo_tr_010_circunferencia_y_circulo",
+    "titulo": "Circunferencia y círculo",
+    "curso": "Transversal 1° básico a 4° medio",
+    "folder": "13_tematicos_transversales",
+    "path": "13_tematicos_transversales/010_circunferencia_y_circulo.md",
+    "categoria": "geometria_plana",
+    "alineacion": "transversal"
+  },
+  {
+    "id": "geo_tr_011_perimetro",
+    "titulo": "Perímetro",
+    "curso": "Transversal 1° básico a 4° medio",
+    "folder": "13_tematicos_transversales",
+    "path": "13_tematicos_transversales/011_perimetro.md",
+    "categoria": "medicion_geometrica",
+    "alineacion": "transversal"
+  },
+  {
+    "id": "geo_tr_012_area",
+    "titulo": "Área",
+    "curso": "Transversal 1° básico a 4° medio",
+    "folder": "13_tematicos_transversales",
+    "path": "13_tematicos_transversales/012_area.md",
+    "categoria": "medicion_geometrica",
+    "alineacion": "transversal"
+  },
+  {
+    "id": "geo_tr_013_volumen",
+    "titulo": "Volumen",
+    "curso": "Transversal 1° básico a 4° medio",
+    "folder": "13_tematicos_transversales",
+    "path": "13_tematicos_transversales/013_volumen.md",
+    "categoria": "medicion_geometrica",
+    "alineacion": "transversal"
+  },
+  {
+    "id": "geo_tr_014_plano_cartesiano",
+    "titulo": "Plano cartesiano",
+    "curso": "Transversal 1° básico a 4° medio",
+    "folder": "13_tematicos_transversales",
+    "path": "13_tematicos_transversales/014_plano_cartesiano.md",
+    "categoria": "geometria_analitica",
+    "alineacion": "transversal"
+  },
+  {
+    "id": "geo_tr_015_coordenadas",
+    "titulo": "Coordenadas",
+    "curso": "Transversal 1° básico a 4° medio",
+    "folder": "13_tematicos_transversales",
+    "path": "13_tematicos_transversales/015_coordenadas.md",
+    "categoria": "geometria_analitica",
+    "alineacion": "transversal"
+  },
+  {
+    "id": "geo_tr_016_traslacion",
+    "titulo": "Traslación",
+    "curso": "Transversal 1° básico a 4° medio",
+    "folder": "13_tematicos_transversales",
+    "path": "13_tematicos_transversales/016_traslacion.md",
+    "categoria": "transformaciones",
+    "alineacion": "transversal"
+  },
+  {
+    "id": "geo_tr_017_reflexion",
+    "titulo": "Reflexión",
+    "curso": "Transversal 1° básico a 4° medio",
+    "folder": "13_tematicos_transversales",
+    "path": "13_tematicos_transversales/017_reflexion.md",
+    "categoria": "transformaciones",
+    "alineacion": "transversal"
+  },
+  {
+    "id": "geo_tr_018_rotacion",
+    "titulo": "Rotación",
+    "curso": "Transversal 1° básico a 4° medio",
+    "folder": "13_tematicos_transversales",
+    "path": "13_tematicos_transversales/018_rotacion.md",
+    "categoria": "transformaciones",
+    "alineacion": "transversal"
+  },
+  {
+    "id": "geo_tr_019_simetria",
+    "titulo": "Simetría",
+    "curso": "Transversal 1° básico a 4° medio",
+    "folder": "13_tematicos_transversales",
+    "path": "13_tematicos_transversales/019_simetria.md",
+    "categoria": "transformaciones",
+    "alineacion": "transversal"
+  },
+  {
+    "id": "geo_tr_020_congruencia",
+    "titulo": "Congruencia",
+    "curso": "Transversal 1° básico a 4° medio",
+    "folder": "13_tematicos_transversales",
+    "path": "13_tematicos_transversales/020_congruencia.md",
+    "categoria": "relaciones_metricas",
+    "alineacion": "transversal"
+  },
+  {
+    "id": "geo_tr_021_semejanza",
+    "titulo": "Semejanza",
+    "curso": "Transversal 1° básico a 4° medio",
+    "folder": "13_tematicos_transversales",
+    "path": "13_tematicos_transversales/021_semejanza.md",
+    "categoria": "relaciones_metricas",
+    "alineacion": "transversal"
+  },
+  {
+    "id": "geo_tr_022_homotecia",
+    "titulo": "Homotecia",
+    "curso": "Transversal 1° básico a 4° medio",
+    "folder": "13_tematicos_transversales",
+    "path": "13_tematicos_transversales/022_homotecia.md",
+    "categoria": "transformaciones",
+    "alineacion": "transversal"
+  },
+  {
+    "id": "geo_tr_023_teorema_de_pitagoras",
+    "titulo": "Teorema de Pitágoras",
+    "curso": "Transversal 1° básico a 4° medio",
+    "folder": "13_tematicos_transversales",
+    "path": "13_tematicos_transversales/023_teorema_de_pitagoras.md",
+    "categoria": "relaciones_metricas",
+    "alineacion": "transversal"
+  },
+  {
+    "id": "geo_tr_024_teorema_de_tales",
+    "titulo": "Teorema de Tales",
+    "curso": "Transversal 1° básico a 4° medio",
+    "folder": "13_tematicos_transversales",
+    "path": "13_tematicos_transversales/024_teorema_de_tales.md",
+    "categoria": "relaciones_metricas",
+    "alineacion": "transversal"
+  },
+  {
+    "id": "geo_tr_025_trigonometria",
+    "titulo": "Trigonometría",
+    "curso": "Transversal 1° básico a 4° medio",
+    "folder": "13_tematicos_transversales",
+    "path": "13_tematicos_transversales/025_trigonometria.md",
+    "categoria": "relaciones_metricas",
+    "alineacion": "transversal"
+  },
+  {
+    "id": "geo_tr_026_geometria_analitica",
+    "titulo": "Geometría analítica",
+    "curso": "Transversal 1° básico a 4° medio",
+    "folder": "13_tematicos_transversales",
+    "path": "13_tematicos_transversales/026_geometria_analitica.md",
+    "categoria": "geometria_plana",
+    "alineacion": "transversal"
+  },
+  {
+    "id": "geo_tr_027_construcciones_geometricas",
+    "titulo": "Construcciones geométricas",
+    "curso": "Transversal 1° básico a 4° medio",
+    "folder": "13_tematicos_transversales",
+    "path": "13_tematicos_transversales/027_construcciones_geometricas.md",
+    "categoria": "geometria_plana",
+    "alineacion": "transversal"
+  },
+  {
+    "id": "geo_tr_028_geometria_aplicada",
+    "titulo": "Geometría aplicada",
+    "curso": "Transversal 1° básico a 4° medio",
+    "folder": "13_tematicos_transversales",
+    "path": "13_tematicos_transversales/028_geometria_aplicada.md",
+    "categoria": "geometria_plana",
+    "alineacion": "transversal"
+  }
+]

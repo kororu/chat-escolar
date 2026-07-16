@@ -176,7 +176,18 @@ def build_local_content_fallback(payload, local_content: dict) -> dict[str, str]
     )
     source_note = ""
     if local_content.get("course") and local_content["course"] != payload.course:
-        source_note = f"Encontrado en otro curso: {local_content['course']}. Adaptado para {payload.course}.\n\n"
+        source_course = local_content["course"]
+        is_encyclopedia = (
+            source_course.startswith("Enciclopedia ")
+            or str(local_content.get("metadata", {}).get("content_type", "")).startswith("enciclopedia")
+        )
+        if is_encyclopedia:
+            source_note = (
+                f"Fuente enciclopédica: {source_course.removeprefix('Enciclopedia ')}. "
+                f"Adaptado para {payload.course}.\n\n"
+            )
+        else:
+            source_note = f"Encontrado en otro curso: {source_course}. Adaptado para {payload.course}.\n\n"
     if role == "apoderado":
         answer = (f"{_student_introduction(payload)}\n\n{source_note}"
                   f"Qué debe entender el niño:\n{explanation}\n\nCómo explicárselo:\n{example}\n\n"
@@ -201,6 +212,71 @@ def build_local_content_fallback(payload, local_content: dict) -> dict[str, str]
 def build_grounded_history_answer(payload, local_content: dict) -> dict[str, str]:
     """Construye una respuesta histórica solo desde las secciones locales verificadas."""
     return build_local_content_fallback(payload, local_content)
+
+
+def build_grounded_science_answer(payload, local_content: dict) -> dict[str, str]:
+    question = normalize_text(getattr(payload, "question", ""))
+    title = normalize_text(local_content.get("title", ""))
+    templates = (
+        (("agujero negro", "agujeros negros"), "agujero negro", "Un agujero negro es una región del espacio donde la gravedad es extremadamente fuerte. Si algo se acerca demasiado, es muy difícil que escape; incluso la luz no puede salir de una zona llamada horizonte de sucesos.", "Imagina una aspiradora muy poderosa. No es igual a un agujero negro, pero ayuda a imaginar que atrae con mucha fuerza las cosas que están muy cerca.", "Una zona del espacio con gravedad tan intensa que la luz no puede salir.", "¿Por qué crees que ni siquiera la luz puede escapar de un agujero negro?"),
+        (("gravedad",), "gravedad", "La gravedad es la fuerza que atrae los objetos entre sí. En la Tierra hace que las cosas caigan hacia el suelo y ayuda a que la Luna se mantenga orbitando nuestro planeta.", "Cuando sueltas una pelota, la gravedad hace que caiga al suelo.", "La gravedad atrae los objetos.", "¿Qué ejemplo de gravedad puedes observar cerca de ti?"),
+        (("celula", "celulas"), "celula", "Una célula es la unidad más pequeña que forma a los seres vivos. Los animales, las plantas y otros seres vivos están formados por células.", "Puedes imaginar las células como pequeñas piezas que, juntas, forman partes de un ser vivo.", "Los seres vivos están formados por células.", "¿Qué ser vivo crees que está formado por células?"),
+        (("fotosintesis",), "fotosintesis", "La fotosíntesis es el proceso por el que las plantas usan la luz del Sol, agua y aire para producir su propio alimento.", "Una planta cerca de una ventana recibe luz, toma agua por sus raíces y usa esos elementos para alimentarse.", "Las plantas usan la luz del Sol para fabricar su alimento.", "¿Qué necesita una planta para realizar la fotosíntesis?"),
+    )
+
+    for question_terms, title_term, explanation, example, summary, practice in templates:
+        title_matches = title_term in title or (
+            title_term == "agujero negro" and "agujeros negros" in title
+        )
+        if any(term in question for term in question_terms) and title_matches:
+            source_area = local_content.get("metadata", {}).get("area")
+            source_note = (
+                f"Encontrado en contenido de {source_area}. Adaptado para {payload.course}.\n\n"
+                if source_area else ""
+            )
+            answer = (
+                f"{_student_introduction(payload)}\n\n{source_note}"
+                f"Explicación corta:\n{explanation}\n\n"
+                f"Ejemplo de la vida diaria:\n{example}\n\n"
+                f"Mini resumen:\n{summary}\n\n"
+                f"Pregunta de práctica:\n{practice}"
+            )
+            return {"answer": answer, "summary": summary, "status": "ok"}
+    return build_local_content_fallback(payload, local_content)
+
+
+def build_contextual_followup(payload, action: str, local_content: dict | None) -> dict[str, str]:
+    """Respuesta breve anclada al último tema y fuente local, sin IA ni tema demo."""
+    if not local_content:
+        return {"answer": "Primero hazme una pregunta sobre un tema y luego puedo explicarlo más fácil, darte un ejemplo o hacerte una pregunta de práctica.", "summary": "Falta un tema previo.", "status": "ok"}
+    topic = normalize_text(
+        getattr(payload, "question", "") or getattr(payload, "last_user_question", "")
+    )
+    source_title = normalize_text(local_content.get("title", ""))
+    if "fotosintesis" in topic and "fotosintesis" in source_title:
+        followups = {
+            "simplify": ("Más fácil:", "La fotosíntesis es la forma en que las plantas usan la luz del Sol, agua y aire para fabricar su alimento."),
+            "explain_again": ("Vamos más lento:", "La planta recibe luz, toma agua por sus raíces y usa aire para producir su alimento."),
+            "give_example": ("Ejemplo:", "Una planta junto a una ventana recibe luz del Sol. Si también tiene agua, puede realizar la fotosíntesis."),
+            "ask_question": ("Pregunta de práctica:", "¿Qué necesita una planta para realizar la fotosíntesis?"),
+        }
+        heading, text = followups.get(action, followups["explain_again"])
+        return {"answer": f"{_student_introduction(payload)}\n\n{heading}\n{text}", "summary": text, "status": "ok"}
+    sections = _markdown_sections(local_content)
+    level = get_educational_level(payload.course)
+    explanation = _first_section(sections, "respuesta breve", "explicacion clara") or _clean_local_text(local_content.get("excerpt", ""))
+    example = _first_section(sections, "ejemplo cotidiano", "ejemplo explicado", "ejemplo") or explanation
+    practice = _single_practice_question(_first_section(sections, "preguntas de practica", "pregunta de practica"))
+    explanation = _limit_words(_simplify_for_level(_limit_sentences(explanation, 2), level), 90)
+    example = _limit_words(_simplify_for_level(_limit_sentences(example, 2), level), 75)
+    labels = {
+        "simplify": ("Más fácil:", explanation),
+        "explain_again": ("Vamos más lento:", explanation),
+        "give_example": ("Ejemplo:", example),
+        "ask_question": ("Pregunta de práctica:", practice),
+    }
+    heading, text = labels.get(action, labels["explain_again"])
+    return {"answer": f"{_student_introduction(payload)}\n\n{heading}\n{text}", "summary": text[:220], "status": "ok"}
 
 
 def detect_topic(question: str) -> str:

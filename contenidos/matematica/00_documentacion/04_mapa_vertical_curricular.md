@@ -1,0 +1,326 @@
+# Mapa vertical
+
+## 1° básico
+- Conteo 0 a 100
+- Leer y escribir números
+- Comparar cantidades
+- Ordenar números
+- Composición y descomposición
+- Valor posicional inicial
+- Suma como juntar
+- Resta como quitar
+- Problemas de suma
+- Problemas de resta
+- Cálculo mental
+- Dobles y mitades
+- Patrones repetitivos
+- Igualdad inicial
+- Figuras 2D
+- Cuerpos 3D
+- Posición y orientación
+- Longitud no estandarizada
+- Tiempo y calendario
+- Pictogramas
+
+## 2° básico
+- Conteo hasta 1000
+- Centenas decenas unidades
+- Comparar y ordenar
+- Composición hasta 1000
+- Suma con reserva
+- Resta con canje
+- Problemas de dos pasos
+- Multiplicación como suma repetida
+- Tablas del 2 5 y 10
+- División como reparto
+- Mitad tercio y cuarto
+- Patrones numéricos
+- Ecuaciones simples
+- Simetría
+- Cuerpos geométricos
+- Centímetros
+- Masa y capacidad
+- Lectura de la hora
+- Gráficos de barras
+- Posible imposible seguro
+
+## 3° básico
+- Números hasta 10000
+- Valor posicional
+- Redondeo inicial
+- Suma y resta
+- Multiplicación por una cifra
+- División por agrupación
+- Tablas de multiplicar
+- Problemas con operaciones
+- Fracciones como parte
+- Fracciones unitarias
+- Comparar fracciones simples
+- Patrones aditivos
+- Ecuaciones de un paso
+- Ángulos iniciales
+- Perímetro
+- Área con cuadrados
+- Simetría
+- Coordenadas iniciales
+- Medición
+- Tablas y gráficos
+- Azar simple
+
+## 4° básico
+- Números hasta 1000000
+- Valor posicional ampliado
+- Estimación y redondeo
+- Adición y sustracción
+- Multiplicación por dos cifras
+- División por una cifra
+- Operaciones combinadas simples
+- Problemas rutinarios y no rutinarios
+- Fracciones equivalentes
+- Comparar fracciones
+- Suma y resta de fracciones
+- Decimales iniciales
+- Patrones y secuencias
+- Ecuaciones simples
+- Ángulos
+- Triángulos y cuadriláteros
+- Perímetro
+- Área de rectángulos
+- Transformaciones isométricas
+- Coordenadas
+- Unidades y conversiones
+- Tiempo y dinero
+- Gráficos
+- Probabilidad cualitativa
+
+## 5° básico
+- Números naturales grandes
+- Operaciones combinadas
+- Múltiplos y divisores
+- Primos y compuestos
+- Divisibilidad
+- Fracciones propias impropias y mixtas
+- Fracciones equivalentes
+- Suma y resta de fracciones
+- Multiplicación de fracciones inicial
+- Decimales
+- Operaciones con decimales
+- Porcentajes iniciales
+- Razones iniciales
+- Patrones y reglas
+- Ecuaciones e inecuaciones
+- Plano cartesiano
+- Ángulos
+- Triángulos
+- Cuadriláteros
+- Perímetro y área
+- Volumen inicial
+- Conversión de unidades
+- Promedio
+- Gráficos
+- Probabilidad experimental
+
+## 6° básico
+- Enteros iniciales
+- Factores y múltiplos
+- MCM
+- MCD
+- Fracciones y mixtos
+- Suma y resta de fracciones
+- Multiplicación y división de fracciones
+- Decimales
+- Operaciones con decimales
+- Razones
+- Proporciones
+- Porcentajes
+- Tasas unitarias
+- Álgebra con letras
+- Expresiones algebraicas
+- Ecuaciones simples
+- Patrones generalizados
+- Plano cartesiano
+- Transformaciones
+- Ángulos de polígonos
+- Área de triángulos
+- Volumen de prismas
+- Escalas
+- Media mediana moda
+- Análisis de datos
+- Probabilidad teórica
+
+## 7° básico
+- Números enteros
+- Operaciones con enteros
+- Números racionales
+- Fracciones decimales y porcentajes
+- Potencias
+- Raíces cuadradas iniciales
+- Razones y proporciones
+- Proporcionalidad directa
+- Variaciones porcentuales
+- Expresiones algebraicas
+- Términos semejantes
+- Ecuaciones lineales
+- Inecuaciones lineales
+- Relaciones proporcionales
+- Plano cartesiano
+- Ángulos entre paralelas
+- Congruencia de triángulos
+- Circunferencia y círculo
+- Área y perímetro
+- Prismas y cilindros
+- Muestreo
+- Tendencia central
+- Frecuencia relativa
+- Probabilidad experimental
+- Diagramas de árbol
+
+## 8° básico
+- Racionales
+- Operaciones con racionales
+- Potencias y raíces
+- Notación científica
+- Variación porcentual
+- Interés simple
+- Expresiones algebraicas
+- Productos notables
+- Factorización simple
+- Ecuaciones lineales
+- Sistemas 2x2 iniciales
+- Funciones lineales
+- Pendiente e intercepto
+- Proporcionalidad directa e inversa
+- Pitágoras
+- Transformaciones isométricas
+- Homotecia
+- Semejanza
+- Área y volumen
+- Cuerpos redondos
+- Población y muestra
+- Tablas de frecuencia
+- Histogramas
+- Cuartiles
+- Probabilidad compuesta
+- Regla multiplicativa
+
+## 1° medio
+- Racionales e irracionales
+- Números reales
+- Potencias enteras
+- Raíces
+- Notación científica
+- Porcentajes y crecimiento
+- Interés compuesto
+- Expresiones algebraicas
+- Productos notables
+- Factorización
+- Ecuaciones lineales
+- Sistemas 2x2
+- Inecuaciones
+- Función lineal
+- Función afín
+- Pendiente
+- Modelación lineal
+- Semejanza y homotecia
+- Teorema de Tales
+- Pitágoras
+- Trigonometría inicial
+- Vectores
+- Área y volumen
+- Datos agrupados
+- Tendencia central
+- Varianza inicial
+- Probabilidad simple
+- Probabilidad compuesta
+
+## 2° medio
+- Reales y raíces
+- Potencias y radicales
+- Logaritmos iniciales
+- Expresiones racionales
+- Ecuaciones cuadráticas
+- Función cuadrática
+- Parábola
+- Sistemas de ecuaciones
+- Inecuaciones cuadráticas
+- Función inversa inicial
+- Funciones por tramos
+- Modelación con funciones
+- Razones trigonométricas
+- Seno coseno tangente
+- Resolución de triángulos
+- Circunferencia
+- Arcos y sectores
+- Geometría analítica
+- Distancia entre puntos
+- Punto medio
+- Vectores
+- Transformaciones
+- Combinatoria
+- Permutaciones y combinaciones
+- Probabilidad total
+- Variables aleatorias
+- Distribuciones simples
+- Desviación estándar
+- Correlación
+- Análisis crítico de gráficos
+
+## 3° medio
+- Relaciones métricas en circunferencia
+- Ángulos inscritos y centrales
+- Cuerdas secantes y tangentes
+- Medidas de dispersión
+- Rango
+- Varianza
+- Desviación estándar
+- Coeficiente de variación
+- Probabilidad condicional
+- Diagramas de árbol
+- Bayes inicial
+- Función exponencial
+- Crecimiento exponencial
+- Función logarítmica
+- Ecuaciones exponenciales
+- Ecuaciones logarítmicas
+- Modelación
+- Números complejos
+- Forma binómica
+- Plano complejo
+- Operaciones con complejos
+- Módulo y argumento
+- Pensamiento computacional
+- Algoritmos y patrones
+- Datos con tecnología
+- Decisiones bajo incertidumbre
+
+## 4° medio
+- Funciones avanzadas
+- Composición de funciones
+- Función inversa
+- Funciones racionales
+- Funciones trigonométricas
+- Periodicidad
+- Transformaciones de funciones
+- Modelos de crecimiento
+- Modelos de decaimiento
+- Optimización elemental
+- Geometría analítica avanzada
+- Vectores y rectas
+- Cónicas iniciales
+- Probabilidad binomial
+- Distribución normal inicial
+- Inferencia estadística inicial
+- Intervalos de confianza
+- Muestreo y sesgo
+- Regresión lineal
+- Correlación y causalidad
+- Análisis crítico de información
+- Complejos avanzados
+- Polinomios y raíces
+- Sucesiones y series
+- Límites intuitivos
+- Derivada como tasa de cambio
+- Integral como acumulación
+- Modelación financiera
+- Matemática y ciudadanía
+- Proyecto final de modelación

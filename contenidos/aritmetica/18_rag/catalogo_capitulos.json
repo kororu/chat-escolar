@@ -1,0 +1,2738 @@
+[
+  {
+    "id": "ari_1b_001_conteo_del_0_al_20",
+    "titulo": "Conteo del 0 al 20",
+    "curso": "1° básico",
+    "folder": "01_primero_basico",
+    "path": "01_primero_basico/001_conteo_del_0_al_20.md",
+    "categoria": "conjuntos_numericos",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_1b_002_conteo_hasta_100",
+    "titulo": "Conteo hasta 100",
+    "curso": "1° básico",
+    "folder": "01_primero_basico",
+    "path": "01_primero_basico/002_conteo_hasta_100.md",
+    "categoria": "conjuntos_numericos",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_1b_003_leer_numeros",
+    "titulo": "Leer números",
+    "curso": "1° básico",
+    "folder": "01_primero_basico",
+    "path": "01_primero_basico/003_leer_numeros.md",
+    "categoria": "resolucion_de_problemas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_1b_004_escribir_numeros",
+    "titulo": "Escribir números",
+    "curso": "1° básico",
+    "folder": "01_primero_basico",
+    "path": "01_primero_basico/004_escribir_numeros.md",
+    "categoria": "resolucion_de_problemas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_1b_005_comparar_cantidades",
+    "titulo": "Comparar cantidades",
+    "curso": "1° básico",
+    "folder": "01_primero_basico",
+    "path": "01_primero_basico/005_comparar_cantidades.md",
+    "categoria": "resolucion_de_problemas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_1b_006_ordenar_numeros",
+    "titulo": "Ordenar números",
+    "curso": "1° básico",
+    "folder": "01_primero_basico",
+    "path": "01_primero_basico/006_ordenar_numeros.md",
+    "categoria": "resolucion_de_problemas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_1b_007_componer_y_descomponer",
+    "titulo": "Componer y descomponer",
+    "curso": "1° básico",
+    "folder": "01_primero_basico",
+    "path": "01_primero_basico/007_componer_y_descomponer.md",
+    "categoria": "resolucion_de_problemas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_1b_008_decenas_y_unidades",
+    "titulo": "Decenas y unidades",
+    "curso": "1° básico",
+    "folder": "01_primero_basico",
+    "path": "01_primero_basico/008_decenas_y_unidades.md",
+    "categoria": "resolucion_de_problemas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_1b_009_suma_como_juntar",
+    "titulo": "Suma como juntar",
+    "curso": "1° básico",
+    "folder": "01_primero_basico",
+    "path": "01_primero_basico/009_suma_como_juntar.md",
+    "categoria": "operaciones_basicas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_1b_010_suma_como_avanzar",
+    "titulo": "Suma como avanzar",
+    "curso": "1° básico",
+    "folder": "01_primero_basico",
+    "path": "01_primero_basico/010_suma_como_avanzar.md",
+    "categoria": "operaciones_basicas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_1b_011_resta_como_quitar",
+    "titulo": "Resta como quitar",
+    "curso": "1° básico",
+    "folder": "01_primero_basico",
+    "path": "01_primero_basico/011_resta_como_quitar.md",
+    "categoria": "operaciones_basicas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_1b_012_resta_como_comparar",
+    "titulo": "Resta como comparar",
+    "curso": "1° básico",
+    "folder": "01_primero_basico",
+    "path": "01_primero_basico/012_resta_como_comparar.md",
+    "categoria": "operaciones_basicas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_1b_013_problemas_de_suma",
+    "titulo": "Problemas de suma",
+    "curso": "1° básico",
+    "folder": "01_primero_basico",
+    "path": "01_primero_basico/013_problemas_de_suma.md",
+    "categoria": "operaciones_basicas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_1b_014_problemas_de_resta",
+    "titulo": "Problemas de resta",
+    "curso": "1° básico",
+    "folder": "01_primero_basico",
+    "path": "01_primero_basico/014_problemas_de_resta.md",
+    "categoria": "operaciones_basicas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_1b_015_dobles",
+    "titulo": "Dobles",
+    "curso": "1° básico",
+    "folder": "01_primero_basico",
+    "path": "01_primero_basico/015_dobles.md",
+    "categoria": "resolucion_de_problemas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_1b_016_mitades_simples",
+    "titulo": "Mitades simples",
+    "curso": "1° básico",
+    "folder": "01_primero_basico",
+    "path": "01_primero_basico/016_mitades_simples.md",
+    "categoria": "resolucion_de_problemas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_1b_017_calculo_mental_inicial",
+    "titulo": "Cálculo mental inicial",
+    "curso": "1° básico",
+    "folder": "01_primero_basico",
+    "path": "01_primero_basico/017_calculo_mental_inicial.md",
+    "categoria": "resolucion_de_problemas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_1b_018_uso_de_monedas_inicial",
+    "titulo": "Uso de monedas inicial",
+    "curso": "1° básico",
+    "folder": "01_primero_basico",
+    "path": "01_primero_basico/018_uso_de_monedas_inicial.md",
+    "categoria": "resolucion_de_problemas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_1b_019_secuencias_numericas",
+    "titulo": "Secuencias numéricas",
+    "curso": "1° básico",
+    "folder": "01_primero_basico",
+    "path": "01_primero_basico/019_secuencias_numericas.md",
+    "categoria": "resolucion_de_problemas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_1b_020_problemas_cotidianos",
+    "titulo": "Problemas cotidianos",
+    "curso": "1° básico",
+    "folder": "01_primero_basico",
+    "path": "01_primero_basico/020_problemas_cotidianos.md",
+    "categoria": "resolucion_de_problemas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_2b_001_conteo_hasta_1000",
+    "titulo": "Conteo hasta 1000",
+    "curso": "2° básico",
+    "folder": "02_segundo_basico",
+    "path": "02_segundo_basico/001_conteo_hasta_1000.md",
+    "categoria": "conjuntos_numericos",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_2b_002_centenas_decenas_y_unidades",
+    "titulo": "Centenas decenas y unidades",
+    "curso": "2° básico",
+    "folder": "02_segundo_basico",
+    "path": "02_segundo_basico/002_centenas_decenas_y_unidades.md",
+    "categoria": "resolucion_de_problemas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_2b_003_comparar_hasta_1000",
+    "titulo": "Comparar hasta 1000",
+    "curso": "2° básico",
+    "folder": "02_segundo_basico",
+    "path": "02_segundo_basico/003_comparar_hasta_1000.md",
+    "categoria": "resolucion_de_problemas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_2b_004_ordenar_hasta_1000",
+    "titulo": "Ordenar hasta 1000",
+    "curso": "2° básico",
+    "folder": "02_segundo_basico",
+    "path": "02_segundo_basico/004_ordenar_hasta_1000.md",
+    "categoria": "resolucion_de_problemas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_2b_005_composicion_aditiva",
+    "titulo": "Composición aditiva",
+    "curso": "2° básico",
+    "folder": "02_segundo_basico",
+    "path": "02_segundo_basico/005_composicion_aditiva.md",
+    "categoria": "resolucion_de_problemas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_2b_006_suma_sin_reserva",
+    "titulo": "Suma sin reserva",
+    "curso": "2° básico",
+    "folder": "02_segundo_basico",
+    "path": "02_segundo_basico/006_suma_sin_reserva.md",
+    "categoria": "operaciones_basicas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_2b_007_suma_con_reserva",
+    "titulo": "Suma con reserva",
+    "curso": "2° básico",
+    "folder": "02_segundo_basico",
+    "path": "02_segundo_basico/007_suma_con_reserva.md",
+    "categoria": "operaciones_basicas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_2b_008_resta_sin_canje",
+    "titulo": "Resta sin canje",
+    "curso": "2° básico",
+    "folder": "02_segundo_basico",
+    "path": "02_segundo_basico/008_resta_sin_canje.md",
+    "categoria": "operaciones_basicas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_2b_009_resta_con_canje",
+    "titulo": "Resta con canje",
+    "curso": "2° básico",
+    "folder": "02_segundo_basico",
+    "path": "02_segundo_basico/009_resta_con_canje.md",
+    "categoria": "operaciones_basicas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_2b_010_problemas_de_dos_pasos_iniciales",
+    "titulo": "Problemas de dos pasos iniciales",
+    "curso": "2° básico",
+    "folder": "02_segundo_basico",
+    "path": "02_segundo_basico/010_problemas_de_dos_pasos_iniciales.md",
+    "categoria": "resolucion_de_problemas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_2b_011_multiplicacion_como_suma_repetida",
+    "titulo": "Multiplicación como suma repetida",
+    "curso": "2° básico",
+    "folder": "02_segundo_basico",
+    "path": "02_segundo_basico/011_multiplicacion_como_suma_repetida.md",
+    "categoria": "operaciones_basicas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_2b_012_arreglos_rectangulares",
+    "titulo": "Arreglos rectangulares",
+    "curso": "2° básico",
+    "folder": "02_segundo_basico",
+    "path": "02_segundo_basico/012_arreglos_rectangulares.md",
+    "categoria": "resolucion_de_problemas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_2b_013_tablas_del_2_5_y_10",
+    "titulo": "Tablas del 2 5 y 10",
+    "curso": "2° básico",
+    "folder": "02_segundo_basico",
+    "path": "02_segundo_basico/013_tablas_del_2_5_y_10.md",
+    "categoria": "resolucion_de_problemas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_2b_014_division_como_reparto",
+    "titulo": "División como reparto",
+    "curso": "2° básico",
+    "folder": "02_segundo_basico",
+    "path": "02_segundo_basico/014_division_como_reparto.md",
+    "categoria": "operaciones_basicas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_2b_015_division_como_agrupacion",
+    "titulo": "División como agrupación",
+    "curso": "2° básico",
+    "folder": "02_segundo_basico",
+    "path": "02_segundo_basico/015_division_como_agrupacion.md",
+    "categoria": "operaciones_basicas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_2b_016_mitad_tercio_y_cuarto",
+    "titulo": "Mitad tercio y cuarto",
+    "curso": "2° básico",
+    "folder": "02_segundo_basico",
+    "path": "02_segundo_basico/016_mitad_tercio_y_cuarto.md",
+    "categoria": "resolucion_de_problemas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_2b_017_dinero_y_cambio",
+    "titulo": "Dinero y cambio",
+    "curso": "2° básico",
+    "folder": "02_segundo_basico",
+    "path": "02_segundo_basico/017_dinero_y_cambio.md",
+    "categoria": "aritmetica_financiera",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_2b_018_estimacion_inicial",
+    "titulo": "Estimación inicial",
+    "curso": "2° básico",
+    "folder": "02_segundo_basico",
+    "path": "02_segundo_basico/018_estimacion_inicial.md",
+    "categoria": "resolucion_de_problemas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_2b_019_calculo_mental",
+    "titulo": "Cálculo mental",
+    "curso": "2° básico",
+    "folder": "02_segundo_basico",
+    "path": "02_segundo_basico/019_calculo_mental.md",
+    "categoria": "resolucion_de_problemas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_2b_020_problemas_cotidianos",
+    "titulo": "Problemas cotidianos",
+    "curso": "2° básico",
+    "folder": "02_segundo_basico",
+    "path": "02_segundo_basico/020_problemas_cotidianos.md",
+    "categoria": "resolucion_de_problemas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_3b_001_numeros_hasta_10000",
+    "titulo": "Números hasta 10000",
+    "curso": "3° básico",
+    "folder": "03_tercero_basico",
+    "path": "03_tercero_basico/001_numeros_hasta_10000.md",
+    "categoria": "resolucion_de_problemas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_3b_002_valor_posicional",
+    "titulo": "Valor posicional",
+    "curso": "3° básico",
+    "folder": "03_tercero_basico",
+    "path": "03_tercero_basico/002_valor_posicional.md",
+    "categoria": "conjuntos_numericos",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_3b_003_redondeo_inicial",
+    "titulo": "Redondeo inicial",
+    "curso": "3° básico",
+    "folder": "03_tercero_basico",
+    "path": "03_tercero_basico/003_redondeo_inicial.md",
+    "categoria": "resolucion_de_problemas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_3b_004_suma_y_resta_hasta_10000",
+    "titulo": "Suma y resta hasta 10000",
+    "curso": "3° básico",
+    "folder": "03_tercero_basico",
+    "path": "03_tercero_basico/004_suma_y_resta_hasta_10000.md",
+    "categoria": "operaciones_basicas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_3b_005_multiplicacion_por_una_cifra",
+    "titulo": "Multiplicación por una cifra",
+    "curso": "3° básico",
+    "folder": "03_tercero_basico",
+    "path": "03_tercero_basico/005_multiplicacion_por_una_cifra.md",
+    "categoria": "operaciones_basicas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_3b_006_division_con_resto_inicial",
+    "titulo": "División con resto inicial",
+    "curso": "3° básico",
+    "folder": "03_tercero_basico",
+    "path": "03_tercero_basico/006_division_con_resto_inicial.md",
+    "categoria": "operaciones_basicas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_3b_007_tablas_de_multiplicar",
+    "titulo": "Tablas de multiplicar",
+    "curso": "3° básico",
+    "folder": "03_tercero_basico",
+    "path": "03_tercero_basico/007_tablas_de_multiplicar.md",
+    "categoria": "operaciones_basicas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_3b_008_propiedad_conmutativa",
+    "titulo": "Propiedad conmutativa",
+    "curso": "3° básico",
+    "folder": "03_tercero_basico",
+    "path": "03_tercero_basico/008_propiedad_conmutativa.md",
+    "categoria": "resolucion_de_problemas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_3b_009_propiedad_distributiva_inicial",
+    "titulo": "Propiedad distributiva inicial",
+    "curso": "3° básico",
+    "folder": "03_tercero_basico",
+    "path": "03_tercero_basico/009_propiedad_distributiva_inicial.md",
+    "categoria": "resolucion_de_problemas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_3b_010_problemas_de_multiplicacion",
+    "titulo": "Problemas de multiplicación",
+    "curso": "3° básico",
+    "folder": "03_tercero_basico",
+    "path": "03_tercero_basico/010_problemas_de_multiplicacion.md",
+    "categoria": "operaciones_basicas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_3b_011_problemas_de_division",
+    "titulo": "Problemas de división",
+    "curso": "3° básico",
+    "folder": "03_tercero_basico",
+    "path": "03_tercero_basico/011_problemas_de_division.md",
+    "categoria": "operaciones_basicas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_3b_012_fracciones_como_parte_de_un_todo",
+    "titulo": "Fracciones como parte de un todo",
+    "curso": "3° básico",
+    "folder": "03_tercero_basico",
+    "path": "03_tercero_basico/012_fracciones_como_parte_de_un_todo.md",
+    "categoria": "resolucion_de_problemas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_3b_013_fracciones_unitarias",
+    "titulo": "Fracciones unitarias",
+    "curso": "3° básico",
+    "folder": "03_tercero_basico",
+    "path": "03_tercero_basico/013_fracciones_unitarias.md",
+    "categoria": "resolucion_de_problemas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_3b_014_comparar_fracciones_simples",
+    "titulo": "Comparar fracciones simples",
+    "curso": "3° básico",
+    "folder": "03_tercero_basico",
+    "path": "03_tercero_basico/014_comparar_fracciones_simples.md",
+    "categoria": "resolucion_de_problemas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_3b_015_fraccion_de_una_coleccion",
+    "titulo": "Fracción de una colección",
+    "curso": "3° básico",
+    "folder": "03_tercero_basico",
+    "path": "03_tercero_basico/015_fraccion_de_una_coleccion.md",
+    "categoria": "racionales_proporcionalidad",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_3b_016_decimales_iniciales_en_dinero",
+    "titulo": "Decimales iniciales en dinero",
+    "curso": "3° básico",
+    "folder": "03_tercero_basico",
+    "path": "03_tercero_basico/016_decimales_iniciales_en_dinero.md",
+    "categoria": "racionales_proporcionalidad",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_3b_017_multiplos_iniciales",
+    "titulo": "Múltiplos iniciales",
+    "curso": "3° básico",
+    "folder": "03_tercero_basico",
+    "path": "03_tercero_basico/017_multiplos_iniciales.md",
+    "categoria": "divisibilidad",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_3b_018_patrones_numericos",
+    "titulo": "Patrones numéricos",
+    "curso": "3° básico",
+    "folder": "03_tercero_basico",
+    "path": "03_tercero_basico/018_patrones_numericos.md",
+    "categoria": "resolucion_de_problemas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_3b_019_estimacion",
+    "titulo": "Estimación",
+    "curso": "3° básico",
+    "folder": "03_tercero_basico",
+    "path": "03_tercero_basico/019_estimacion.md",
+    "categoria": "resolucion_de_problemas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_3b_020_problemas_de_la_vida_diaria",
+    "titulo": "Problemas de la vida diaria",
+    "curso": "3° básico",
+    "folder": "03_tercero_basico",
+    "path": "03_tercero_basico/020_problemas_de_la_vida_diaria.md",
+    "categoria": "resolucion_de_problemas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_4b_001_numeros_hasta_un_millon",
+    "titulo": "Números hasta un millón",
+    "curso": "4° básico",
+    "folder": "04_cuarto_basico",
+    "path": "04_cuarto_basico/001_numeros_hasta_un_millon.md",
+    "categoria": "resolucion_de_problemas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_4b_002_valor_posicional_ampliado",
+    "titulo": "Valor posicional ampliado",
+    "curso": "4° básico",
+    "folder": "04_cuarto_basico",
+    "path": "04_cuarto_basico/002_valor_posicional_ampliado.md",
+    "categoria": "conjuntos_numericos",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_4b_003_redondeo",
+    "titulo": "Redondeo",
+    "curso": "4° básico",
+    "folder": "04_cuarto_basico",
+    "path": "04_cuarto_basico/003_redondeo.md",
+    "categoria": "resolucion_de_problemas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_4b_004_estimacion_de_sumas_y_restas",
+    "titulo": "Estimación de sumas y restas",
+    "curso": "4° básico",
+    "folder": "04_cuarto_basico",
+    "path": "04_cuarto_basico/004_estimacion_de_sumas_y_restas.md",
+    "categoria": "operaciones_basicas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_4b_005_adicion_y_sustraccion",
+    "titulo": "Adición y sustracción",
+    "curso": "4° básico",
+    "folder": "04_cuarto_basico",
+    "path": "04_cuarto_basico/005_adicion_y_sustraccion.md",
+    "categoria": "resolucion_de_problemas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_4b_006_multiplicacion_por_dos_cifras",
+    "titulo": "Multiplicación por dos cifras",
+    "curso": "4° básico",
+    "folder": "04_cuarto_basico",
+    "path": "04_cuarto_basico/006_multiplicacion_por_dos_cifras.md",
+    "categoria": "operaciones_basicas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_4b_007_division_por_una_cifra",
+    "titulo": "División por una cifra",
+    "curso": "4° básico",
+    "folder": "04_cuarto_basico",
+    "path": "04_cuarto_basico/007_division_por_una_cifra.md",
+    "categoria": "operaciones_basicas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_4b_008_jerarquia_simple_de_operaciones",
+    "titulo": "Jerarquía simple de operaciones",
+    "curso": "4° básico",
+    "folder": "04_cuarto_basico",
+    "path": "04_cuarto_basico/008_jerarquia_simple_de_operaciones.md",
+    "categoria": "operaciones_basicas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_4b_009_problemas_de_varios_pasos",
+    "titulo": "Problemas de varios pasos",
+    "curso": "4° básico",
+    "folder": "04_cuarto_basico",
+    "path": "04_cuarto_basico/009_problemas_de_varios_pasos.md",
+    "categoria": "resolucion_de_problemas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_4b_010_multiplos",
+    "titulo": "Múltiplos",
+    "curso": "4° básico",
+    "folder": "04_cuarto_basico",
+    "path": "04_cuarto_basico/010_multiplos.md",
+    "categoria": "divisibilidad",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_4b_011_divisores",
+    "titulo": "Divisores",
+    "curso": "4° básico",
+    "folder": "04_cuarto_basico",
+    "path": "04_cuarto_basico/011_divisores.md",
+    "categoria": "divisibilidad",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_4b_012_numeros_primos_iniciales",
+    "titulo": "Números primos iniciales",
+    "curso": "4° básico",
+    "folder": "04_cuarto_basico",
+    "path": "04_cuarto_basico/012_numeros_primos_iniciales.md",
+    "categoria": "divisibilidad",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_4b_013_fracciones_equivalentes_iniciales",
+    "titulo": "Fracciones equivalentes iniciales",
+    "curso": "4° básico",
+    "folder": "04_cuarto_basico",
+    "path": "04_cuarto_basico/013_fracciones_equivalentes_iniciales.md",
+    "categoria": "resolucion_de_problemas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_4b_014_comparacion_de_fracciones",
+    "titulo": "Comparación de fracciones",
+    "curso": "4° básico",
+    "folder": "04_cuarto_basico",
+    "path": "04_cuarto_basico/014_comparacion_de_fracciones.md",
+    "categoria": "resolucion_de_problemas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_4b_015_suma_de_fracciones_iguales_denominadores",
+    "titulo": "Suma de fracciones iguales denominadores",
+    "curso": "4° básico",
+    "folder": "04_cuarto_basico",
+    "path": "04_cuarto_basico/015_suma_de_fracciones_iguales_denominadores.md",
+    "categoria": "operaciones_basicas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_4b_016_resta_de_fracciones_iguales_denominadores",
+    "titulo": "Resta de fracciones iguales denominadores",
+    "curso": "4° básico",
+    "folder": "04_cuarto_basico",
+    "path": "04_cuarto_basico/016_resta_de_fracciones_iguales_denominadores.md",
+    "categoria": "operaciones_basicas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_4b_017_decimales_hasta_centesimas",
+    "titulo": "Decimales hasta centésimas",
+    "curso": "4° básico",
+    "folder": "04_cuarto_basico",
+    "path": "04_cuarto_basico/017_decimales_hasta_centesimas.md",
+    "categoria": "racionales_proporcionalidad",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_4b_018_operaciones_con_dinero",
+    "titulo": "Operaciones con dinero",
+    "curso": "4° básico",
+    "folder": "04_cuarto_basico",
+    "path": "04_cuarto_basico/018_operaciones_con_dinero.md",
+    "categoria": "operaciones_basicas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_4b_019_porcentajes_intuitivos",
+    "titulo": "Porcentajes intuitivos",
+    "curso": "4° básico",
+    "folder": "04_cuarto_basico",
+    "path": "04_cuarto_basico/019_porcentajes_intuitivos.md",
+    "categoria": "racionales_proporcionalidad",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_4b_020_problemas_cotidianos",
+    "titulo": "Problemas cotidianos",
+    "curso": "4° básico",
+    "folder": "04_cuarto_basico",
+    "path": "04_cuarto_basico/020_problemas_cotidianos.md",
+    "categoria": "resolucion_de_problemas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_5b_001_numeros_naturales_grandes",
+    "titulo": "Números naturales grandes",
+    "curso": "5° básico",
+    "folder": "05_quinto_basico",
+    "path": "05_quinto_basico/001_numeros_naturales_grandes.md",
+    "categoria": "conjuntos_numericos",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_5b_002_operaciones_combinadas",
+    "titulo": "Operaciones combinadas",
+    "curso": "5° básico",
+    "folder": "05_quinto_basico",
+    "path": "05_quinto_basico/002_operaciones_combinadas.md",
+    "categoria": "operaciones_basicas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_5b_003_multiplos_y_divisores",
+    "titulo": "Múltiplos y divisores",
+    "curso": "5° básico",
+    "folder": "05_quinto_basico",
+    "path": "05_quinto_basico/003_multiplos_y_divisores.md",
+    "categoria": "divisibilidad",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_5b_004_criterios_de_divisibilidad",
+    "titulo": "Criterios de divisibilidad",
+    "curso": "5° básico",
+    "folder": "05_quinto_basico",
+    "path": "05_quinto_basico/004_criterios_de_divisibilidad.md",
+    "categoria": "resolucion_de_problemas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_5b_005_numeros_primos_y_compuestos",
+    "titulo": "Números primos y compuestos",
+    "curso": "5° básico",
+    "folder": "05_quinto_basico",
+    "path": "05_quinto_basico/005_numeros_primos_y_compuestos.md",
+    "categoria": "divisibilidad",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_5b_006_descomposicion_en_factores_primos",
+    "titulo": "Descomposición en factores primos",
+    "curso": "5° básico",
+    "folder": "05_quinto_basico",
+    "path": "05_quinto_basico/006_descomposicion_en_factores_primos.md",
+    "categoria": "divisibilidad",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_5b_007_minimo_comun_multiplo_inicial",
+    "titulo": "Mínimo común múltiplo inicial",
+    "curso": "5° básico",
+    "folder": "05_quinto_basico",
+    "path": "05_quinto_basico/007_minimo_comun_multiplo_inicial.md",
+    "categoria": "divisibilidad",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_5b_008_maximo_comun_divisor_inicial",
+    "titulo": "Máximo común divisor inicial",
+    "curso": "5° básico",
+    "folder": "05_quinto_basico",
+    "path": "05_quinto_basico/008_maximo_comun_divisor_inicial.md",
+    "categoria": "divisibilidad",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_5b_009_fracciones_propias",
+    "titulo": "Fracciones propias",
+    "curso": "5° básico",
+    "folder": "05_quinto_basico",
+    "path": "05_quinto_basico/009_fracciones_propias.md",
+    "categoria": "resolucion_de_problemas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_5b_010_fracciones_impropias",
+    "titulo": "Fracciones impropias",
+    "curso": "5° básico",
+    "folder": "05_quinto_basico",
+    "path": "05_quinto_basico/010_fracciones_impropias.md",
+    "categoria": "resolucion_de_problemas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_5b_011_numeros_mixtos",
+    "titulo": "Números mixtos",
+    "curso": "5° básico",
+    "folder": "05_quinto_basico",
+    "path": "05_quinto_basico/011_numeros_mixtos.md",
+    "categoria": "resolucion_de_problemas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_5b_012_fracciones_equivalentes",
+    "titulo": "Fracciones equivalentes",
+    "curso": "5° básico",
+    "folder": "05_quinto_basico",
+    "path": "05_quinto_basico/012_fracciones_equivalentes.md",
+    "categoria": "resolucion_de_problemas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_5b_013_suma_de_fracciones",
+    "titulo": "Suma de fracciones",
+    "curso": "5° básico",
+    "folder": "05_quinto_basico",
+    "path": "05_quinto_basico/013_suma_de_fracciones.md",
+    "categoria": "operaciones_basicas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_5b_014_resta_de_fracciones",
+    "titulo": "Resta de fracciones",
+    "curso": "5° básico",
+    "folder": "05_quinto_basico",
+    "path": "05_quinto_basico/014_resta_de_fracciones.md",
+    "categoria": "operaciones_basicas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_5b_015_multiplicacion_de_fracciones_inicial",
+    "titulo": "Multiplicación de fracciones inicial",
+    "curso": "5° básico",
+    "folder": "05_quinto_basico",
+    "path": "05_quinto_basico/015_multiplicacion_de_fracciones_inicial.md",
+    "categoria": "operaciones_basicas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_5b_016_decimales_hasta_milesimas",
+    "titulo": "Decimales hasta milésimas",
+    "curso": "5° básico",
+    "folder": "05_quinto_basico",
+    "path": "05_quinto_basico/016_decimales_hasta_milesimas.md",
+    "categoria": "racionales_proporcionalidad",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_5b_017_suma_y_resta_de_decimales",
+    "titulo": "Suma y resta de decimales",
+    "curso": "5° básico",
+    "folder": "05_quinto_basico",
+    "path": "05_quinto_basico/017_suma_y_resta_de_decimales.md",
+    "categoria": "operaciones_basicas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_5b_018_multiplicacion_de_decimales_inicial",
+    "titulo": "Multiplicación de decimales inicial",
+    "curso": "5° básico",
+    "folder": "05_quinto_basico",
+    "path": "05_quinto_basico/018_multiplicacion_de_decimales_inicial.md",
+    "categoria": "operaciones_basicas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_5b_019_porcentajes_iniciales",
+    "titulo": "Porcentajes iniciales",
+    "curso": "5° básico",
+    "folder": "05_quinto_basico",
+    "path": "05_quinto_basico/019_porcentajes_iniciales.md",
+    "categoria": "racionales_proporcionalidad",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_5b_020_razones_iniciales",
+    "titulo": "Razones iniciales",
+    "curso": "5° básico",
+    "folder": "05_quinto_basico",
+    "path": "05_quinto_basico/020_razones_iniciales.md",
+    "categoria": "resolucion_de_problemas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_5b_021_proporciones_iniciales",
+    "titulo": "Proporciones iniciales",
+    "curso": "5° básico",
+    "folder": "05_quinto_basico",
+    "path": "05_quinto_basico/021_proporciones_iniciales.md",
+    "categoria": "resolucion_de_problemas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_5b_022_problemas_con_dinero",
+    "titulo": "Problemas con dinero",
+    "curso": "5° básico",
+    "folder": "05_quinto_basico",
+    "path": "05_quinto_basico/022_problemas_con_dinero.md",
+    "categoria": "aritmetica_financiera",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_5b_023_problemas_con_medidas",
+    "titulo": "Problemas con medidas",
+    "curso": "5° básico",
+    "folder": "05_quinto_basico",
+    "path": "05_quinto_basico/023_problemas_con_medidas.md",
+    "categoria": "resolucion_de_problemas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_5b_024_estimacion_y_comprobacion",
+    "titulo": "Estimación y comprobación",
+    "curso": "5° básico",
+    "folder": "05_quinto_basico",
+    "path": "05_quinto_basico/024_estimacion_y_comprobacion.md",
+    "categoria": "resolucion_de_problemas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_6b_001_numeros_naturales_y_enteros_iniciales",
+    "titulo": "Números naturales y enteros iniciales",
+    "curso": "6° básico",
+    "folder": "06_sexto_basico",
+    "path": "06_sexto_basico/001_numeros_naturales_y_enteros_iniciales.md",
+    "categoria": "conjuntos_numericos",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_6b_002_recta_numerica",
+    "titulo": "Recta numérica",
+    "curso": "6° básico",
+    "folder": "06_sexto_basico",
+    "path": "06_sexto_basico/002_recta_numerica.md",
+    "categoria": "resolucion_de_problemas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_6b_003_multiplos_y_factores",
+    "titulo": "Múltiplos y factores",
+    "curso": "6° básico",
+    "folder": "06_sexto_basico",
+    "path": "06_sexto_basico/003_multiplos_y_factores.md",
+    "categoria": "divisibilidad",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_6b_004_minimo_comun_multiplo",
+    "titulo": "Mínimo común múltiplo",
+    "curso": "6° básico",
+    "folder": "06_sexto_basico",
+    "path": "06_sexto_basico/004_minimo_comun_multiplo.md",
+    "categoria": "divisibilidad",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_6b_005_maximo_comun_divisor",
+    "titulo": "Máximo común divisor",
+    "curso": "6° básico",
+    "folder": "06_sexto_basico",
+    "path": "06_sexto_basico/005_maximo_comun_divisor.md",
+    "categoria": "divisibilidad",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_6b_006_fracciones_y_numeros_mixtos",
+    "titulo": "Fracciones y números mixtos",
+    "curso": "6° básico",
+    "folder": "06_sexto_basico",
+    "path": "06_sexto_basico/006_fracciones_y_numeros_mixtos.md",
+    "categoria": "resolucion_de_problemas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_6b_007_suma_y_resta_de_fracciones",
+    "titulo": "Suma y resta de fracciones",
+    "curso": "6° básico",
+    "folder": "06_sexto_basico",
+    "path": "06_sexto_basico/007_suma_y_resta_de_fracciones.md",
+    "categoria": "operaciones_basicas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_6b_008_multiplicacion_de_fracciones",
+    "titulo": "Multiplicación de fracciones",
+    "curso": "6° básico",
+    "folder": "06_sexto_basico",
+    "path": "06_sexto_basico/008_multiplicacion_de_fracciones.md",
+    "categoria": "operaciones_basicas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_6b_009_division_de_fracciones",
+    "titulo": "División de fracciones",
+    "curso": "6° básico",
+    "folder": "06_sexto_basico",
+    "path": "06_sexto_basico/009_division_de_fracciones.md",
+    "categoria": "operaciones_basicas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_6b_010_decimales_hasta_milesimas",
+    "titulo": "Decimales hasta milésimas",
+    "curso": "6° básico",
+    "folder": "06_sexto_basico",
+    "path": "06_sexto_basico/010_decimales_hasta_milesimas.md",
+    "categoria": "racionales_proporcionalidad",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_6b_011_operaciones_con_decimales",
+    "titulo": "Operaciones con decimales",
+    "curso": "6° básico",
+    "folder": "06_sexto_basico",
+    "path": "06_sexto_basico/011_operaciones_con_decimales.md",
+    "categoria": "operaciones_basicas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_6b_012_razones",
+    "titulo": "Razones",
+    "curso": "6° básico",
+    "folder": "06_sexto_basico",
+    "path": "06_sexto_basico/012_razones.md",
+    "categoria": "resolucion_de_problemas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_6b_013_tasas_unitarias",
+    "titulo": "Tasas unitarias",
+    "curso": "6° básico",
+    "folder": "06_sexto_basico",
+    "path": "06_sexto_basico/013_tasas_unitarias.md",
+    "categoria": "racionales_proporcionalidad",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_6b_014_proporciones",
+    "titulo": "Proporciones",
+    "curso": "6° básico",
+    "folder": "06_sexto_basico",
+    "path": "06_sexto_basico/014_proporciones.md",
+    "categoria": "resolucion_de_problemas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_6b_015_porcentajes",
+    "titulo": "Porcentajes",
+    "curso": "6° básico",
+    "folder": "06_sexto_basico",
+    "path": "06_sexto_basico/015_porcentajes.md",
+    "categoria": "racionales_proporcionalidad",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_6b_016_aumentos_y_descuentos",
+    "titulo": "Aumentos y descuentos",
+    "curso": "6° básico",
+    "folder": "06_sexto_basico",
+    "path": "06_sexto_basico/016_aumentos_y_descuentos.md",
+    "categoria": "resolucion_de_problemas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_6b_017_regla_de_tres_razonada",
+    "titulo": "Regla de tres razonada",
+    "curso": "6° básico",
+    "folder": "06_sexto_basico",
+    "path": "06_sexto_basico/017_regla_de_tres_razonada.md",
+    "categoria": "resolucion_de_problemas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_6b_018_potencias_de_base_natural_iniciales",
+    "titulo": "Potencias de base natural iniciales",
+    "curso": "6° básico",
+    "folder": "06_sexto_basico",
+    "path": "06_sexto_basico/018_potencias_de_base_natural_iniciales.md",
+    "categoria": "conjuntos_numericos",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_6b_019_cuadrados_perfectos_iniciales",
+    "titulo": "Cuadrados perfectos iniciales",
+    "curso": "6° básico",
+    "folder": "06_sexto_basico",
+    "path": "06_sexto_basico/019_cuadrados_perfectos_iniciales.md",
+    "categoria": "resolucion_de_problemas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_6b_020_raices_cuadradas_intuitivas",
+    "titulo": "Raíces cuadradas intuitivas",
+    "curso": "6° básico",
+    "folder": "06_sexto_basico",
+    "path": "06_sexto_basico/020_raices_cuadradas_intuitivas.md",
+    "categoria": "resolucion_de_problemas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_6b_021_problemas_de_reparto",
+    "titulo": "Problemas de reparto",
+    "curso": "6° básico",
+    "folder": "06_sexto_basico",
+    "path": "06_sexto_basico/021_problemas_de_reparto.md",
+    "categoria": "resolucion_de_problemas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_6b_022_problemas_de_consumo",
+    "titulo": "Problemas de consumo",
+    "curso": "6° básico",
+    "folder": "06_sexto_basico",
+    "path": "06_sexto_basico/022_problemas_de_consumo.md",
+    "categoria": "resolucion_de_problemas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_6b_023_problemas_de_tiempo_y_distancia",
+    "titulo": "Problemas de tiempo y distancia",
+    "curso": "6° básico",
+    "folder": "06_sexto_basico",
+    "path": "06_sexto_basico/023_problemas_de_tiempo_y_distancia.md",
+    "categoria": "resolucion_de_problemas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_6b_024_comprobacion_por_estimacion",
+    "titulo": "Comprobación por estimación",
+    "curso": "6° básico",
+    "folder": "06_sexto_basico",
+    "path": "06_sexto_basico/024_comprobacion_por_estimacion.md",
+    "categoria": "resolucion_de_problemas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_7b_001_numeros_enteros",
+    "titulo": "Números enteros",
+    "curso": "7° básico",
+    "folder": "07_septimo_basico",
+    "path": "07_septimo_basico/001_numeros_enteros.md",
+    "categoria": "conjuntos_numericos",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_7b_002_valor_absoluto",
+    "titulo": "Valor absoluto",
+    "curso": "7° básico",
+    "folder": "07_septimo_basico",
+    "path": "07_septimo_basico/002_valor_absoluto.md",
+    "categoria": "resolucion_de_problemas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_7b_003_opuestos",
+    "titulo": "Opuestos",
+    "curso": "7° básico",
+    "folder": "07_septimo_basico",
+    "path": "07_septimo_basico/003_opuestos.md",
+    "categoria": "resolucion_de_problemas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_7b_004_suma_de_enteros",
+    "titulo": "Suma de enteros",
+    "curso": "7° básico",
+    "folder": "07_septimo_basico",
+    "path": "07_septimo_basico/004_suma_de_enteros.md",
+    "categoria": "operaciones_basicas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_7b_005_resta_de_enteros",
+    "titulo": "Resta de enteros",
+    "curso": "7° básico",
+    "folder": "07_septimo_basico",
+    "path": "07_septimo_basico/005_resta_de_enteros.md",
+    "categoria": "operaciones_basicas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_7b_006_multiplicacion_de_enteros",
+    "titulo": "Multiplicación de enteros",
+    "curso": "7° básico",
+    "folder": "07_septimo_basico",
+    "path": "07_septimo_basico/006_multiplicacion_de_enteros.md",
+    "categoria": "operaciones_basicas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_7b_007_division_de_enteros",
+    "titulo": "División de enteros",
+    "curso": "7° básico",
+    "folder": "07_septimo_basico",
+    "path": "07_septimo_basico/007_division_de_enteros.md",
+    "categoria": "operaciones_basicas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_7b_008_problemas_con_temperatura_y_altura",
+    "titulo": "Problemas con temperatura y altura",
+    "curso": "7° básico",
+    "folder": "07_septimo_basico",
+    "path": "07_septimo_basico/008_problemas_con_temperatura_y_altura.md",
+    "categoria": "resolucion_de_problemas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_7b_009_numeros_racionales_positivos",
+    "titulo": "Números racionales positivos",
+    "curso": "7° básico",
+    "folder": "07_septimo_basico",
+    "path": "07_septimo_basico/009_numeros_racionales_positivos.md",
+    "categoria": "conjuntos_numericos",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_7b_010_multiplicacion_de_fracciones",
+    "titulo": "Multiplicación de fracciones",
+    "curso": "7° básico",
+    "folder": "07_septimo_basico",
+    "path": "07_septimo_basico/010_multiplicacion_de_fracciones.md",
+    "categoria": "operaciones_basicas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_7b_011_division_de_fracciones",
+    "titulo": "División de fracciones",
+    "curso": "7° básico",
+    "folder": "07_septimo_basico",
+    "path": "07_septimo_basico/011_division_de_fracciones.md",
+    "categoria": "operaciones_basicas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_7b_012_operaciones_con_decimales",
+    "titulo": "Operaciones con decimales",
+    "curso": "7° básico",
+    "folder": "07_septimo_basico",
+    "path": "07_septimo_basico/012_operaciones_con_decimales.md",
+    "categoria": "operaciones_basicas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_7b_013_conversion_fraccion_decimal_porcentaje",
+    "titulo": "Conversión fracción decimal porcentaje",
+    "curso": "7° básico",
+    "folder": "07_septimo_basico",
+    "path": "07_septimo_basico/013_conversion_fraccion_decimal_porcentaje.md",
+    "categoria": "racionales_proporcionalidad",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_7b_014_porcentajes",
+    "titulo": "Porcentajes",
+    "curso": "7° básico",
+    "folder": "07_septimo_basico",
+    "path": "07_septimo_basico/014_porcentajes.md",
+    "categoria": "racionales_proporcionalidad",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_7b_015_variacion_porcentual",
+    "titulo": "Variación porcentual",
+    "curso": "7° básico",
+    "folder": "07_septimo_basico",
+    "path": "07_septimo_basico/015_variacion_porcentual.md",
+    "categoria": "resolucion_de_problemas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_7b_016_razones_y_proporciones",
+    "titulo": "Razones y proporciones",
+    "curso": "7° básico",
+    "folder": "07_septimo_basico",
+    "path": "07_septimo_basico/016_razones_y_proporciones.md",
+    "categoria": "resolucion_de_problemas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_7b_017_proporcionalidad_directa",
+    "titulo": "Proporcionalidad directa",
+    "curso": "7° básico",
+    "folder": "07_septimo_basico",
+    "path": "07_septimo_basico/017_proporcionalidad_directa.md",
+    "categoria": "resolucion_de_problemas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_7b_018_potencias_de_base_10",
+    "titulo": "Potencias de base 10",
+    "curso": "7° básico",
+    "folder": "07_septimo_basico",
+    "path": "07_septimo_basico/018_potencias_de_base_10.md",
+    "categoria": "potencias_raices",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_7b_019_notacion_cientifica_inicial",
+    "titulo": "Notación científica inicial",
+    "curso": "7° básico",
+    "folder": "07_septimo_basico",
+    "path": "07_septimo_basico/019_notacion_cientifica_inicial.md",
+    "categoria": "potencias_raices",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_7b_020_prioridad_de_operaciones",
+    "titulo": "Prioridad de operaciones",
+    "curso": "7° básico",
+    "folder": "07_septimo_basico",
+    "path": "07_septimo_basico/020_prioridad_de_operaciones.md",
+    "categoria": "operaciones_basicas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_7b_021_estimacion_con_racionales",
+    "titulo": "Estimación con racionales",
+    "curso": "7° básico",
+    "folder": "07_septimo_basico",
+    "path": "07_septimo_basico/021_estimacion_con_racionales.md",
+    "categoria": "conjuntos_numericos",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_7b_022_problemas_financieros_iniciales",
+    "titulo": "Problemas financieros iniciales",
+    "curso": "7° básico",
+    "folder": "07_septimo_basico",
+    "path": "07_septimo_basico/022_problemas_financieros_iniciales.md",
+    "categoria": "aritmetica_financiera",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_7b_023_problemas_de_escalas",
+    "titulo": "Problemas de escalas",
+    "curso": "7° básico",
+    "folder": "07_septimo_basico",
+    "path": "07_septimo_basico/023_problemas_de_escalas.md",
+    "categoria": "resolucion_de_problemas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_7b_024_estrategias_de_calculo",
+    "titulo": "Estrategias de cálculo",
+    "curso": "7° básico",
+    "folder": "07_septimo_basico",
+    "path": "07_septimo_basico/024_estrategias_de_calculo.md",
+    "categoria": "resolucion_de_problemas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_8b_001_numeros_racionales",
+    "titulo": "Números racionales",
+    "curso": "8° básico",
+    "folder": "08_octavo_basico",
+    "path": "08_octavo_basico/001_numeros_racionales.md",
+    "categoria": "conjuntos_numericos",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_8b_002_operaciones_con_racionales",
+    "titulo": "Operaciones con racionales",
+    "curso": "8° básico",
+    "folder": "08_octavo_basico",
+    "path": "08_octavo_basico/002_operaciones_con_racionales.md",
+    "categoria": "operaciones_basicas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_8b_003_recta_numerica_racional",
+    "titulo": "Recta numérica racional",
+    "curso": "8° básico",
+    "folder": "08_octavo_basico",
+    "path": "08_octavo_basico/003_recta_numerica_racional.md",
+    "categoria": "conjuntos_numericos",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_8b_004_potencias_de_base_racional",
+    "titulo": "Potencias de base racional",
+    "curso": "8° básico",
+    "folder": "08_octavo_basico",
+    "path": "08_octavo_basico/004_potencias_de_base_racional.md",
+    "categoria": "conjuntos_numericos",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_8b_005_leyes_de_potencias",
+    "titulo": "Leyes de potencias",
+    "curso": "8° básico",
+    "folder": "08_octavo_basico",
+    "path": "08_octavo_basico/005_leyes_de_potencias.md",
+    "categoria": "potencias_raices",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_8b_006_raices_cuadradas",
+    "titulo": "Raíces cuadradas",
+    "curso": "8° básico",
+    "folder": "08_octavo_basico",
+    "path": "08_octavo_basico/006_raices_cuadradas.md",
+    "categoria": "resolucion_de_problemas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_8b_007_raiz_como_operacion_inversa",
+    "titulo": "Raíz como operación inversa",
+    "curso": "8° básico",
+    "folder": "08_octavo_basico",
+    "path": "08_octavo_basico/007_raiz_como_operacion_inversa.md",
+    "categoria": "potencias_raices",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_8b_008_aproximacion_de_raices",
+    "titulo": "Aproximación de raíces",
+    "curso": "8° básico",
+    "folder": "08_octavo_basico",
+    "path": "08_octavo_basico/008_aproximacion_de_raices.md",
+    "categoria": "resolucion_de_problemas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_8b_009_notacion_cientifica",
+    "titulo": "Notación científica",
+    "curso": "8° básico",
+    "folder": "08_octavo_basico",
+    "path": "08_octavo_basico/009_notacion_cientifica.md",
+    "categoria": "potencias_raices",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_8b_010_orden_de_magnitud",
+    "titulo": "Orden de magnitud",
+    "curso": "8° básico",
+    "folder": "08_octavo_basico",
+    "path": "08_octavo_basico/010_orden_de_magnitud.md",
+    "categoria": "resolucion_de_problemas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_8b_011_porcentajes_sucesivos",
+    "titulo": "Porcentajes sucesivos",
+    "curso": "8° básico",
+    "folder": "08_octavo_basico",
+    "path": "08_octavo_basico/011_porcentajes_sucesivos.md",
+    "categoria": "racionales_proporcionalidad",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_8b_012_interes_simple",
+    "titulo": "Interés simple",
+    "curso": "8° básico",
+    "folder": "08_octavo_basico",
+    "path": "08_octavo_basico/012_interes_simple.md",
+    "categoria": "aritmetica_financiera",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_8b_013_razones_y_tasas",
+    "titulo": "Razones y tasas",
+    "curso": "8° básico",
+    "folder": "08_octavo_basico",
+    "path": "08_octavo_basico/013_razones_y_tasas.md",
+    "categoria": "racionales_proporcionalidad",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_8b_014_proporcionalidad_inversa",
+    "titulo": "Proporcionalidad inversa",
+    "curso": "8° básico",
+    "folder": "08_octavo_basico",
+    "path": "08_octavo_basico/014_proporcionalidad_inversa.md",
+    "categoria": "resolucion_de_problemas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_8b_015_problemas_de_velocidad",
+    "titulo": "Problemas de velocidad",
+    "curso": "8° básico",
+    "folder": "08_octavo_basico",
+    "path": "08_octavo_basico/015_problemas_de_velocidad.md",
+    "categoria": "resolucion_de_problemas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_8b_016_problemas_de_densidad",
+    "titulo": "Problemas de densidad",
+    "curso": "8° básico",
+    "folder": "08_octavo_basico",
+    "path": "08_octavo_basico/016_problemas_de_densidad.md",
+    "categoria": "resolucion_de_problemas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_8b_017_problemas_de_consumo",
+    "titulo": "Problemas de consumo",
+    "curso": "8° básico",
+    "folder": "08_octavo_basico",
+    "path": "08_octavo_basico/017_problemas_de_consumo.md",
+    "categoria": "resolucion_de_problemas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_8b_018_fracciones_complejas_iniciales",
+    "titulo": "Fracciones complejas iniciales",
+    "curso": "8° básico",
+    "folder": "08_octavo_basico",
+    "path": "08_octavo_basico/018_fracciones_complejas_iniciales.md",
+    "categoria": "resolucion_de_problemas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_8b_019_operaciones_combinadas",
+    "titulo": "Operaciones combinadas",
+    "curso": "8° básico",
+    "folder": "08_octavo_basico",
+    "path": "08_octavo_basico/019_operaciones_combinadas.md",
+    "categoria": "operaciones_basicas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_8b_020_error_absoluto_inicial",
+    "titulo": "Error absoluto inicial",
+    "curso": "8° básico",
+    "folder": "08_octavo_basico",
+    "path": "08_octavo_basico/020_error_absoluto_inicial.md",
+    "categoria": "resolucion_de_problemas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_8b_021_error_relativo_inicial",
+    "titulo": "Error relativo inicial",
+    "curso": "8° básico",
+    "folder": "08_octavo_basico",
+    "path": "08_octavo_basico/021_error_relativo_inicial.md",
+    "categoria": "resolucion_de_problemas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_8b_022_estimacion_y_redondeo",
+    "titulo": "Estimación y redondeo",
+    "curso": "8° básico",
+    "folder": "08_octavo_basico",
+    "path": "08_octavo_basico/022_estimacion_y_redondeo.md",
+    "categoria": "resolucion_de_problemas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_8b_023_uso_responsable_de_calculadora",
+    "titulo": "Uso responsable de calculadora",
+    "curso": "8° básico",
+    "folder": "08_octavo_basico",
+    "path": "08_octavo_basico/023_uso_responsable_de_calculadora.md",
+    "categoria": "resolucion_de_problemas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_8b_024_problemas_de_vida_diaria",
+    "titulo": "Problemas de vida diaria",
+    "curso": "8° básico",
+    "folder": "08_octavo_basico",
+    "path": "08_octavo_basico/024_problemas_de_vida_diaria.md",
+    "categoria": "resolucion_de_problemas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_1m_001_numeros_racionales",
+    "titulo": "Números racionales",
+    "curso": "1° medio",
+    "folder": "09_primero_medio",
+    "path": "09_primero_medio/001_numeros_racionales.md",
+    "categoria": "conjuntos_numericos",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_1m_002_operaciones_simbolicas_con_racionales",
+    "titulo": "Operaciones simbólicas con racionales",
+    "curso": "1° medio",
+    "folder": "09_primero_medio",
+    "path": "09_primero_medio/002_operaciones_simbolicas_con_racionales.md",
+    "categoria": "operaciones_basicas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_1m_003_numeros_irracionales",
+    "titulo": "Números irracionales",
+    "curso": "1° medio",
+    "folder": "09_primero_medio",
+    "path": "09_primero_medio/003_numeros_irracionales.md",
+    "categoria": "conjuntos_numericos",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_1m_004_numeros_reales",
+    "titulo": "Números reales",
+    "curso": "1° medio",
+    "folder": "09_primero_medio",
+    "path": "09_primero_medio/004_numeros_reales.md",
+    "categoria": "conjuntos_numericos",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_1m_005_orden_en_los_reales",
+    "titulo": "Orden en los reales",
+    "curso": "1° medio",
+    "folder": "09_primero_medio",
+    "path": "09_primero_medio/005_orden_en_los_reales.md",
+    "categoria": "conjuntos_numericos",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_1m_006_intervalos_iniciales",
+    "titulo": "Intervalos iniciales",
+    "curso": "1° medio",
+    "folder": "09_primero_medio",
+    "path": "09_primero_medio/006_intervalos_iniciales.md",
+    "categoria": "resolucion_de_problemas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_1m_007_potencias_de_base_racional",
+    "titulo": "Potencias de base racional",
+    "curso": "1° medio",
+    "folder": "09_primero_medio",
+    "path": "09_primero_medio/007_potencias_de_base_racional.md",
+    "categoria": "conjuntos_numericos",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_1m_008_exponentes_enteros",
+    "titulo": "Exponentes enteros",
+    "curso": "1° medio",
+    "folder": "09_primero_medio",
+    "path": "09_primero_medio/008_exponentes_enteros.md",
+    "categoria": "conjuntos_numericos",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_1m_009_leyes_de_potencias",
+    "titulo": "Leyes de potencias",
+    "curso": "1° medio",
+    "folder": "09_primero_medio",
+    "path": "09_primero_medio/009_leyes_de_potencias.md",
+    "categoria": "potencias_raices",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_1m_010_raices_enesimas_iniciales",
+    "titulo": "Raíces enésimas iniciales",
+    "curso": "1° medio",
+    "folder": "09_primero_medio",
+    "path": "09_primero_medio/010_raices_enesimas_iniciales.md",
+    "categoria": "resolucion_de_problemas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_1m_011_radicales",
+    "titulo": "Radicales",
+    "curso": "1° medio",
+    "folder": "09_primero_medio",
+    "path": "09_primero_medio/011_radicales.md",
+    "categoria": "potencias_raices",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_1m_012_simplificacion_de_radicales",
+    "titulo": "Simplificación de radicales",
+    "curso": "1° medio",
+    "folder": "09_primero_medio",
+    "path": "09_primero_medio/012_simplificacion_de_radicales.md",
+    "categoria": "potencias_raices",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_1m_013_operaciones_con_radicales",
+    "titulo": "Operaciones con radicales",
+    "curso": "1° medio",
+    "folder": "09_primero_medio",
+    "path": "09_primero_medio/013_operaciones_con_radicales.md",
+    "categoria": "operaciones_basicas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_1m_014_notacion_cientifica_avanzada",
+    "titulo": "Notación científica avanzada",
+    "curso": "1° medio",
+    "folder": "09_primero_medio",
+    "path": "09_primero_medio/014_notacion_cientifica_avanzada.md",
+    "categoria": "potencias_raices",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_1m_015_porcentajes_compuestos",
+    "titulo": "Porcentajes compuestos",
+    "curso": "1° medio",
+    "folder": "09_primero_medio",
+    "path": "09_primero_medio/015_porcentajes_compuestos.md",
+    "categoria": "racionales_proporcionalidad",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_1m_016_crecimiento_porcentual",
+    "titulo": "Crecimiento porcentual",
+    "curso": "1° medio",
+    "folder": "09_primero_medio",
+    "path": "09_primero_medio/016_crecimiento_porcentual.md",
+    "categoria": "resolucion_de_problemas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_1m_017_interes_compuesto",
+    "titulo": "Interés compuesto",
+    "curso": "1° medio",
+    "folder": "09_primero_medio",
+    "path": "09_primero_medio/017_interes_compuesto.md",
+    "categoria": "aritmetica_financiera",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_1m_018_indice_de_variacion",
+    "titulo": "Índice de variación",
+    "curso": "1° medio",
+    "folder": "09_primero_medio",
+    "path": "09_primero_medio/018_indice_de_variacion.md",
+    "categoria": "resolucion_de_problemas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_1m_019_razones_y_proporcionalidad",
+    "titulo": "Razones y proporcionalidad",
+    "curso": "1° medio",
+    "folder": "09_primero_medio",
+    "path": "09_primero_medio/019_razones_y_proporcionalidad.md",
+    "categoria": "resolucion_de_problemas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_1m_020_problemas_de_mezcla",
+    "titulo": "Problemas de mezcla",
+    "curso": "1° medio",
+    "folder": "09_primero_medio",
+    "path": "09_primero_medio/020_problemas_de_mezcla.md",
+    "categoria": "resolucion_de_problemas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_1m_021_problemas_de_movimiento",
+    "titulo": "Problemas de movimiento",
+    "curso": "1° medio",
+    "folder": "09_primero_medio",
+    "path": "09_primero_medio/021_problemas_de_movimiento.md",
+    "categoria": "resolucion_de_problemas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_1m_022_problemas_financieros",
+    "titulo": "Problemas financieros",
+    "curso": "1° medio",
+    "folder": "09_primero_medio",
+    "path": "09_primero_medio/022_problemas_financieros.md",
+    "categoria": "aritmetica_financiera",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_1m_023_estimacion_de_errores",
+    "titulo": "Estimación de errores",
+    "curso": "1° medio",
+    "folder": "09_primero_medio",
+    "path": "09_primero_medio/023_estimacion_de_errores.md",
+    "categoria": "resolucion_de_problemas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_1m_024_aproximaciones",
+    "titulo": "Aproximaciones",
+    "curso": "1° medio",
+    "folder": "09_primero_medio",
+    "path": "09_primero_medio/024_aproximaciones.md",
+    "categoria": "resolucion_de_problemas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_1m_025_uso_de_calculadora_cientifica",
+    "titulo": "Uso de calculadora científica",
+    "curso": "1° medio",
+    "folder": "09_primero_medio",
+    "path": "09_primero_medio/025_uso_de_calculadora_cientifica.md",
+    "categoria": "resolucion_de_problemas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_1m_026_resolucion_paso_a_paso",
+    "titulo": "Resolución paso a paso",
+    "curso": "1° medio",
+    "folder": "09_primero_medio",
+    "path": "09_primero_medio/026_resolucion_paso_a_paso.md",
+    "categoria": "resolucion_de_problemas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_2m_001_numeros_reales_y_radicales",
+    "titulo": "Números reales y radicales",
+    "curso": "2° medio",
+    "folder": "10_segundo_medio",
+    "path": "10_segundo_medio/001_numeros_reales_y_radicales.md",
+    "categoria": "conjuntos_numericos",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_2m_002_racionalizacion_inicial",
+    "titulo": "Racionalización inicial",
+    "curso": "2° medio",
+    "folder": "10_segundo_medio",
+    "path": "10_segundo_medio/002_racionalizacion_inicial.md",
+    "categoria": "conjuntos_numericos",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_2m_003_potencias_con_exponente_racional",
+    "titulo": "Potencias con exponente racional",
+    "curso": "2° medio",
+    "folder": "10_segundo_medio",
+    "path": "10_segundo_medio/003_potencias_con_exponente_racional.md",
+    "categoria": "conjuntos_numericos",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_2m_004_logaritmos_como_inversa_de_potencias",
+    "titulo": "Logaritmos como inversa de potencias",
+    "curso": "2° medio",
+    "folder": "10_segundo_medio",
+    "path": "10_segundo_medio/004_logaritmos_como_inversa_de_potencias.md",
+    "categoria": "potencias_raices",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_2m_005_propiedades_de_logaritmos_iniciales",
+    "titulo": "Propiedades de logaritmos iniciales",
+    "curso": "2° medio",
+    "folder": "10_segundo_medio",
+    "path": "10_segundo_medio/005_propiedades_de_logaritmos_iniciales.md",
+    "categoria": "potencias_raices",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_2m_006_crecimiento_exponencial",
+    "titulo": "Crecimiento exponencial",
+    "curso": "2° medio",
+    "folder": "10_segundo_medio",
+    "path": "10_segundo_medio/006_crecimiento_exponencial.md",
+    "categoria": "resolucion_de_problemas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_2m_007_decaimiento_exponencial",
+    "titulo": "Decaimiento exponencial",
+    "curso": "2° medio",
+    "folder": "10_segundo_medio",
+    "path": "10_segundo_medio/007_decaimiento_exponencial.md",
+    "categoria": "resolucion_de_problemas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_2m_008_interes_compuesto_avanzado",
+    "titulo": "Interés compuesto avanzado",
+    "curso": "2° medio",
+    "folder": "10_segundo_medio",
+    "path": "10_segundo_medio/008_interes_compuesto_avanzado.md",
+    "categoria": "aritmetica_financiera",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_2m_009_tasas_de_cambio_porcentual",
+    "titulo": "Tasas de cambio porcentual",
+    "curso": "2° medio",
+    "folder": "10_segundo_medio",
+    "path": "10_segundo_medio/009_tasas_de_cambio_porcentual.md",
+    "categoria": "racionales_proporcionalidad",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_2m_010_indices_y_variaciones",
+    "titulo": "Índices y variaciones",
+    "curso": "2° medio",
+    "folder": "10_segundo_medio",
+    "path": "10_segundo_medio/010_indices_y_variaciones.md",
+    "categoria": "resolucion_de_problemas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_2m_011_razones_en_trigonometria",
+    "titulo": "Razones en trigonometría",
+    "curso": "2° medio",
+    "folder": "10_segundo_medio",
+    "path": "10_segundo_medio/011_razones_en_trigonometria.md",
+    "categoria": "resolucion_de_problemas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_2m_012_proporciones_en_semejanza",
+    "titulo": "Proporciones en semejanza",
+    "curso": "2° medio",
+    "folder": "10_segundo_medio",
+    "path": "10_segundo_medio/012_proporciones_en_semejanza.md",
+    "categoria": "resolucion_de_problemas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_2m_013_problemas_de_escalamiento",
+    "titulo": "Problemas de escalamiento",
+    "curso": "2° medio",
+    "folder": "10_segundo_medio",
+    "path": "10_segundo_medio/013_problemas_de_escalamiento.md",
+    "categoria": "resolucion_de_problemas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_2m_014_unidades_y_conversiones_complejas",
+    "titulo": "Unidades y conversiones complejas",
+    "curso": "2° medio",
+    "folder": "10_segundo_medio",
+    "path": "10_segundo_medio/014_unidades_y_conversiones_complejas.md",
+    "categoria": "resolucion_de_problemas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_2m_015_analisis_dimensional_inicial",
+    "titulo": "Análisis dimensional inicial",
+    "curso": "2° medio",
+    "folder": "10_segundo_medio",
+    "path": "10_segundo_medio/015_analisis_dimensional_inicial.md",
+    "categoria": "resolucion_de_problemas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_2m_016_combinaciones_de_operaciones",
+    "titulo": "Combinaciones de operaciones",
+    "curso": "2° medio",
+    "folder": "10_segundo_medio",
+    "path": "10_segundo_medio/016_combinaciones_de_operaciones.md",
+    "categoria": "operaciones_basicas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_2m_017_aproximacion_numerica",
+    "titulo": "Aproximación numérica",
+    "curso": "2° medio",
+    "folder": "10_segundo_medio",
+    "path": "10_segundo_medio/017_aproximacion_numerica.md",
+    "categoria": "resolucion_de_problemas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_2m_018_cifras_significativas_iniciales",
+    "titulo": "Cifras significativas iniciales",
+    "curso": "2° medio",
+    "folder": "10_segundo_medio",
+    "path": "10_segundo_medio/018_cifras_significativas_iniciales.md",
+    "categoria": "resolucion_de_problemas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_2m_019_error_porcentual",
+    "titulo": "Error porcentual",
+    "curso": "2° medio",
+    "folder": "10_segundo_medio",
+    "path": "10_segundo_medio/019_error_porcentual.md",
+    "categoria": "resolucion_de_problemas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_2m_020_problemas_de_concentracion",
+    "titulo": "Problemas de concentración",
+    "curso": "2° medio",
+    "folder": "10_segundo_medio",
+    "path": "10_segundo_medio/020_problemas_de_concentracion.md",
+    "categoria": "resolucion_de_problemas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_2m_021_problemas_de_poblacion",
+    "titulo": "Problemas de población",
+    "curso": "2° medio",
+    "folder": "10_segundo_medio",
+    "path": "10_segundo_medio/021_problemas_de_poblacion.md",
+    "categoria": "resolucion_de_problemas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_2m_022_problemas_de_finanzas",
+    "titulo": "Problemas de finanzas",
+    "curso": "2° medio",
+    "folder": "10_segundo_medio",
+    "path": "10_segundo_medio/022_problemas_de_finanzas.md",
+    "categoria": "resolucion_de_problemas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_2m_023_problemas_de_ciencias",
+    "titulo": "Problemas de ciencias",
+    "curso": "2° medio",
+    "folder": "10_segundo_medio",
+    "path": "10_segundo_medio/023_problemas_de_ciencias.md",
+    "categoria": "resolucion_de_problemas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_2m_024_calculadora_y_verificacion",
+    "titulo": "Calculadora y verificación",
+    "curso": "2° medio",
+    "folder": "10_segundo_medio",
+    "path": "10_segundo_medio/024_calculadora_y_verificacion.md",
+    "categoria": "resolucion_de_problemas",
+    "alineacion": "curricular_directa"
+  },
+  {
+    "id": "ari_3m_001_numeros_complejos_iniciales",
+    "titulo": "Números complejos iniciales",
+    "curso": "3° medio",
+    "folder": "11_tercero_medio",
+    "path": "11_tercero_medio/001_numeros_complejos_iniciales.md",
+    "categoria": "conjuntos_numericos",
+    "alineacion": "formacion_general_y_ampliacion"
+  },
+  {
+    "id": "ari_3m_002_unidad_imaginaria",
+    "titulo": "Unidad imaginaria",
+    "curso": "3° medio",
+    "folder": "11_tercero_medio",
+    "path": "11_tercero_medio/002_unidad_imaginaria.md",
+    "categoria": "resolucion_de_problemas",
+    "alineacion": "formacion_general_y_ampliacion"
+  },
+  {
+    "id": "ari_3m_003_forma_binomica",
+    "titulo": "Forma binómica",
+    "curso": "3° medio",
+    "folder": "11_tercero_medio",
+    "path": "11_tercero_medio/003_forma_binomica.md",
+    "categoria": "resolucion_de_problemas",
+    "alineacion": "formacion_general_y_ampliacion"
+  },
+  {
+    "id": "ari_3m_004_parte_real_e_imaginaria",
+    "titulo": "Parte real e imaginaria",
+    "curso": "3° medio",
+    "folder": "11_tercero_medio",
+    "path": "11_tercero_medio/004_parte_real_e_imaginaria.md",
+    "categoria": "conjuntos_numericos",
+    "alineacion": "formacion_general_y_ampliacion"
+  },
+  {
+    "id": "ari_3m_005_suma_de_complejos",
+    "titulo": "Suma de complejos",
+    "curso": "3° medio",
+    "folder": "11_tercero_medio",
+    "path": "11_tercero_medio/005_suma_de_complejos.md",
+    "categoria": "operaciones_basicas",
+    "alineacion": "formacion_general_y_ampliacion"
+  },
+  {
+    "id": "ari_3m_006_resta_de_complejos",
+    "titulo": "Resta de complejos",
+    "curso": "3° medio",
+    "folder": "11_tercero_medio",
+    "path": "11_tercero_medio/006_resta_de_complejos.md",
+    "categoria": "operaciones_basicas",
+    "alineacion": "formacion_general_y_ampliacion"
+  },
+  {
+    "id": "ari_3m_007_multiplicacion_de_complejos",
+    "titulo": "Multiplicación de complejos",
+    "curso": "3° medio",
+    "folder": "11_tercero_medio",
+    "path": "11_tercero_medio/007_multiplicacion_de_complejos.md",
+    "categoria": "operaciones_basicas",
+    "alineacion": "formacion_general_y_ampliacion"
+  },
+  {
+    "id": "ari_3m_008_division_de_complejos",
+    "titulo": "División de complejos",
+    "curso": "3° medio",
+    "folder": "11_tercero_medio",
+    "path": "11_tercero_medio/008_division_de_complejos.md",
+    "categoria": "operaciones_basicas",
+    "alineacion": "formacion_general_y_ampliacion"
+  },
+  {
+    "id": "ari_3m_009_conjugado",
+    "titulo": "Conjugado",
+    "curso": "3° medio",
+    "folder": "11_tercero_medio",
+    "path": "11_tercero_medio/009_conjugado.md",
+    "categoria": "resolucion_de_problemas",
+    "alineacion": "formacion_general_y_ampliacion"
+  },
+  {
+    "id": "ari_3m_010_modulo_inicial",
+    "titulo": "Módulo inicial",
+    "curso": "3° medio",
+    "folder": "11_tercero_medio",
+    "path": "11_tercero_medio/010_modulo_inicial.md",
+    "categoria": "resolucion_de_problemas",
+    "alineacion": "formacion_general_y_ampliacion"
+  },
+  {
+    "id": "ari_3m_011_representacion_en_plano_complejo",
+    "titulo": "Representación en plano complejo",
+    "curso": "3° medio",
+    "folder": "11_tercero_medio",
+    "path": "11_tercero_medio/011_representacion_en_plano_complejo.md",
+    "categoria": "conjuntos_numericos",
+    "alineacion": "formacion_general_y_ampliacion"
+  },
+  {
+    "id": "ari_3m_012_potencias_de_i",
+    "titulo": "Potencias de i",
+    "curso": "3° medio",
+    "folder": "11_tercero_medio",
+    "path": "11_tercero_medio/012_potencias_de_i.md",
+    "categoria": "potencias_raices",
+    "alineacion": "formacion_general_y_ampliacion"
+  },
+  {
+    "id": "ari_3m_013_raices_de_ecuaciones_cuadraticas",
+    "titulo": "Raíces de ecuaciones cuadráticas",
+    "curso": "3° medio",
+    "folder": "11_tercero_medio",
+    "path": "11_tercero_medio/013_raices_de_ecuaciones_cuadraticas.md",
+    "categoria": "resolucion_de_problemas",
+    "alineacion": "formacion_general_y_ampliacion"
+  },
+  {
+    "id": "ari_3m_014_porcentajes_en_analisis_de_datos",
+    "titulo": "Porcentajes en análisis de datos",
+    "curso": "3° medio",
+    "folder": "11_tercero_medio",
+    "path": "11_tercero_medio/014_porcentajes_en_analisis_de_datos.md",
+    "categoria": "racionales_proporcionalidad",
+    "alineacion": "formacion_general_y_ampliacion"
+  },
+  {
+    "id": "ari_3m_015_variacion_relativa",
+    "titulo": "Variación relativa",
+    "curso": "3° medio",
+    "folder": "11_tercero_medio",
+    "path": "11_tercero_medio/015_variacion_relativa.md",
+    "categoria": "resolucion_de_problemas",
+    "alineacion": "formacion_general_y_ampliacion"
+  },
+  {
+    "id": "ari_3m_016_indices_economicos_como_contexto",
+    "titulo": "Índices económicos como contexto",
+    "curso": "3° medio",
+    "folder": "11_tercero_medio",
+    "path": "11_tercero_medio/016_indices_economicos_como_contexto.md",
+    "categoria": "resolucion_de_problemas",
+    "alineacion": "formacion_general_y_ampliacion"
+  },
+  {
+    "id": "ari_3m_017_tasas_acumuladas",
+    "titulo": "Tasas acumuladas",
+    "curso": "3° medio",
+    "folder": "11_tercero_medio",
+    "path": "11_tercero_medio/017_tasas_acumuladas.md",
+    "categoria": "racionales_proporcionalidad",
+    "alineacion": "formacion_general_y_ampliacion"
+  },
+  {
+    "id": "ari_3m_018_probabilidad_expresada_como_razon",
+    "titulo": "Probabilidad expresada como razón",
+    "curso": "3° medio",
+    "folder": "11_tercero_medio",
+    "path": "11_tercero_medio/018_probabilidad_expresada_como_razon.md",
+    "categoria": "racionales_proporcionalidad",
+    "alineacion": "formacion_general_y_ampliacion"
+  },
+  {
+    "id": "ari_3m_019_razon_de_probabilidades_inicial",
+    "titulo": "Razón de probabilidades inicial",
+    "curso": "3° medio",
+    "folder": "11_tercero_medio",
+    "path": "11_tercero_medio/019_razon_de_probabilidades_inicial.md",
+    "categoria": "racionales_proporcionalidad",
+    "alineacion": "formacion_general_y_ampliacion"
+  },
+  {
+    "id": "ari_3m_020_problemas_de_estimacion",
+    "titulo": "Problemas de estimación",
+    "curso": "3° medio",
+    "folder": "11_tercero_medio",
+    "path": "11_tercero_medio/020_problemas_de_estimacion.md",
+    "categoria": "resolucion_de_problemas",
+    "alineacion": "formacion_general_y_ampliacion"
+  },
+  {
+    "id": "ari_3m_021_modelos_aritmeticos_de_crecimiento",
+    "titulo": "Modelos aritméticos de crecimiento",
+    "curso": "3° medio",
+    "folder": "11_tercero_medio",
+    "path": "11_tercero_medio/021_modelos_aritmeticos_de_crecimiento.md",
+    "categoria": "resolucion_de_problemas",
+    "alineacion": "formacion_general_y_ampliacion"
+  },
+  {
+    "id": "ari_3m_022_series_aritmeticas_iniciales",
+    "titulo": "Series aritméticas iniciales",
+    "curso": "3° medio",
+    "folder": "11_tercero_medio",
+    "path": "11_tercero_medio/022_series_aritmeticas_iniciales.md",
+    "categoria": "resolucion_de_problemas",
+    "alineacion": "formacion_general_y_ampliacion"
+  },
+  {
+    "id": "ari_3m_023_series_geometricas_iniciales",
+    "titulo": "Series geométricas iniciales",
+    "curso": "3° medio",
+    "folder": "11_tercero_medio",
+    "path": "11_tercero_medio/023_series_geometricas_iniciales.md",
+    "categoria": "resolucion_de_problemas",
+    "alineacion": "formacion_general_y_ampliacion"
+  },
+  {
+    "id": "ari_3m_024_problemas_cotidianos_avanzados",
+    "titulo": "Problemas cotidianos avanzados",
+    "curso": "3° medio",
+    "folder": "11_tercero_medio",
+    "path": "11_tercero_medio/024_problemas_cotidianos_avanzados.md",
+    "categoria": "resolucion_de_problemas",
+    "alineacion": "formacion_general_y_ampliacion"
+  },
+  {
+    "id": "ari_4m_001_operaciones_avanzadas_con_complejos",
+    "titulo": "Operaciones avanzadas con complejos",
+    "curso": "4° medio",
+    "folder": "12_cuarto_medio",
+    "path": "12_cuarto_medio/001_operaciones_avanzadas_con_complejos.md",
+    "categoria": "operaciones_basicas",
+    "alineacion": "formacion_general_y_ampliacion"
+  },
+  {
+    "id": "ari_4m_002_forma_polar_inicial",
+    "titulo": "Forma polar inicial",
+    "curso": "4° medio",
+    "folder": "12_cuarto_medio",
+    "path": "12_cuarto_medio/002_forma_polar_inicial.md",
+    "categoria": "resolucion_de_problemas",
+    "alineacion": "formacion_general_y_ampliacion"
+  },
+  {
+    "id": "ari_4m_003_modulo_y_argumento",
+    "titulo": "Módulo y argumento",
+    "curso": "4° medio",
+    "folder": "12_cuarto_medio",
+    "path": "12_cuarto_medio/003_modulo_y_argumento.md",
+    "categoria": "resolucion_de_problemas",
+    "alineacion": "formacion_general_y_ampliacion"
+  },
+  {
+    "id": "ari_4m_004_potencias_de_complejos",
+    "titulo": "Potencias de complejos",
+    "curso": "4° medio",
+    "folder": "12_cuarto_medio",
+    "path": "12_cuarto_medio/004_potencias_de_complejos.md",
+    "categoria": "conjuntos_numericos",
+    "alineacion": "formacion_general_y_ampliacion"
+  },
+  {
+    "id": "ari_4m_005_raices_de_complejos_iniciales",
+    "titulo": "Raíces de complejos iniciales",
+    "curso": "4° medio",
+    "folder": "12_cuarto_medio",
+    "path": "12_cuarto_medio/005_raices_de_complejos_iniciales.md",
+    "categoria": "conjuntos_numericos",
+    "alineacion": "formacion_general_y_ampliacion"
+  },
+  {
+    "id": "ari_4m_006_sucesiones_aritmeticas",
+    "titulo": "Sucesiones aritméticas",
+    "curso": "4° medio",
+    "folder": "12_cuarto_medio",
+    "path": "12_cuarto_medio/006_sucesiones_aritmeticas.md",
+    "categoria": "resolucion_de_problemas",
+    "alineacion": "formacion_general_y_ampliacion"
+  },
+  {
+    "id": "ari_4m_007_sucesiones_geometricas",
+    "titulo": "Sucesiones geométricas",
+    "curso": "4° medio",
+    "folder": "12_cuarto_medio",
+    "path": "12_cuarto_medio/007_sucesiones_geometricas.md",
+    "categoria": "resolucion_de_problemas",
+    "alineacion": "formacion_general_y_ampliacion"
+  },
+  {
+    "id": "ari_4m_008_sumas_finitas",
+    "titulo": "Sumas finitas",
+    "curso": "4° medio",
+    "folder": "12_cuarto_medio",
+    "path": "12_cuarto_medio/008_sumas_finitas.md",
+    "categoria": "operaciones_basicas",
+    "alineacion": "formacion_general_y_ampliacion"
+  },
+  {
+    "id": "ari_4m_009_interes_compuesto_y_anualidades_iniciales",
+    "titulo": "Interés compuesto y anualidades iniciales",
+    "curso": "4° medio",
+    "folder": "12_cuarto_medio",
+    "path": "12_cuarto_medio/009_interes_compuesto_y_anualidades_iniciales.md",
+    "categoria": "aritmetica_financiera",
+    "alineacion": "formacion_general_y_ampliacion"
+  },
+  {
+    "id": "ari_4m_010_inflacion_y_poder_adquisitivo",
+    "titulo": "Inflación y poder adquisitivo",
+    "curso": "4° medio",
+    "folder": "12_cuarto_medio",
+    "path": "12_cuarto_medio/010_inflacion_y_poder_adquisitivo.md",
+    "categoria": "aritmetica_financiera",
+    "alineacion": "formacion_general_y_ampliacion"
+  },
+  {
+    "id": "ari_4m_011_tasas_nominales_y_efectivas_iniciales",
+    "titulo": "Tasas nominales y efectivas iniciales",
+    "curso": "4° medio",
+    "folder": "12_cuarto_medio",
+    "path": "12_cuarto_medio/011_tasas_nominales_y_efectivas_iniciales.md",
+    "categoria": "racionales_proporcionalidad",
+    "alineacion": "formacion_general_y_ampliacion"
+  },
+  {
+    "id": "ari_4m_012_descuentos_sucesivos",
+    "titulo": "Descuentos sucesivos",
+    "curso": "4° medio",
+    "folder": "12_cuarto_medio",
+    "path": "12_cuarto_medio/012_descuentos_sucesivos.md",
+    "categoria": "resolucion_de_problemas",
+    "alineacion": "formacion_general_y_ampliacion"
+  },
+  {
+    "id": "ari_4m_013_impuestos_y_porcentajes",
+    "titulo": "Impuestos y porcentajes",
+    "curso": "4° medio",
+    "folder": "12_cuarto_medio",
+    "path": "12_cuarto_medio/013_impuestos_y_porcentajes.md",
+    "categoria": "racionales_proporcionalidad",
+    "alineacion": "formacion_general_y_ampliacion"
+  },
+  {
+    "id": "ari_4m_014_modelos_de_ahorro",
+    "titulo": "Modelos de ahorro",
+    "curso": "4° medio",
+    "folder": "12_cuarto_medio",
+    "path": "12_cuarto_medio/014_modelos_de_ahorro.md",
+    "categoria": "aritmetica_financiera",
+    "alineacion": "formacion_general_y_ampliacion"
+  },
+  {
+    "id": "ari_4m_015_creditos_y_costo_total",
+    "titulo": "Créditos y costo total",
+    "curso": "4° medio",
+    "folder": "12_cuarto_medio",
+    "path": "12_cuarto_medio/015_creditos_y_costo_total.md",
+    "categoria": "aritmetica_financiera",
+    "alineacion": "formacion_general_y_ampliacion"
+  },
+  {
+    "id": "ari_4m_016_razones_de_riesgo_iniciales",
+    "titulo": "Razones de riesgo iniciales",
+    "curso": "4° medio",
+    "folder": "12_cuarto_medio",
+    "path": "12_cuarto_medio/016_razones_de_riesgo_iniciales.md",
+    "categoria": "resolucion_de_problemas",
+    "alineacion": "formacion_general_y_ampliacion"
+  },
+  {
+    "id": "ari_4m_017_probabilidad_como_proporcion",
+    "titulo": "Probabilidad como proporción",
+    "curso": "4° medio",
+    "folder": "12_cuarto_medio",
+    "path": "12_cuarto_medio/017_probabilidad_como_proporcion.md",
+    "categoria": "racionales_proporcionalidad",
+    "alineacion": "formacion_general_y_ampliacion"
+  },
+  {
+    "id": "ari_4m_018_estimacion_e_incertidumbre",
+    "titulo": "Estimación e incertidumbre",
+    "curso": "4° medio",
+    "folder": "12_cuarto_medio",
+    "path": "12_cuarto_medio/018_estimacion_e_incertidumbre.md",
+    "categoria": "resolucion_de_problemas",
+    "alineacion": "formacion_general_y_ampliacion"
+  },
+  {
+    "id": "ari_4m_019_cifras_significativas",
+    "titulo": "Cifras significativas",
+    "curso": "4° medio",
+    "folder": "12_cuarto_medio",
+    "path": "12_cuarto_medio/019_cifras_significativas.md",
+    "categoria": "resolucion_de_problemas",
+    "alineacion": "formacion_general_y_ampliacion"
+  },
+  {
+    "id": "ari_4m_020_propagacion_de_error_inicial",
+    "titulo": "Propagación de error inicial",
+    "curso": "4° medio",
+    "folder": "12_cuarto_medio",
+    "path": "12_cuarto_medio/020_propagacion_de_error_inicial.md",
+    "categoria": "resolucion_de_problemas",
+    "alineacion": "formacion_general_y_ampliacion"
+  },
+  {
+    "id": "ari_4m_021_aproximaciones_numericas",
+    "titulo": "Aproximaciones numéricas",
+    "curso": "4° medio",
+    "folder": "12_cuarto_medio",
+    "path": "12_cuarto_medio/021_aproximaciones_numericas.md",
+    "categoria": "resolucion_de_problemas",
+    "alineacion": "formacion_general_y_ampliacion"
+  },
+  {
+    "id": "ari_4m_022_metodos_iterativos_iniciales",
+    "titulo": "Métodos iterativos iniciales",
+    "curso": "4° medio",
+    "folder": "12_cuarto_medio",
+    "path": "12_cuarto_medio/022_metodos_iterativos_iniciales.md",
+    "categoria": "resolucion_de_problemas",
+    "alineacion": "formacion_general_y_ampliacion"
+  },
+  {
+    "id": "ari_4m_023_problemas_financieros",
+    "titulo": "Problemas financieros",
+    "curso": "4° medio",
+    "folder": "12_cuarto_medio",
+    "path": "12_cuarto_medio/023_problemas_financieros.md",
+    "categoria": "aritmetica_financiera",
+    "alineacion": "formacion_general_y_ampliacion"
+  },
+  {
+    "id": "ari_4m_024_problemas_cientificos",
+    "titulo": "Problemas científicos",
+    "curso": "4° medio",
+    "folder": "12_cuarto_medio",
+    "path": "12_cuarto_medio/024_problemas_cientificos.md",
+    "categoria": "resolucion_de_problemas",
+    "alineacion": "formacion_general_y_ampliacion"
+  },
+  {
+    "id": "ari_4m_025_ciudadania_numerica",
+    "titulo": "Ciudadanía numérica",
+    "curso": "4° medio",
+    "folder": "12_cuarto_medio",
+    "path": "12_cuarto_medio/025_ciudadania_numerica.md",
+    "categoria": "resolucion_de_problemas",
+    "alineacion": "formacion_general_y_ampliacion"
+  },
+  {
+    "id": "ari_4m_026_proyecto_final_de_aritmetica_aplicada",
+    "titulo": "Proyecto final de aritmética aplicada",
+    "curso": "4° medio",
+    "folder": "12_cuarto_medio",
+    "path": "12_cuarto_medio/026_proyecto_final_de_aritmetica_aplicada.md",
+    "categoria": "resolucion_de_problemas",
+    "alineacion": "formacion_general_y_ampliacion"
+  },
+  {
+    "id": "ari_tr_001_que_es_la_aritmetica",
+    "titulo": "Qué es la aritmética",
+    "curso": "Transversal 1° básico a 4° medio",
+    "folder": "13_tematicos_transversales",
+    "path": "13_tematicos_transversales/001_que_es_la_aritmetica.md",
+    "categoria": "resolucion_de_problemas",
+    "alineacion": "transversal"
+  },
+  {
+    "id": "ari_tr_002_numeros_naturales",
+    "titulo": "Números naturales",
+    "curso": "Transversal 1° básico a 4° medio",
+    "folder": "13_tematicos_transversales",
+    "path": "13_tematicos_transversales/002_numeros_naturales.md",
+    "categoria": "conjuntos_numericos",
+    "alineacion": "transversal"
+  },
+  {
+    "id": "ari_tr_003_valor_posicional",
+    "titulo": "Valor posicional",
+    "curso": "Transversal 1° básico a 4° medio",
+    "folder": "13_tematicos_transversales",
+    "path": "13_tematicos_transversales/003_valor_posicional.md",
+    "categoria": "conjuntos_numericos",
+    "alineacion": "transversal"
+  },
+  {
+    "id": "ari_tr_004_suma",
+    "titulo": "Suma",
+    "curso": "Transversal 1° básico a 4° medio",
+    "folder": "13_tematicos_transversales",
+    "path": "13_tematicos_transversales/004_suma.md",
+    "categoria": "operaciones_basicas",
+    "alineacion": "transversal"
+  },
+  {
+    "id": "ari_tr_005_resta",
+    "titulo": "Resta",
+    "curso": "Transversal 1° básico a 4° medio",
+    "folder": "13_tematicos_transversales",
+    "path": "13_tematicos_transversales/005_resta.md",
+    "categoria": "operaciones_basicas",
+    "alineacion": "transversal"
+  },
+  {
+    "id": "ari_tr_006_multiplicacion",
+    "titulo": "Multiplicación",
+    "curso": "Transversal 1° básico a 4° medio",
+    "folder": "13_tematicos_transversales",
+    "path": "13_tematicos_transversales/006_multiplicacion.md",
+    "categoria": "operaciones_basicas",
+    "alineacion": "transversal"
+  },
+  {
+    "id": "ari_tr_007_division",
+    "titulo": "División",
+    "curso": "Transversal 1° básico a 4° medio",
+    "folder": "13_tematicos_transversales",
+    "path": "13_tematicos_transversales/007_division.md",
+    "categoria": "operaciones_basicas",
+    "alineacion": "transversal"
+  },
+  {
+    "id": "ari_tr_008_multiplos",
+    "titulo": "Múltiplos",
+    "curso": "Transversal 1° básico a 4° medio",
+    "folder": "13_tematicos_transversales",
+    "path": "13_tematicos_transversales/008_multiplos.md",
+    "categoria": "divisibilidad",
+    "alineacion": "transversal"
+  },
+  {
+    "id": "ari_tr_009_divisores",
+    "titulo": "Divisores",
+    "curso": "Transversal 1° básico a 4° medio",
+    "folder": "13_tematicos_transversales",
+    "path": "13_tematicos_transversales/009_divisores.md",
+    "categoria": "divisibilidad",
+    "alineacion": "transversal"
+  },
+  {
+    "id": "ari_tr_010_numeros_primos",
+    "titulo": "Números primos",
+    "curso": "Transversal 1° básico a 4° medio",
+    "folder": "13_tematicos_transversales",
+    "path": "13_tematicos_transversales/010_numeros_primos.md",
+    "categoria": "divisibilidad",
+    "alineacion": "transversal"
+  },
+  {
+    "id": "ari_tr_011_fracciones",
+    "titulo": "Fracciones",
+    "curso": "Transversal 1° básico a 4° medio",
+    "folder": "13_tematicos_transversales",
+    "path": "13_tematicos_transversales/011_fracciones.md",
+    "categoria": "resolucion_de_problemas",
+    "alineacion": "transversal"
+  },
+  {
+    "id": "ari_tr_012_decimales",
+    "titulo": "Decimales",
+    "curso": "Transversal 1° básico a 4° medio",
+    "folder": "13_tematicos_transversales",
+    "path": "13_tematicos_transversales/012_decimales.md",
+    "categoria": "racionales_proporcionalidad",
+    "alineacion": "transversal"
+  },
+  {
+    "id": "ari_tr_013_porcentajes",
+    "titulo": "Porcentajes",
+    "curso": "Transversal 1° básico a 4° medio",
+    "folder": "13_tematicos_transversales",
+    "path": "13_tematicos_transversales/013_porcentajes.md",
+    "categoria": "racionales_proporcionalidad",
+    "alineacion": "transversal"
+  },
+  {
+    "id": "ari_tr_014_razones",
+    "titulo": "Razones",
+    "curso": "Transversal 1° básico a 4° medio",
+    "folder": "13_tematicos_transversales",
+    "path": "13_tematicos_transversales/014_razones.md",
+    "categoria": "resolucion_de_problemas",
+    "alineacion": "transversal"
+  },
+  {
+    "id": "ari_tr_015_proporciones",
+    "titulo": "Proporciones",
+    "curso": "Transversal 1° básico a 4° medio",
+    "folder": "13_tematicos_transversales",
+    "path": "13_tematicos_transversales/015_proporciones.md",
+    "categoria": "resolucion_de_problemas",
+    "alineacion": "transversal"
+  },
+  {
+    "id": "ari_tr_016_numeros_enteros",
+    "titulo": "Números enteros",
+    "curso": "Transversal 1° básico a 4° medio",
+    "folder": "13_tematicos_transversales",
+    "path": "13_tematicos_transversales/016_numeros_enteros.md",
+    "categoria": "conjuntos_numericos",
+    "alineacion": "transversal"
+  },
+  {
+    "id": "ari_tr_017_numeros_racionales",
+    "titulo": "Números racionales",
+    "curso": "Transversal 1° básico a 4° medio",
+    "folder": "13_tematicos_transversales",
+    "path": "13_tematicos_transversales/017_numeros_racionales.md",
+    "categoria": "conjuntos_numericos",
+    "alineacion": "transversal"
+  },
+  {
+    "id": "ari_tr_018_numeros_reales",
+    "titulo": "Números reales",
+    "curso": "Transversal 1° básico a 4° medio",
+    "folder": "13_tematicos_transversales",
+    "path": "13_tematicos_transversales/018_numeros_reales.md",
+    "categoria": "conjuntos_numericos",
+    "alineacion": "transversal"
+  },
+  {
+    "id": "ari_tr_019_potencias",
+    "titulo": "Potencias",
+    "curso": "Transversal 1° básico a 4° medio",
+    "folder": "13_tematicos_transversales",
+    "path": "13_tematicos_transversales/019_potencias.md",
+    "categoria": "potencias_raices",
+    "alineacion": "transversal"
+  },
+  {
+    "id": "ari_tr_020_raices",
+    "titulo": "Raíces",
+    "curso": "Transversal 1° básico a 4° medio",
+    "folder": "13_tematicos_transversales",
+    "path": "13_tematicos_transversales/020_raices.md",
+    "categoria": "resolucion_de_problemas",
+    "alineacion": "transversal"
+  },
+  {
+    "id": "ari_tr_021_notacion_cientifica",
+    "titulo": "Notación científica",
+    "curso": "Transversal 1° básico a 4° medio",
+    "folder": "13_tematicos_transversales",
+    "path": "13_tematicos_transversales/021_notacion_cientifica.md",
+    "categoria": "potencias_raices",
+    "alineacion": "transversal"
+  },
+  {
+    "id": "ari_tr_022_estimacion",
+    "titulo": "Estimación",
+    "curso": "Transversal 1° básico a 4° medio",
+    "folder": "13_tematicos_transversales",
+    "path": "13_tematicos_transversales/022_estimacion.md",
+    "categoria": "resolucion_de_problemas",
+    "alineacion": "transversal"
+  },
+  {
+    "id": "ari_tr_023_calculo_mental",
+    "titulo": "Cálculo mental",
+    "curso": "Transversal 1° básico a 4° medio",
+    "folder": "13_tematicos_transversales",
+    "path": "13_tematicos_transversales/023_calculo_mental.md",
+    "categoria": "resolucion_de_problemas",
+    "alineacion": "transversal"
+  },
+  {
+    "id": "ari_tr_024_problemas_de_dinero",
+    "titulo": "Problemas de dinero",
+    "curso": "Transversal 1° básico a 4° medio",
+    "folder": "13_tematicos_transversales",
+    "path": "13_tematicos_transversales/024_problemas_de_dinero.md",
+    "categoria": "aritmetica_financiera",
+    "alineacion": "transversal"
+  },
+  {
+    "id": "ari_tr_025_problemas_de_tiempo",
+    "titulo": "Problemas de tiempo",
+    "curso": "Transversal 1° básico a 4° medio",
+    "folder": "13_tematicos_transversales",
+    "path": "13_tematicos_transversales/025_problemas_de_tiempo.md",
+    "categoria": "resolucion_de_problemas",
+    "alineacion": "transversal"
+  },
+  {
+    "id": "ari_tr_026_problemas_de_medidas",
+    "titulo": "Problemas de medidas",
+    "curso": "Transversal 1° básico a 4° medio",
+    "folder": "13_tematicos_transversales",
+    "path": "13_tematicos_transversales/026_problemas_de_medidas.md",
+    "categoria": "resolucion_de_problemas",
+    "alineacion": "transversal"
+  },
+  {
+    "id": "ari_tr_027_problemas_de_reparto",
+    "titulo": "Problemas de reparto",
+    "curso": "Transversal 1° básico a 4° medio",
+    "folder": "13_tematicos_transversales",
+    "path": "13_tematicos_transversales/027_problemas_de_reparto.md",
+    "categoria": "resolucion_de_problemas",
+    "alineacion": "transversal"
+  },
+  {
+    "id": "ari_tr_028_resolucion_paso_a_paso",
+    "titulo": "Resolución paso a paso",
+    "curso": "Transversal 1° básico a 4° medio",
+    "folder": "13_tematicos_transversales",
+    "path": "13_tematicos_transversales/028_resolucion_paso_a_paso.md",
+    "categoria": "resolucion_de_problemas",
+    "alineacion": "transversal"
+  }
+]

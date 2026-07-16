@@ -1,0 +1,301 @@
+# Mapa vertical
+
+## 1° básico
+- Conteo del 0 al 20
+- Conteo hasta 100
+- Leer números
+- Escribir números
+- Comparar cantidades
+- Ordenar números
+- Componer y descomponer
+- Decenas y unidades
+- Suma como juntar
+- Suma como avanzar
+- Resta como quitar
+- Resta como comparar
+- Problemas de suma
+- Problemas de resta
+- Dobles
+- Mitades simples
+- Cálculo mental inicial
+- Uso de monedas inicial
+- Secuencias numéricas
+- Problemas cotidianos
+
+## 2° básico
+- Conteo hasta 1000
+- Centenas decenas y unidades
+- Comparar hasta 1000
+- Ordenar hasta 1000
+- Composición aditiva
+- Suma sin reserva
+- Suma con reserva
+- Resta sin canje
+- Resta con canje
+- Problemas de dos pasos iniciales
+- Multiplicación como suma repetida
+- Arreglos rectangulares
+- Tablas del 2 5 y 10
+- División como reparto
+- División como agrupación
+- Mitad tercio y cuarto
+- Dinero y cambio
+- Estimación inicial
+- Cálculo mental
+- Problemas cotidianos
+
+## 3° básico
+- Números hasta 10000
+- Valor posicional
+- Redondeo inicial
+- Suma y resta hasta 10000
+- Multiplicación por una cifra
+- División con resto inicial
+- Tablas de multiplicar
+- Propiedad conmutativa
+- Propiedad distributiva inicial
+- Problemas de multiplicación
+- Problemas de división
+- Fracciones como parte de un todo
+- Fracciones unitarias
+- Comparar fracciones simples
+- Fracción de una colección
+- Decimales iniciales en dinero
+- Múltiplos iniciales
+- Patrones numéricos
+- Estimación
+- Problemas de la vida diaria
+
+## 4° básico
+- Números hasta un millón
+- Valor posicional ampliado
+- Redondeo
+- Estimación de sumas y restas
+- Adición y sustracción
+- Multiplicación por dos cifras
+- División por una cifra
+- Jerarquía simple de operaciones
+- Problemas de varios pasos
+- Múltiplos
+- Divisores
+- Números primos iniciales
+- Fracciones equivalentes iniciales
+- Comparación de fracciones
+- Suma de fracciones iguales denominadores
+- Resta de fracciones iguales denominadores
+- Decimales hasta centésimas
+- Operaciones con dinero
+- Porcentajes intuitivos
+- Problemas cotidianos
+
+## 5° básico
+- Números naturales grandes
+- Operaciones combinadas
+- Múltiplos y divisores
+- Criterios de divisibilidad
+- Números primos y compuestos
+- Descomposición en factores primos
+- Mínimo común múltiplo inicial
+- Máximo común divisor inicial
+- Fracciones propias
+- Fracciones impropias
+- Números mixtos
+- Fracciones equivalentes
+- Suma de fracciones
+- Resta de fracciones
+- Multiplicación de fracciones inicial
+- Decimales hasta milésimas
+- Suma y resta de decimales
+- Multiplicación de decimales inicial
+- Porcentajes iniciales
+- Razones iniciales
+- Proporciones iniciales
+- Problemas con dinero
+- Problemas con medidas
+- Estimación y comprobación
+
+## 6° básico
+- Números naturales y enteros iniciales
+- Recta numérica
+- Múltiplos y factores
+- Mínimo común múltiplo
+- Máximo común divisor
+- Fracciones y números mixtos
+- Suma y resta de fracciones
+- Multiplicación de fracciones
+- División de fracciones
+- Decimales hasta milésimas
+- Operaciones con decimales
+- Razones
+- Tasas unitarias
+- Proporciones
+- Porcentajes
+- Aumentos y descuentos
+- Regla de tres razonada
+- Potencias de base natural iniciales
+- Cuadrados perfectos iniciales
+- Raíces cuadradas intuitivas
+- Problemas de reparto
+- Problemas de consumo
+- Problemas de tiempo y distancia
+- Comprobación por estimación
+
+## 7° básico
+- Números enteros
+- Valor absoluto
+- Opuestos
+- Suma de enteros
+- Resta de enteros
+- Multiplicación de enteros
+- División de enteros
+- Problemas con temperatura y altura
+- Números racionales positivos
+- Multiplicación de fracciones
+- División de fracciones
+- Operaciones con decimales
+- Conversión fracción decimal porcentaje
+- Porcentajes
+- Variación porcentual
+- Razones y proporciones
+- Proporcionalidad directa
+- Potencias de base 10
+- Notación científica inicial
+- Prioridad de operaciones
+- Estimación con racionales
+- Problemas financieros iniciales
+- Problemas de escalas
+- Estrategias de cálculo
+
+## 8° básico
+- Números racionales
+- Operaciones con racionales
+- Recta numérica racional
+- Potencias de base racional
+- Leyes de potencias
+- Raíces cuadradas
+- Raíz como operación inversa
+- Aproximación de raíces
+- Notación científica
+- Orden de magnitud
+- Porcentajes sucesivos
+- Interés simple
+- Razones y tasas
+- Proporcionalidad inversa
+- Problemas de velocidad
+- Problemas de densidad
+- Problemas de consumo
+- Fracciones complejas iniciales
+- Operaciones combinadas
+- Error absoluto inicial
+- Error relativo inicial
+- Estimación y redondeo
+- Uso responsable de calculadora
+- Problemas de vida diaria
+
+## 1° medio
+- Números racionales
+- Operaciones simbólicas con racionales
+- Números irracionales
+- Números reales
+- Orden en los reales
+- Intervalos iniciales
+- Potencias de base racional
+- Exponentes enteros
+- Leyes de potencias
+- Raíces enésimas iniciales
+- Radicales
+- Simplificación de radicales
+- Operaciones con radicales
+- Notación científica avanzada
+- Porcentajes compuestos
+- Crecimiento porcentual
+- Interés compuesto
+- Índice de variación
+- Razones y proporcionalidad
+- Problemas de mezcla
+- Problemas de movimiento
+- Problemas financieros
+- Estimación de errores
+- Aproximaciones
+- Uso de calculadora científica
+- Resolución paso a paso
+
+## 2° medio
+- Números reales y radicales
+- Racionalización inicial
+- Potencias con exponente racional
+- Logaritmos como inversa de potencias
+- Propiedades de logaritmos iniciales
+- Crecimiento exponencial
+- Decaimiento exponencial
+- Interés compuesto avanzado
+- Tasas de cambio porcentual
+- Índices y variaciones
+- Razones en trigonometría
+- Proporciones en semejanza
+- Problemas de escalamiento
+- Unidades y conversiones complejas
+- Análisis dimensional inicial
+- Combinaciones de operaciones
+- Aproximación numérica
+- Cifras significativas iniciales
+- Error porcentual
+- Problemas de concentración
+- Problemas de población
+- Problemas de finanzas
+- Problemas de ciencias
+- Calculadora y verificación
+
+## 3° medio
+- Números complejos iniciales
+- Unidad imaginaria
+- Forma binómica
+- Parte real e imaginaria
+- Suma de complejos
+- Resta de complejos
+- Multiplicación de complejos
+- División de complejos
+- Conjugado
+- Módulo inicial
+- Representación en plano complejo
+- Potencias de i
+- Raíces de ecuaciones cuadráticas
+- Porcentajes en análisis de datos
+- Variación relativa
+- Índices económicos como contexto
+- Tasas acumuladas
+- Probabilidad expresada como razón
+- Razón de probabilidades inicial
+- Problemas de estimación
+- Modelos aritméticos de crecimiento
+- Series aritméticas iniciales
+- Series geométricas iniciales
+- Problemas cotidianos avanzados
+
+## 4° medio
+- Operaciones avanzadas con complejos
+- Forma polar inicial
+- Módulo y argumento
+- Potencias de complejos
+- Raíces de complejos iniciales
+- Sucesiones aritméticas
+- Sucesiones geométricas
+- Sumas finitas
+- Interés compuesto y anualidades iniciales
+- Inflación y poder adquisitivo
+- Tasas nominales y efectivas iniciales
+- Descuentos sucesivos
+- Impuestos y porcentajes
+- Modelos de ahorro
+- Créditos y costo total
+- Razones de riesgo iniciales
+- Probabilidad como proporción
+- Estimación e incertidumbre
+- Cifras significativas
+- Propagación de error inicial
+- Aproximaciones numéricas
+- Métodos iterativos iniciales
+- Problemas financieros
+- Problemas científicos
+- Ciudadanía numérica
+- Proyecto final de aritmética aplicada

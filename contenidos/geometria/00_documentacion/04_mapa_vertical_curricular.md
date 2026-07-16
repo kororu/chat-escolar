@@ -1,0 +1,325 @@
+# Mapa vertical
+
+## 1° básico
+- Posición derecha e izquierda
+- Arriba abajo delante detrás
+- Figuras 2D del entorno
+- Círculo
+- Triángulo
+- Cuadrado
+- Rectángulo
+- Clasificar figuras por forma
+- Lados y esquinas iniciales
+- Componer figuras 2D
+- Descomponer figuras 2D
+- Cuerpos 3D del entorno
+- Cubo
+- Esfera
+- Cilindro
+- Cono inicial
+- Relacionar figuras 2D y 3D
+- Construcciones con bloques
+- Patrones geométricos
+- Dibujar recorridos simples
+
+## 2° básico
+- Posición y puntos de referencia
+- Trayectos en cuadrículas
+- Figuras 2D y atributos
+- Lados y vértices
+- Triángulos iniciales
+- Cuadriláteros iniciales
+- Círculo y circunferencia inicial
+- Simetría inicial
+- Mitades simétricas
+- Composición de figuras
+- Cuerpos 3D
+- Caras aristas y vértices
+- Cubo y paralelepípedo
+- Prismas iniciales
+- Pirámides iniciales
+- Cilindro cono y esfera
+- Redes simples
+- Construcciones geométricas
+- Longitud de bordes inicial
+- Problemas espaciales cotidianos
+
+## 3° básico
+- Punto recta y segmento inicial
+- Paralelas y perpendiculares iniciales
+- Ángulos como giros
+- Figuras 2D
+- Clasificación de triángulos inicial
+- Cuadriláteros
+- Polígonos
+- Perímetro
+- Redes de cuerpos 3D
+- Construir cuerpos desde redes
+- Caras aristas y vértices
+- Traslación
+- Reflexión
+- Rotación
+- Reconocer transformaciones
+- Simetría axial
+- Coordenadas en cuadrícula
+- Composición y descomposición
+- Teselados iniciales
+- Problemas de perímetro
+
+## 4° básico
+- Rectas segmentos y semirrectas
+- Ángulos y medición inicial
+- Ángulo recto agudo y obtuso
+- Triángulos por lados
+- Triángulos por ángulos
+- Cuadriláteros y propiedades
+- Paralelogramos
+- Trapecios
+- Polígonos regulares e irregulares
+- Perímetro de polígonos
+- Área con cuadrados unitarios
+- Área de rectángulos
+- Área de figuras compuestas inicial
+- Plano cartesiano inicial
+- Pares ordenados
+- Traslaciones en cuadrícula
+- Reflexiones en cuadrícula
+- Rotaciones en cuadrícula
+- Simetría
+- Cuerpos geométricos y redes
+- Volumen con cubos unitarios
+- Escalas simples
+- Problemas de área y perímetro
+- Geometría del entorno
+
+## 5° básico
+- Puntos rectas y planos
+- Rectas paralelas perpendiculares y secantes
+- Medición de ángulos
+- Construcción de ángulos
+- Triángulos y clasificación
+- Suma de ángulos del triángulo inicial
+- Cuadriláteros
+- Polígonos
+- Congruencia
+- Traslación
+- Reflexión
+- Rotación
+- Congruencia mediante transformaciones
+- Plano cartesiano
+- Patrones en el plano
+- Perímetro
+- Área de rectángulos
+- Área de triángulos inicial
+- Área de paralelogramos inicial
+- Volumen de prismas con cubos
+- Redes de prismas
+- Escalas y mapas
+- Diseño con figuras
+- Problemas geométricos aplicados
+
+## 6° básico
+- Construcción de ángulos con regla y compás
+- Ángulos opuestos por el vértice
+- Ángulos complementarios
+- Ángulos suplementarios
+- Paralelas cortadas por transversal
+- Ángulos interiores de triángulos
+- Ángulos interiores de cuadriláteros
+- Triángulos y construcciones
+- Bisectriz
+- Mediatriz
+- Alturas de triángulos
+- Teselados
+- Traslación reflexión y rotación
+- Congruencia
+- Plano cartesiano
+- Área de triángulos
+- Área de paralelogramos
+- Área de trapecios inicial
+- Área de superficie de cubos
+- Área de superficie de paralelepípedos
+- Volumen de cubos
+- Volumen de paralelepípedos
+- Redes y desarrollos planos
+- Escalas
+- Problemas de superficie y volumen
+- Uso de software geométrico
+
+## 7° básico
+- Rectas paralelas y perpendiculares
+- Bisectrices
+- Mediatrices
+- Alturas de triángulos
+- Medianas
+- Centro de gravedad
+- Incentro
+- Circuncentro
+- Construcción de triángulos
+- Congruencia de triángulos
+- Criterios de congruencia iniciales
+- Cuadriláteros congruentes
+- Círculo y circunferencia
+- Radio diámetro y cuerda
+- Perímetro de la circunferencia
+- Área del círculo
+- Círculo como lugar geométrico
+- Área de triángulos
+- Área de paralelogramos
+- Área de trapecios
+- Puntos y vectores iniciales
+- Plano cartesiano
+- Traslaciones con vectores
+- Problemas de construcción
+- Geometría en arte y diseño
+- Argumentación geométrica inicial
+
+## 8° básico
+- Teorema de Pitágoras
+- Demostración pictórica de Pitágoras
+- Aplicaciones de Pitágoras
+- Distancia en el plano inicial
+- Prismas rectos
+- Área de prismas
+- Volumen de prismas
+- Cilindros
+- Área de cilindros
+- Volumen de cilindros
+- Posición en el plano cartesiano
+- Vectores de traslación
+- Reflexión respecto de ejes
+- Rotación respecto de un punto
+- Composición de transformaciones
+- Simetrías de polígonos
+- Simetrías de poliedros
+- Homotecia inicial
+- Semejanza inicial
+- Razón de semejanza
+- Escalas y maquetas
+- Coordenadas y movimientos
+- Construcciones con software
+- Geometría aplicada al arte
+- Problemas espaciales
+- Validación de resultados geométricos
+
+## 1° medio
+- Semejanza de figuras
+- Criterios de semejanza de triángulos
+- Teorema de Tales
+- División proporcional de segmentos
+- Homotecia
+- Razón de homotecia
+- Aplicaciones de escala
+- Teorema de Pitágoras avanzado
+- Distancia entre puntos
+- Punto medio
+- Pendiente geométrica inicial
+- Vectores en el plano
+- Suma de vectores
+- Transformaciones isométricas
+- Composición de transformaciones
+- Congruencia y semejanza
+- Perímetro y área de figuras semejantes
+- Volumen de cuerpos semejantes
+- Trigonometría inicial
+- Seno coseno y tangente
+- Resolución de triángulos rectángulos
+- Ángulos de elevación y depresión
+- Circunferencia en el plano
+- Ecuación inicial de la circunferencia
+- Geometría de coordenadas
+- Problemas de medición indirecta
+- Diseño y arquitectura
+- Uso de tecnología geométrica
+
+## 2° medio
+- Geometría analítica
+- Distancia entre puntos
+- Punto medio
+- Pendiente
+- Ecuación de la recta
+- Rectas paralelas y perpendiculares
+- Intersección de rectas
+- Vectores
+- Módulo y dirección
+- Operaciones con vectores
+- Razones trigonométricas
+- Resolución de triángulos
+- Ley de senos inicial
+- Ley de cosenos inicial
+- Circunferencia
+- Arcos y sectores
+- Ángulos centrales e inscritos iniciales
+- Longitud de arco
+- Área de sector
+- Transformaciones en el plano
+- Matrices de transformación iniciales
+- Semejanza y homotecia
+- Cuerpos de revolución iniciales
+- Área y volumen
+- Geometría de mapas
+- Problemas de navegación
+- Modelación geométrica
+- Diseño asistido por computador
+- Errores de medición
+- Proyecto geométrico aplicado
+
+## 3° medio
+- Circunferencia y elementos
+- Ángulos centrales
+- Ángulos inscritos
+- Relación entre arcos y ángulos
+- Cuerdas
+- Secantes
+- Tangentes
+- Potencia de un punto inicial
+- Relaciones métricas en la circunferencia
+- Teoremas de cuerdas
+- Teoremas de secantes
+- Teoremas de tangentes
+- Problemas euclidianos
+- Demostración geométrica
+- Conjeturas y contraejemplos
+- Geometría analítica de circunferencias
+- Intersección recta circunferencia
+- Lugares geométricos
+- Vectores y transformaciones
+- Geometría en diseño
+- Geometría en construcción
+- Geometría en astronomía
+- Uso de software dinámico
+- Modelación con figuras
+- Argumentación y prueba
+- Proyecto de circunferencia aplicada
+
+## 4° medio
+- Geometría analítica avanzada
+- Rectas y sistemas geométricos
+- Circunferencia avanzada
+- Parábola
+- Elipse
+- Hipérbola
+- Cónicas y aplicaciones
+- Vectores avanzados
+- Producto escalar inicial
+- Ángulo entre vectores
+- Proyecciones
+- Geometría en tres dimensiones
+- Coordenadas espaciales
+- Planos y rectas en el espacio iniciales
+- Distancias en el espacio
+- Poliedros
+- Fórmula de Euler para poliedros
+- Sólidos de revolución
+- Optimización geométrica inicial
+- Teselaciones y simetrías avanzadas
+- Geometría fractal inicial
+- Geometría no euclidiana conceptual
+- Geometría esférica conceptual
+- Cartografía y proyecciones
+- Diseño paramétrico inicial
+- Arquitectura y estructuras
+- Geometría computacional inicial
+- Modelación espacial
+- Análisis de supuestos
+- Proyecto final de geometría aplicada

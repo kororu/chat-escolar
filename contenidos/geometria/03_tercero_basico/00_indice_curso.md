@@ -1,0 +1,23 @@
+# Índice de Geometría — 3° básico
+
+> **Referencia curricular:** colección organizada el 2026-07-15. Sigue la progresión desde figuras 2D y 3D en 1° básico hasta transformaciones, relaciones métricas, geometría analítica y aplicaciones en enseñanza media. Los contenidos de cónicas, geometría espacial avanzada y geometrías no euclidianas se marcan como ampliación.
+- [Punto recta y segmento inicial](001_punto_recta_y_segmento_inicial.md)
+- [Paralelas y perpendiculares iniciales](002_paralelas_y_perpendiculares_iniciales.md)
+- [Ángulos como giros](003_angulos_como_giros.md)
+- [Figuras 2D](004_figuras_2d.md)
+- [Clasificación de triángulos inicial](005_clasificacion_de_triangulos_inicial.md)
+- [Cuadriláteros](006_cuadrilateros.md)
+- [Polígonos](007_poligonos.md)
+- [Perímetro](008_perimetro.md)
+- [Redes de cuerpos 3D](009_redes_de_cuerpos_3d.md)
+- [Construir cuerpos desde redes](010_construir_cuerpos_desde_redes.md)
+- [Caras aristas y vértices](011_caras_aristas_y_vertices.md)
+- [Traslación](012_traslacion.md)
+- [Reflexión](013_reflexion.md)
+- [Rotación](014_rotacion.md)
+- [Reconocer transformaciones](015_reconocer_transformaciones.md)
+- [Simetría axial](016_simetria_axial.md)
+- [Coordenadas en cuadrícula](017_coordenadas_en_cuadricula.md)
+- [Composición y descomposición](018_composicion_y_descomposicion.md)
+- [Teselados iniciales](019_teselados_iniciales.md)
+- [Problemas de perímetro](020_problemas_de_perimetro.md)
