@@ -200,6 +200,7 @@ SEARCH_EQUIVALENCES = {
     "alimentacion": ("alimentos", "nutrientes", "habitos saludables"),
     "saludable": ("nutrientes", "habitos saludables"),
     "respiratorio": ("respiracion", "pulmones", "oxigeno"),
+    "ciclo": ("evaporacion", "condensacion", "precipitacion"),
 }
 
 # El contenido curricular cambia poco durante una sesión. Mantenerlo en memoria
@@ -245,6 +246,23 @@ ENCYCLOPEDIA_FOLDERS = {
     "Enciclopedia_Educacion_Ciudadana_Formacion_Civica_Derecho_1B_a_4M_Chat_Escolar": ("Historia", "Formación Cívica y Derecho básico"),
 }
 
+MATH_CATEGORY_KEYWORDS = (
+    (("estadistica", "probabilidad", "promedio", "mediana", "moda", "frecuencia", "datos", "grafico"), "Estadística y probabilidad"),
+    (("geometria", "triangulo", "rectangulo", "circulo", "angulo", "perimetro", "area", "volumen", "figura"), "Geometría"),
+    (("algebra", "ecuacion", "inecuacion", "variable", "incognita", "expresion", "patron", "funcion"), "Álgebra"),
+    (("aritmetica", "fraccion", "decimal", "suma", "resta", "multiplicacion", "division", "porcentaje", "numero"), "Aritmética"),
+    (("medicion", "medida", "longitud", "masa", "tiempo", "capacidad"), "Medición"),
+)
+
+
+def _infer_math_category(*values: str) -> str:
+    """Provide a stable display category when a Math document omits one."""
+    searchable = normalize_text(" ".join(str(value or "") for value in values))
+    for keywords, category in MATH_CATEGORY_KEYWORDS:
+        if any(keyword in searchable for keyword in keywords):
+            return category
+    return "Matemática general"
+
 
 def _encyclopedia_info(relative_path: Path) -> tuple[str, str] | None:
     if not relative_path.parts:
@@ -289,7 +307,7 @@ def _infer_library_subject(relative_path: Path, metadata: dict) -> str:
     if declared:
         if any(term in declared for term in ("historia", "geografia", "ciudadana")):
             return "Historia"
-        if any(term in declared for term in ("matematica", "algebra", "geometria")):
+        if any(term in declared for term in ("matematica", "aritmetica", "algebra", "geometria", "estadistica", "probabilidad", "medicion", "funciones")):
             return "Matemática"
         if any(term in declared for term in ("lenguaje", "literatura", "comunicacion")):
             return "Lenguaje"
@@ -304,7 +322,7 @@ def _infer_library_subject(relative_path: Path, metadata: dict) -> str:
     path = normalize_text(" ".join(relative_path.parts))
     if any(term in f"{area} {path}" for term in ("historia", "geografia", "ciudadana", "conflictos")):
         return "Historia"
-    if any(term in f"{area} {path}" for term in ("matematica", "aritmetica", "algebra", "geometria")):
+    if any(term in f"{area} {path}" for term in ("matematica", "aritmetica", "algebra", "geometria", "estadistica", "probabilidad", "medicion", "funciones")):
         return "Matemática"
     if any(term in f"{area} {path}" for term in ("lenguaje", "literatura", "comunicacion")):
         return "Lenguaje"
@@ -800,6 +818,16 @@ def _build_library_index() -> tuple[dict, ...]:
         headings = [heading for heading in extract_headings(content) if not _is_related_section(heading)]
         course = _infer_library_course(relative_path, metadata)
         subject = _infer_library_subject(relative_path, metadata)
+        if subject == "Ciencias Naturales" and any(
+            term in normalize_text(f"{metadata.get('area', '')} {metadata.get('category', '')} {relative_path}")
+            for term in ("ciencias de la tierra", "ecologia", "medioambiente", "hidrolog")
+        ):
+            metadata["display_category"] = "Ciencias de la Tierra"
+        if subject == "Matemática":
+            metadata["category"] = _infer_math_category(
+                metadata.get("area", ""), metadata.get("category", ""),
+                relative_path.as_posix(), title,
+            )
         documents.append({
             "file_path": file_path,
             "relative_path": relative_path.as_posix(),
@@ -930,6 +958,26 @@ def _rank_candidates(candidates: list[dict], preferred_course_folder: str | None
     )
 
 
+def _library_subject_matches(document_subject: str, selected_subject: str) -> bool:
+    """Compare display subjects with legacy folder identifiers safely."""
+    document = normalize_text(document_subject)
+    selected = normalize_text(selected_subject)
+    canonical = next(
+        (
+            subject for token, subject in (
+                ("matematica", "matematica"),
+                ("ciencias", "ciencias naturales"),
+                ("historia", "historia"),
+                ("lenguaje", "lenguaje"),
+                ("tecnologia", "tecnologia"),
+            )
+            if token in selected
+        ),
+        selected,
+    )
+    return document == canonical
+
+
 def _collect_library_candidates(keywords: list[str], selected_subject: str, profile_course: str) -> list[dict]:
     """Search every installed collection; profile course only affects ranking, never scope."""
     candidates = []
@@ -944,6 +992,7 @@ def _collect_library_candidates(keywords: list[str], selected_subject: str, prof
             continue
         search_keywords.append(keyword[:-1] if keyword.endswith("s") else f"{keyword}s")
     search_keywords = list(dict.fromkeys(search_keywords))
+    is_water_cycle_query = {"ciclo", "agua"}.issubset(set(search_keywords))
     matching_documents = {
         id(document): document
         for keyword in search_keywords
@@ -952,10 +1001,21 @@ def _collect_library_candidates(keywords: list[str], selected_subject: str, prof
     # Sin una señal editorial no se recorre el cuerpo completo de la biblioteca.
     # Esto evita que una pregunta sin fuente tarde lo mismo que una coincidencia real.
     for document in matching_documents.values():
+        if not _library_subject_matches(document["subject"], selected_subject_normalized):
+            continue
         scored = _score_document(document, search_keywords)
         if scored["score"] <= 0:
             continue
         score = scored["score"]
+        if is_water_cycle_query:
+            exact_topic_fields = " ".join(
+                document["fields"][field]
+                for field in ("filename", "title", "topic", "headings", "explicit_keywords")
+            )
+            if "ciclo del agua" in exact_topic_fields:
+                score += 100
+            elif any(term in exact_topic_fields for term in ("reuso de aguas", "contaminacion del agua", "cuidado del agua")):
+                score -= 40
         if document.get("collection_category") == "Astronomía y espacio" and any(
             phrase in " ".join(search_keywords) for phrase in ASTRONOMY_PRIORITY_PHRASES
         ):
@@ -978,6 +1038,7 @@ def _collect_library_candidates(keywords: list[str], selected_subject: str, prof
             "metadata": {
                 "title": document["title"], "area": metadata.get("area", ""),
                 "category": metadata.get("category", ""), "course_origin": document["course"],
+                "display_category": metadata.get("display_category", ""),
                 "origin_level": metadata.get("origin_level", ""), "suitable_from": metadata.get("suitable_from", ""),
                 "keywords": metadata.get("keywords", []), "related_subjects": metadata.get("related_subjects", []),
                 "content_type": metadata.get("content_type", ""),

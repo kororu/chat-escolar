@@ -319,6 +319,37 @@ class ContentRelevanceTests(unittest.TestCase):
         self.assertEqual(result["source_course"], "8° básico")
         self.assertIn("ecuaciones lineales", normalize_text(result["results"][0]["title"]))
 
+    def test_math_topics_keep_their_subject_and_display_category(self):
+        cases = {
+            "explicame las fracciones": "Aritmética",
+            "que es una ecuacion": "Álgebra",
+            "que es el area": "Geometría",
+            "que es el promedio": "Estadística y probabilidad",
+            "que es la probabilidad": "Estadística y probabilidad",
+        }
+        for question, category in cases.items():
+            with self.subTest(question=question):
+                result = retrieve_local_content(
+                    "5° básico", "Matemática", question,
+                    mode="Estudiar para el colegio",
+                )
+                self.assertEqual(result["provenance_status"], "local_verified")
+                self.assertEqual(result["results"][0]["subject"], "Matemática")
+                self.assertEqual(result["results"][0]["metadata"]["category"], category)
+
+    def test_water_cycle_prioritizes_its_exact_local_topic(self):
+        result = retrieve_local_content(
+            "5° básico", "Ciencias Naturales", "explicame el ciclo del agua",
+            mode="Estudiar para el colegio",
+        )
+        self.assertEqual(result["provenance_status"], "local_verified")
+        self.assertIn("ciclo del agua", normalize_text(result["results"][0]["title"]))
+        self.assertNotIn("reuso", normalize_text(result["results"][0]["title"]))
+        self.assertEqual(
+            result["results"][0]["metadata"].get("display_category"),
+            "Ciencias de la Tierra",
+        )
+
     def test_explorer_without_collection_does_not_search_curriculum(self):
         result = retrieve_local_content(
             "5° básico",

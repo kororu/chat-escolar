@@ -38,6 +38,7 @@ except ImportError:
 try:
     from .demo_tutor import (
         build_grounded_history_answer,
+        build_grounded_math_answer,
         build_grounded_science_answer,
         build_contextual_followup,
         build_local_content_fallback,
@@ -47,6 +48,7 @@ try:
 except ImportError:
     from demo_tutor import (
         build_grounded_history_answer,
+        build_grounded_math_answer,
         build_grounded_science_answer,
         build_contextual_followup,
         build_local_content_fallback,
@@ -553,6 +555,14 @@ def should_use_grounded_history_answer(
     )
 
 
+def should_use_grounded_math_answer(
+    *, grounding_required: bool, has_verified_source: bool, subject_used: str | None,
+    local_content: dict | None,
+) -> bool:
+    subject = normalize_text(subject_used or (local_content or {}).get("subject", ""))
+    return grounding_required and has_verified_source and "matematica" in subject
+
+
 def should_use_grounded_science_answer(
     *, grounding_required: bool, has_verified_source: bool, subject_used: str | None,
     local_content: dict | None,
@@ -931,7 +941,11 @@ def chat_quick_action(payload: QuickActionRequest):
     return {
         **response,
         "subject_used": subject or "General",
-        "category": source.get("metadata", {}).get("category") or "Sin categoría",
+        "category": (
+            source.get("metadata", {}).get("display_category")
+            or source.get("metadata", {}).get("category")
+            or "Sin categoría"
+        ),
         "source_title": source.get("title") or "Sin fuente local",
         "source_course": source.get("course") or "Sin curso específico declarado",
         "content_sources": [{"title": source.get("title") or "Fuente local", "path": source.get("path"), "course": source.get("course"), "subject": source.get("subject")} ] if source else [],
@@ -1296,6 +1310,12 @@ def chat_demo(payload: ChatDemoRequest):
         subject_used=subject_used,
         local_content=local_results[0] if local_results else None,
     )
+    grounded_math_policy = should_use_grounded_math_answer(
+        grounding_required=grounding_required,
+        has_verified_source=has_verified_source,
+        subject_used=subject_used,
+        local_content=local_results[0] if local_results else None,
+    )
     grounded_science_policy = should_use_grounded_science_answer(
         grounding_required=grounding_required,
         has_verified_source=has_verified_source,
@@ -1375,6 +1395,12 @@ def chat_demo(payload: ChatDemoRequest):
         provider = PROVIDER_LOCAL_SAFE
         ollama_result_status = "grounded_local_policy"
         local_fallback_reason = "grounded_history_policy"
+    elif grounded_math_policy:
+        demo_answer = build_grounded_math_answer(payload, local_results[0])
+        response_provenance = LOCAL_VERIFIED
+        provider = PROVIDER_LOCAL_SAFE
+        ollama_result_status = "grounded_local_policy"
+        local_fallback_reason = "grounded_math_policy"
     elif grounded_science_policy:
         demo_answer = build_grounded_science_answer(payload, local_results[0])
         response_provenance = LOCAL_VERIFIED
@@ -1511,6 +1537,12 @@ def chat_demo(payload: ChatDemoRequest):
         "subject_used": subject_used,
         "subject_confidence": subject_confidence,
         "subject_fallback_used": subject_fallback_used,
+        "category": (
+            local_results[0].get("metadata", {}).get("display_category")
+            or local_results[0].get("metadata", {}).get("category")
+            if local_results else "Sin categoría"
+        ) or "Sin categoría",
+        "source_title": local_results[0]["title"] if local_results else None,
         "ai_mode_used": ai_mode,
         "ollama_attempted": ollama_attempted,
         "used_ollama": ollama_attempted,
