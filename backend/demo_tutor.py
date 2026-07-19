@@ -3,6 +3,7 @@ import re
 try:
     from .content_reader import CONTENT_ROOT, normalize_question, strip_front_matter
     from .educational_level import get_educational_level
+    from .pedagogical_normalizer import is_generic_practice_question, is_internal_instruction
     from .response_states import (
         CLARIFICATION_REQUIRED,
         LOCAL_LOW_CONFIDENCE,
@@ -14,6 +15,7 @@ try:
 except ImportError:
     from content_reader import CONTENT_ROOT, normalize_question, strip_front_matter
     from educational_level import get_educational_level
+    from pedagogical_normalizer import is_generic_practice_question, is_internal_instruction
     from response_states import (
         CLARIFICATION_REQUIRED,
         LOCAL_LOW_CONFIDENCE,
@@ -41,6 +43,9 @@ INTERNAL_TEMPLATE_PHRASES = (
     "explicar el procedimiento o evidencia",
     "comprobar la respuesta",
     "que idea matematica explica",
+    "que evidencia deberias observar",
+    "identifica quien realiza la accion y como se describe",
+    "que idea explica",
     "instrucciones internas del generador",
 )
 
@@ -53,7 +58,11 @@ def _clean_local_text(value: str, limit: int = 620) -> str:
             continue
         line = line.lstrip("- ").strip()
         line = line.replace("**", "").replace("`", "")
-        if any(phrase in normalize_text(line) for phrase in INTERNAL_TEMPLATE_PHRASES):
+        if (
+            any(phrase in normalize_text(line) for phrase in INTERNAL_TEMPLATE_PHRASES)
+            or is_internal_instruction(line)
+            or is_generic_practice_question(line)
+        ):
             continue
         if line:
             lines.append(line)
@@ -323,6 +332,34 @@ def build_grounded_math_answer(payload, local_content: dict) -> dict[str, str]:
     return build_local_content_fallback(payload, local_content)
 
 
+def build_grounded_language_answer(payload, local_content: dict) -> dict[str, str]:
+    """Provides direct primary-school definitions for verified Language sources."""
+    question = normalize_text(getattr(payload, "question", ""))
+    templates = (
+        (("sustantivo", "sustantivos"), "Un sustantivo es una palabra que nombra personas, animales, lugares, objetos, ideas o sentimientos.", "En la oración “El perro corre en el parque”, “perro” y “parque” son sustantivos porque nombran un animal y un lugar.", "Los sustantivos sirven para nombrar seres, cosas, lugares o ideas.", "¿Qué sustantivos encuentras en la oración “La niña lee un libro”?"),
+        (("verbo", "verbos"), "Un verbo es una palabra que indica una acción, un estado o un proceso.", "En la oración “Camila canta”, “canta” es un verbo porque muestra una acción.", "Los verbos indican lo que alguien hace, lo que ocurre o cómo está algo.", "¿Cuál es el verbo en la oración “Tomás juega fútbol”?"),
+        (("adjetivo", "adjetivos"), "Un adjetivo es una palabra que describe o entrega una característica de un sustantivo.", "En la expresión “La casa grande”, “grande” es un adjetivo porque describe cómo es la casa.", "Los adjetivos ayudan a decir cómo es una persona, animal, cosa o lugar.", "¿Cuál es el adjetivo en la oración “El gato negro duerme”?"),
+        (("idea principal",), "La idea principal es lo más importante que comunica un texto.", "Si un texto habla de que las abejas producen miel y ayudan a las plantas, la idea principal puede ser: “Las abejas son importantes para la naturaleza”.", "La idea principal dice de qué trata principalmente un texto.", "¿Qué pregunta puedes hacerte para descubrir la idea principal de un texto?"),
+        (("resumen", "resumenes"), "Un resumen cuenta las ideas más importantes de un texto usando menos palabras.", "Si un cuento trata de un niño que pierde a su perro y luego lo encuentra, el resumen cuenta ese problema y su solución, sin todos los detalles pequeños.", "Un resumen conserva lo más importante y elimina detalles secundarios.", "En un resumen, ¿debes incluir todos los detalles o solo las ideas más importantes?"),
+        (("leyenda", "leyendas"), "Una leyenda es un relato tradicional que mezcla elementos reales, como lugares o costumbres, con elementos imaginarios o maravillosos.", "Una leyenda puede explicar el origen de un lago, un cerro, un animal o una tradición de un pueblo.", "Las leyendas son relatos que se transmiten en una comunidad y mezclan realidad con imaginación.", "¿Qué elemento imaginario podría aparecer en una leyenda?"),
+        (("metafora", "metaforas"), "Una metáfora es una forma de decir algo usando otra imagen o idea, sin usar la palabra “como”.", "“Tus ojos son estrellas” no significa que los ojos sean estrellas reales, sino que brillan mucho.", "Una metáfora usa una imagen para expresar una idea de forma más creativa.", "¿Qué crees que significa la frase “su voz era música”?"),
+    )
+    for terms, explanation, example, summary, practice in templates:
+        if any(term in question for term in terms):
+            source_note = ""
+            if local_content.get("course") and local_content["course"] != payload.course:
+                source_note = f"Encontrado en otro curso: {local_content['course']}. Adaptado para {payload.course}.\n\n"
+            answer = (
+                f"{_student_introduction(payload)}\n\n{source_note}"
+                f"Explicación corta:\n{explanation}\n\n"
+                f"Ejemplo:\n{example}\n\n"
+                f"Mini resumen:\n{summary}\n\n"
+                f"Pregunta de práctica:\n{practice}"
+            )
+            return {"answer": answer, "summary": summary, "status": "ok"}
+    return build_local_content_fallback(payload, local_content)
+
+
 def build_grounded_history_answer(payload, local_content: dict) -> dict[str, str]:
     """Construye una respuesta histórica solo desde las secciones locales verificadas."""
     return build_local_content_fallback(payload, local_content)
@@ -379,6 +416,24 @@ def build_contextual_followup(payload, action: str, local_content: dict | None) 
         }
         heading, text = followups.get(action, followups["explain_again"])
         return {"answer": f"{_student_introduction(payload)}\n\n{heading}\n{text}", "summary": text, "status": "ok"}
+    language_followups = {
+        "sustantivo": {
+            "give_example": ("Ejemplo:", "En “La niña tiene una mochila”, “niña” y “mochila” son sustantivos."),
+            "ask_question": ("Pregunta de práctica:", "¿Qué sustantivos encuentras en “El perro mira la luna”?"),
+        },
+        "verbo": {
+            "give_example": ("Ejemplo:", "En “El niño salta”, “salta” es un verbo."),
+            "ask_question": ("Pregunta de práctica:", "¿Cuál es el verbo en “La profesora explica la clase”?"),
+        },
+        "metafora": {
+            "give_example": ("Ejemplo:", "“El tiempo es oro” es una metáfora: significa que el tiempo es valioso."),
+            "ask_question": ("Pregunta de práctica:", "¿Qué crees que significa “mi hermano es un sol”?"),
+        },
+    }
+    for concept, followups in language_followups.items():
+        if concept in topic:
+            heading, text = followups.get(action, followups.get("give_example"))
+            return {"answer": f"{_student_introduction(payload)}\n\n{heading}\n{text}", "summary": text, "status": "ok"}
     if "volumen" in topic:
         followups = {
             "simplify": ("Más fácil:", "El volumen dice cuánto espacio ocupa una figura de tres dimensiones, como una caja."),

@@ -997,7 +997,7 @@ function App() {
     try {
       const response = await fetch(`${API_BASE_URL}/chat/quick-action`, {
         method: 'POST', headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ action, course, subject, mode, last_user_question: lastQuestion?.text, profile_id: activeProfile.id, user_name: activeProfile.name, user_role: activeProfile.role }),
+        body: JSON.stringify({ action, course, subject, mode, last_user_question: lastQuestion?.text, profile_id: activeProfile.id, user_name: activeProfile.name, user_role: activeProfile.role, conversation_id: conversationId }),
       })
       if (!response.ok) throw new Error('Quick action request failed')
       const data = await response.json()

@@ -38,6 +38,7 @@ except ImportError:
 try:
     from .demo_tutor import (
         build_grounded_history_answer,
+        build_grounded_language_answer,
         build_grounded_math_answer,
         build_grounded_science_answer,
         build_contextual_followup,
@@ -48,6 +49,7 @@ try:
 except ImportError:
     from demo_tutor import (
         build_grounded_history_answer,
+        build_grounded_language_answer,
         build_grounded_math_answer,
         build_grounded_science_answer,
         build_contextual_followup,
@@ -209,6 +211,7 @@ class QuickActionRequest(BaseModel):
     profile_id: int | None = None
     user_name: str | None = None
     user_role: str | None = None
+    conversation_id: str | None = Field(default=None, max_length=120)
 
 
 class SettingsUpdate(BaseModel):
@@ -561,6 +564,14 @@ def should_use_grounded_math_answer(
 ) -> bool:
     subject = normalize_text(subject_used or (local_content or {}).get("subject", ""))
     return grounding_required and has_verified_source and "matematica" in subject
+
+
+def should_use_grounded_language_answer(
+    *, grounding_required: bool, has_verified_source: bool, subject_used: str | None,
+    local_content: dict | None,
+) -> bool:
+    subject = normalize_text(subject_used or (local_content or {}).get("subject", ""))
+    return grounding_required and has_verified_source and "lenguaje" in subject
 
 
 def should_use_grounded_science_answer(
@@ -921,6 +932,14 @@ def chat_quick_action(payload: QuickActionRequest):
     if payload.profile_id is not None:
         profile = get_profile_or_404(payload.profile_id)
         payload.user_name, payload.user_role = profile["name"], profile["role"]
+        if not payload.conversation_id:
+            payload.conversation_id = f"profile-{payload.profile_id}-default"
+    if not question:
+        recent_items = get_recent_conversation_items(payload.profile_id, payload.conversation_id)
+        if recent_items:
+            question = (recent_items[0].get("question") or recent_items[0].get("contextual_question") or "").strip()
+    if question:
+        payload.last_user_question = question
     if not question:
         response = build_contextual_followup(payload, "explain_again", None)
         return {
@@ -1316,6 +1335,12 @@ def chat_demo(payload: ChatDemoRequest):
         subject_used=subject_used,
         local_content=local_results[0] if local_results else None,
     )
+    grounded_language_policy = should_use_grounded_language_answer(
+        grounding_required=grounding_required,
+        has_verified_source=has_verified_source,
+        subject_used=subject_used,
+        local_content=local_results[0] if local_results else None,
+    )
     grounded_science_policy = should_use_grounded_science_answer(
         grounding_required=grounding_required,
         has_verified_source=has_verified_source,
@@ -1401,6 +1426,12 @@ def chat_demo(payload: ChatDemoRequest):
         provider = PROVIDER_LOCAL_SAFE
         ollama_result_status = "grounded_local_policy"
         local_fallback_reason = "grounded_math_policy"
+    elif grounded_language_policy:
+        demo_answer = build_grounded_language_answer(payload, local_results[0])
+        response_provenance = LOCAL_VERIFIED
+        provider = PROVIDER_LOCAL_SAFE
+        ollama_result_status = "grounded_local_policy"
+        local_fallback_reason = "grounded_language_policy"
     elif grounded_science_policy:
         demo_answer = build_grounded_science_answer(payload, local_results[0])
         response_provenance = LOCAL_VERIFIED

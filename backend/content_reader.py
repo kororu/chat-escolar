@@ -72,6 +72,11 @@ EDUCATIONAL_CONCEPTS = {
         "subject": "ciencias_naturales",
         "external": False,
     },
+    "metafora": {
+        "aliases": {"metafora", "metaforas", "lenguaje figurado"},
+        "subject": "lenguaje",
+        "external": False,
+    },
     "sistema respiratorio": {
         "aliases": {"sistema respiratorio", "respiratorio"},
         "subject": "ciencias_naturales",
@@ -140,7 +145,14 @@ SUBJECT_KEYWORDS = {
     "Matemática": ("suma", "resta", "multiplicacion", "division", "fraccion", "fracciones", "decimal", "porcentaje", "numero", "numeros", "multiplo", "divisor", "potencia", "raiz", "ecuacion", "inecuacion", "variable", "incognita", "expresion algebraica", "patron", "funcion", "geometria", "figura", "triangulo", "cuadrado", "rectangulo", "circulo", "circunferencia", "angulo", "area", "perimetro", "volumen", "cuerpo geometrico", "plano cartesiano", "promedio", "media", "mediana", "moda", "grafico", "tabla", "datos", "probabilidad", "azar", "posibilidad", "frecuencia", "medida", "medicion"),
     "Ciencias Naturales": ("fotosintesis", "planta", "celula", "cuerpo humano", "sistema respiratorio", "sistema digestivo", "sistema circulatorio", "ecosistema", "habitat", "animales", "energia", "fuerza", "materia", "agua", "planeta", "planetas", "sistema solar", "universo", "cosmos", "agujero negro", "agujeros negros", "galaxia", "galaxias", "estrella", "estrellas", "luna", "sol", "eclipse", "orbit", "satelite", "asteroide", "cometa", "meteorito", "nebulosa", "via lactea", "gravedad", "espacio", "astronomia", "volcan", "terremoto", "alimentacion", "nutrientes", "saludable"),
     "Historia": ("historia", "pasado", "chile", "independencia", "colonia", "pueblos originarios", "mapuche", "incas", "mayas", "aztecas", "guerra", "segunda guerra mundial", "arturo prat", "bernardo ohiggins", "civilizacion", "democracia", "derechos", "constitucion", "region", "geografia", "mapa", "territorio"),
-    "Lenguaje": ("sustantivo", "verbo", "adjetivo", "oracion", "texto", "cuento", "poema", "fabula", "leyenda", "mito", "resumen", "comprension lectora", "lectura", "escritura", "sinonimo", "antonimo", "narrador", "personaje", "parrafo", "acento", "tilde", "puntuacion"),
+    "Lenguaje": ("metafora", "lenguaje figurado", "sustantivo", "verbo", "adjetivo", "oracion", "texto", "cuento", "poema", "fabula", "leyenda", "mito", "resumen", "idea principal", "sujeto", "predicado", "comprension lectora", "lectura", "escritura", "sinonimo", "antonimo", "narrador", "personaje", "parrafo", "acento", "tilde", "puntuacion"),
+}
+
+CONCEPT_SUBJECT_LABELS = {
+    "ciencias_naturales": "Ciencias Naturales",
+    "matematica": "Matemática",
+    "lenguaje": "Lenguaje",
+    "historia": "Historia",
 }
 
 # Frases históricas específicas: se revisan antes de los términos generales para
@@ -457,7 +469,11 @@ def normalize_question(question: str) -> dict:
 
 def detect_subject_from_question(question: str) -> tuple[str | None, float]:
     """Return a conservative local subject guess and its keyword confidence."""
-    normalized = normalize_question(question)["normalized_text"]
+    analysis = normalize_question(question)
+    normalized = analysis["normalized_text"]
+    concept_subject = CONCEPT_SUBJECT_LABELS.get(analysis.get("possible_subject", ""))
+    if concept_subject:
+        return concept_subject, 1.0
     if any(phrase in normalized for phrase in HISTORY_PRIORITY_PHRASES):
         return "Historia", 1.0
     if any(phrase in normalized for phrase in ASTRONOMY_PRIORITY_PHRASES):
@@ -993,6 +1009,7 @@ def _collect_library_candidates(keywords: list[str], selected_subject: str, prof
         search_keywords.append(keyword[:-1] if keyword.endswith("s") else f"{keyword}s")
     search_keywords = list(dict.fromkeys(search_keywords))
     is_water_cycle_query = {"ciclo", "agua"}.issubset(set(search_keywords))
+    is_metaphor_query = "metafora" in search_keywords
     matching_documents = {
         id(document): document
         for keyword in search_keywords
@@ -1016,6 +1033,16 @@ def _collect_library_candidates(keywords: list[str], selected_subject: str, prof
                 score += 100
             elif any(term in exact_topic_fields for term in ("reuso de aguas", "contaminacion del agua", "cuidado del agua")):
                 score -= 40
+        if is_metaphor_query:
+            exact_topic_fields = " ".join(
+                document["fields"][field]
+                for field in ("filename", "title", "topic", "headings", "explicit_keywords")
+            )
+            if "lenguaje figurado" in exact_topic_fields or "metafora" in exact_topic_fields:
+                # Las palabras de intención ("ejemplo", "pregunta") aparecen
+                # en muchas guías. El concepto explícito debe conservar la fuente
+                # de Lenguaje figurado por encima de esas coincidencias genéricas.
+                score += 250
         if document.get("collection_category") == "Astronomía y espacio" and any(
             phrase in " ".join(search_keywords) for phrase in ASTRONOMY_PRIORITY_PHRASES
         ):
@@ -1029,7 +1056,9 @@ def _collect_library_candidates(keywords: list[str], selected_subject: str, prof
         metadata = document["metadata"]
         candidates.append({
             "title": scored["title"], "path": document["relative_path"], "score": score,
-            "excerpt": make_excerpt(scored["content"], search_keywords),
+            # Creating excerpts normalizes and splits a full document. Defer it
+            # until a candidate has actually won the ranking.
+            "excerpt": "",
             "coherent": bool(scored["high_signal_matches"]),
             "matched_terms": sorted(scored["matched_terms"]), "is_exact_match": scored["is_exact_match"],
             "related_section": scored["related_section"], "course": document["course"],
@@ -1081,8 +1110,13 @@ def _format_retrieval_result(
         seen_titles.add(normalized_title)
         verified.append({
             key: candidate[key]
-            for key in ("title", "path", "score", "excerpt", "course", "subject", "matched_terms", "is_exact_match")
+            for key in ("title", "path", "score", "course", "subject", "matched_terms", "is_exact_match")
         })
+        document = candidate.get("_document")
+        verified[-1]["excerpt"] = (
+            make_excerpt(document["content"], base_result["query_analysis"]["keywords"])
+            if document else candidate.get("excerpt", "")
+        )
         if candidate.get("metadata"):
             verified[-1]["metadata"] = candidate["metadata"]
         if len(verified) >= max(1, min(limit, MAX_RESULTS)):
